@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "wscffaa"
+user_name: "chaowang11"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -12,25 +12,19 @@ publish_gitpage: False
 publish_wechat: False
 
 keywords:
-    "Diffusion-Models":
-        filters: ["Diffusion Models"]
     "Super-Resolution":
         filters: ["SR", "Super-Resolution", "Super Resolution"]
     "Image-Super-Resolution":
         filters: ["SISR", "Image Super Resolution"]
     "Video-Super-Resolution":
         filters: ["VSR", "Video Super Resolution"]
-    "Image-Colorization":
-        filters: ["Image-Colorization", "Image Colorization"]
-    "Video-Colorization":
-        filters: ["Video-Colorization","Video Colorization"]
-    "Image Restoration":
-        filters: ["Image Restoration"]
-    "Image Reconstruction":
-        filters: ["Image Reconstruction"]
-    "Image Denoising":
-        filters: ["Image Denoising"]
+    "Text Erasing":
+        filters: ["Text Erasing"]
+    "Video Decaptioning":
+        filters: ["Video Decaptioning","Video Colorization"]
+    "Transformer":
+        filters: ["Transformer"]
     "Image Inpainting":
         filters: ["Image Inpainting"]
-    "Style Transfer":
-        filters: ["Style Transfer"]
+    "Video Inpainting":
+        filters: ["Video Inpainting"]
