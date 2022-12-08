@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-07**|**Spatio-Temporal Super-Resolution Data Assimilation (SRDA) Utilizing Deep Neural Networks with Domain Generalization Technique Toward Four-Dimensional SRDA**|Yuki Yasuda et.al.|[2212.03656v1](http://arxiv.org/abs/2212.03656v1)|null|
+|**2022-12-07**|**Learning Continuous Depth Representation via Geometric Spatial Aggregator**|Xiaohang Wang et.al.|[2212.03499v1](http://arxiv.org/abs/2212.03499v1)|**[link](https://github.com/nana01219/geodsr)**|
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
 |**2022-12-06**|**Super-resolution Probabilistic Rain Prediction from Satellite Data Using 3D U-Nets and EarthFormers**|Yang Li et.al.|[2212.02998v1](http://arxiv.org/abs/2212.02998v1)|**[link](https://github.com/bugsuse/weather4cast-2022-stage2)**|
 |**2022-12-05**|**AtomVision: A machine vision library for atomistic images**|Kamal Choudhary et.al.|[2212.02586v1](http://arxiv.org/abs/2212.02586v1)|null|
@@ -245,6 +247,35 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-07**|**Teaching Matters: Investigating the Role of Supervision in Vision Transformers**|Matthew Walmer et.al.|[2212.03862v1](http://arxiv.org/abs/2212.03862v1)|**[link](https://github.com/mwalmer-umd/vit_analysis)**|
+|**2022-12-07**|**Generalized Lorenz dominance orders**|Leo Egghe et.al.|[2212.03811v1](http://arxiv.org/abs/2212.03811v1)|null|
+|**2022-12-07**|**The Social Emotional Web**|Kristina Lerman et.al.|[2212.03810v1](http://arxiv.org/abs/2212.03810v1)|null|
+|**2022-12-07**|**A Frequency-Structure Approach for Link Stream Analysis**|Esteban Bautista et.al.|[2212.03804v1](http://arxiv.org/abs/2212.03804v1)|null|
+|**2022-12-07**|**GAMMA: Generative Augmentation for Attentive Marine Debris Detection**|Vaishnavi Khindkar et.al.|[2212.03759v1](http://arxiv.org/abs/2212.03759v1)|null|
+|**2022-12-07**|**Non-local contribution from small scales in galaxy-galaxy lensing: Comparison of mitigation schemes**|J. Prat et.al.|[2212.03734v1](http://arxiv.org/abs/2212.03734v1)|null|
+|**2022-12-07**|**Learning-To-Embed: Adopting Transformer based models for E-commerce Products Representation Learning**|Lakshya Kumar et.al.|[2212.03725v1](http://arxiv.org/abs/2212.03725v1)|null|
+|**2022-12-07**|**Quantum particles in non-commutative space-time: an identity crisis**|Michele Arzano et.al.|[2212.03703v1](http://arxiv.org/abs/2212.03703v1)|null|
+|**2022-12-07**|**Gaussian Radar Transformer for Semantic Segmentation in Noisy Radar Data**|Matthias Zeller et.al.|[2212.03690v1](http://arxiv.org/abs/2212.03690v1)|null|
+|**2022-12-07**|**Face Forgery Detection Based on Facial Region Displacement Trajectory Series**|YuYang Sun et.al.|[2212.03678v1](http://arxiv.org/abs/2212.03678v1)|null|
+|**2022-12-07**|**Design and Control of the "TransBoat": A Transformable Unmanned Surface Vehicle for Overwater Construction**|Lianxin Zhang et.al.|[2212.03639v1](http://arxiv.org/abs/2212.03639v1)|null|
+|**2022-12-07**|**Image Compression With Learned Lifting-Based DWT and Learned Tree-Based Entropy Models**|Ugur Berk Sahin et.al.|[2212.03616v1](http://arxiv.org/abs/2212.03616v1)|null|
+|**2022-12-07**|**Artificial Intelligence in Governance, Risk and Compliance: Results of a study on potentials for the application of artificial intelligence (AI) in governance, risk and compliance (GRC)**|Eva Ponick et.al.|[2212.03601v1](http://arxiv.org/abs/2212.03601v1)|null|
+|**2022-12-07**|**Incompatibility of Standard Galaxy Bias Models in General Relativity**|Jaiyul Yoo et.al.|[2212.03573v1](http://arxiv.org/abs/2212.03573v1)|null|
+|**2022-12-07**|**Birational transformations on irreducible compact Hermitian symmetric spaces**|Cong Ding et.al.|[2212.03510v1](http://arxiv.org/abs/2212.03510v1)|null|
+|**2022-12-07**|**Learning Continuous Depth Representation via Geometric Spatial Aggregator**|Xiaohang Wang et.al.|[2212.03499v1](http://arxiv.org/abs/2212.03499v1)|**[link](https://github.com/nana01219/geodsr)**|
+|**2022-12-07**|**Fast and accurate solvers for time-space fractional diffusion problem with spectral fractional Laplacian**|Yi Yang et.al.|[2212.03493v1](http://arxiv.org/abs/2212.03493v1)|null|
+|**2022-12-07**|**Gaussian work extraction from random Gaussian states is nearly impossible**|Uttam Singh et.al.|[2212.03492v1](http://arxiv.org/abs/2212.03492v1)|null|
+|**2022-12-07**|**Bayesian multilevel multivariate logistic regression for superiority decision-making under observable treatment heterogeneity**|Xynthia Kavelaars et.al.|[2212.03473v1](http://arxiv.org/abs/2212.03473v1)|null|
+|**2022-12-07**|**PADDLES: Phase-Amplitude Spectrum Disentangled Early Stopping for Learning with Noisy Labels**|Huaxi Huang et.al.|[2212.03462v1](http://arxiv.org/abs/2212.03462v1)|null|
+|**2022-12-07**|**Nonrelativistic M5 branes**|Dibakar Roychowdhury et.al.|[2212.03458v1](http://arxiv.org/abs/2212.03458v1)|null|
+|**2022-12-07**|**Name Your Colour For the Task: Artificially Discover Colour Naming via Colour Quantisation Transformer**|Shenghan Su et.al.|[2212.03434v1](http://arxiv.org/abs/2212.03434v1)|null|
+|**2022-12-06**|**Contactless Oxygen Monitoring with Gated Transformer**|Hao He et.al.|[2212.03357v1](http://arxiv.org/abs/2212.03357v1)|null|
+|**2022-12-06**|**Quantum Worst-Case to Average-Case Reductions for All Linear Problems**|Vahid R. Asadi et.al.|[2212.03348v1](http://arxiv.org/abs/2212.03348v1)|null|
+|**2022-12-06**|**Semantically Enhanced Global Reasoning for Semantic Segmentation**|Mir Rayat Imtiaz Hossain et.al.|[2212.03338v1](http://arxiv.org/abs/2212.03338v1)|null|
+|**2022-12-06**|**Planar #CSP Equality Corresponds to Quantum Isomorphism -- A Holant Viewpoint**|Jin-Yi Cai et.al.|[2212.03335v1](http://arxiv.org/abs/2212.03335v1)|null|
+|**2022-12-06**|**Drift Identification for Lévy alpha-Stable Stochastic Systems**|Harish S. Bhat et.al.|[2212.03317v1](http://arxiv.org/abs/2212.03317v1)|null|
+|**2022-12-06**|**ERNet: Unsupervised Collective Extraction and Registration in Neuroimaging Data**|Yao Su et.al.|[2212.03306v1](http://arxiv.org/abs/2212.03306v1)|**[link](https://github.com/erneternet/ernet)**|
+|**2022-12-06**|**ABN: Anti-Blur Neural Networks for Multi-Stage Deformable Image Registration**|Yao Su et.al.|[2212.03277v1](http://arxiv.org/abs/2212.03277v1)|**[link](https://github.com/anonymous3214/abn)**|
 |**2022-12-06**|**PØDA: Prompt-driven Zero-shot Domain Adaptation**|Mohammad Fahes et.al.|[2212.03241v1](http://arxiv.org/abs/2212.03241v1)|**[link](https://github.com/astra-vision/poda)**|
 |**2022-12-06**|**Self-Supervised Correspondence Estimation via Multiview Registration**|Mohamed El Banani et.al.|[2212.03236v1](http://arxiv.org/abs/2212.03236v1)|null|
 |**2022-12-06**|**On the statistical relation between the halo mass function and the internal structure of dark matter haloes**|T. R. G. Richardson et.al.|[2212.03233v1](http://arxiv.org/abs/2212.03233v1)|null|
