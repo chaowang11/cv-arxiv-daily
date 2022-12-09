@@ -23,6 +23,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-08**|**Spatio-Temporal Super-Resolution of Dynamical Systems using Physics-Informed Deep-Learning**|Rajat Arora et.al.|[2212.04457v1](http://arxiv.org/abs/2212.04457v1)|null|
+|**2022-12-08**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v1](http://arxiv.org/abs/2212.04362v1)|null|
+|**2022-12-08**|**On the Robustness of Normalizing Flows for Inverse Problems in Imaging**|Seongmin Hong et.al.|[2212.04319v1](http://arxiv.org/abs/2212.04319v1)|null|
+|**2022-12-08**|**A Scale-Arbitrary Image Super-Resolution Network Using Frequency-domain Information**|Jing Fang et.al.|[2212.04314v1](http://arxiv.org/abs/2212.04314v1)|null|
+|**2022-12-07**|**RainUNet for Super-Resolution Rain Movie Prediction under Spatio-temporal Shifts**|Jinyoung Park et.al.|[2212.04005v1](http://arxiv.org/abs/2212.04005v1)|**[link](https://github.com/jinyxp/weather4cast-2022)**|
 |**2022-12-07**|**Spatio-Temporal Super-Resolution Data Assimilation (SRDA) Utilizing Deep Neural Networks with Domain Generalization Technique Toward Four-Dimensional SRDA**|Yuki Yasuda et.al.|[2212.03656v1](http://arxiv.org/abs/2212.03656v1)|null|
 |**2022-12-07**|**Learning Continuous Depth Representation via Geometric Spatial Aggregator**|Xiaohang Wang et.al.|[2212.03499v1](http://arxiv.org/abs/2212.03499v1)|**[link](https://github.com/nana01219/geodsr)**|
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
@@ -82,6 +87,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-08**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v1](http://arxiv.org/abs/2212.04362v1)|null|
+|**2022-12-08**|**A Scale-Arbitrary Image Super-Resolution Network Using Frequency-domain Information**|Jing Fang et.al.|[2212.04314v1](http://arxiv.org/abs/2212.04314v1)|null|
 |**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|null|
 |**2022-12-03**|**Learning Detail-Structure Alternative Optimization for Blind Super-Resolution**|Feng Li et.al.|[2212.01624v1](http://arxiv.org/abs/2212.01624v1)|**[link](https://github.com/arcananana/dssr)**|
 |**2022-12-02**|**Global Learnable Attention for Single Image Super-Resolution**|Jian-Nan Su et.al.|[2212.01057v1](http://arxiv.org/abs/2212.01057v1)|**[link](https://github.com/laoyangui/dlsn)**|
@@ -247,6 +254,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-08**|**Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning**|Rui Wang et.al.|[2212.04500v1](http://arxiv.org/abs/2212.04500v1)|null|
+|**2022-12-08**|**UNETR++: Delving into Efficient and Accurate 3D Medical Image Segmentation**|Abdelrahman Shaker et.al.|[2212.04497v1](http://arxiv.org/abs/2212.04497v1)|**[link](https://github.com/amshaker/unetr_plus_plus)**|
+|**2022-12-08**|**Few-View Object Reconstruction with Unknown Categories and Camera Poses**|Hanwen Jiang et.al.|[2212.04492v1](http://arxiv.org/abs/2212.04492v1)|null|
+|**2022-12-08**|**General-Purpose In-Context Learning by Meta-Learning Transformers**|Louis Kirsch et.al.|[2212.04458v1](http://arxiv.org/abs/2212.04458v1)|null|
+|**2022-12-08**|**Technical Report: Match-reference regular expressions and lenses**|Jeanne-Marie Musca et.al.|[2212.04439v1](http://arxiv.org/abs/2212.04439v1)|null|
+|**2022-12-08**|**MIME: Human-Aware 3D Scene Generation**|Hongwei Yi et.al.|[2212.04360v1](http://arxiv.org/abs/2212.04360v1)|null|
+|**2022-12-08**|**Improving block-based compensated wavelet lifting by reconstructing unconnected pixels**|Wolfgang Schnurrer et.al.|[2212.04330v1](http://arxiv.org/abs/2212.04330v1)|null|
+|**2022-12-08**|**3-D mesh compensated wavelet lifting for 3-D+t medical CT data**|Wolfgang Schnurrer et.al.|[2212.04324v1](http://arxiv.org/abs/2212.04324v1)|null|
+|**2022-12-08**|**Twin-field quantum key distribution without phase locking**|Wei Li et.al.|[2212.04311v1](http://arxiv.org/abs/2212.04311v1)|null|
+|**2022-12-08**|**On iterated function systems and algebraic properties of Lipschitz maps in partial metric spaces**|Praveen M et.al.|[2212.04278v1](http://arxiv.org/abs/2212.04278v1)|null|
+|**2022-12-08**|**Structured Vision-Language Pretraining for Computational Cooking**|Mustafa Shukor et.al.|[2212.04267v1](http://arxiv.org/abs/2212.04267v1)|null|
+|**2022-12-08**|**Momentum Calibration for Text Generation**|Xingxing Zhang et.al.|[2212.04257v1](http://arxiv.org/abs/2212.04257v1)|null|
+|**2022-12-07**|**ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**|Yufei Xu et.al.|[2212.04246v1](http://arxiv.org/abs/2212.04246v1)|null|
+|**2022-12-08**|**Harnessing the Power of Multi-Task Pretraining for Ground-Truth Level Natural Language Explanations**|Björn Plüster et.al.|[2212.04231v1](http://arxiv.org/abs/2212.04231v1)|null|
+|**2022-12-08**|**Gap Preserving Reductions between Reconfiguration Problems**|Naoto Ohsaka et.al.|[2212.04207v1](http://arxiv.org/abs/2212.04207v1)|null|
+|**2022-12-08**|**A Novel Efficient Signcryption Scheme for Resource-Constrained Smart Terminals in Cyber-Physical Power Systems**|Xue Li et.al.|[2212.04198v1](http://arxiv.org/abs/2212.04198v1)|null|
+|**2022-12-08**|**evosax: JAX-based Evolution Strategies**|Robert Tjarko Lange et.al.|[2212.04180v1](http://arxiv.org/abs/2212.04180v1)|**[link](https://github.com/adaptive-intelligent-robotics/qdax)**|
+|**2022-12-08**|**Closed loop BCI System for Cybathlon 2020**|Csaba Köllőd et.al.|[2212.04172v1](http://arxiv.org/abs/2212.04172v1)|null|
+|**2022-12-08**|**NRTR: Neuron Reconstruction with Transformer from 3D Optical Microscopy Images**|Yijun Wang et.al.|[2212.04163v1](http://arxiv.org/abs/2212.04163v1)|null|
+|**2022-12-08**|**Denoising Self-attentive Sequential Recommendation**|Huiyuan Chen et.al.|[2212.04120v1](http://arxiv.org/abs/2212.04120v1)|null|
+|**2022-12-08**|**Group Generalized Mean Pooling for Vision Transformer**|Byungsoo Ko et.al.|[2212.04114v1](http://arxiv.org/abs/2212.04114v1)|null|
+|**2022-12-08**|**Federated Learning for Inference at Anytime and Anywhere**|Zicheng Liu et.al.|[2212.04084v1](http://arxiv.org/abs/2212.04084v1)|null|
+|**2022-12-08**|**How Fast is Your Detector? The Effect of Temporal Response on Image Quality**|Tiarnan Mullarkey et.al.|[2212.04050v1](http://arxiv.org/abs/2212.04050v1)|null|
+|**2022-12-08**|**Occlusion-Robust FAU Recognition by Mining Latent Space of Masked Autoencoders**|Minyang Jiang et.al.|[2212.04029v1](http://arxiv.org/abs/2212.04029v1)|null|
+|**2022-12-07**|**TweetDrought: A Deep-Learning Drought Impacts Recognizer based on Twitter Data**|Beichen Zhang et.al.|[2212.04001v1](http://arxiv.org/abs/2212.04001v1)|null|
+|**2022-12-07**|**Multimodal Vision Transformers with Forced Attention for Behavior Analysis**|Tanay Agrawal et.al.|[2212.03968v1](http://arxiv.org/abs/2212.03968v1)|null|
+|**2022-12-07**|**FSID: Fully Synthetic Image Denoising via Procedural Scene Generation**|Gyeongmin Choe et.al.|[2212.03961v1](http://arxiv.org/abs/2212.03961v1)|null|
+|**2022-12-07**|**Spatial Deep Deconvolution U-Net for Traffic Analyses with DAS**|Siyuan Yuan et.al.|[2212.03936v1](http://arxiv.org/abs/2212.03936v1)|null|
+|**2022-12-07**|**COMPAQT: Compressed Waveform Memory Architecture for Scalable Qubit Control**|Satvik Maurya et.al.|[2212.03897v1](http://arxiv.org/abs/2212.03897v1)|null|
+|**2022-12-07**|**A Systematic Review of Digital Transformation Literature (2013-2021) and the development of an overarching apriori model to guide future research**|Mekhala Egodawele et.al.|[2212.03867v1](http://arxiv.org/abs/2212.03867v1)|null|
 |**2022-12-07**|**Teaching Matters: Investigating the Role of Supervision in Vision Transformers**|Matthew Walmer et.al.|[2212.03862v1](http://arxiv.org/abs/2212.03862v1)|**[link](https://github.com/mwalmer-umd/vit_analysis)**|
 |**2022-12-07**|**Generalized Lorenz dominance orders**|Leo Egghe et.al.|[2212.03811v1](http://arxiv.org/abs/2212.03811v1)|null|
 |**2022-12-07**|**The Social Emotional Web**|Kristina Lerman et.al.|[2212.03810v1](http://arxiv.org/abs/2212.03810v1)|null|
