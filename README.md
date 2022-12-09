@@ -280,7 +280,7 @@
 |**2022-12-06**|**Self-Supervised Correspondence Estimation via Multiview Registration**|Mohamed El Banani et.al.|[2212.03236v1](http://arxiv.org/abs/2212.03236v1)|**[link](https://github.com/facebookresearch/syncmatch)**|
 |**2022-12-06**|**On the statistical relation between the halo mass function and the internal structure of dark matter haloes**|T. R. G. Richardson et.al.|[2212.03233v1](http://arxiv.org/abs/2212.03233v1)|null|
 |**2022-12-06**|**Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning**|Cheng-Hao Tu et.al.|[2212.03220v1](http://arxiv.org/abs/2212.03220v1)|null|
-|**2022-12-06**|**A note on the bulk interpretation of the Quantum Extremal Surface formula**|Gabriel Wong et.al.|[2212.03193v1](http://arxiv.org/abs/2212.03193v1)|null|
+|**2022-12-08**|**A note on the bulk interpretation of the Quantum Extremal Surface formula**|Gabriel Wong et.al.|[2212.03193v2](http://arxiv.org/abs/2212.03193v2)|null|
 |**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v1](http://arxiv.org/abs/2212.03185v1)|null|
 |**2022-12-06**|**Discrete quantum harmonic oscillator and Kravchuk transform**|Quentin Chauleur et.al.|[2212.03164v1](http://arxiv.org/abs/2212.03164v1)|null|
 |**2022-12-06**|**Branching execution symmetry in Jeopardy by available implicit arguments analysis**|Joachim Tilsted Kristensen et.al.|[2212.03161v1](http://arxiv.org/abs/2212.03161v1)|null|
