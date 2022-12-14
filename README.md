@@ -272,7 +272,7 @@
 |**2022-12-12**|**Twisted Harnack inequality and approximation of variational problems with a convexity constraint by singular Abreu equations**|Nam Q. Le et.al.|[2212.05905v1](http://arxiv.org/abs/2212.05905v1)|null|
 |**2022-12-12**|**Parameter-Efficient Finetuning of Transformers for Source Code**|Shamil Ayupov et.al.|[2212.05901v1](http://arxiv.org/abs/2212.05901v1)|**[link](https://github.com/shamerd/source-code-efficient-ft)**|
 |**2022-12-12**|**Dirac Points Embedded in the Continuum**|Pilar Pujol-Closa et.al.|[2212.05864v1](http://arxiv.org/abs/2212.05864v1)|null|
-|**2022-12-12**|**Automated ICD Coding using Extreme Multi-label Long Text Transformer-based Models**|Leibo Liu et.al.|[2212.05857v1](http://arxiv.org/abs/2212.05857v1)|null|
+|**2022-12-13**|**Automated ICD Coding using Extreme Multi-label Long Text Transformer-based Models**|Leibo Liu et.al.|[2212.05857v2](http://arxiv.org/abs/2212.05857v2)|**[link](https://github.com/leiboliu/xr-lat)**|
 |**2022-12-12**|**BeautyREC: Robust, Efficient, and Content-preserving Makeup Transfer**|Qixin Yan et.al.|[2212.05855v1](http://arxiv.org/abs/2212.05855v1)|null|
 |**2022-12-12**|**CbwLoss: Constrained Bidirectional Weighted Loss for Self-supervised Learning of Depth and Pose**|Fei Wang et.al.|[2212.05845v1](http://arxiv.org/abs/2212.05845v1)|null|
 |**2022-12-12**|**P-Transformer: Towards Better Document-to-Document Neural Machine Translation**|Yachao Li et.al.|[2212.05830v1](http://arxiv.org/abs/2212.05830v1)|null|
@@ -282,22 +282,22 @@
 |**2022-12-12**|**Domain Adaptation of Transformer-Based Models using Unlabeled Data for Relevance and Polarity Classification of German Customer Feedback**|Ahmad Idrissi-Yaghir et.al.|[2212.05764v1](http://arxiv.org/abs/2212.05764v1)|null|
 |**2022-12-12**|**ROIFormer: Semantic-Aware Region of Interest Transformer for Efficient Self-Supervised Monocular Depth Estimation**|Daitao Xing et.al.|[2212.05729v1](http://arxiv.org/abs/2212.05729v1)|null|
 |**2022-12-12**|**Tensor-based Sequential Learning via Hankel Matrix Representation for Next Item Recommendations**|Evgeny Frolov et.al.|[2212.05720v1](http://arxiv.org/abs/2212.05720v1)|**[link](https://github.com/recspert/satf)**|
-|**2022-12-12**|**Tensor Factorization via Transformed Tensor-Tensor Product for Image Alignment**|Sijia Xia et.al.|[2212.05719v1](http://arxiv.org/abs/2212.05719v1)|null|
+|**2022-12-13**|**Tensor Factorization via Transformed Tensor-Tensor Product for Image Alignment**|Sijia Xia et.al.|[2212.05719v2](http://arxiv.org/abs/2212.05719v2)|null|
 |**2022-12-12**|**Ensembling Transformers for Cross-domain Automatic Term Extraction**|Hanh Thi Hong Tran et.al.|[2212.05696v1](http://arxiv.org/abs/2212.05696v1)|null|
 |**2022-12-12**|**REAP: A Large-Scale Realistic Adversarial Patch Benchmark**|Nabeel Hingun et.al.|[2212.05680v1](http://arxiv.org/abs/2212.05680v1)|**[link](https://github.com/wagner-group/reap-benchmark)**|
 |**2022-12-12**|**New translations associated with the special affine Fourier transform and shift invariant spaces**|Md Hasan Ali Biswas et.al.|[2212.05678v1](http://arxiv.org/abs/2212.05678v1)|null|
-|**2022-12-12**|**Masked autoencoders is an effective solution to transformer data-hungry**|Jiawei Mao et.al.|[2212.05677v1](http://arxiv.org/abs/2212.05677v1)|**[link](https://github.com/talented-q/sdmae)**|
+|**2022-12-13**|**Masked autoencoders are effective solution to transformer data-hungry**|Jiawei Mao et.al.|[2212.05677v2](http://arxiv.org/abs/2212.05677v2)|**[link](https://github.com/talented-q/sdmae)**|
 |**2022-12-12**|**A Single Server Queue Control Problem in Heavy Traffic**|Bowen Xie et.al.|[2212.05674v1](http://arxiv.org/abs/2212.05674v1)|null|
 |**2022-12-12**|**DRIVE: Dockerfile Rule Mining and Violation Detection**|Yu Zhou et.al.|[2212.05648v1](http://arxiv.org/abs/2212.05648v1)|null|
 |**2022-12-12**|**Cross-Modal Learning with 3D Deformable Attention for Action Recognition**|Sangwon Kim et.al.|[2212.05638v1](http://arxiv.org/abs/2212.05638v1)|null|
 |**2022-12-11**|**Estimation of the photon production rate using imaginary momentum correlators**|Csaba Török et.al.|[2212.05622v1](http://arxiv.org/abs/2212.05622v1)|null|
 |**2022-12-11**|**Dirac gauge theory for topological spinors in 3+1 dimensional networks**|Ginestra Bianconi et.al.|[2212.05621v1](http://arxiv.org/abs/2212.05621v1)|null|
 |**2022-12-11**|**Recurrent Vision Transformers for Object Detection with Event Cameras**|Mathias Gehrig et.al.|[2212.05598v1](http://arxiv.org/abs/2212.05598v1)|null|
-|**2022-12-11**|**PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery**|Sheng Zhang et.al.|[2212.05590v1](http://arxiv.org/abs/2212.05590v1)|null|
+|**2022-12-11**|**PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery**|Sheng Zhang et.al.|[2212.05590v1](http://arxiv.org/abs/2212.05590v1)|**[link](https://github.com/sheng-eatamath/promptcal)**|
 |**2022-12-11**|**Efficient algorithms to solve atom reconfiguration problems. II. The assignment-rerouting-ordering (aro) algorithm**|Remy El Sabeh et.al.|[2212.05586v1](http://arxiv.org/abs/2212.05586v1)|null|
 |**2022-12-11**|**Efficient Relation-aware Neighborhood Aggregation in Graph Neural Networks via Tensor Decomposition**|Peyman Baghershahi et.al.|[2212.05581v1](http://arxiv.org/abs/2212.05581v1)|null|
 |**2022-12-11**|**Near-Field Enhancement of Optical Second Harmonic Generation in Hybrid Gold-Lithium Niobate Nanostructures**|Rana Faryad Ali et.al.|[2212.05569v1](http://arxiv.org/abs/2212.05569v1)|null|
-|**2022-12-11**|**Extending TrOCR for Text Localization-Free OCR of Full-Page Scanned Receipt Images**|Hongkuan Zhang et.al.|[2212.05525v1](http://arxiv.org/abs/2212.05525v1)|null|
+|**2022-12-13**|**Extending TrOCR for Text Localization-Free OCR of Full-Page Scanned Receipt Images**|Hongkuan Zhang et.al.|[2212.05525v2](http://arxiv.org/abs/2212.05525v2)|null|
 |**2022-12-11**|**Mutimodal Ranking Optimization for Heterogeneous Face Re-identification**|Hui Hu et.al.|[2212.05510v1](http://arxiv.org/abs/2212.05510v1)|null|
 |**2022-12-11**|**Low-rank Tensor Assisted K-space Generative Model for Parallel Imaging Reconstruction**|Wei Zhang et.al.|[2212.05503v1](http://arxiv.org/abs/2212.05503v1)|null|
 |**2022-12-11**|**Dynamical solution of the strong CP problem within QCD ?**|Gerrit Schierholz et.al.|[2212.05485v1](http://arxiv.org/abs/2212.05485v1)|null|
