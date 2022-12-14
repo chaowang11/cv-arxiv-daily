@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-13**|**Source-Aware Spatial-Spectral-Integrated Double U-Net for Image Fusion**|Siran Peng et.al.|[2212.06466v1](http://arxiv.org/abs/2212.06466v1)|null|
 |**2022-12-10**|**Benchmark Dataset and Effective Inter-Frame Alignment for Real-World Video Super-Resolution**|Ruohao Wang et.al.|[2212.05342v1](http://arxiv.org/abs/2212.05342v1)|null|
 |**2022-12-09**|**SupeRVol: Super-Resolution Shape and Reflectance Estimation in Inverse Volume Rendering**|Mohammed Brahimi et.al.|[2212.04968v1](http://arxiv.org/abs/2212.04968v1)|null|
 |**2022-12-09**|**Neural Volume Super-Resolution**|Yuval Bahat et.al.|[2212.04666v1](http://arxiv.org/abs/2212.04666v1)|null|
@@ -90,6 +91,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-13**|**Source-Aware Spatial-Spectral-Integrated Double U-Net for Image Fusion**|Siran Peng et.al.|[2212.06466v1](http://arxiv.org/abs/2212.06466v1)|null|
 |**2022-12-08**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v1](http://arxiv.org/abs/2212.04362v1)|null|
 |**2022-12-08**|**A Scale-Arbitrary Image Super-Resolution Network Using Frequency-domain Information**|Jing Fang et.al.|[2212.04314v1](http://arxiv.org/abs/2212.04314v1)|null|
 |**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|null|
@@ -258,6 +260,40 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-13**|**Structured 3D Features for Reconstructing Relightable and Animatable Avatars**|Enric Corona et.al.|[2212.06820v1](http://arxiv.org/abs/2212.06820v1)|null|
+|**2022-12-13**|**RT-1: Robotics Transformer for Real-World Control at Scale**|Anthony Brohan et.al.|[2212.06817v1](http://arxiv.org/abs/2212.06817v1)|null|
+|**2022-12-13**|**GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation**|Chenhongyi Yang et.al.|[2212.06795v1](http://arxiv.org/abs/2212.06795v1)|**[link](https://github.com/chenhongyiyang/gpvit)**|
+|**2022-12-13**|**Multi-objective Tree-structured Parzen Estimator Meets Meta-learning**|Shuhei Watanabe et.al.|[2212.06751v1](http://arxiv.org/abs/2212.06751v1)|**[link](https://github.com/nabenabe0928/meta-learn-tpe)**|
+|**2022-12-13**|**Demand-side policies for power generation in response to the energy crisis: a model analysis for Italy**|Alice Di Bella et.al.|[2212.06744v1](http://arxiv.org/abs/2212.06744v1)|null|
+|**2022-12-13**|**Generating Functions for Giant Graviton Bound States**|Warren Carlson et.al.|[2212.06731v1](http://arxiv.org/abs/2212.06731v1)|null|
+|**2022-12-13**|**What do Vision Transformers Learn? A Visual Exploration**|Amin Ghiasi et.al.|[2212.06727v1](http://arxiv.org/abs/2212.06727v1)|**[link](https://github.com/hamidkazemi22/vit-visualization)**|
+|**2022-12-13**|**A Machine Learning Enhanced Approach for Automated Sunquake Detection in Acoustic Emission Maps**|Vanessa Mercea et.al.|[2212.06717v1](http://arxiv.org/abs/2212.06717v1)|null|
+|**2022-12-13**|**Reduction principles for proper actions**|Leonardo Biliotti et.al.|[2212.06715v1](http://arxiv.org/abs/2212.06715v1)|null|
+|**2022-12-13**|**CNN-transformer mixed model for object detection**|Wenshuo Li et.al.|[2212.06714v1](http://arxiv.org/abs/2212.06714v1)|null|
+|**2022-12-13**|**The Hateful Memes Challenge Next Move**|Weijun Jin et.al.|[2212.06655v1](http://arxiv.org/abs/2212.06655v1)|null|
+|**2022-12-13**|**OAMixer: Object-aware Mixing Layer for Vision Transformers**|Hyunwoo Kang et.al.|[2212.06595v1](http://arxiv.org/abs/2212.06595v1)|null|
+|**2022-12-13**|**FastMIM: Expediting Masked Image Modeling Pre-training for Vision**|Jianyuan Guo et.al.|[2212.06593v1](http://arxiv.org/abs/2212.06593v1)|**[link](https://github.com/ggjy/fastmim.pytorch)**|
+|**2022-12-13**|**Multiscale topology classifies and quantifies cell types in subcellular spatial transcriptomics**|Katherine Benjamin et.al.|[2212.06505v1](http://arxiv.org/abs/2212.06505v1)|null|
+|**2022-12-13**|**Gauged Double Field Theory, Current Algebras and Heterotic Sigma Models**|Machiko Hatsuda et.al.|[2212.06476v1](http://arxiv.org/abs/2212.06476v1)|null|
+|**2022-12-13**|**The  $β$ -symmetry in the presence of D-brane and boundary**|Mohammad R. Garousi et.al.|[2212.06425v1](http://arxiv.org/abs/2212.06425v1)|null|
+|**2022-12-13**|**Partial wave analysis of decays with arbitrary spins**|Xiao-yu Li et.al.|[2212.06417v1](http://arxiv.org/abs/2212.06417v1)|null|
+|**2022-12-13**|**Even Order Explicit Symplectic Geometric Algorithms for Quaternion Kinematical Differential Equation in Guidance Navigation and Control via Diagonal Padè Approximation and Cayley Transform**|Hong-Yan Zhang et.al.|[2212.06414v1](http://arxiv.org/abs/2212.06414v1)|null|
+|**2022-12-13**|**Solving the n-color ice model**|Patrick Addona et.al.|[2212.06404v1](http://arxiv.org/abs/2212.06404v1)|null|
+|**2022-12-13**|**Bifurcation analysis of a free boundary model of vascular tumor growth with a necrotic core and chemotaxis**|Min-Jhe Lu et.al.|[2212.06389v1](http://arxiv.org/abs/2212.06389v1)|null|
+|**2022-12-13**|**ADEV: Sound Automatic Differentiation of Expected Values of Probabilistic Programs**|Alexander K. Lew et.al.|[2212.06386v1](http://arxiv.org/abs/2212.06386v1)|null|
+|**2022-12-13**|**An ODE approach to multiple choice polynomial programming**|Sihong Shao et.al.|[2212.06371v1](http://arxiv.org/abs/2212.06371v1)|null|
+|**2022-12-13**|**Single Cell Training on Architecture Search for Image Denoising**|Bokyeung Lee et.al.|[2212.06368v1](http://arxiv.org/abs/2212.06368v1)|null|
+|**2022-12-13**|**Auto-labelling of Bug Report using Natural Language Processing**|Avinash Patil et.al.|[2212.06334v1](http://arxiv.org/abs/2212.06334v1)|null|
+|**2022-12-13**|**Generative artificial intelligence-enabled dynamic detection of nicotine-related circuits**|Changwei Gong et.al.|[2212.06330v1](http://arxiv.org/abs/2212.06330v1)|null|
+|**2022-12-13**|**Privacy-Preserving Collaborative Learning through Feature Extraction**|Alireza Sarmadi et.al.|[2212.06322v1](http://arxiv.org/abs/2212.06322v1)|null|
+|**2022-12-12**|**Agnostic Learning for Packing Machine Stoppage Prediction in Smart Factories**|Gabriel Filios et.al.|[2212.06288v1](http://arxiv.org/abs/2212.06288v1)|null|
+|**2022-12-12**|**Quantum error correction on symmetric quantum sensors**|Yingkai Ouyang et.al.|[2212.06285v1](http://arxiv.org/abs/2212.06285v1)|null|
+|**2022-12-12**|**Mortality Prediction Models with Clinical Notes Using Sparse Attention at the Word and Sentence Levels**|Miguel Rios et.al.|[2212.06267v1](http://arxiv.org/abs/2212.06267v1)|null|
+|**2022-12-12**|**You Only Need a Good Embeddings Extractor to Fix Spurious Correlations**|Raghav Mehta et.al.|[2212.06254v1](http://arxiv.org/abs/2212.06254v1)|null|
+|**2022-12-12**|**PathFusion: Path-consistent Lidar-Camera Deep Feature Fusion**|Lemeng Wu et.al.|[2212.06244v1](http://arxiv.org/abs/2212.06244v1)|null|
+|**2022-12-12**|**Breaking the "Object" in Video Object Segmentation**|Pavel Tokmakov et.al.|[2212.06200v1](http://arxiv.org/abs/2212.06200v1)|null|
+|**2022-12-12**|**Nonequilibrium Full Counting Statistics and Symmetry-Resolved Entanglement from Space-Time Duality**|Bruno Bertini et.al.|[2212.06188v1](http://arxiv.org/abs/2212.06188v1)|null|
+|**2022-12-12**|**Probing the cold neutral medium through HI emission morphology with the scattering transform**|Minjie Lei et.al.|[2212.06182v1](http://arxiv.org/abs/2212.06182v1)|null|
 |**2022-12-12**|**NMS Strikes Back**|Jeffrey Ouyang-Zhang et.al.|[2212.06137v1](http://arxiv.org/abs/2212.06137v1)|**[link](https://github.com/jozhang97/deta)**|
 |**2022-12-12**|**Efficient simulation of open quantum systems coupled to a reservoir through multiple channels**|Kai T. Liu et.al.|[2212.06099v1](http://arxiv.org/abs/2212.06099v1)|null|
 |**2022-12-12**|**Implicit Neural Convolutional Kernels for Steerable CNNs**|Maksim Zhdanov et.al.|[2212.06096v1](http://arxiv.org/abs/2212.06096v1)|null|
