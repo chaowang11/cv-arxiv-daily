@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-14**|**Bi-Noising Diffusion: Towards Conditional Diffusion Models with Generative Restoration Priors**|Kangfu Mei et.al.|[2212.07352v1](http://arxiv.org/abs/2212.07352v1)|null|
+|**2022-12-14**|**Mitigating Artifacts in Real-World Video Super-Resolution Models**|Liangbin Xie et.al.|[2212.07339v1](http://arxiv.org/abs/2212.07339v1)|**[link](https://github.com/tencentarc/fastrealvsr)**|
 |**2022-12-13**|**Source-Aware Spatial-Spectral-Integrated Double U-Net for Image Fusion**|Siran Peng et.al.|[2212.06466v1](http://arxiv.org/abs/2212.06466v1)|null|
 |**2022-12-10**|**Benchmark Dataset and Effective Inter-Frame Alignment for Real-World Video Super-Resolution**|Ruohao Wang et.al.|[2212.05342v1](http://arxiv.org/abs/2212.05342v1)|null|
 |**2022-12-09**|**SupeRVol: Super-Resolution Shape and Reflectance Estimation in Inverse Volume Rendering**|Mohammed Brahimi et.al.|[2212.04968v1](http://arxiv.org/abs/2212.04968v1)|null|
@@ -151,6 +153,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-14**|**Mitigating Artifacts in Real-World Video Super-Resolution Models**|Liangbin Xie et.al.|[2212.07339v1](http://arxiv.org/abs/2212.07339v1)|**[link](https://github.com/tencentarc/fastrealvsr)**|
 |**2022-12-10**|**Benchmark Dataset and Effective Inter-Frame Alignment for Real-World Video Super-Resolution**|Ruohao Wang et.al.|[2212.05342v1](http://arxiv.org/abs/2212.05342v1)|null|
 |**2022-11-16**|**SATVSR: Scenario Adaptive Transformer for Cross Scenarios Video Super-Resolution**|Yongjie Chen et.al.|[2211.08703v1](http://arxiv.org/abs/2211.08703v1)|null|
 |**2022-11-07**|**Power Efficient Video Super-Resolution on Mobile NPUs with Deep Learning, Mobile AI & AIM 2022 challenge: Report**|Andrey Ignatov et.al.|[2211.05256v1](http://arxiv.org/abs/2211.05256v1)|null|
@@ -260,6 +263,35 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-14**|**One-Shot Domain Adaptive and Generalizable Semantic Segmentation with Class-Aware Cross-Domain Transformers**|Rui Gong et.al.|[2212.07292v1](http://arxiv.org/abs/2212.07292v1)|null|
+|**2022-12-14**|**A Deep Learning Synthetic Likelihood Approximation of a Non-stationary Spatial Model for Extreme Streamflow Forecasting**|Reetam Majumder et.al.|[2212.07267v1](http://arxiv.org/abs/2212.07267v1)|null|
+|**2022-12-14**|**Key Challenges with Agile Culture -- A Survey among Practitioners**|Thorben Kuchel et.al.|[2212.07218v1](http://arxiv.org/abs/2212.07218v1)|null|
+|**2022-12-14**|**Complete two-loop QCD amplitudes for  $tW$  production at hadron colliders**|Long-Bin Chen et.al.|[2212.07190v1](http://arxiv.org/abs/2212.07190v1)|null|
+|**2022-12-14**|**Speech and Natural Language Processing Technologies for Pseudo-Pilot Simulator**|Amrutha Prasad et.al.|[2212.07164v1](http://arxiv.org/abs/2212.07164v1)|null|
+|**2022-12-14**|**Multi-Scale Feature Fusion Transformer Network for End-to-End Single Channel Speech Separation**|Yinhao Xu et.al.|[2212.07163v1](http://arxiv.org/abs/2212.07163v1)|null|
+|**2022-12-14**|**Non-Markovian stochastic Gross-Pitaevskii equation for the exciton-polariton Bose-Einstein condensate**|A. D. Alliluev et.al.|[2212.07152v1](http://arxiv.org/abs/2212.07152v1)|null|
+|**2022-12-14**|**Generalized Vaidya spacetime: horizons, conformal symmetries, surface gravity and diagonalization**|Vitalii Vertogradov et.al.|[2212.07130v1](http://arxiv.org/abs/2212.07130v1)|null|
+|**2022-12-14**|**Explainability of Text Processing and Retrieval Methods: A Critical Survey**|Sourav Saha et.al.|[2212.07126v1](http://arxiv.org/abs/2212.07126v1)|null|
+|**2022-12-14**|**NLIP: Noise-robust Language-Image Pre-training**|Runhui Huang et.al.|[2212.07086v1](http://arxiv.org/abs/2212.07086v1)|null|
+|**2022-12-14**|**Dual-branch Cross-Patch Attention Learning for Group Affect Recognition**|Hongxia Xie et.al.|[2212.07055v1](http://arxiv.org/abs/2212.07055v1)|null|
+|**2022-12-14**|**PD-Quant: Post-Training Quantization based on Prediction Difference Metric**|Jiawei Liu et.al.|[2212.07048v1](http://arxiv.org/abs/2212.07048v1)|null|
+|**2022-12-14**|**A systematic search for a three-velocity gyrodistributive law in special relativity with the lorentz R package**|Robin K. S. Hankin et.al.|[2212.07005v1](http://arxiv.org/abs/2212.07005v1)|null|
+|**2022-12-14**|**Parameterizing Network Graph Heterogeneity using a Modified Weibull Distribution**|Sinan A. Ozbay et.al.|[2212.06994v1](http://arxiv.org/abs/2212.06994v1)|null|
+|**2022-12-14**|**Local Probabilistic Decoding of a Quantum Code**|T. R. Scruby et.al.|[2212.06985v1](http://arxiv.org/abs/2212.06985v1)|null|
+|**2022-12-14**|**Market Mechanisms for Low-Carbon Electricity Investments: A Game-Theoretical Analysis**|Dongwei Zhao et.al.|[2212.06984v1](http://arxiv.org/abs/2212.06984v1)|null|
+|**2022-12-14**|**Automatic Classification of Galaxy Morphology: a rotationally invariant supervised machine learning method based on the UML-dataset**|G. W. Fang et.al.|[2212.06981v1](http://arxiv.org/abs/2212.06981v1)|null|
+|**2022-12-14**|**Disentangling Prosody Representations with Unsupervised Speech Reconstruction**|Leyuan Qu et.al.|[2212.06972v1](http://arxiv.org/abs/2212.06972v1)|null|
+|**2022-12-14**|**Covariant phase space quantization of cosmological models**|Weixuan Hu et.al.|[2212.06963v1](http://arxiv.org/abs/2212.06963v1)|null|
+|**2022-12-14**|**Mechanics of geodesics in Information geometry**|Sumanto Chanda et.al.|[2212.06959v1](http://arxiv.org/abs/2212.06959v1)|null|
+|**2022-12-14**|**Verifying term graph optimizations using Isabelle/HOL**|Brae J. Webb et.al.|[2212.06956v1](http://arxiv.org/abs/2212.06956v1)|null|
+|**2022-12-14**|**Nonequilibrium Electrochemical Phase Maps: Beyond Butler-Volmer Kinetics**|Rachel C. Kurchin et.al.|[2212.06952v1](http://arxiv.org/abs/2212.06952v1)|null|
+|**2022-12-13**|**The multiplicative K-theory of compact quantum spaces**|Francesco D'Andrea et.al.|[2212.06946v1](http://arxiv.org/abs/2212.06946v1)|null|
+|**2022-12-13**|**Losses over Labels: Weakly Supervised Learning via Direct Loss Construction**|Dylan Sam et.al.|[2212.06921v1](http://arxiv.org/abs/2212.06921v1)|**[link](https://github.com/dsam99/lol)**|
+|**2022-12-13**|**Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting**|Su Wang et.al.|[2212.06909v1](http://arxiv.org/abs/2212.06909v1)|null|
+|**2022-12-13**|**Bridging Graph Position Encodings for Transformers with Weighted Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
+|**2022-12-13**|**Laboratory rotational spectroscopy and astronomical search of ethynyl substituted naphthalene**|Carlos Cabezas et.al.|[2212.06876v1](http://arxiv.org/abs/2212.06876v1)|null|
+|**2022-12-13**|**Examining the Difference Among Transformers and CNNs with Explanation Methods**|Mingqi Jiang et.al.|[2212.06872v1](http://arxiv.org/abs/2212.06872v1)|null|
+|**2022-12-14**|**Simulating 2+1D Lattice Quantum Electrodynamics at Finite Density with Neural Flow Wavefunctions**|Zhuo Chen et.al.|[2212.06835v1](http://arxiv.org/abs/2212.06835v1)|null|
 |**2022-12-13**|**Structured 3D Features for Reconstructing Relightable and Animatable Avatars**|Enric Corona et.al.|[2212.06820v1](http://arxiv.org/abs/2212.06820v1)|null|
 |**2022-12-13**|**RT-1: Robotics Transformer for Real-World Control at Scale**|Anthony Brohan et.al.|[2212.06817v1](http://arxiv.org/abs/2212.06817v1)|null|
 |**2022-12-13**|**GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation**|Chenhongyi Yang et.al.|[2212.06795v1](http://arxiv.org/abs/2212.06795v1)|**[link](https://github.com/chenhongyiyang/gpvit)**|
@@ -499,6 +531,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-13**|**Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting**|Su Wang et.al.|[2212.06909v1](http://arxiv.org/abs/2212.06909v1)|null|
 |**2022-12-09**|**SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model**|Shaoan Xie et.al.|[2212.05034v1](http://arxiv.org/abs/2212.05034v1)|null|
 |**2022-12-06**|**SDM: Spatial Diffusion Model for Large Hole Image Inpainting**|Wenbo Li et.al.|[2212.02963v1](http://arxiv.org/abs/2212.02963v1)|**[link](https://github.com/fenglinglwb/sdm)**|
 |**2022-12-01**|**Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery**|Yisi Luo et.al.|[2212.00262v1](http://arxiv.org/abs/2212.00262v1)|null|
