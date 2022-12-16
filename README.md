@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
+|**2022-12-15**|**DCS-RISR: Dynamic Channel Splitting for Efficient Real-world Image Super-Resolution**|Junbo Qiao et.al.|[2212.07613v1](http://arxiv.org/abs/2212.07613v1)|null|
 |**2022-12-14**|**Bi-Noising Diffusion: Towards Conditional Diffusion Models with Generative Restoration Priors**|Kangfu Mei et.al.|[2212.07352v1](http://arxiv.org/abs/2212.07352v1)|null|
 |**2022-12-14**|**Mitigating Artifacts in Real-World Video Super-Resolution Models**|Liangbin Xie et.al.|[2212.07339v1](http://arxiv.org/abs/2212.07339v1)|**[link](https://github.com/tencentarc/fastrealvsr)**|
 |**2022-12-13**|**Source-Aware Spatial-Spectral-Integrated Double U-Net for Image Fusion**|Siran Peng et.al.|[2212.06466v1](http://arxiv.org/abs/2212.06466v1)|null|
@@ -93,6 +95,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
+|**2022-12-15**|**DCS-RISR: Dynamic Channel Splitting for Efficient Real-world Image Super-Resolution**|Junbo Qiao et.al.|[2212.07613v1](http://arxiv.org/abs/2212.07613v1)|null|
 |**2022-12-13**|**Source-Aware Spatial-Spectral-Integrated Double U-Net for Image Fusion**|Siran Peng et.al.|[2212.06466v1](http://arxiv.org/abs/2212.06466v1)|null|
 |**2022-12-08**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v1](http://arxiv.org/abs/2212.04362v1)|null|
 |**2022-12-08**|**A Scale-Arbitrary Image Super-Resolution Network Using Frequency-domain Information**|Jing Fang et.al.|[2212.04314v1](http://arxiv.org/abs/2212.04314v1)|null|
@@ -263,6 +267,52 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-15**|**NeRF-Art: Text-Driven Neural Radiance Fields Stylization**|Can Wang et.al.|[2212.08070v1](http://arxiv.org/abs/2212.08070v1)|**[link](https://github.com/cassiePython/NeRF-Art)**|
+|**2022-12-15**|**VolRecon: Volume Rendering of Signed Ray Distance Functions for Generalizable Multi-View Reconstruction**|Yufan Ren et.al.|[2212.08067v1](http://arxiv.org/abs/2212.08067v1)|null|
+|**2022-12-15**|**Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners**|Zitian Chen et.al.|[2212.08066v1](http://arxiv.org/abs/2212.08066v1)|null|
+|**2022-12-15**|**Rethinking Vision Transformers for MobileNet Size and Speed**|Yanyu Li et.al.|[2212.08059v1](http://arxiv.org/abs/2212.08059v1)|**[link](https://github.com/snap-research/efficientformer)**|
+|**2022-12-15**|**Image-and-Language Understanding from Pixels Only**|Michael Tschannen et.al.|[2212.08045v1](http://arxiv.org/abs/2212.08045v1)|null|
+|**2022-12-15**|**Generating Realistic 3D Brain MRIs Using a Conditional Diffusion Probabilistic Model**|Wei Peng et.al.|[2212.08034v1](http://arxiv.org/abs/2212.08034v1)|null|
+|**2022-12-15**|**Fits of finite-volume smeared spectral densities**|Luigi Del Debbio et.al.|[2212.08019v1](http://arxiv.org/abs/2212.08019v1)|null|
+|**2022-12-15**|**A Spectro-photometric Analysis of Cool White Dwarfs in the Gaia and Pan-STARRS Footprint**|Alexandre Caron et.al.|[2212.08014v1](http://arxiv.org/abs/2212.08014v1)|null|
+|**2022-12-15**|**FlexiViT: One Model for All Patch Sizes**|Lucas Beyer et.al.|[2212.08013v1](http://arxiv.org/abs/2212.08013v1)|**[link](https://github.com/google-research/big_vision)**|
+|**2022-12-15**|**A New Deep Boosted CNN and Ensemble Learning based IoT Malware Detection**|Saddam Hussain Khan et.al.|[2212.08008v1](http://arxiv.org/abs/2212.08008v1)|null|
+|**2022-12-15**|**Symmetries of non-linear ODEs: lambda extensions of the Ising correlations**|S. Boukraa et.al.|[2212.07984v1](http://arxiv.org/abs/2212.07984v1)|null|
+|**2022-12-15**|**Vision Transformers are Parameter-Efficient Audio-Visual Learners**|Yan-Bo Lin et.al.|[2212.07983v1](http://arxiv.org/abs/2212.07983v1)|null|
+|**2022-12-15**|**Topological Data Analysis Detects Percolation Thresholds in Arctic Melt-Pond Evolution**|Wilfred Offord et.al.|[2212.07961v1](http://arxiv.org/abs/2212.07961v1)|null|
+|**2022-12-15**|**Wald-Zoupas prescription with (soft) anomalies**|Gloria Odak et.al.|[2212.07947v1](http://arxiv.org/abs/2212.07947v1)|null|
+|**2022-12-15**|**Visually-augmented pretrained language models for NLP tasks without images**|Hangyu Guo et.al.|[2212.07937v1](http://arxiv.org/abs/2212.07937v1)|null|
+|**2022-12-15**|**The Effects of In-domain Corpus Size on pre-training BERT**|Chris Sanchez et.al.|[2212.07914v1](http://arxiv.org/abs/2212.07914v1)|null|
+|**2022-12-15**|**Complete characterization of quantum correlations by randomized measurements**|Nikolai Wyderka et.al.|[2212.07894v1](http://arxiv.org/abs/2212.07894v1)|null|
+|**2022-12-15**|**Full Contextual Attention for Multi-resolution Transformers in Semantic Segmentation**|Loic Themyr et.al.|[2212.07890v1](http://arxiv.org/abs/2212.07890v1)|null|
+|**2022-12-15**|**DETR4D: Direct Multi-View 3D Object Detection with Sparse Attention**|Zhipeng Luo et.al.|[2212.07849v1](http://arxiv.org/abs/2212.07849v1)|null|
+|**2022-12-15**|**MASTER: Multi-task Pre-trained Bottlenecked Masked Autoencoders are Better Dense Retrievers**|Kun Zhou et.al.|[2212.07841v1](http://arxiv.org/abs/2212.07841v1)|**[link](https://github.com/microsoft/simxns)**|
+|**2022-12-15**|**Spatially-resolved Thermometry from Line-of-Sight Emission Spectroscopy via Machine Learning**|Ruiyuan Kang et.al.|[2212.07836v1](http://arxiv.org/abs/2212.07836v1)|null|
+|**2022-12-15**|**Detecting Bone Lesions in X-Ray Under Diverse Acquisition Conditions**|Tal Zimbalist et.al.|[2212.07792v1](http://arxiv.org/abs/2212.07792v1)|null|
+|**2022-12-14**|**Convergent Data-driven Regularizations for CT Reconstruction**|Samira Kabri et.al.|[2212.07786v1](http://arxiv.org/abs/2212.07786v1)|**[link](https://github.com/alexanderauras/convergent-data-driven-regularizations-for-ct-reconstruction)**|
+|**2022-12-15**|**Calibrating AI Models for Wireless Communications via Conformal Prediction**|Kfir M. Cohen et.al.|[2212.07775v1](http://arxiv.org/abs/2212.07775v1)|null|
+|**2022-12-15**|**Convergence of the Eberlein diagonalization method under the generalized serial pivot strategies**|Erna Begovic et.al.|[2212.07774v1](http://arxiv.org/abs/2212.07774v1)|null|
+|**2022-12-15**|**Put Attention to Temporal Saliency Patterns of Multi-Horizon Time Series**|Nghia Duong-Trung et.al.|[2212.07771v1](http://arxiv.org/abs/2212.07771v1)|**[link](https://github.com/duongtrung/time-series-temporal-saliency-patterns)**|
+|**2022-12-15**|**Sim-to-Real Transfer for Quadrupedal Locomotion via Terrain Transformer**|Hang Lai et.al.|[2212.07740v1](http://arxiv.org/abs/2212.07740v1)|null|
+|**2022-12-15**|**HUM3DIL: Semi-supervised Multi-modal 3D Human Pose Estimation for Autonomous Driving**|Andrei Zanfir et.al.|[2212.07729v1](http://arxiv.org/abs/2212.07729v1)|null|
+|**2022-12-15**|**Small Spacecraft for Global Greenhouse Gas Monitoring**|Victoria Mayorova et.al.|[2212.07680v1](http://arxiv.org/abs/2212.07680v1)|null|
+|**2022-12-15**|**Transformers learn in-context by gradient descent**|Johannes von Oswald et.al.|[2212.07677v1](http://arxiv.org/abs/2212.07677v1)|null|
+|**2022-12-15**|**Hybrid stability augmentation control of multi-rotor UAV in confined space based on adaptive backstepping control**|QuanXi Zhan et.al.|[2212.07656v1](http://arxiv.org/abs/2212.07656v1)|null|
+|**2022-12-15**|**Two-stage Contextual Transformer-based Convolutional Neural Network for Airway Extraction from CT Images**|Yanan Wu et.al.|[2212.07651v1](http://arxiv.org/abs/2212.07651v1)|**[link](https://github.com/zhaozsq/airway_segmentation)**|
+|**2022-12-15**|**Formulation of general dynamical invariants and their unitary relations for time-dependent three coupled quantum oscillators**|Jeong Ryeol Choi et.al.|[2212.07643v1](http://arxiv.org/abs/2212.07643v1)|null|
+|**2022-12-15**|**Let's consider more general nonlinear approaches to study teleconnections of climate variables**|D. Bueso et.al.|[2212.07635v1](http://arxiv.org/abs/2212.07635v1)|null|
+|**2022-12-15**|**Gradient-based Intra-attention Pruning on Pre-trained Language Models**|Ziqing Yang et.al.|[2212.07634v1](http://arxiv.org/abs/2212.07634v1)|null|
+|**2022-12-15**|**DeepJoin: Joinable Table Discovery with Pre-trained Language Models**|Yuyang Dong et.al.|[2212.07588v1](http://arxiv.org/abs/2212.07588v1)|null|
+|**2022-12-15**|**A skew-symmetric Lanczos bidiagonalization method for computing several largest eigenpairs of a large skew-symmetric matrix**|Jinzhi Huang et.al.|[2212.07574v1](http://arxiv.org/abs/2212.07574v1)|null|
+|**2022-12-15**|**Factorization for the full-line matrix Schrödinger equation and a unitary transformation to the half-line scattering**|Tuncay Aktosun et.al.|[2212.07573v1](http://arxiv.org/abs/2212.07573v1)|null|
+|**2022-12-15**|**DeFT-AN: Dense Frequency-Time Attentive Network for Multichannel Speech Enhancement**|Dongheon Lee et.al.|[2212.07570v1](http://arxiv.org/abs/2212.07570v1)|null|
+|**2022-12-15**|**Learning Markerless Robot-Depth Camera Calibration and End-Effector Pose Estimation**|Bugra C. Sefercik et.al.|[2212.07567v1](http://arxiv.org/abs/2212.07567v1)|null|
+|**2022-12-14**|**Build-a-Bot: Teaching Conversational AI Using a Transformer-Based Intent Recognition and Question Answering Architecture**|Kate Pearce et.al.|[2212.07542v1](http://arxiv.org/abs/2212.07542v1)|null|
+|**2022-12-14**|**Causes and Cures for Interference in Multilingual Translation**|Uri Shaham et.al.|[2212.07530v1](http://arxiv.org/abs/2212.07530v1)|null|
+|**2022-12-14**|**Invariant Lipschitz Bandits: A Side Observation Approach**|Nam Phuong Tran et.al.|[2212.07524v1](http://arxiv.org/abs/2212.07524v1)|null|
+|**2022-12-14**|**PulseImpute: A Novel Benchmark Task for Pulsative Physiological Signal Imputation**|Maxwell A. Xu et.al.|[2212.07514v1](http://arxiv.org/abs/2212.07514v1)|**[link](https://github.com/rehg-lab/pulseimpute)**|
+|**2022-12-14**|**Algebraically integrable bodies and related properties of the Radon transform**|Mark Agranovksy et.al.|[2212.07510v1](http://arxiv.org/abs/2212.07510v1)|null|
+|**2022-12-14**|**Telling compositeness at a distance with outer automorphisms and CP**|Ingolf Bischer et.al.|[2212.07439v1](http://arxiv.org/abs/2212.07439v1)|null|
 |**2022-12-14**|**One-Shot Domain Adaptive and Generalizable Semantic Segmentation with Class-Aware Cross-Domain Transformers**|Rui Gong et.al.|[2212.07292v1](http://arxiv.org/abs/2212.07292v1)|null|
 |**2022-12-14**|**A Deep Learning Synthetic Likelihood Approximation of a Non-stationary Spatial Model for Extreme Streamflow Forecasting**|Reetam Majumder et.al.|[2212.07267v1](http://arxiv.org/abs/2212.07267v1)|null|
 |**2022-12-14**|**Key Challenges with Agile Culture -- A Survey among Practitioners**|Thorben Kuchel et.al.|[2212.07218v1](http://arxiv.org/abs/2212.07218v1)|null|
