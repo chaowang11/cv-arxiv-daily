@@ -290,7 +290,7 @@
 |**2022-12-13**|**Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting**|Su Wang et.al.|[2212.06909v1](http://arxiv.org/abs/2212.06909v1)|null|
 |**2022-12-13**|**Bridging Graph Position Encodings for Transformers with Weighted Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
 |**2022-12-13**|**Laboratory rotational spectroscopy and astronomical search of ethynyl substituted naphthalene**|Carlos Cabezas et.al.|[2212.06876v1](http://arxiv.org/abs/2212.06876v1)|null|
-|**2022-12-13**|**Examining the Difference Among Transformers and CNNs with Explanation Methods**|Mingqi Jiang et.al.|[2212.06872v1](http://arxiv.org/abs/2212.06872v1)|null|
+|**2022-12-15**|**Examining the Difference Among Transformers and CNNs with Explanation Methods**|Mingqi Jiang et.al.|[2212.06872v2](http://arxiv.org/abs/2212.06872v2)|null|
 |**2022-12-14**|**Simulating 2+1D Lattice Quantum Electrodynamics at Finite Density with Neural Flow Wavefunctions**|Zhuo Chen et.al.|[2212.06835v1](http://arxiv.org/abs/2212.06835v1)|null|
 |**2022-12-13**|**Structured 3D Features for Reconstructing Relightable and Animatable Avatars**|Enric Corona et.al.|[2212.06820v1](http://arxiv.org/abs/2212.06820v1)|null|
 |**2022-12-13**|**RT-1: Robotics Transformer for Real-World Control at Scale**|Anthony Brohan et.al.|[2212.06817v1](http://arxiv.org/abs/2212.06817v1)|**[link](https://github.com/google-research/robotics_transformer)**|
@@ -306,7 +306,7 @@
 |**2022-12-13**|**OAMixer: Object-aware Mixing Layer for Vision Transformers**|Hyunwoo Kang et.al.|[2212.06595v1](http://arxiv.org/abs/2212.06595v1)|**[link](https://github.com/alinlab/remixer)**|
 |**2022-12-13**|**FastMIM: Expediting Masked Image Modeling Pre-training for Vision**|Jianyuan Guo et.al.|[2212.06593v1](http://arxiv.org/abs/2212.06593v1)|**[link](https://github.com/ggjy/fastmim.pytorch)**|
 |**2022-12-13**|**Multiscale topology classifies and quantifies cell types in subcellular spatial transcriptomics**|Katherine Benjamin et.al.|[2212.06505v1](http://arxiv.org/abs/2212.06505v1)|**[link](https://github.com/katherine-benjamin/topact-paper)**|
-|**2022-12-13**|**Gauged Double Field Theory, Current Algebras and Heterotic Sigma Models**|Machiko Hatsuda et.al.|[2212.06476v1](http://arxiv.org/abs/2212.06476v1)|null|
+|**2022-12-15**|**Gauged Double Field Theory, Current Algebras and Heterotic Sigma Models**|Machiko Hatsuda et.al.|[2212.06476v2](http://arxiv.org/abs/2212.06476v2)|null|
 |**2022-12-13**|**The  $β$ -symmetry in the presence of D-brane and boundary**|Mohammad R. Garousi et.al.|[2212.06425v1](http://arxiv.org/abs/2212.06425v1)|null|
 |**2022-12-13**|**Partial wave analysis of decays with arbitrary spins**|Xiao-yu Li et.al.|[2212.06417v1](http://arxiv.org/abs/2212.06417v1)|null|
 |**2022-12-13**|**Even Order Explicit Symplectic Geometric Algorithms for Quaternion Kinematical Differential Equation in Guidance Navigation and Control via Diagonal Padè Approximation and Cayley Transform**|Hong-Yan Zhang et.al.|[2212.06414v1](http://arxiv.org/abs/2212.06414v1)|null|
