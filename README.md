@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-15**|**BigBrain-MR: a new digital phantom with anatomically-realistic magnetic resonance properties at 100-μm resolution for magnetic resonance methods development**|Cristina Sainz Martinez et.al.|[2212.08165v1](http://arxiv.org/abs/2212.08165v1)|null|
 |**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
 |**2022-12-15**|**DCS-RISR: Dynamic Channel Splitting for Efficient Real-world Image Super-Resolution**|Junbo Qiao et.al.|[2212.07613v1](http://arxiv.org/abs/2212.07613v1)|null|
 |**2022-12-14**|**Bi-Noising Diffusion: Towards Conditional Diffusion Models with Generative Restoration Priors**|Kangfu Mei et.al.|[2212.07352v1](http://arxiv.org/abs/2212.07352v1)|null|
@@ -267,6 +268,50 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-16**|**Fock space representations of Bogolyubov transformations as spin representations**|K. Neergård et.al.|[2212.08598v1](http://arxiv.org/abs/2212.08598v1)|null|
+|**2022-12-16**|**On the Convergence of Random Fourier--Jacobi Series in  $L_{[-1,1]}^{p,(η,τ)}$  space**|Partiswari Maharana et.al.|[2212.08592v1](http://arxiv.org/abs/2212.08592v1)|null|
+|**2022-12-16**|**Spectral Current Density and Responsivity Scaling for Fourier Transform Photocurrent Spectroscopy**|Jan Kunc et.al.|[2212.08587v1](http://arxiv.org/abs/2212.08587v1)|null|
+|**2022-12-16**|**Rethinking Cooking State Recognition with Vision Transformers**|Akib Mohammed Khan et.al.|[2212.08586v1](http://arxiv.org/abs/2212.08586v1)|null|
+|**2022-12-16**|**An infinite family of vector-valued mock theta functions**|Nickolas Andersen et.al.|[2212.08574v1](http://arxiv.org/abs/2212.08574v1)|null|
+|**2022-12-16**|**A new class of critical solutions for 1D cubic NLS**|Anatole Guérin et.al.|[2212.08564v1](http://arxiv.org/abs/2212.08564v1)|null|
+|**2022-12-16**|**Context-aware Fine-tuning of Self-supervised Speech Models**|Suwon Shon et.al.|[2212.08542v1](http://arxiv.org/abs/2212.08542v1)|null|
+|**2022-12-16**|**Environmental Doping-Induced Degradation of the Quantum Anomalous Hall Insulators**|Han Tay et.al.|[2212.08538v1](http://arxiv.org/abs/2212.08538v1)|null|
+|**2022-12-16**|**Rewriting the Infinite Chase**|Michael Benedikt et.al.|[2212.08522v1](http://arxiv.org/abs/2212.08522v1)|null|
+|**2022-12-16**|**Moate Simulation of Stochastic Processes**|Michael E. Mura et.al.|[2212.08509v1](http://arxiv.org/abs/2212.08509v1)|null|
+|**2022-12-16**|**Morphological Classification of Radio Galaxies with wGAN-supported Augmentation**|Lennart Rustige et.al.|[2212.08504v1](http://arxiv.org/abs/2212.08504v1)|null|
+|**2022-12-16**|**Implementation of general formal translators**|Iosif Iulian Petrila et.al.|[2212.08482v1](http://arxiv.org/abs/2212.08482v1)|null|
+|**2022-12-16**|**Neural Implicit k-Space for Binning-free Non-Cartesian Cardiac MR Imaging**|Wenqi Huang et.al.|[2212.08479v1](http://arxiv.org/abs/2212.08479v1)|null|
+|**2022-12-16**|**Inhomogeneous random graphs with infinite-mean fitness variables**|Luca Avena et.al.|[2212.08462v1](http://arxiv.org/abs/2212.08462v1)|null|
+|**2022-12-16**|**Using Molecular Gas Observations to Guide Initial Conditions for Star Cluster Simulations**|Alison Sills et.al.|[2212.08440v1](http://arxiv.org/abs/2212.08440v1)|null|
+|**2022-12-16**|**Heterostructure films of SiO $_2$  and HfO $_2$  for high power laser optics prepared by plasma-enhanced atomic layer deposition**|Shawon Alam et.al.|[2212.08430v1](http://arxiv.org/abs/2212.08430v1)|null|
+|**2022-12-16**|**WebAssembly Diversification for Malware Evasion**|Javier Cabrera-Arteaga et.al.|[2212.08427v1](http://arxiv.org/abs/2212.08427v1)|null|
+|**2022-12-16**|**Utilizing distilBert transformer model for sentiment classification of COVID-19's Persian open-text responses**|Fatemeh Sadat Masoumi et.al.|[2212.08407v1](http://arxiv.org/abs/2212.08407v1)|null|
+|**2022-12-16**|**Cox processes driven by transformed Gaussian processes on linear networks**|Jesper Møller et.al.|[2212.08402v1](http://arxiv.org/abs/2212.08402v1)|null|
+|**2022-12-16**|**Reducing Sequence Length Learning Impacts on Transformer Models**|Jean-Thomas Baillargeon et.al.|[2212.08399v1](http://arxiv.org/abs/2212.08399v1)|null|
+|**2022-12-16**|**Homonymy Information for English WordNet**|Rowan Hall Maudslay et.al.|[2212.08388v1](http://arxiv.org/abs/2212.08388v1)|**[link](https://github.com/rowanhm/wordnet-homonymy)**|
+|**2022-12-16**|**GeneFormer: Learned Gene Compression using Transformer-based Context Modeling**|Zhanbei Cui et.al.|[2212.08379v1](http://arxiv.org/abs/2212.08379v1)|null|
+|**2022-12-16**|**Easy Uncertainty Quantification (EasyUQ): Generating predictive distributions from single-valued model output**|Eva-Maria Walz et.al.|[2212.08376v1](http://arxiv.org/abs/2212.08376v1)|null|
+|**2022-12-16**|**Quaternion Tensor Completion with Sparseness for Color Video Recovery**|Liqiao Yang et.al.|[2212.08361v1](http://arxiv.org/abs/2212.08361v1)|null|
+|**2022-12-16**|**How to disagree well: Investigating the dispute tactics used on Wikipedia**|Christine de Kock et.al.|[2212.08353v1](http://arxiv.org/abs/2212.08353v1)|**[link](https://github.com/christinedekock11/wikitactics)**|
+|**2022-12-16**|**Convolution-enhanced Evolving Attention Networks**|Yujing Wang et.al.|[2212.08330v1](http://arxiv.org/abs/2212.08330v1)|**[link](https://github.com/pkuyym/evolvingattention)**|
+|**2022-12-16**|**WavEnhancer: Unifying Wavelet and Transformer for Image Enhancement**|Zinuo Li et.al.|[2212.08327v1](http://arxiv.org/abs/2212.08327v1)|null|
+|**2022-12-16**|**An ensemble neural network approach to forecast Dengue outbreak based on climatic condition**|Madhurima Panja et.al.|[2212.08323v1](http://arxiv.org/abs/2212.08323v1)|**[link](https://github.com/mad-stat/xewnet)**|
+|**2022-12-16**|**Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?**|Runpei Dong et.al.|[2212.08320v1](http://arxiv.org/abs/2212.08320v1)|null|
+|**2022-12-16**|**Controllable Text Generation via Probability Density Estimation in the Latent Space**|Yuxuan Gu et.al.|[2212.08307v1](http://arxiv.org/abs/2212.08307v1)|null|
+|**2022-12-16**|**Drivers, hitting times, and weldings in Loewner's equation**|Vlad Margarint et.al.|[2212.08291v1](http://arxiv.org/abs/2212.08291v1)|null|
+|**2022-12-16**|**Rich Event Modeling for Script Event Prediction**|Long Bai et.al.|[2212.08287v1](http://arxiv.org/abs/2212.08287v1)|null|
+|**2022-12-16**|**ANKH: A Generalized O(N) Interpolated Ewald Strategy for Molecular Dynamics Simulations**|Igor Chollet et.al.|[2212.08284v1](http://arxiv.org/abs/2212.08284v1)|null|
+|**2022-12-16**|**SceneGATE: Scene-Graph based co-Attention networks for TExt visual question answering**|Siwen Luo et.al.|[2212.08283v1](http://arxiv.org/abs/2212.08283v1)|null|
+|**2022-12-16**|**Enriched evolution of global sea surface height via generalized Schrodinger bridge and Fokker-Planck solver**|Guangzhen Jin et.al.|[2212.08268v1](http://arxiv.org/abs/2212.08268v1)|null|
+|**2022-12-16**|**Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation**|Yizhou Dang et.al.|[2212.08262v1](http://arxiv.org/abs/2212.08262v1)|**[link](https://github.com/kinggugu/ticoserec)**|
+|**2022-12-16**|**RepQ-ViT: Scale Reparameterization for Post-Training Quantization of Vision Transformers**|Zhikai Li et.al.|[2212.08254v1](http://arxiv.org/abs/2212.08254v1)|null|
+|**2022-12-16**|**Pricing Bermudan Swaption under Two Factor Hull-White Model with Fast Gauss Transform**|Tomohisa Yamakami et.al.|[2212.08250v1](http://arxiv.org/abs/2212.08250v1)|null|
+|**2022-12-16**|**SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation**|Jee Seok Yoon et.al.|[2212.08228v1](http://arxiv.org/abs/2212.08228v1)|null|
+|**2022-12-15**|**Skip-sampling: subsampling in the frequency domain**|Tucker McElroy et.al.|[2212.08160v1](http://arxiv.org/abs/2212.08160v1)|null|
+|**2022-12-15**|**First De-Trend then Attend: Rethinking Attention for Time-Series Forecasting**|Xiyuan Zhang et.al.|[2212.08151v1](http://arxiv.org/abs/2212.08151v1)|null|
+|**2022-12-15**|**Flavoured  $(g-2)_μ$  with Dark Lepton Seasoning**|Harun Acaroğlu et.al.|[2212.08142v1](http://arxiv.org/abs/2212.08142v1)|null|
+|**2022-12-15**|**Efficient Long Sequence Modeling via State Space Augmented Transformer**|Simiao Zuo et.al.|[2212.08136v1](http://arxiv.org/abs/2212.08136v1)|null|
+|**2022-12-15**|**DeepDFA: Dataflow Analysis-Guided Efficient Graph Learning for Vulnerability Detection**|Benjamin Steenhoek et.al.|[2212.08108v1](http://arxiv.org/abs/2212.08108v1)|null|
 |**2022-12-15**|**NeRF-Art: Text-Driven Neural Radiance Fields Stylization**|Can Wang et.al.|[2212.08070v1](http://arxiv.org/abs/2212.08070v1)|**[link](https://github.com/cassiePython/NeRF-Art)**|
 |**2022-12-15**|**VolRecon: Volume Rendering of Signed Ray Distance Functions for Generalizable Multi-View Reconstruction**|Yufan Ren et.al.|[2212.08067v1](http://arxiv.org/abs/2212.08067v1)|null|
 |**2022-12-15**|**Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners**|Zitian Chen et.al.|[2212.08066v1](http://arxiv.org/abs/2212.08066v1)|null|
