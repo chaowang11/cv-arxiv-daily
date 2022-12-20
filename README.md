@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
+|**2022-12-15**|**NAWQ-SR: A Hybrid-Precision NPU Engine for Efficient On-Device Super-Resolution**|Stylianos I. Venieris et.al.|[2212.09501v1](http://arxiv.org/abs/2212.09501v1)|null|
+|**2022-12-19**|**Pixel super-resolution interference pattern sensing via the aliasing effect for laser frequency metrology**|Lipeng Wan et.al.|[2212.09373v1](http://arxiv.org/abs/2212.09373v1)|null|
+|**2022-12-19**|**AI Security for Geoscience and Remote Sensing: Challenges and Future Trends**|Yonghao Xu et.al.|[2212.09360v1](http://arxiv.org/abs/2212.09360v1)|null|
 |**2022-12-15**|**BigBrain-MR: a new digital phantom with anatomically-realistic magnetic resonance properties at 100-μm resolution for magnetic resonance methods development**|Cristina Sainz Martinez et.al.|[2212.08165v1](http://arxiv.org/abs/2212.08165v1)|null|
 |**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
 |**2022-12-17**|**DCS-RISR: Dynamic Channel Splitting for Efficient Real-world Image Super-Resolution**|Junbo Qiao et.al.|[2212.07613v2](http://arxiv.org/abs/2212.07613v2)|null|
@@ -96,6 +100,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
 |**2022-12-17**|**DCS-RISR: Dynamic Channel Splitting for Efficient Real-world Image Super-Resolution**|Junbo Qiao et.al.|[2212.07613v2](http://arxiv.org/abs/2212.07613v2)|null|
 |**2022-12-13**|**Source-Aware Spatial-Spectral-Integrated Double U-Net for Image Fusion**|Siran Peng et.al.|[2212.06466v1](http://arxiv.org/abs/2212.06466v1)|null|
@@ -158,6 +163,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-14**|**Mitigating Artifacts in Real-World Video Super-Resolution Models**|Liangbin Xie et.al.|[2212.07339v1](http://arxiv.org/abs/2212.07339v1)|**[link](https://github.com/tencentarc/fastrealvsr)**|
 |**2022-12-10**|**Benchmark Dataset and Effective Inter-Frame Alignment for Real-World Video Super-Resolution**|Ruohao Wang et.al.|[2212.05342v1](http://arxiv.org/abs/2212.05342v1)|null|
 |**2022-11-16**|**SATVSR: Scenario Adaptive Transformer for Cross Scenarios Video Super-Resolution**|Yongjie Chen et.al.|[2211.08703v1](http://arxiv.org/abs/2211.08703v1)|null|
@@ -268,6 +274,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-19**|**Scalable Diffusion Models with Transformers**|William Peebles et.al.|[2212.09748v1](http://arxiv.org/abs/2212.09748v1)|null|
+|**2022-12-19**|**Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?**|Shuheng Liu et.al.|[2212.09747v1](http://arxiv.org/abs/2212.09747v1)|null|
+|**2022-12-19**|**DSI++: Updating Transformer Memory with New Documents**|Sanket Vaibhav Mehta et.al.|[2212.09744v1](http://arxiv.org/abs/2212.09744v1)|null|
+|**2022-12-19**|**Top Down Approach to Topological Duality Defects**|Jonathan J. Heckman et.al.|[2212.09743v1](http://arxiv.org/abs/2212.09743v1)|null|
+|**2022-12-19**|**Evolution of the radius of analyticity for the generalized Benjamin equation**|Renata O. Figueira et.al.|[2212.09728v1](http://arxiv.org/abs/2212.09728v1)|null|
+|**2022-12-19**|**A Retrieve-and-Read Framework for Knowledge Graph Link Prediction**|Vardaan Pahuja et.al.|[2212.09724v1](http://arxiv.org/abs/2212.09724v1)|null|
+|**2022-12-19**|**Fractal dimensions of fractal transformations and Quantization dimensions for bi-Lipschitz mappings**|Manuj Verma et.al.|[2212.09669v1](http://arxiv.org/abs/2212.09669v1)|null|
+|**2022-12-19**|**A unimodal sequence with mode at a quarter length**|Max Y. C. Liu et.al.|[2212.09632v1](http://arxiv.org/abs/2212.09632v1)|null|
+|**2022-12-19**|**Expected Growth Criterion: An Axiomatization**|Joshua Lawson et.al.|[2212.09617v1](http://arxiv.org/abs/2212.09617v1)|null|
+|**2022-12-19**|**Tailoring photon statistics with an atom-based two-photon interferometer**|Martin Cordier et.al.|[2212.09592v1](http://arxiv.org/abs/2212.09592v1)|null|
+|**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
+|**2022-12-19**|**Solutions of the Sinh-Gordon and Sine-Gordon equations and applications**|Giannis Polychrou et.al.|[2212.09546v1](http://arxiv.org/abs/2212.09546v1)|null|
+|**2022-12-19**|**MIST: Multi-modal Iterative Spatial-Temporal Transformer for Long-form Video Question Answering**|Difei Gao et.al.|[2212.09522v1](http://arxiv.org/abs/2212.09522v1)|null|
+|**2022-12-19**|**Performance assessment and exhaustive listing of 500+ nature inspired metaheuristic algorithms**|Zhongqiang Ma et.al.|[2212.09479v1](http://arxiv.org/abs/2212.09479v1)|null|
+|**2022-12-19**|**Improving the Generalizability of Text-Based Emotion Detection by Leveraging Transformers with Psycholinguistic Features**|Sourabh Zanwar et.al.|[2212.09465v1](http://arxiv.org/abs/2212.09465v1)|null|
+|**2022-12-19**|**Difformer: Empowering Diffusion Model on Embedding Space for Text Generation**|Zhujin Gao et.al.|[2212.09412v1](http://arxiv.org/abs/2212.09412v1)|null|
+|**2022-12-19**|**Stochastic stability analysis of legged locomotion using unscented transformation**|Guner Dilsad ER et.al.|[2212.09361v1](http://arxiv.org/abs/2212.09361v1)|null|
+|**2022-12-19**|**Review of security techniques for memristor computing systems**|Minhui Zou et.al.|[2212.09347v1](http://arxiv.org/abs/2212.09347v1)|null|
+|**2022-12-19**|**Landen transformations applied to approximation**|Rahim Kargar et.al.|[2212.09336v1](http://arxiv.org/abs/2212.09336v1)|null|
+|**2022-12-19**|**SrTR: Self-reasoning Transformer with Visual-linguistic Knowledge for Scene Graph Generation**|Yuxiang Zhang et.al.|[2212.09329v1](http://arxiv.org/abs/2212.09329v1)|null|
+|**2022-12-19**|**From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration**|Zekun Qian et.al.|[2212.09298v1](http://arxiv.org/abs/2212.09298v1)|null|
+|**2022-12-19**|**Learning Object-level Point Augmentor for Semi-supervised 3D Object Detection**|Cheng-Ju Ho et.al.|[2212.09273v1](http://arxiv.org/abs/2212.09273v1)|**[link](https://github.com/nomiaro/OPA)**|
+|**2022-12-19**|**Focal-UNet: UNet-like Focal Modulation for Medical Image Segmentation**|MohammadReza Naderi et.al.|[2212.09263v1](http://arxiv.org/abs/2212.09263v1)|null|
+|**2022-12-19**|**ColoristaNet for Photorealistic Video Style Transfer**|Xiaowen Qiu et.al.|[2212.09247v1](http://arxiv.org/abs/2212.09247v1)|null|
+|**2022-12-19**|**On Non-Interactive Source Simulation via Fourier Transform**|Farhad Shirani et.al.|[2212.09239v1](http://arxiv.org/abs/2212.09239v1)|null|
+|**2022-12-19**|**Recognizing the  ${\rm G}_2$ -horospherical manifold of Picard number 1 by varieties of minimal rational tangents**|Jun-Muk Hwang et.al.|[2212.09226v1](http://arxiv.org/abs/2212.09226v1)|null|
+|**2022-12-19**|**Digital noise spectroscopy with a quantum sensor**|Guoqing Wang et.al.|[2212.09216v1](http://arxiv.org/abs/2212.09216v1)|null|
+|**2022-12-18**|**Identification of time-varying counterfactual parameters in nonlinear panel models**|Irene Botosaru et.al.|[2212.09193v1](http://arxiv.org/abs/2212.09193v1)|null|
+|**2022-12-18**|**Problems, proofs, and disproofs on the inversion number**|Guillaume Aubian et.al.|[2212.09188v1](http://arxiv.org/abs/2212.09188v1)|null|
+|**2022-12-18**|**Medical Diagnosis with Large Scale Multimodal Transformers -- Leveraging Diverse Data for More Accurate Diagnosis**|Firas Khader et.al.|[2212.09162v1](http://arxiv.org/abs/2212.09162v1)|null|
+|**2022-12-18**|**Estimating the Adversarial Robustness of Attributions in Text with Transformers**|Adam Ivankay et.al.|[2212.09155v1](http://arxiv.org/abs/2212.09155v1)|null|
+|**2022-12-18**|**Simulation of linear non-Hermitian boundary-value problems with quantum singular value transformation**|I. Novikau et.al.|[2212.09113v1](http://arxiv.org/abs/2212.09113v1)|null|
+|**2022-12-18**|**A Generalized Framework for Critical Heat Flux Detection Using Unsupervised Image-to-Image Translation**|Firas Al-Hindawi et.al.|[2212.09107v1](http://arxiv.org/abs/2212.09107v1)|null|
+|**2022-12-18**|**Multi-embodiment Legged Robot Control as a Sequence Modeling Problem**|Chen Yu et.al.|[2212.09078v1](http://arxiv.org/abs/2212.09078v1)|null|
+|**2022-12-18**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069v1](http://arxiv.org/abs/2212.09069v1)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
+|**2022-12-18**|**Style-Hallucinated Dual Consistency Learning: A Unified Framework for Visual Domain Generalization**|Yuyang Zhao et.al.|[2212.09068v1](http://arxiv.org/abs/2212.09068v1)|**[link](https://github.com/helioszhao/shade-visualdg)**|
+|**2022-12-18**|**BEATs: Audio Pre-Training with Acoustic Tokenizers**|Sanyuan Chen et.al.|[2212.09058v1](http://arxiv.org/abs/2212.09058v1)|**[link](https://github.com/microsoft/unilm/tree/master/beats)**|
+|**2022-12-18**|**The Underlying Correlated Dynamics in Neural Training**|Rotem Turjeman et.al.|[2212.09040v1](http://arxiv.org/abs/2212.09040v1)|null|
+|**2022-12-18**|**Multi-Instance Partial-Label Learning: Towards Exploiting Dual Inexact Supervision**|Wei Tang et.al.|[2212.08997v1](http://arxiv.org/abs/2212.08997v1)|null|
+|**2022-12-18**|**PoE: a Panel of Experts for Generalized Automatic Dialogue Assessment**|Chen Zhang et.al.|[2212.08992v1](http://arxiv.org/abs/2212.08992v1)|null|
+|**2022-12-18**|**Exact relationships between the GW approximation and equation-of-motion coupled-cluster theories through the quasi-boson formalism**|Johannes Tölle et.al.|[2212.08982v1](http://arxiv.org/abs/2212.08982v1)|null|
+|**2022-12-17**|**Trusting the Explainers: Teacher Validation of Explainable Artificial Intelligence for Course Design**|Vinitra Swamy et.al.|[2212.08955v1](http://arxiv.org/abs/2212.08955v1)|**[link](https://github.com/epfl-ml4ed/trusting-explainers)**|
+|**2022-12-17**|**Detection of Quasi-Periodic Oscillations in the Blazar S4 0954+658 with TESS**|Shubham Kishore et.al.|[2212.08918v1](http://arxiv.org/abs/2212.08918v1)|null|
+|**2022-12-17**|**Discrete symmetry transformations on non-abelian gauge fields**|Amitabha Lahiri et.al.|[2212.08907v1](http://arxiv.org/abs/2212.08907v1)|null|
+|**2022-12-17**|**Design and Simulation of a Micro-coiled Digitally-Controlled Variable Inductor with a Monolithically Integrated MEMS Switch**|Abdelhameed. Sharaf et.al.|[2212.08899v1](http://arxiv.org/abs/2212.08899v1)|null|
+|**2022-12-17**|**Specification tests for normal/gamma and stable/gamma stochastic frontier models based on empirical transforms**|Christos K. Papadimitriou et.al.|[2212.08867v1](http://arxiv.org/abs/2212.08867v1)|null|
+|**2022-12-17**|**HyPe: Better Pre-trained Language Model Fine-tuning with Hidden Representation Perturbation**|Hongyi Yuan et.al.|[2212.08853v1](http://arxiv.org/abs/2212.08853v1)|null|
+|**2022-12-17**|**Green's Functions and Existence of Solutions of Nonlinear Fractional Implicit Difference Equations with Dirichlet Boundary Conditions**|Alberto Cabada et.al.|[2212.08851v1](http://arxiv.org/abs/2212.08851v1)|null|
+|**2022-12-17**|**The finite Hilbert transform acting in the Zygmund space LlogL**|Guillermo P. Curbera et.al.|[2212.08835v1](http://arxiv.org/abs/2212.08835v1)|null|
+|**2022-12-17**|**Leveraging Wastewater Monitoring for COVID-19 Forecasting in the US: a Deep Learning study**|Mehrdad Fazli et.al.|[2212.08798v1](http://arxiv.org/abs/2212.08798v1)|**[link](https://github.com/mehrdadfazli/deeplearning-covid19-wastewater)**|
 |**2022-12-16**|**Fock space representations of Bogolyubov transformations as spin representations**|K. Neergård et.al.|[2212.08598v1](http://arxiv.org/abs/2212.08598v1)|null|
 |**2022-12-16**|**On the Convergence of Random Fourier--Jacobi Series in  $L_{[-1,1]}^{p,(η,τ)}$  space**|Partiswari Maharana et.al.|[2212.08592v1](http://arxiv.org/abs/2212.08592v1)|null|
 |**2022-12-16**|**Spectral Current Density and Responsivity Scaling for Fourier Transform Photocurrent Spectroscopy**|Jan Kunc et.al.|[2212.08587v1](http://arxiv.org/abs/2212.08587v1)|null|
@@ -629,6 +685,7 @@
 |**2022-12-13**|**Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting**|Su Wang et.al.|[2212.06909v1](http://arxiv.org/abs/2212.06909v1)|null|
 |**2022-12-09**|**SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model**|Shaoan Xie et.al.|[2212.05034v1](http://arxiv.org/abs/2212.05034v1)|null|
 |**2022-12-06**|**SDM: Spatial Diffusion Model for Large Hole Image Inpainting**|Wenbo Li et.al.|[2212.02963v1](http://arxiv.org/abs/2212.02963v1)|**[link](https://github.com/fenglinglwb/sdm)**|
+|**2022-12-18**|**Laplacian Convolutional Representation for Traffic Time Series Imputation**|Xinyu Chen et.al.|[2212.01529v2](http://arxiv.org/abs/2212.01529v2)|**[link](https://github.com/xinychen/transdim)**|
 |**2022-12-01**|**Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery**|Yisi Luo et.al.|[2212.00262v1](http://arxiv.org/abs/2212.00262v1)|null|
 |**2022-11-25**|**Generative Modeling in Structural-Hankel Domain for Color Image Inpainting**|Zihao Li et.al.|[2211.13857v1](http://arxiv.org/abs/2211.13857v1)|null|
 |**2022-11-25**|**WSSL: Weighted Self-supervised Learning Framework For Image-inpainting**|Shubham Gupta et.al.|[2211.13856v1](http://arxiv.org/abs/2211.13856v1)|**[link](https://github.com/IamShubhamGupto/WSSL-Weighted-Self-Supervised-Learning-for-Image-Inpainting)**|
