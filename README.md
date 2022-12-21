@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-20**|**Super-resolution enhancement in bi-photon spatial mode demultiplexin**|Florence Grenapin et.al.|[2212.10468v1](http://arxiv.org/abs/2212.10468v1)|null|
+|**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-15**|**NAWQ-SR: A Hybrid-Precision NPU Engine for Efficient On-Device Super-Resolution**|Stylianos I. Venieris et.al.|[2212.09501v1](http://arxiv.org/abs/2212.09501v1)|null|
 |**2022-12-19**|**Pixel super-resolution interference pattern sensing via the aliasing effect for laser frequency metrology**|Lipeng Wan et.al.|[2212.09373v1](http://arxiv.org/abs/2212.09373v1)|null|
@@ -100,6 +102,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
 |**2022-12-17**|**DCS-RISR: Dynamic Channel Splitting for Efficient Real-world Image Super-Resolution**|Junbo Qiao et.al.|[2212.07613v2](http://arxiv.org/abs/2212.07613v2)|null|
@@ -274,6 +277,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-20**|**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta Optimizers**|Damai Dai et.al.|[2212.10559v1](http://arxiv.org/abs/2212.10559v1)|null|
+|**2022-12-20**|**A Length-Extrapolatable Transformer**|Yutao Sun et.al.|[2212.10554v1](http://arxiv.org/abs/2212.10554v1)|null|
+|**2022-12-20**|**Pretraining Without Attention**|Junxiong Wang et.al.|[2212.10544v1](http://arxiv.org/abs/2212.10544v1)|null|
+|**2022-12-20**|**Measure More, Question More: Experimental Studies on Transformer-based Language Models and Complement Coercion**|Yuling Gu et.al.|[2212.10536v1](http://arxiv.org/abs/2212.10536v1)|null|
+|**2022-12-20**|**Transformers Go for the LOLs: Generating (Humourous) Titles from Scientific Abstracts End-to-End**|Yanran Chen et.al.|[2212.10522v1](http://arxiv.org/abs/2212.10522v1)|null|
+|**2022-12-20**|**Accurate holographic light potentials using pixel crosstalk modelling**|P. Schroff et.al.|[2212.10507v1](http://arxiv.org/abs/2212.10507v1)|null|
+|**2022-12-20**|**Mini-Model Adaptation: Efficiently Extending Pretrained Models to New Languages via Aligned Shallow Training**|Kelly Marchisio et.al.|[2212.10503v1](http://arxiv.org/abs/2212.10503v1)|null|
+|**2022-12-20**|**Structurally damped  $σ-$ evolution equations with power-law memory**|Nelson Faustino et.al.|[2212.10463v1](http://arxiv.org/abs/2212.10463v1)|null|
+|**2022-12-20**|**Obtaining gluon propagator in a new generalized gauge**|Jale Y. Sungu et.al.|[2212.10457v1](http://arxiv.org/abs/2212.10457v1)|null|
+|**2022-12-20**|**Pragmatic isomorphism proofs between Coq representations: application to lambda-term families**|Catherine Dubois et.al.|[2212.10453v1](http://arxiv.org/abs/2212.10453v1)|null|
+|**2022-12-20**|**Is GPT-3 a Good Data Annotator?**|Bosheng Ding et.al.|[2212.10450v1](http://arxiv.org/abs/2212.10450v1)|null|
+|**2022-12-20**|**Parameter-efficient Zero-shot Transfer for Cross-Language Dense Retrieval with Adapters**|Eugene Yang et.al.|[2212.10448v1](http://arxiv.org/abs/2212.10448v1)|null|
+|**2022-12-20**|**Deep Riemannian Networks for EEG Decoding**|Daniel Wilson et.al.|[2212.10426v1](http://arxiv.org/abs/2212.10426v1)|null|
+|**2022-12-20**|**Localising In-Domain Adaptation of Transformer-Based Biomedical Language Models**|Tommaso Mario Buonocore et.al.|[2212.10422v1](http://arxiv.org/abs/2212.10422v1)|null|
+|**2022-12-20**|**AnnoBERT: Effectively Representing Multiple Annotators' Label Choices to Improve Hate Speech Detection**|Wenjie Yin et.al.|[2212.10405v1](http://arxiv.org/abs/2212.10405v1)|null|
+|**2022-12-20**|**Chemical Design of Electronic and Magnetic Energy Scales in Tetravalent Praseodymium**|Arun Ramanathan et.al.|[2212.10401v1](http://arxiv.org/abs/2212.10401v1)|null|
+|**2022-12-20**|**Receptive Field Alignment Enables Transformer Length Extrapolation**|Ta-Chung Chi et.al.|[2212.10356v1](http://arxiv.org/abs/2212.10356v1)|null|
+|**2022-12-20**|**The cumulant generating function as a novel observable to cumulate weak lensing information**|Aoife Boyle et.al.|[2212.10351v1](http://arxiv.org/abs/2212.10351v1)|null|
+|**2022-12-20**|**Near-invariance of femtosecond laser dielectric ablation spanning over three octaves**|Mario Garcia-Lechuga et.al.|[2212.10326v1](http://arxiv.org/abs/2212.10326v1)|null|
+|**2022-12-20**|**SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers**|Hongyi Yuan et.al.|[2212.10325v1](http://arxiv.org/abs/2212.10325v1)|null|
+|**2022-12-20**|**Efficient and Sound Differentiable Programming in a Functional Array-Processing Language**|Amir Shaikhha et.al.|[2212.10307v1](http://arxiv.org/abs/2212.10307v1)|null|
+|**2022-12-20**|**ATLAS: An IoT Architecture and Secure Open-source Networking Stack for Anonymous Localization and Tracking Using Smartphones and Bluetooth Beacons**|Bharath Srinivas Prabakaran et.al.|[2212.10289v1](http://arxiv.org/abs/2212.10289v1)|null|
+|**2022-12-20**|**fastMI: a fast and consistent copula-based estimator of mutual information**|Soumik Purkayastha et.al.|[2212.10268v1](http://arxiv.org/abs/2212.10268v1)|null|
+|**2022-12-20**|**On exact truncation of backward waves in elastrodynamics**|Wangtao Lu et.al.|[2212.10267v1](http://arxiv.org/abs/2212.10267v1)|null|
+|**2022-12-20**|**ReCode: Robustness Evaluation of Code Generation Models**|Shiqi Wang et.al.|[2212.10264v1](http://arxiv.org/abs/2212.10264v1)|**[link](https://github.com/amazon-science/recode)**|
+|**2022-12-20**|**Diff-Glat: Diffusion Glancing Transformer for Parallel Sequence to Sequence Learning**|Lihua Qian et.al.|[2212.10240v1](http://arxiv.org/abs/2212.10240v1)|null|
+|**2022-12-20**|**On the orthogonality of zero-mean Gaussian measures: Sufficiently dense sampling**|Reinhard Furrer et.al.|[2212.10239v1](http://arxiv.org/abs/2212.10239v1)|null|
+|**2022-12-20**|**A Comprehensive Study and Comparison of the Robustness of 3D Object Detectors Against Adversarial Attacks**|Yifan Zhang et.al.|[2212.10230v1](http://arxiv.org/abs/2212.10230v1)|null|
+|**2022-12-20**|**EIT: Enhanced Interactive Transformer**|Tong Zheng et.al.|[2212.10197v1](http://arxiv.org/abs/2212.10197v1)|null|
+|**2022-12-20**|**Three-dimensional tomographic imaging of the magnetization vector field using Fourier transform holography**|Marisel Di Pietro Martínez et.al.|[2212.10183v1](http://arxiv.org/abs/2212.10183v1)|null|
+|**2022-12-20**|**CGCV:Context Guided Correlation Volume for Optical Flow Neural Networks**|Jiangpeng Li et.al.|[2212.10174v1](http://arxiv.org/abs/2212.10174v1)|null|
+|**2022-12-20**|**Wafer-Scale Fabrication of Hierarchically Porous Silicon and Silica Glass by Active Nanoparticle-Assisted Chemical Etching and Pseudomorphic Thermal Oxidation**|Stella Gries et.al.|[2212.10160v1](http://arxiv.org/abs/2212.10160v1)|null|
+|**2022-12-20**|**Image enhancement with wavelet-optimized whitening**|Frédéric Auchère et.al.|[2212.10134v1](http://arxiv.org/abs/2212.10134v1)|null|
+|**2022-12-20**|**Content Adaptive Latents and Decoder for Neural Image Compression**|Guanbo Pan et.al.|[2212.10132v1](http://arxiv.org/abs/2212.10132v1)|null|
+|**2022-12-20**|**Quantum bounds on the generalized Lyapunov exponents**|Silvia Pappalardi et.al.|[2212.10123v1](http://arxiv.org/abs/2212.10123v1)|null|
+|**2022-12-20**|**Visual Transformers for Primates Classification and Covid Detection**|Steffen Illium et.al.|[2212.10093v1](http://arxiv.org/abs/2212.10093v1)|null|
+|**2022-12-20**|**Computer Vision Methods for Automating Turbot Fish Cutting**|Fernando Martin-Rodriguez et.al.|[2212.10091v1](http://arxiv.org/abs/2212.10091v1)|null|
+|**2022-12-20**|**Photoacoustic phase-controlled Fourier-transform infrared spectroscopy**|Santeri Larnimaa et.al.|[2212.10084v1](http://arxiv.org/abs/2212.10084v1)|null|
+|**2022-12-20**|**Out-of-sample scoring and automatic selection of causal estimators**|Egor Kraev et.al.|[2212.10076v1](http://arxiv.org/abs/2212.10076v1)|null|
+|**2022-12-20**|**Covariant Riesz transform on differential forms for  $1<p\leq2$ **|Li-Juan Cheng et.al.|[2212.10023v1](http://arxiv.org/abs/2212.10023v1)|null|
+|**2022-12-20**|**Dynamic Molecular Graph-based Implementation for Biophysical Properties Prediction**|Carter Knutson et.al.|[2212.09991v1](http://arxiv.org/abs/2212.09991v1)|null|
+|**2022-12-20**|**Conditioned Generative Transformers for Histopathology Image Synthetic Augmentation**|Meng Li et.al.|[2212.09977v1](http://arxiv.org/abs/2212.09977v1)|null|
+|**2022-12-20**|**Future Sight: Dynamic Story Generation with Large Pretrained Language Models**|Brian D. Zimmerman et.al.|[2212.09947v1](http://arxiv.org/abs/2212.09947v1)|null|
+|**2022-12-19**|**Eikonal Equation 0.1**|Iryna Yehorchenko et.al.|[2212.09914v1](http://arxiv.org/abs/2212.09914v1)|null|
+|**2022-12-19**|**LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer**|Ning Yu et.al.|[2212.09877v1](http://arxiv.org/abs/2212.09877v1)|null|
+|**2022-12-19**|**MANTIS at TSAR-2022 Shared Task: Improved Unsupervised Lexical Simplification with Pretrained Encoders**|Xiaofei Li et.al.|[2212.09855v1](http://arxiv.org/abs/2212.09855v1)|null|
+|**2022-12-19**|**(Psycho-)Linguistic Features Meet Transformer Models for Improved Explainable and Controllable Text Simplification**|Yu Qiao et.al.|[2212.09848v1](http://arxiv.org/abs/2212.09848v1)|null|
+|**2022-12-19**|**Exploring Hybrid and Ensemble Models for Multiclass Prediction of Mental Health Status on Social Media**|Sourabh Zanwar et.al.|[2212.09839v1](http://arxiv.org/abs/2212.09839v1)|null|
+|**2022-12-19**|**Fixed and adaptive landmark sets for finite pseudometric spaces**|Jason Cory Brunson et.al.|[2212.09826v1](http://arxiv.org/abs/2212.09826v1)|null|
+|**2022-12-19**|**SEEMS: A Single Event Effects and Muon Spectroscopy facility at the Spallation Neutron Source**|Travis J. Williams et.al.|[2212.09823v1](http://arxiv.org/abs/2212.09823v1)|null|
 |**2022-12-19**|**Scalable Diffusion Models with Transformers**|William Peebles et.al.|[2212.09748v1](http://arxiv.org/abs/2212.09748v1)|null|
 |**2022-12-19**|**Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?**|Shuheng Liu et.al.|[2212.09747v1](http://arxiv.org/abs/2212.09747v1)|null|
 |**2022-12-19**|**DSI++: Updating Transformer Memory with New Documents**|Sanket Vaibhav Mehta et.al.|[2212.09744v1](http://arxiv.org/abs/2212.09744v1)|null|
