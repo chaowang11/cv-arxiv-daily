@@ -302,8 +302,8 @@
 |**2022-12-19**|**Recognizing the  ${\rm G}_2$ -horospherical manifold of Picard number 1 by varieties of minimal rational tangents**|Jun-Muk Hwang et.al.|[2212.09226v1](http://arxiv.org/abs/2212.09226v1)|null|
 |**2022-12-19**|**Digital noise spectroscopy with a quantum sensor**|Guoqing Wang et.al.|[2212.09216v1](http://arxiv.org/abs/2212.09216v1)|null|
 |**2022-12-18**|**Identification of time-varying counterfactual parameters in nonlinear panel models**|Irene Botosaru et.al.|[2212.09193v1](http://arxiv.org/abs/2212.09193v1)|null|
-|**2022-12-18**|**Problems, proofs, and disproofs on the inversion number**|Guillaume Aubian et.al.|[2212.09188v1](http://arxiv.org/abs/2212.09188v1)|null|
-|**2022-12-18**|**Medical Diagnosis with Large Scale Multimodal Transformers -- Leveraging Diverse Data for More Accurate Diagnosis**|Firas Khader et.al.|[2212.09162v1](http://arxiv.org/abs/2212.09162v1)|null|
+|**2022-12-20**|**Problems, proofs, and disproofs on the inversion number**|Guillaume Aubian et.al.|[2212.09188v2](http://arxiv.org/abs/2212.09188v2)|null|
+|**2022-12-20**|**Medical Diagnosis with Large Scale Multimodal Transformers: Leveraging Diverse Data for More Accurate Diagnosis**|Firas Khader et.al.|[2212.09162v2](http://arxiv.org/abs/2212.09162v2)|null|
 |**2022-12-18**|**Estimating the Adversarial Robustness of Attributions in Text with Transformers**|Adam Ivankay et.al.|[2212.09155v1](http://arxiv.org/abs/2212.09155v1)|null|
 |**2022-12-18**|**Simulation of linear non-Hermitian boundary-value problems with quantum singular value transformation**|I. Novikau et.al.|[2212.09113v1](http://arxiv.org/abs/2212.09113v1)|null|
 |**2022-12-18**|**A Generalized Framework for Critical Heat Flux Detection Using Unsupervised Image-to-Image Translation**|Firas Al-Hindawi et.al.|[2212.09107v1](http://arxiv.org/abs/2212.09107v1)|null|
@@ -318,7 +318,7 @@
 |**2022-12-17**|**Trusting the Explainers: Teacher Validation of Explainable Artificial Intelligence for Course Design**|Vinitra Swamy et.al.|[2212.08955v1](http://arxiv.org/abs/2212.08955v1)|**[link](https://github.com/epfl-ml4ed/trusting-explainers)**|
 |**2022-12-17**|**Detection of Quasi-Periodic Oscillations in the Blazar S4 0954+658 with TESS**|Shubham Kishore et.al.|[2212.08918v1](http://arxiv.org/abs/2212.08918v1)|null|
 |**2022-12-17**|**Discrete symmetry transformations on non-abelian gauge fields**|Amitabha Lahiri et.al.|[2212.08907v1](http://arxiv.org/abs/2212.08907v1)|null|
-|**2022-12-17**|**Design and Simulation of a Micro-coiled Digitally-Controlled Variable Inductor with a Monolithically Integrated MEMS Switch**|Abdelhameed. Sharaf et.al.|[2212.08899v1](http://arxiv.org/abs/2212.08899v1)|null|
+|**2022-12-20**|**Design and Simulation of a Micro-coiled Digitally-Controlled Variable Inductor with a Monolithically Integrated MEMS Switch**|Abdelhameed Sharaf et.al.|[2212.08899v2](http://arxiv.org/abs/2212.08899v2)|null|
 |**2022-12-17**|**Specification tests for normal/gamma and stable/gamma stochastic frontier models based on empirical transforms**|Christos K. Papadimitriou et.al.|[2212.08867v1](http://arxiv.org/abs/2212.08867v1)|null|
 |**2022-12-17**|**HyPe: Better Pre-trained Language Model Fine-tuning with Hidden Representation Perturbation**|Hongyi Yuan et.al.|[2212.08853v1](http://arxiv.org/abs/2212.08853v1)|null|
 |**2022-12-17**|**Green's Functions and Existence of Solutions of Nonlinear Fractional Implicit Difference Equations with Dirichlet Boundary Conditions**|Alberto Cabada et.al.|[2212.08851v1](http://arxiv.org/abs/2212.08851v1)|null|
