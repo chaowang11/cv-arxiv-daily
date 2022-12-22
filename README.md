@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-21**|**Continual Learning Approaches for Anomaly Detection**|Davide Dalle Pezze et.al.|[2212.11192v1](http://arxiv.org/abs/2212.11192v1)|null|
 |**2022-12-20**|**Super-resolution enhancement in bi-photon spatial mode demultiplexin**|Florence Grenapin et.al.|[2212.10468v1](http://arxiv.org/abs/2212.10468v1)|null|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
@@ -277,6 +278,47 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-21**|**A Wearable EEG System for Closed-Loop Neuromodulation of High-Frequency Sleep-Related Oscillations**|Scott Bressler et.al.|[2212.11273v1](http://arxiv.org/abs/2212.11273v1)|null|
+|**2022-12-21**|**Color-Dressed Generalized Biadjoint Scalar Amplitudes: Local Planarity**|Freddy Cachazo et.al.|[2212.11243v1](http://arxiv.org/abs/2212.11243v1)|null|
+|**2022-12-21**|**Not Just Pretty Pictures: Text-to-Image Generators Enable Interpretable Interventions for Robust Representations**|Jianhao Yuan et.al.|[2212.11237v1](http://arxiv.org/abs/2212.11237v1)|null|
+|**2022-12-21**|**Entropy- and Distance-Based Predictors From GPT-2 Attention Patterns Predict Reading Times Over and Above GPT-2 Surprisal**|Byung-Doh Oh et.al.|[2212.11185v1](http://arxiv.org/abs/2212.11185v1)|**[link](https://github.com/byungdoh/attn_dist)**|
+|**2022-12-21**|**The Inverse Problem for the Euler-Poisson-Darboux Equation and Shifted  $k$ -Plane Transforms**|Boris Rubin et.al.|[2212.11179v1](http://arxiv.org/abs/2212.11179v1)|null|
+|**2022-12-21**|**Generating music with sentiment using Transformer-GANs**|Pedro Neves et.al.|[2212.11134v1](http://arxiv.org/abs/2212.11134v1)|null|
+|**2022-12-21**|**Device-Bind Key-Storageless Hardware AI Model IP Protection: A PUF and Permute-Diffusion Encryption-Enabled Approach**|Qianqian Pan et.al.|[2212.11133v1](http://arxiv.org/abs/2212.11133v1)|null|
+|**2022-12-21**|**What Makes for Good Tokenizers in Vision Transformer?**|Shengju Qian et.al.|[2212.11115v1](http://arxiv.org/abs/2212.11115v1)|null|
+|**2022-12-21**|**Recursive relations and quantum eigensolver algorithms within modified Schrieffer--Wolff transformations for the Hubbard dimer**|Quentin Marécat et.al.|[2212.11089v1](http://arxiv.org/abs/2212.11089v1)|null|
+|**2022-12-21**|**On the family of singular Brascamp-Lieb inequalities with dimensions 1,2,2, and 1**|Fred Yu-Hsiang Lin et.al.|[2212.11066v1](http://arxiv.org/abs/2212.11066v1)|null|
+|**2022-12-21**|**Coalgebraic Satisfiability Checking for Arithmetic  $μ$ -Calculi**|Daniel Hausmann et.al.|[2212.11055v1](http://arxiv.org/abs/2212.11055v1)|null|
+|**2022-12-21**|**Restriction theorem for Fourier-Dunkl transform II: Paraboloid, sphere, and hyperboloid surfaces**|P Jitendra Kumar Senapati et.al.|[2212.11052v1](http://arxiv.org/abs/2212.11052v1)|null|
+|**2022-12-21**|**Second moment of the light-cone Siegel transform and applications**|Dubi Kelmer et.al.|[2212.11035v1](http://arxiv.org/abs/2212.11035v1)|null|
+|**2022-12-21**|**Random spin-orbit gates in the system of a Topological insulator and a Quantum dot**|S. Wolski et.al.|[2212.11026v1](http://arxiv.org/abs/2212.11026v1)|null|
+|**2022-12-21**|**XMM-Newton**|Norbert Schartel et.al.|[2212.10995v1](http://arxiv.org/abs/2212.10995v1)|null|
+|**2022-12-21**|**Almost Riemann Solitons with Vertical Potential on Conformal Cosymplectic Contact Complex Riemannian Manifolds**|Mancho Manev et.al.|[2212.10989v1](http://arxiv.org/abs/2212.10989v1)|null|
+|**2022-12-21**|**Yamabe Solitons on Conformal Almost Contact Complex Riemannian Manifolds with Vertical Torse-Forming Vector Field**|Mancho Manev et.al.|[2212.10982v1](http://arxiv.org/abs/2212.10982v1)|null|
+|**2022-12-21**|**Proceedings of the Thirteenth International Workshop on Graph Computation Models**|Reiko Heckel et.al.|[2212.10975v1](http://arxiv.org/abs/2212.10975v1)|null|
+|**2022-12-21**|**Computational framework for complex flow and transport in heterogeneous porous media**|Matteo Icardi et.al.|[2212.10961v1](http://arxiv.org/abs/2212.10961v1)|null|
+|**2022-12-21**|**TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization**|Fabrizio Guillaro et.al.|[2212.10957v1](http://arxiv.org/abs/2212.10957v1)|null|
+|**2022-12-21**|**Characterization of micro pore optics for full-field X-ray fluorescence imaging**|Siwen An et.al.|[2212.10906v1](http://arxiv.org/abs/2212.10906v1)|null|
+|**2022-12-21**|**Gravity from holomorphic discs and celestial  $Lw_{1+\infty}$  symmetries**|Lionel Mason et.al.|[2212.10895v1](http://arxiv.org/abs/2212.10895v1)|null|
+|**2022-12-21**|**JCMT BISTRO Observations: Magnetic Field Morphology of Bubbles Associated with NGC 6334**|Mehrnoosh Tahani et.al.|[2212.10884v1](http://arxiv.org/abs/2212.10884v1)|null|
+|**2022-12-21**|**Detecting Temporal shape changes with the Euler Characteristic Transform**|Lewis Marsh et.al.|[2212.10883v1](http://arxiv.org/abs/2212.10883v1)|null|
+|**2022-12-21**|**Query-Response Causal Analysis of Reaction Events in Biochemical Reaction Networks**|Pavel Loskot et.al.|[2212.10849v1](http://arxiv.org/abs/2212.10849v1)|null|
+|**2022-12-21**|**Carleman linearization based efficient quantum algorithm for higher order polynomial differential equations**|Amit Surana et.al.|[2212.10775v1](http://arxiv.org/abs/2212.10775v1)|null|
+|**2022-12-21**|**JASMINE: Arabic GPT Models for Few-Shot Learning**|El Moatez Billah Nagoudi et.al.|[2212.10755v1](http://arxiv.org/abs/2212.10755v1)|null|
+|**2022-12-21**|**SLGTformer: An Attention-Based Approach to Sign Language Recognition**|Neil Song et.al.|[2212.10746v1](http://arxiv.org/abs/2212.10746v1)|**[link](https://github.com/neilsong/slt)**|
+|**2022-12-21**|**Spoken Language Understanding for Conversational AI: Recent Advances and Future Direction**|Soyeon Caren Han et.al.|[2212.10728v1](http://arxiv.org/abs/2212.10728v1)|null|
+|**2022-12-21**|**Beyond Contrastive Learning: A Variational Generative Model for Multilingual Retrieval**|John Wieting et.al.|[2212.10726v1](http://arxiv.org/abs/2212.10726v1)|null|
+|**2022-12-21**|**Investigation of Network Architecture for Multimodal Head-and-Neck Tumor Segmentation**|Ye Li et.al.|[2212.10724v1](http://arxiv.org/abs/2212.10724v1)|null|
+|**2022-12-21**|**Quantum vs classical Markov chains; Exactly solvable examples**|Ryu Sasaki et.al.|[2212.10713v1](http://arxiv.org/abs/2212.10713v1)|null|
+|**2022-12-21**|**Quantum vs Classical Birth and Death Processes; Exactly Solvable Examples**|Ryu Sasaki et.al.|[2212.10710v1](http://arxiv.org/abs/2212.10710v1)|null|
+|**2022-12-21**|**Zero-shot Triplet Extraction by Template Infilling**|Bosung Kim et.al.|[2212.10708v1](http://arxiv.org/abs/2212.10708v1)|null|
+|**2022-12-21**|**Analyzing Semantic Faithfulness of Language Models via Input Intervention on Conversational Question Answering**|Akshay Chaturvedi et.al.|[2212.10696v1](http://arxiv.org/abs/2212.10696v1)|null|
+|**2022-12-20**|**METEOR Guided Divergence for Video Captioning**|Daniel Lukas Rothenpieler et.al.|[2212.10690v1](http://arxiv.org/abs/2212.10690v1)|**[link](https://github.com/d-rothen/bmhrl)**|
+|**2022-12-20**|**Bayesian Quantum State Tomography with Python's PyMC**|Daniel J. Lum et.al.|[2212.10655v1](http://arxiv.org/abs/2212.10655v1)|null|
+|**2022-12-20**|**KronA: Parameter Efficient Tuning with Kronecker Adapter**|Ali Edalati et.al.|[2212.10650v1](http://arxiv.org/abs/2212.10650v1)|null|
+|**2022-12-20**|**Radial equivalence and applications to the qualitative theory for a class of non-homogeneous reaction-diffusion equations**|Razvan Gabriel Iagar et.al.|[2212.10644v1](http://arxiv.org/abs/2212.10644v1)|null|
+|**2022-12-20**|**Residual gauge symmetry in light-cone electromagnetism**|Sucheta Majumdar et.al.|[2212.10637v1](http://arxiv.org/abs/2212.10637v1)|null|
+|**2022-12-20**|**Volume-law to area-law entanglement transition in a non-unitary periodic Gaussian circuit**|Etienne Granet et.al.|[2212.10584v1](http://arxiv.org/abs/2212.10584v1)|null|
 |**2022-12-21**|**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**|Damai Dai et.al.|[2212.10559v2](http://arxiv.org/abs/2212.10559v2)|**[link](https://github.com/microsoft/lmops)**|
 |**2022-12-20**|**A Length-Extrapolatable Transformer**|Yutao Sun et.al.|[2212.10554v1](http://arxiv.org/abs/2212.10554v1)|null|
 |**2022-12-20**|**Pretraining Without Attention**|Junxiong Wang et.al.|[2212.10544v1](http://arxiv.org/abs/2212.10544v1)|null|
