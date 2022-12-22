@@ -277,7 +277,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-20**|**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta Optimizers**|Damai Dai et.al.|[2212.10559v1](http://arxiv.org/abs/2212.10559v1)|null|
+|**2022-12-21**|**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**|Damai Dai et.al.|[2212.10559v2](http://arxiv.org/abs/2212.10559v2)|**[link](https://github.com/microsoft/lmops)**|
 |**2022-12-20**|**A Length-Extrapolatable Transformer**|Yutao Sun et.al.|[2212.10554v1](http://arxiv.org/abs/2212.10554v1)|null|
 |**2022-12-20**|**Pretraining Without Attention**|Junxiong Wang et.al.|[2212.10544v1](http://arxiv.org/abs/2212.10544v1)|null|
 |**2022-12-20**|**Measure More, Question More: Experimental Studies on Transformer-based Language Models and Complement Coercion**|Yuling Gu et.al.|[2212.10536v1](http://arxiv.org/abs/2212.10536v1)|null|
@@ -289,7 +289,7 @@
 |**2022-12-20**|**Pragmatic isomorphism proofs between Coq representations: application to lambda-term families**|Catherine Dubois et.al.|[2212.10453v1](http://arxiv.org/abs/2212.10453v1)|null|
 |**2022-12-20**|**Is GPT-3 a Good Data Annotator?**|Bosheng Ding et.al.|[2212.10450v1](http://arxiv.org/abs/2212.10450v1)|null|
 |**2022-12-20**|**Parameter-efficient Zero-shot Transfer for Cross-Language Dense Retrieval with Adapters**|Eugene Yang et.al.|[2212.10448v1](http://arxiv.org/abs/2212.10448v1)|null|
-|**2022-12-20**|**Deep Riemannian Networks for EEG Decoding**|Daniel Wilson et.al.|[2212.10426v1](http://arxiv.org/abs/2212.10426v1)|null|
+|**2022-12-21**|**Deep Riemannian Networks for EEG Decoding**|Daniel Wilson et.al.|[2212.10426v2](http://arxiv.org/abs/2212.10426v2)|null|
 |**2022-12-20**|**Localising In-Domain Adaptation of Transformer-Based Biomedical Language Models**|Tommaso Mario Buonocore et.al.|[2212.10422v1](http://arxiv.org/abs/2212.10422v1)|null|
 |**2022-12-20**|**AnnoBERT: Effectively Representing Multiple Annotators' Label Choices to Improve Hate Speech Detection**|Wenjie Yin et.al.|[2212.10405v1](http://arxiv.org/abs/2212.10405v1)|null|
 |**2022-12-20**|**Chemical Design of Electronic and Magnetic Energy Scales in Tetravalent Praseodymium**|Arun Ramanathan et.al.|[2212.10401v1](http://arxiv.org/abs/2212.10401v1)|null|
@@ -310,7 +310,7 @@
 |**2022-12-20**|**CGCV:Context Guided Correlation Volume for Optical Flow Neural Networks**|Jiangpeng Li et.al.|[2212.10174v1](http://arxiv.org/abs/2212.10174v1)|null|
 |**2022-12-20**|**Wafer-Scale Fabrication of Hierarchically Porous Silicon and Silica Glass by Active Nanoparticle-Assisted Chemical Etching and Pseudomorphic Thermal Oxidation**|Stella Gries et.al.|[2212.10160v1](http://arxiv.org/abs/2212.10160v1)|null|
 |**2022-12-20**|**Image enhancement with wavelet-optimized whitening**|Frédéric Auchère et.al.|[2212.10134v1](http://arxiv.org/abs/2212.10134v1)|null|
-|**2022-12-20**|**Content Adaptive Latents and Decoder for Neural Image Compression**|Guanbo Pan et.al.|[2212.10132v1](http://arxiv.org/abs/2212.10132v1)|null|
+|**2022-12-21**|**Content Adaptive Latents and Decoder for Neural Image Compression**|Guanbo Pan et.al.|[2212.10132v2](http://arxiv.org/abs/2212.10132v2)|null|
 |**2022-12-20**|**Quantum bounds on the generalized Lyapunov exponents**|Silvia Pappalardi et.al.|[2212.10123v1](http://arxiv.org/abs/2212.10123v1)|null|
 |**2022-12-20**|**Visual Transformers for Primates Classification and Covid Detection**|Steffen Illium et.al.|[2212.10093v1](http://arxiv.org/abs/2212.10093v1)|null|
 |**2022-12-20**|**Computer Vision Methods for Automating Turbot Fish Cutting**|Fernando Martin-Rodriguez et.al.|[2212.10091v1](http://arxiv.org/abs/2212.10091v1)|null|
@@ -784,7 +784,7 @@
 |**2022-10-24**|**Training and Inference on Any-Order Autoregressive Models the Right Way**|Andy Shih et.al.|[2205.13554v2](http://arxiv.org/abs/2205.13554v2)|**[link](https://github.com/andyshih12/mac)**|
 |**2022-05-24**|**Convolutional Neural Processes for Inpainting Satellite Images**|Alexander Pondaven et.al.|[2205.12407v1](http://arxiv.org/abs/2205.12407v1)|null|
 |**2022-05-21**|**Multi-feature Co-learning for Image Inpainting**|Jiayu Lin et.al.|[2205.10578v1](http://arxiv.org/abs/2205.10578v1)|**[link](https://github.com/gzhu-dvl/mfcl-inpainting)**|
-|**2022-05-20**|**Planning with Diffusion for Flexible Behavior Synthesis**|Michael Janner et.al.|[2205.09991v1](http://arxiv.org/abs/2205.09991v1)|**[link](https://github.com/jannerm/diffuser)**|
+|**2022-12-21**|**Planning with Diffusion for Flexible Behavior Synthesis**|Michael Janner et.al.|[2205.09991v2](http://arxiv.org/abs/2205.09991v2)|**[link](https://github.com/jannerm/diffuser)**|
 |**2022-05-19**|**Reconstruction of photospheric velocity fields from highly corrupted data**|Erico L. Rempel et.al.|[2205.09846v1](http://arxiv.org/abs/2205.09846v1)|null|
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
