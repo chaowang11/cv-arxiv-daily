@@ -278,6 +278,48 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-22**|**On a new class of 2-orthogonal polynomials, II_The integral representations**|Khalfa Douak et.al.|[2212.11949v1](http://arxiv.org/abs/2212.11949v1)|null|
+|**2022-12-22**|**On boundedness of isomerization paths for non- and semirelativistic molecules**|Ioannis Anapolitanos et.al.|[2212.11938v1](http://arxiv.org/abs/2212.11938v1)|null|
+|**2022-12-22**|**Beyond SOT: It's Time to Track Multiple Generic Objects at Once**|Christoph Mayer et.al.|[2212.11920v1](http://arxiv.org/abs/2212.11920v1)|null|
+|**2022-12-22**|**Majorana Scars as Group Singlets**|Z. Sun et.al.|[2212.11914v1](http://arxiv.org/abs/2212.11914v1)|null|
+|**2022-12-22**|**Efficient Sampling for Realized Variance Estimation in Time-Changed Diffusion Models**|Timo Dimitriadis et.al.|[2212.11833v1](http://arxiv.org/abs/2212.11833v1)|null|
+|**2022-12-22**|**Aspects of Conformal Field Theory**|Matteo Broccoli et.al.|[2212.11829v1](http://arxiv.org/abs/2212.11829v1)|null|
+|**2022-12-22**|**The Quantum Path Kernel: a Generalized Quantum Neural Tangent Kernel for Deep Quantum Machine Learning**|Massimiliano Incudini et.al.|[2212.11826v1](http://arxiv.org/abs/2212.11826v1)|null|
+|**2022-12-21**|**A quantum algorithm for counting zero-crossings**|Alok Shukla et.al.|[2212.11814v1](http://arxiv.org/abs/2212.11814v1)|null|
+|**2022-12-22**|**Device Selection for the Coexistence of URLLC and Distributed Learning Services**|Milad Ganjalizadeh et.al.|[2212.11805v1](http://arxiv.org/abs/2212.11805v1)|null|
+|**2022-12-22**|**EuclidNets: An Alternative Operation for Efficient Inference of Deep Learning Models**|Xinlin Li et.al.|[2212.11803v1](http://arxiv.org/abs/2212.11803v1)|null|
+|**2022-12-22**|**Sum and Tensor of Quantitative Effects**|Giorgio Bacci et.al.|[2212.11784v1](http://arxiv.org/abs/2212.11784v1)|null|
+|**2022-12-22**|**Aliasing is a Driver of Adversarial Attacks**|Adrián Rodríguez-Muñoz et.al.|[2212.11760v1](http://arxiv.org/abs/2212.11760v1)|null|
+|**2022-12-22**|**Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing**|Tian Dong et.al.|[2212.11751v1](http://arxiv.org/abs/2212.11751v1)|**[link](https://github.com/chichidd/backdoordynamicdnn)**|
+|**2022-12-22**|**TransPath: Learning Heuristics For Grid-Based Pathfinding via Transformers**|Daniil Kirilenko et.al.|[2212.11730v1](http://arxiv.org/abs/2212.11730v1)|**[link](https://github.com/airi-institute/transpath)**|
+|**2022-12-22**|**Reversible Column Networks**|Yuxuan Cai et.al.|[2212.11696v1](http://arxiv.org/abs/2212.11696v1)|null|
+|**2022-12-22**|**GENIE: Large Scale Pre-training for Text Generation with Diffusion Model**|Zhenghao Lin et.al.|[2212.11685v1](http://arxiv.org/abs/2212.11685v1)|null|
+|**2022-12-22**|**Set-Transformer BeamsNet for AUV Velocity Forecasting in Complete DVL Outage Scenarios**|Nadav Cohen et.al.|[2212.11671v1](http://arxiv.org/abs/2212.11671v1)|null|
+|**2022-12-22**|**Time and Space Measures for a Complete Graph Computation Model**|Brian Courtehoute et.al.|[2212.11637v1](http://arxiv.org/abs/2212.11637v1)|null|
+|**2022-12-22**|**On the growth rate of polyregular functions**|Mikołaj Bojańczyk et.al.|[2212.11631v1](http://arxiv.org/abs/2212.11631v1)|null|
+|**2022-12-22**|**Towards Mechanised Proofs in Double-Pushout Graph Transformation**|Robert Söldner et.al.|[2212.11630v1](http://arxiv.org/abs/2212.11630v1)|null|
+|**2022-12-22**|**Graph-Based Specification and Automated Construction of ILP Problems**|Sebastian Ehmes et.al.|[2212.11629v1](http://arxiv.org/abs/2212.11629v1)|null|
+|**2022-12-22**|**A Graph-Transformational Approach for Proving the Correctness of Reductions between NP-Problems**|Hans-Jörg Kreowski et.al.|[2212.11627v1](http://arxiv.org/abs/2212.11627v1)|null|
+|**2022-12-22**|**A Foundation for Functional Graph Programs: The Graph Transformation Control Algebra (GTA)**|Jens H. Weber et.al.|[2212.11626v1](http://arxiv.org/abs/2212.11626v1)|null|
+|**2022-12-22**|**DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders**|Xiaoyang Kang et.al.|[2212.11613v1](http://arxiv.org/abs/2212.11613v1)|null|
+|**2022-12-22**|**Thermo-mechanical analysis of tumor-tissue during cryosurgery: a numerical study**|G Sai Krishna et.al.|[2212.11607v1](http://arxiv.org/abs/2212.11607v1)|null|
+|**2022-12-22**|**An isospectral transformation between Hessenberg matrix and Hessenberg-bidiagonal matrix pencil without using subtraction**|Katsuki Kobayashi et.al.|[2212.11577v1](http://arxiv.org/abs/2212.11577v1)|null|
+|**2022-12-22**|**Trajectory Generation and Tracking Control for Aggressive Tail-Sitter Flights**|Guozheng Lu et.al.|[2212.11552v1](http://arxiv.org/abs/2212.11552v1)|null|
+|**2022-12-22**|**Ultra-High-Definition Low-Light Image Enhancement: A Benchmark and Transformer-Based Method**|Tao Wang et.al.|[2212.11548v1](http://arxiv.org/abs/2212.11548v1)|**[link](https://github.com/taowangzj/llformer)**|
+|**2022-12-22**|**Generative Colorization of Structured Mobile Web Pages**|Kotaro Kikuchi et.al.|[2212.11541v1](http://arxiv.org/abs/2212.11541v1)|**[link](https://github.com/cyberagentailab/webcolor)**|
+|**2022-12-22**|**Transient chirp reconstruction of electron beam via tightly focused chirped laser pulse**|Zhijun Zhang et.al.|[2212.11496v1](http://arxiv.org/abs/2212.11496v1)|null|
+|**2022-12-22**|**Securing 5G OpenRAN with a Scalable Authorization Framework for xApps**|Tolga O. Atalay et.al.|[2212.11465v1](http://arxiv.org/abs/2212.11465v1)|null|
+|**2022-12-22**|**Analytic frozen orbits under the zonal harmonics perturbation from an Earth-like planet**|David Arnas et.al.|[2212.11458v1](http://arxiv.org/abs/2212.11458v1)|null|
+|**2022-12-22**|**A machine learning framework for neighbor generation in metaheuristic search**|Defeng Liu et.al.|[2212.11451v1](http://arxiv.org/abs/2212.11451v1)|null|
+|**2022-12-21**|**Photonic integrated beam delivery in a rubidium 3D magneto-optical trap**|Andrei Isichenko et.al.|[2212.11417v1](http://arxiv.org/abs/2212.11417v1)|null|
+|**2022-12-21**|**Improving Automated Program Repair with Domain Adaptation**|Armin Zirak et.al.|[2212.11414v1](http://arxiv.org/abs/2212.11414v1)|null|
+|**2022-12-21**|**Unifying Approaches to Chiral Bosons**|Alex S. Arvanitakis et.al.|[2212.11412v1](http://arxiv.org/abs/2212.11412v1)|null|
+|**2022-12-21**|**Suprema of Lévy processes with completely monotone jumps: spectral-theoretic approach**|Mateusz Kwaśnicki et.al.|[2212.11390v1](http://arxiv.org/abs/2212.11390v1)|null|
+|**2022-12-21**|**Automatic Emotion Modelling in Written Stories**|Lukas Christ et.al.|[2212.11382v1](http://arxiv.org/abs/2212.11382v1)|**[link](https://github.com/lc0197/emotion_modelling_stories)**|
+|**2022-12-21**|**Time-Frequency Ridge Estimation of Multi-Component Signals using Sparse Modeling of Signal Innovation**|Quentin Legros et.al.|[2212.11343v1](http://arxiv.org/abs/2212.11343v1)|null|
+|**2022-12-21**|**Spin-orbit duality**|Kostas Filippas et.al.|[2212.11340v1](http://arxiv.org/abs/2212.11340v1)|null|
+|**2022-12-21**|**End-to-end AI Framework for Hyperparameter Optimization, Model Training, and Interpretable Inference for Molecules and Crystals**|Hyun Park et.al.|[2212.11317v1](http://arxiv.org/abs/2212.11317v1)|null|
+|**2022-12-21**|**Aperiodic spin chains at the boundary of hyperbolic tilings**|Pablo Basteiro et.al.|[2212.11292v1](http://arxiv.org/abs/2212.11292v1)|null|
 |**2022-12-21**|**A Wearable EEG System for Closed-Loop Neuromodulation of High-Frequency Sleep-Related Oscillations**|Scott Bressler et.al.|[2212.11273v1](http://arxiv.org/abs/2212.11273v1)|null|
 |**2022-12-21**|**Color-Dressed Generalized Biadjoint Scalar Amplitudes: Local Planarity**|Freddy Cachazo et.al.|[2212.11243v1](http://arxiv.org/abs/2212.11243v1)|null|
 |**2022-12-21**|**Not Just Pretty Pictures: Text-to-Image Generators Enable Interpretable Interventions for Robust Representations**|Jianhao Yuan et.al.|[2212.11237v1](http://arxiv.org/abs/2212.11237v1)|null|
@@ -777,6 +819,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|null|
+|**2022-12-22**|**Group Sparse Coding for Image Denoising**|Luoyu Chen et.al.|[2212.11501v1](http://arxiv.org/abs/2212.11501v1)|null|
 |**2022-12-13**|**Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting**|Su Wang et.al.|[2212.06909v1](http://arxiv.org/abs/2212.06909v1)|null|
 |**2022-12-09**|**SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model**|Shaoan Xie et.al.|[2212.05034v1](http://arxiv.org/abs/2212.05034v1)|null|
 |**2022-12-06**|**SDM: Spatial Diffusion Model for Large Hole Image Inpainting**|Wenbo Li et.al.|[2212.02963v1](http://arxiv.org/abs/2212.02963v1)|**[link](https://github.com/fenglinglwb/sdm)**|
