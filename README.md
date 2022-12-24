@@ -325,7 +325,7 @@
 |**2022-12-21**|**Not Just Pretty Pictures: Text-to-Image Generators Enable Interpretable Interventions for Robust Representations**|Jianhao Yuan et.al.|[2212.11237v1](http://arxiv.org/abs/2212.11237v1)|null|
 |**2022-12-21**|**Entropy- and Distance-Based Predictors From GPT-2 Attention Patterns Predict Reading Times Over and Above GPT-2 Surprisal**|Byung-Doh Oh et.al.|[2212.11185v1](http://arxiv.org/abs/2212.11185v1)|**[link](https://github.com/byungdoh/attn_dist)**|
 |**2022-12-21**|**The Inverse Problem for the Euler-Poisson-Darboux Equation and Shifted  $k$ -Plane Transforms**|Boris Rubin et.al.|[2212.11179v1](http://arxiv.org/abs/2212.11179v1)|null|
-|**2022-12-21**|**Generating music with sentiment using Transformer-GANs**|Pedro Neves et.al.|[2212.11134v1](http://arxiv.org/abs/2212.11134v1)|null|
+|**2022-12-21**|**Generating music with sentiment using Transformer-GANs**|Pedro Neves et.al.|[2212.11134v1](http://arxiv.org/abs/2212.11134v1)|**[link](https://github.com/pneves1051/transformers_sentiment)**|
 |**2022-12-21**|**Device-Bind Key-Storageless Hardware AI Model IP Protection: A PUF and Permute-Diffusion Encryption-Enabled Approach**|Qianqian Pan et.al.|[2212.11133v1](http://arxiv.org/abs/2212.11133v1)|null|
 |**2022-12-21**|**What Makes for Good Tokenizers in Vision Transformer?**|Shengju Qian et.al.|[2212.11115v1](http://arxiv.org/abs/2212.11115v1)|null|
 |**2022-12-21**|**Recursive relations and quantum eigensolver algorithms within modified Schrieffer--Wolff transformations for the Hubbard dimer**|Quentin Marécat et.al.|[2212.11089v1](http://arxiv.org/abs/2212.11089v1)|null|
