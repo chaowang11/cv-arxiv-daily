@@ -301,13 +301,13 @@
 |**2022-12-22**|**Graph-Based Specification and Automated Construction of ILP Problems**|Sebastian Ehmes et.al.|[2212.11629v1](http://arxiv.org/abs/2212.11629v1)|null|
 |**2022-12-22**|**A Graph-Transformational Approach for Proving the Correctness of Reductions between NP-Problems**|Hans-Jörg Kreowski et.al.|[2212.11627v1](http://arxiv.org/abs/2212.11627v1)|null|
 |**2022-12-22**|**A Foundation for Functional Graph Programs: The Graph Transformation Control Algebra (GTA)**|Jens H. Weber et.al.|[2212.11626v1](http://arxiv.org/abs/2212.11626v1)|null|
-|**2022-12-22**|**DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders**|Xiaoyang Kang et.al.|[2212.11613v1](http://arxiv.org/abs/2212.11613v1)|null|
+|**2022-12-23**|**DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders**|Xiaoyang Kang et.al.|[2212.11613v2](http://arxiv.org/abs/2212.11613v2)|null|
 |**2022-12-22**|**Thermo-mechanical analysis of tumor-tissue during cryosurgery: a numerical study**|G Sai Krishna et.al.|[2212.11607v1](http://arxiv.org/abs/2212.11607v1)|null|
 |**2022-12-22**|**An isospectral transformation between Hessenberg matrix and Hessenberg-bidiagonal matrix pencil without using subtraction**|Katsuki Kobayashi et.al.|[2212.11577v1](http://arxiv.org/abs/2212.11577v1)|null|
 |**2022-12-22**|**Trajectory Generation and Tracking Control for Aggressive Tail-Sitter Flights**|Guozheng Lu et.al.|[2212.11552v1](http://arxiv.org/abs/2212.11552v1)|null|
 |**2022-12-22**|**Ultra-High-Definition Low-Light Image Enhancement: A Benchmark and Transformer-Based Method**|Tao Wang et.al.|[2212.11548v1](http://arxiv.org/abs/2212.11548v1)|**[link](https://github.com/taowangzj/llformer)**|
 |**2022-12-22**|**Generative Colorization of Structured Mobile Web Pages**|Kotaro Kikuchi et.al.|[2212.11541v1](http://arxiv.org/abs/2212.11541v1)|**[link](https://github.com/cyberagentailab/webcolor)**|
-|**2022-12-22**|**Transient chirp reconstruction of electron beam via tightly focused chirped laser pulse**|Zhijun Zhang et.al.|[2212.11496v1](http://arxiv.org/abs/2212.11496v1)|null|
+|**2022-12-23**|**Transient chirp reconstruction of electron beam via tightly focused chirped laser pulse**|Zhijun Zhang et.al.|[2212.11496v2](http://arxiv.org/abs/2212.11496v2)|null|
 |**2022-12-22**|**Securing 5G OpenRAN with a Scalable Authorization Framework for xApps**|Tolga O. Atalay et.al.|[2212.11465v1](http://arxiv.org/abs/2212.11465v1)|null|
 |**2022-12-22**|**Analytic frozen orbits under the zonal harmonics perturbation from an Earth-like planet**|David Arnas et.al.|[2212.11458v1](http://arxiv.org/abs/2212.11458v1)|null|
 |**2022-12-22**|**A machine learning framework for neighbor generation in metaheuristic search**|Defeng Liu et.al.|[2212.11451v1](http://arxiv.org/abs/2212.11451v1)|null|
