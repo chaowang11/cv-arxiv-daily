@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
 |**2022-12-21**|**Continual Learning Approaches for Anomaly Detection**|Davide Dalle Pezze et.al.|[2212.11192v1](http://arxiv.org/abs/2212.11192v1)|null|
 |**2022-12-20**|**Super-resolution enhancement in bi-photon spatial mode demultiplexin**|Florence Grenapin et.al.|[2212.10468v1](http://arxiv.org/abs/2212.10468v1)|null|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
@@ -103,6 +104,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
@@ -278,6 +280,34 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-23**|**MicroBERT: Effective Training of Low-resource Monolingual BERTs through Parameter Reduction and Multitask Learning**|Luke Gessler et.al.|[2212.12510v1](http://arxiv.org/abs/2212.12510v1)|**[link](https://github.com/lgessler/microbert)**|
+|**2022-12-23**|**From motivic Chern classes of Schubert cells to their Hirzebruch and CSM classes**|Paolo Aluffi et.al.|[2212.12509v1](http://arxiv.org/abs/2212.12509v1)|null|
+|**2022-12-23**|**A Variational Approach to Assess Reaction Coordinates for Two-Step Crystallisation**|Aaron R. Finney et.al.|[2212.12486v1](http://arxiv.org/abs/2212.12486v1)|null|
+|**2022-12-23**|**Endpoint sparse domination for classes of multiplier transformations**|David Beltran et.al.|[2212.12437v1](http://arxiv.org/abs/2212.12437v1)|null|
+|**2022-12-22**|**Some disquisitions on cosmological 2-form dualities**|Katsuki Aoki et.al.|[2212.12427v1](http://arxiv.org/abs/2212.12427v1)|null|
+|**2022-12-23**|**Benchmark for Uncertainty & Robustness in Self-Supervised Learning**|Ha Manh Bui et.al.|[2212.12411v1](http://arxiv.org/abs/2212.12411v1)|**[link](https://github.com/hamanhbui/reliable_ssl_baselines)**|
+|**2022-12-23**|**A skew approach to enrichment for Gray-categories**|John Bourke et.al.|[2212.12358v1](http://arxiv.org/abs/2212.12358v1)|null|
+|**2022-12-23**|**Quantum Speed Limit for Change of Basis**|Moein Naseri et.al.|[2212.12352v1](http://arxiv.org/abs/2212.12352v1)|null|
+|**2022-12-23**|**Tomographic Fourier Extension Identities for Submanifolds of  $\mathbb{R}^n$ **|Jonathan Bennett et.al.|[2212.12348v1](http://arxiv.org/abs/2212.12348v1)|null|
+|**2022-12-23**|**The choice of scaling technique matters for classification performance**|Lucas B. V. de Amorim et.al.|[2212.12343v1](http://arxiv.org/abs/2212.12343v1)|**[link](https://github.com/amorimlb/scaling_matters)**|
+|**2022-12-23**|**Hamiltonian Birkhoff normal form for gravity-capillary water waves with constant vorticity: almost global existence**|Massimiliano Berti et.al.|[2212.12255v1](http://arxiv.org/abs/2212.12255v1)|null|
+|**2022-12-23**|**Do DALL-E and Flamingo Understand Each Other?**|Hang Li et.al.|[2212.12249v1](http://arxiv.org/abs/2212.12249v1)|null|
+|**2022-12-23**|**Global existence and non-uniqueness of 3D Euler equations perturbed by transport noise**|Martina Hofmanová et.al.|[2212.12217v1](http://arxiv.org/abs/2212.12217v1)|null|
+|**2022-12-23**|**Macroscale structural complexity analysis of subordinated spatiotemporal random fields**|J. M. Angulo et.al.|[2212.12209v1](http://arxiv.org/abs/2212.12209v1)|null|
+|**2022-12-23**|**Investigation of reinforcement learning for shape optimization of profile extrusion dies**|Clemens Fricke et.al.|[2212.12207v1](http://arxiv.org/abs/2212.12207v1)|null|
+|**2022-12-23**|**PanoViT: Vision Transformer for Room Layout Estimation from a Single Panoramic Image**|Weichao Shen et.al.|[2212.12156v1](http://arxiv.org/abs/2212.12156v1)|null|
+|**2022-12-23**|**A Closer Look at Some Recent Proof Compression-Related Claims**|Michael C. Chavrimootoo et.al.|[2212.12150v1](http://arxiv.org/abs/2212.12150v1)|null|
+|**2022-12-23**|**HiTSKT: A Hierarchical Transformer Model for Session-Aware Knowledge Tracing**|Fucai Ke et.al.|[2212.12139v1](http://arxiv.org/abs/2212.12139v1)|null|
+|**2022-12-23**|**AMDET: Attention based Multiple Dimensions EEG Transformer for Emotion Recognition**|Yongling Xu et.al.|[2212.12134v1](http://arxiv.org/abs/2212.12134v1)|null|
+|**2022-12-23**|**Asymptotic Symmetry algebra of  $\mathcal{N}=8$  Supergravity**|Nabamita Banerjee et.al.|[2212.12133v1](http://arxiv.org/abs/2212.12133v1)|null|
+|**2022-12-23**|**Why Does Surprisal From Larger Transformer-Based Language Models Provide a Poorer Fit to Human Reading Times?**|Byung-Doh Oh et.al.|[2212.12131v1](http://arxiv.org/abs/2212.12131v1)|null|
+|**2022-12-23**|**Tailing Magnetoelectric properties of Cr2Ge2Te6 by Engineering Covalently bonded Cr Self-intercalation: Ferromagnetic Half-metal**|Zhaoyong Guan et.al.|[2212.12111v1](http://arxiv.org/abs/2212.12111v1)|null|
+|**2022-12-23**|**Precise Location Matching Improves Dense Contrastive Learning in Digital Pathology**|Jingwei Zhang et.al.|[2212.12105v1](http://arxiv.org/abs/2212.12105v1)|**[link](https://github.com/cvlab-stonybrook/plm_ssl)**|
+|**2022-12-23**|**Counting parity-violating local S-matrices**|Subham Dutta Chowdhury et.al.|[2212.12099v1](http://arxiv.org/abs/2212.12099v1)|null|
+|**2022-12-22**|**Experimental realization of deterministic and selective photon addition in a bosonic mode assisted by an ancillary qubit**|Marina Kudra et.al.|[2212.12079v1](http://arxiv.org/abs/2212.12079v1)|null|
+|**2022-12-22**|**When are Lemons Purple? The Concept Association Bias of CLIP**|Yutaro Yamada et.al.|[2212.12043v1](http://arxiv.org/abs/2212.12043v1)|null|
+|**2022-12-22**|**Forecasting landslides using community detection on geophysical satellite data**|Vrinda Desai et.al.|[2212.12038v1](http://arxiv.org/abs/2212.12038v1)|null|
+|**2022-12-22**|**The Dynamics of a Modified Jaynes-Cummings Model**|Moorad Alexanian et.al.|[2212.12021v1](http://arxiv.org/abs/2212.12021v1)|null|
 |**2022-12-22**|**On a new class of 2-orthogonal polynomials, II_The integral representations**|Khalfa Douak et.al.|[2212.11949v1](http://arxiv.org/abs/2212.11949v1)|null|
 |**2022-12-22**|**On boundedness of isomerization paths for non- and semirelativistic molecules**|Ioannis Anapolitanos et.al.|[2212.11938v1](http://arxiv.org/abs/2212.11938v1)|null|
 |**2022-12-22**|**Beyond SOT: It's Time to Track Multiple Generic Objects at Once**|Christoph Mayer et.al.|[2212.11920v1](http://arxiv.org/abs/2212.11920v1)|null|
@@ -819,6 +849,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-21**|**Structure-guided Image Outpainting**|Xi Wang et.al.|[2212.12326v1](http://arxiv.org/abs/2212.12326v1)|null|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|null|
 |**2022-12-22**|**Group Sparse Coding for Image Denoising**|Luoyu Chen et.al.|[2212.11501v1](http://arxiv.org/abs/2212.11501v1)|null|
 |**2022-12-13**|**Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting**|Su Wang et.al.|[2212.06909v1](http://arxiv.org/abs/2212.06909v1)|null|
