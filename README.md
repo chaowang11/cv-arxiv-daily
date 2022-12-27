@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
 |**2022-12-21**|**Continual Learning Approaches for Anomaly Detection**|Davide Dalle Pezze et.al.|[2212.11192v1](http://arxiv.org/abs/2212.11192v1)|null|
 |**2022-12-20**|**Super-resolution enhancement in bi-photon spatial mode demultiplexin**|Florence Grenapin et.al.|[2212.10468v1](http://arxiv.org/abs/2212.10468v1)|null|
@@ -50,9 +51,9 @@
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
 |**2022-12-06**|**Super-resolution Probabilistic Rain Prediction from Satellite Data Using 3D U-Nets and EarthFormers**|Yang Li et.al.|[2212.02998v1](http://arxiv.org/abs/2212.02998v1)|**[link](https://github.com/bugsuse/weather4cast-2022-stage2)**|
 |**2022-12-05**|**AtomVision: A machine vision library for atomistic images**|Kamal Choudhary et.al.|[2212.02586v1](http://arxiv.org/abs/2212.02586v1)|**[link](https://github.com/usnistgov/atomvision)**|
-|**2022-12-05**|**Region-Conditioned Orthogonal 3D U-Net for Weather4Cast Competition**|Taehyeon Kim et.al.|[2212.02059v1](http://arxiv.org/abs/2212.02059v1)|null|
+|**2022-12-05**|**Region-Conditioned Orthogonal 3D U-Net for Weather4Cast Competition**|Taehyeon Kim et.al.|[2212.02059v1](http://arxiv.org/abs/2212.02059v1)|**[link](https://github.com/hyeonjeong1/22-NeurIPS-Weather4Cast)**|
 |**2022-12-05**|**Double U-Net for Super-Resolution and Segmentation of Live Cell Images**|Mayur Bhandary et.al.|[2212.02028v1](http://arxiv.org/abs/2212.02028v1)|null|
-|**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|null|
+|**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|**[link](https://github.com/arcananana/cdcn)**|
 |**2022-12-03**|**Learning Detail-Structure Alternative Optimization for Blind Super-Resolution**|Feng Li et.al.|[2212.01624v1](http://arxiv.org/abs/2212.01624v1)|**[link](https://github.com/arcananana/dssr)**|
 |**2022-12-02**|**Downscaling Extreme Rainfall Using Physical-Statistical Generative Adversarial Learning**|Anamitra Saha et.al.|[2212.01446v1](http://arxiv.org/abs/2212.01446v1)|null|
 |**2022-12-02**|**Global Learnable Attention for Single Image Super-Resolution**|Jian-Nan Su et.al.|[2212.01057v1](http://arxiv.org/abs/2212.01057v1)|**[link](https://github.com/laoyangui/dlsn)**|
@@ -104,6 +105,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
@@ -112,7 +114,7 @@
 |**2022-12-13**|**Source-Aware Spatial-Spectral-Integrated Double U-Net for Image Fusion**|Siran Peng et.al.|[2212.06466v1](http://arxiv.org/abs/2212.06466v1)|null|
 |**2022-12-08**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v1](http://arxiv.org/abs/2212.04362v1)|null|
 |**2022-12-08**|**A Scale-Arbitrary Image Super-Resolution Network Using Frequency-domain Information**|Jing Fang et.al.|[2212.04314v1](http://arxiv.org/abs/2212.04314v1)|null|
-|**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|null|
+|**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|**[link](https://github.com/arcananana/cdcn)**|
 |**2022-12-03**|**Learning Detail-Structure Alternative Optimization for Blind Super-Resolution**|Feng Li et.al.|[2212.01624v1](http://arxiv.org/abs/2212.01624v1)|**[link](https://github.com/arcananana/dssr)**|
 |**2022-12-02**|**Global Learnable Attention for Single Image Super-Resolution**|Jian-Nan Su et.al.|[2212.01057v1](http://arxiv.org/abs/2212.01057v1)|**[link](https://github.com/laoyangui/dlsn)**|
 |**2022-12-07**|**Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model**|Yinhuai Wang et.al.|[2212.00490v2](http://arxiv.org/abs/2212.00490v2)|**[link](https://github.com/wyhuai/ddnm)**|
@@ -280,6 +282,47 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-26**|**Equivalence classes and Linearization of the Riccati and Abel chain**|J. C. Ndogmo et.al.|[2212.13244v1](http://arxiv.org/abs/2212.13244v1)|null|
+|**2022-12-26**|**Integrable classes of a family of evolution equations**|J. C. Ndogmo et.al.|[2212.13230v1](http://arxiv.org/abs/2212.13230v1)|null|
+|**2022-12-26**|**Oscillations in the radiative damping of plasma resonances in a gated disk of 2D electron gas**|D. A. Rodionov et.al.|[2212.13222v1](http://arxiv.org/abs/2212.13222v1)|null|
+|**2022-12-26**|**The Lorentzian scattering rigidity problem and rigidity of stationary metrics**|Plamen Stefanov et.al.|[2212.13213v1](http://arxiv.org/abs/2212.13213v1)|null|
+|**2022-12-26**|**On the optimality of optical pumping for a closed  $Λ$ -system with large decay rates of the intermediate excited state**|Dionisis Stefanatos et.al.|[2212.13212v1](http://arxiv.org/abs/2212.13212v1)|null|
+|**2022-12-26**|**Efficient Graph Reconstruction and Representation Using Augmented Persistence Diagrams**|Brittany Terese Fasy et.al.|[2212.13206v1](http://arxiv.org/abs/2212.13206v1)|null|
+|**2022-12-26**|**Biologically Inspired Design Concept Generation Using Generative Pre-Trained Transformers**|Qihao Zhu et.al.|[2212.13196v1](http://arxiv.org/abs/2212.13196v1)|null|
+|**2022-12-26**|**MRTNet: Multi-Resolution Temporal Network for Video Sentence Grounding**|Wei Ji et.al.|[2212.13163v1](http://arxiv.org/abs/2212.13163v1)|null|
+|**2022-12-26**|**Human Activity Recognition from Wi-Fi CSI Data Using Principal Component-Based Wavelet CNN**|Ishtiaque Ahmed Showmik et.al.|[2212.13161v1](http://arxiv.org/abs/2212.13161v1)|null|
+|**2022-12-26**|**Toward Efficient Automated Feature Engineering**|Kafeng Wang et.al.|[2212.13152v1](http://arxiv.org/abs/2212.13152v1)|null|
+|**2022-12-26**|**E-beam-enhanced solid-state mechanical amorphization of alpha-quartz: Reducing deformation barrier via localized excess electrons as mobile anions**|Sung-Gyu Kang et.al.|[2212.13098v1](http://arxiv.org/abs/2212.13098v1)|null|
+|**2022-12-26**|**TypeFormer: Transformers for Mobile Keystroke Biometrics**|Giuseppe Stragapede et.al.|[2212.13075v1](http://arxiv.org/abs/2212.13075v1)|null|
+|**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
+|**2022-12-26**|**Improving Continuous Sign Language Recognition with Consistency Constraints and Signer Removal**|Ronglai Zuo et.al.|[2212.13023v1](http://arxiv.org/abs/2212.13023v1)|null|
+|**2022-12-26**|**Tensorial stress-plastic strain fields in  $α$ - $ω$  Zr mixture, transformation kinetics, and friction in diamond anvil cell**|V. I. Levitas et.al.|[2212.13000v1](http://arxiv.org/abs/2212.13000v1)|null|
+|**2022-12-26**|**SMMix: Self-Motivated Image Mixing for Vision Transformers**|Mengzhao Chen et.al.|[2212.12977v1](http://arxiv.org/abs/2212.12977v1)|**[link](https://github.com/chenmnz/smmix)**|
+|**2022-12-25**|**Neural Shape Compiler: A Unified Framework for Transforming between Text, Point Cloud, and Program**|Tiange Luo et.al.|[2212.12952v1](http://arxiv.org/abs/2212.12952v1)|null|
+|**2022-12-25**|**Foldy-Wouthuysen Transformation in Strong Magnetic Fields and Relativistic Corrections for Quantum Cyclotron Energy Levels**|A. Wienczek et.al.|[2212.12939v1](http://arxiv.org/abs/2212.12939v1)|null|
+|**2022-12-25**|**Adiabatic Deformations of Quantum Hall Droplets**|Blagoje Oblak et.al.|[2212.12935v1](http://arxiv.org/abs/2212.12935v1)|null|
+|**2022-12-25**|**Boosting Urban Traffic Speed Prediction via Integrating Implicit Spatial Correlations**|Dongkun Wang et.al.|[2212.12932v1](http://arxiv.org/abs/2212.12932v1)|null|
+|**2022-12-25**|**Transformers as Strong Lens Detectors- From Simulation to Surveys**|Hareesh Thuruthipilly et.al.|[2212.12915v1](http://arxiv.org/abs/2212.12915v1)|null|
+|**2022-12-25**|**Data class-specific all-optical transformations and encryption**|Bijie Bai et.al.|[2212.12873v1](http://arxiv.org/abs/2212.12873v1)|null|
+|**2022-12-25**|**Differential Flatness of Lifting-Wing Quadcopters Subject to Drag and Lift for Accurate Tracking**|Shuai Wang et.al.|[2212.12867v1](http://arxiv.org/abs/2212.12867v1)|null|
+|**2022-12-25**|**An efficient quantum-classical hybrid algorithm for distorted alphanumeric character identification**|Ankur Pal et.al.|[2212.12861v1](http://arxiv.org/abs/2212.12861v1)|null|
+|**2022-12-25**|**Weakly-Supervised Deep Learning Model for Prostate Cancer Diagnosis and Gleason Grading of Histopathology Images**|Mohammad Mahdi Behzadi et.al.|[2212.12844v1](http://arxiv.org/abs/2212.12844v1)|null|
+|**2022-12-25**|**Evaluation of low-dose CT supervised learning algorithms with transformer-based model observer**|Yongyi Shi et.al.|[2212.12838v1](http://arxiv.org/abs/2212.12838v1)|null|
+|**2022-12-24**|**Hybrid Representation Learning for Cognitive Diagnosis in Late-Life Depression Over 5 Years with Structural MRI**|Lintao Zhang et.al.|[2212.12810v1](http://arxiv.org/abs/2212.12810v1)|**[link](https://github.com/goodaycoder/lldprogression)**|
+|**2022-12-24**|**Coherent states with minimum Gini uncertainty for finite quantum systems**|C. Lei et.al.|[2212.12755v1](http://arxiv.org/abs/2212.12755v1)|null|
+|**2022-12-24**|**Energy Efficiency Maximization in IRS-Aided Cell-Free Massive MIMO System**|Si-Nian Jin et.al.|[2212.12744v1](http://arxiv.org/abs/2212.12744v1)|null|
+|**2022-12-24**|**Artificial Pupil Dilation for Data Augmentation in Iris Semantic Segmentation**|Daniel P. Benalcazar et.al.|[2212.12733v1](http://arxiv.org/abs/2212.12733v1)|**[link](https://github.com/dpbenalcazar/ArtificialDilation)**|
+|**2022-12-24**|**Deep Reinforcement Learning for Heat Pump Control**|Tobias Rohrer et.al.|[2212.12716v1](http://arxiv.org/abs/2212.12716v1)|null|
+|**2022-12-24**|**Determinant functors and deformation of Chow groups**|Sen Yang et.al.|[2212.12689v1](http://arxiv.org/abs/2212.12689v1)|null|
+|**2022-12-24**|**On Realization of Intelligent Decision-Making in the Real World: A Foundation Decision Model Perspective**|Ying Wen et.al.|[2212.12669v1](http://arxiv.org/abs/2212.12669v1)|**[link](https://github.com/shanghai-digital-brain-laboratory/bdm-db1)**|
+|**2022-12-24**|**Optimizing Deep Transformers for Chinese-Thai Low-Resource Translation**|Wenjie Hao et.al.|[2212.12662v1](http://arxiv.org/abs/2212.12662v1)|null|
+|**2022-12-24**|**STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension**|Borui Wang et.al.|[2212.12652v1](http://arxiv.org/abs/2212.12652v1)|null|
+|**2022-12-24**|**Phase Identification of Smart Meters Using a Fourier Series Compression and a Statistical Clustering Algorithm**|Jeremy J. Chiu et.al.|[2212.12650v1](http://arxiv.org/abs/2212.12650v1)|null|
+|**2022-12-24**|**Hausdorff Moment Transforms and Their Performance**|Xinyun Wang et.al.|[2212.12622v1](http://arxiv.org/abs/2212.12622v1)|null|
+|**2022-12-23**|**On the singular limit problem for a discontinuous nonlocal conservation law**|Alexander Keimer et.al.|[2212.12598v1](http://arxiv.org/abs/2212.12598v1)|null|
+|**2022-12-23**|**Boundedness of the conformal hyperboloidal energy for a wave-Klein-Gordon model**|Philippe G. LeFloch et.al.|[2212.12590v1](http://arxiv.org/abs/2212.12590v1)|null|
+|**2022-12-23**|**Bridging Carrollian and Celestial Holography**|Laura Donnay et.al.|[2212.12553v1](http://arxiv.org/abs/2212.12553v1)|null|
+|**2022-12-23**|**A Close Look at Spatial Modeling: From Attention to Convolution**|Xu Ma et.al.|[2212.12552v1](http://arxiv.org/abs/2212.12552v1)|**[link](https://github.com/ma-xu/fcvit)**|
 |**2022-12-23**|**MicroBERT: Effective Training of Low-resource Monolingual BERTs through Parameter Reduction and Multitask Learning**|Luke Gessler et.al.|[2212.12510v1](http://arxiv.org/abs/2212.12510v1)|**[link](https://github.com/lgessler/microbert)**|
 |**2022-12-23**|**From motivic Chern classes of Schubert cells to their Hirzebruch and CSM classes**|Paolo Aluffi et.al.|[2212.12509v1](http://arxiv.org/abs/2212.12509v1)|null|
 |**2022-12-23**|**A Variational Approach to Assess Reaction Coordinates for Two-Step Crystallisation**|Aaron R. Finney et.al.|[2212.12486v1](http://arxiv.org/abs/2212.12486v1)|null|
