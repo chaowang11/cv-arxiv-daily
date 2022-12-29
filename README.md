@@ -140,7 +140,7 @@
 |**2022-11-11**|**A Comprehensive Survey of Transformers for Computer Vision**|Sonain Jamil et.al.|[2211.06004v1](http://arxiv.org/abs/2211.06004v1)|null|
 |**2022-11-07**|**Efficient and Accurate Quantized Image Super-Resolution on Mobile NPUs, Mobile AI & AIM 2022 challenge: Report**|Andrey Ignatov et.al.|[2211.05910v1](http://arxiv.org/abs/2211.05910v1)|null|
 |**2022-11-08**|**RRSR:Reciprocal Reference-based Image Super-Resolution with Progressive Feature Alignment and Selection**|Lin Zhang et.al.|[2211.04203v1](http://arxiv.org/abs/2211.04203v1)|null|
-|**2022-11-27**|**Underwater Image Super-Resolution using Generative Adversarial Network-based Model**|Alireza Aghelan et.al.|[2211.03550v2](http://arxiv.org/abs/2211.03550v2)|null|
+|**2022-12-28**|**Underwater Image Super-Resolution using Generative Adversarial Network-based Model**|Alireza Aghelan et.al.|[2211.03550v3](http://arxiv.org/abs/2211.03550v3)|null|
 |**2022-11-06**|**Measurement-Consistent Networks via a Deep Implicit Layer for Solving Inverse Problems**|Rahul Mourya et.al.|[2211.03177v1](http://arxiv.org/abs/2211.03177v1)|null|
 |**2022-11-05**|**Mixture-Net: Low-Rank Deep Image Prior Inspired by Mixture Models for Spectral Image Recovery**|Tatiana Gelvez-Barrera et.al.|[2211.02973v1](http://arxiv.org/abs/2211.02973v1)|null|
 |**2022-11-03**|**HyperSound: Generating Implicit Neural Representations of Audio Signals with Hypernetworks**|Filip Szatkowski et.al.|[2211.01839v1](http://arxiv.org/abs/2211.01839v1)|null|
@@ -285,11 +285,11 @@
 |**2022-12-26**|**Equivalence classes and Linearization of the Riccati and Abel chain**|J. C. Ndogmo et.al.|[2212.13244v1](http://arxiv.org/abs/2212.13244v1)|null|
 |**2022-12-26**|**Integrable classes of a family of evolution equations**|J. C. Ndogmo et.al.|[2212.13230v1](http://arxiv.org/abs/2212.13230v1)|null|
 |**2022-12-26**|**Oscillations in the radiative damping of plasma resonances in a gated disk of 2D electron gas**|D. A. Rodionov et.al.|[2212.13222v1](http://arxiv.org/abs/2212.13222v1)|null|
-|**2022-12-26**|**The Lorentzian scattering rigidity problem and rigidity of stationary metrics**|Plamen Stefanov et.al.|[2212.13213v1](http://arxiv.org/abs/2212.13213v1)|null|
+|**2022-12-27**|**The Lorentzian scattering rigidity problem and rigidity of stationary metrics**|Plamen Stefanov et.al.|[2212.13213v2](http://arxiv.org/abs/2212.13213v2)|null|
 |**2022-12-26**|**On the optimality of optical pumping for a closed  $Λ$ -system with large decay rates of the intermediate excited state**|Dionisis Stefanatos et.al.|[2212.13212v1](http://arxiv.org/abs/2212.13212v1)|null|
 |**2022-12-26**|**Efficient Graph Reconstruction and Representation Using Augmented Persistence Diagrams**|Brittany Terese Fasy et.al.|[2212.13206v1](http://arxiv.org/abs/2212.13206v1)|null|
 |**2022-12-26**|**Biologically Inspired Design Concept Generation Using Generative Pre-Trained Transformers**|Qihao Zhu et.al.|[2212.13196v1](http://arxiv.org/abs/2212.13196v1)|null|
-|**2022-12-26**|**MRTNet: Multi-Resolution Temporal Network for Video Sentence Grounding**|Wei Ji et.al.|[2212.13163v1](http://arxiv.org/abs/2212.13163v1)|null|
+|**2022-12-27**|**MRTNet: Multi-Resolution Temporal Network for Video Sentence Grounding**|Wei Ji et.al.|[2212.13163v2](http://arxiv.org/abs/2212.13163v2)|null|
 |**2022-12-26**|**Human Activity Recognition from Wi-Fi CSI Data Using Principal Component-Based Wavelet CNN**|Ishtiaque Ahmed Showmik et.al.|[2212.13161v1](http://arxiv.org/abs/2212.13161v1)|null|
 |**2022-12-26**|**Toward Efficient Automated Feature Engineering**|Kafeng Wang et.al.|[2212.13152v1](http://arxiv.org/abs/2212.13152v1)|null|
 |**2022-12-26**|**E-beam-enhanced solid-state mechanical amorphization of alpha-quartz: Reducing deformation barrier via localized excess electrons as mobile anions**|Sung-Gyu Kang et.al.|[2212.13098v1](http://arxiv.org/abs/2212.13098v1)|null|
