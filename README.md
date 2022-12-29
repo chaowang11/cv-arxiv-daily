@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-28**|**Single-Image Super-Resolution Reconstruction based on the Differences of Neighboring Pixels**|Huipeng Zheng et.al.|[2212.13730v1](http://arxiv.org/abs/2212.13730v1)|null|
+|**2022-12-28**|**Large-scale single-photon imaging**|Liheng Bian et.al.|[2212.13654v1](http://arxiv.org/abs/2212.13654v1)|null|
+|**2022-12-27**|**Cross-Resolution Flow Propagation for Foveated Video Super-Resolution**|Eugene Lee et.al.|[2212.13525v1](http://arxiv.org/abs/2212.13525v1)|**[link](https://github.com/eugenelet/crfp)**|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
 |**2022-12-21**|**Continual Learning Approaches for Anomaly Detection**|Davide Dalle Pezze et.al.|[2212.11192v1](http://arxiv.org/abs/2212.11192v1)|null|
@@ -105,6 +108,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-28**|**Single-Image Super-Resolution Reconstruction based on the Differences of Neighboring Pixels**|Huipeng Zheng et.al.|[2212.13730v1](http://arxiv.org/abs/2212.13730v1)|null|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
@@ -171,6 +175,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-27**|**Cross-Resolution Flow Propagation for Foveated Video Super-Resolution**|Eugene Lee et.al.|[2212.13525v1](http://arxiv.org/abs/2212.13525v1)|**[link](https://github.com/eugenelet/crfp)**|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-14**|**Mitigating Artifacts in Real-World Video Super-Resolution Models**|Liangbin Xie et.al.|[2212.07339v1](http://arxiv.org/abs/2212.07339v1)|**[link](https://github.com/tencentarc/fastrealvsr)**|
 |**2022-12-10**|**Benchmark Dataset and Effective Inter-Frame Alignment for Real-World Video Super-Resolution**|Ruohao Wang et.al.|[2212.05342v1](http://arxiv.org/abs/2212.05342v1)|null|
@@ -282,6 +287,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-28**|**Cramming: Training a Language Model on a Single GPU in One Day**|Jonas Geiping et.al.|[2212.14034v1](http://arxiv.org/abs/2212.14034v1)|**[link](https://github.com/jonasgeiping/cramming)**|
+|**2022-12-28**|**Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP**|Omar Khattab et.al.|[2212.14024v1](http://arxiv.org/abs/2212.14024v1)|null|
+|**2022-12-28**|**Exact universal bounds on quantum dynamics and fast scrambling**|Amit Vikram et.al.|[2212.14021v1](http://arxiv.org/abs/2212.14021v1)|null|
+|**2022-12-28**|**Classical and quantum symmetries of  $T\bar T$ -deformed CFTs**|Monica Guica et.al.|[2212.14014v1](http://arxiv.org/abs/2212.14014v1)|null|
+|**2022-12-28**|**Even the photon propagator must break de Sitter symmetry**|Dražen Glavan et.al.|[2212.13997v1](http://arxiv.org/abs/2212.13997v1)|null|
+|**2022-12-28**|**Quantum simulation of partial differential equations via Schrodingerisation**|Shi Jin et.al.|[2212.13969v1](http://arxiv.org/abs/2212.13969v1)|null|
+|**2022-12-28**|**Breakdown of tori in low and high dimensional conservative and dissipative standard maps**|Adrian P. Bustamante et.al.|[2212.13960v1](http://arxiv.org/abs/2212.13960v1)|null|
+|**2022-12-28**|**RevealED: Uncovering Pro-Eating Disorder Content on Twitter Using Deep Learning**|Jonathan Feldman et.al.|[2212.13949v1](http://arxiv.org/abs/2212.13949v1)|null|
+|**2022-12-28**|**Data Augmentation using Transformers and Similarity Measures for Improving Arabic Text Classification**|Dania Refai et.al.|[2212.13939v1](http://arxiv.org/abs/2212.13939v1)|null|
+|**2022-12-28**|**Simulating noisy quantum channels via quantum state preparation algorithms**|Marcelo S. Zanetti et.al.|[2212.13834v1](http://arxiv.org/abs/2212.13834v1)|null|
+|**2022-12-28**|**Particle-like solutions in the generalized SU(2) Proca theory**|Jhan N. Martinez et.al.|[2212.13832v1](http://arxiv.org/abs/2212.13832v1)|null|
+|**2022-12-28**|**Dictionary-free Koopman model predictive control with nonlinear input transformation**|Vít Cibulka et.al.|[2212.13828v1](http://arxiv.org/abs/2212.13828v1)|null|
+|**2022-12-28**|**The effective Equation of State in Palatini  $f(R)$  cosmology**|S. Camera et.al.|[2212.13825v1](http://arxiv.org/abs/2212.13825v1)|null|
+|**2022-12-28**|**Yang-Baxter deformation of WZW model based on Lie supergroups: the cases of  $GL(1|1)$  and  $(C^3 +A)$ **|Ali Eghbali et.al.|[2212.13813v1](http://arxiv.org/abs/2212.13813v1)|null|
+|**2022-12-28**|**Swin MAE: Masked Autoencoders for Small Datasets**|Zi'an Xu et.al.|[2212.13805v1](http://arxiv.org/abs/2212.13805v1)|null|
+|**2022-12-28**|**Third post-Newtonian effective-one-body Hamiltonian in scalar-tensor and Einstein-scalar-Gauss-Bonnet gravity**|Félix-Louis Julié et.al.|[2212.13802v1](http://arxiv.org/abs/2212.13802v1)|null|
+|**2022-12-28**|**Exploring Vision Transformers as Diffusion Learners**|He Cao et.al.|[2212.13771v1](http://arxiv.org/abs/2212.13771v1)|null|
+|**2022-12-28**|**OVO: One-shot Vision Transformer Search with Online distillation**|Zimian Wei et.al.|[2212.13766v1](http://arxiv.org/abs/2212.13766v1)|null|
+|**2022-12-28**|**Representation Separation for Semantic Segmentation with Vision Transformers**|Yuanduo Hong et.al.|[2212.13764v1](http://arxiv.org/abs/2212.13764v1)|null|
+|**2022-12-28**|**Hermitian Topologies originating from non-Hermitian braidings**|W. B. Rui et.al.|[2212.13736v1](http://arxiv.org/abs/2212.13736v1)|null|
+|**2022-12-28**|**VAFER: Signal Decomposition based Mutual Interference Suppression in FMCW Radars**|Abhilash Gaur et.al.|[2212.13727v1](http://arxiv.org/abs/2212.13727v1)|null|
+|**2022-12-28**|**Continuous Depth Recurrent Neural Differential Equations**|Srinivas Anumasa et.al.|[2212.13714v1](http://arxiv.org/abs/2212.13714v1)|null|
+|**2022-12-28**|**Climate Change and Potential Demise of the Indian Deserts**|P. V. Rajesh et.al.|[2212.13711v1](http://arxiv.org/abs/2212.13711v1)|null|
+|**2022-12-28**|**Thermal Heating in ReRAM Crossbar Arrays: Challenges and Solutions**|Kamilya Smagulova et.al.|[2212.13707v1](http://arxiv.org/abs/2212.13707v1)|null|
+|**2022-12-28**|**End-to-End Modeling Hierarchical Time Series Using Autoregressive Transformer and Conditional Normalizing Flow based Reconciliation**|Shiyu Wang et.al.|[2212.13706v1](http://arxiv.org/abs/2212.13706v1)|**[link](https://github.com/philipperemy/n-beats)**|
+|**2022-12-28**|**Part-guided Relational Transformers for Fine-grained Visual Recognition**|Yifan Zhao et.al.|[2212.13685v1](http://arxiv.org/abs/2212.13685v1)|**[link](https://github.com/icvteam/part)**|
+|**2022-12-28**|**VegaProf: Profiling Vega Visualizations**|Junran Yang et.al.|[2212.13670v1](http://arxiv.org/abs/2212.13670v1)|null|
+|**2022-12-28**|**Large-scale single-photon imaging**|Liheng Bian et.al.|[2212.13654v1](http://arxiv.org/abs/2212.13654v1)|null|
+|**2022-12-28**|**Sharp uniqueness and stability of solution for an inverse source problem for the Schrödinger equation**|Oleg Imanuvilov et.al.|[2212.13650v1](http://arxiv.org/abs/2212.13650v1)|null|
+|**2022-12-27**|** $q$ -deformed coherent states associated with the sequence  $x_n^{q,α }=(1+αq^{n-1})[n]_q$ **|Othmane El Moize et.al.|[2212.13601v1](http://arxiv.org/abs/2212.13601v1)|null|
+|**2022-12-27**|**Semi-supervised multiscale dual-encoding method for faulty traffic data detection**|Yongcan Huang et.al.|[2212.13596v1](http://arxiv.org/abs/2212.13596v1)|null|
+|**2022-12-27**|**Distribution-aware  $\ell_1$  Analysis Minimization**|Raziyeh Takbiri et.al.|[2212.13582v1](http://arxiv.org/abs/2212.13582v1)|null|
+|**2022-12-27**|**Voice conversion with limited data and limitless data augmentations**|Olga Slizovskaia et.al.|[2212.13581v1](http://arxiv.org/abs/2212.13581v1)|null|
+|**2022-12-27**|**Molecular scale ion separation driven by surface roughness and ion size asymmetry: new analytical solutions for differential capacitance of EDL**|Aleksey Khlyupin et.al.|[2212.13566v1](http://arxiv.org/abs/2212.13566v1)|null|
+|**2022-12-27**|**Unimodular Gravity in Restricted Gauge Theory Setup**|Andrei O. Barvinsky et.al.|[2212.13539v1](http://arxiv.org/abs/2212.13539v1)|null|
+|**2022-12-27**|**Arbitrary single-qubit rotations on chip with twisted waveguides**|Fyodor Morozko et.al.|[2212.13530v1](http://arxiv.org/abs/2212.13530v1)|null|
+|**2022-12-27**|**Prediction of dynamical systems from time-delayed measurements with self-intersections**|Krzysztof Barański et.al.|[2212.13509v1](http://arxiv.org/abs/2212.13509v1)|null|
+|**2022-12-27**|**DAE-Former: Dual Attention-guided Efficient Transformer for Medical Image Segmentation**|Reza Azad et.al.|[2212.13504v1](http://arxiv.org/abs/2212.13504v1)|**[link](https://github.com/mindflow-institue/daeformer)**|
+|**2022-12-27**|**Near-Extremal Freudenthal Duality**|Arghya Chattopadhyay et.al.|[2212.13500v1](http://arxiv.org/abs/2212.13500v1)|null|
+|**2022-12-27**|**Efficient method for calculating the eigenvalue of the Zakharov-Shabat system**|Shikun Cui et.al.|[2212.13490v1](http://arxiv.org/abs/2212.13490v1)|null|
+|**2022-12-27**|**Flattening Surface Based On Using Contour Estimating Subdivision Surface**|Yuhan Xu et.al.|[2212.13489v1](http://arxiv.org/abs/2212.13489v1)|null|
+|**2022-12-27**|**Quasinormal Modes in Near-Extremal Spinning C-Metric**|Bogeun Gwak et.al.|[2212.13484v1](http://arxiv.org/abs/2212.13484v1)|null|
+|**2022-12-27**|**MVTN: Learning Multi-View Transformations for 3D Understanding**|Abdullah Hamdi et.al.|[2212.13462v1](http://arxiv.org/abs/2212.13462v1)|null|
+|**2022-12-27**|**TegFormer: Topic-to-Essay Generation with Good Topic Coverage and High Text Coherence**|Wang Qi et.al.|[2212.13456v1](http://arxiv.org/abs/2212.13456v1)|null|
+|**2022-12-27**|**Compositionally Complex Perovskite Oxides as a New Class of Li-Ion Solid Electrolytes**|Shu-Ting Ko et.al.|[2212.13451v1](http://arxiv.org/abs/2212.13451v1)|null|
+|**2022-12-27**|**Efficiently Supporting Hierarchy and Data Updates in DNA Storage**|Puru Sharma et.al.|[2212.13447v1](http://arxiv.org/abs/2212.13447v1)|null|
+|**2022-12-27**|**Complementarity Problem With Nekrasov  $Z$  tensor**|R. Deb et.al.|[2212.13444v1](http://arxiv.org/abs/2212.13444v1)|null|
+|**2022-12-27**|**Discrete symmetries of Dirac's theory in the de Sitter manifold**|Ion I. Cotaescu et.al.|[2212.13435v1](http://arxiv.org/abs/2212.13435v1)|null|
+|**2022-12-27**|**NEEDED: Introducing Hierarchical Transformer to Eye Diseases Diagnosis**|Xu Ye et.al.|[2212.13408v1](http://arxiv.org/abs/2212.13408v1)|null|
+|**2022-12-27**|**Traceable Automatic Feature Transformation via Cascading Actor-Critic Agents**|Meng Xiao et.al.|[2212.13402v1](http://arxiv.org/abs/2212.13402v1)|null|
 |**2022-12-26**|**Equivalence classes and Linearization of the Riccati and Abel chain**|J. C. Ndogmo et.al.|[2212.13244v1](http://arxiv.org/abs/2212.13244v1)|null|
 |**2022-12-26**|**Integrable classes of a family of evolution equations**|J. C. Ndogmo et.al.|[2212.13230v1](http://arxiv.org/abs/2212.13230v1)|null|
 |**2022-12-26**|**Oscillations in the radiative damping of plasma resonances in a gated disk of 2D electron gas**|D. A. Rodionov et.al.|[2212.13222v1](http://arxiv.org/abs/2212.13222v1)|null|
