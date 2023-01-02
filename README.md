@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-29**|**Efficient Image Super-Resolution with Feature Interaction Weighted Hybrid Network**|Wenjie Li et.al.|[2212.14181v1](http://arxiv.org/abs/2212.14181v1)|null|
+|**2022-12-27**|**Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution**|Zhongwei Qiu et.al.|[2212.14046v1](http://arxiv.org/abs/2212.14046v1)|**[link](https://github.com/researchmm/ftvsr)**|
 |**2022-12-28**|**Single-Image Super-Resolution Reconstruction based on the Differences of Neighboring Pixels**|Huipeng Zheng et.al.|[2212.13730v1](http://arxiv.org/abs/2212.13730v1)|null|
 |**2022-12-28**|**Large-scale single-photon imaging**|Liheng Bian et.al.|[2212.13654v1](http://arxiv.org/abs/2212.13654v1)|null|
 |**2022-12-27**|**Cross-Resolution Flow Propagation for Foveated Video Super-Resolution**|Eugene Lee et.al.|[2212.13525v1](http://arxiv.org/abs/2212.13525v1)|**[link](https://github.com/eugenelet/crfp)**|
@@ -108,6 +110,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-29**|**Efficient Image Super-Resolution with Feature Interaction Weighted Hybrid Network**|Wenjie Li et.al.|[2212.14181v1](http://arxiv.org/abs/2212.14181v1)|null|
 |**2022-12-28**|**Single-Image Super-Resolution Reconstruction based on the Differences of Neighboring Pixels**|Huipeng Zheng et.al.|[2212.13730v1](http://arxiv.org/abs/2212.13730v1)|null|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
@@ -175,6 +178,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-27**|**Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution**|Zhongwei Qiu et.al.|[2212.14046v1](http://arxiv.org/abs/2212.14046v1)|**[link](https://github.com/researchmm/ftvsr)**|
 |**2022-12-27**|**Cross-Resolution Flow Propagation for Foveated Video Super-Resolution**|Eugene Lee et.al.|[2212.13525v1](http://arxiv.org/abs/2212.13525v1)|**[link](https://github.com/eugenelet/crfp)**|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-14**|**Mitigating Artifacts in Real-World Video Super-Resolution Models**|Liangbin Xie et.al.|[2212.07339v1](http://arxiv.org/abs/2212.07339v1)|**[link](https://github.com/tencentarc/fastrealvsr)**|
@@ -287,6 +291,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-30**|**SE(3)-Equivariant Reconstruction from Light Field**|Yinshuang Xu et.al.|[2212.14871v1](http://arxiv.org/abs/2212.14871v1)|null|
+|**2022-12-30**|**Discrete Asymptotic Nets with Constant Affine Mean Curvature**|Anderson Reis de Vargas et.al.|[2212.14868v1](http://arxiv.org/abs/2212.14868v1)|null|
+|**2022-12-30**|**Hashing-like Johnson--Lindenstrauss transforms and their extreme singular values**|Kwassi Joseph Dzahini et.al.|[2212.14858v1](http://arxiv.org/abs/2212.14858v1)|null|
+|**2022-12-30**|**Disentangled Explanations of Neural Network Predictions by Finding Relevant Subspaces**|Pattarawat Chormai et.al.|[2212.14855v1](http://arxiv.org/abs/2212.14855v1)|null|
+|**2022-12-30**|**An Analysis of Attention via the Lens of Exchangeability and Latent Variable Models**|Yufeng Zhang et.al.|[2212.14852v1](http://arxiv.org/abs/2212.14852v1)|null|
+|**2022-12-30**|**On the structural stability of a simple cosmological model in  $R+α R^{2}$  theory of gravity**|Orest Hrycyna et.al.|[2212.14843v1](http://arxiv.org/abs/2212.14843v1)|null|
+|**2022-12-30**|**The Rough with the Smooth of the Light Cone String**|Norbert Dragon et.al.|[2212.14822v1](http://arxiv.org/abs/2212.14822v1)|null|
+|**2022-12-30**|**Critical collapse for the Starobinsky  $R^2$  model**|Yolbeiker Rodríguez Baez et.al.|[2212.14805v1](http://arxiv.org/abs/2212.14805v1)|null|
+|**2022-12-30**|**Polynomial spline regression: Theory and Application**|Mithun Kumar Acharjee et.al.|[2212.14777v1](http://arxiv.org/abs/2212.14777v1)|null|
+|**2022-12-30**|**Holonomic Poisson geometry of Hilbert schemes**|Mykola Matviichuk et.al.|[2212.14763v1](http://arxiv.org/abs/2212.14763v1)|null|
+|**2022-12-30**|**DGFont++: Robust Deformable Generative Networks for Unsupervised Font Generation**|Xinyuan Chen et.al.|[2212.14742v1](http://arxiv.org/abs/2212.14742v1)|null|
+|**2022-12-30**|**Every Combinatorial Polyhedron Can Unfold with Overlap**|Joseph O'Rourke et.al.|[2212.14721v1](http://arxiv.org/abs/2212.14721v1)|null|
+|**2022-12-30**|**Quantum simulation of partial differential equations via Schrodingerisation: technical details**|Shi Jin et.al.|[2212.14703v1](http://arxiv.org/abs/2212.14703v1)|null|
+|**2022-12-30**|**Data-driven photometric redshift estimation from type Ia supernovae light curves**|Felipe M F de Oliveira et.al.|[2212.14668v1](http://arxiv.org/abs/2212.14668v1)|null|
+|**2022-12-30**|**On the lattice of weighted partitions**|Keiichi Shigechi et.al.|[2212.14666v1](http://arxiv.org/abs/2212.14666v1)|null|
+|**2022-12-30**|**An Auction-based Coordination Strategy for Task-Constrained Multi-Agent Stochastic Planning with Submodular Rewards**|Ruifan Liu et.al.|[2212.14624v1](http://arxiv.org/abs/2212.14624v1)|null|
+|**2022-12-30**|**Forward Approximate Solution for Linear Quadratic Tracking**|Alessandro Betti et.al.|[2212.14614v1](http://arxiv.org/abs/2212.14614v1)|null|
+|**2022-12-30**|**Detection of slow slip events using wavelet analysis of GNSS recordings**|Ariane Ducellier et.al.|[2212.14592v1](http://arxiv.org/abs/2212.14592v1)|null|
+|**2022-12-30**|**An 8-year-long low-frequency earthquake catalog for Southern Cascadia**|Ariane Ducellier et.al.|[2212.14581v1](http://arxiv.org/abs/2212.14581v1)|null|
+|**2022-12-30**|**A wavelet-based detector function for characterizing intermittent velocity signals**|Satyajit De et.al.|[2212.14576v1](http://arxiv.org/abs/2212.14576v1)|null|
+|**2022-12-30**|**Finding similarity of orbits between two discrete dynamical systems via optimal principle**|Yuting Chen et.al.|[2212.14564v1](http://arxiv.org/abs/2212.14564v1)|null|
+|**2022-12-30**|**Similarity-Based Predictive Maintenance Framework for Rotating Machinery**|Sulaiman Aburakhia et.al.|[2212.14550v1](http://arxiv.org/abs/2212.14550v1)|null|
+|**2022-12-30**|**Transformer in Transformer as Backbone for Deep Reinforcement Learning**|Hangyu Mao et.al.|[2212.14538v1](http://arxiv.org/abs/2212.14538v1)|null|
+|**2022-12-30**|**Resurgence for the non-conformal Bjorken flow with Fermi-Dirac and Bose-Einstein statistics**|Syo Kamata et.al.|[2212.14506v1](http://arxiv.org/abs/2212.14506v1)|null|
+|**2022-12-29**|**MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid**|Zhuo Chen et.al.|[2212.14454v1](http://arxiv.org/abs/2212.14454v1)|null|
+|**2022-12-29**|**Learning Multimodal Data Augmentation in Feature Space**|Zichang Liu et.al.|[2212.14453v1](http://arxiv.org/abs/2212.14453v1)|null|
+|**2022-12-29**|**Identification and Verification of Attack-Tree Threat Models in Connected Vehicles**|Masoud Ebrahimi et.al.|[2212.14435v1](http://arxiv.org/abs/2212.14435v1)|null|
+|**2022-12-29**|**On the Question of the Bäcklund Transformations and Jordan Generalizations of the Second Painlevé Equation**|Artyom Yurov et.al.|[2212.14434v1](http://arxiv.org/abs/2212.14434v1)|null|
+|**2022-12-29**|**Efficient Movie Scene Detection using State-Space Transformers**|Md Mohaiminul Islam et.al.|[2212.14427v1](http://arxiv.org/abs/2212.14427v1)|null|
+|**2022-12-29**|**Quantum Mass Production Theorems**|William Kretschmer et.al.|[2212.14399v1](http://arxiv.org/abs/2212.14399v1)|null|
+|**2022-12-29**|**AttEntropy: Segmenting Unknown Objects in Complex Scenes using the Spatial Attention Entropy of Semantic Segmentation Transformers**|Krzysztof Lis et.al.|[2212.14397v1](http://arxiv.org/abs/2212.14397v1)|null|
+|**2022-12-29**|**Comparison of Density-Matrix Corrections to Density Functional Theory**|Daniel Gibney et.al.|[2212.14369v1](http://arxiv.org/abs/2212.14369v1)|null|
+|**2022-12-29**|**StyleRes: Transforming the Residuals for Real Image Editing with StyleGAN**|Hamza Pehlivan et.al.|[2212.14359v1](http://arxiv.org/abs/2212.14359v1)|null|
+|**2022-12-29**|**Comparative analysis for the behavior of beryllium and magnesium crystals at ultrahigh pressures**|N. A. Smirnov et.al.|[2212.14349v1](http://arxiv.org/abs/2212.14349v1)|null|
+|**2022-12-29**|**On the large-order asymtptics of Kuznetsov-Ma breathers**|Liming Ling et.al.|[2212.14348v1](http://arxiv.org/abs/2212.14348v1)|null|
+|**2022-12-29**|**BagFormer: Better Cross-Modal Retrieval via bag-wise interaction**|Haowen Hou et.al.|[2212.14322v1](http://arxiv.org/abs/2212.14322v1)|null|
+|**2022-12-29**|**Gaussian Process Priors for Systems of Linear Partial Differential Equations with Constant Coefficients**|Marc Härkönen et.al.|[2212.14319v1](http://arxiv.org/abs/2212.14319v1)|null|
+|**2022-12-29**|**Block diagonalization of block circulant quaternion matrices and the fast calculation for T-product of quaternion tensors**|Meng-Meng Zheng et.al.|[2212.14318v1](http://arxiv.org/abs/2212.14318v1)|null|
+|**2022-12-29**|**Non-stationary quantum electromagnetic fields with uniformly moving boundary conditions**|I. Ramos-Prieto et.al.|[2212.14287v1](http://arxiv.org/abs/2212.14287v1)|null|
+|**2022-12-29**|**3D Masked Modelling Advances Lesion Classification in Axial T2w Prostate MRI**|Alvaro Fernandez-Quilez et.al.|[2212.14267v1](http://arxiv.org/abs/2212.14267v1)|null|
+|**2022-12-29**|**Unsupervised construction of representations for oil wells via Transformers**|Alina Rogulina et.al.|[2212.14246v1](http://arxiv.org/abs/2212.14246v1)|null|
+|**2022-12-29**|**Green's relations and unit-regularity for semigroup of transformations whose characters are bijective**|Mosarof Sarkar et.al.|[2212.14239v1](http://arxiv.org/abs/2212.14239v1)|null|
+|**2022-12-29**|**GPTR: Gestalt-Perception Transformer for Diagram Object Detection**|Xin Hu et.al.|[2212.14232v1](http://arxiv.org/abs/2212.14232v1)|null|
+|**2022-12-29**|**Exploring Depth Information for Face Manipulation Detection**|Haoyue Wang et.al.|[2212.14230v1](http://arxiv.org/abs/2212.14230v1)|null|
+|**2022-12-29**|**Local Learning on Transformers via Feature Reconstruction**|Priyank Pathak et.al.|[2212.14215v1](http://arxiv.org/abs/2212.14215v1)|null|
+|**2022-12-29**|**Maximizing Use-Case Specificity through Precision Model Tuning**|Pranjali Awasthi et.al.|[2212.14206v1](http://arxiv.org/abs/2212.14206v1)|null|
+|**2022-12-29**|**Ultrafast switching dynamics of the ferroelectric order in stacking-engineered ferroelectrics**|Ri He et.al.|[2212.14203v1](http://arxiv.org/abs/2212.14203v1)|null|
+|**2022-12-29**|**TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU**|Shengyu Fan et.al.|[2212.14191v1](http://arxiv.org/abs/2212.14191v1)|null|
+|**2022-12-29**|**How to Share: Balancing Layer and Chain Sharing in Industrial Microservice Deployment**|Yuxiang Liu et.al.|[2212.14183v1](http://arxiv.org/abs/2212.14183v1)|null|
+|**2022-12-29**|**Efficient Image Super-Resolution with Feature Interaction Weighted Hybrid Network**|Wenjie Li et.al.|[2212.14181v1](http://arxiv.org/abs/2212.14181v1)|null|
 |**2022-12-28**|**Cramming: Training a Language Model on a Single GPU in One Day**|Jonas Geiping et.al.|[2212.14034v1](http://arxiv.org/abs/2212.14034v1)|**[link](https://github.com/jonasgeiping/cramming)**|
 |**2022-12-28**|**Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP**|Omar Khattab et.al.|[2212.14024v1](http://arxiv.org/abs/2212.14024v1)|null|
 |**2022-12-28**|**Exact universal bounds on quantum dynamics and fast scrambling**|Amit Vikram et.al.|[2212.14021v1](http://arxiv.org/abs/2212.14021v1)|null|
