@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-03**|**Surveillance Face Anti-spoofing**|Hao Fang et.al.|[2301.00975v1](http://arxiv.org/abs/2301.00975v1)|null|
 |**2023-01-02**|**In-situ monitoring additive manufacturing process with AI edge computing**|Wenkang Zhu et.al.|[2301.00554v1](http://arxiv.org/abs/2301.00554v1)|null|
 |**2023-01-02**|**Spectral Bandwidth Recovery of Optical Coherence Tomography Images using Deep Learning**|Timothy T. Yu et.al.|[2301.00504v1](http://arxiv.org/abs/2301.00504v1)|null|
 |**2022-12-31**|**DIVA: Deep Unfolded Network from Quantum Interactive Patches for Image Restoration**|Sayantan Dutta et.al.|[2301.00247v1](http://arxiv.org/abs/2301.00247v1)|null|
@@ -295,6 +296,37 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-03**|**TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models**|Sucheng Ren et.al.|[2301.01296v1](http://arxiv.org/abs/2301.01296v1)|**[link](https://github.com/oliverrensu/tinymim)**|
+|**2023-01-03**|**Speckle Space-Time Covariance in High-Contrast Imaging**|Briley L. Lewis et.al.|[2301.01291v1](http://arxiv.org/abs/2301.01291v1)|null|
+|**2023-01-03**|**Frequency-aware Learned Image Compression for Quality Scalability**|Hyomin Choi et.al.|[2301.01290v1](http://arxiv.org/abs/2301.01290v1)|null|
+|**2023-01-03**|**Cross Modal Transformer via Coordinates Encoding for 3D Object Dectection**|Junjie Yan et.al.|[2301.01283v1](http://arxiv.org/abs/2301.01283v1)|**[link](https://github.com/junjie18/cmt)**|
+|**2023-01-03**|**Use of survival analysis and simulation to improve maintenance planning of high voltage instrument transformers in the Dutch transmission system**|Swasti R. Khuntia et.al.|[2301.01239v1](http://arxiv.org/abs/2301.01239v1)|null|
+|**2023-01-03**|**New applications of the Mellin transform to automorphic L-fuctions**|Laurent Clozel et.al.|[2301.01198v1](http://arxiv.org/abs/2301.01198v1)|null|
+|**2023-01-03**|**Carbon in solution and the Charpy impact performance of medium Mn steels**|TWK Kwok et.al.|[2301.01190v1](http://arxiv.org/abs/2301.01190v1)|null|
+|**2023-01-02**|**Transformer Based Geocoding**|Yuval Solaz et.al.|[2301.01170v1](http://arxiv.org/abs/2301.01170v1)|null|
+|**2023-01-03**|**Language Models are Drummers: Drum Composition with Natural Language Pre-Training**|Li Zhang et.al.|[2301.01162v1](http://arxiv.org/abs/2301.01162v1)|null|
+|**2023-01-03**|**Natural transformations relating homotopy and singular homology functors**|Benjamin Enriquez et.al.|[2301.01157v1](http://arxiv.org/abs/2301.01157v1)|null|
+|**2023-01-03**|**Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation**|Yue Han et.al.|[2301.01156v1](http://arxiv.org/abs/2301.01156v1)|null|
+|**2023-01-03**|**Rethinking Mobile Block for Efficient Neural Models**|Jiangning Zhang et.al.|[2301.01146v1](http://arxiv.org/abs/2301.01146v1)|null|
+|**2023-01-01**|**SailFFish: A Lightweight, Parallelised Fast Poisson Solver Library**|Joseph Saverin et.al.|[2301.01145v1](http://arxiv.org/abs/2301.01145v1)|null|
+|**2023-01-03**|**Black Hole Greybody Factors from Korteweg-de Vries Integrals: Computation**|Michele Lenzi et.al.|[2301.01096v1](http://arxiv.org/abs/2301.01096v1)|null|
+|**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081v1](http://arxiv.org/abs/2301.01081v1)|null|
+|**2023-01-03**|**On the Numerical Integration of Singular Initial and Boundary Value Problems for Generalised Lane-Emden and Thomas-Fermi Equations**|Werner M. Seiler et.al.|[2301.01041v1](http://arxiv.org/abs/2301.01041v1)|null|
+|**2023-01-03**|**Autovesk: Automatic vectorization of unstructured static kernels by graph transformations**|Hayfa Tayeb et.al.|[2301.01018v1](http://arxiv.org/abs/2301.01018v1)|null|
+|**2023-01-03**|**Transactional Composition of Nonblocking Data Structures**|Wentao Cai et.al.|[2301.00996v1](http://arxiv.org/abs/2301.00996v1)|null|
+|**2023-01-03**|**A New Perspective to Boost Vision Transformer for Medical Image Classification**|Yuexiang Li et.al.|[2301.00989v1](http://arxiv.org/abs/2301.00989v1)|null|
+|**2023-01-03**|**AI in HCI Design and User Experience**|Wei Xu et.al.|[2301.00987v1](http://arxiv.org/abs/2301.00987v1)|null|
+|**2023-01-03**|**Protein-Ligand Complex Generator & Drug Screening via Tiered Tensor Transform**|Jonathan P. Mailoa et.al.|[2301.00984v1](http://arxiv.org/abs/2301.00984v1)|null|
+|**2023-01-03**|**Detecting Severity of Diabetic Retinopathy from Fundus Images using Ensembled Transformers**|Chandranath Adak et.al.|[2301.00973v1](http://arxiv.org/abs/2301.00973v1)|null|
+|**2023-01-03**|**Boosting Neural Networks to Decompile Optimized Binaries**|Ying Cao et.al.|[2301.00969v1](http://arxiv.org/abs/2301.00969v1)|null|
+|**2023-01-03**|**Some Properties of Internal Locale Morphisms Externalised**|Joshua Wrigley et.al.|[2301.00961v1](http://arxiv.org/abs/2301.00961v1)|null|
+|**2023-01-03**|**Digital Engineering Transformation with Trustworthy AI towards Industry 4.0: Emerging Paradigm Shifts**|Jingwei Huang et.al.|[2301.00951v1](http://arxiv.org/abs/2301.00951v1)|null|
+|**2023-01-03**|**OTFS-SCMA: A Downlink NOMA Scheme for Massive Connectivity in High Mobility Channels**|Haifeng Wen et.al.|[2301.00933v1](http://arxiv.org/abs/2301.00933v1)|null|
+|**2023-01-02**|**Understanding Political Polarisation using Language Models: A dataset and method**|Samiran Gode et.al.|[2301.00891v1](http://arxiv.org/abs/2301.00891v1)|null|
+|**2023-01-02**|**MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding**|Steven H. Wang et.al.|[2301.00876v1](http://arxiv.org/abs/2301.00876v1)|**[link](https://github.com/TheAtticusProject/maud)**|
+|**2023-01-02**|**3DSGrasp: 3D Shape-Completion for Robotic Grasp**|Seyed S. Mohammadi et.al.|[2301.00866v1](http://arxiv.org/abs/2301.00866v1)|null|
+|**2023-01-02**|**Bubbling phenomenon for semilinear Neumann elliptic equations of critical exponential growth**|Lu Chen et.al.|[2301.00837v1](http://arxiv.org/abs/2301.00837v1)|null|
+|**2023-01-02**|**Bringing data minimization to digital wallets at scale with general-purpose zero-knowledge proofs**|Matthias Babel et.al.|[2301.00823v1](http://arxiv.org/abs/2301.00823v1)|null|
 |**2023-01-02**|**Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation**|Jianzong Wu et.al.|[2301.00805v1](http://arxiv.org/abs/2301.00805v1)|null|
 |**2023-01-02**|**Generation and ampleness of coherent sheaves on abelian varieties, with application to Brill-Noether theory**|Giuseppe Pareschi et.al.|[2301.00779v1](http://arxiv.org/abs/2301.00779v1)|null|
 |**2023-01-02**|**Massive Language Models Can Be Accurately Pruned in One-Shot**|Elias Frantar et.al.|[2301.00774v1](http://arxiv.org/abs/2301.00774v1)|null|
