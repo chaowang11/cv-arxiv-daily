@@ -315,7 +315,7 @@
 |**2023-01-03**|**Autovesk: Automatic vectorization of unstructured static kernels by graph transformations**|Hayfa Tayeb et.al.|[2301.01018v1](http://arxiv.org/abs/2301.01018v1)|null|
 |**2023-01-03**|**Transactional Composition of Nonblocking Data Structures**|Wentao Cai et.al.|[2301.00996v1](http://arxiv.org/abs/2301.00996v1)|null|
 |**2023-01-03**|**A New Perspective to Boost Vision Transformer for Medical Image Classification**|Yuexiang Li et.al.|[2301.00989v1](http://arxiv.org/abs/2301.00989v1)|null|
-|**2023-01-03**|**AI in HCI Design and User Experience**|Wei Xu et.al.|[2301.00987v1](http://arxiv.org/abs/2301.00987v1)|null|
+|**2023-01-04**|**AI in HCI Design and User Experience**|Wei Xu et.al.|[2301.00987v2](http://arxiv.org/abs/2301.00987v2)|null|
 |**2023-01-03**|**Protein-Ligand Complex Generator & Drug Screening via Tiered Tensor Transform**|Jonathan P. Mailoa et.al.|[2301.00984v1](http://arxiv.org/abs/2301.00984v1)|null|
 |**2023-01-03**|**Detecting Severity of Diabetic Retinopathy from Fundus Images using Ensembled Transformers**|Chandranath Adak et.al.|[2301.00973v1](http://arxiv.org/abs/2301.00973v1)|null|
 |**2023-01-03**|**Boosting Neural Networks to Decompile Optimized Binaries**|Ying Cao et.al.|[2301.00969v1](http://arxiv.org/abs/2301.00969v1)|null|
@@ -1111,7 +1111,7 @@
 |**2022-10-12**|**Point Cloud Scene Completion with Joint Color and Semantic Estimation from Single RGB-D Image**|Zhaoxuan Zhang et.al.|[2210.05891v1](http://arxiv.org/abs/2210.05891v1)|null|
 |**2022-09-29**|**Spherical Image Inpainting with Frame Transformation and Data-driven Prior Deep Networks**|Jianfei Li et.al.|[2209.14604v1](http://arxiv.org/abs/2209.14604v1)|null|
 |**2022-09-29**|**Semantics-Guided Object Removal for Facial Images: with Broad Applicability and Robust Style Preservation**|Jookyung Song et.al.|[2209.14479v1](http://arxiv.org/abs/2209.14479v1)|null|
-|**2022-09-21**|**Progressive with Purpose: Guiding Progressive Inpainting DNNs through Context and Structure**|Kangdi Shi et.al.|[2209.10071v1](http://arxiv.org/abs/2209.10071v1)|null|
+|**2023-01-03**|**Progressive with Purpose: Guiding Progressive Inpainting DNNs through Context and Structure**|Kangdi Shi et.al.|[2209.10071v2](http://arxiv.org/abs/2209.10071v2)|null|
 |**2022-09-19**|**HiMFR: A Hybrid Masked Face Recognition Through Face Inpainting**|Md Imran Hosen et.al.|[2209.08930v1](http://arxiv.org/abs/2209.08930v1)|**[link](https://github.com/mdhosen/himfr)**|
 |**2022-09-17**|**Delving Globally into Texture and Structure for Image Inpainting**|Haipeng Liu et.al.|[2209.08217v1](http://arxiv.org/abs/2209.08217v1)|**[link](https://github.com/htyjers/dgts-inpainting)**|
 |**2022-09-01**|**Visual Prompting via Image Inpainting**|Amir Bar et.al.|[2209.00647v1](http://arxiv.org/abs/2209.00647v1)|**[link](https://github.com/amirbar/visual_prompting)**|
