@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-04**|**Super-resolution with Sparse Arrays: A Non-Asymptotic Analysis of Spatio-temporal Trade-offs**|Pulak Sarangi et.al.|[2301.01734v1](http://arxiv.org/abs/2301.01734v1)|null|
+|**2023-01-04**|**Super-resolution with Binary Priors: Theory and Algorithms**|Pulak Sarangi et.al.|[2301.01724v1](http://arxiv.org/abs/2301.01724v1)|null|
+|**2023-01-04**|**Super-Resolution Imaging with Multiparameter Quantum Metrology in Passive Remote Sensing**|Emre Köse et.al.|[2301.01557v1](http://arxiv.org/abs/2301.01557v1)|null|
 |**2023-01-03**|**Surveillance Face Anti-spoofing**|Hao Fang et.al.|[2301.00975v1](http://arxiv.org/abs/2301.00975v1)|null|
 |**2023-01-02**|**In-situ monitoring additive manufacturing process with AI edge computing**|Wenkang Zhu et.al.|[2301.00554v1](http://arxiv.org/abs/2301.00554v1)|null|
 |**2023-01-02**|**Spectral Bandwidth Recovery of Optical Coherence Tomography Images using Deep Learning**|Timothy T. Yu et.al.|[2301.00504v1](http://arxiv.org/abs/2301.00504v1)|null|
@@ -296,6 +299,33 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-04**|**A computationally efficient and mechanically compatible multi-phase-field model applied to coherently stressed three-phase solids**|Sourav Chatterjee et.al.|[2301.01747v1](http://arxiv.org/abs/2301.01747v1)|null|
+|**2023-01-04**|**Non-singular actions of infinite-dimensional groups and polymorphisms**|Yury A. Neretin et.al.|[2301.01736v1](http://arxiv.org/abs/2301.01736v1)|null|
+|**2023-01-04**|**Multitime Quantum Communication: Interesting But Not Counterfactual**|Robert B. Griffiths et.al.|[2301.01730v1](http://arxiv.org/abs/2301.01730v1)|null|
+|**2023-01-04**|**Restricted variational principle of Lyapunov exponents for typical cocycles**|Reza Mohammadpour et.al.|[2301.01721v1](http://arxiv.org/abs/2301.01721v1)|null|
+|**2023-01-04**|**Augmenting data-driven models for energy systems through feature engineering: A Python framework for feature engineering**|Sandra Wilfling et.al.|[2301.01720v1](http://arxiv.org/abs/2301.01720v1)|null|
+|**2023-01-04**|**Extending Source Code Pre-Trained Language Models to Summarise Decompiled Binaries**|Ali Al-Kaswan et.al.|[2301.01701v1](http://arxiv.org/abs/2301.01701v1)|**[link](https://github.com/aise-tudelft/capybara-bint5)**|
+|**2023-01-04**|**Multi-Aspect Explainable Inductive Relation Prediction by Sentence Transformer**|Zhixiang Su et.al.|[2301.01664v1](http://arxiv.org/abs/2301.01664v1)|**[link](https://github.com/zhixiangsu/krst)**|
+|**2023-01-04**|**RecRecNet: Rectangling Rectified Wide-Angle Images by Thin-Plate Spline Model and DoF-based Curriculum Learning**|Kang Liao et.al.|[2301.01661v1](http://arxiv.org/abs/2301.01661v1)|null|
+|**2023-01-04**|**Grid-Based Decimation for Wavelet Transforms with Stably Invertible Implementation**|Nicki Holighaus et.al.|[2301.01640v1](http://arxiv.org/abs/2301.01640v1)|null|
+|**2023-01-04**|**On Lamperti transformation and characterisations of discrete random fields**|Marko Voutilainen et.al.|[2301.01639v1](http://arxiv.org/abs/2301.01639v1)|null|
+|**2023-01-04**|**SPTS v2: Single-Point Scene Text Spotting**|Yuliang Liu et.al.|[2301.01635v1](http://arxiv.org/abs/2301.01635v1)|**[link](https://github.com/shannanyinxiang/spts)**|
+|**2023-01-04**|**A range three elliptic deformation of the Hubbard model**|Marius de Leeuw et.al.|[2301.01612v1](http://arxiv.org/abs/2301.01612v1)|null|
+|**2023-01-04**|**Why Capsule Neural Networks Do Not Scale: Challenging the Dynamic Parse-Tree Assumption**|Matthias Mitterreiter et.al.|[2301.01583v1](http://arxiv.org/abs/2301.01583v1)|null|
+|**2023-01-04**|**Learning Decorrelated Representations Efficiently Using Fast Fourier Transform**|Yutaro Shigeto et.al.|[2301.01569v1](http://arxiv.org/abs/2301.01569v1)|null|
+|**2023-01-04**|**Smooth Calabi-Yau structures and the noncommutative Legendre transform**|Maxim Kontsevich et.al.|[2301.01567v1](http://arxiv.org/abs/2301.01567v1)|null|
+|**2023-01-04**|**Gaussian Approximation for the Moving Averaged Modulus Wavelet Transform and its Variants**|Gi-Ren Liu et.al.|[2301.01540v1](http://arxiv.org/abs/2301.01540v1)|null|
+|**2023-01-04**|**On three remarkable submonoids of the dihedral inverse monoid on a finite set**|Ilinka Dimitrova et.al.|[2301.01519v1](http://arxiv.org/abs/2301.01519v1)|null|
+|**2023-01-04**|**A Bayesian Perspective on Feller, Pollard and the Complete Monotonicity of the Mittag-Leffler Function**|Nomvelo Karabo Sibisi et.al.|[2301.01466v1](http://arxiv.org/abs/2301.01466v1)|null|
+|**2023-01-04**|**Accurate, Low-latency, Efficient SAR Automatic Target Recognition on FPGA**|Bingyi Zhang et.al.|[2301.01454v1](http://arxiv.org/abs/2301.01454v1)|null|
+|**2023-01-04**|**Semi-MAE: Masked Autoencoders for Semi-supervised Vision Transformers**|Haojie Yu et.al.|[2301.01431v1](http://arxiv.org/abs/2301.01431v1)|null|
+|**2023-01-03**|**Notes on Correspondence Analysis of Power Transformed Data Sets**|Vartan Choulakian et.al.|[2301.01364v1](http://arxiv.org/abs/2301.01364v1)|null|
+|**2023-01-03**|**Modeling the Rhythm from Lyrics for Melody Generation of Pop Song**|Daiyu Zhang et.al.|[2301.01361v1](http://arxiv.org/abs/2301.01361v1)|null|
+|**2023-01-03**|**On unital qubit channels**|Chi-Kwong Li et.al.|[2301.01358v1](http://arxiv.org/abs/2301.01358v1)|null|
+|**2023-01-03**|**Holistic Multi-Slice Framework for Dynamic Simultaneous Multi-Slice MRI Reconstruction**|Daniel H. Pak et.al.|[2301.01355v1](http://arxiv.org/abs/2301.01355v1)|null|
+|**2023-01-03**|**Explainability and Robustness of Deep Visual Classification Models**|Jindong Gu et.al.|[2301.01343v1](http://arxiv.org/abs/2301.01343v1)|null|
+|**2023-01-03**|**Optimal Decoy Resource Allocation for Proactive Defense in Probabilistic Attack Graphs**|Haoxiang Ma et.al.|[2301.01336v1](http://arxiv.org/abs/2301.01336v1)|null|
+|**2023-01-03**|**Emergent Area Laws from Entangled Matrices**|Alexander Frenkel et.al.|[2301.01325v1](http://arxiv.org/abs/2301.01325v1)|null|
 |**2023-01-03**|**TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models**|Sucheng Ren et.al.|[2301.01296v1](http://arxiv.org/abs/2301.01296v1)|**[link](https://github.com/oliverrensu/tinymim)**|
 |**2023-01-03**|**Speckle Space-Time Covariance in High-Contrast Imaging**|Briley L. Lewis et.al.|[2301.01291v1](http://arxiv.org/abs/2301.01291v1)|null|
 |**2023-01-03**|**Frequency-aware Learned Image Compression for Quality Scalability**|Hyomin Choi et.al.|[2301.01290v1](http://arxiv.org/abs/2301.01290v1)|null|
