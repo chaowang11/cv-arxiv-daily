@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-05**|**DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution**|Xiang Li et.al.|[2301.02031v1](http://arxiv.org/abs/2301.02031v1)|null|
 |**2023-01-04**|**Super-resolution with Sparse Arrays: A Non-Asymptotic Analysis of Spatio-temporal Trade-offs**|Pulak Sarangi et.al.|[2301.01734v1](http://arxiv.org/abs/2301.01734v1)|null|
 |**2023-01-04**|**Super-resolution with Binary Priors: Theory and Algorithms**|Pulak Sarangi et.al.|[2301.01724v1](http://arxiv.org/abs/2301.01724v1)|null|
 |**2023-01-04**|**Super-Resolution Imaging with Multiparameter Quantum Metrology in Passive Remote Sensing**|Emre Köse et.al.|[2301.01557v1](http://arxiv.org/abs/2301.01557v1)|null|
@@ -117,6 +118,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-05**|**DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution**|Xiang Li et.al.|[2301.02031v1](http://arxiv.org/abs/2301.02031v1)|null|
 |**2022-12-29**|**Efficient Image Super-Resolution with Feature Interaction Weighted Hybrid Network**|Wenjie Li et.al.|[2212.14181v1](http://arxiv.org/abs/2212.14181v1)|null|
 |**2022-12-28**|**Single-Image Super-Resolution Reconstruction based on the Differences of Neighboring Pixels**|Huipeng Zheng et.al.|[2212.13730v1](http://arxiv.org/abs/2212.13730v1)|null|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
@@ -299,6 +301,42 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-05**|**Skip-Attention: Improving Vision Transformers by Paying Less Attention**|Shashanka Venkataramanan et.al.|[2301.02240v1](http://arxiv.org/abs/2301.02240v1)|null|
+|**2023-01-05**|**MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training**|Chaoyi Wu et.al.|[2301.02228v1](http://arxiv.org/abs/2301.02228v1)|null|
+|**2023-01-05**|**On  $1/2$  estimate for global Newlander-Nirenberg theorem**|Ziming Shi et.al.|[2301.02215v1](http://arxiv.org/abs/2301.02215v1)|null|
+|**2023-01-05**|**Towards Autoformalization of Mathematics and Code Correctness: Experiments with Elementary Proofs**|Garett Cunningham et.al.|[2301.02195v1](http://arxiv.org/abs/2301.02195v1)|**[link](https://github.com/gc974517/autoformalization)**|
+|**2023-01-05**|**Optimised Morse transform of a Gaussian process feature space**|Fabio E. A. Albertani et.al.|[2301.02172v1](http://arxiv.org/abs/2301.02172v1)|null|
+|**2023-01-05**|**Trace Encoding in Process Mining: a survey and benchmarking**|Sylvio Barbon Jr. et.al.|[2301.02167v1](http://arxiv.org/abs/2301.02167v1)|null|
+|**2023-01-05**|**Emergence of anyonic correlations from spin and charge dynamics in one dimension**|Oleksandr Gamayun et.al.|[2301.02164v1](http://arxiv.org/abs/2301.02164v1)|null|
+|**2023-01-05**|**Next fifty years of thermodynamics and its modeling: Integrating quantum, statistical, classical, and irreversible thermodynamics for prediction of transformative properties**|Zi-Kui Liu et.al.|[2301.02132v1](http://arxiv.org/abs/2301.02132v1)|null|
+|**2023-01-05**|**Reprogramming Pretrained Language Models for Protein Sequence Representation Learning**|Ria Vinod et.al.|[2301.02120v1](http://arxiv.org/abs/2301.02120v1)|null|
+|**2023-01-05**|**The three dimensional stochastic Zakharov system**|Sebastian Herr et.al.|[2301.02089v1](http://arxiv.org/abs/2301.02089v1)|null|
+|**2023-01-05**|**Towards Long-Term Time-Series Forecasting: Feature, Pattern, and Distribution**|Yan Li et.al.|[2301.02068v1](http://arxiv.org/abs/2301.02068v1)|**[link](https://github.com/paddlepaddle/paddlespatial)**|
+|**2023-01-05**|**MS-DINO: Efficient Distributed Training of Vision Transformer Foundation Model in Medical Domain through Masked Sampling**|Sangjoon Park et.al.|[2301.02064v1](http://arxiv.org/abs/2301.02064v1)|null|
+|**2023-01-05**|**New Results for the Pointing Errors Model in Two Asymptotic Cases**|Maoke Miao et.al.|[2301.02058v1](http://arxiv.org/abs/2301.02058v1)|null|
+|**2023-01-05**|**DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution**|Xiang Li et.al.|[2301.02031v1](http://arxiv.org/abs/2301.02031v1)|null|
+|**2023-01-05**|**Asymptotic expansions relating to the distribution of the length of longest increasing subsequences**|Folkmar Bornemann et.al.|[2301.02022v1](http://arxiv.org/abs/2301.02022v1)|null|
+|**2023-01-05**|**Extremal Independent Set Reconfiguration**|Nicolas Bousquet et.al.|[2301.02020v1](http://arxiv.org/abs/2301.02020v1)|null|
+|**2023-01-05**|**C Sequential Optimization Numbers Group**|Zile Hui et.al.|[2301.02014v1](http://arxiv.org/abs/2301.02014v1)|null|
+|**2023-01-05**|**One-Way Ticket to Las Vegas and the Quantum Adversary**|Aleksandrs Belovs et.al.|[2301.02003v1](http://arxiv.org/abs/2301.02003v1)|null|
+|**2023-01-05**|**Mapping Circumgalactic Medium Observations to Theory Using Machine Learning**|Sarah Appleby et.al.|[2301.02001v1](http://arxiv.org/abs/2301.02001v1)|null|
+|**2023-01-05**|**CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection**|Shuailei Ma et.al.|[2301.01970v1](http://arxiv.org/abs/2301.01970v1)|**[link](https://github.com/xiaomabufei/CAT)**|
+|**2023-01-05**|**Adaptively Clustering Neighbor Elements for Image Captioning**|Zihua Wang et.al.|[2301.01955v1](http://arxiv.org/abs/2301.01955v1)|null|
+|**2023-01-05**|**Enabling Augmented Segmentation and Registration in Ultrasound-Guided Spinal Surgery via Realistic Ultrasound Synthesis from Diagnostic CT Volume**|Ang Li et.al.|[2301.01940v1](http://arxiv.org/abs/2301.01940v1)|null|
+|**2023-01-05**|**Double-Exponential transformation: A quick review of a Japanese tradition**|Kazuo Murota et.al.|[2301.01920v1](http://arxiv.org/abs/2301.01920v1)|null|
+|**2023-01-05**|**Scalable Communication for Multi-Agent Reinforcement Learning via Transformer-Based Email Mechanism**|Xudong Guo et.al.|[2301.01919v1](http://arxiv.org/abs/2301.01919v1)|null|
+|**2023-01-05**|**Learning Feature Recovery Transformer for Occluded Person Re-identification**|Boqiang Xu et.al.|[2301.01879v1](http://arxiv.org/abs/2301.01879v1)|**[link](https://github.com/xbq1994/feature-recovery-transformer)**|
+|**2023-01-04**|**Censored Regression with Serially Correlated Errors: a Bayesian approach**|Rodney Sousa et.al.|[2301.01852v1](http://arxiv.org/abs/2301.01852v1)|null|
+|**2023-01-04**|**Solving Unsplittable Network Flow Problems with Decision Diagrams**|Hosseinali Salemi et.al.|[2301.01844v1](http://arxiv.org/abs/2301.01844v1)|null|
+|**2023-01-04**|**PMP: Privacy-Aware Matrix Profile against Sensitive Pattern Inference for Time Series**|Li Zhang et.al.|[2301.01838v1](http://arxiv.org/abs/2301.01838v1)|null|
+|**2023-01-04**|**Search for an Ultraviolet Zero in the Seven-Loop Beta Function of the  $λφ^4_4$  Theory**|Robert Shrock et.al.|[2301.01830v1](http://arxiv.org/abs/2301.01830v1)|null|
+|**2023-01-04**|**Celestial Holography Revisited**|Charlotte Sleight et.al.|[2301.01810v1](http://arxiv.org/abs/2301.01810v1)|null|
+|**2023-01-04**|**Unsupervised Manifold Linearizing and Clustering**|Tianjiao Ding et.al.|[2301.01805v1](http://arxiv.org/abs/2301.01805v1)|null|
+|**2023-01-04**|**Recursive classification of satellite imaging time-series: An application to water and land cover mapping**|Helena Calatrava et.al.|[2301.01796v1](http://arxiv.org/abs/2301.01796v1)|null|
+|**2023-01-04**|**Several classical identities via Mellin's transform**|Khristo N. Boyadzhiev et.al.|[2301.01794v1](http://arxiv.org/abs/2301.01794v1)|null|
+|**2023-01-04**|**The temperature dependency of Wolf-Rayet-type mass loss: An exploratory study for winds launched by the hot iron bump**|A. A. C. Sander et.al.|[2301.01785v1](http://arxiv.org/abs/2301.01785v1)|null|
+|**2023-01-04**|**The James Webb Space Telescope Mission: Optical Telescope Element Design, Development, and Performance**|Michael W. McElwain et.al.|[2301.01779v1](http://arxiv.org/abs/2301.01779v1)|null|
+|**2023-01-04**|**Infomaxformer: Maximum Entropy Transformer for Long Time-Series Forecasting Problem**|Peiwang Tang et.al.|[2301.01772v1](http://arxiv.org/abs/2301.01772v1)|null|
 |**2023-01-04**|**A computationally efficient and mechanically compatible multi-phase-field model applied to coherently stressed three-phase solids**|Sourav Chatterjee et.al.|[2301.01747v1](http://arxiv.org/abs/2301.01747v1)|null|
 |**2023-01-04**|**Non-singular actions of infinite-dimensional groups and polymorphisms**|Yury A. Neretin et.al.|[2301.01736v1](http://arxiv.org/abs/2301.01736v1)|null|
 |**2023-01-04**|**Multitime Quantum Communication: Interesting But Not Counterfactual**|Robert B. Griffiths et.al.|[2301.01730v1](http://arxiv.org/abs/2301.01730v1)|null|
