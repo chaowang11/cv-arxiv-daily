@@ -301,6 +301,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-06**|**Does compressing activations help model parallel training?**|Song Bian et.al.|[2301.02654v1](http://arxiv.org/abs/2301.02654v1)|null|
+|**2023-01-06**|**Model-Agnostic Hierarchical Attention for 3D Object Detection**|Manli Shu et.al.|[2301.02650v1](http://arxiv.org/abs/2301.02650v1)|null|
+|**2023-01-06**|**Asynchronous Wait-Free Runtime Verification and Enforcement of Linearizability**|Armando Castañeda et.al.|[2301.02638v1](http://arxiv.org/abs/2301.02638v1)|null|
+|**2023-01-06**|**Strong solution of stochastic differential equations with discontinuous and unbounded coefficients**|Yaozhong Hu et.al.|[2301.02625v1](http://arxiv.org/abs/2301.02625v1)|null|
+|**2023-01-06**|**Causal Categorization of Mental Health Posts using Transformers**|Muskan Garg et.al.|[2301.02589v1](http://arxiv.org/abs/2301.02589v1)|null|
+|**2023-01-06**|**Tackling Data Bias in Painting Classification with Style Transfer**|Mridula Vijendran et.al.|[2301.02524v1](http://arxiv.org/abs/2301.02524v1)|**[link](https://github.com/41enthusiast/st-saclf)**|
+|**2023-01-06**|**End-to-End 3D Dense Captioning with Vote2Cap-DETR**|Sijin Chen et.al.|[2301.02508v1](http://arxiv.org/abs/2301.02508v1)|null|
+|**2023-01-06**|**Backlund transformation of the Geng-Xue system**|Lihua Wu et.al.|[2301.02495v1](http://arxiv.org/abs/2301.02495v1)|null|
+|**2023-01-06**|**Presentations for three remarkable submonoids of the dihedral inverse monoid on a finite set**|Ilinka Dimitrova et.al.|[2301.02474v1](http://arxiv.org/abs/2301.02474v1)|null|
+|**2023-01-06**|**Cox Point Processes for Multi-Altitude LEO Satellite Networks**|Chang-Sik Choi et.al.|[2301.02469v1](http://arxiv.org/abs/2301.02469v1)|null|
+|**2023-01-06**|**Exploring Efficient Few-shot Adaptation for Vision Transformers**|Chengming Xu et.al.|[2301.02419v1](http://arxiv.org/abs/2301.02419v1)|**[link](https://github.com/loadder/ett_tmlr2022)**|
+|**2023-01-06**|**Adversarial Attacks on Neural Models of Code via Code Difference Reduction**|Zhao Tian et.al.|[2301.02412v1](http://arxiv.org/abs/2301.02412v1)|null|
+|**2023-01-06**|**A Direct Construction of Optimal 2D-ZCACS with Flexible Array Size and Large Set Size**|Gobinda Ghosh et.al.|[2301.02400v1](http://arxiv.org/abs/2301.02400v1)|null|
+|**2023-01-06**|**Multi-Genre Music Transformer -- Composing Full Length Musical Piece**|Abhinav Kaushal Keshari et.al.|[2301.02385v1](http://arxiv.org/abs/2301.02385v1)|null|
+|**2023-01-06**|**Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection**|Shaofei Huang et.al.|[2301.02371v1](http://arxiv.org/abs/2301.02371v1)|null|
+|**2023-01-06**|**Algorithm Unrolling-Based Distributed Optimization for RIS-Assisted Cell-Free Networks**|Wangyang Xu et.al.|[2301.02360v1](http://arxiv.org/abs/2301.02360v1)|null|
+|**2023-01-05**|**Locality Galois groups of meromorphic germs in several variables**|Li Guo et.al.|[2301.02300v1](http://arxiv.org/abs/2301.02300v1)|null|
+|**2023-01-05**|**Computational characterization of novel nanostructured materials: A case study of NiCl $_2$ **|Elizaveta B. Kalika et.al.|[2301.02278v1](http://arxiv.org/abs/2301.02278v1)|null|
+|**2023-01-05**|**Deep Latent Variable Models for Semi-supervised Paraphrase Generation**|Jialin Yu et.al.|[2301.02275v1](http://arxiv.org/abs/2301.02275v1)|null|
+|**2023-01-05**|**Orbital analysis of the Pluto-Charon's moon system mutual interactions and forced frequencies**|Dionysios Gakis et.al.|[2301.02260v1](http://arxiv.org/abs/2301.02260v1)|null|
+|**2023-01-05**|**Comments on the Bell-Clauser-Horne-Shimony-Holt inequality**|S. P. Sorella et.al.|[2301.02245v1](http://arxiv.org/abs/2301.02245v1)|null|
 |**2023-01-05**|**Skip-Attention: Improving Vision Transformers by Paying Less Attention**|Shashanka Venkataramanan et.al.|[2301.02240v1](http://arxiv.org/abs/2301.02240v1)|null|
 |**2023-01-05**|**MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training**|Chaoyi Wu et.al.|[2301.02228v1](http://arxiv.org/abs/2301.02228v1)|null|
 |**2023-01-05**|**On  $1/2$  estimate for global Newlander-Nirenberg theorem**|Ziming Shi et.al.|[2301.02215v1](http://arxiv.org/abs/2301.02215v1)|null|
