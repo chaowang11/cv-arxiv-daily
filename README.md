@@ -334,7 +334,7 @@
 |**2023-01-05**|**The three dimensional stochastic Zakharov system**|Sebastian Herr et.al.|[2301.02089v1](http://arxiv.org/abs/2301.02089v1)|null|
 |**2023-01-05**|**Towards Long-Term Time-Series Forecasting: Feature, Pattern, and Distribution**|Yan Li et.al.|[2301.02068v1](http://arxiv.org/abs/2301.02068v1)|**[link](https://github.com/paddlepaddle/paddlespatial)**|
 |**2023-01-05**|**MS-DINO: Efficient Distributed Training of Vision Transformer Foundation Model in Medical Domain through Masked Sampling**|Sangjoon Park et.al.|[2301.02064v1](http://arxiv.org/abs/2301.02064v1)|null|
-|**2023-01-05**|**New Results for the Pointing Errors Model in Two Asymptotic Cases**|Maoke Miao et.al.|[2301.02058v1](http://arxiv.org/abs/2301.02058v1)|null|
+|**2023-01-09**|**New Results for the Pointing Errors Model in Two Asymptotic Cases**|Maoke Miao et.al.|[2301.02058v2](http://arxiv.org/abs/2301.02058v2)|null|
 |**2023-01-05**|**DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution**|Xiang Li et.al.|[2301.02031v1](http://arxiv.org/abs/2301.02031v1)|null|
 |**2023-01-05**|**Asymptotic expansions relating to the distribution of the length of longest increasing subsequences**|Folkmar Bornemann et.al.|[2301.02022v1](http://arxiv.org/abs/2301.02022v1)|null|
 |**2023-01-05**|**Extremal Independent Set Reconfiguration**|Nicolas Bousquet et.al.|[2301.02020v1](http://arxiv.org/abs/2301.02020v1)|null|
