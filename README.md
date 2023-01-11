@@ -303,12 +303,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-01-09**|**Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling**|Keyu Tian et.al.|[2301.03580v1](http://arxiv.org/abs/2301.03580v1)|**[link](https://github.com/keyu-tian/spark)**|
+|**2023-01-10**|**Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling**|Keyu Tian et.al.|[2301.03580v2](http://arxiv.org/abs/2301.03580v2)|**[link](https://github.com/keyu-tian/spark)**|
 |**2023-01-09**|**An Impartial Transformer for Story Visualization**|Nikolaos Tsakas et.al.|[2301.03563v1](http://arxiv.org/abs/2301.03563v1)|null|
 |**2023-01-09**|**A unipolar quantum dot diode structure for advanced quantum light sources**|T. Strobel et.al.|[2301.03541v1](http://arxiv.org/abs/2301.03541v1)|null|
 |**2023-01-09**|**Parallel Reasoning Network for Human-Object Interaction Detection**|Huan Peng et.al.|[2301.03510v1](http://arxiv.org/abs/2301.03510v1)|null|
 |**2023-01-09**|**Experimental evidence of a crossover between cooperative relaxation and liquid growth dynamics**|Ana Vila-Costa et.al.|[2301.03506v1](http://arxiv.org/abs/2301.03506v1)|null|
-|**2023-01-09**|**Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review**|Reza Azad et.al.|[2301.03505v1](http://arxiv.org/abs/2301.03505v1)|null|
+|**2023-01-10**|**Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review**|Reza Azad et.al.|[2301.03505v2](http://arxiv.org/abs/2301.03505v2)|**[link](https://github.com/mindflow-institue/awesome-transformer)**|
 |**2023-01-09**|**DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction**|Yangyang Xu ang Yibo Yang et.al.|[2301.03461v1](http://arxiv.org/abs/2301.03461v1)|null|
 |**2023-01-09**|**Automatic Standardization of Arabic Dialects for Machine Translation**|Abidrabbo Alnassan et.al.|[2301.03447v1](http://arxiv.org/abs/2301.03447v1)|null|
 |**2023-01-09**|**Digraph redicolouring**|Nicolas Bousquet et.al.|[2301.03417v1](http://arxiv.org/abs/2301.03417v1)|null|
@@ -326,7 +326,7 @@
 |**2023-01-09**|**MAQA: A Multimodal QA Benchmark for Negation**|Judith Yue Li et.al.|[2301.03238v1](http://arxiv.org/abs/2301.03238v1)|null|
 |**2023-01-09**|**Online Fake Review Detection Using Supervised Machine Learning And BERT Model**|Abrar Qadir Mir et.al.|[2301.03225v1](http://arxiv.org/abs/2301.03225v1)|null|
 |**2023-01-09**|**Elzaki Transform Based Accelerated Homotopy Perturbation Method for Multi-dimensional Smoluchowski's Coagulation and Coupled Coagulation-fragmentation Equations**|Gourav Arora et.al.|[2301.03215v1](http://arxiv.org/abs/2301.03215v1)|null|
-|**2023-01-09**|**A Study on the Generality of Neural Network Structures for Monocular Depth Estimation**|Jinwoo Bae et.al.|[2301.03169v1](http://arxiv.org/abs/2301.03169v1)|null|
+|**2023-01-10**|**A Study on the Generality of Neural Network Structures for Monocular Depth Estimation**|Jinwoo Bae et.al.|[2301.03169v2](http://arxiv.org/abs/2301.03169v2)|null|
 |**2023-01-09**|**Multiscale simulations of Sb $_2$ Te for photonic phase-change applications**|Xu-Dong Wang et.al.|[2301.03146v1](http://arxiv.org/abs/2301.03146v1)|null|
 |**2023-01-09**|**SFI-Swin: Symmetric Face Inpainting with Swin Transformer by Distinctly Learning Face Components Distributions**|MohammadReza Naderi et.al.|[2301.03130v1](http://arxiv.org/abs/2301.03130v1)|null|
 |**2023-01-09**|**Logically at Factify 2023: A Multi-Modal Fact Checking System Based on Evidence Retrieval techniques and Transformer Encoder Architecture**|Pim Jordi Verschuuren et.al.|[2301.03127v1](http://arxiv.org/abs/2301.03127v1)|null|
