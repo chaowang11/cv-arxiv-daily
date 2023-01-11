@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-10**|**Integrated Sensing and Communication Signals Towards 5G-A and 6G: A Survey**|Zhiqing Wei et.al.|[2301.03857v1](http://arxiv.org/abs/2301.03857v1)|null|
 |**2023-01-09**|**Label-free incoherent super-resolution optical microscopy**|Nikhil Jayakumar et.al.|[2301.03451v1](http://arxiv.org/abs/2301.03451v1)|null|
 |**2023-01-09**|**eFIN: Enhanced Fourier Imager Network for generalizable autofocusing and pixel super-resolution in holographic imaging**|Hanlong Chen et.al.|[2301.03162v1](http://arxiv.org/abs/2301.03162v1)|null|
 |**2023-01-05**|**DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution**|Xiang Li et.al.|[2301.02031v1](http://arxiv.org/abs/2301.02031v1)|null|
@@ -303,6 +304,35 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-10**|**Drug design on quantum computers**|Raffaele Santagati et.al.|[2301.04114v1](http://arxiv.org/abs/2301.04114v1)|null|
+|**2023-01-10**|**Benchmarking Robustness in Neural Radiance Fields**|Chen Wang et.al.|[2301.04075v1](http://arxiv.org/abs/2301.04075v1)|null|
+|**2023-01-10**|**Design, Modeling and Control of a Quadruped Robot SPIDAR: Spherically Vectorable and Distributed Rotors Assisted Air-Ground Amphibious Quadruped Robot**|Moju Zhao et.al.|[2301.04050v1](http://arxiv.org/abs/2301.04050v1)|null|
+|**2023-01-10**|**Numerical study of conforming space-time methods for Maxwell's equations**|Julia I. M. Hauser et.al.|[2301.04046v1](http://arxiv.org/abs/2301.04046v1)|null|
+|**2023-01-10**|**The energy-momentum complex in non-local gravity**|Salvatore Capozziello et.al.|[2301.04023v1](http://arxiv.org/abs/2301.04023v1)|null|
+|**2023-01-10**|**Vision Transformers Are Good Mask Auto-Labelers**|Shiyi Lan et.al.|[2301.03992v1](http://arxiv.org/abs/2301.03992v1)|null|
+|**2023-01-10**|**Unsupervised Mandarin-Cantonese Machine Translation**|Megan Dare et.al.|[2301.03971v1](http://arxiv.org/abs/2301.03971v1)|**[link](https://github.com/meganndare/cantonese-nlp)**|
+|**2023-01-10**|**Towards High-Definition Maps: a Framework Leveraging Semantic Segmentation to Improve NDT Map Compression and Descriptivity**|Petri Manninen et.al.|[2301.03956v1](http://arxiv.org/abs/2301.03956v1)|null|
+|**2023-01-10**|**Channel-aware Decoupling Network for Multi-turn Dialogue Comprehension**|Zhuosheng Zhang et.al.|[2301.03953v1](http://arxiv.org/abs/2301.03953v1)|null|
+|**2023-01-10**|**Dissipation losses limiting first-order phase transition materials in cryogenic caloric cooling: A case study on all-d-metal Ni(-Co)-Mn-Ti Heusler alloys**|Benedikt Beckmann et.al.|[2301.03934v1](http://arxiv.org/abs/2301.03934v1)|null|
+|**2023-01-10**|**Another normality is possible. Distributive transformations and emergent Gaussianity**|Massimiliano Giona et.al.|[2301.03925v1](http://arxiv.org/abs/2301.03925v1)|null|
+|**2023-01-10**|**Lax eigenvalues in the zero-dispersion limit for the Benjamin-Ono equation on the torus**|Louise Gassot et.al.|[2301.03919v1](http://arxiv.org/abs/2301.03919v1)|null|
+|**2023-01-10**|**Nonlinear interactions of ion acoustic waves explored using fast imaging decompositions**|Simon Vincent et.al.|[2301.03860v1](http://arxiv.org/abs/2301.03860v1)|null|
+|**2023-01-10**|**A Privacy Preserving Method with a Random Orthogonal Matrix for ConvMixer Models**|Rei Aso et.al.|[2301.03843v1](http://arxiv.org/abs/2301.03843v1)|null|
+|**2023-01-10**|**Dynamic Grained Encoder for Vision Transformers**|Lin Song et.al.|[2301.03831v1](http://arxiv.org/abs/2301.03831v1)|**[link](https://github.com/stevengrove/vtpack)**|
+|**2023-01-10**|**Gender Equity in Physics in India: Interventions, Outcomes, and Roadmap**|Srubabati Goswami et.al.|[2301.03830v1](http://arxiv.org/abs/2301.03830v1)|null|
+|**2023-01-10**|**Longest common subsequence algorithms and applications in determining transposable genes**|Yue Wang et.al.|[2301.03827v1](http://arxiv.org/abs/2301.03827v1)|null|
+|**2023-01-10**|**Streaming Punctuation: A Novel Punctuation Technique Leveraging Bidirectional Context for Continuous Speech Recognition**|Piyush Behre et.al.|[2301.03819v1](http://arxiv.org/abs/2301.03819v1)|null|
+|**2023-01-10**|**WKB Across Caustics: The Screened-WKB Method**|Oscar P. Bruno et.al.|[2301.03814v1](http://arxiv.org/abs/2301.03814v1)|null|
+|**2023-01-10**|**A Practical Runtime Security Policy Transformation Framework for Software Defined Networks**|Yunfei Meng et.al.|[2301.03790v1](http://arxiv.org/abs/2301.03790v1)|null|
+|**2023-01-10**|**Divergence-Conforming Isogeometric Collocation Methods for the Incompressible Navier-Stokes Equations**|Ryan M. Aronson et.al.|[2301.03783v1](http://arxiv.org/abs/2301.03783v1)|null|
+|**2023-01-10**|**Time-aware Hyperbolic Graph Attention Network for Session-based Recommendation**|Xiaohan Li et.al.|[2301.03780v1](http://arxiv.org/abs/2301.03780v1)|null|
+|**2023-01-10**|**Online Backfilling with No Regret for Large-Scale Image Retrieval**|Seonguk Seo et.al.|[2301.03767v1](http://arxiv.org/abs/2301.03767v1)|null|
+|**2023-01-10**|**Harmonic-Gaussian double-well potential stochastic resonance with its application to enhance weak fault characteristics of machinery**|Zijian Qiao et.al.|[2301.03748v1](http://arxiv.org/abs/2301.03748v1)|null|
+|**2023-01-10**|**Fourier--Mukai transforms for non-commutative complex tori**|Nobuki Okuda et.al.|[2301.03745v1](http://arxiv.org/abs/2301.03745v1)|null|
+|**2023-01-09**|**Transfer learning for conflict and duplicate detection in software requirement pairs**|Garima Malik et.al.|[2301.03709v1](http://arxiv.org/abs/2301.03709v1)|null|
+|**2023-01-09**|**Domains of discontinuity of Lorentzian affine group actions**|Michael Kapovich et.al.|[2301.03707v1](http://arxiv.org/abs/2301.03707v1)|null|
+|**2023-01-09**|**Transformers as Policies for Variable Action Environments**|Niklas Zwingenberger et.al.|[2301.03679v1](http://arxiv.org/abs/2301.03679v1)|**[link](https://github.com/niklasz/transformers-for-variable-action-envs)**|
+|**2023-01-09**|**The Cosmic Web from Perturbation Theory**|F. -S. Kitaura et.al.|[2301.03648v1](http://arxiv.org/abs/2301.03648v1)|null|
 |**2023-01-10**|**Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling**|Keyu Tian et.al.|[2301.03580v2](http://arxiv.org/abs/2301.03580v2)|**[link](https://github.com/keyu-tian/spark)**|
 |**2023-01-09**|**An Impartial Transformer for Story Visualization**|Nikolaos Tsakas et.al.|[2301.03563v1](http://arxiv.org/abs/2301.03563v1)|null|
 |**2023-01-09**|**A unipolar quantum dot diode structure for advanced quantum light sources**|T. Strobel et.al.|[2301.03541v1](http://arxiv.org/abs/2301.03541v1)|null|
