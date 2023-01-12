@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-11**|**Deep Residual Axial Networks**|Nazmul Shahadat et.al.|[2301.04631v1](http://arxiv.org/abs/2301.04631v1)|null|
+|**2023-01-11**|**Deep Learning Model with Attention Mechanism for Super-resolution of Wireless Channel Characteristics**|Haoyang Zhang et.al.|[2301.04479v1](http://arxiv.org/abs/2301.04479v1)|null|
 |**2023-01-10**|**Integrated Sensing and Communication Signals Towards 5G-A and 6G: A Survey**|Zhiqing Wei et.al.|[2301.03857v1](http://arxiv.org/abs/2301.03857v1)|null|
 |**2023-01-09**|**Label-free incoherent super-resolution optical microscopy**|Nikhil Jayakumar et.al.|[2301.03451v1](http://arxiv.org/abs/2301.03451v1)|null|
 |**2023-01-09**|**eFIN: Enhanced Fourier Imager Network for generalizable autofocusing and pixel super-resolution in holographic imaging**|Hanlong Chen et.al.|[2301.03162v1](http://arxiv.org/abs/2301.03162v1)|null|
@@ -121,6 +123,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-11**|**Deep Residual Axial Networks**|Nazmul Shahadat et.al.|[2301.04631v1](http://arxiv.org/abs/2301.04631v1)|null|
 |**2023-01-05**|**DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution**|Xiang Li et.al.|[2301.02031v1](http://arxiv.org/abs/2301.02031v1)|null|
 |**2022-12-29**|**Efficient Image Super-Resolution with Feature Interaction Weighted Hybrid Network**|Wenjie Li et.al.|[2212.14181v1](http://arxiv.org/abs/2212.14181v1)|null|
 |**2022-12-28**|**Single-Image Super-Resolution Reconstruction based on the Differences of Neighboring Pixels**|Huipeng Zheng et.al.|[2212.13730v1](http://arxiv.org/abs/2212.13730v1)|null|
@@ -304,6 +307,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-11**|**Geometry-biased Transformers for Novel View Synthesis**|Naveen Venkat et.al.|[2301.04650v1](http://arxiv.org/abs/2301.04650v1)|null|
+|**2023-01-11**|**Head-Free Lightweight Semantic Segmentation with Linear Transformer**|Bo Dong et.al.|[2301.04648v1](http://arxiv.org/abs/2301.04648v1)|**[link](https://github.com/dongbo811/afformer)**|
+|**2023-01-11**|**EXIF as Language: Learning Cross-Modal Associations Between Images and Camera Metadata**|Chenhao Zheng et.al.|[2301.04647v1](http://arxiv.org/abs/2301.04647v1)|null|
+|**2023-01-11**|**On The Determination of Sets By Their Subset Sums**|Andrea Ciprietti et.al.|[2301.04635v1](http://arxiv.org/abs/2301.04635v1)|null|
+|**2023-01-11**|**Street-View Image Generation from a Bird's-Eye View Layout**|Alexander Swerdlow et.al.|[2301.04634v1](http://arxiv.org/abs/2301.04634v1)|null|
+|**2023-01-11**|**Predicting Tags For Programming Tasks by Combining Textual And Source Code Data**|Artyom Lobanov et.al.|[2301.04597v1](http://arxiv.org/abs/2301.04597v1)|null|
+|**2023-01-11**|**Continual Few-Shot Learning Using HyperTransformers**|Max Vladymyrov et.al.|[2301.04584v1](http://arxiv.org/abs/2301.04584v1)|null|
+|**2023-01-11**|**Quantifying the Technological Foundations of Economic Complexity**|Hardik Rajpal et.al.|[2301.04579v1](http://arxiv.org/abs/2301.04579v1)|null|
+|**2023-01-11**|**Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing**|Shruthi Bannur et.al.|[2301.04558v1](http://arxiv.org/abs/2301.04558v1)|null|
+|**2023-01-11**|**AdaPoinTr: Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers**|Xumin Yu et.al.|[2301.04545v1](http://arxiv.org/abs/2301.04545v1)|**[link](https://github.com/yuxumin/PoinTr)**|
+|**2023-01-11**|**Dynamic Background Reconstruction via Transformer for Infrared Small Target Detection**|Jingchao Peng et.al.|[2301.04497v1](http://arxiv.org/abs/2301.04497v1)|null|
+|**2023-01-11**|**Deep Learning Model with Attention Mechanism for Super-resolution of Wireless Channel Characteristics**|Haoyang Zhang et.al.|[2301.04479v1](http://arxiv.org/abs/2301.04479v1)|null|
+|**2023-01-11**|**Miura-reciprocal transformations and localizable Poisson pencils**|P. Lorenzoni et.al.|[2301.04475v1](http://arxiv.org/abs/2301.04475v1)|null|
+|**2023-01-10**|**InstaGraM: Instance-level Graph Modeling for Vectorized HD Map Learning**|Juyeb Shin et.al.|[2301.04470v1](http://arxiv.org/abs/2301.04470v1)|null|
+|**2023-01-10**|**FrustumFormer: Adaptive Instance-aware Resampling for Multi-view 3D Detection**|Yuqi Wang et.al.|[2301.04467v1](http://arxiv.org/abs/2301.04467v1)|null|
+|**2023-01-11**|**Algebraic actions II. Groupoid rigidity**|Chris Bruce et.al.|[2301.04459v1](http://arxiv.org/abs/2301.04459v1)|null|
+|**2023-01-11**|**Trajectory tracking control of the second-order chained form system by using state transitions**|Mayu Nakayama et.al.|[2301.04453v1](http://arxiv.org/abs/2301.04453v1)|null|
+|**2023-01-11**|**Charges for Hypertranslations and Hyperrotations**|Chethan Krishnan et.al.|[2301.04415v1](http://arxiv.org/abs/2301.04415v1)|null|
+|**2023-01-11**|**GPT as Knowledge Worker: A Zero-Shot Evaluation of (AI)CPA Capabilities**|Jillian Bommarito et.al.|[2301.04408v1](http://arxiv.org/abs/2301.04408v1)|**[link](https://github.com/mjbommar/gpt-as-knowledge-worker)**|
+|**2023-01-11**|**Loss-Controlling Calibration for Predictive Models**|Di Wang et.al.|[2301.04378v1](http://arxiv.org/abs/2301.04378v1)|null|
+|**2023-01-11**|**Recognising geometric primitives in 3D point clouds of mechanical CAD objects**|Chiara Romanengo et.al.|[2301.04371v1](http://arxiv.org/abs/2301.04371v1)|null|
+|**2023-01-11**|**Analysis of displacement compensation methods for wavelet lifting of medical 3-D thorax CT volume data**|Wolfgang Schnurrer et.al.|[2301.04351v1](http://arxiv.org/abs/2301.04351v1)|null|
+|**2023-01-11**|**On interactions of massless integer high spin and scalar fields**|P. M. Lavrov et.al.|[2301.04332v1](http://arxiv.org/abs/2301.04332v1)|null|
+|**2023-01-11**|**Realization of Wilson fermions in topolectrical circuits**|Huanhuan Yang et.al.|[2301.04326v1](http://arxiv.org/abs/2301.04326v1)|null|
+|**2023-01-11**|**Shapley Effect Estimation using Polynomial Chaos**|Adrian Stein et.al.|[2301.04315v1](http://arxiv.org/abs/2301.04315v1)|null|
+|**2023-01-11**|**ML-FEED: Machine Learning Framework for Efficient Exploit Detection (Extended version)**|Tanujay Saha et.al.|[2301.04314v1](http://arxiv.org/abs/2301.04314v1)|null|
+|**2023-01-11**|**Linear Time Online Algorithms for Constructing Linear-size Suffix Trie**|Diptarama Hendrian et.al.|[2301.04295v1](http://arxiv.org/abs/2301.04295v1)|null|
+|**2023-01-11**|**Conjugacy in Semigroups: the Partition and Brauer Diagram Monoids, Conjugacy Growth, and Partial Inner Automorphisms**|João Araújo et.al.|[2301.04252v1](http://arxiv.org/abs/2301.04252v1)|null|
+|**2023-01-10**|**Predicting Hateful Discussions on Reddit using Graph Transformer Networks and Communal Context**|Liam Hebert et.al.|[2301.04248v1](http://arxiv.org/abs/2301.04248v1)|**[link](https://github.com/liamhebert/communityhateformer)**|
+|**2023-01-10**|**Entanglement blossom in a simplex matryoshka**|Zhao Zhang et.al.|[2301.04170v1](http://arxiv.org/abs/2301.04170v1)|null|
 |**2023-01-10**|**Drug design on quantum computers**|Raffaele Santagati et.al.|[2301.04114v1](http://arxiv.org/abs/2301.04114v1)|null|
 |**2023-01-10**|**Benchmarking Robustness in Neural Radiance Fields**|Chen Wang et.al.|[2301.04075v1](http://arxiv.org/abs/2301.04075v1)|null|
 |**2023-01-10**|**Design, Modeling and Control of a Quadruped Robot SPIDAR: Spherically Vectorable and Distributed Rotors Assisted Air-Ground Amphibious Quadruped Robot**|Moju Zhao et.al.|[2301.04050v1](http://arxiv.org/abs/2301.04050v1)|null|
@@ -1258,6 +1291,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-10**|**Adapting to Skew: Imputing Spatiotemporal Urban Data with 3D Partial Convolutions and Biased Masking**|Bin Han et.al.|[2301.04233v1](http://arxiv.org/abs/2301.04233v1)|null|
 |**2023-01-09**|**SFI-Swin: Symmetric Face Inpainting with Swin Transformer by Distinctly Learning Face Components Distributions**|MohammadReza Naderi et.al.|[2301.03130v1](http://arxiv.org/abs/2301.03130v1)|null|
 |**2023-01-02**|**Lightweight Image Inpainting by Stripe Window Transformer with Joint Attention to CNN**|Tsung-Jung Liu et.al.|[2301.00553v1](http://arxiv.org/abs/2301.00553v1)|**[link](https://github.com/bobo0303/LIGHTWEIGHT-IMAGE-INPAINTING-BY-STRIPE-WINDOW-TRANSFORMER-WITH-JOINT-ATTENTION-TO-CNN)**|
 |**2022-12-21**|**Structure-guided Image Outpainting**|Xi Wang et.al.|[2212.12326v1](http://arxiv.org/abs/2212.12326v1)|null|
