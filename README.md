@@ -312,11 +312,11 @@
 |**2023-01-10**|**Vision Transformers Are Good Mask Auto-Labelers**|Shiyi Lan et.al.|[2301.03992v1](http://arxiv.org/abs/2301.03992v1)|null|
 |**2023-01-10**|**Unsupervised Mandarin-Cantonese Machine Translation**|Megan Dare et.al.|[2301.03971v1](http://arxiv.org/abs/2301.03971v1)|**[link](https://github.com/meganndare/cantonese-nlp)**|
 |**2023-01-10**|**Towards High-Definition Maps: a Framework Leveraging Semantic Segmentation to Improve NDT Map Compression and Descriptivity**|Petri Manninen et.al.|[2301.03956v1](http://arxiv.org/abs/2301.03956v1)|null|
-|**2023-01-10**|**Channel-aware Decoupling Network for Multi-turn Dialogue Comprehension**|Zhuosheng Zhang et.al.|[2301.03953v1](http://arxiv.org/abs/2301.03953v1)|null|
+|**2023-01-11**|**Channel-aware Decoupling Network for Multi-turn Dialogue Comprehension**|Zhuosheng Zhang et.al.|[2301.03953v2](http://arxiv.org/abs/2301.03953v2)|null|
 |**2023-01-10**|**Dissipation losses limiting first-order phase transition materials in cryogenic caloric cooling: A case study on all-d-metal Ni(-Co)-Mn-Ti Heusler alloys**|Benedikt Beckmann et.al.|[2301.03934v1](http://arxiv.org/abs/2301.03934v1)|null|
 |**2023-01-10**|**Another normality is possible. Distributive transformations and emergent Gaussianity**|Massimiliano Giona et.al.|[2301.03925v1](http://arxiv.org/abs/2301.03925v1)|null|
 |**2023-01-10**|**Lax eigenvalues in the zero-dispersion limit for the Benjamin-Ono equation on the torus**|Louise Gassot et.al.|[2301.03919v1](http://arxiv.org/abs/2301.03919v1)|null|
-|**2023-01-10**|**Nonlinear interactions of ion acoustic waves explored using fast imaging decompositions**|Simon Vincent et.al.|[2301.03860v1](http://arxiv.org/abs/2301.03860v1)|null|
+|**2023-01-11**|**Nonlinear interactions of ion acoustic waves explored using fast imaging decompositions**|Simon Vincent et.al.|[2301.03860v2](http://arxiv.org/abs/2301.03860v2)|null|
 |**2023-01-10**|**A Privacy Preserving Method with a Random Orthogonal Matrix for ConvMixer Models**|Rei Aso et.al.|[2301.03843v1](http://arxiv.org/abs/2301.03843v1)|null|
 |**2023-01-10**|**Dynamic Grained Encoder for Vision Transformers**|Lin Song et.al.|[2301.03831v1](http://arxiv.org/abs/2301.03831v1)|**[link](https://github.com/stevengrove/vtpack)**|
 |**2023-01-10**|**Gender Equity in Physics in India: Interventions, Outcomes, and Roadmap**|Srubabati Goswami et.al.|[2301.03830v1](http://arxiv.org/abs/2301.03830v1)|null|
@@ -327,7 +327,7 @@
 |**2023-01-10**|**Divergence-Conforming Isogeometric Collocation Methods for the Incompressible Navier-Stokes Equations**|Ryan M. Aronson et.al.|[2301.03783v1](http://arxiv.org/abs/2301.03783v1)|null|
 |**2023-01-10**|**Time-aware Hyperbolic Graph Attention Network for Session-based Recommendation**|Xiaohan Li et.al.|[2301.03780v1](http://arxiv.org/abs/2301.03780v1)|null|
 |**2023-01-10**|**Online Backfilling with No Regret for Large-Scale Image Retrieval**|Seonguk Seo et.al.|[2301.03767v1](http://arxiv.org/abs/2301.03767v1)|null|
-|**2023-01-10**|**Harmonic-Gaussian double-well potential stochastic resonance with its application to enhance weak fault characteristics of machinery**|Zijian Qiao et.al.|[2301.03748v1](http://arxiv.org/abs/2301.03748v1)|null|
+|**2023-01-11**|**Harmonic-Gaussian double-well potential stochastic resonance with its application to enhance weak fault characteristics of machinery**|Zijian Qiao et.al.|[2301.03748v2](http://arxiv.org/abs/2301.03748v2)|null|
 |**2023-01-10**|**Fourier--Mukai transforms for non-commutative complex tori**|Nobuki Okuda et.al.|[2301.03745v1](http://arxiv.org/abs/2301.03745v1)|null|
 |**2023-01-09**|**Transfer learning for conflict and duplicate detection in software requirement pairs**|Garima Malik et.al.|[2301.03709v1](http://arxiv.org/abs/2301.03709v1)|null|
 |**2023-01-09**|**Domains of discontinuity of Lorentzian affine group actions**|Michael Kapovich et.al.|[2301.03707v1](http://arxiv.org/abs/2301.03707v1)|null|
