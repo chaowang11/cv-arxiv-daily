@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-05**|**WIRE: Wavelet Implicit Neural Representations**|Vishwanath Saragadam et.al.|[2301.05187v1](http://arxiv.org/abs/2301.05187v1)|null|
+|**2023-01-11**|**Learning Continuous Mesh Representation with Spherical Implicit Surface**|Zhongpai Gao et.al.|[2301.04695v1](http://arxiv.org/abs/2301.04695v1)|**[link](https://github.com/gaozhongpai/sis-implicit)**|
 |**2023-01-11**|**Deep Residual Axial Networks**|Nazmul Shahadat et.al.|[2301.04631v1](http://arxiv.org/abs/2301.04631v1)|null|
 |**2023-01-11**|**Deep Learning Model with Attention Mechanism for Super-resolution of Wireless Channel Characteristics**|Haoyang Zhang et.al.|[2301.04479v1](http://arxiv.org/abs/2301.04479v1)|null|
 |**2023-01-10**|**Integrated Sensing and Communication Signals Towards 5G-A and 6G: A Survey**|Zhiqing Wei et.al.|[2301.03857v1](http://arxiv.org/abs/2301.03857v1)|null|
@@ -307,6 +309,34 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
+|**2023-01-12**|**New Non-Abelian Reissner-Nordström Black Hole Solutions in the Generalized SU(2) Proca Theory And Some Astrophysical Implications**|Gabriel Gomez et.al.|[2301.05222v1](http://arxiv.org/abs/2301.05222v1)|null|
+|**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
+|**2023-01-12**|**Progress measures for grokking via mechanistic interpretability**|Neel Nanda et.al.|[2301.05217v1](http://arxiv.org/abs/2301.05217v1)|null|
+|**2023-01-12**|**Estimating the Sizes of Binary Error-Correcting Constrained Codes**|V. Arvind Rameshwar et.al.|[2301.05098v1](http://arxiv.org/abs/2301.05098v1)|null|
+|**2023-01-12**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v1](http://arxiv.org/abs/2301.05092v1)|null|
+|**2023-01-12**|**Tracr: Compiled Transformers as a Laboratory for Interpretability**|David Lindner et.al.|[2301.05062v1](http://arxiv.org/abs/2301.05062v1)|null|
+|**2023-01-12**|**Time discretization of the deformed Ruijsenaars-Schneider system**|A. Zabrodin et.al.|[2301.05020v1](http://arxiv.org/abs/2301.05020v1)|null|
+|**2023-01-12**|**UAVs Formation Flight under Multiple Obstacle and Communication Constraints**|Hu Jin et.al.|[2301.05004v1](http://arxiv.org/abs/2301.05004v1)|null|
+|**2023-01-12**|**The Bending of C $_3$ : Experimentally Probing the  $l$ -type Doubling and Resonance**|Marie-Aline Martin-Drumel et.al.|[2301.04992v1](http://arxiv.org/abs/2301.04992v1)|null|
+|**2023-01-12**|**A Formal Power Series Approach to Multiplicative Dynamic Feedback**|G. S. Venkatesh et.al.|[2301.04949v1](http://arxiv.org/abs/2301.04949v1)|null|
+|**2023-01-12**|**ViTs for SITS: Vision Transformers for Satellite Image Time Series**|Michail Tarasiou et.al.|[2301.04944v1](http://arxiv.org/abs/2301.04944v1)|null|
+|**2023-01-12**|**Strengthening the Directed Brooks' Theorem for oriented graphs and consequences on digraph redicolouring**|Lucas Picasarri-Arrieta et.al.|[2301.04881v1](http://arxiv.org/abs/2301.04881v1)|null|
+|**2023-01-12**|**Neural Spline Search for Quantile Probabilistic Modeling**|Ruoxi Sun et.al.|[2301.04857v1](http://arxiv.org/abs/2301.04857v1)|null|
+|**2023-01-12**|**Multimodal Deep Learning**|Cem Akkus et.al.|[2301.04856v1](http://arxiv.org/abs/2301.04856v1)|**[link](https://github.com/slds-lmu/seminar_multimodal_dl)**|
+|**2023-01-12**|**Graph-based compensated wavelet lifting for 3-D+t medical CT data**|Daniela Lanz et.al.|[2301.04839v1](http://arxiv.org/abs/2301.04839v1)|null|
+|**2023-01-12**|**Improving mesh-based motion compensation by using edge adaptive graph-based compensated wavelet lifting for medical data sets**|Daniela Lanz et.al.|[2301.04836v1](http://arxiv.org/abs/2301.04836v1)|null|
+|**2023-01-12**|**Nucleation of Al Nanocrystals in Solute-Substituted Al Metallic Glasses I: Structural characterization**|Feng Yi et.al.|[2301.04803v1](http://arxiv.org/abs/2301.04803v1)|null|
+|**2023-01-12**|**On Phase Change Rate Maximization with Practical Applications**|Chung-Yao Kao et.al.|[2301.04775v1](http://arxiv.org/abs/2301.04775v1)|null|
+|**2023-01-12**|**Spectral form factor in the  $τ$ -scaling limit**|Kazumi Okuyama et.al.|[2301.04773v1](http://arxiv.org/abs/2301.04773v1)|null|
+|**2023-01-11**|**The role of hosting capacity study in power system advancements: a review**|Utkarsh Singh et.al.|[2301.04765v1](http://arxiv.org/abs/2301.04765v1)|null|
+|**2023-01-11**|**NarrowBERT: Accelerating Masked Language Model Pretraining and Inference**|Haoxin Li et.al.|[2301.04761v1](http://arxiv.org/abs/2301.04761v1)|null|
+|**2023-01-11**|**Switchable Lightweight Anti-symmetric Processing (SLAP) with CNN to Reduce Sample Size and Speed up Learning -- Application in Gomoku Reinforcement Learning**|Chi-Hang Suen et.al.|[2301.04746v1](http://arxiv.org/abs/2301.04746v1)|null|
+|**2023-01-11**|**Revisiting Pure State Transformations with Zero Communication**|Ian George et.al.|[2301.04735v1](http://arxiv.org/abs/2301.04735v1)|null|
+|**2023-01-11**|**Inverse Quantum Fourier Transform Inspired Algorithm for Unsupervised Image Segmentation**|Taoreed Akinola et.al.|[2301.04705v1](http://arxiv.org/abs/2301.04705v1)|null|
+|**2023-01-11**|**Kondo Lattice Model of Magic-Angle Twisted-Bilayer Graphene: Hund's Rule, Local-Moment Fluctuations, and Low-Energy Effective Theory**|Haoyu Hu et.al.|[2301.04669v1](http://arxiv.org/abs/2301.04669v1)|null|
+|**2023-01-11**|**Anomalies, Representations, and Self-Supervision**|Barry M. Dillon et.al.|[2301.04660v1](http://arxiv.org/abs/2301.04660v1)|null|
+|**2023-01-11**|**ChatGPT is not all you need. A State of the Art Review of large Generative AI models**|Roberto Gozalo-Brizuela et.al.|[2301.04655v1](http://arxiv.org/abs/2301.04655v1)|null|
 |**2023-01-11**|**Geometry-biased Transformers for Novel View Synthesis**|Naveen Venkat et.al.|[2301.04650v1](http://arxiv.org/abs/2301.04650v1)|null|
 |**2023-01-11**|**Head-Free Lightweight Semantic Segmentation with Linear Transformer**|Bo Dong et.al.|[2301.04648v1](http://arxiv.org/abs/2301.04648v1)|**[link](https://github.com/dongbo811/afformer)**|
 |**2023-01-11**|**EXIF as Language: Learning Cross-Modal Associations Between Images and Camera Metadata**|Chenhao Zheng et.al.|[2301.04647v1](http://arxiv.org/abs/2301.04647v1)|null|
@@ -1291,8 +1321,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-05**|**WIRE: Wavelet Implicit Neural Representations**|Vishwanath Saragadam et.al.|[2301.05187v1](http://arxiv.org/abs/2301.05187v1)|null|
 |**2023-01-10**|**Adapting to Skew: Imputing Spatiotemporal Urban Data with 3D Partial Convolutions and Biased Masking**|Bin Han et.al.|[2301.04233v1](http://arxiv.org/abs/2301.04233v1)|null|
-|**2023-01-09**|**SFI-Swin: Symmetric Face Inpainting with Swin Transformer by Distinctly Learning Face Components Distributions**|MohammadReza Naderi et.al.|[2301.03130v1](http://arxiv.org/abs/2301.03130v1)|null|
+|**2023-01-09**|**SFI-Swin: Symmetric Face Inpainting with Swin Transformer by Distinctly Learning Face Components Distributions**|MohammadReza Naderi et.al.|[2301.03130v1](http://arxiv.org/abs/2301.03130v1)|**[link](https://github.com/mohammadrezanaderi4/sfi-swin)**|
 |**2023-01-02**|**Lightweight Image Inpainting by Stripe Window Transformer with Joint Attention to CNN**|Tsung-Jung Liu et.al.|[2301.00553v1](http://arxiv.org/abs/2301.00553v1)|**[link](https://github.com/bobo0303/LIGHTWEIGHT-IMAGE-INPAINTING-BY-STRIPE-WINDOW-TRANSFORMER-WITH-JOINT-ATTENTION-TO-CNN)**|
 |**2022-12-21**|**Structure-guided Image Outpainting**|Xi Wang et.al.|[2212.12326v1](http://arxiv.org/abs/2212.12326v1)|null|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|null|
