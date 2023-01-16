@@ -312,8 +312,8 @@
 |**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
 |**2023-01-12**|**New Non-Abelian Reissner-Nordström Black Hole Solutions in the Generalized SU(2) Proca Theory And Some Astrophysical Implications**|Gabriel Gomez et.al.|[2301.05222v1](http://arxiv.org/abs/2301.05222v1)|null|
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
-|**2023-01-12**|**Progress measures for grokking via mechanistic interpretability**|Neel Nanda et.al.|[2301.05217v1](http://arxiv.org/abs/2301.05217v1)|null|
-|**2023-01-12**|**Estimating the Sizes of Binary Error-Correcting Constrained Codes**|V. Arvind Rameshwar et.al.|[2301.05098v1](http://arxiv.org/abs/2301.05098v1)|null|
+|**2023-01-13**|**Progress measures for grokking via mechanistic interpretability**|Neel Nanda et.al.|[2301.05217v2](http://arxiv.org/abs/2301.05217v2)|null|
+|**2023-01-13**|**Estimating the Sizes of Binary Error-Correcting Constrained Codes**|V. Arvind Rameshwar et.al.|[2301.05098v2](http://arxiv.org/abs/2301.05098v2)|null|
 |**2023-01-12**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v1](http://arxiv.org/abs/2301.05092v1)|null|
 |**2023-01-12**|**Tracr: Compiled Transformers as a Laboratory for Interpretability**|David Lindner et.al.|[2301.05062v1](http://arxiv.org/abs/2301.05062v1)|null|
 |**2023-01-12**|**Time discretization of the deformed Ruijsenaars-Schneider system**|A. Zabrodin et.al.|[2301.05020v1](http://arxiv.org/abs/2301.05020v1)|null|
@@ -343,7 +343,7 @@
 |**2023-01-11**|**On The Determination of Sets By Their Subset Sums**|Andrea Ciprietti et.al.|[2301.04635v1](http://arxiv.org/abs/2301.04635v1)|null|
 |**2023-01-11**|**Street-View Image Generation from a Bird's-Eye View Layout**|Alexander Swerdlow et.al.|[2301.04634v1](http://arxiv.org/abs/2301.04634v1)|null|
 |**2023-01-11**|**Predicting Tags For Programming Tasks by Combining Textual And Source Code Data**|Artyom Lobanov et.al.|[2301.04597v1](http://arxiv.org/abs/2301.04597v1)|null|
-|**2023-01-11**|**Continual Few-Shot Learning Using HyperTransformers**|Max Vladymyrov et.al.|[2301.04584v1](http://arxiv.org/abs/2301.04584v1)|null|
+|**2023-01-12**|**Continual Few-Shot Learning Using HyperTransformers**|Max Vladymyrov et.al.|[2301.04584v2](http://arxiv.org/abs/2301.04584v2)|null|
 |**2023-01-11**|**Quantifying the Technological Foundations of Economic Complexity**|Hardik Rajpal et.al.|[2301.04579v1](http://arxiv.org/abs/2301.04579v1)|null|
 |**2023-01-11**|**Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing**|Shruthi Bannur et.al.|[2301.04558v1](http://arxiv.org/abs/2301.04558v1)|null|
 |**2023-01-11**|**AdaPoinTr: Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers**|Xumin Yu et.al.|[2301.04545v1](http://arxiv.org/abs/2301.04545v1)|**[link](https://github.com/yuxumin/PoinTr)**|
