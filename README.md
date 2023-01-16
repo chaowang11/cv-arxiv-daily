@@ -309,13 +309,37 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-13**|**Renormalized electric and magnetic charges for  $O(r^n)$  large gauge symmetries**|Javier Peraza et.al.|[2301.05671v1](http://arxiv.org/abs/2301.05671v1)|null|
+|**2023-01-13**|**Natural Language Processing of Aviation Occurrence Reports for Safety Management**|Patrick Jonk et.al.|[2301.05663v1](http://arxiv.org/abs/2301.05663v1)|null|
+|**2023-01-13**|**Structural evolution of iodine on approach to the monatomic state**|Elena Bykova et.al.|[2301.05657v1](http://arxiv.org/abs/2301.05657v1)|null|
+|**2023-01-13**|**Deep Learning Symmetries and Their Lie Groups, Algebras, and Subalgebras from First Principles**|Roy T. Forestano et.al.|[2301.05638v1](http://arxiv.org/abs/2301.05638v1)|null|
+|**2023-01-13**|**Backstepping-based tracking control of the vertical gradient freeze crystal growth process**|Stefan Ecklebe et.al.|[2301.05631v1](http://arxiv.org/abs/2301.05631v1)|null|
+|**2023-01-13**|**Reworking geometric morphometrics into a methodology of transformation grids**|Fred L. Bookstein et.al.|[2301.05623v1](http://arxiv.org/abs/2301.05623v1)|null|
+|**2023-01-13**|**Short-time SSVEP data extension by a novel generative adversarial networks based framework**|Yudong Pan et.al.|[2301.05599v1](http://arxiv.org/abs/2301.05599v1)|null|
+|**2023-01-13**|**A total Lagrangian, objective and intrinsically locking-free Petrov-Galerkin SE(3) Cosserat rod finite element formulation**|Jonas Harsch et.al.|[2301.05595v1](http://arxiv.org/abs/2301.05595v1)|null|
+|**2023-01-13**|**DINF: Dynamic Instance Noise Filter for Occluded Pedestrian Detection**|Li Xiang et.al.|[2301.05565v1](http://arxiv.org/abs/2301.05565v1)|null|
+|**2023-01-13**|**Learning Transformations To Reduce the Geometric Shift in Object Detection**|Vidit Vidit et.al.|[2301.05496v1](http://arxiv.org/abs/2301.05496v1)|null|
+|**2023-01-13**|**Explicit Temporal Embedding in Deep Generative Latent Models for Longitudinal Medical Image Synthesis**|Julian Schön et.al.|[2301.05465v1](http://arxiv.org/abs/2301.05465v1)|**[link](https://github.com/julschoen/temp-gan)**|
+|**2023-01-13**|**It's Just a Matter of Time: Detecting Depression with Time-Enriched Multimodal Transformers**|Ana-Maria Bucur et.al.|[2301.05453v1](http://arxiv.org/abs/2301.05453v1)|**[link](https://github.com/cosmaadrian/time-enriched-multimodal-depression-detection)**|
+|**2023-01-13**|**Weighted RML using ensemble-methods for data assimilation**|Yuming Ba et.al.|[2301.05448v1](http://arxiv.org/abs/2301.05448v1)|null|
+|**2023-01-13**|**Text to Point Cloud Localization with Relation-Enhanced Transformer**|Guangzhi Wang et.al.|[2301.05372v1](http://arxiv.org/abs/2301.05372v1)|null|
+|**2023-01-13**|**An efficient and low-divergence method for generating inhomogeneous and anisotropic turbulence with arbitrary spectra**|Hao Guo et.al.|[2301.05363v1](http://arxiv.org/abs/2301.05363v1)|null|
+|**2023-01-13**|**GOHSP: A Unified Framework of Graph and Optimization-based Heterogeneous Structured Pruning for Vision Transformer**|Miao Yin et.al.|[2301.05345v1](http://arxiv.org/abs/2301.05345v1)|null|
+|**2023-01-13**|**HST Low Resolution Stellar Library**|Tathagata Pal et.al.|[2301.05335v1](http://arxiv.org/abs/2301.05335v1)|null|
+|**2023-01-13**|**TransfQMix: Transformers for Leveraging the Graph Structure of Multi-Agent Reinforcement Learning Problems**|Matteo Gallici et.al.|[2301.05334v1](http://arxiv.org/abs/2301.05334v1)|**[link](https://github.com/mttga/pymarl_transformers)**|
+|**2023-01-12**|**Detection problems in the spiked matrix models**|Ji Hyung Jung et.al.|[2301.05331v1](http://arxiv.org/abs/2301.05331v1)|null|
+|**2023-01-12**|**Blind Judgement: Agent-Based Supreme Court Modelling With GPT**|Sil Hamilton et.al.|[2301.05327v1](http://arxiv.org/abs/2301.05327v1)|null|
+|**2023-01-12**|**A characterization of the  $L^2$ -range of the Poisson transforms on a class of vector bundles over the quaternionic hyperbolic spaces**|Abdelhamid Boussejra et.al.|[2301.05304v1](http://arxiv.org/abs/2301.05304v1)|null|
+|**2023-01-12**|**Scalable synthesis and characterization of multilayer  $γ$ -graphyne, new carbon crystals with a small direct bandgap**|Victor G. Desyatkin et.al.|[2301.05291v1](http://arxiv.org/abs/2301.05291v1)|null|
+|**2023-01-12**|**Integrable systems with linear periodic integral for the Lie algebra  $\mathrm{e}(3)$ **|I. K. Kozlov et.al.|[2301.05283v1](http://arxiv.org/abs/2301.05283v1)|null|
+|**2023-01-12**|**Ultraviolet photoabsorption in the  $B\,{}^3Σ^- - X\,{}^3Σ^-$  and  $C\,{}^3Π - X\,{}^3Σ^-$  band systems of SO sulphur isotopologues**|A. N. Heays et.al.|[2301.05230v1](http://arxiv.org/abs/2301.05230v1)|null|
 |**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
 |**2023-01-12**|**New Non-Abelian Reissner-Nordström Black Hole Solutions in the Generalized SU(2) Proca Theory And Some Astrophysical Implications**|Gabriel Gomez et.al.|[2301.05222v1](http://arxiv.org/abs/2301.05222v1)|null|
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-13**|**Progress measures for grokking via mechanistic interpretability**|Neel Nanda et.al.|[2301.05217v2](http://arxiv.org/abs/2301.05217v2)|null|
 |**2023-01-13**|**Estimating the Sizes of Binary Error-Correcting Constrained Codes**|V. Arvind Rameshwar et.al.|[2301.05098v2](http://arxiv.org/abs/2301.05098v2)|null|
 |**2023-01-12**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v1](http://arxiv.org/abs/2301.05092v1)|null|
-|**2023-01-12**|**Tracr: Compiled Transformers as a Laboratory for Interpretability**|David Lindner et.al.|[2301.05062v1](http://arxiv.org/abs/2301.05062v1)|null|
+|**2023-01-12**|**Tracr: Compiled Transformers as a Laboratory for Interpretability**|David Lindner et.al.|[2301.05062v1](http://arxiv.org/abs/2301.05062v1)|**[link](https://github.com/deepmind/tracr)**|
 |**2023-01-12**|**Time discretization of the deformed Ruijsenaars-Schneider system**|A. Zabrodin et.al.|[2301.05020v1](http://arxiv.org/abs/2301.05020v1)|null|
 |**2023-01-12**|**UAVs Formation Flight under Multiple Obstacle and Communication Constraints**|Hu Jin et.al.|[2301.05004v1](http://arxiv.org/abs/2301.05004v1)|null|
 |**2023-01-12**|**The Bending of C $_3$ : Experimentally Probing the  $l$ -type Doubling and Resonance**|Marie-Aline Martin-Drumel et.al.|[2301.04992v1](http://arxiv.org/abs/2301.04992v1)|null|
@@ -1321,6 +1345,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-13**|**Layout-guided Indoor Panorama Inpainting with Plane-aware Normalization**|Chao-Chen Gao et.al.|[2301.05624v1](http://arxiv.org/abs/2301.05624v1)|null|
 |**2023-01-05**|**WIRE: Wavelet Implicit Neural Representations**|Vishwanath Saragadam et.al.|[2301.05187v1](http://arxiv.org/abs/2301.05187v1)|null|
 |**2023-01-10**|**Adapting to Skew: Imputing Spatiotemporal Urban Data with 3D Partial Convolutions and Biased Masking**|Bin Han et.al.|[2301.04233v1](http://arxiv.org/abs/2301.04233v1)|null|
 |**2023-01-09**|**SFI-Swin: Symmetric Face Inpainting with Swin Transformer by Distinctly Learning Face Components Distributions**|MohammadReza Naderi et.al.|[2301.03130v1](http://arxiv.org/abs/2301.03130v1)|**[link](https://github.com/mohammadrezanaderi4/sfi-swin)**|
