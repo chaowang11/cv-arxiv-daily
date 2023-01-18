@@ -222,7 +222,7 @@
 |**2022-07-13**|**You Only Align Once: Bidirectional Interaction for Spatial-Temporal Video Super-Resolution**|Mengshun Hu et.al.|[2207.06345v1](http://arxiv.org/abs/2207.06345v1)|null|
 |**2022-12-01**|**Deep Parametric 3D Filters for Joint Video Denoising and Illumination Enhancement in Video Super Resolution**|Xiaogang Xu et.al.|[2207.01797v2](http://arxiv.org/abs/2207.01797v2)|**[link](https://github.com/xiaogang00/dp3df)**|
 |**2022-11-21**|**Structured Sparsity Learning for Efficient Video Super-Resolution**|Bin Xia et.al.|[2206.07687v2](http://arxiv.org/abs/2206.07687v2)|null|
-|**2022-06-21**|**AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos**|Yanze Wu et.al.|[2206.07038v2](http://arxiv.org/abs/2206.07038v2)|**[link](https://github.com/tencentarc/animesr)**|
+|**2023-01-17**|**AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos**|Yanze Wu et.al.|[2206.07038v3](http://arxiv.org/abs/2206.07038v3)|**[link](https://github.com/tencentarc/animesr)**|
 |**2022-06-09**|**VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution**|Zeyuan Chen et.al.|[2206.04647v1](http://arxiv.org/abs/2206.04647v1)|**[link](https://github.com/picsart-ai-research/videoinr-continuous-space-time-super-resolution)**|
 |**2022-11-12**|**Recurrent Video Restoration Transformer with Guided Deformable Attention**|Jingyun Liang et.al.|[2206.02146v3](http://arxiv.org/abs/2206.02146v3)|**[link](https://github.com/jingyunliang/rvrt)**|
 |**2022-05-20**|**Combining Contrastive and Supervised Learning for Video Super-Resolution Detection**|Viacheslav Meshchaninov et.al.|[2205.10406v1](http://arxiv.org/abs/2205.10406v1)|**[link](https://github.com/msu-video-group/srdm)**|
@@ -327,7 +327,7 @@
 |**2023-01-13**|**GOHSP: A Unified Framework of Graph and Optimization-based Heterogeneous Structured Pruning for Vision Transformer**|Miao Yin et.al.|[2301.05345v1](http://arxiv.org/abs/2301.05345v1)|null|
 |**2023-01-13**|**HST Low Resolution Stellar Library**|Tathagata Pal et.al.|[2301.05335v1](http://arxiv.org/abs/2301.05335v1)|null|
 |**2023-01-13**|**TransfQMix: Transformers for Leveraging the Graph Structure of Multi-Agent Reinforcement Learning Problems**|Matteo Gallici et.al.|[2301.05334v1](http://arxiv.org/abs/2301.05334v1)|**[link](https://github.com/mttga/pymarl_transformers)**|
-|**2023-01-12**|**Detection problems in the spiked matrix models**|Ji Hyung Jung et.al.|[2301.05331v1](http://arxiv.org/abs/2301.05331v1)|null|
+|**2023-01-16**|**Detection problems in the spiked matrix models**|Ji Hyung Jung et.al.|[2301.05331v2](http://arxiv.org/abs/2301.05331v2)|null|
 |**2023-01-12**|**Blind Judgement: Agent-Based Supreme Court Modelling With GPT**|Sil Hamilton et.al.|[2301.05327v1](http://arxiv.org/abs/2301.05327v1)|null|
 |**2023-01-12**|**A characterization of the  $L^2$ -range of the Poisson transforms on a class of vector bundles over the quaternionic hyperbolic spaces**|Abdelhamid Boussejra et.al.|[2301.05304v1](http://arxiv.org/abs/2301.05304v1)|null|
 |**2023-01-12**|**Scalable synthesis and characterization of multilayer  $γ$ -graphyne, new carbon crystals with a small direct bandgap**|Victor G. Desyatkin et.al.|[2301.05291v1](http://arxiv.org/abs/2301.05291v1)|null|
@@ -338,7 +338,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-13**|**Progress measures for grokking via mechanistic interpretability**|Neel Nanda et.al.|[2301.05217v2](http://arxiv.org/abs/2301.05217v2)|null|
 |**2023-01-13**|**Estimating the Sizes of Binary Error-Correcting Constrained Codes**|V. Arvind Rameshwar et.al.|[2301.05098v2](http://arxiv.org/abs/2301.05098v2)|null|
-|**2023-01-12**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v1](http://arxiv.org/abs/2301.05092v1)|null|
+|**2023-01-16**|**Slowly rotating Kerr metric derived from the Einstein equations in affine-null coordinates**|Thomas Mädler et.al.|[2301.05092v2](http://arxiv.org/abs/2301.05092v2)|null|
 |**2023-01-12**|**Tracr: Compiled Transformers as a Laboratory for Interpretability**|David Lindner et.al.|[2301.05062v1](http://arxiv.org/abs/2301.05062v1)|**[link](https://github.com/deepmind/tracr)**|
 |**2023-01-12**|**Time discretization of the deformed Ruijsenaars-Schneider system**|A. Zabrodin et.al.|[2301.05020v1](http://arxiv.org/abs/2301.05020v1)|null|
 |**2023-01-12**|**UAVs Formation Flight under Multiple Obstacle and Communication Constraints**|Hu Jin et.al.|[2301.05004v1](http://arxiv.org/abs/2301.05004v1)|null|
@@ -355,7 +355,7 @@
 |**2023-01-12**|**Spectral form factor in the  $τ$ -scaling limit**|Kazumi Okuyama et.al.|[2301.04773v1](http://arxiv.org/abs/2301.04773v1)|null|
 |**2023-01-11**|**The role of hosting capacity study in power system advancements: a review**|Utkarsh Singh et.al.|[2301.04765v1](http://arxiv.org/abs/2301.04765v1)|null|
 |**2023-01-11**|**NarrowBERT: Accelerating Masked Language Model Pretraining and Inference**|Haoxin Li et.al.|[2301.04761v1](http://arxiv.org/abs/2301.04761v1)|null|
-|**2023-01-11**|**Switchable Lightweight Anti-symmetric Processing (SLAP) with CNN to Reduce Sample Size and Speed up Learning -- Application in Gomoku Reinforcement Learning**|Chi-Hang Suen et.al.|[2301.04746v1](http://arxiv.org/abs/2301.04746v1)|null|
+|**2023-01-15**|**Switchable Lightweight Anti-symmetric Processing (SLAP) with CNN to Reduce Sample Size and Speed up Learning -- Application in Gomoku Reinforcement Learning**|Chi-Hang Suen et.al.|[2301.04746v2](http://arxiv.org/abs/2301.04746v2)|null|
 |**2023-01-11**|**Revisiting Pure State Transformations with Zero Communication**|Ian George et.al.|[2301.04735v1](http://arxiv.org/abs/2301.04735v1)|null|
 |**2023-01-11**|**Inverse Quantum Fourier Transform Inspired Algorithm for Unsupervised Image Segmentation**|Taoreed Akinola et.al.|[2301.04705v1](http://arxiv.org/abs/2301.04705v1)|null|
 |**2023-01-11**|**Kondo Lattice Model of Magic-Angle Twisted-Bilayer Graphene: Hund's Rule, Local-Moment Fluctuations, and Low-Energy Effective Theory**|Haoyu Hu et.al.|[2301.04669v1](http://arxiv.org/abs/2301.04669v1)|null|
