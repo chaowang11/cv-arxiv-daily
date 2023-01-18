@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**Super-Resolution Harmonic Retrieval of Non-Circular Signals**|Yu Zhang et.al.|[2301.06948v1](http://arxiv.org/abs/2301.06948v1)|null|
+|**2023-01-15**|**Deep Diversity-Enhanced Feature Representation of Hyperspectral Images**|Jinhui Hou et.al.|[2301.06132v1](http://arxiv.org/abs/2301.06132v1)|null|
 |**2023-01-05**|**WIRE: Wavelet Implicit Neural Representations**|Vishwanath Saragadam et.al.|[2301.05187v1](http://arxiv.org/abs/2301.05187v1)|null|
 |**2023-01-11**|**Learning Continuous Mesh Representation with Spherical Implicit Surface**|Zhongpai Gao et.al.|[2301.04695v1](http://arxiv.org/abs/2301.04695v1)|**[link](https://github.com/gaozhongpai/sis-implicit)**|
 |**2023-01-11**|**Deep Residual Axial Networks**|Nazmul Shahadat et.al.|[2301.04631v1](http://arxiv.org/abs/2301.04631v1)|null|
@@ -309,6 +311,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**On the State of German (Abstractive) Text Summarization**|Dennis Aumiller et.al.|[2301.07095v1](http://arxiv.org/abs/2301.07095v1)|null|
+|**2023-01-17**|**Using massless fields for observing black hole features in the collapsed phase of Euclidean dynamical triangulations**|Jan Smit et.al.|[2301.07081v1](http://arxiv.org/abs/2301.07081v1)|null|
+|**2023-01-17**|**Transformers as Algorithms: Generalization and Implicit Model Selection in In-context Learning**|Yingcong Li et.al.|[2301.07067v1](http://arxiv.org/abs/2301.07067v1)|null|
+|**2023-01-17**|**Transformer Based Implementation for Automatic Book Summarization**|Siddhant Porwal et.al.|[2301.07057v1](http://arxiv.org/abs/2301.07057v1)|null|
+|**2023-01-17**|**A geometric approach to the Yang-Mills mass gap**|Puskar Mondal et.al.|[2301.06996v1](http://arxiv.org/abs/2301.06996v1)|null|
+|**2023-01-17**|**Finite-rank approximation of affine processes on positive Hilbert-Schmidt operators**|Sven Karbach et.al.|[2301.06992v1](http://arxiv.org/abs/2301.06992v1)|null|
+|**2023-01-17**|**Binary Mechanisms under Privacy-Preserving Noise**|Farzad Pourbabaee et.al.|[2301.06967v1](http://arxiv.org/abs/2301.06967v1)|null|
+|**2023-01-17**|**Effects of particle size and background rotation on the settling of particle clouds**|Quentin Kriaa et.al.|[2301.06963v1](http://arxiv.org/abs/2301.06963v1)|null|
+|**2023-01-17**|**Long Range Pooling for 3D Large-Scale Scene Understanding**|Xiang-Li Li et.al.|[2301.06962v1](http://arxiv.org/abs/2301.06962v1)|null|
+|**2023-01-17**|**Masked Visual Reconstruction in Language Semantic Space**|Shusheng Yang et.al.|[2301.06958v1](http://arxiv.org/abs/2301.06958v1)|null|
+|**2023-01-17**|**Revisiting the antiferromagnetic structure of  $\rm Tb_{14}Ag_{51}$ . The importance of distinguishing alternative symmetries for a multidimensional order parameter**|V. Pomjakushin et.al.|[2301.06920v1](http://arxiv.org/abs/2301.06920v1)|null|
+|**2023-01-17**|**Joint ergodicity for functions of polynomial growth**|Sebastián Donoso et.al.|[2301.06911v1](http://arxiv.org/abs/2301.06911v1)|null|
+|**2023-01-17**|**Cooperation Learning Enhanced Colonic Polyp Segmentation Based on Transformer-CNN Fusion**|Yuanyuan Wang et.al.|[2301.06892v1](http://arxiv.org/abs/2301.06892v1)|null|
+|**2023-01-17**|**Computer Science for Future -- Sustainability and Climate Protection in the Computer Science Courses of the HAW Hamburg**|Elina Eickstädt et.al.|[2301.06885v1](http://arxiv.org/abs/2301.06885v1)|null|
+|**2023-01-17**|**SAT: Size-Aware Transformer for 3D Point Cloud Semantic Segmentation**|Junjie Zhou et.al.|[2301.06869v1](http://arxiv.org/abs/2301.06869v1)|null|
+|**2023-01-17**|**BRST and Related Superfield Approach to 1D and 2D Diffeomorphism Invariant Models of Particles and a Bosonic String: A Brief Review**|A. K. Rao et.al.|[2301.06850v1](http://arxiv.org/abs/2301.06850v1)|null|
+|**2023-01-17**|**Power Utility Maximization with Expert Opinions at Fixed Arrival Times in a Market with Hidden Gaussian Drift**|Abdelali Gabih et.al.|[2301.06847v1](http://arxiv.org/abs/2301.06847v1)|null|
+|**2023-01-17**|**Syntactically Robust Training on Partially-Observed Data for Open Information Extraction**|Ji Qi et.al.|[2301.06841v1](http://arxiv.org/abs/2301.06841v1)|**[link](https://github.com/qijimrc/robustoie)**|
+|**2023-01-17**|**Generalized Zurek's bound on the cost of an individual classical or quantum computation**|Artemy Kolchinsky et.al.|[2301.06838v1](http://arxiv.org/abs/2301.06838v1)|null|
+|**2023-01-17**|**Anisotropic solutions for  $R^2$  gravity model with a scalar field**|Vsevolod R. Ivanov et.al.|[2301.06836v1](http://arxiv.org/abs/2301.06836v1)|null|
+|**2023-01-17**|**AutoDDL: Automatic Distributed Deep Learning with Asymptotically Optimal Communication**|Jinfan Chen et.al.|[2301.06813v1](http://arxiv.org/abs/2301.06813v1)|null|
+|**2023-01-17**|**On Araki's extension of the Jordan-Wigner transformation**|Walter H. Aschbacher et.al.|[2301.06802v1](http://arxiv.org/abs/2301.06802v1)|null|
+|**2023-01-17**|**On Hilfer-Prabhakar fractional derivatives Sawi transform and its applications to fractional differential equations**|Mohd Khalid et.al.|[2301.06797v1](http://arxiv.org/abs/2301.06797v1)|null|
+|**2023-01-17**|**The Recent Advances in Automatic Term Extraction: A survey**|Hanh Thi Hong Tran et.al.|[2301.06767v1](http://arxiv.org/abs/2301.06767v1)|null|
+|**2023-01-17**|**Tracing and Manipulating Intermediate Values in Neural Math Problem Solvers**|Yuta Matsumoto et.al.|[2301.06758v1](http://arxiv.org/abs/2301.06758v1)|null|
+|**2023-01-17**|**Extracting continuous sleep depth from EEG data without machine learning**|Claus Metzner et.al.|[2301.06755v1](http://arxiv.org/abs/2301.06755v1)|null|
+|**2023-01-17**|**The Chow ring of a sequence of point blow-ups**|Daniel Camazón Portela et.al.|[2301.06737v1](http://arxiv.org/abs/2301.06737v1)|null|
+|**2023-01-17**|**Towards Real-Time Reconstruction of Velocity Fluctuations in Turbulent Channel Flow**|Rahul Arun et.al.|[2301.06734v1](http://arxiv.org/abs/2301.06734v1)|null|
+|**2023-01-17**|**SwinDepth: Unsupervised Depth Estimation using Monocular Sequences via Swin Transformer and Densely Cascaded Network**|Dongseok Shim et.al.|[2301.06715v1](http://arxiv.org/abs/2301.06715v1)|null|
+|**2023-01-17**|**Audio2Gestures: Generating Diverse Gestures from Audio**|Jing Li et.al.|[2301.06690v1](http://arxiv.org/abs/2301.06690v1)|null|
+|**2023-01-17**|**Cross-domain Unsupervised Reconstruction with Equivariance for Photoacoustic Computed Tomography**|Hengrong Lan et.al.|[2301.06681v1](http://arxiv.org/abs/2301.06681v1)|null|
+|**2023-01-17**|**An Empirical Study of Deep Learning Sentiment Detection Tools for Software Engineering in Cross-Platform Settings**|Gias Uddin et.al.|[2301.06661v1](http://arxiv.org/abs/2301.06661v1)|null|
+|**2023-01-16**|**TDSTF: Transformer-based Diffusion probabilistic model for Sparse Time series Forecasting**|Ping Chang et.al.|[2301.06625v1](http://arxiv.org/abs/2301.06625v1)|null|
+|**2023-01-16**|**TAAL: Test-time Augmentation for Active Learning in Medical Image Segmentation**|Mélanie Gaillochet et.al.|[2301.06624v1](http://arxiv.org/abs/2301.06624v1)|null|
+|**2023-01-16**|**TEDB System Description to a Shared Task on Euphemism Detection 2022**|Peratham Wiriyathammabhum et.al.|[2301.06602v1](http://arxiv.org/abs/2301.06602v1)|null|
+|**2023-01-16**|**Soft kirigami composites for form-finding of fully flexible deployables**|Jan Zavodnik et.al.|[2301.06597v1](http://arxiv.org/abs/2301.06597v1)|null|
+|**2023-01-16**|**Antenna Array Calibration Via Gaussian Process Models**|Sergey S. Tambovskiy et.al.|[2301.06582v1](http://arxiv.org/abs/2301.06582v1)|null|
+|**2023-01-16**|**Mapping of Quantum Systems to the Probability Simplex**|D. D. Yavuz et.al.|[2301.06572v1](http://arxiv.org/abs/2301.06572v1)|null|
+|**2023-01-16**|**Finite Dimensional Koopman Form of Polynomial Nonlinear Systems**|Lucian Cristian Iacob et.al.|[2301.06557v1](http://arxiv.org/abs/2301.06557v1)|null|
+|**2023-01-16**|**A Deep Learning & Fast Wavelet Transform-based Hybrid Approach for Denoising of PPG Signals**|Rabia Ahmed et.al.|[2301.06549v1](http://arxiv.org/abs/2301.06549v1)|null|
+|**2023-01-16**|**A double Fourier sphere method for  $d$ -dimensional manifolds**|Sophie Mildenberger et.al.|[2301.06540v1](http://arxiv.org/abs/2301.06540v1)|null|
+|**2023-01-16**|**Bidimensional Symplectic Maps**|Felipe G. Souza et.al.|[2301.06526v1](http://arxiv.org/abs/2301.06526v1)|null|
+|**2023-01-16**|**Combinatorial Hopf species and algebras from preorder cuts**|Gunnar Fløystad et.al.|[2301.06479v1](http://arxiv.org/abs/2301.06479v1)|null|
+|**2023-01-16**|**Criteria of genuine multipartite entanglement based on correlation tensors**|Naihuan Jing et.al.|[2301.06463v1](http://arxiv.org/abs/2301.06463v1)|null|
+|**2023-01-16**|**Modular transformation and anyonic statistics of multi-component fractional quantum Hall states**|Liangdong Hu et.al.|[2301.06427v1](http://arxiv.org/abs/2301.06427v1)|null|
+|**2023-01-16**|**Flow imaging as an alternative to pressure transducers through vision transformers and convolutional neural networks**|Renato F. Miotto et.al.|[2301.06410v1](http://arxiv.org/abs/2301.06410v1)|null|
+|**2023-01-16**|**Composition operators on Gelfand-Shilov classes**|Héctor Ariza et.al.|[2301.06353v1](http://arxiv.org/abs/2301.06353v1)|null|
+|**2023-01-16**|**Probabilistic unitary synthesis with optimal accuracy**|Seiseki Akibue et.al.|[2301.06307v1](http://arxiv.org/abs/2301.06307v1)|null|
+|**2023-01-16**|**Representation Learning for Tablet and Paper Domain Adaptation in Favor of Online Handwriting Recognition**|Felix Ott et.al.|[2301.06293v1](http://arxiv.org/abs/2301.06293v1)|null|
+|**2023-01-16**|**PIGEON: Optimizing CUDA Code Generator for End-to-End Training and Inference of Relational Graph Neural Networks**|Kun Wu et.al.|[2301.06284v1](http://arxiv.org/abs/2301.06284v1)|null|
 |**2023-01-13**|**Renormalized electric and magnetic charges for  $O(r^n)$  large gauge symmetries**|Javier Peraza et.al.|[2301.05671v1](http://arxiv.org/abs/2301.05671v1)|null|
 |**2023-01-13**|**Natural Language Processing of Aviation Occurrence Reports for Safety Management**|Patrick Jonk et.al.|[2301.05663v1](http://arxiv.org/abs/2301.05663v1)|**[link](https://github.com/aviationnlp/nlp_aviation_safety)**|
 |**2023-01-13**|**Structural evolution of iodine on approach to the monatomic state**|Elena Bykova et.al.|[2301.05657v1](http://arxiv.org/abs/2301.05657v1)|null|
