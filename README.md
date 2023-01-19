@@ -347,7 +347,7 @@
 |**2023-01-16**|**TAAL: Test-time Augmentation for Active Learning in Medical Image Segmentation**|Mélanie Gaillochet et.al.|[2301.06624v1](http://arxiv.org/abs/2301.06624v1)|**[link](https://github.com/melinphd/taal)**|
 |**2023-01-16**|**TEDB System Description to a Shared Task on Euphemism Detection 2022**|Peratham Wiriyathammabhum et.al.|[2301.06602v1](http://arxiv.org/abs/2301.06602v1)|null|
 |**2023-01-16**|**Soft kirigami composites for form-finding of fully flexible deployables**|Jan Zavodnik et.al.|[2301.06597v1](http://arxiv.org/abs/2301.06597v1)|null|
-|**2023-01-16**|**Antenna Array Calibration Via Gaussian Process Models**|Sergey S. Tambovskiy et.al.|[2301.06582v1](http://arxiv.org/abs/2301.06582v1)|null|
+|**2023-01-18**|**Antenna Array Calibration Via Gaussian Process Models**|Sergey S. Tambovskiy et.al.|[2301.06582v2](http://arxiv.org/abs/2301.06582v2)|null|
 |**2023-01-16**|**Mapping of Quantum Systems to the Probability Simplex**|D. D. Yavuz et.al.|[2301.06572v1](http://arxiv.org/abs/2301.06572v1)|null|
 |**2023-01-16**|**Finite Dimensional Koopman Form of Polynomial Nonlinear Systems**|Lucian Cristian Iacob et.al.|[2301.06557v1](http://arxiv.org/abs/2301.06557v1)|null|
 |**2023-01-16**|**A Deep Learning & Fast Wavelet Transform-based Hybrid Approach for Denoising of PPG Signals**|Rabia Ahmed et.al.|[2301.06549v1](http://arxiv.org/abs/2301.06549v1)|null|
