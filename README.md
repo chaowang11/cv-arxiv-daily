@@ -312,6 +312,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-19**|**Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture**|Mahmoud Assran et.al.|[2301.08243v1](http://arxiv.org/abs/2301.08243v1)|null|
+|**2023-01-19**|**Score-based Causal Representation Learning with Interventions**|Burak Varici et.al.|[2301.08230v1](http://arxiv.org/abs/2301.08230v1)|null|
+|**2023-01-19**|**Time-Warping Invariant Quantum Recurrent Neural Networks via Quantum-Classical Adaptive Gating**|Ivana Nikoloska et.al.|[2301.08173v1](http://arxiv.org/abs/2301.08173v1)|null|
+|**2023-01-19**|**KdV breathers on a cnoidal wave background**|Mark Hoefer et.al.|[2301.08154v1](http://arxiv.org/abs/2301.08154v1)|null|
+|**2023-01-19**|**Action-Angle formalism for extreme mass ratio inspirals in Kerr spacetime**|Morteza Kerachian et.al.|[2301.08150v1](http://arxiv.org/abs/2301.08150v1)|null|
+|**2023-01-19**|**Diagnose Like a Pathologist: Transformer-Enabled Hierarchical Attention-Guided Multiple Instance Learning for Whole Slide Image Classification**|Conghao Xiong et.al.|[2301.08125v1](http://arxiv.org/abs/2301.08125v1)|null|
+|**2023-01-19**|**Rotation in vacuum and scalar background: are there alternatives to Newman-Janis algorithm?**|Maxim Makukov et.al.|[2301.08118v1](http://arxiv.org/abs/2301.08118v1)|null|
+|**2023-01-19**|**Soft Thresholding for Visual Image Enhancement**|Christoph Dalitz et.al.|[2301.08113v1](http://arxiv.org/abs/2301.08113v1)|null|
+|**2023-01-19**|**AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation**|Mayukh Deb et.al.|[2301.08110v1](http://arxiv.org/abs/2301.08110v1)|null|
+|**2023-01-19**|**Fault-tolerant quantum algorithms**|Pablo Antonio Moreno Casares et.al.|[2301.08057v1](http://arxiv.org/abs/2301.08057v1)|null|
+|**2023-01-19**|**CRIRES $^{+}$  on sky at the ESO Very Large Telescope**|R. J. Dorn et.al.|[2301.08048v1](http://arxiv.org/abs/2301.08048v1)|null|
+|**2023-01-19**|**Global Nash Equilibrium in Non-convex Multi-player Game: Theory and Algorithms**|Guanpu Chen et.al.|[2301.08015v1](http://arxiv.org/abs/2301.08015v1)|null|
+|**2023-01-19**|**Towards Rigorous Understanding of Neural Networks via Semantics-preserving Transformations**|Maximilian Schlüter et.al.|[2301.08013v1](http://arxiv.org/abs/2301.08013v1)|null|
+|**2023-01-19**|**PDFormer: Propagation Delay-aware Dynamic Long-range Transformer for Traffic Flow Prediction**|Jiawei Jiang et.al.|[2301.07945v1](http://arxiv.org/abs/2301.07945v1)|**[link](https://github.com/BUAABIGSCity/PDFormer)**|
+|**2023-01-19**|**Revisiting the Spatial and Temporal Modeling for Few-shot Action Recognition**|Jiazheng Xing et.al.|[2301.07944v1](http://arxiv.org/abs/2301.07944v1)|null|
+|**2023-01-19**|**Inverse Problems of Identifying the Unknown Transverse Shear Force in the Euler-Bernoulli Beam with Kelvin-Voigt Damping**|K. Sakthivel et.al.|[2301.07931v1](http://arxiv.org/abs/2301.07931v1)|null|
+|**2023-01-19**|**Non-Invertible Duality Transformation Between SPT and SSB Phases**|Linhao Li et.al.|[2301.07899v1](http://arxiv.org/abs/2301.07899v1)|null|
+|**2023-01-19**|**Which differential equations correspond to the Lindblad equation?**|Victor Kasatkin et.al.|[2301.07887v1](http://arxiv.org/abs/2301.07887v1)|null|
+|**2023-01-19**|**Polynomial Furstenberg joinings and its applications**|Wen Huang et.al.|[2301.07881v1](http://arxiv.org/abs/2301.07881v1)|null|
+|**2023-01-19**|**Computing multiple roots of inexact polynomials**|Zhonggang Zeng et.al.|[2301.07880v1](http://arxiv.org/abs/2301.07880v1)|null|
+|**2023-01-19**|**Structure and evolution of a tidally heated star**|Diana Estrella-Trujillo et.al.|[2301.07878v1](http://arxiv.org/abs/2301.07878v1)|null|
+|**2023-01-19**|**Fast-BEV: Towards Real-time On-vehicle Bird's-Eye View Perception**|Bin Huang et.al.|[2301.07870v1](http://arxiv.org/abs/2301.07870v1)|null|
+|**2023-01-19**|**FE-TCM: Filter-Enhanced Transformer Click Model for Web Search**|Yingfei Wang et.al.|[2301.07854v1](http://arxiv.org/abs/2301.07854v1)|null|
+|**2023-01-19**|**On an inverse problem for the plate equation with passive measurement**|Yixian Gao et.al.|[2301.07852v1](http://arxiv.org/abs/2301.07852v1)|null|
+|**2023-01-19**|**Foresee What You Will Learn: Data Augmentation for Domain Generalization in Non-Stationary Environments**|Qiuhao Zeng et.al.|[2301.07845v1](http://arxiv.org/abs/2301.07845v1)|null|
+|**2023-01-18**|**Emergence of the SVD as an interpretable factorization in deep learning for inverse problems**|Shashank Sule et.al.|[2301.07820v1](http://arxiv.org/abs/2301.07820v1)|**[link](https://github.com/shashanksule/descrambling-nn)**|
+|**2023-01-18**|**Multi-target multi-camera vehicle tracking using transformer-based camera link model and spatial-temporal information**|Hsiang-Wei Huang et.al.|[2301.07805v1](http://arxiv.org/abs/2301.07805v1)|null|
+|**2023-01-18**|**An MCMC Approach to Classical Estimation**|Victor Chernozhukov et.al.|[2301.07782v1](http://arxiv.org/abs/2301.07782v1)|null|
+|**2023-01-18**|**Symmetry Classification of Typical Quantum Entanglement**|Yuhan Liu et.al.|[2301.07778v1](http://arxiv.org/abs/2301.07778v1)|null|
+|**2023-01-18**|**Topology in the space-time scaling limit of quantum dynamics**|Lorenzo Rossi et.al.|[2301.07752v1](http://arxiv.org/abs/2301.07752v1)|null|
+|**2023-01-18**|**An Automata-based Framework for Verification and Bug Hunting in Quantum Circuits (Technical Report)**|Yu-Fang Chen et.al.|[2301.07747v1](http://arxiv.org/abs/2301.07747v1)|null|
+|**2023-01-18**|**stateQIP = statePSPACE**|Tony Metger et.al.|[2301.07730v1](http://arxiv.org/abs/2301.07730v1)|null|
+|**2023-01-18**|**Hierarchical Clifford transformations to reduce entanglement in quantum chemistry wavefunctions**|Ryan V. Mishmash et.al.|[2301.07726v1](http://arxiv.org/abs/2301.07726v1)|null|
 |**2023-01-18**|**Duality in the directed landscape and its applications to fractal geometry**|Manan Bhatia et.al.|[2301.07704v1](http://arxiv.org/abs/2301.07704v1)|null|
 |**2023-01-18**|**Prony-Based Super-Resolution Phase Retrieval of Sparse, Multivariate Signals**|Robert Beinert et.al.|[2301.07696v1](http://arxiv.org/abs/2301.07696v1)|null|
 |**2023-01-18**|**Gravitational wave memory in conformally flat spacetimes**|Niko Jokela et.al.|[2301.07680v1](http://arxiv.org/abs/2301.07680v1)|null|
@@ -1425,6 +1458,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-19**|**Reference Guided Image Inpainting using Facial Attributes**|Dongsik Yoon et.al.|[2301.08044v1](http://arxiv.org/abs/2301.08044v1)|null|
 |**2023-01-13**|**Layout-guided Indoor Panorama Inpainting with Plane-aware Normalization**|Chao-Chen Gao et.al.|[2301.05624v1](http://arxiv.org/abs/2301.05624v1)|null|
 |**2023-01-05**|**WIRE: Wavelet Implicit Neural Representations**|Vishwanath Saragadam et.al.|[2301.05187v1](http://arxiv.org/abs/2301.05187v1)|null|
 |**2023-01-10**|**Adapting to Skew: Imputing Spatiotemporal Urban Data with 3D Partial Convolutions and Biased Masking**|Bin Han et.al.|[2301.04233v1](http://arxiv.org/abs/2301.04233v1)|null|
