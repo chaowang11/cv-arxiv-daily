@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-20**|**AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics**|Tingting Yuan et.al.|[2301.08664v1](http://arxiv.org/abs/2301.08664v1)|null|
 |**2023-01-18**|**Prony-Based Super-Resolution Phase Retrieval of Sparse, Multivariate Signals**|Robert Beinert et.al.|[2301.07696v1](http://arxiv.org/abs/2301.07696v1)|null|
 |**2023-01-17**|**Super-Resolution Harmonic Retrieval of Non-Circular Signals**|Yu Zhang et.al.|[2301.06948v1](http://arxiv.org/abs/2301.06948v1)|null|
 |**2023-01-15**|**Deep Diversity-Enhanced Feature Representation of Hyperspectral Images**|Jinhui Hou et.al.|[2301.06132v1](http://arxiv.org/abs/2301.06132v1)|**[link](https://github.com/jinnh/resss-convset)**|
@@ -312,6 +313,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-20**|**FlatFormer: Flattened Window Attention for Efficient Point Cloud Transformer**|Zhijian Liu et.al.|[2301.08739v1](http://arxiv.org/abs/2301.08739v1)|null|
+|**2023-01-20**|**Nash resolutions of singular foliations with a view towards affine varieties**|Ruben Louis et.al.|[2301.08706v1](http://arxiv.org/abs/2301.08706v1)|null|
+|**2023-01-20**|**Symmetries in non-relativistic quantum electrodynamics**|David Hasler et.al.|[2301.08678v1](http://arxiv.org/abs/2301.08678v1)|null|
+|**2023-01-20**|**Holistically Explainable Vision Transformers**|Moritz Böhle et.al.|[2301.08669v1](http://arxiv.org/abs/2301.08669v1)|null|
+|**2023-01-20**|**Uniqueness of the inverse conductivity problem once-differentiable complex conductivities in three dimensions**|Ivan Pombo et.al.|[2301.08663v1](http://arxiv.org/abs/2301.08663v1)|null|
+|**2023-01-20**|**Image Memorability Prediction with Vision Transformers**|Thomas Hagen et.al.|[2301.08647v1](http://arxiv.org/abs/2301.08647v1)|null|
+|**2023-01-20**|**The Gauge issue and the Hamiltonian theory of cosmological perturbations**|Alice Boldrin et.al.|[2301.08646v1](http://arxiv.org/abs/2301.08646v1)|null|
+|**2023-01-20**|**Enlarging the symmetry of pure  $R^2$  gravity, BRST invariance and its spontaneous breaking**|Ariel Edery et.al.|[2301.08638v1](http://arxiv.org/abs/2301.08638v1)|null|
+|**2023-01-20**|**Coupled Physics-informed Neural Networks for Inferring Solutions of Partial Differential Equations with Unknown Source Terms**|Aina Wang et.al.|[2301.08618v1](http://arxiv.org/abs/2301.08618v1)|null|
+|**2023-01-20**|**The Evolution of Web Search User Interfaces -- An Archaeological Analysis of Google Search Engine Result Pages**|B. Oliveira et.al.|[2301.08613v1](http://arxiv.org/abs/2301.08613v1)|null|
+|**2023-01-20**|**Ontology Pre-training for Poison Prediction**|Martin Glauer et.al.|[2301.08577v1](http://arxiv.org/abs/2301.08577v1)|null|
+|**2023-01-20**|**Transforming Unstructured Text into Data with Context Rule Assisted Machine Learning (CRAML)**|Stephen Meisenbacher et.al.|[2301.08549v1](http://arxiv.org/abs/2301.08549v1)|null|
+|**2023-01-20**|**Predicting Surface Texture in Steel Manufacturing at Speed**|Alexander J. M. Milne et.al.|[2301.08527v1](http://arxiv.org/abs/2301.08527v1)|null|
+|**2023-01-20**|**Alfvén wave experiments with liquid rubidium in a pulsed magnetic field**|Th. Gundrum et.al.|[2301.08463v1](http://arxiv.org/abs/2301.08463v1)|null|
+|**2023-01-20**|**Fundamental properties of Alkali-intercalated bilayer graphene nanoribbons**|Thi My Duyen Huynh et.al.|[2301.08456v1](http://arxiv.org/abs/2301.08456v1)|null|
+|**2023-01-20**|**Accelerating Multi-Agent Planning Using Graph Transformers with Bounded Suboptimality**|Chenning Yu et.al.|[2301.08451v1](http://arxiv.org/abs/2301.08451v1)|null|
+|**2023-01-20**|**Optimization of body configuration and joint-driven attitude stabilization for transformable spacecrafts under solar radiation pressure**|Yuki Kubo et.al.|[2301.08435v1](http://arxiv.org/abs/2301.08435v1)|null|
+|**2023-01-20**|**Which Features are Learned by CodeBert: An Empirical Study of the BERT-based Source Code Representation Learning**|Lan Zhang et.al.|[2301.08427v1](http://arxiv.org/abs/2301.08427v1)|null|
+|**2023-01-20**|**Eigenvectors of graph Laplacians: a landscape**|J. -G. Caputo et.al.|[2301.08369v1](http://arxiv.org/abs/2301.08369v1)|null|
+|**2023-01-19**|**Nonlinear Functionals of Hyperbolic Random Waves: the Wiener Chaos Approach**|Francesco Grotto et.al.|[2301.08315v1](http://arxiv.org/abs/2301.08315v1)|null|
+|**2023-01-19**|**Animal movement dispersion with stochastic partial differential equations: Inference and simulations**|Fernando Baltazar-Larios et.al.|[2301.08301v1](http://arxiv.org/abs/2301.08301v1)|null|
+|**2023-01-19**|**Parametrization Cookbook: A set of Bijective Parametrizations for using Machine Learning methods in Statistical Inference**|Jean-Benoist Leger et.al.|[2301.08297v1](http://arxiv.org/abs/2301.08297v1)|null|
+|**2023-01-19**|**Analysis of the 24-Hour Activity Cycle: An illustration examining the association with cognitive function in the Adult Changes in Thought (ACT) Study**|Yinxiang Wu et.al.|[2301.08280v1](http://arxiv.org/abs/2301.08280v1)|null|
 |**2023-01-19**|**Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture**|Mahmoud Assran et.al.|[2301.08243v1](http://arxiv.org/abs/2301.08243v1)|null|
 |**2023-01-19**|**Score-based Causal Representation Learning with Interventions**|Burak Varici et.al.|[2301.08230v1](http://arxiv.org/abs/2301.08230v1)|null|
 |**2023-01-20**|**Time-Warping Invariant Quantum Recurrent Neural Networks via Quantum-Classical Adaptive Gating**|Ivana Nikoloska et.al.|[2301.08173v2](http://arxiv.org/abs/2301.08173v2)|null|
@@ -1458,6 +1482,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-20**|**DIFAI: Diverse Facial Inpainting using StyleGAN Inversion**|Dongsik Yoon et.al.|[2301.08443v1](http://arxiv.org/abs/2301.08443v1)|null|
 |**2023-01-19**|**Reference Guided Image Inpainting using Facial Attributes**|Dongsik Yoon et.al.|[2301.08044v1](http://arxiv.org/abs/2301.08044v1)|null|
 |**2023-01-13**|**Layout-guided Indoor Panorama Inpainting with Plane-aware Normalization**|Chao-Chen Gao et.al.|[2301.05624v1](http://arxiv.org/abs/2301.05624v1)|null|
 |**2023-01-05**|**WIRE: Wavelet Implicit Neural Representations**|Vishwanath Saragadam et.al.|[2301.05187v1](http://arxiv.org/abs/2301.05187v1)|null|
