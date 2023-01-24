@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-20**|**CSwin2SR: Circular Swin2SR for Compressed Image Super-Resolution**|Honggui Li et.al.|[2301.08749v1](http://arxiv.org/abs/2301.08749v1)|null|
 |**2023-01-20**|**AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics**|Tingting Yuan et.al.|[2301.08664v1](http://arxiv.org/abs/2301.08664v1)|null|
 |**2023-01-18**|**Prony-Based Super-Resolution Phase Retrieval of Sparse, Multivariate Signals**|Robert Beinert et.al.|[2301.07696v1](http://arxiv.org/abs/2301.07696v1)|null|
 |**2023-01-17**|**Super-Resolution Harmonic Retrieval of Non-Circular Signals**|Yu Zhang et.al.|[2301.06948v1](http://arxiv.org/abs/2301.06948v1)|null|
@@ -129,6 +130,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-20**|**CSwin2SR: Circular Swin2SR for Compressed Image Super-Resolution**|Honggui Li et.al.|[2301.08749v1](http://arxiv.org/abs/2301.08749v1)|null|
 |**2023-01-11**|**Deep Residual Axial Networks**|Nazmul Shahadat et.al.|[2301.04631v1](http://arxiv.org/abs/2301.04631v1)|null|
 |**2023-01-05**|**DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution**|Xiang Li et.al.|[2301.02031v1](http://arxiv.org/abs/2301.02031v1)|null|
 |**2022-12-29**|**Efficient Image Super-Resolution with Feature Interaction Weighted Hybrid Network**|Wenjie Li et.al.|[2212.14181v1](http://arxiv.org/abs/2212.14181v1)|null|
@@ -313,6 +315,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-23**|**LEGO-Net: Learning Regular Rearrangements of Objects in Rooms**|Qiuhong Anna Wei et.al.|[2301.09629v1](http://arxiv.org/abs/2301.09629v1)|null|
+|**2023-01-23**|**Efficient Language Model Training through Cross-Lingual and Progressive Transfer Learning**|Malte Ostendorff et.al.|[2301.09626v1](http://arxiv.org/abs/2301.09626v1)|null|
+|**2023-01-23**|**Fully transformer-based biomarker prediction from colorectal cancer histology: a large-scale multicentric study**|Sophia J. Wagner et.al.|[2301.09617v1](http://arxiv.org/abs/2301.09617v1)|null|
+|**2023-01-23**|**Zorro: the masked multimodal transformer**|Adrià Recasens et.al.|[2301.09595v1](http://arxiv.org/abs/2301.09595v1)|null|
+|**2023-01-23**|**On circle patterns and spherical conical metrics**|Xin Nie et.al.|[2301.09585v1](http://arxiv.org/abs/2301.09585v1)|null|
+|**2023-01-23**|**Deep Learning Meets Sparse Regularization: A Signal Processing Perspective**|Rahul Parhi et.al.|[2301.09554v1](http://arxiv.org/abs/2301.09554v1)|null|
+|**2023-01-23**|**Learning to View: Decision Transformers for Active Object Detection**|Wenhao Ding et.al.|[2301.09544v1](http://arxiv.org/abs/2301.09544v1)|null|
+|**2023-01-23**|**Bordism invariants of colored links and topologically protected tricolorings**|Toni Annala et.al.|[2301.09532v1](http://arxiv.org/abs/2301.09532v1)|null|
+|**2023-01-23**|**Online Kernel Sliced Inverse Regression**|Wenquan Cui et.al.|[2301.09516v1](http://arxiv.org/abs/2301.09516v1)|null|
+|**2023-01-23**|**Rethinking the Expressive Power of GNNs via Graph Biconnectivity**|Bohang Zhang et.al.|[2301.09505v1](http://arxiv.org/abs/2301.09505v1)|null|
+|**2023-01-23**|**The Identity Problem in the special affine group of  $\mathbb{Z}^2$ **|Ruiwen Dong et.al.|[2301.09502v1](http://arxiv.org/abs/2301.09502v1)|null|
+|**2023-01-23**|**Federated Sufficient Dimension Reduction Through High-Dimensional Sparse Sliced Inverse Regression**|Wenquan Cui et.al.|[2301.09500v1](http://arxiv.org/abs/2301.09500v1)|null|
+|**2023-01-23**|**Processes analogous to ecological interactions and dispersal shape the dynamics of economic activities**|Victor Boussange et.al.|[2301.09486v1](http://arxiv.org/abs/2301.09486v1)|null|
+|**2023-01-23**|**Modality-Agnostic Variational Compression of Implicit Neural Representations**|Jonathan Richard Schwarz et.al.|[2301.09479v1](http://arxiv.org/abs/2301.09479v1)|null|
+|**2023-01-23**|**Topology of quadrupolar Berry phase of a Qutrit**|Rajeev Singh et.al.|[2301.09476v1](http://arxiv.org/abs/2301.09476v1)|null|
+|**2023-01-23**|**DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion**|Qitian Wu et.al.|[2301.09474v1](http://arxiv.org/abs/2301.09474v1)|null|
+|**2023-01-23**|**Stability conditions on degenerated elliptic curves**|Tomohiro Karube et.al.|[2301.09453v1](http://arxiv.org/abs/2301.09453v1)|null|
+|**2023-01-23**|**Deep Learning Mental Health Dialogue System**|Lennart Brocki et.al.|[2301.09412v1](http://arxiv.org/abs/2301.09412v1)|null|
+|**2023-01-23**|**Products and Commutators of Martingales in  $H_1$  and  ${\rm BMO}$ **|Aline Bonami et.al.|[2301.09392v1](http://arxiv.org/abs/2301.09392v1)|null|
+|**2023-01-23**|**A Structural Approach to the Design of Domain Specific Neural Network Architectures**|Gerrit Nolte et.al.|[2301.09381v1](http://arxiv.org/abs/2301.09381v1)|null|
+|**2023-01-23**|**Synthetic Population of Interstellar Objects in the Solar System**|Dušan Marčeta et.al.|[2301.09375v1](http://arxiv.org/abs/2301.09375v1)|null|
+|**2023-01-23**|**On uniqueness of submaximally symmetric vector ordinary differential equations of C-class**|Johnson Allen Kessy et.al.|[2301.09364v1](http://arxiv.org/abs/2301.09364v1)|null|
+|**2023-01-23**|**A performance characterization of quantum generative models**|Carlos A. Riofrío et.al.|[2301.09363v1](http://arxiv.org/abs/2301.09363v1)|null|
+|**2023-01-23**|**cc-differential uniformity, (almost) perfect cc-nonlinearity, and equivalences**|Nhan-Phu Chung et.al.|[2301.09325v1](http://arxiv.org/abs/2301.09325v1)|null|
+|**2023-01-23**|**Matrix similarity transformations derived from extended  $q$ -analogues of the Toda equation and Lotka-Volterra system**|R. Watanabe et.al.|[2301.09298v1](http://arxiv.org/abs/2301.09298v1)|null|
+|**2023-01-23**|**MEMO : Accelerating Transformers with Memoization on Big Memory Systems**|Yuan Feng et.al.|[2301.09262v1](http://arxiv.org/abs/2301.09262v1)|null|
+|**2023-01-23**|**Combined Use of Federated Learning and Image Encryption for Privacy-Preserving Image Classification with Vision Transformer**|Teru Nagamori et.al.|[2301.09255v1](http://arxiv.org/abs/2301.09255v1)|null|
+|**2023-01-22**|**The birational geometry of GIT quotients**|Ruadhaí Dervan et.al.|[2301.09227v1](http://arxiv.org/abs/2301.09227v1)|null|
+|**2023-01-22**|**Skew-Normal Diffusions**|Max-Olivier Hongler et.al.|[2301.09225v1](http://arxiv.org/abs/2301.09225v1)|null|
+|**2023-01-22**|**FRAME: Fast and Robust Autonomous 3D point cloud Map-merging for Egocentric multi-robot exploration**|Nikolaos Stathoulopoulos et.al.|[2301.09213v1](http://arxiv.org/abs/2301.09213v1)|null|
+|**2023-01-22**|**Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers**|Khalil Damak et.al.|[2301.09210v1](http://arxiv.org/abs/2301.09210v1)|**[link](https://github.com/khalildmk/debiasedbert4rec)**|
+|**2023-01-22**|**Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction**|Razvan-George Pasca et.al.|[2301.09209v1](http://arxiv.org/abs/2301.09209v1)|null|
+|**2023-01-22**|**The categorical basis of dynamical entropy**|Suddhasattwa Das et.al.|[2301.09205v1](http://arxiv.org/abs/2301.09205v1)|null|
+|**2023-01-22**|**Apples and Oranges? Assessing Image Quality over Content Recognition**|Junyong You et.al.|[2301.09190v1](http://arxiv.org/abs/2301.09190v1)|null|
+|**2023-01-22**|**A New Paradigm for Improved Image Steganography by using Adaptive Number of Dominant Discrete Cosine Transform Coefficients**|Laeeq Aslam Sandhu et.al.|[2301.09185v1](http://arxiv.org/abs/2301.09185v1)|null|
+|**2023-01-22**|**Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data**|Shengchao Chen et.al.|[2301.09152v1](http://arxiv.org/abs/2301.09152v1)|null|
+|**2023-01-22**|**Growth and integrability of some birational maps in dimension three**|Michele Graffeo et.al.|[2301.09129v1](http://arxiv.org/abs/2301.09129v1)|null|
+|**2023-01-22**|**Stability of the In-Plane Room Temperature van der Waals Ferromagnet Chromium Ditelluride and Its Conversion to Chromium-Interleaved CrTe $_2$  Compounds**|Anike Purbawati et.al.|[2301.09127v1](http://arxiv.org/abs/2301.09127v1)|null|
+|**2023-01-22**|**Learning Open-vocabulary Semantic Segmentation Models From Natural Language Supervision**|Jilan Xu et.al.|[2301.09121v1](http://arxiv.org/abs/2301.09121v1)|null|
+|**2023-01-22**|**Low-coherence interferometric measurement of the spectral dependence of the light field backscattered by optical interfaces**|Michel Lequime et.al.|[2301.09085v1](http://arxiv.org/abs/2301.09085v1)|null|
+|**2023-01-22**|**Dance2MIDI: Dance-driven multi-instruments music generation**|Bo Han et.al.|[2301.09080v1](http://arxiv.org/abs/2301.09080v1)|null|
+|**2023-01-22**|**DASTSiam: Spatio-Temporal Fusion and Discriminative Augmentation for Improved Siamese Tracking**|Yucheng Huang et.al.|[2301.09063v1](http://arxiv.org/abs/2301.09063v1)|null|
+|**2023-01-22**|**Observation of Kondo condensation in a degenerately doped silicon metal**|H. Im et.al.|[2301.09047v1](http://arxiv.org/abs/2301.09047v1)|null|
+|**2023-01-22**|**Unraveling the evolution of hot Jupiter systems under the effect of tidal and magnetic interactions and mass loss**|Yaroslav Lazovik et.al.|[2301.09026v1](http://arxiv.org/abs/2301.09026v1)|null|
+|**2023-01-21**|**MultiNet with Transformers: A Model for Cancer Diagnosis Using Images**|Hosein Barzekar et.al.|[2301.09007v1](http://arxiv.org/abs/2301.09007v1)|null|
+|**2023-01-21**|**Predictive Reduced Order Modeling of Chaotic Multi-scale Problems Using Adaptively Sampled Projections**|Cheng Huang et.al.|[2301.09006v1](http://arxiv.org/abs/2301.09006v1)|null|
+|**2023-01-21**|**Blacks is to Anger as Whites is to Joy? Understanding Latent Affective Bias in Large Pre-trained Neural Language Models**|Anoop Kadan et.al.|[2301.09003v1](http://arxiv.org/abs/2301.09003v1)|null|
+|**2023-01-21**|**Syntax-guided Neural Module Distillation to Probe Compositionality in Sentence Embeddings**|Rohan Pandey et.al.|[2301.08998v1](http://arxiv.org/abs/2301.08998v1)|null|
+|**2023-01-21**|**REDAffectiveLM: Leveraging Affect Enriched Embedding and Transformer-based Neural Language Model for Readers' Emotion Detection**|Anoop Kadan et.al.|[2301.08995v1](http://arxiv.org/abs/2301.08995v1)|null|
+|**2023-01-21**|**Advances in the Implementation of the Exactly Energy Conserving Semi-Implicit (ECsim) Particle in Cell Method**|Giovanni Lapenta et.al.|[2301.08985v1](http://arxiv.org/abs/2301.08985v1)|null|
 |**2023-01-20**|**FlatFormer: Flattened Window Attention for Efficient Point Cloud Transformer**|Zhijian Liu et.al.|[2301.08739v1](http://arxiv.org/abs/2301.08739v1)|null|
 |**2023-01-20**|**Nash resolutions of singular foliations with a view towards affine varieties**|Ruben Louis et.al.|[2301.08706v1](http://arxiv.org/abs/2301.08706v1)|null|
 |**2023-01-20**|**Symmetries in non-relativistic quantum electrodynamics**|David Hasler et.al.|[2301.08678v1](http://arxiv.org/abs/2301.08678v1)|null|
@@ -1482,6 +1534,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-23**|**A Tale of Two Latent Flows: Learning Latent Space Normalizing Flow with Short-run Langevin Flow for Approximate Inference**|Jianwen Xie et.al.|[2301.09300v1](http://arxiv.org/abs/2301.09300v1)|null|
 |**2023-01-20**|**DIFAI: Diverse Facial Inpainting using StyleGAN Inversion**|Dongsik Yoon et.al.|[2301.08443v1](http://arxiv.org/abs/2301.08443v1)|null|
 |**2023-01-19**|**Reference Guided Image Inpainting using Facial Attributes**|Dongsik Yoon et.al.|[2301.08044v1](http://arxiv.org/abs/2301.08044v1)|null|
 |**2023-01-13**|**Layout-guided Indoor Panorama Inpainting with Plane-aware Normalization**|Chao-Chen Gao et.al.|[2301.05624v1](http://arxiv.org/abs/2301.05624v1)|null|
