@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**Image Super-Resolution using Efficient Striped Window Transformer**|Jinpeng Shi et.al.|[2301.09869v1](http://arxiv.org/abs/2301.09869v1)|**[link](https://github.com/fried-rice-lab/friedricelab)**|
 |**2023-01-20**|**CSwin2SR: Circular Swin2SR for Compressed Image Super-Resolution**|Honggui Li et.al.|[2301.08749v1](http://arxiv.org/abs/2301.08749v1)|null|
 |**2023-01-24**|**AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics**|Tingting Yuan et.al.|[2301.08664v2](http://arxiv.org/abs/2301.08664v2)|null|
 |**2023-01-18**|**Prony-Based Super-Resolution Phase Retrieval of Sparse, Multivariate Signals**|Robert Beinert et.al.|[2301.07696v1](http://arxiv.org/abs/2301.07696v1)|null|
@@ -130,6 +131,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**Image Super-Resolution using Efficient Striped Window Transformer**|Jinpeng Shi et.al.|[2301.09869v1](http://arxiv.org/abs/2301.09869v1)|**[link](https://github.com/fried-rice-lab/friedricelab)**|
 |**2023-01-20**|**CSwin2SR: Circular Swin2SR for Compressed Image Super-Resolution**|Honggui Li et.al.|[2301.08749v1](http://arxiv.org/abs/2301.08749v1)|null|
 |**2023-01-11**|**Deep Residual Axial Networks**|Nazmul Shahadat et.al.|[2301.04631v1](http://arxiv.org/abs/2301.04631v1)|null|
 |**2023-01-05**|**DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution**|Xiang Li et.al.|[2301.02031v1](http://arxiv.org/abs/2301.02031v1)|null|
@@ -315,9 +317,38 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**A Watermark for Large Language Models**|John Kirchenbauer et.al.|[2301.10226v1](http://arxiv.org/abs/2301.10226v1)|null|
+|**2023-01-24**|**RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving**|Angelika Ando et.al.|[2301.10222v1](http://arxiv.org/abs/2301.10222v1)|null|
+|**2023-01-24**|**WEASEL 2.0 -- A Random Dilated Dictionary Transform for Fast, Accurate and Memory Constrained Time Series Classification**|Patrick Schäfer et.al.|[2301.10194v1](http://arxiv.org/abs/2301.10194v1)|**[link](https://github.com/patrickzib/dictionary)**|
+|**2023-01-24**|**Bipartite Graph Diffusion Model for Human Interaction Generation**|Baptiste Chopin et.al.|[2301.10134v1](http://arxiv.org/abs/2301.10134v1)|null|
+|**2023-01-24**|**Read the Signs: Towards Invariance to Gradient Descent's Hyperparameter Initialization**|Davood Wadi et.al.|[2301.10133v1](http://arxiv.org/abs/2301.10133v1)|null|
+|**2023-01-24**|**Model soups to increase inference without increasing compute time**|Charles Dansereau et.al.|[2301.10092v1](http://arxiv.org/abs/2301.10092v1)|**[link](https://github.com/milo-sobral/modelsoup)**|
+|**2023-01-24**|**Reformulation Techniques for Automated Planning: A Systematic Review**|Diaeddin Alarnaouti et.al.|[2301.10079v1](http://arxiv.org/abs/2301.10079v1)|null|
+|**2023-01-24**|**Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting**|Kaidong Zhang et.al.|[2301.10048v1](http://arxiv.org/abs/2301.10048v1)|null|
+|**2023-01-24**|**The T1 theorem for the Hilbert transform fails when p is not 2**|Michel Alexis et.al.|[2301.10046v1](http://arxiv.org/abs/2301.10046v1)|null|
+|**2023-01-24**|**Revisiting Power Systems Time-domain Simulation Methods and Models**|Jose Daniel Lara et.al.|[2301.10043v1](http://arxiv.org/abs/2301.10043v1)|null|
+|**2023-01-24**|**Higher-Order Weakest Precondition Transformers via a CPS Transformation**|Satoshi Kura et.al.|[2301.09997v1](http://arxiv.org/abs/2301.09997v1)|null|
+|**2023-01-24**|**Optical convolutional neural network with atomic nonlinearity**|Mingwei Yang et.al.|[2301.09994v1](http://arxiv.org/abs/2301.09994v1)|null|
+|**2023-01-24**|**Asymptotics for the infinite Brownian loop on noncompact symmetric spaces**|Effie Papageorgiou et.al.|[2301.09924v1](http://arxiv.org/abs/2301.09924v1)|null|
+|**2023-01-24**|**Multimodal Interactive Lung Lesion Segmentation: A Framework for Annotating PET/CT Images based on Physiological and Anatomical Cues**|Verena Jasmin Hallitschke et.al.|[2301.09914v1](http://arxiv.org/abs/2301.09914v1)|**[link](https://github.com/verena-hallitschke/pet-ct-annotate)**|
+|**2023-01-24**|**Data Augmentation Alone Can Improve Adversarial Training**|Lin Li et.al.|[2301.09879v1](http://arxiv.org/abs/2301.09879v1)|**[link](https://github.com/treelli/da-alone-improves-at)**|
+|**2023-01-24**|**Image Super-Resolution using Efficient Striped Window Transformer**|Jinpeng Shi et.al.|[2301.09869v1](http://arxiv.org/abs/2301.09869v1)|**[link](https://github.com/fried-rice-lab/friedricelab)**|
+|**2023-01-24**|**Microwave heating as a universal method to transform confined molecules into armchair graphene nanoribbons**|Haoyuan Zhang et.al.|[2301.09835v1](http://arxiv.org/abs/2301.09835v1)|null|
+|**2023-01-24**|**SMART: Self-supervised Multi-task pretrAining with contRol Transformers**|Yanchao Sun et.al.|[2301.09816v1](http://arxiv.org/abs/2301.09816v1)|null|
+|**2023-01-24**|**Quantification of Damage Using Indirect Structural Health Monitoring**|Achyuth Madabhushi et.al.|[2301.09791v1](http://arxiv.org/abs/2301.09791v1)|null|
+|**2023-01-24**|**Size of exceptional sets in weakly mixing systems**|Jiyun Park et.al.|[2301.09786v1](http://arxiv.org/abs/2301.09786v1)|null|
+|**2023-01-24**|**Transformer-Patcher: One Mistake worth One Neuron**|Zeyu Huang et.al.|[2301.09785v1](http://arxiv.org/abs/2301.09785v1)|**[link](https://github.com/zeroyuhuang/transformer-patcher)**|
+|**2023-01-24**|**Differentiable bit-rate estimation for neural-based video codec enhancement**|Amir Said et.al.|[2301.09776v1](http://arxiv.org/abs/2301.09776v1)|null|
+|**2023-01-24**|**Language-guided Task Adaptation for Imitation Learning**|Prasoon Goyal et.al.|[2301.09770v1](http://arxiv.org/abs/2301.09770v1)|null|
+|**2023-01-24**|**Truveta Mapper: A Zero-shot Ontology Alignment Framework**|Mariyam Amir et.al.|[2301.09767v1](http://arxiv.org/abs/2301.09767v1)|null|
+|**2023-01-23**|**Long-term stable Electromyography classification using Canonical Correlation Analysis**|Elisa Donati et.al.|[2301.09729v1](http://arxiv.org/abs/2301.09729v1)|null|
+|**2023-01-23**|**Injecting the BM25 Score as Text Improves BERT-Based Re-rankers**|Arian Askari et.al.|[2301.09728v1](http://arxiv.org/abs/2301.09728v1)|**[link](https://github.com/arian-askari/injecting_bm25_score_bert_reranker)**|
+|**2023-01-23**|**Optimization of transformer ratio and beam loading in a plasma wakefield accelerator with a structure-exploiting algorithm**|Q. Su et.al.|[2301.09697v1](http://arxiv.org/abs/2301.09697v1)|null|
+|**2023-01-23**|**Reconstructing Indistinguishable Solutions Via Set-Valued KKL Observer**|Pauline Bernard et.al.|[2301.09690v1](http://arxiv.org/abs/2301.09690v1)|null|
+|**2023-01-23**|**Slow and fast collective neutrino oscillations: Invariants and reciprocity**|Damiano F. G. Fiorillo et.al.|[2301.09650v1](http://arxiv.org/abs/2301.09650v1)|null|
 |**2023-01-23**|**LEGO-Net: Learning Regular Rearrangements of Objects in Rooms**|Qiuhong Anna Wei et.al.|[2301.09629v1](http://arxiv.org/abs/2301.09629v1)|null|
 |**2023-01-23**|**Efficient Language Model Training through Cross-Lingual and Progressive Transfer Learning**|Malte Ostendorff et.al.|[2301.09626v1](http://arxiv.org/abs/2301.09626v1)|null|
-|**2023-01-23**|**Fully transformer-based biomarker prediction from colorectal cancer histology: a large-scale multicentric study**|Sophia J. Wagner et.al.|[2301.09617v1](http://arxiv.org/abs/2301.09617v1)|null|
+|**2023-01-23**|**Fully transformer-based biomarker prediction from colorectal cancer histology: a large-scale multicentric study**|Sophia J. Wagner et.al.|[2301.09617v1](http://arxiv.org/abs/2301.09617v1)|**[link](https://github.com/katherlab/marugoto)**|
 |**2023-01-23**|**Zorro: the masked multimodal transformer**|Adrià Recasens et.al.|[2301.09595v1](http://arxiv.org/abs/2301.09595v1)|null|
 |**2023-01-23**|**On circle patterns and spherical conical metrics**|Xin Nie et.al.|[2301.09585v1](http://arxiv.org/abs/2301.09585v1)|null|
 |**2023-01-23**|**Deep Learning Meets Sparse Regularization: A Signal Processing Perspective**|Rahul Parhi et.al.|[2301.09554v1](http://arxiv.org/abs/2301.09554v1)|null|
@@ -1605,6 +1636,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting**|Kaidong Zhang et.al.|[2301.10048v1](http://arxiv.org/abs/2301.10048v1)|null|
 |**2022-11-21**|**FlowLens: Seeing Beyond the FoV via Flow-guided Clip-Recurrent Transformer**|Hao Shi et.al.|[2211.11293v1](http://arxiv.org/abs/2211.11293v1)|**[link](https://github.com/masterhow/flowlens)**|
 |**2022-10-29**|**INR-V: A Continuous Representation Space for Video-based Generative Tasks**|Bipasha Sen et.al.|[2210.16579v1](http://arxiv.org/abs/2210.16579v1)|**[link](https://github.com/bipashasen/INRV)**|
 |**2022-10-13**|**Scalable Neural Video Representations with Learnable Positional Features**|Subin Kim et.al.|[2210.06823v1](http://arxiv.org/abs/2210.06823v1)|**[link](https://github.com/subin-kim-cv/NVP)**|
