@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Trainable Loss Weights in Super-Resolution**|Arash Chaichi Mellatshahi et.al.|[2301.10575v1](http://arxiv.org/abs/2301.10575v1)|null|
+|**2023-01-25**|**Role played by port drains in a Maxwell fisheye lens**|Q. Shen et.al.|[2301.10390v1](http://arxiv.org/abs/2301.10390v1)|null|
 |**2023-01-24**|**Image Super-Resolution using Efficient Striped Window Transformer**|Jinpeng Shi et.al.|[2301.09869v1](http://arxiv.org/abs/2301.09869v1)|**[link](https://github.com/fried-rice-lab/friedricelab)**|
 |**2023-01-20**|**CSwin2SR: Circular Swin2SR for Compressed Image Super-Resolution**|Honggui Li et.al.|[2301.08749v1](http://arxiv.org/abs/2301.08749v1)|null|
 |**2023-01-24**|**AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics**|Tingting Yuan et.al.|[2301.08664v2](http://arxiv.org/abs/2301.08664v2)|null|
@@ -317,6 +319,44 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Out of Distribution Performance of State of Art Vision Model**|Md Salman Rahman et.al.|[2301.10750v1](http://arxiv.org/abs/2301.10750v1)|null|
+|**2023-01-25**|**Tighter Bounds on the Expressivity of Transformer Encoders**|David Chiang et.al.|[2301.10743v1](http://arxiv.org/abs/2301.10743v1)|null|
+|**2023-01-25**|**Distributed Control of Partial Differential Equations Using Convolutional Reinforcement Learning**|Sebastian Peitz et.al.|[2301.10737v1](http://arxiv.org/abs/2301.10737v1)|**[link](https://github.com/janstenner/distributedconvrl-pde-control)**|
+|**2023-01-25**|**Regression Models for Directional Data Based on Nonnegative Trigonometric Sums**|J. J. Fernández-Durán et.al.|[2301.10715v1](http://arxiv.org/abs/2301.10715v1)|null|
+|**2023-01-25**|**Transforming photon statistics through zero-photon subtraction**|C. M. Nunn et.al.|[2301.10702v1](http://arxiv.org/abs/2301.10702v1)|null|
+|**2023-01-25**|**Efficient construction of involutory linear combinations of anti-commuting Pauli generators for large-scale iterative qubit coupled cluster calculations**|Ilya G. Ryabinkin et.al.|[2301.10690v1](http://arxiv.org/abs/2301.10690v1)|null|
+|**2023-01-25**|**Transfer Learning in Deep Learning Models for Building Load Forecasting: Case of Limited Data**|Menna Nawar et.al.|[2301.10663v1](http://arxiv.org/abs/2301.10663v1)|null|
+|**2023-01-25**|**Bit-complexity estimates in geometric programming, and application to the polynomial-time computation of the spectral radius of nonnegative tensors**|Shmuel Friedland et.al.|[2301.10637v1](http://arxiv.org/abs/2301.10637v1)|null|
+|**2023-01-25**|**Fourier decay of equilibrium states for bunched attractors**|Gaétan Leclerc et.al.|[2301.10623v1](http://arxiv.org/abs/2301.10623v1)|null|
+|**2023-01-25**|**Clueless: A Tool Characterising Values Leaking as Addresses**|Xiaoyue Chen et.al.|[2301.10618v1](http://arxiv.org/abs/2301.10618v1)|null|
+|**2023-01-25**|**Connecting metrics for shape-texture knowledge in computer vision**|Tiago Oliveira et.al.|[2301.10608v1](http://arxiv.org/abs/2301.10608v1)|null|
+|**2023-01-25**|**A note on Hausdorff-Young inequalities in function spaces**|Hans Triebel et.al.|[2301.10605v1](http://arxiv.org/abs/2301.10605v1)|null|
+|**2023-01-25**|**Automated multilingual detection of Pro-Kremlin propaganda in newspapers and Telegram posts**|Veronika Solopova et.al.|[2301.10604v1](http://arxiv.org/abs/2301.10604v1)|**[link](https://github.com/anonrep/pro-kremlin_propaganda)**|
+|**2023-01-25**|**Fokker-Planck equation for the particle size distribution function in KJMA transformations**|M. Tomellini et.al.|[2301.10579v1](http://arxiv.org/abs/2301.10579v1)|null|
+|**2023-01-25**|**Lecture Notes on Monadic First- and Second-Order Logic on Strings**|Dino Mandrioli et.al.|[2301.10519v1](http://arxiv.org/abs/2301.10519v1)|null|
+|**2023-01-25**|**Ordered Exponential and Its Features in Yang-Mills Effective Action**|A. V. Ivanov et.al.|[2301.10514v1](http://arxiv.org/abs/2301.10514v1)|null|
+|**2023-01-25**|**A Provable Splitting Approach for Symmetric Nonnegative Matrix Factorization**|Xiao Li et.al.|[2301.10499v1](http://arxiv.org/abs/2301.10499v1)|null|
+|**2023-01-25**|**E(n)-equivariant Graph Neural Cellular Automata**|Gennaro Gala et.al.|[2301.10497v1](http://arxiv.org/abs/2301.10497v1)|null|
+|**2023-01-25**|**HEAR4Health: A blueprint for making computer audition a staple of modern healthcare**|Andreas Triantafyllopoulos et.al.|[2301.10477v1](http://arxiv.org/abs/2301.10477v1)|null|
+|**2023-01-25**|**Effect of the initial microstructure on the pressure-induced phase transition in Zr and microstructure evolution**|K. K. Pandey et.al.|[2301.10475v1](http://arxiv.org/abs/2301.10475v1)|null|
+|**2023-01-25**|**Rate-Perception Optimized Preprocessing for Video Coding**|Chengqian Ma et.al.|[2301.10455v1](http://arxiv.org/abs/2301.10455v1)|null|
+|**2023-01-25**|**An Experimental Study on Pretraining Transformers from Scratch for IR**|Carlos Lassance et.al.|[2301.10444v1](http://arxiv.org/abs/2301.10444v1)|null|
+|**2023-01-25**|**Learning to Rank Normalized Entropy Curves with Differentiable Window Transformation**|Hanyang Liu et.al.|[2301.10443v1](http://arxiv.org/abs/2301.10443v1)|null|
+|**2023-01-25**|**ViDeBERTa: A powerful pre-trained language model for Vietnamese**|Cong Dao Tran et.al.|[2301.10439v1](http://arxiv.org/abs/2301.10439v1)|**[link](https://github.com/hysonlab/videberta)**|
+|**2023-01-25**|**Cell-free mMIMO Support in the O-RAN Architecture: A PHY Layer Perspective for 5G and Beyond Networks**|Vida Ranjbar et.al.|[2301.10429v1](http://arxiv.org/abs/2301.10429v1)|null|
+|**2023-01-25**|**Eigenvalue-invariant transformation of Ising problem for anti-crossing mitigation in quantum annealing**|Toru Fujii et.al.|[2301.10427v1](http://arxiv.org/abs/2301.10427v1)|null|
+|**2023-01-25**|**Local Feature Extraction from Salient Regions by Feature Map Transformation**|Yerim Jung et.al.|[2301.10413v1](http://arxiv.org/abs/2301.10413v1)|null|
+|**2023-01-25**|**On the characterization, existence and uniqueness of steady solutions to the hydrostatic Euler equations in a nozzle**|Wang Shing Leung et.al.|[2301.10402v1](http://arxiv.org/abs/2301.10402v1)|null|
+|**2023-01-25**|**XNLI: Explaining and Diagnosing NLI-based Visual Data Analysis**|Yingchaojie Feng et.al.|[2301.10385v1](http://arxiv.org/abs/2301.10385v1)|null|
+|**2023-01-25**|**Planning-assisted autonomous swarm shepherding with collision avoidance**|Jing Liu et.al.|[2301.10363v1](http://arxiv.org/abs/2301.10363v1)|null|
+|**2023-01-24**|**Capacity Analysis of Vector Symbolic Architectures**|Kenneth L. Clarkson et.al.|[2301.10352v1](http://arxiv.org/abs/2301.10352v1)|null|
+|**2023-01-24**|**ClimaX: A foundation model for weather and climate**|Tung Nguyen et.al.|[2301.10343v1](http://arxiv.org/abs/2301.10343v1)|null|
+|**2023-01-24**|**A kernel formula for regularized Wasserstein proximal operators**|Wuchen Li et.al.|[2301.10301v1](http://arxiv.org/abs/2301.10301v1)|null|
+|**2023-01-24**|**Asymptotic Stability and classification of multi-solitons for Klein-Gordon equations**|Gong Chen et.al.|[2301.10279v1](http://arxiv.org/abs/2301.10279v1)|null|
+|**2023-01-24**|**Cosmological Structure Formation and Soliton Phase Transition in Fuzzy Dark Matter with Axion Self-Interactions**|Philip Mocz et.al.|[2301.10266v1](http://arxiv.org/abs/2301.10266v1)|null|
+|**2023-01-24**|**Sensing rotations with multiplane light conversion**|M. Eriksson et.al.|[2301.10265v1](http://arxiv.org/abs/2301.10265v1)|null|
+|**2023-01-24**|**Spectral signatures of symmetry-breaking dynamical phase transitions**|R. Hurtado-Gutiérrez et.al.|[2301.10262v1](http://arxiv.org/abs/2301.10262v1)|null|
+|**2023-01-24**|**Score Matching via Differentiable Physics**|Benjamin J. Holzschuh et.al.|[2301.10250v1](http://arxiv.org/abs/2301.10250v1)|null|
 |**2023-01-24**|**A Watermark for Large Language Models**|John Kirchenbauer et.al.|[2301.10226v1](http://arxiv.org/abs/2301.10226v1)|null|
 |**2023-01-24**|**RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving**|Angelika Ando et.al.|[2301.10222v1](http://arxiv.org/abs/2301.10222v1)|null|
 |**2023-01-24**|**WEASEL 2.0 -- A Random Dilated Dictionary Transform for Fast, Accurate and Memory Constrained Time Series Classification**|Patrick Schäfer et.al.|[2301.10194v1](http://arxiv.org/abs/2301.10194v1)|**[link](https://github.com/patrickzib/dictionary)**|
@@ -1565,6 +1605,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Efficient Flow-Guided Multi-frame De-fencing**|Stavros Tsogkas et.al.|[2301.10759v1](http://arxiv.org/abs/2301.10759v1)|null|
 |**2023-01-23**|**A Tale of Two Latent Flows: Learning Latent Space Normalizing Flow with Short-run Langevin Flow for Approximate Inference**|Jianwen Xie et.al.|[2301.09300v1](http://arxiv.org/abs/2301.09300v1)|null|
 |**2023-01-20**|**DIFAI: Diverse Facial Inpainting using StyleGAN Inversion**|Dongsik Yoon et.al.|[2301.08443v1](http://arxiv.org/abs/2301.08443v1)|null|
 |**2023-01-19**|**Reference Guided Image Inpainting using Facial Attributes**|Dongsik Yoon et.al.|[2301.08044v1](http://arxiv.org/abs/2301.08044v1)|null|
