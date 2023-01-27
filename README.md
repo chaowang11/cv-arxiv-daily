@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-26**|**Multitemporal and multispectral data fusion for super-resolution of Sentinel-2 images**|Tomasz Tarasiewicz et.al.|[2301.11154v1](http://arxiv.org/abs/2301.11154v1)|null|
+|**2023-01-26**|**simple diffusion: End-to-end diffusion for high resolution images**|Emiel Hoogeboom et.al.|[2301.11093v1](http://arxiv.org/abs/2301.11093v1)|null|
+|**2023-01-26**|**Super-Resolution Analysis via Machine Learning: A Survey for Fluid Flows**|Kai Fukami et.al.|[2301.10937v1](http://arxiv.org/abs/2301.10937v1)|null|
 |**2023-01-25**|**Trainable Loss Weights in Super-Resolution**|Arash Chaichi Mellatshahi et.al.|[2301.10575v1](http://arxiv.org/abs/2301.10575v1)|null|
 |**2023-01-25**|**Role played by port drains in a Maxwell fisheye lens**|Q. Shen et.al.|[2301.10390v1](http://arxiv.org/abs/2301.10390v1)|null|
 |**2023-01-24**|**Image Super-Resolution using Efficient Striped Window Transformer**|Jinpeng Shi et.al.|[2301.09869v1](http://arxiv.org/abs/2301.09869v1)|**[link](https://github.com/fried-rice-lab/friedricelab)**|
@@ -319,6 +322,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-26**|**Anatomy-aware and acquisition-agnostic joint registration with SynthMorph**|Malte Hoffmann et.al.|[2301.11329v1](http://arxiv.org/abs/2301.11329v1)|null|
+|**2023-01-26**|**MusicLM: Generating Music From Text**|Andrea Agostinelli et.al.|[2301.11325v1](http://arxiv.org/abs/2301.11325v1)|null|
+|**2023-01-26**|**Proof to count bound state nodes in supersymmetric quantum mechanics**|A. Aynbund et.al.|[2301.11303v1](http://arxiv.org/abs/2301.11303v1)|null|
+|**2023-01-26**|**On Low-Rank Convex-Convex Quadratic Fractional Programming**|Ilya Krishtal et.al.|[2301.11269v1](http://arxiv.org/abs/2301.11269v1)|null|
+|**2023-01-26**|**What is liquid, from Noether's perspective?**|Florian Sammüller et.al.|[2301.11221v1](http://arxiv.org/abs/2301.11221v1)|null|
+|**2023-01-26**|**Time-consistency in the mean-variance problem: A new perspective**|Nicole Bäuerle et.al.|[2301.11218v1](http://arxiv.org/abs/2301.11218v1)|null|
+|**2023-01-26**|**Representation and Conservation of Angular Momentum in the Born-Oppenheimer Theory of Polyatomic Molecules**|Robert Littlejohn et.al.|[2301.11202v1](http://arxiv.org/abs/2301.11202v1)|null|
+|**2023-01-26**|**The Stability of Relativistic Fluids in Linearly Expanding Cosmologies**|David Fajman et.al.|[2301.11191v1](http://arxiv.org/abs/2301.11191v1)|null|
+|**2023-01-26**|**Towards a semantic approach in GLAM Labs: the case of the Data Foundry at the National Library of Scotland**|Gustavo Candela et.al.|[2301.11182v1](http://arxiv.org/abs/2301.11182v1)|null|
+|**2023-01-26**|**Low-Rank Winograd Transformation for 3D Convolutional Neural Networks**|Ziran Qin et.al.|[2301.11180v1](http://arxiv.org/abs/2301.11180v1)|null|
+|**2023-01-26**|**Atomistic modeling of metal-nonmetal interphase boundary diffusion**|Ian Chesser et.al.|[2301.11172v1](http://arxiv.org/abs/2301.11172v1)|null|
+|**2023-01-26**|**The Method of Harmonic Balance for the Giesekus Model under Oscillatory Shear**|Shivangi Mittal et.al.|[2301.11131v1](http://arxiv.org/abs/2301.11131v1)|null|
+|**2023-01-26**|**A benchmark for toxic comment classification on Civil Comments dataset**|Corentin Duchene et.al.|[2301.11125v1](http://arxiv.org/abs/2301.11125v1)|null|
+|**2023-01-26**|**Kinetic inductive mechano-electric transduction for nano-scale force sensing**|August K. Roos et.al.|[2301.11055v1](http://arxiv.org/abs/2301.11055v1)|null|
+|**2023-01-26**|**Fourier transform from the symmetric square representation of  $PGL_2$  and  $SL_2$ **|Gérard Laumon et.al.|[2301.11041v1](http://arxiv.org/abs/2301.11041v1)|null|
+|**2023-01-26**|**Semantic Segmentation Enhanced Transformer Model for Human Attention Prediction**|Shuo Zhang et.al.|[2301.11022v1](http://arxiv.org/abs/2301.11022v1)|null|
+|**2023-01-26**|**Transformation and symmetries for the Andrews-Garvan crank function**|Rishabh Sarma et.al.|[2301.10991v1](http://arxiv.org/abs/2301.10991v1)|null|
+|**2023-01-26**|**Beyond scalar quasi-arithmetic means: Quasi-arithmetic averages and quasi-arithmetic mixtures in information geometry**|Frank Nielsen et.al.|[2301.10980v1](http://arxiv.org/abs/2301.10980v1)|null|
+|**2023-01-26**|**Concrat: An Automatic C-to-Rust Lock API Translator for Concurrent Programs**|Jaemin Hong et.al.|[2301.10943v1](http://arxiv.org/abs/2301.10943v1)|null|
+|**2023-01-26**|**Compact Transformer Tracker with Correlative Masked Modeling**|Zikai Song et.al.|[2301.10938v1](http://arxiv.org/abs/2301.10938v1)|**[link](https://github.com/hustdml/cttrack)**|
+|**2023-01-26**|**SparDA: Accelerating Dynamic Sparse Deep Neural Networks via Sparse-Dense Transformation**|Ningxin Zheng et.al.|[2301.10936v1](http://arxiv.org/abs/2301.10936v1)|null|
+|**2023-01-26**|**Optimizing Feature Set for Click-Through Rate Prediction**|Fuyuan Lyu et.al.|[2301.10909v1](http://arxiv.org/abs/2301.10909v1)|null|
+|**2023-01-26**|**Facial Emotion Recognition**|Arpita Vats et.al.|[2301.10906v1](http://arxiv.org/abs/2301.10906v1)|null|
+|**2023-01-25**|**Qualitative Analysis of a Graph Transformer Approach to Addressing Hate Speech: Adapting to Dynamically Changing Content**|Liam Hebert et.al.|[2301.10871v1](http://arxiv.org/abs/2301.10871v1)|null|
+|**2023-01-25**|**Quantization in fibering polarizations, Mabuchi rays and geometric Peter--Weyl theorem**|Thomas Baier et.al.|[2301.10853v1](http://arxiv.org/abs/2301.10853v1)|null|
+|**2023-01-25**|**Pauli equation and charged spin-1/2 particle in a weak gravitational field**|Samuel W. P. Oliveira et.al.|[2301.10848v1](http://arxiv.org/abs/2301.10848v1)|null|
+|**2023-01-25**|**Enhancing Medical Image Segmentation with TransCeption: A Multi-Scale Feature Fusion Approach**|Reza Azad et.al.|[2301.10847v1](http://arxiv.org/abs/2301.10847v1)|**[link](https://github.com/mindflow-institue/transception)**|
+|**2023-01-25**|**TranSOP: Transformer-based Multimodal Classification for Stroke Treatment Outcome Prediction**|Zeynel A. Samak et.al.|[2301.10829v1](http://arxiv.org/abs/2301.10829v1)|null|
+|**2023-01-25**|**Global well-posedness of the 2D nonlinear Schrödinger equation with multiplicative spatial white noise on the full space**|Ruoyuan Liu et.al.|[2301.10825v1](http://arxiv.org/abs/2301.10825v1)|null|
+|**2023-01-25**|**Multisets and Distributions**|Dexter Kozen et.al.|[2301.10812v1](http://arxiv.org/abs/2301.10812v1)|null|
 |**2023-01-25**|**Out of Distribution Performance of State of Art Vision Model**|Md Salman Rahman et.al.|[2301.10750v1](http://arxiv.org/abs/2301.10750v1)|null|
 |**2023-01-25**|**Tighter Bounds on the Expressivity of Transformer Encoders**|David Chiang et.al.|[2301.10743v1](http://arxiv.org/abs/2301.10743v1)|null|
 |**2023-01-25**|**Distributed Control of Partial Differential Equations Using Convolutional Reinforcement Learning**|Sebastian Peitz et.al.|[2301.10737v1](http://arxiv.org/abs/2301.10737v1)|**[link](https://github.com/janstenner/distributedconvrl-pde-control)**|
