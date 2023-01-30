@@ -324,7 +324,7 @@
 |---|---|---|---|---|
 |**2023-01-26**|**Anatomy-aware and acquisition-agnostic joint registration with SynthMorph**|Malte Hoffmann et.al.|[2301.11329v1](http://arxiv.org/abs/2301.11329v1)|null|
 |**2023-01-26**|**MusicLM: Generating Music From Text**|Andrea Agostinelli et.al.|[2301.11325v1](http://arxiv.org/abs/2301.11325v1)|null|
-|**2023-01-26**|**Proof to count bound state nodes in supersymmetric quantum mechanics**|A. Aynbund et.al.|[2301.11303v1](http://arxiv.org/abs/2301.11303v1)|null|
+|**2023-01-27**|**Proof to count bound state nodes in supersymmetric quantum mechanics**|A. Aynbund et.al.|[2301.11303v2](http://arxiv.org/abs/2301.11303v2)|null|
 |**2023-01-26**|**On Low-Rank Convex-Convex Quadratic Fractional Programming**|Ilya Krishtal et.al.|[2301.11269v1](http://arxiv.org/abs/2301.11269v1)|null|
 |**2023-01-26**|**What is liquid, from Noether's perspective?**|Florian Sammüller et.al.|[2301.11221v1](http://arxiv.org/abs/2301.11221v1)|null|
 |**2023-01-26**|**Time-consistency in the mean-variance problem: A new perspective**|Nicole Bäuerle et.al.|[2301.11218v1](http://arxiv.org/abs/2301.11218v1)|null|
@@ -335,12 +335,12 @@
 |**2023-01-26**|**Atomistic modeling of metal-nonmetal interphase boundary diffusion**|Ian Chesser et.al.|[2301.11172v1](http://arxiv.org/abs/2301.11172v1)|null|
 |**2023-01-26**|**The Method of Harmonic Balance for the Giesekus Model under Oscillatory Shear**|Shivangi Mittal et.al.|[2301.11131v1](http://arxiv.org/abs/2301.11131v1)|null|
 |**2023-01-26**|**A benchmark for toxic comment classification on Civil Comments dataset**|Corentin Duchene et.al.|[2301.11125v1](http://arxiv.org/abs/2301.11125v1)|**[link](https://github.com/Nigiva/hatespeech-detection-models)**|
-|**2023-01-26**|**Kinetic inductive mechano-electric transduction for nano-scale force sensing**|August K. Roos et.al.|[2301.11055v1](http://arxiv.org/abs/2301.11055v1)|null|
+|**2023-01-27**|**Kinetic inductive mechano-electric transduction for nano-scale force sensing**|August K. Roos et.al.|[2301.11055v2](http://arxiv.org/abs/2301.11055v2)|null|
 |**2023-01-26**|**Fourier transform from the symmetric square representation of  $PGL_2$  and  $SL_2$ **|Gérard Laumon et.al.|[2301.11041v1](http://arxiv.org/abs/2301.11041v1)|null|
 |**2023-01-26**|**Semantic Segmentation Enhanced Transformer Model for Human Attention Prediction**|Shuo Zhang et.al.|[2301.11022v1](http://arxiv.org/abs/2301.11022v1)|null|
 |**2023-01-26**|**Transformation and symmetries for the Andrews-Garvan crank function**|Rishabh Sarma et.al.|[2301.10991v1](http://arxiv.org/abs/2301.10991v1)|null|
-|**2023-01-26**|**Beyond scalar quasi-arithmetic means: Quasi-arithmetic averages and quasi-arithmetic mixtures in information geometry**|Frank Nielsen et.al.|[2301.10980v1](http://arxiv.org/abs/2301.10980v1)|null|
-|**2023-01-26**|**Concrat: An Automatic C-to-Rust Lock API Translator for Concurrent Programs**|Jaemin Hong et.al.|[2301.10943v1](http://arxiv.org/abs/2301.10943v1)|null|
+|**2023-01-27**|**Beyond scalar quasi-arithmetic means: Quasi-arithmetic averages and quasi-arithmetic mixtures in information geometry**|Frank Nielsen et.al.|[2301.10980v2](http://arxiv.org/abs/2301.10980v2)|null|
+|**2023-01-27**|**Concrat: An Automatic C-to-Rust Lock API Translator for Concurrent Programs**|Jaemin Hong et.al.|[2301.10943v2](http://arxiv.org/abs/2301.10943v2)|null|
 |**2023-01-26**|**Compact Transformer Tracker with Correlative Masked Modeling**|Zikai Song et.al.|[2301.10938v1](http://arxiv.org/abs/2301.10938v1)|**[link](https://github.com/hustdml/cttrack)**|
 |**2023-01-26**|**SparDA: Accelerating Dynamic Sparse Deep Neural Networks via Sparse-Dense Transformation**|Ningxin Zheng et.al.|[2301.10936v1](http://arxiv.org/abs/2301.10936v1)|null|
 |**2023-01-26**|**Optimizing Feature Set for Click-Through Rate Prediction**|Fuyuan Lyu et.al.|[2301.10909v1](http://arxiv.org/abs/2301.10909v1)|null|
@@ -358,7 +358,7 @@
 |**2023-01-25**|**Regression Models for Directional Data Based on Nonnegative Trigonometric Sums**|J. J. Fernández-Durán et.al.|[2301.10715v1](http://arxiv.org/abs/2301.10715v1)|null|
 |**2023-01-25**|**Transforming photon statistics through zero-photon subtraction**|C. M. Nunn et.al.|[2301.10702v1](http://arxiv.org/abs/2301.10702v1)|null|
 |**2023-01-25**|**Efficient construction of involutory linear combinations of anti-commuting Pauli generators for large-scale iterative qubit coupled cluster calculations**|Ilya G. Ryabinkin et.al.|[2301.10690v1](http://arxiv.org/abs/2301.10690v1)|null|
-|**2023-01-25**|**Transfer Learning in Deep Learning Models for Building Load Forecasting: Case of Limited Data**|Menna Nawar et.al.|[2301.10663v1](http://arxiv.org/abs/2301.10663v1)|**[link](https://github.com/shomerthesec/Research-Buildings-Energy-forecasting-using-Deep-Learning)**|
+|**2023-01-27**|**Transfer Learning in Deep Learning Models for Building Load Forecasting: Case of Limited Data**|Menna Nawar et.al.|[2301.10663v2](http://arxiv.org/abs/2301.10663v2)|**[link](https://github.com/shomerthesec/Research-Buildings-Energy-forecasting-using-Deep-Learning)**|
 |**2023-01-25**|**Bit-complexity estimates in geometric programming, and application to the polynomial-time computation of the spectral radius of nonnegative tensors**|Shmuel Friedland et.al.|[2301.10637v1](http://arxiv.org/abs/2301.10637v1)|null|
 |**2023-01-25**|**Fourier decay of equilibrium states for bunched attractors**|Gaétan Leclerc et.al.|[2301.10623v1](http://arxiv.org/abs/2301.10623v1)|null|
 |**2023-01-25**|**Clueless: A Tool Characterising Values Leaking as Addresses**|Xiaoyue Chen et.al.|[2301.10618v1](http://arxiv.org/abs/2301.10618v1)|null|
