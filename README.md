@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-31**|**Millimetre-wave Radar for Low-Cost 3D Imaging: A Performance Study**|Han Cui et.al.|[2301.13553v1](http://arxiv.org/abs/2301.13553v1)|null|
+|**2023-01-31**|**Recurrent Structure Attention Guidance for Depth Super-Resolution**|Jiayi Yuan et.al.|[2301.13419v1](http://arxiv.org/abs/2301.13419v1)|null|
+|**2023-01-31**|**Structure Flow-Guided Network for Real Depth Super-Resolution**|Jiayi Yuan et.al.|[2301.13416v1](http://arxiv.org/abs/2301.13416v1)|null|
 |**2023-01-27**|**Ultrafast CMOS image sensors and data-enabled super-resolution for multimodal radiographic imaging and tomography**|Xin Yue et.al.|[2301.11865v1](http://arxiv.org/abs/2301.11865v1)|null|
 |**2023-01-30**|**Image Restoration with Mean-Reverting Stochastic Differential Equations**|Ziwei Luo et.al.|[2301.11699v2](http://arxiv.org/abs/2301.11699v2)|**[link](https://github.com/algolzw/image-restoration-sde)**|
 |**2023-01-27**|**Multi-scale and Multi-directional VLBI Imaging with CLEAN**|Hendrik Müller et.al.|[2301.11681v1](http://arxiv.org/abs/2301.11681v1)|null|
@@ -328,6 +331,42 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-31**|**Simplex Random Features**|Isaac Reid et.al.|[2301.13856v1](http://arxiv.org/abs/2301.13856v1)|null|
+|**2023-01-31**|**Multidimensional Quantum Fourier Transformation**|Philipp Pfeffer et.al.|[2301.13835v1](http://arxiv.org/abs/2301.13835v1)|null|
+|**2023-01-31**|**Learning Roles with Emergent Social Value Orientations**|Wenhao Li et.al.|[2301.13812v1](http://arxiv.org/abs/2301.13812v1)|null|
+|**2023-01-31**|**Characteristic functions and Colligations**|Neeru Bala et.al.|[2301.13811v1](http://arxiv.org/abs/2301.13811v1)|null|
+|**2023-01-31**|**Fairness-aware Vision Transformer via Debiased Self-Attention**|Yao Qiang et.al.|[2301.13803v1](http://arxiv.org/abs/2301.13803v1)|null|
+|**2023-01-31**|**CMB signature of non-thermal Dark Matter produced from self-interacting dark sector**|Dilip Kumar Ghosh et.al.|[2301.13754v1](http://arxiv.org/abs/2301.13754v1)|null|
+|**2023-01-31**|**UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**|Dachuan Shi et.al.|[2301.13741v1](http://arxiv.org/abs/2301.13741v1)|null|
+|**2023-01-31**|**The passive symmetries of machine learning**|Soledad Villar et.al.|[2301.13724v1](http://arxiv.org/abs/2301.13724v1)|null|
+|**2023-01-31**|**Application of dimension truncation error analysis to high-dimensional function approximation**|Philipp A. Guth et.al.|[2301.13693v1](http://arxiv.org/abs/2301.13693v1)|null|
+|**2023-01-31**|**Bridging the Covid-19 Data and the Epidemiological Model using Time-Varying Parameter SIRD Model**|Cem Cakmakli et.al.|[2301.13692v1](http://arxiv.org/abs/2301.13692v1)|null|
+|**2023-01-31**|**Time Series Forecasting via Semi-Asymmetric Convolutional Architecture with Global Atrous Sliding Window**|Yuanpeng He et.al.|[2301.13691v1](http://arxiv.org/abs/2301.13691v1)|null|
+|**2023-01-31**|**Automated Sentiment and Hate Speech Analysis of Facebook Data by Employing Multilingual Transformer Models**|Ritumbra Manuvie et.al.|[2301.13668v1](http://arxiv.org/abs/2301.13668v1)|null|
+|**2023-01-31**|**Iterative configuration of programmable unitary converter based on few layer redundant multi-plane light conversion**|Yoshitaka Taguchi et.al.|[2301.13658v1](http://arxiv.org/abs/2301.13658v1)|null|
+|**2023-01-31**|**TopoBERT: Plug and Play Toponym Recognition Module Harnessing Fine-tuned BERT**|Bing Zhou et.al.|[2301.13631v1](http://arxiv.org/abs/2301.13631v1)|null|
+|**2023-01-31**|**Priors are Powerful: Improving a Transformer for Multi-camera 3D Detection with 2D Priors**|Di Feng et.al.|[2301.13592v1](http://arxiv.org/abs/2301.13592v1)|null|
+|**2023-01-31**|**Skill Decision Transformer**|Shyam Sudhakaran et.al.|[2301.13573v1](http://arxiv.org/abs/2301.13573v1)|null|
+|**2023-01-31**|**Random matrices associated to Young diagrams**|Fabio Deelan Cunden et.al.|[2301.13555v1](http://arxiv.org/abs/2301.13555v1)|null|
+|**2023-01-31**|**Calculating Point Spread Functions: Methods, Pitfalls and Solutions**|Ratsimandresy Holinirina Dina Miora et.al.|[2301.13515v1](http://arxiv.org/abs/2301.13515v1)|null|
+|**2023-01-31**|**Fourier Sensitivity and Regularization of Computer Vision Models**|Kiran Krishnamachari et.al.|[2301.13514v1](http://arxiv.org/abs/2301.13514v1)|null|
+|**2023-01-31**|**Monocular Scene Reconstruction with 3D SDF Transformers**|Weihao Yuan et.al.|[2301.13510v1](http://arxiv.org/abs/2301.13510v1)|null|
+|**2023-01-31**|**Robust Linear Regression: Gradient-descent, Early-stopping, and Beyond**|Meyer Scetbon et.al.|[2301.13486v1](http://arxiv.org/abs/2301.13486v1)|null|
+|**2023-01-31**|**A survey on the Hausdorff dimension of intersections**|Pertti Mattila et.al.|[2301.13478v1](http://arxiv.org/abs/2301.13478v1)|null|
+|**2023-01-31**|**Distribution of the number of pivots needed using Gaussian elimination with partial pivoting on random matrices**|John Peca-Medlin et.al.|[2301.13452v1](http://arxiv.org/abs/2301.13452v1)|null|
+|**2023-01-31**|**Hopf-Rinow Theorem of sub-Finslerian geometry**|Layth M. Alabdulsada et.al.|[2301.13438v1](http://arxiv.org/abs/2301.13438v1)|null|
+|**2023-01-31**|**A Modular Multi-stage Lightweight Graph Transformer Network for Human Pose and Shape Estimation from 2D Human Pose**|Ayman Ali et.al.|[2301.13403v1](http://arxiv.org/abs/2301.13403v1)|null|
+|**2023-01-31**|**An Comparative Analysis of Different Pitch and Metrical Grid Encoding Methods in the Task of Sequential Music Generation**|Yuqiang Li et.al.|[2301.13383v1](http://arxiv.org/abs/2301.13383v1)|null|
+|**2023-01-31**|**Numeracy from Literacy: Data Science as an Emergent Skill from Large Language Models**|David Noever et.al.|[2301.13382v1](http://arxiv.org/abs/2301.13382v1)|null|
+|**2023-01-31**|**Improving Open-Domain Dialogue Evaluation with a Causal Inference Model**|Cat P. Le et.al.|[2301.13372v1](http://arxiv.org/abs/2301.13372v1)|null|
+|**2023-01-31**|**Hierarchical Disentangled Representation for Invertible Image Denoising and Beyond**|Wenchao Du et.al.|[2301.13358v1](http://arxiv.org/abs/2301.13358v1)|null|
+|**2023-01-31**|**Inference Time Evidences of Adversarial Attacks for Forensic on Transformers**|Hugo Lemarchant et.al.|[2301.13356v1](http://arxiv.org/abs/2301.13356v1)|null|
+|**2023-01-31**|**Anomalous compressible mode generation by global frame projections of pure Alfven mode**|Ka Ho Yuen et.al.|[2301.13344v1](http://arxiv.org/abs/2301.13344v1)|null|
+|**2023-01-31**|**Continuous Spatiotemporal Transformers**|Antonio H. de O. Fonseca et.al.|[2301.13338v1](http://arxiv.org/abs/2301.13338v1)|null|
+|**2023-01-30**|**Pseudo 3D Perception Transformer with Multi-level Confidence Optimization for Visual Commonsense Reasoning**|Jian Zhu et.al.|[2301.13335v1](http://arxiv.org/abs/2301.13335v1)|null|
+|**2023-01-30**|**Alternating Updates for Efficient Transformers**|Cenk Baykal et.al.|[2301.13310v1](http://arxiv.org/abs/2301.13310v1)|null|
+|**2023-01-30**|**Do entangled states correspond to entangled measurements under local transformations?**|Florian Pimpel et.al.|[2301.13285v1](http://arxiv.org/abs/2301.13285v1)|null|
+|**2023-01-30**|**Copula-based dependence measures for arbitrary data**|Bouchra R. Nasri et.al.|[2301.13259v1](http://arxiv.org/abs/2301.13259v1)|null|
 |**2023-01-30**|**Looped Transformers as Programmable Computers**|Angeliki Giannou et.al.|[2301.13196v1](http://arxiv.org/abs/2301.13196v1)|null|
 |**2023-01-30**|**SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation**|Qiang Wan et.al.|[2301.13156v1](http://arxiv.org/abs/2301.13156v1)|**[link](https://github.com/fudan-zvg/seaformer)**|
 |**2023-01-30**|**LEXTREME: A Multi-Lingual and Multi-Task Benchmark for the Legal Domain**|Joel Niklaus et.al.|[2301.13126v1](http://arxiv.org/abs/2301.13126v1)|null|
