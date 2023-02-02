@@ -331,6 +331,38 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-01**|**ADAPT: Action-aware Driving Caption Transformer**|Bu Jin et.al.|[2302.00673v1](http://arxiv.org/abs/2302.00673v1)|**[link](https://github.com/jxbbb/adapt)**|
+|**2023-02-01**|**'Generative CI' through Collective Response Systems**|Aviv Ovadya et.al.|[2302.00672v1](http://arxiv.org/abs/2302.00672v1)|null|
+|**2023-02-01**|**Extrinsic Calibration of 2D mm-Wavelength Radar Pairs Using Ego-Velocity Estimates**|Qilong Cheng et.al.|[2302.00660v1](http://arxiv.org/abs/2302.00660v1)|null|
+|**2023-02-01**|**Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization**|Zejia Weng et.al.|[2302.00624v1](http://arxiv.org/abs/2302.00624v1)|null|
+|**2023-02-01**|**Lump and Soliton on Certain Spatially-varying Backgrounds for an Integrable (3+1) Dimensional Fifth-order Nonlinear Oceanic Wave Model**|Sudhir Singh et.al.|[2302.00614v1](http://arxiv.org/abs/2302.00614v1)|null|
+|**2023-02-01**|**Clinical Decision Transformer: Intended Treatment Recommendation through Goal Prompting**|Seunghyun Lee et.al.|[2302.00612v1](http://arxiv.org/abs/2302.00612v1)|null|
+|**2023-02-01**|**Anomaly Inflow of Rarita-Schwinger Field in 3 Dimensions**|Saki Koizumi et.al.|[2302.00597v1](http://arxiv.org/abs/2302.00597v1)|null|
+|**2023-02-01**|**Time-warped Trials**|Eric Easthope et.al.|[2302.00583v1](http://arxiv.org/abs/2302.00583v1)|null|
+|**2023-02-01**|**Feed-Forward Blocks Control Contextualization in Masked Language Models**|Goro Kobayashi et.al.|[2302.00456v1](http://arxiv.org/abs/2302.00456v1)|null|
+|**2023-02-01**|**Microwave response to kink oscillations of a plasma slab**|T. I. Kaltman et.al.|[2302.00451v1](http://arxiv.org/abs/2302.00451v1)|null|
+|**2023-02-01**|**Do I Have Your Attention: A Large Scale Engagement Prediction Dataset and Baselines**|Monisha Singh et.al.|[2302.00431v1](http://arxiv.org/abs/2302.00431v1)|null|
+|**2023-02-01**|**Fast and direct inversion methods for the multivariate nonequispaced fast Fourier transform**|Melanie Kircheis et.al.|[2302.00414v1](http://arxiv.org/abs/2302.00414v1)|null|
+|**2023-02-01**|**Hierarchical Classification of Research Fields in the "Web of Science" Using Deep Learning**|Susie Xi Rao et.al.|[2302.00390v1](http://arxiv.org/abs/2302.00390v1)|null|
+|**2023-02-01**|**Multimodality Representation Learning: A Survey on Evolution, Pretraining and Its Applications**|Muhammad Arslan Manzoor et.al.|[2302.00389v1](http://arxiv.org/abs/2302.00389v1)|null|
+|**2023-02-01**|**An Empirical Study on the Transferability of Transformer Modules in Parameter-Efficient Fine-Tuning**|Mohammad AkbarTajari et.al.|[2302.00378v1](http://arxiv.org/abs/2302.00378v1)|null|
+|**2023-02-01**|**Predicting CSI Sequences With Attention-Based Neural Networks**|Valentina Rizzello et.al.|[2302.00341v1](http://arxiv.org/abs/2302.00341v1)|null|
+|**2023-02-01**|**Attention Link: An Efficient Attention-Based Low Resource Machine Translation Architecture**|Zeping Min et.al.|[2302.00340v1](http://arxiv.org/abs/2302.00340v1)|null|
+|**2023-02-01**|**Galois Points and Cremona Transformations**|Ahmed Abouelsaad et.al.|[2302.00324v1](http://arxiv.org/abs/2302.00324v1)|null|
+|**2023-02-01**|**An Evaluation of Persian-English Machine Translation Datasets with Transformers**|Amir Sartipi et.al.|[2302.00321v1](http://arxiv.org/abs/2302.00321v1)|null|
+|**2023-02-01**|**Remarks on higher Schwarzians**|Anton Galajinsky et.al.|[2302.00317v1](http://arxiv.org/abs/2302.00317v1)|null|
+|**2023-02-01**|**Particles on Demand method: theoretical analysis, simplification techniques and model extensions**|N. G. Kallikounis et.al.|[2302.00310v1](http://arxiv.org/abs/2302.00310v1)|null|
+|**2023-02-01**|**The geometry of hidden representations of large transformer models**|Lucrezia Valeriani et.al.|[2302.00294v1](http://arxiv.org/abs/2302.00294v1)|null|
+|**2023-02-01**|**Multispectral Pedestrian Detection via Reference Box Constrained Cross Attention and Modality Balanced Optimization**|Yinghui Xing et.al.|[2302.00290v1](http://arxiv.org/abs/2302.00290v1)|null|
+|**2023-02-01**|**Identifying the SN 2022acko progenitor with JWST**|Schuyler D. Van Dyk et.al.|[2302.00274v1](http://arxiv.org/abs/2302.00274v1)|null|
+|**2023-02-01**|**Generative Adversarial Symmetry Discovery**|Jianke Yang et.al.|[2302.00236v1](http://arxiv.org/abs/2302.00236v1)|null|
+|**2023-02-01**|**Efficient Scopeformer: Towards Scalable and Rich Feature Extraction for Intracranial Hemorrhage Detection**|Yassine Barhoumi et.al.|[2302.00220v1](http://arxiv.org/abs/2302.00220v1)|null|
+|**2023-02-01**|**Adjacency matrices over a finite prime field and their direct sum decompositions**|Akihiro Higashitani et.al.|[2302.00199v1](http://arxiv.org/abs/2302.00199v1)|null|
+|**2023-02-01**|**Local transfer learning from one data space to another**|H. N. Mhaskar et.al.|[2302.00160v1](http://arxiv.org/abs/2302.00160v1)|null|
+|**2023-01-31**|**Gyri vs. Sulci: Disentangling Brain Core-Periphery Functional Networks via Twin-Transformer**|Xiaowei Yu et.al.|[2302.00146v1](http://arxiv.org/abs/2302.00146v1)|null|
+|**2023-01-31**|**Real Estate Property Valuation using Self-Supervised Vision Transformers**|Mahdieh Yazdani et.al.|[2302.00117v1](http://arxiv.org/abs/2302.00117v1)|null|
+|**2023-01-31**|**A time-orbiting potential chip trap for cold atoms**|C. A. Sackett et.al.|[2302.00078v1](http://arxiv.org/abs/2302.00078v1)|null|
+|**2023-01-31**|**Transformers Meet Directed Graphs**|Simon Geisler et.al.|[2302.00049v1](http://arxiv.org/abs/2302.00049v1)|**[link](https://github.com/deepmind/digraph_transformer)**|
 |**2023-01-31**|**Simplex Random Features**|Isaac Reid et.al.|[2301.13856v1](http://arxiv.org/abs/2301.13856v1)|null|
 |**2023-01-31**|**Multidimensional Quantum Fourier Transformation**|Philipp Pfeffer et.al.|[2301.13835v1](http://arxiv.org/abs/2301.13835v1)|null|
 |**2023-01-31**|**Learning Roles with Emergent Social Value Orientations**|Wenhao Li et.al.|[2301.13812v1](http://arxiv.org/abs/2301.13812v1)|null|
