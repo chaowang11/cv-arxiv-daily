@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**A statistically constrained internal method for single image super-resolution**|Pierrick Chatillon et.al.|[2302.01648v1](http://arxiv.org/abs/2302.01648v1)|null|
+|**2023-02-02**|**Benchmarking Probabilistic Deep Learning Methods for License Plate Recognition**|Franziska Schirrmacher et.al.|[2302.01427v1](http://arxiv.org/abs/2302.01427v1)|null|
+|**2023-02-02**|**Energy-Inspired Self-Supervised Pretraining for Vision Models**|Ze Wang et.al.|[2302.01384v1](http://arxiv.org/abs/2302.01384v1)|null|
 |**2023-02-02**|**An Operator Theory for Analyzing the Resolution of Multi-illumination Imaging Modalities**|Ping Liu et.al.|[2302.01033v1](http://arxiv.org/abs/2302.01033v1)|null|
 |**2023-01-31**|**Millimetre-wave Radar for Low-Cost 3D Imaging: A Performance Study**|Han Cui et.al.|[2301.13553v1](http://arxiv.org/abs/2301.13553v1)|null|
 |**2023-01-31**|**Recurrent Structure Attention Guidance for Depth Super-Resolution**|Jiayi Yuan et.al.|[2301.13419v1](http://arxiv.org/abs/2301.13419v1)|null|
@@ -145,6 +148,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**A statistically constrained internal method for single image super-resolution**|Pierrick Chatillon et.al.|[2302.01648v1](http://arxiv.org/abs/2302.01648v1)|null|
 |**2023-01-30**|**Image Restoration with Mean-Reverting Stochastic Differential Equations**|Ziwei Luo et.al.|[2301.11699v2](http://arxiv.org/abs/2301.11699v2)|**[link](https://github.com/algolzw/image-restoration-sde)**|
 |**2023-01-24**|**Image Super-Resolution using Efficient Striped Window Transformer**|Jinpeng Shi et.al.|[2301.09869v1](http://arxiv.org/abs/2301.09869v1)|**[link](https://github.com/fried-rice-lab/friedricelab)**|
 |**2023-01-20**|**CSwin2SR: Circular Swin2SR for Compressed Image Super-Resolution**|Honggui Li et.al.|[2301.08749v1](http://arxiv.org/abs/2301.08749v1)|null|
@@ -332,6 +336,47 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers**|Krzysztof Marcin Choromanski et.al.|[2302.01925v1](http://arxiv.org/abs/2302.01925v1)|null|
+|**2023-02-03**|**From Robustness to Privacy and Back**|Hilal Asi et.al.|[2302.01855v1](http://arxiv.org/abs/2302.01855v1)|null|
+|**2023-02-03**|**Entity-Agnostic Representation Learning for Parameter-Efficient Knowledge Graph Embedding**|Mingyang Chen et.al.|[2302.01849v1](http://arxiv.org/abs/2302.01849v1)|null|
+|**2023-02-03**|**Investigating Stylistic Profiles for the Task of Empathy Classification in Medical Narrative Essays**|Priyanka Dey et.al.|[2302.01839v1](http://arxiv.org/abs/2302.01839v1)|null|
+|**2023-02-03**|**Coinductive guide to inductive transformer heads**|Adam Nemecek et.al.|[2302.01834v1](http://arxiv.org/abs/2302.01834v1)|null|
+|**2023-02-03**|**HDFormer: High-order Directed Transformer for 3D Human Pose Estimation**|Hanyuan Chen et.al.|[2302.01825v1](http://arxiv.org/abs/2302.01825v1)|null|
+|**2023-02-03**|**Lexical Simplification using multi level and modular approach**|Nikita Katyal et.al.|[2302.01823v1](http://arxiv.org/abs/2302.01823v1)|null|
+|**2023-02-03**|**Creating Probabilistic Forecasts from Arbitrary Deterministic Forecasts using Conditional Invertible Neural Networks**|Kaleb Phipps et.al.|[2302.01800v1](http://arxiv.org/abs/2302.01800v1)|null|
+|**2023-02-03**|**Theory of intermediate twinning and spontaneous polarization in the phase transformations of ferroelectric potassium sodium niobate**|Georgios Grekas et.al.|[2302.01797v1](http://arxiv.org/abs/2302.01797v1)|null|
+|**2023-02-03**|**DilateFormer: Multi-Scale Dilated Transformer for Visual Recognition**|Jiayu Jiao et.al.|[2302.01791v1](http://arxiv.org/abs/2302.01791v1)|**[link](https://github.com/jiaojiayuasd/dilateformer)**|
+|**2023-02-03**|**Absence of fractal quantum criticality in the quantum Newman-Moore model**|R. Wiedmann et.al.|[2302.01773v1](http://arxiv.org/abs/2302.01773v1)|null|
+|**2023-02-03**|**A Robust Time-Delay Approach to Extremum Seeking via ISS Analysis of the Averaged System**|Xuefei Yang et.al.|[2302.01732v1](http://arxiv.org/abs/2302.01732v1)|null|
+|**2023-02-03**|**Analysis of the limiting spectral distribution of large dimensional General information-plus-noise type matrices**|Huanchao Zhou et.al.|[2302.01711v1](http://arxiv.org/abs/2302.01711v1)|null|
+|**2023-02-03**|**Orthogonal-Time-Frequency-Space Signal Design for Integrated Data and Energy Transfer: Benefits from Doppler Offsets**|Jie Hu et.al.|[2302.01697v1](http://arxiv.org/abs/2302.01697v1)|null|
+|**2023-02-03**|**Show me your NFT and I tell you how it will perform: Multimodal representation learning for NFT selling price prediction**|Davide Costa et.al.|[2302.01676v1](http://arxiv.org/abs/2302.01676v1)|null|
+|**2023-02-03**|**All-coupling solution for the continuous polaron problem in the Schrödinger representation**|I. D. Feranchuk et.al.|[2302.01669v1](http://arxiv.org/abs/2302.01669v1)|null|
+|**2023-02-03**|**CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data**|Junyi Ma et.al.|[2302.01665v1](http://arxiv.org/abs/2302.01665v1)|**[link](https://github.com/bit-mjy/cvtnet)**|
+|**2023-02-03**|**Topological Gauging and Double Current Deformations**|Sergei Dubovsky et.al.|[2302.01654v1](http://arxiv.org/abs/2302.01654v1)|null|
+|**2023-02-03**|**ShadowFormer: Global Context Helps Image Shadow Removal**|Lanqing Guo et.al.|[2302.01650v1](http://arxiv.org/abs/2302.01650v1)|**[link](https://github.com/guolanqing/shadowformer)**|
+|**2023-02-03**|**Is the Gompertz family a good fit to your data?**|Dennis Dobler et.al.|[2302.01639v1](http://arxiv.org/abs/2302.01639v1)|null|
+|**2023-02-03**|**CFFT-GAN: Cross-domain Feature Fusion Transformer for Exemplar-based Image Translation**|Tianxiang Ma et.al.|[2302.01608v1](http://arxiv.org/abs/2302.01608v1)|null|
+|**2023-02-03**|**SCCAM: Supervised Contrastive Convolutional Attention Mechanism for Ante-hoc Interpretable Fault Diagnosis with Limited Fault Samples**|Mengxuan Li et.al.|[2302.01599v1](http://arxiv.org/abs/2302.01599v1)|null|
+|**2023-02-03**|**A Novel Fuzzy Bi-Clustering Algorithm with AFS for Identification of Co-Regulated Genes**|Kaijie Xu et.al.|[2302.01596v1](http://arxiv.org/abs/2302.01596v1)|null|
+|**2023-02-03**|**Analysis of mesh-based motion compensation in wavelet lifting of dynamical 3-D+t CT data**|Wolfgang Schnurrer et.al.|[2302.01594v1](http://arxiv.org/abs/2302.01594v1)|null|
+|**2023-02-03**|**Bioformer: an efficient transformer language model for biomedical text mining**|Li Fang et.al.|[2302.01588v1](http://arxiv.org/abs/2302.01588v1)|null|
+|**2023-02-03**|**Topological fundamental groupoid. I**|Rohit Dilip Holkar et.al.|[2302.01583v1](http://arxiv.org/abs/2302.01583v1)|null|
+|**2023-02-03**|**Controlling for Stereotypes in Multimodal Language Model Evaluation**|Manuj Malik et.al.|[2302.01582v1](http://arxiv.org/abs/2302.01582v1)|null|
+|**2023-02-03**|**Jaynes-Cummings interaction between low energy free-electrons and cavity photons**|Aviv Karnieli et.al.|[2302.01575v1](http://arxiv.org/abs/2302.01575v1)|null|
+|**2023-02-03**|**DEVICE: DEpth and VIsual ConcEpts Aware Transformer for TextCaps**|Dongsheng Xu et.al.|[2302.01540v1](http://arxiv.org/abs/2302.01540v1)|null|
+|**2023-02-03**|**Revisiting Intermediate Layer Distillation for Compressing Language Models: An Overfitting Perspective**|Jongwoo Ko et.al.|[2302.01530v1](http://arxiv.org/abs/2302.01530v1)|null|
+|**2023-02-03**|**Failure-informed adaptive sampling for PINNs, Part II: combining with re-sampling and subset simulation**|Zhiwei Gao et.al.|[2302.01529v1](http://arxiv.org/abs/2302.01529v1)|null|
+|**2023-02-03**|**An AsFem implementation for quasi-static brittle fracture phase field model**|Yuanfeng Yu et.al.|[2302.01510v1](http://arxiv.org/abs/2302.01510v1)|null|
+|**2023-02-03**|**Closed-Form Solution for Scaling a Wireless Acoustic Sensor Network**|Kashyap Patel et.al.|[2302.01505v1](http://arxiv.org/abs/2302.01505v1)|null|
+|**2023-02-02**|**A sliced-Wasserstein distance-based approach for out-of-class-distribution detection**|Mohammad Shifat E Rabbi et.al.|[2302.01459v1](http://arxiv.org/abs/2302.01459v1)|null|
+|**2023-02-02**|**Whitham modulation theory for the defocusing nonlinear Schrodinger equation in two and three spatial dimensions**|Asela Abeya et.al.|[2302.01426v1](http://arxiv.org/abs/2302.01426v1)|null|
+|**2023-02-02**|**Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective**|Michael E. Sander et.al.|[2302.01425v1](http://arxiv.org/abs/2302.01425v1)|null|
+|**2023-02-02**|**Analysis of view aliasing for the generalized Radon transform in  $\mathbb R^2$ **|Alexander Katsevich et.al.|[2302.01412v1](http://arxiv.org/abs/2302.01412v1)|null|
+|**2023-02-02**|**The unreasonable effectiveness of few-shot learning for machine translation**|Xavier Garcia et.al.|[2302.01398v1](http://arxiv.org/abs/2302.01398v1)|null|
+|**2023-02-02**|**Source and defect localization in thin elastic plates of arbitrary geometry using eigenmodes**|Martin Lott et.al.|[2302.01393v1](http://arxiv.org/abs/2302.01393v1)|null|
+|**2023-02-02**|**Controlling the Skyrmion Density and Size for Quantized Convolutional Neural Networks**|Aijaz H. Lone et.al.|[2302.01390v1](http://arxiv.org/abs/2302.01390v1)|null|
+|**2023-02-02**|**Signature SDEs from an affine and polynomial perspective**|Christa Cuchiero et.al.|[2302.01362v1](http://arxiv.org/abs/2302.01362v1)|null|
 |**2023-02-02**|**Dreamix: Video Diffusion Models are General Video Editors**|Eyal Molad et.al.|[2302.01329v1](http://arxiv.org/abs/2302.01329v1)|null|
 |**2023-02-02**|**Dual PatchNorm**|Manoj Kumar et.al.|[2302.01327v1](http://arxiv.org/abs/2302.01327v1)|null|
 |**2023-02-02**|**Accelerating Large Language Model Decoding with Speculative Sampling**|Charlie Chen et.al.|[2302.01318v1](http://arxiv.org/abs/2302.01318v1)|null|
