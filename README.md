@@ -344,7 +344,7 @@
 |**2023-02-06**|**Beyond Statistical Similarity: Rethinking Metrics for Deep Generative Models in Engineering Design**|Lyle Regenwetter et.al.|[2302.02913v1](http://arxiv.org/abs/2302.02913v1)|null|
 |**2023-02-06**|**Spectral Augmentations for Graph Contrastive Learning**|Amur Ghose et.al.|[2302.02909v1](http://arxiv.org/abs/2302.02909v1)|null|
 |**2023-02-06**|**Controllable Lexical Simplification for English**|Kim Cheng Sheang et.al.|[2302.02900v1](http://arxiv.org/abs/2302.02900v1)|**[link](https://github.com/kimchengsheang/conls)**|
-|**2023-02-06**|**Predictor Feedback Boundary Control of an Unstable Reaction-Diffusion PDEs with Stochastic Input Delay**|Dandan Guan et.al.|[2302.02869v1](http://arxiv.org/abs/2302.02869v1)|null|
+|**2023-02-07**|**Predictor-based Boundary Control of an Unstable Reaction-Diffusion PDEs with Stochastic Input Delay**|Dandan Guan et.al.|[2302.02869v2](http://arxiv.org/abs/2302.02869v2)|null|
 |**2023-02-06**|**Computation vs. Communication Scaling for Future Transformers on Future Hardware**|Suchita Pati et.al.|[2302.02825v1](http://arxiv.org/abs/2302.02825v1)|null|
 |**2023-02-06**|**MixFormer: End-to-End Tracking with Iterative Mixed Attention**|Yutao Cui et.al.|[2302.02814v1](http://arxiv.org/abs/2302.02814v1)|**[link](https://github.com/MCG-NJU/MixFormer)**|
 |**2023-02-06**|**Low-loss interconnects for modular superconducting quantum processors**|Jingjing Niu et.al.|[2302.02751v1](http://arxiv.org/abs/2302.02751v1)|null|
@@ -366,7 +366,7 @@
 |**2023-02-05**|**OAcode: Overall Aesthetic 2D Barcode on Screen**|Zehua Ma et.al.|[2302.02396v1](http://arxiv.org/abs/2302.02396v1)|null|
 |**2023-02-05**|**Clustercentric distance or local density? It depends on galaxy morphology**|B. Vulcani et.al.|[2302.02376v1](http://arxiv.org/abs/2302.02376v1)|null|
 |**2023-02-05**|**Multiple skew orthogonal polynomials and 2-component Pfaff lattice hierarchy**|Shi-Hao Li et.al.|[2302.02375v1](http://arxiv.org/abs/2302.02375v1)|null|
-|**2023-02-05**|**Regulating ChatGPT and other Large Generative AI Models**|Philipp Hacker et.al.|[2302.02337v1](http://arxiv.org/abs/2302.02337v1)|null|
+|**2023-02-07**|**Regulating ChatGPT and other Large Generative AI Models**|Philipp Hacker et.al.|[2302.02337v2](http://arxiv.org/abs/2302.02337v2)|null|
 |**2023-02-05**|**CECT: Controllable Ensemble CNN and Transformer for COVID-19 image classification by capturing both local and global image features**|Zhaoshan Liu et.al.|[2302.02314v1](http://arxiv.org/abs/2302.02314v1)|null|
 |**2023-02-05**|**How to predict critical state: Invariance of Lyapunov exponent in dual spaces**|Tong Liu et.al.|[2302.02281v1](http://arxiv.org/abs/2302.02281v1)|null|
 |**2023-02-04**|**Revisiting Image Deblurring with an Efficient ConvNet**|Lingyan Ruan et.al.|[2302.02234v1](http://arxiv.org/abs/2302.02234v1)|**[link](https://github.com/lingyanruan/lakdnet)**|
@@ -384,7 +384,7 @@
 |**2023-02-04**|**Learning to Agree on Vision Attention for Visual Commonsense Reasoning**|Zhenyang Li et.al.|[2302.02117v1](http://arxiv.org/abs/2302.02117v1)|null|
 |**2023-02-04**|**Knowledge Distillation in Vision Transformers: A Critical Review**|Gousia Habib et.al.|[2302.02108v1](http://arxiv.org/abs/2302.02108v1)|null|
 |**2023-02-04**|**Localization as a key enabler of 6G wireless systems: A comprehensive survey and an outlook**|Stylianos E. Trevlakis et.al.|[2302.02107v1](http://arxiv.org/abs/2302.02107v1)|null|
-|**2023-02-04**|**AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**|Susan Liang et.al.|[2302.02088v1](http://arxiv.org/abs/2302.02088v1)|null|
+|**2023-02-07**|**AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**|Susan Liang et.al.|[2302.02088v2](http://arxiv.org/abs/2302.02088v2)|null|
 |**2023-02-04**|**X-ReID: Cross-Instance Transformer for Identity-Level Person Re-Identification**|Leqi Shen et.al.|[2302.02075v1](http://arxiv.org/abs/2302.02075v1)|null|
 |**2023-02-04**|**Semantic-Guided Image Augmentation with Pre-trained Models**|Bohan Li et.al.|[2302.02070v1](http://arxiv.org/abs/2302.02070v1)|null|
 |**2023-02-03**|**Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers**|Krzysztof Marcin Choromanski et.al.|[2302.01925v1](http://arxiv.org/abs/2302.01925v1)|null|
