@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-07**|**OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer**|Fanghua Yu et.al.|[2302.03453v1](http://arxiv.org/abs/2302.03453v1)|**[link](https://github.com/fanghua-yu/osrt)**|
+|**2023-02-07**|**High-Resolution GAN Inversion for Degraded Images in Large Diverse Datasets**|Yanbo Wang et.al.|[2302.03406v1](http://arxiv.org/abs/2302.03406v1)|**[link](https://github.com/booooooooooo/cri)**|
 |**2023-02-06**|**An Unsupervised Framework for Joint MRI Super Resolution and Gibbs Artifact Removal**|Yikang Liu et.al.|[2302.02849v1](http://arxiv.org/abs/2302.02849v1)|null|
 |**2023-02-03**|**A statistically constrained internal method for single image super-resolution**|Pierrick Chatillon et.al.|[2302.01648v1](http://arxiv.org/abs/2302.01648v1)|null|
 |**2023-02-02**|**Benchmarking Probabilistic Deep Learning Methods for License Plate Recognition**|Franziska Schirrmacher et.al.|[2302.01427v1](http://arxiv.org/abs/2302.01427v1)|null|
@@ -149,6 +151,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-07**|**OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer**|Fanghua Yu et.al.|[2302.03453v1](http://arxiv.org/abs/2302.03453v1)|**[link](https://github.com/fanghua-yu/osrt)**|
 |**2023-02-03**|**A statistically constrained internal method for single image super-resolution**|Pierrick Chatillon et.al.|[2302.01648v1](http://arxiv.org/abs/2302.01648v1)|null|
 |**2023-01-30**|**Image Restoration with Mean-Reverting Stochastic Differential Equations**|Ziwei Luo et.al.|[2301.11699v2](http://arxiv.org/abs/2301.11699v2)|**[link](https://github.com/algolzw/image-restoration-sde)**|
 |**2023-01-24**|**Image Super-Resolution using Efficient Striped Window Transformer**|Jinpeng Shi et.al.|[2301.09869v1](http://arxiv.org/abs/2301.09869v1)|**[link](https://github.com/fried-rice-lab/friedricelab)**|
@@ -337,6 +340,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-07**|**Deep Class-Incremental Learning: A Survey**|Da-Wei Zhou et.al.|[2302.03648v1](http://arxiv.org/abs/2302.03648v1)|**[link](https://github.com/zhoudw-zdw/cil_survey)**|
+|**2023-02-07**|**Identification of Power System Oscillation Modes using Blind Source Separation based on Copula Statistic**|Pooja Algikar et.al.|[2302.03633v1](http://arxiv.org/abs/2302.03633v1)|**[link](https://github.com/apooja1/hobmi)**|
+|**2023-02-07**|**Classifying Tree Topologies along Tropical Line Segments**|Shelby Cox et.al.|[2302.03611v1](http://arxiv.org/abs/2302.03611v1)|null|
+|**2023-02-07**|**NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**|Zihan Zhu et.al.|[2302.03594v1](http://arxiv.org/abs/2302.03594v1)|null|
+|**2023-02-07**|**A Bipartite Ranking Approach to the Two-Sample Problem**|Stephan Clémençon et.al.|[2302.03592v1](http://arxiv.org/abs/2302.03592v1)|null|
+|**2023-02-07**|**Compressed sensing for inverse problems and the sample complexity of the sparse Radon transform**|Giovanni S. Alberti et.al.|[2302.03577v1](http://arxiv.org/abs/2302.03577v1)|null|
+|**2023-02-07**|**Steady solutions for the Schrödinger map equation**|Claudia García et.al.|[2302.03564v1](http://arxiv.org/abs/2302.03564v1)|null|
+|**2023-02-07**|**PhysFormer++: Facial Video-based Physiological Measurement with SlowFast Temporal Difference Transformer**|Zitong Yu et.al.|[2302.03548v1](http://arxiv.org/abs/2302.03548v1)|null|
+|**2023-02-07**|**Magnetic Monopoles with No Strings Attached: A Portal to the Dark Side of Dual Electrodynamics**|Jan Govaerts et.al.|[2302.03526v1](http://arxiv.org/abs/2302.03526v1)|null|
+|**2023-02-07**|**The Fourier, Hilbert and Mellin transforms on a half-line**|Emilia L. K. Blåsten et.al.|[2302.03521v1](http://arxiv.org/abs/2302.03521v1)|null|
+|**2023-02-07**|**Effect of the N3LO three-nucleon contact interaction on p-d scattering observables**|L. Girlanda et.al.|[2302.03468v1](http://arxiv.org/abs/2302.03468v1)|null|
+|**2023-02-07**|**OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer**|Fanghua Yu et.al.|[2302.03453v1](http://arxiv.org/abs/2302.03453v1)|**[link](https://github.com/fanghua-yu/osrt)**|
+|**2023-02-07**|**Bimeromorphic geometry of LCK manifolds**|Liviu Ornea et.al.|[2302.03422v1](http://arxiv.org/abs/2302.03422v1)|null|
+|**2023-02-07**|**Consistency of higher derivative couplings to matter fields in scalar-tensor gravity**|Tact Ikeda et.al.|[2302.03418v1](http://arxiv.org/abs/2302.03418v1)|null|
+|**2023-02-07**|**Inflation vs. Ekpyrosis -- comparing stability in general non-minimal theory**|Debottam Nandi et.al.|[2302.03413v1](http://arxiv.org/abs/2302.03413v1)|null|
+|**2023-02-07**|**Data augmentation for machine learning of chemical process flowsheets**|Lukas Schulze Balhorn et.al.|[2302.03379v1](http://arxiv.org/abs/2302.03379v1)|null|
+|**2023-02-07**|**Population-size-Aware Policy Optimization for Mean-Field Games**|Pengdeng Li et.al.|[2302.03364v1](http://arxiv.org/abs/2302.03364v1)|null|
+|**2023-02-07**|**Towards Better Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach**|Xiang Lan et.al.|[2302.03357v1](http://arxiv.org/abs/2302.03357v1)|null|
+|**2023-02-07**|**Data augmentation for battery materials using lattice scaling**|Eduardo Abenza et.al.|[2302.03356v1](http://arxiv.org/abs/2302.03356v1)|null|
+|**2023-02-07**|**Structured variational approximations with skew normal decomposable graphical models**|Robert Salomone et.al.|[2302.03348v1](http://arxiv.org/abs/2302.03348v1)|null|
+|**2023-02-07**|**A general maximum principle for optimal control of stochastic differential delay systems**|Weijun Meng et.al.|[2302.03339v1](http://arxiv.org/abs/2302.03339v1)|null|
+|**2023-02-07**|**Towards a User Privacy-Aware Mobile Gaming App Installation Prediction Model**|Ido Zehori et.al.|[2302.03332v1](http://arxiv.org/abs/2302.03332v1)|null|
+|**2023-02-07**|**ChatGPT and Software Testing Education: Promises & Perils**|Sajed Jalil et.al.|[2302.03287v1](http://arxiv.org/abs/2302.03287v1)|**[link](https://github.com/sajedjalil/Study-on-ChatGPT)**|
+|**2023-02-07**|**An Elementary Proof of the Transformation Formula for the Dedekind Eta Function**|Ze-Yong Kong et.al.|[2302.03280v1](http://arxiv.org/abs/2302.03280v1)|null|
+|**2023-02-07**|**Relativity and decoherence of spacetime superpositions**|Joshua Foo et.al.|[2302.03259v1](http://arxiv.org/abs/2302.03259v1)|null|
+|**2023-02-07**|**A Tightly Coupled Bi-Level Coordination Framework for CAVs at Road Intersections**|Donglin Li et.al.|[2302.03223v1](http://arxiv.org/abs/2302.03223v1)|null|
+|**2023-02-07**|**Effect of Extended Gravitational Decoupling on Isotropization and Complexity in f(\mathbb{R},\mathbb{T}) Theory**|M. Sharif et.al.|[2302.03217v1](http://arxiv.org/abs/2302.03217v1)|null|
+|**2023-02-06**|**Identifying families of multipartite states with non-trivial local entanglement transformations**|Nicky Kai Hong Li et.al.|[2302.03139v1](http://arxiv.org/abs/2302.03139v1)|null|
+|**2023-02-06**|**Spatial Functa: Scaling Functa to ImageNet Classification and Generation**|Matthias Bauer et.al.|[2302.03130v1](http://arxiv.org/abs/2302.03130v1)|null|
+|**2023-02-06**|**Value distributions of perfect nonlinear functions**|Lukas Kölsch et.al.|[2302.03121v1](http://arxiv.org/abs/2302.03121v1)|null|
+|**2023-02-06**|**Computing the many-body Green's function with adaptive variational quantum dynamics**|Niladri Gomes et.al.|[2302.03093v1](http://arxiv.org/abs/2302.03093v1)|null|
+|**2023-02-06**|**Memory-Based Meta-Learning on Non-Stationary Distributions**|Tim Genewein et.al.|[2302.03067v1](http://arxiv.org/abs/2302.03067v1)|null|
+|**2023-02-06**|**Single Cells Are Spatial Tokens: Transformers for Spatial Transcriptomic Data Imputation**|Hongzhi Wen et.al.|[2302.03038v1](http://arxiv.org/abs/2302.03038v1)|null|
 |**2023-02-06**|**AIM: Adapting Image Models for Efficient Video Action Recognition**|Taojiannan Yang et.al.|[2302.03024v1](http://arxiv.org/abs/2302.03024v1)|null|
 |**2023-02-06**|**V1T: large-scale mouse V1 response prediction using a Vision Transformer**|Bryan M. Li et.al.|[2302.03023v1](http://arxiv.org/abs/2302.03023v1)|null|
 |**2023-02-06**|**Rule-based High-level Hardware-RTL Synthesis of Algorithms, Virtualizing Machines, and Communication Protocols with FPGAs based on Concurrent Communicating Sequential Processes and the ConPro Synthesis Framework**|Stefan Bosse et.al.|[2302.02959v1](http://arxiv.org/abs/2302.02959v1)|null|
