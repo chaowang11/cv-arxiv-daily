@@ -344,7 +344,7 @@
 |**2023-02-07**|**Identification of Power System Oscillation Modes using Blind Source Separation based on Copula Statistic**|Pooja Algikar et.al.|[2302.03633v1](http://arxiv.org/abs/2302.03633v1)|**[link](https://github.com/apooja1/hobmi)**|
 |**2023-02-07**|**Classifying Tree Topologies along Tropical Line Segments**|Shelby Cox et.al.|[2302.03611v1](http://arxiv.org/abs/2302.03611v1)|null|
 |**2023-02-07**|**NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**|Zihan Zhu et.al.|[2302.03594v1](http://arxiv.org/abs/2302.03594v1)|null|
-|**2023-02-07**|**A Bipartite Ranking Approach to the Two-Sample Problem**|Stephan Clémençon et.al.|[2302.03592v1](http://arxiv.org/abs/2302.03592v1)|null|
+|**2023-02-08**|**A Bipartite Ranking Approach to the Two-Sample Problem**|Stephan Clémençon et.al.|[2302.03592v2](http://arxiv.org/abs/2302.03592v2)|null|
 |**2023-02-07**|**Compressed sensing for inverse problems and the sample complexity of the sparse Radon transform**|Giovanni S. Alberti et.al.|[2302.03577v1](http://arxiv.org/abs/2302.03577v1)|null|
 |**2023-02-07**|**Steady solutions for the Schrödinger map equation**|Claudia García et.al.|[2302.03564v1](http://arxiv.org/abs/2302.03564v1)|null|
 |**2023-02-07**|**PhysFormer++: Facial Video-based Physiological Measurement with SlowFast Temporal Difference Transformer**|Zitong Yu et.al.|[2302.03548v1](http://arxiv.org/abs/2302.03548v1)|null|
