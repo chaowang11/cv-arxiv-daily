@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**A Systematic Performance Analysis of Deep Perceptual Loss Networks Breaks Transfer Learning Conventions**|Gustav Grund Pihlgren et.al.|[2302.04032v1](http://arxiv.org/abs/2302.04032v1)|null|
 |**2023-02-07**|**OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer**|Fanghua Yu et.al.|[2302.03453v1](http://arxiv.org/abs/2302.03453v1)|**[link](https://github.com/fanghua-yu/osrt)**|
 |**2023-02-07**|**High-Resolution GAN Inversion for Degraded Images in Large Diverse Datasets**|Yanbo Wang et.al.|[2302.03406v1](http://arxiv.org/abs/2302.03406v1)|**[link](https://github.com/booooooooooo/cri)**|
 |**2023-02-06**|**An Unsupervised Framework for Joint MRI Super Resolution and Gibbs Artifact Removal**|Yikang Liu et.al.|[2302.02849v1](http://arxiv.org/abs/2302.02849v1)|null|
@@ -340,6 +341,47 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**Engineering Arbitrary Hamiltonians in Phase Space**|Lingzhen Guo et.al.|[2302.04257v1](http://arxiv.org/abs/2302.04257v1)|null|
+|**2023-02-08**|**Learning How to Infer Partial MDPs for In-Context Adaptation and Exploration**|Chentian Jiang et.al.|[2302.04250v1](http://arxiv.org/abs/2302.04250v1)|null|
+|**2023-02-08**|**Complete Graphical Language for Hermiticity-Preserving Superoperators**|Titouan Carette et.al.|[2302.04212v1](http://arxiv.org/abs/2302.04212v1)|null|
+|**2023-02-08**|**The earliest DT nuclear fusion discoveries**|M. B. Chadwick et.al.|[2302.04206v1](http://arxiv.org/abs/2302.04206v1)|null|
+|**2023-02-08**|**Early Risk Prediction of Chronic Myeloid Leukemia with Protein Sequences using Machine Learning-based Meta-Ensemble**|Madiha Hameed et.al.|[2302.04200v1](http://arxiv.org/abs/2302.04200v1)|null|
+|**2023-02-08**|**Multiobjective variational quantum optimization for constrained problems: an application to Cash Management**|Pablo Díez-Valle et.al.|[2302.04196v1](http://arxiv.org/abs/2302.04196v1)|null|
+|**2023-02-08**|**Attending to Graph Transformers**|Luis Müller et.al.|[2302.04181v1](http://arxiv.org/abs/2302.04181v1)|**[link](https://github.com/luis-mueller/probing-graph-transformers)**|
+|**2023-02-08**|**On the algebraic approach to GUP in anisotropic space**|André H. Gomes et.al.|[2302.04170v1](http://arxiv.org/abs/2302.04170v1)|null|
+|**2023-02-08**|**Generalizing Neural Wave Functions**|Nicholas Gao et.al.|[2302.04168v1](http://arxiv.org/abs/2302.04168v1)|null|
+|**2023-02-08**|**Optimal Sufficient Requirements on the Embedded Ising Problem in Polynomial Time**|Elisabeth Lobe et.al.|[2302.04162v1](http://arxiv.org/abs/2302.04162v1)|null|
+|**2023-02-08**|**Domain Adaptation of Synthetic Driving Datasets for Real-World Autonomous Driving**|Koustav Mullick et.al.|[2302.04149v1](http://arxiv.org/abs/2302.04149v1)|null|
+|**2023-02-08**|**Controlled non-autonomous matter-wave solitons in spinor Bose-Einstein condensates with spatiotemporal modulation**|Cui-Cui Ding et.al.|[2302.04146v1](http://arxiv.org/abs/2302.04146v1)|null|
+|**2023-02-08**|**Predicting Thrombectomy Recanalization from CT Imaging Using Deep Learning Models**|Haoyue Zhang et.al.|[2302.04143v1](http://arxiv.org/abs/2302.04143v1)|null|
+|**2023-02-08**|**An Empirical Study of Uniform-Architecture Knowledge Distillation in Document Ranking**|Xubo Qin et.al.|[2302.04112v1](http://arxiv.org/abs/2302.04112v1)|null|
+|**2023-02-08**|**Block Diagonalization of Quaternion Circulant Matrices with Applications to Quaternion Tensor Singular Value Decomposition**|Junjun Pan et.al.|[2302.04086v1](http://arxiv.org/abs/2302.04086v1)|null|
+|**2023-02-08**|**Weakly-supervised Representation Learning for Video Alignment and Analysis**|Guy Bar-Shalom et.al.|[2302.04064v1](http://arxiv.org/abs/2302.04064v1)|null|
+|**2023-02-08**|**Automating Code-Related Tasks Through Transformers: The Impact of Pre-training**|Rosalia Tufano et.al.|[2302.04048v1](http://arxiv.org/abs/2302.04048v1)|**[link](https://github.com/rosaliatufano/impact_pre-training)**|
+|**2023-02-08**|**Revisiting Offline Compression: Going Beyond Factorization-based Methods for Transformer Language Models**|Mohammadreza Banaei et.al.|[2302.04045v1](http://arxiv.org/abs/2302.04045v1)|**[link](https://github.com/mohammadrezabanaei/auto-encoder-based-transformer-compression)**|
+|**2023-02-08**|**Data-driven control and transfer learning using neural canonical control structures***|Lukas Ecker et.al.|[2302.04042v1](http://arxiv.org/abs/2302.04042v1)|null|
+|**2023-02-08**|**Zero-shot Sim2Real Adaptation Across Environments**|Buddhika Laknath Semage et.al.|[2302.04013v1](http://arxiv.org/abs/2302.04013v1)|null|
+|**2023-02-08**|**Convolutional Neural Networks Trained to Identify Words Provide a Good Account of Visual Form Priming Effects**|Dong Yin et.al.|[2302.03992v1](http://arxiv.org/abs/2302.03992v1)|**[link](https://github.com/don-yin/orthographic-dnn)**|
+|**2023-02-08**|**Cross-Layer Retrospective Retrieving via Layer Attention**|Yanwen Fang et.al.|[2302.03985v1](http://arxiv.org/abs/2302.03985v1)|**[link](https://github.com/joyfang1106/mrla)**|
+|**2023-02-08**|**Improved Langevin Monte Carlo for stochastic optimization via landscape modification**|Michael C. H. Choi et.al.|[2302.03973v1](http://arxiv.org/abs/2302.03973v1)|null|
+|**2023-02-08**|**Dual-interest Factorization-heads Attention for Sequential Recommendation**|Guanyu Lin et.al.|[2302.03965v1](http://arxiv.org/abs/2302.03965v1)|null|
+|**2023-02-08**|**Learning Interaction-aware Motion Prediction Model for Decision-making in Autonomous Driving**|Zhiyu Huang et.al.|[2302.03939v1](http://arxiv.org/abs/2302.03939v1)|null|
+|**2023-02-08**|**Graph Signal Sampling for Inductive One-Bit Matrix Completion: a Closed-form Solution**|Chao Chen et.al.|[2302.03933v1](http://arxiv.org/abs/2302.03933v1)|**[link](https://github.com/cchao0116/GSIMC-ICLR2023)**|
+|**2023-02-08**|**On the Applicability of Language Models to Block-Based Programs**|Elisabeth Griebl et.al.|[2302.03927v1](http://arxiv.org/abs/2302.03927v1)|null|
+|**2023-02-08**|**Chiral phonons probed by X rays**|Hiroki Ueda et.al.|[2302.03925v1](http://arxiv.org/abs/2302.03925v1)|null|
+|**2023-02-08**|**Predictable MDP Abstraction for Unsupervised Model-Based RL**|Seohong Park et.al.|[2302.03921v1](http://arxiv.org/abs/2302.03921v1)|null|
+|**2023-02-08**|**Comparisons between fast algorithms for the continuous wavelet transform and applications in cosmology: the one-dimensional case**|Yun Wang et.al.|[2302.03909v1](http://arxiv.org/abs/2302.03909v1)|null|
+|**2023-02-08**|**Auto-Learning: An Adversarial Process of Two Pre-trained Models for Natural Language Generation**|Zhengqing Yuan et.al.|[2302.03896v1](http://arxiv.org/abs/2302.03896v1)|null|
+|**2023-02-08**|**Variational Tensor Wavefunctions for the Interacting Quantum Spin Hall Phase**|Yixin Ma et.al.|[2302.03879v1](http://arxiv.org/abs/2302.03879v1)|null|
+|**2023-02-08**|**Neural Artistic Style Transfer with Conditional Adversaria**|P. N. Deelaka et.al.|[2302.03875v1](http://arxiv.org/abs/2302.03875v1)|**[link](https://github.com/nipdep/STGAN)**|
+|**2023-02-08**|**SwinCross: Cross-modal Swin Transformer for Head-and-Neck Tumor Segmentation in PET/CT Images**|Gary Y. Li et.al.|[2302.03861v1](http://arxiv.org/abs/2302.03861v1)|null|
+|**2023-02-08**|**Efficient Adversarial Contrastive Learning via Robustness-Aware Coreset Selection**|Xilie Xu et.al.|[2302.03857v1](http://arxiv.org/abs/2302.03857v1)|null|
+|**2023-02-08**|**Robust Digital Watermarking Method Based on Adaptive Feature Area Extraction and Local Histogram Shifting**|Zi-yu Jiang et.al.|[2302.03837v1](http://arxiv.org/abs/2302.03837v1)|null|
+|**2023-02-08**|**Data-driven Protection of Transformers, Phase Angle Regulators, and Transmission Lines in Interconnected Power Systems**|Pallav Kumar Bera et.al.|[2302.03826v1](http://arxiv.org/abs/2302.03826v1)|null|
+|**2023-02-07**|**Men Can't Always be Transformed into Mice: Decision Algorithms and Complexity for Sorting by Symmetric Reversals**|Xin Tong et.al.|[2302.03797v1](http://arxiv.org/abs/2302.03797v1)|null|
+|**2023-02-07**|**Analyzing the Performance of Deep Encoder-Decoder Networks as Surrogates for a Diffusion Equation**|J. Quetzalcoatl Toledo-Marin et.al.|[2302.03786v1](http://arxiv.org/abs/2302.03786v1)|null|
+|**2023-02-07**|**Transformer-based Models for Long-Form Document Matching: Challenges and Empirical Analysis**|Akshita Jha et.al.|[2302.03765v1](http://arxiv.org/abs/2302.03765v1)|null|
+|**2023-02-07**|**Understanding Why ViT Trains Badly on Small Datasets: An Intuitive Perspective**|Haoran Zhu et.al.|[2302.03751v1](http://arxiv.org/abs/2302.03751v1)|null|
 |**2023-02-07**|**Deep Class-Incremental Learning: A Survey**|Da-Wei Zhou et.al.|[2302.03648v1](http://arxiv.org/abs/2302.03648v1)|**[link](https://github.com/zhoudw-zdw/cil_survey)**|
 |**2023-02-07**|**Identification of Power System Oscillation Modes using Blind Source Separation based on Copula Statistic**|Pooja Algikar et.al.|[2302.03633v1](http://arxiv.org/abs/2302.03633v1)|**[link](https://github.com/apooja1/hobmi)**|
 |**2023-02-07**|**Classifying Tree Topologies along Tropical Line Segments**|Shelby Cox et.al.|[2302.03611v1](http://arxiv.org/abs/2302.03611v1)|null|
