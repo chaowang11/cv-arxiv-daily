@@ -341,6 +341,45 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-09**|**Reversible Vision Transformers**|Karttikeya Mangalam et.al.|[2302.04869v1](http://arxiv.org/abs/2302.04869v1)|**[link](https://github.com/facebookresearch/SlowFast)**|
+|**2023-02-09**|**Lithium Metal Battery Quality Control via Transformer-CNN Segmentation**|Jerome Quenum et.al.|[2302.04824v1](http://arxiv.org/abs/2302.04824v1)|null|
+|**2023-02-09**|**Dimension reduction and redundancy removal through successive Schmidt decompositions**|Ammar Daskin et.al.|[2302.04801v1](http://arxiv.org/abs/2302.04801v1)|null|
+|**2023-02-09**|**Log-Paradox: Necessary and sufficient conditions for confounding statistically significant pattern reversal under the log-transform**|Ben Cardoen et.al.|[2302.04780v1](http://arxiv.org/abs/2302.04780v1)|null|
+|**2023-02-09**|**HybrIK-Transformer**|Boris N. Oreshkin et.al.|[2302.04774v1](http://arxiv.org/abs/2302.04774v1)|null|
+|**2023-02-09**|**Electron-irradiation-facilitated production of chemically homogenized nanotwins in nanolaminated carbides**|Hui Zhang et.al.|[2302.04773v1](http://arxiv.org/abs/2302.04773v1)|null|
+|**2023-02-09**|**On Sampling with Approximate Transport Maps**|Louis Grenioux et.al.|[2302.04763v1](http://arxiv.org/abs/2302.04763v1)|**[link](https://github.com/h2o64/flow_mcmc)**|
+|**2023-02-09**|**Lightweight Transformers for Clinical Natural Language Processing**|Omid Rohanian et.al.|[2302.04725v1](http://arxiv.org/abs/2302.04725v1)|null|
+|**2023-02-09**|**Non-Hermitian fermions with effective mass**|F. C. E. Lima et.al.|[2302.04706v1](http://arxiv.org/abs/2302.04706v1)|null|
+|**2023-02-09**|**Interplay of Mechanochemistry and Material Processes in the Graphite to Diamond Phase Transformation**|Brenden W. Hamilton et.al.|[2302.04684v1](http://arxiv.org/abs/2302.04684v1)|null|
+|**2023-02-09**|**Nucleon relativistic polarization and magnetization distributions**|Yi Chen et.al.|[2302.04672v1](http://arxiv.org/abs/2302.04672v1)|null|
+|**2023-02-09**|**Dual scaling of rating data**|Michel van de Velden et.al.|[2302.04627v1](http://arxiv.org/abs/2302.04627v1)|null|
+|**2023-02-09**|**Generating a Structured Summary of Numerous Academic Papers: Dataset and Method**|Shuaiqi Liu et.al.|[2302.04580v1](http://arxiv.org/abs/2302.04580v1)|**[link](https://github.com/stevenlau6/bigsurvey)**|
+|**2023-02-09**|**NLP-based Decision Support System for Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank**|Christian Hänig et.al.|[2302.04562v1](http://arxiv.org/abs/2302.04562v1)|null|
+|**2023-02-09**|**Lorentz Equivariant Model for Knowledge-Enhanced Collaborative Filtering**|Bosong Huang et.al.|[2302.04545v1](http://arxiv.org/abs/2302.04545v1)|null|
+|**2023-02-09**|**IH-ViT: Vision Transformer-based Integrated Circuit Appear-ance Defect Detection**|Xiaoibin Wang et.al.|[2302.04521v1](http://arxiv.org/abs/2302.04521v1)|null|
+|**2023-02-09**|**Length orthospectrum and the correlation function on flat tori**|Nguyen Viet Dang et.al.|[2302.04512v1](http://arxiv.org/abs/2302.04512v1)|null|
+|**2023-02-09**|**A Large-Scale Analysis of Persian Tweets Regarding Covid-19 Vaccination**|Taha ShabaniMirzaei et.al.|[2302.04511v1](http://arxiv.org/abs/2302.04511v1)|null|
+|**2023-02-09**|**MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing**|Zhe Li et.al.|[2302.04501v1](http://arxiv.org/abs/2302.04501v1)|null|
+|**2023-02-09**|**RIS-Position and Orientation Estimation in Dispersive mmWave MIMO Scenarios**|Sheng Hong et.al.|[2302.04499v1](http://arxiv.org/abs/2302.04499v1)|null|
+|**2023-02-09**|**An Expressive Ansatz for Low-Depth Quantum Optimisation**|V. Vijendran et.al.|[2302.04479v1](http://arxiv.org/abs/2302.04479v1)|null|
+|**2023-02-09**|**GFM: Building Geospatial Foundation Models via Continual Pretraining**|Matias Mendieta et.al.|[2302.04476v1](http://arxiv.org/abs/2302.04476v1)|null|
+|**2023-02-09**|**Pego theorem on compact groups**|Manoj Kumar et.al.|[2302.04470v1](http://arxiv.org/abs/2302.04470v1)|null|
+|**2023-02-09**|**Joint Acoustic Echo Cancellation and Speech Dereverberation Using Kalman filters**|Ziteng Wang et.al.|[2302.04469v1](http://arxiv.org/abs/2302.04469v1)|null|
+|**2023-02-09**|**Hubbard-Stratonovich Detector for Simple Trainable MIMO Signal Detection**|Satoshi Takabe et.al.|[2302.04461v1](http://arxiv.org/abs/2302.04461v1)|null|
+|**2023-02-09**|**A data variation robust learning model based on importance sampling**|Jiangshe Zhang et.al.|[2302.04438v1](http://arxiv.org/abs/2302.04438v1)|null|
+|**2023-02-09**|**A Transformer-based Response Evaluator for Open-Domain Spoken Conversation**|Vrindavan Harrison et.al.|[2302.04424v1](http://arxiv.org/abs/2302.04424v1)|**[link](https://github.com/vrindiesel/athena-rr)**|
+|**2023-02-09**|**Extended Decoupled Anisotropic Solutions in  $f(\mathcal{R},\mathcal{T},\mathcal{R}_{γχ}\mathcal{T}^{γχ})$  Gravity**|M. Sharif et.al.|[2302.04405v1](http://arxiv.org/abs/2302.04405v1)|null|
+|**2023-02-09**|**Optimized Hybrid Focal Margin Loss for Crack Segmentation**|Jiajie Chen et.al.|[2302.04395v1](http://arxiv.org/abs/2302.04395v1)|null|
+|**2023-02-08**|**Bandwidth Control and Symmetry Breaking in a Mott-Hubbard Correlated Metal**|Lishai Shoham et.al.|[2302.04372v1](http://arxiv.org/abs/2302.04372v1)|null|
+|**2023-02-08**|**Sentiment analysis and opinion mining on educational data: A survey**|Thanveer Shaik et.al.|[2302.04359v1](http://arxiv.org/abs/2302.04359v1)|null|
+|**2023-02-08**|**Mitigating Bias in Visual Transformers via Targeted Alignment**|Sruthi Sudhakar et.al.|[2302.04358v1](http://arxiv.org/abs/2302.04358v1)|null|
+|**2023-02-08**|**BLO spaces associated with Laguerre polynomials expansions**|J. J. Betancor et.al.|[2302.04356v1](http://arxiv.org/abs/2302.04356v1)|null|
+|**2023-02-08**|**Finding and Representing Solutions to Transmission Problems for Open Channels**|Charles L. Epstein et.al.|[2302.04353v1](http://arxiv.org/abs/2302.04353v1)|null|
+|**2023-02-08**|**CRL+: A Novel Semi-Supervised Deep Active Contrastive Representation Learning-Based Text Classification Model for Insurance Data**|Amir Namavar Jahromi et.al.|[2302.04343v1](http://arxiv.org/abs/2302.04343v1)|null|
+|**2023-02-08**|**Adapting Pre-trained Vision Transformers from 2D to 3D through Weight Inflation Improves Medical Image Segmentation**|Yuhui Zhang et.al.|[2302.04303v1](http://arxiv.org/abs/2302.04303v1)|**[link](https://github.com/yuhui-zh15/transseg)**|
+|**2023-02-08**|**Beating binary powering for polynomial matrices**|Alin Bostan et.al.|[2302.04299v1](http://arxiv.org/abs/2302.04299v1)|null|
+|**2023-02-08**|**Matrix monotonicity and concavity of the principal pivot transform**|Kenneth Beard et.al.|[2302.04293v1](http://arxiv.org/abs/2302.04293v1)|null|
+|**2023-02-08**|**A framework for phase transitions between the Maxwell and Gibbs constructions**|Constantinos Constantinou et.al.|[2302.04289v1](http://arxiv.org/abs/2302.04289v1)|null|
 |**2023-02-08**|**Engineering Arbitrary Hamiltonians in Phase Space**|Lingzhen Guo et.al.|[2302.04257v1](http://arxiv.org/abs/2302.04257v1)|null|
 |**2023-02-08**|**Learning How to Infer Partial MDPs for In-Context Adaptation and Exploration**|Chentian Jiang et.al.|[2302.04250v1](http://arxiv.org/abs/2302.04250v1)|null|
 |**2023-02-08**|**Complete Graphical Language for Hermiticity-Preserving Superoperators**|Titouan Carette et.al.|[2302.04212v1](http://arxiv.org/abs/2302.04212v1)|null|
