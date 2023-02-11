@@ -341,7 +341,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-09**|**Reversible Vision Transformers**|Karttikeya Mangalam et.al.|[2302.04869v1](http://arxiv.org/abs/2302.04869v1)|**[link](https://github.com/facebookresearch/SlowFast)**|
+|**2023-02-09**|**Reversible Vision Transformers**|Karttikeya Mangalam et.al.|[2302.04869v1](http://arxiv.org/abs/2302.04869v1)|**[link](https://github.com/facebookresearch/mvit)**|
 |**2023-02-09**|**Lithium Metal Battery Quality Control via Transformer-CNN Segmentation**|Jerome Quenum et.al.|[2302.04824v1](http://arxiv.org/abs/2302.04824v1)|null|
 |**2023-02-09**|**Dimension reduction and redundancy removal through successive Schmidt decompositions**|Ammar Daskin et.al.|[2302.04801v1](http://arxiv.org/abs/2302.04801v1)|null|
 |**2023-02-09**|**Log-Paradox: Necessary and sufficient conditions for confounding statistically significant pattern reversal under the log-transform**|Ben Cardoen et.al.|[2302.04780v1](http://arxiv.org/abs/2302.04780v1)|null|
