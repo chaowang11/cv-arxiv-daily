@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-09**|**Hypernetworks build Implicit Neural Representations of Sounds**|Filip Szatkowski et.al.|[2302.04959v1](http://arxiv.org/abs/2302.04959v1)|null|
 |**2023-02-08**|**A Systematic Performance Analysis of Deep Perceptual Loss Networks Breaks Transfer Learning Conventions**|Gustav Grund Pihlgren et.al.|[2302.04032v1](http://arxiv.org/abs/2302.04032v1)|null|
 |**2023-02-09**|**OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer**|Fanghua Yu et.al.|[2302.03453v2](http://arxiv.org/abs/2302.03453v2)|**[link](https://github.com/fanghua-yu/osrt)**|
 |**2023-02-07**|**High-Resolution GAN Inversion for Degraded Images in Large Diverse Datasets**|Yanbo Wang et.al.|[2302.03406v1](http://arxiv.org/abs/2302.03406v1)|**[link](https://github.com/booooooooooo/cri)**|
@@ -152,6 +153,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-09**|**Hypernetworks build Implicit Neural Representations of Sounds**|Filip Szatkowski et.al.|[2302.04959v1](http://arxiv.org/abs/2302.04959v1)|null|
 |**2023-02-09**|**OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer**|Fanghua Yu et.al.|[2302.03453v2](http://arxiv.org/abs/2302.03453v2)|**[link](https://github.com/fanghua-yu/osrt)**|
 |**2023-02-03**|**A statistically constrained internal method for single image super-resolution**|Pierrick Chatillon et.al.|[2302.01648v1](http://arxiv.org/abs/2302.01648v1)|null|
 |**2023-01-30**|**Image Restoration with Mean-Reverting Stochastic Differential Equations**|Ziwei Luo et.al.|[2301.11699v2](http://arxiv.org/abs/2301.11699v2)|**[link](https://github.com/algolzw/image-restoration-sde)**|
@@ -263,7 +265,7 @@
 |**2022-05-17**|**Accelerating the Training of Video Super-Resolution Models**|Lijian Lin et.al.|[2205.05069v2](http://arxiv.org/abs/2205.05069v2)|null|
 |**2022-04-21**|**A New Dataset and Transformer for Stereoscopic Video Super-Resolution**|Hassan Imani et.al.|[2204.10039v1](http://arxiv.org/abs/2204.10039v1)|**[link](https://github.com/h-deep/trans-svsr)**|
 |**2023-02-04**|**Progressive Training of A Two-Stage Framework for Video Restoration**|Meisong Zheng et.al.|[2204.09924v2](http://arxiv.org/abs/2204.09924v2)|**[link](https://github.com/ryanxingql/winner-ntire22-vqe)**|
-|**2022-04-14**|**Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling**|Takashi Isobe et.al.|[2204.07114v1](http://arxiv.org/abs/2204.07114v1)|null|
+|**2022-04-14**|**Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling**|Takashi Isobe et.al.|[2204.07114v1](http://arxiv.org/abs/2204.07114v1)|**[link](https://github.com/junpan19/ETDM)**|
 |**2022-06-19**|**On the Generalization of BasicVSR++ to Video Deblurring and Denoising**|Kelvin C. K. Chan et.al.|[2204.05308v2](http://arxiv.org/abs/2204.05308v2)|**[link](https://github.com/ckkelvinchan/basicvsr_plusplus)**|
 |**2022-04-20**|**Learning Trajectory-Aware Transformer for Video Super-Resolution**|Chengxu Liu et.al.|[2204.04216v3](http://arxiv.org/abs/2204.04216v3)|**[link](https://github.com/researchmm/TTVSR)**|
 |**2022-03-28**|**Reference-based Video Super-Resolution Using Multi-Camera Video Triplets**|Junyong Lee et.al.|[2203.14537v1](http://arxiv.org/abs/2203.14537v1)|**[link](https://github.com/codeslake/RefVSR)**|
@@ -341,6 +343,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-10**|**Scaling Vision Transformers to 22 Billion Parameters**|Mostafa Dehghani et.al.|[2302.05442v1](http://arxiv.org/abs/2302.05442v1)|null|
+|**2023-02-10**|**Enabling Transformational ngEHT Science via the Inclusion of 86 GHz Capabilities**|Sara Issaoun et.al.|[2302.05415v1](http://arxiv.org/abs/2302.05415v1)|null|
+|**2023-02-10**|**Adversarial Transformer Language Models for Contextual Commonsense Inference**|Pedro Colon-Hernandez et.al.|[2302.05406v1](http://arxiv.org/abs/2302.05406v1)|null|
+|**2023-02-10**|**GTR-CTRL: Instrument and Genre Conditioning for Guitar-Focused Music Generation with Transformers**|Pedro Sarmento et.al.|[2302.05393v1](http://arxiv.org/abs/2302.05393v1)|null|
+|**2023-02-10**|**Israel coordinates for all static spherically symmetric spacetimes with vanishing second Ricci invariant**|Yannick M. Bisson et.al.|[2302.05391v1](http://arxiv.org/abs/2302.05391v1)|null|
+|**2023-02-10**|**Discovering Sparse Representations of Lie Groups with Machine Learning**|Roy T. Forestano et.al.|[2302.05383v1](http://arxiv.org/abs/2302.05383v1)|null|
+|**2023-02-10**|**The electric and magnetic disordered Maxwell equations as eigenvalue problem**|Walter Schirmacher et.al.|[2302.05362v1](http://arxiv.org/abs/2302.05362v1)|null|
+|**2023-02-10**|**Banks of templates for directed and all-sky narrow-band searches of continuous gravitational waves from spinning neutron stars with several spindowns**|Andrzej Pisarski et.al.|[2302.05204v1](http://arxiv.org/abs/2302.05204v1)|null|
+|**2023-02-10**|**PointWavelet: Learning in Spectral Domain for 3D Point Cloud Analysis**|Cheng Wen et.al.|[2302.05201v1](http://arxiv.org/abs/2302.05201v1)|null|
+|**2023-02-10**|**End-to-end Semantic Object Detection with Cross-Modal Alignment**|Silvan Ferreira et.al.|[2302.05200v1](http://arxiv.org/abs/2302.05200v1)|null|
+|**2023-02-10**|**Virtually increasing the measurement frequency of LIDAR sensor utilizing a single RGB camera**|Zoltan Rozsa et.al.|[2302.05192v1](http://arxiv.org/abs/2302.05192v1)|null|
+|**2023-02-10**|**Dual Memory Units with Uncertainty Regulation for Weakly Supervised Video Anomaly Detection**|Hang Zhou et.al.|[2302.05160v1](http://arxiv.org/abs/2302.05160v1)|**[link](https://github.com/henrryzh1/UR-DMU)**|
+|**2023-02-10**|**Industrial and Medical Anomaly Detection Through Cycle-Consistent Adversarial Networks**|Arnaud Bougaham et.al.|[2302.05154v1](http://arxiv.org/abs/2302.05154v1)|null|
+|**2023-02-10**|**Quantitative recurrence properties for piecewise expanding map on  $ [0,1]^d $ **|Yubin He et.al.|[2302.05149v1](http://arxiv.org/abs/2302.05149v1)|null|
+|**2023-02-10**|**Step by Step Loss Goes Very Far: Multi-Step Quantization for Adversarial Text Attacks**|Piotr Gaiński et.al.|[2302.05120v1](http://arxiv.org/abs/2302.05120v1)|null|
+|**2023-02-10**|**Partial Data Inverse Problems for Magnetic Schrödinger Operators on Conformally Transversally Anisotropic Manifolds**|Salem Selim et.al.|[2302.05107v1](http://arxiv.org/abs/2302.05107v1)|null|
+|**2023-02-10**|**Text recognition on images using pre-trained CNN**|Afgani Fajar Rizky et.al.|[2302.05105v1](http://arxiv.org/abs/2302.05105v1)|null|
+|**2023-02-10**|**General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox**|Kenji Koide et.al.|[2302.05094v1](http://arxiv.org/abs/2302.05094v1)|null|
+|**2023-02-10**|**On semiparametric estimation of the intercept of the sample selection model: a kernel approach**|Zhewen Pan et.al.|[2302.05089v1](http://arxiv.org/abs/2302.05089v1)|null|
+|**2023-02-10**|**BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization**|Weichao Zhao et.al.|[2302.05075v1](http://arxiv.org/abs/2302.05075v1)|null|
+|**2023-02-10**|**EVC: Towards Real-Time Neural Image Compression with Mask Decay**|Guo-Hua Wang et.al.|[2302.05071v1](http://arxiv.org/abs/2302.05071v1)|**[link](https://github.com/microsoft/dcvc)**|
+|**2023-02-10**|**PATCorrect: Non-autoregressive Phoneme-augmented Transformer for ASR Error Correction**|Ziji Zhang et.al.|[2302.05040v1](http://arxiv.org/abs/2302.05040v1)|null|
+|**2023-02-10**|**Deep Seam Prediction for Image Stitching Based on Selection Consistency Loss**|Senmao Cheng et.al.|[2302.05027v1](http://arxiv.org/abs/2302.05027v1)|null|
+|**2023-02-10**|**ShapeWordNet: An Interpretable Shapelet Neural Network for Physiological Signal Classification**|Wenqiang He et.al.|[2302.05021v1](http://arxiv.org/abs/2302.05021v1)|null|
+|**2023-02-09**|**Leveraging supplementary text data to kick-start automatic speech recognition system development with limited transcriptions**|Nay San et.al.|[2302.04975v1](http://arxiv.org/abs/2302.04975v1)|null|
+|**2023-02-09**|**Invariant Slot Attention: Object Discovery with Slot-Centric Reference Frames**|Ondrej Biza et.al.|[2302.04973v1](http://arxiv.org/abs/2302.04973v1)|null|
+|**2023-02-09**|**Can QBism exist without Q? Morphophoric measurements in generalised probabilistic theories**|Anna Szymusiak et.al.|[2302.04957v1](http://arxiv.org/abs/2302.04957v1)|null|
+|**2023-02-09**|**Basic curvature and the Atiyah cocycle in gauge theory**|Athanasios Chatzistavrakidis et.al.|[2302.04956v1](http://arxiv.org/abs/2302.04956v1)|null|
+|**2023-02-09**|**In-Context Learning with Many Demonstration Examples**|Mukai Li et.al.|[2302.04931v1](http://arxiv.org/abs/2302.04931v1)|**[link](https://github.com/shark-nlp/evalm)**|
+|**2023-02-09**|**Trouble of the Penrose diagram in spacetimes connected via a spacelike thin shell**|Wei-Chen Lin et.al.|[2302.04923v1](http://arxiv.org/abs/2302.04923v1)|null|
+|**2023-02-09**|**Binarized Neural Machine Translation**|Yichi Zhang et.al.|[2302.04907v1](http://arxiv.org/abs/2302.04907v1)|null|
+|**2023-02-09**|**An Integer Basis for Celestial Amplitudes**|Jordan Cotler et.al.|[2302.04905v1](http://arxiv.org/abs/2302.04905v1)|null|
+|**2023-02-09**|**HI filaments as potential compass needles? Comparing the magnetic field structure of the Small Magellanic Cloud to the orientation of GASKAP-HI filaments**|Y. K. Ma et.al.|[2302.04880v1](http://arxiv.org/abs/2302.04880v1)|null|
 |**2023-02-09**|**Reversible Vision Transformers**|Karttikeya Mangalam et.al.|[2302.04869v1](http://arxiv.org/abs/2302.04869v1)|**[link](https://github.com/facebookresearch/mvit)**|
 |**2023-02-09**|**Lithium Metal Battery Quality Control via Transformer-CNN Segmentation**|Jerome Quenum et.al.|[2302.04824v1](http://arxiv.org/abs/2302.04824v1)|null|
 |**2023-02-09**|**Dimension reduction and redundancy removal through successive Schmidt decompositions**|Ammar Daskin et.al.|[2302.04801v1](http://arxiv.org/abs/2302.04801v1)|null|
@@ -2065,6 +2100,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-10**|**Leveraging Inpainting for Single-Image Shadow Removal**|Xiaoguang Li et.al.|[2302.05361v1](http://arxiv.org/abs/2302.05361v1)|null|
 |**2023-02-06**|**Generative Diffusion Models on Graphs: Methods and Applications**|Wenqi Fan et.al.|[2302.02591v1](http://arxiv.org/abs/2302.02591v1)|null|
 |**2023-02-04**|**Guaranteed Tensor Recovery Fused Low-rankness and Smoothness**|Hailin Wang et.al.|[2302.02155v1](http://arxiv.org/abs/2302.02155v1)|**[link](https://github.com/wanghailin97/Guaranteed-Tensor-Recovery-Fused-Low-rankness-and-Smoothness)**|
 |**2023-02-02**|**A Theoretical Justification for Image Inpainting using Denoising Diffusion Probabilistic Models**|Litu Rout et.al.|[2302.01217v1](http://arxiv.org/abs/2302.01217v1)|null|
