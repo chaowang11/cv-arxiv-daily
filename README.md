@@ -360,7 +360,7 @@
 |**2023-02-09**|**Length orthospectrum and the correlation function on flat tori**|Nguyen Viet Dang et.al.|[2302.04512v1](http://arxiv.org/abs/2302.04512v1)|null|
 |**2023-02-09**|**A Large-Scale Analysis of Persian Tweets Regarding Covid-19 Vaccination**|Taha ShabaniMirzaei et.al.|[2302.04511v1](http://arxiv.org/abs/2302.04511v1)|null|
 |**2023-02-09**|**MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing**|Zhe Li et.al.|[2302.04501v1](http://arxiv.org/abs/2302.04501v1)|null|
-|**2023-02-09**|**RIS-Position and Orientation Estimation in Dispersive mmWave MIMO Scenarios**|Sheng Hong et.al.|[2302.04499v1](http://arxiv.org/abs/2302.04499v1)|null|
+|**2023-02-10**|**RIS-Position and Orientation Estimation in Dispersive mmWave MIMO Scenarios**|Sheng Hong et.al.|[2302.04499v2](http://arxiv.org/abs/2302.04499v2)|null|
 |**2023-02-09**|**An Expressive Ansatz for Low-Depth Quantum Optimisation**|V. Vijendran et.al.|[2302.04479v1](http://arxiv.org/abs/2302.04479v1)|**[link](https://github.com/vijeycreative/xqaoa-dataset)**|
 |**2023-02-09**|**GFM: Building Geospatial Foundation Models via Continual Pretraining**|Matias Mendieta et.al.|[2302.04476v1](http://arxiv.org/abs/2302.04476v1)|null|
 |**2023-02-09**|**Pego theorem on compact groups**|Manoj Kumar et.al.|[2302.04470v1](http://arxiv.org/abs/2302.04470v1)|null|
@@ -378,7 +378,7 @@
 |**2023-02-08**|**CRL+: A Novel Semi-Supervised Deep Active Contrastive Representation Learning-Based Text Classification Model for Insurance Data**|Amir Namavar Jahromi et.al.|[2302.04343v1](http://arxiv.org/abs/2302.04343v1)|null|
 |**2023-02-08**|**Adapting Pre-trained Vision Transformers from 2D to 3D through Weight Inflation Improves Medical Image Segmentation**|Yuhui Zhang et.al.|[2302.04303v1](http://arxiv.org/abs/2302.04303v1)|**[link](https://github.com/yuhui-zh15/transseg)**|
 |**2023-02-08**|**Beating binary powering for polynomial matrices**|Alin Bostan et.al.|[2302.04299v1](http://arxiv.org/abs/2302.04299v1)|null|
-|**2023-02-08**|**Matrix monotonicity and concavity of the principal pivot transform**|Kenneth Beard et.al.|[2302.04293v1](http://arxiv.org/abs/2302.04293v1)|null|
+|**2023-02-10**|**Matrix monotonicity and concavity of the principal pivot transform**|Kenneth Beard et.al.|[2302.04293v2](http://arxiv.org/abs/2302.04293v2)|null|
 |**2023-02-08**|**A framework for phase transitions between the Maxwell and Gibbs constructions**|Constantinos Constantinou et.al.|[2302.04289v1](http://arxiv.org/abs/2302.04289v1)|null|
 |**2023-02-08**|**Engineering Arbitrary Hamiltonians in Phase Space**|Lingzhen Guo et.al.|[2302.04257v1](http://arxiv.org/abs/2302.04257v1)|null|
 |**2023-02-08**|**Learning How to Infer Partial MDPs for In-Context Adaptation and Exploration**|Chentian Jiang et.al.|[2302.04250v1](http://arxiv.org/abs/2302.04250v1)|null|
