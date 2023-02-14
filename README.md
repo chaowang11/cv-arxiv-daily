@@ -46,7 +46,7 @@
 |**2023-01-25**|**Trainable Loss Weights in Super-Resolution**|Arash Chaichi Mellatshahi et.al.|[2301.10575v1](http://arxiv.org/abs/2301.10575v1)|null|
 |**2023-01-25**|**Role played by port drains in a Maxwell fisheye lens**|Q. Shen et.al.|[2301.10390v1](http://arxiv.org/abs/2301.10390v1)|null|
 |**2023-01-24**|**Image Super-Resolution using Efficient Striped Window Transformer**|Jinpeng Shi et.al.|[2301.09869v1](http://arxiv.org/abs/2301.09869v1)|**[link](https://github.com/fried-rice-lab/friedricelab)**|
-|**2023-01-20**|**CSwin2SR: Circular Swin2SR for Compressed Image Super-Resolution**|Honggui Li et.al.|[2301.08749v1](http://arxiv.org/abs/2301.08749v1)|null|
+|**2023-02-13**|**CSwin2SR: Circular Swin2SR for Compressed Image Super-Resolution**|Honggui Li et.al.|[2301.08749v2](http://arxiv.org/abs/2301.08749v2)|null|
 |**2023-01-24**|**AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics**|Tingting Yuan et.al.|[2301.08664v2](http://arxiv.org/abs/2301.08664v2)|null|
 |**2023-01-18**|**Prony-Based Super-Resolution Phase Retrieval of Sparse, Multivariate Signals**|Robert Beinert et.al.|[2301.07696v1](http://arxiv.org/abs/2301.07696v1)|null|
 |**2023-01-17**|**Super-Resolution Harmonic Retrieval of Non-Circular Signals**|Yu Zhang et.al.|[2301.06948v1](http://arxiv.org/abs/2301.06948v1)|null|
@@ -158,7 +158,7 @@
 |**2023-02-03**|**A statistically constrained internal method for single image super-resolution**|Pierrick Chatillon et.al.|[2302.01648v1](http://arxiv.org/abs/2302.01648v1)|null|
 |**2023-01-30**|**Image Restoration with Mean-Reverting Stochastic Differential Equations**|Ziwei Luo et.al.|[2301.11699v2](http://arxiv.org/abs/2301.11699v2)|**[link](https://github.com/algolzw/image-restoration-sde)**|
 |**2023-01-24**|**Image Super-Resolution using Efficient Striped Window Transformer**|Jinpeng Shi et.al.|[2301.09869v1](http://arxiv.org/abs/2301.09869v1)|**[link](https://github.com/fried-rice-lab/friedricelab)**|
-|**2023-01-20**|**CSwin2SR: Circular Swin2SR for Compressed Image Super-Resolution**|Honggui Li et.al.|[2301.08749v1](http://arxiv.org/abs/2301.08749v1)|null|
+|**2023-02-13**|**CSwin2SR: Circular Swin2SR for Compressed Image Super-Resolution**|Honggui Li et.al.|[2301.08749v2](http://arxiv.org/abs/2301.08749v2)|null|
 |**2023-01-11**|**Deep Residual Axial Networks**|Nazmul Shahadat et.al.|[2301.04631v1](http://arxiv.org/abs/2301.04631v1)|null|
 |**2023-01-05**|**DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution**|Xiang Li et.al.|[2301.02031v1](http://arxiv.org/abs/2301.02031v1)|null|
 |**2022-12-29**|**Efficient Image Super-Resolution with Feature Interaction Weighted Hybrid Network**|Wenjie Li et.al.|[2212.14181v1](http://arxiv.org/abs/2212.14181v1)|null|
@@ -362,7 +362,7 @@
 |**2023-02-10**|**Text recognition on images using pre-trained CNN**|Afgani Fajar Rizky et.al.|[2302.05105v1](http://arxiv.org/abs/2302.05105v1)|null|
 |**2023-02-10**|**General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox**|Kenji Koide et.al.|[2302.05094v1](http://arxiv.org/abs/2302.05094v1)|null|
 |**2023-02-10**|**On semiparametric estimation of the intercept of the sample selection model: a kernel approach**|Zhewen Pan et.al.|[2302.05089v1](http://arxiv.org/abs/2302.05089v1)|null|
-|**2023-02-10**|**BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization**|Weichao Zhao et.al.|[2302.05075v1](http://arxiv.org/abs/2302.05075v1)|null|
+|**2023-02-13**|**BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization**|Weichao Zhao et.al.|[2302.05075v2](http://arxiv.org/abs/2302.05075v2)|null|
 |**2023-02-10**|**EVC: Towards Real-Time Neural Image Compression with Mask Decay**|Guo-Hua Wang et.al.|[2302.05071v1](http://arxiv.org/abs/2302.05071v1)|**[link](https://github.com/microsoft/dcvc)**|
 |**2023-02-10**|**PATCorrect: Non-autoregressive Phoneme-augmented Transformer for ASR Error Correction**|Ziji Zhang et.al.|[2302.05040v1](http://arxiv.org/abs/2302.05040v1)|null|
 |**2023-02-10**|**Deep Seam Prediction for Image Stitching Based on Selection Consistency Loss**|Senmao Cheng et.al.|[2302.05027v1](http://arxiv.org/abs/2302.05027v1)|null|
@@ -2193,7 +2193,7 @@
 |**2022-09-06**|**Vision Transformer Based Video Hashing Retrieval for Tracing the Source of Fake Videos**|Pengfei Pei et.al.|[2112.08117v2](http://arxiv.org/abs/2112.08117v2)|**[link](https://github.com/lajlksdf/vtl)**|
 |**2021-11-05**|**Spatial-Temporal Residual Aggregation for High Resolution Video Inpainting**|Vishnu Sanjay Ramiya Srinivasan et.al.|[2111.03574v1](http://arxiv.org/abs/2111.03574v1)|null|
 |**2021-09-07**|**FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting**|Rui Liu et.al.|[2109.02974v1](http://arxiv.org/abs/2109.02974v1)|**[link](https://github.com/ruiliu-ai/fuseformer)**|
-|**2021-09-02**|**Deep Face Video Inpainting via UV Mapping**|Wenqi Yang et.al.|[2109.00681v1](http://arxiv.org/abs/2109.00681v1)|null|
+|**2023-02-13**|**Deep Face Video Inpainting via UV Mapping**|Wenqi Yang et.al.|[2109.00681v2](http://arxiv.org/abs/2109.00681v2)|null|
 |**2021-08-29**|**Flow-Guided Video Inpainting with Scene Templates**|Dong Lao et.al.|[2108.12845v1](http://arxiv.org/abs/2108.12845v1)|null|
 |**2021-08-15**|**Occlusion-Aware Video Object Inpainting**|Lei Ke et.al.|[2108.06765v1](http://arxiv.org/abs/2108.06765v1)|null|
 |**2021-08-17**|**Internal Video Inpainting by Implicit Long-range Propagation**|Hao Ouyang et.al.|[2108.01912v3](http://arxiv.org/abs/2108.01912v3)|**[link](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting)**|
