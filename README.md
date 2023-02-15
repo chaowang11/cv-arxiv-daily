@@ -385,7 +385,7 @@
 |**2023-02-13**|**DeFi and NFTs Hinder Blockchain Scalability**|Lioba Heimbach et.al.|[2302.06708v1](http://arxiv.org/abs/2302.06708v1)|null|
 |**2023-02-13**|**Bag of Tricks for In-Distribution Calibration of Pretrained Transformers**|Jaeyoung Kim et.al.|[2302.06690v1](http://arxiv.org/abs/2302.06690v1)|**[link](https://github.com/kimjeyoung/plm_call)**|
 |**2023-02-13**|**A Comprehensive Study of Modern Architectures and Regularization Approaches on CheXpert5000**|Sontje Ihler et.al.|[2302.06684v1](http://arxiv.org/abs/2302.06684v1)|null|
-|**2023-02-13**|**Enhancing Multivariate Time Series Classifiers through Self-Attention and Relative Positioning Infusion**|Mehryar Abbasi et.al.|[2302.06683v1](http://arxiv.org/abs/2302.06683v1)|null|
+|**2023-02-13**|**Enhancing Multivariate Time Series Classifiers through Self-Attention and Relative Positioning Infusion**|Mehryar Abbasi et.al.|[2302.06683v1](http://arxiv.org/abs/2302.06683v1)|**[link](https://github.com/mehryar72/timeseriesclassification-tps)**|
 |**2023-02-13**|**Simple Hardware-Efficient Long Convolutions for Sequence Modeling**|Daniel Y. Fu et.al.|[2302.06646v1](http://arxiv.org/abs/2302.06646v1)|**[link](https://github.com/hazyresearch/safari)**|
 |**2023-02-13**|**Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms**|Shao-Hen Chiew et.al.|[2302.06638v1](http://arxiv.org/abs/2302.06638v1)|null|
 |**2023-02-13**|**Geometric Clifford Algebra Networks**|David Ruhe et.al.|[2302.06594v1](http://arxiv.org/abs/2302.06594v1)|null|
