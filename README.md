@@ -359,7 +359,7 @@
 |**2023-02-14**|**Classification of Lung Pathologies in Neonates using Dual Tree Complex Wavelet Transform**|Sagarjit Aujla et.al.|[2302.07157v1](http://arxiv.org/abs/2302.07157v1)|null|
 |**2023-02-14**|**Linearizing Toda and SVD flows on large phase spaces of matrices with real spectrum**|Ricardo S. Leite et.al.|[2302.07144v1](http://arxiv.org/abs/2302.07144v1)|null|
 |**2023-02-14**|**Market-Aware Models for Efficient Cross-Market Recommendation**|Samarth Bhargav et.al.|[2302.07130v1](http://arxiv.org/abs/2302.07130v1)|null|
-|**2023-02-14**|**Team-DETR: Guide Queries as a Professional Team in Detection Transformers**|Tian Qiu et.al.|[2302.07116v1](http://arxiv.org/abs/2302.07116v1)|**[link](https://github.com/horrible-dong/teamdetr)**|
+|**2023-02-15**|**Team DETR: Guide Queries as a Professional Team in Detection Transformers**|Tian Qiu et.al.|[2302.07116v2](http://arxiv.org/abs/2302.07116v2)|**[link](https://github.com/horrible-dong/teamdetr)**|
 |**2023-02-14**|**RISE: RISC-V SoC for En/decryption Acceleration on the Edge for Homomorphic Encryption**|Zahra Azad et.al.|[2302.07104v1](http://arxiv.org/abs/2302.07104v1)|null|
 |**2023-02-14**|**Bounds on Depth of Decision Trees Derived from Decision Rule Systems**|Kerven Durdymyradov et.al.|[2302.07063v1](http://arxiv.org/abs/2302.07063v1)|null|
 |**2023-02-14**|**Compression and information entropy of binary strings from the collision history of three hard balls**|Matej Vedak et.al.|[2302.07054v1](http://arxiv.org/abs/2302.07054v1)|null|
@@ -389,7 +389,7 @@
 |**2023-02-13**|**Simple Hardware-Efficient Long Convolutions for Sequence Modeling**|Daniel Y. Fu et.al.|[2302.06646v1](http://arxiv.org/abs/2302.06646v1)|**[link](https://github.com/hazyresearch/safari)**|
 |**2023-02-13**|**Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms**|Shao-Hen Chiew et.al.|[2302.06638v1](http://arxiv.org/abs/2302.06638v1)|null|
 |**2023-02-13**|**Geometric Clifford Algebra Networks**|David Ruhe et.al.|[2302.06594v1](http://arxiv.org/abs/2302.06594v1)|null|
-|**2023-02-13**|**Stitchable Neural Networks**|Zizheng Pan et.al.|[2302.06586v1](http://arxiv.org/abs/2302.06586v1)|**[link](https://github.com/ziplab/SN-Net)**|
+|**2023-02-15**|**Stitchable Neural Networks**|Zizheng Pan et.al.|[2302.06586v2](http://arxiv.org/abs/2302.06586v2)|**[link](https://github.com/ziplab/SN-Net)**|
 |**2023-02-14**|**On the minimal faithful degree of Rhodes semisimple semigroups**|Stuart Margolis et.al.|[2302.06539v2](http://arxiv.org/abs/2302.06539v2)|null|
 |**2023-02-13**|**Low-dimensional Data-based Surrogate Model of a Continuum-mechanical Musculoskeletal System Based on Non-intrusive Model Order Reduction**|Jonas Kneifl et.al.|[2302.06528v1](http://arxiv.org/abs/2302.06528v1)|null|
 |**2023-02-13**|**On cosmological Inflation In Palatini  $F(R,φ)$  Gravity**|Mahmoud AlHallak et.al.|[2302.06524v1](http://arxiv.org/abs/2302.06524v1)|null|
