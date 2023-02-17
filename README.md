@@ -189,7 +189,7 @@
 |**2022-12-02**|**Global Learnable Attention for Single Image Super-Resolution**|Jian-Nan Su et.al.|[2212.01057v1](http://arxiv.org/abs/2212.01057v1)|**[link](https://github.com/laoyangui/dlsn)**|
 |**2022-12-07**|**Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model**|Yinhuai Wang et.al.|[2212.00490v2](http://arxiv.org/abs/2212.00490v2)|**[link](https://github.com/wyhuai/ddnm)**|
 |**2022-11-30**|**MrSARP: A Hierarchical Deep Generative Prior for SAR Image Super-resolution**|Tushar Agarwal et.al.|[2212.00069v1](http://arxiv.org/abs/2212.00069v1)|null|
-|**2022-11-30**|**Knowledge Distillation based Degradation Estimation for Blind Super-Resolution**|Bin Xia et.al.|[2211.16928v1](http://arxiv.org/abs/2211.16928v1)|null|
+|**2023-02-16**|**Knowledge Distillation based Degradation Estimation for Blind Super-Resolution**|Bin Xia et.al.|[2211.16928v2](http://arxiv.org/abs/2211.16928v2)|null|
 |**2022-11-30**|**Adaptive adversarial training method for improving multi-scale GAN based on generalization bound theory**|Jing Tang et.al.|[2211.16791v1](http://arxiv.org/abs/2211.16791v1)|null|
 |**2022-11-30**|**From Coarse to Fine: Hierarchical Pixel Integration for Lightweight Image Super-Resolution**|Jie Liu et.al.|[2211.16776v1](http://arxiv.org/abs/2211.16776v1)|**[link](https://github.com/passerer/hpinet)**|
 |**2022-11-30**|**FREDSR: Fourier Residual Efficient Diffusive GAN for Single Image Super Resolution**|Kyoungwan Woo et.al.|[2211.16678v1](http://arxiv.org/abs/2211.16678v1)|null|
@@ -355,8 +355,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-15**|**Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks**|Atabey Ünlü et.al.|[2302.07868v1](http://arxiv.org/abs/2302.07868v1)|null|
-|**2023-02-15**|**Learning Performance-Improving Code Edits**|Aman Madaan et.al.|[2302.07867v1](http://arxiv.org/abs/2302.07867v1)|null|
+|**2023-02-16**|**Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks**|Atabey Ünlü et.al.|[2302.07868v2](http://arxiv.org/abs/2302.07868v2)|**[link](https://github.com/hubiodatalab/druggen)**|
+|**2023-02-16**|**Learning Performance-Improving Code Edits**|Aman Madaan et.al.|[2302.07867v2](http://arxiv.org/abs/2302.07867v2)|null|
 |**2023-02-15**|**Big Little Transformer Decoder**|Sehoon Kim et.al.|[2302.07863v1](http://arxiv.org/abs/2302.07863v1)|null|
 |**2023-02-15**|**Exclusive meets inclusive at small Bjorken- $x_B$ : how to relate exclusive measurements to PDFs based on evolution equations**|Hervé Dutrieux et.al.|[2302.07861v1](http://arxiv.org/abs/2302.07861v1)|null|
 |**2023-02-15**|**A "morphogenetic action" principle for 3D shape formation by the growth of thin sheets**|Dillon J. Cislo et.al.|[2302.07839v1](http://arxiv.org/abs/2302.07839v1)|null|
@@ -404,7 +404,7 @@
 |**2023-02-14**|**The Fourier transform in weighted rearrangement invariant spaces**|Mieczysław Mastyło et.al.|[2302.07047v1](http://arxiv.org/abs/2302.07047v1)|null|
 |**2023-02-14**|**SCONNA: A Stochastic Computing Based Optical Accelerator for Ultra-Fast, Energy-Efficient Inference of Integer-Quantized CNNs**|Sairam Sri Vatsavai et.al.|[2302.07036v1](http://arxiv.org/abs/2302.07036v1)|**[link](https://github.com/uky-ucat/sc_onn_sim)**|
 |**2023-02-14**|**Optimal Transport for Change Detection on LiDAR Point Clouds**|Marco Fiorucci et.al.|[2302.07025v1](http://arxiv.org/abs/2302.07025v1)|**[link](https://github.com/marcofiorucci/ot-4-change-detection)**|
-|**2023-02-14**|**The fermion-boson map for large  $d$  and its connection to lattice transformations**|Evangelos G. Filothodoros et.al.|[2302.07013v1](http://arxiv.org/abs/2302.07013v1)|null|
+|**2023-02-16**|**The fermion-boson map for large  $d$  and its connection to lattice transformations**|Evangelos G. Filothodoros et.al.|[2302.07013v2](http://arxiv.org/abs/2302.07013v2)|null|
 |**2023-02-14**|**A modern look at the relationship between sharpness and generalization**|Maksym Andriushchenko et.al.|[2302.07011v1](http://arxiv.org/abs/2302.07011v1)|**[link](https://github.com/tml-epfl/sharpness-vs-generalization)**|
 |**2023-02-14**|**Enhancing Model Performance in Multilingual Information Retrieval with Comprehensive Data Engineering Techniques**|Qi Zhang et.al.|[2302.07010v1](http://arxiv.org/abs/2302.07010v1)|null|
 |**2023-02-14**|**Deep Learning-Based Modeling of 5G Core Control Plane for 5G Network Digital Twin**|Zhenyu Tao et.al.|[2302.06980v1](http://arxiv.org/abs/2302.06980v1)|null|
