@@ -370,8 +370,8 @@
 |**2023-02-16**|**Bayesian-based hybrid method for rapid optimization of NV center sensors**|Jiazhao Tian et.al.|[2302.08410v1](http://arxiv.org/abs/2302.08410v1)|null|
 |**2023-02-16**|**Quantum work statistics at strong reservoir coupling**|Owen Diba et.al.|[2302.08395v1](http://arxiv.org/abs/2302.08395v1)|null|
 |**2023-02-16**|**How Well Sensing Integrates with Communications in MmWave Wi-Fi?**|Mohamed Abdalgader et.al.|[2302.08378v1](http://arxiv.org/abs/2302.08378v1)|null|
-|**2023-02-16**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v1](http://arxiv.org/abs/2302.08374v1)|null|
-|**2023-02-16**|**QuickVC: Many-to-any Voice Conversion Using Inverse Short-time Fourier Transform for Faster Conversion**|Houjian Guo et.al.|[2302.08296v1](http://arxiv.org/abs/2302.08296v1)|null|
+|**2023-02-16**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v1](http://arxiv.org/abs/2302.08374v1)|**[link](https://github.com/badripatro/efficient360)**|
+|**2023-02-16**|**QuickVC: Many-to-any Voice Conversion Using Inverse Short-time Fourier Transform for Faster Conversion**|Houjian Guo et.al.|[2302.08296v1](http://arxiv.org/abs/2302.08296v1)|**[link](https://github.com/quickvc/quickvoice-conversion)**|
 |**2023-02-16**|**Theory and Implementation of Complex-Valued Neural Networks**|Jose Agustin Barrachina et.al.|[2302.08286v1](http://arxiv.org/abs/2302.08286v1)|**[link](https://github.com/JesperDramsch/keras-complex)**|
 |**2023-02-16**|**Robust Human Motion Forecasting using Transformer-based Model**|Esteve Valls Mascaro et.al.|[2302.08274v1](http://arxiv.org/abs/2302.08274v1)|null|
 |**2023-02-16**|**Eigenvalues of Symmetric Non-normalized Discrete Trigonometric Transforms**|Ali Bagheri Bardi et.al.|[2302.08222v1](http://arxiv.org/abs/2302.08222v1)|null|
@@ -395,7 +395,7 @@
 |**2023-02-16**|**Lattice piecewise affine approximation of explicit nonlinear model predictive control with application to trajectory tracking of mobile robot**|Kangbo Wang et.al.|[2302.08039v1](http://arxiv.org/abs/2302.08039v1)|null|
 |**2023-02-16**|**Object-centric Learning with Cyclic Walks between Parts and Whole**|Ziyu Wang et.al.|[2302.08023v1](http://arxiv.org/abs/2302.08023v1)|null|
 |**2023-02-15**|**À-la-carte Prompt Tuning (APT): Combining Distinct Data Via Composable Prompting**|Benjamin Bowman et.al.|[2302.07994v1](http://arxiv.org/abs/2302.07994v1)|null|
-|**2023-02-15**|**Correlation-Aware Neural Networks for DDoS Attack Detection In IoT Systems**|Arvin Hekmati et.al.|[2302.07982v1](http://arxiv.org/abs/2302.07982v1)|null|
+|**2023-02-15**|**Correlation-Aware Neural Networks for DDoS Attack Detection In IoT Systems**|Arvin Hekmati et.al.|[2302.07982v1](http://arxiv.org/abs/2302.07982v1)|**[link](https://github.com/anrgusc/correlation_aware_ddos_iot)**|
 |**2023-02-15**|**Young Diagrams and Classical Groups**|John C. Baez et.al.|[2302.07971v1](http://arxiv.org/abs/2302.07971v1)|null|
 |**2023-02-15**|**The Expressive Power of Tuning Only the Norm Layers**|Angeliki Giannou et.al.|[2302.07937v1](http://arxiv.org/abs/2302.07937v1)|null|
 |**2023-02-15**|**Commonsense Reasoning for Conversational AI: A Survey of the State of the Art**|Christopher Richardson et.al.|[2302.07926v1](http://arxiv.org/abs/2302.07926v1)|null|
