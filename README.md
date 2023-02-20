@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-17**|**Algorithmic Hallucinations of Near-Surface Winds: Statistical Downscaling with Generative Adversarial Networks to Convection-Permitting Scales**|Nicolaas J. Annau et.al.|[2302.08720v1](http://arxiv.org/abs/2302.08720v1)|null|
 |**2023-02-17**|**Kernelized Back-Projection Networks for Blind Super Resolution**|Tomoki Yoshida et.al.|[2302.08478v2](http://arxiv.org/abs/2302.08478v2)|null|
 |**2023-02-16**|**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**|Zhengyu Liang et.al.|[2302.08058v1](http://arxiv.org/abs/2302.08058v1)|**[link](https://github.com/zhengyuliang24/epit)**|
 |**2023-02-16**|**TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation**|Yunliang Jiang et.al.|[2302.08047v1](http://arxiv.org/abs/2302.08047v1)|null|
@@ -166,6 +167,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-17**|**Algorithmic Hallucinations of Near-Surface Winds: Statistical Downscaling with Generative Adversarial Networks to Convection-Permitting Scales**|Nicolaas J. Annau et.al.|[2302.08720v1](http://arxiv.org/abs/2302.08720v1)|null|
 |**2023-02-16**|**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**|Zhengyu Liang et.al.|[2302.08058v1](http://arxiv.org/abs/2302.08058v1)|**[link](https://github.com/zhengyuliang24/epit)**|
 |**2023-02-16**|**TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation**|Yunliang Jiang et.al.|[2302.08047v1](http://arxiv.org/abs/2302.08047v1)|null|
 |**2023-02-16**|**Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space**|Keyan Chen et.al.|[2302.08046v1](http://arxiv.org/abs/2302.08046v1)|**[link](https://github.com/KyanChen/FunSR)**|
@@ -362,6 +364,35 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-17**|**OTB-morph: One-Time Biometrics via Morphing**|Mahdi Ghafourian et.al.|[2302.09053v1](http://arxiv.org/abs/2302.09053v1)|null|
+|**2023-02-17**|**Self-Supervised Representation Learning from Temporal Ordering of Automated Driving Sequences**|Christopher Lang et.al.|[2302.09043v1](http://arxiv.org/abs/2302.09043v1)|null|
+|**2023-02-17**|**Hořava-Lifshitz  $F(\bar{R})$  theories and the Swampland**|H. Garcia-Compean et.al.|[2302.09041v1](http://arxiv.org/abs/2302.09041v1)|null|
+|**2023-02-17**|**CK-Transformer: Commonsense Knowledge Enhanced Transformers for Referring Expression Comprehension**|Zhi Zhang et.al.|[2302.09027v1](http://arxiv.org/abs/2302.09027v1)|**[link](https://github.com/fightingfighting/ck-transformer)**|
+|**2023-02-17**|**Automorphisms of quartic surfaces and Cremona transformations**|Daniela Paiva et.al.|[2302.09014v1](http://arxiv.org/abs/2302.09014v1)|null|
+|**2023-02-17**|**Enabling a Multi-Purpose High-Energy Neutron Source Based on High-Current Compact Cyclotrons**|Lance L Snead et.al.|[2302.09011v1](http://arxiv.org/abs/2302.09011v1)|null|
+|**2023-02-17**|**Topological embeddings into transformation monoids**|S. Bardyla et.al.|[2302.08988v1](http://arxiv.org/abs/2302.08988v1)|null|
+|**2023-02-17**|**Like a Good Nearest Neighbor: Practical Content Moderation with Sentence Transformers**|Luke Bates et.al.|[2302.08957v1](http://arxiv.org/abs/2302.08957v1)|**[link](https://github.com/ukplab/lagonn)**|
+|**2023-02-17**|**Active RIS Aided Integrated Sensing and Communication Systems**|Zhiyuan Yu et.al.|[2302.08934v1](http://arxiv.org/abs/2302.08934v1)|null|
+|**2023-02-17**|**Hate Speech and Offensive Language Detection using an Emotion-aware Shared Encoder**|Khouloud Mnassri et.al.|[2302.08777v1](http://arxiv.org/abs/2302.08777v1)|null|
+|**2023-02-17**|**3D Human Pose Lifting with Grid Convolution**|Yangyuxuan Kang et.al.|[2302.08760v1](http://arxiv.org/abs/2302.08760v1)|**[link](https://github.com/osvai/gridconv)**|
+|**2023-02-17**|**GPT4MIA: Utilizing Geneative Pre-trained Transformer (GPT-3) as A Plug-and-Play Transductive Model for Medical Image Analysis**|Yizhe Zhang et.al.|[2302.08722v1](http://arxiv.org/abs/2302.08722v1)|null|
+|**2023-02-17**|**Interpolated inverse discrete wavelet transforms in additive and non-additive spectral background correction**|Teemu Härkönen et.al.|[2302.08721v1](http://arxiv.org/abs/2302.08721v1)|null|
+|**2023-02-17**|**EEP-3DQA: Efficient and Effective Projection-based 3D Model Quality Assessment**|Zicheng Zhang et.al.|[2302.08715v1](http://arxiv.org/abs/2302.08715v1)|null|
+|**2023-02-17**|**Binary Embedding-based Retrieval at Tencent**|Yukang Gan et.al.|[2302.08714v1](http://arxiv.org/abs/2302.08714v1)|**[link](https://github.com/ganyk/bebr)**|
+|**2023-02-17**|**A Fourier spectral immersed boundary method with exact translation invariance, improved boundary resolution, and a divergence-free velocity field**|Zhe Chen et.al.|[2302.08694v1](http://arxiv.org/abs/2302.08694v1)|null|
+|**2023-02-17**|**Creative NFT-Copyrighted AR Face Mask Authoring Using Unity3D Editor**|Mohamed Al Hamzy et.al.|[2302.08685v1](http://arxiv.org/abs/2302.08685v1)|null|
+|**2023-02-17**|**MCAE: Masked Contrastive Autoencoder for Face Anti-Spoofing**|Tianyi Zheng et.al.|[2302.08674v1](http://arxiv.org/abs/2302.08674v1)|null|
+|**2023-02-17**|**Multimodal Subtask Graph Generation from Instructional Videos**|Yunseok Jang et.al.|[2302.08672v1](http://arxiv.org/abs/2302.08672v1)|null|
+|**2023-02-17**|**Search to Capture Long-range Dependency with Stacking GNNs for Graph Classification**|Lanning Wei et.al.|[2302.08671v1](http://arxiv.org/abs/2302.08671v1)|null|
+|**2023-02-17**|**Multiresolution Graph Transformers and Wavelet Positional Encoding for Learning Hierarchical Structures**|Nhat Khang Ngo et.al.|[2302.08647v1](http://arxiv.org/abs/2302.08647v1)|null|
+|**2023-02-17**|**Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey**|Shiv Ram Dubey et.al.|[2302.08641v1](http://arxiv.org/abs/2302.08641v1)|null|
+|**2023-02-17**|**Improving Transformer-based Networks With Locality For Automatic Speaker Verification**|Mufan Sang et.al.|[2302.08639v1](http://arxiv.org/abs/2302.08639v1)|null|
+|**2023-02-16**|**Role of Bias Terms in Dot-Product Attention**|Mahdi Namazifar et.al.|[2302.08626v1](http://arxiv.org/abs/2302.08626v1)|null|
+|**2023-02-16**|**TransUPR: A Transformer-based Uncertain Point Refiner for LiDAR Point Cloud Semantic Segmentation**|Zifan Yu et.al.|[2302.08594v1](http://arxiv.org/abs/2302.08594v1)|null|
+|**2023-02-16**|**Foundation Models for Natural Language Processing -- Pre-trained Language Models Integrating Media**|Gerhard Paaß et.al.|[2302.08575v1](http://arxiv.org/abs/2302.08575v1)|null|
+|**2023-02-16**|**Total momentum and other Noether charges for particles interacting in a quantum spacetime**|Giovanni Amelino-Camelia et.al.|[2302.08569v1](http://arxiv.org/abs/2302.08569v1)|null|
+|**2023-02-16**|**Speaker Change Detection for Transformer Transducer ASR**|Jian Wu et.al.|[2302.08549v1](http://arxiv.org/abs/2302.08549v1)|null|
+|**2023-02-16**|**The Synthescope: A Vision for Combining Synthesis with Atomic Fabrication**|Ondrej Dyck et.al.|[2302.08539v1](http://arxiv.org/abs/2302.08539v1)|null|
 |**2023-02-16**|**Efficient 3D Object Reconstruction using Visual Transformers**|Rohan Agarwal et.al.|[2302.08474v1](http://arxiv.org/abs/2302.08474v1)|null|
 |**2023-02-16**|**Hardware-aware training for large-scale and diverse deep learning inference workloads using in-memory computing-based accelerators**|Malte J. Rasch et.al.|[2302.08469v1](http://arxiv.org/abs/2302.08469v1)|null|
 |**2023-02-16**|**Overlap renormalization group transformations for disordered systems**|Dimitrios Bachtis et.al.|[2302.08459v1](http://arxiv.org/abs/2302.08459v1)|null|
