@@ -413,7 +413,7 @@
 |**2023-02-16**|**Auto-Parallelizing Large Models with Rhino: A Systematic Approach on Production AI Platform**|Shiwei Zhang et.al.|[2302.08141v1](http://arxiv.org/abs/2302.08141v1)|null|
 |**2023-02-16**|**Boundary triples for a family of degenerate elliptic operators of Keldysh type**|François Monard et.al.|[2302.08133v1](http://arxiv.org/abs/2302.08133v1)|null|
 |**2023-02-16**|**Unique wavelet sign retrieval from samples without bandlimiting**|Rima Alaifari et.al.|[2302.08129v1](http://arxiv.org/abs/2302.08129v1)|null|
-|**2023-02-16**|**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation**|Omer Bar-Tal et.al.|[2302.08113v1](http://arxiv.org/abs/2302.08113v1)|null|
+|**2023-02-16**|**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation**|Omer Bar-Tal et.al.|[2302.08113v1](http://arxiv.org/abs/2302.08113v1)|**[link](https://github.com/omerbt/MultiDiffusion)**|
 |**2023-02-16**|**Towards Efficient Visual Adaption via Structural Re-parameterization**|Gen Luo et.al.|[2302.08106v1](http://arxiv.org/abs/2302.08106v1)|**[link](https://github.com/luogen1996/repadapter)**|
 |**2023-02-16**|**Multiscalar field cosmological model and possible solutions using Noether symmetry approach**|Santu Mondal et.al.|[2302.08104v1](http://arxiv.org/abs/2302.08104v1)|null|
 |**2023-02-16**|**Prompt Tuning of Deep Neural Networks for Speaker-adaptive Visual Speech Recognition**|Minsu Kim et.al.|[2302.08102v1](http://arxiv.org/abs/2302.08102v1)|null|
