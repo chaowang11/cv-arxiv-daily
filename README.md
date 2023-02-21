@@ -25,7 +25,7 @@
 |---|---|---|---|---|
 |**2023-02-17**|**Algorithmic Hallucinations of Near-Surface Winds: Statistical Downscaling with Generative Adversarial Networks to Convection-Permitting Scales**|Nicolaas J. Annau et.al.|[2302.08720v1](http://arxiv.org/abs/2302.08720v1)|null|
 |**2023-02-17**|**Kernelized Back-Projection Networks for Blind Super Resolution**|Tomoki Yoshida et.al.|[2302.08478v2](http://arxiv.org/abs/2302.08478v2)|null|
-|**2023-02-16**|**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**|Zhengyu Liang et.al.|[2302.08058v1](http://arxiv.org/abs/2302.08058v1)|**[link](https://github.com/zhengyuliang24/epit)**|
+|**2023-02-18**|**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**|Zhengyu Liang et.al.|[2302.08058v2](http://arxiv.org/abs/2302.08058v2)|**[link](https://github.com/zhengyuliang24/epit)**|
 |**2023-02-16**|**TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation**|Yunliang Jiang et.al.|[2302.08047v1](http://arxiv.org/abs/2302.08047v1)|null|
 |**2023-02-16**|**Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space**|Keyan Chen et.al.|[2302.08046v1](http://arxiv.org/abs/2302.08046v1)|**[link](https://github.com/KyanChen/FunSR)**|
 |**2023-02-15**|**Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild**|Hshmat Sahak et.al.|[2302.07864v1](http://arxiv.org/abs/2302.07864v1)|null|
@@ -168,7 +168,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-02-17**|**Algorithmic Hallucinations of Near-Surface Winds: Statistical Downscaling with Generative Adversarial Networks to Convection-Permitting Scales**|Nicolaas J. Annau et.al.|[2302.08720v1](http://arxiv.org/abs/2302.08720v1)|null|
-|**2023-02-16**|**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**|Zhengyu Liang et.al.|[2302.08058v1](http://arxiv.org/abs/2302.08058v1)|**[link](https://github.com/zhengyuliang24/epit)**|
+|**2023-02-18**|**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**|Zhengyu Liang et.al.|[2302.08058v2](http://arxiv.org/abs/2302.08058v2)|**[link](https://github.com/zhengyuliang24/epit)**|
 |**2023-02-16**|**TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation**|Yunliang Jiang et.al.|[2302.08047v1](http://arxiv.org/abs/2302.08047v1)|null|
 |**2023-02-16**|**Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space**|Keyan Chen et.al.|[2302.08046v1](http://arxiv.org/abs/2302.08046v1)|**[link](https://github.com/KyanChen/FunSR)**|
 |**2023-02-15**|**Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild**|Hshmat Sahak et.al.|[2302.07864v1](http://arxiv.org/abs/2302.07864v1)|null|
@@ -402,7 +402,7 @@
 |**2023-02-16**|**Quantum work statistics at strong reservoir coupling**|Owen Diba et.al.|[2302.08395v1](http://arxiv.org/abs/2302.08395v1)|null|
 |**2023-02-16**|**How Well Sensing Integrates with Communications in MmWave Wi-Fi?**|Mohamed Abdalgader et.al.|[2302.08378v1](http://arxiv.org/abs/2302.08378v1)|null|
 |**2023-02-17**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v2](http://arxiv.org/abs/2302.08374v2)|**[link](https://github.com/badripatro/efficient360)**|
-|**2023-02-17**|**QuickVC: Many-to-any Voice Conversion Using Inverse Short-time Fourier Transform for Faster Conversion**|Houjian Guo et.al.|[2302.08296v2](http://arxiv.org/abs/2302.08296v2)|**[link](https://github.com/quickvc/quickvoice-conversion)**|
+|**2023-02-20**|**QuickVC: Many-to-any Voice Conversion Using Inverse Short-time Fourier Transform for Faster Conversion**|Houjian Guo et.al.|[2302.08296v3](http://arxiv.org/abs/2302.08296v3)|**[link](https://github.com/quickvc/quickvoice-conversion)**|
 |**2023-02-16**|**Theory and Implementation of Complex-Valued Neural Networks**|Jose Agustin Barrachina et.al.|[2302.08286v1](http://arxiv.org/abs/2302.08286v1)|**[link](https://github.com/JesperDramsch/keras-complex)**|
 |**2023-02-16**|**Robust Human Motion Forecasting using Transformer-based Model**|Esteve Valls Mascaro et.al.|[2302.08274v1](http://arxiv.org/abs/2302.08274v1)|null|
 |**2023-02-16**|**Eigenvalues of Symmetric Non-normalized Discrete Trigonometric Transforms**|Ali Bagheri Bardi et.al.|[2302.08222v1](http://arxiv.org/abs/2302.08222v1)|null|
