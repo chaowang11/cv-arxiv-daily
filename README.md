@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-22**|**On The Role of Alias and Band-Shift for Sentinel-2 Super-Resolution**|Ngoc Long Nguyen et.al.|[2302.11494v1](http://arxiv.org/abs/2302.11494v1)|null|
+|**2023-02-22**|**A residual dense vision transformer for medical image super-resolution with segmentation-based perceptual loss fine-tuning**|Jin Zhu et.al.|[2302.11184v1](http://arxiv.org/abs/2302.11184v1)|null|
+|**2023-02-22**|**DISCO: Distributed Inference with Sparse Communications**|Minghai Qin et.al.|[2302.11180v1](http://arxiv.org/abs/2302.11180v1)|null|
+|**2023-02-21**|**Posterior Annealing: Fast Calibrated Uncertainty for Regression**|Uddeshya Upadhyay et.al.|[2302.11012v1](http://arxiv.org/abs/2302.11012v1)|null|
 |**2023-02-21**|**LIT-Former: Linking In-plane and Through-plane Transformers for Simultaneous CT Image Denoising and Deblurring**|Zhihao Chen et.al.|[2302.10630v1](http://arxiv.org/abs/2302.10630v1)|null|
 |**2023-02-21**|**Improving Scene Text Image Super-Resolution via Dual Prior Modulation Network**|Shipeng Zhu et.al.|[2302.10414v1](http://arxiv.org/abs/2302.10414v1)|**[link](https://github.com/jdfxzzy/dpmn)**|
 |**2023-01-23**|**Is Autoencoder Truly Applicable for 3D CT Super-Resolution?**|Weixun Luo et.al.|[2302.10272v1](http://arxiv.org/abs/2302.10272v1)|null|
@@ -173,6 +177,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-22**|**On The Role of Alias and Band-Shift for Sentinel-2 Super-Resolution**|Ngoc Long Nguyen et.al.|[2302.11494v1](http://arxiv.org/abs/2302.11494v1)|null|
+|**2023-02-22**|**A residual dense vision transformer for medical image super-resolution with segmentation-based perceptual loss fine-tuning**|Jin Zhu et.al.|[2302.11184v1](http://arxiv.org/abs/2302.11184v1)|null|
+|**2023-02-22**|**DISCO: Distributed Inference with Sparse Communications**|Minghai Qin et.al.|[2302.11180v1](http://arxiv.org/abs/2302.11180v1)|null|
+|**2023-02-21**|**Posterior Annealing: Fast Calibrated Uncertainty for Regression**|Uddeshya Upadhyay et.al.|[2302.11012v1](http://arxiv.org/abs/2302.11012v1)|null|
 |**2023-02-21**|**Improving Scene Text Image Super-Resolution via Dual Prior Modulation Network**|Shipeng Zhu et.al.|[2302.10414v1](http://arxiv.org/abs/2302.10414v1)|**[link](https://github.com/jdfxzzy/dpmn)**|
 |**2023-01-23**|**Is Autoencoder Truly Applicable for 3D CT Super-Resolution?**|Weixun Luo et.al.|[2302.10272v1](http://arxiv.org/abs/2302.10272v1)|null|
 |**2023-02-17**|**Algorithmic Hallucinations of Near-Surface Winds: Statistical Downscaling with Generative Adversarial Networks to Convection-Permitting Scales**|Nicolaas J. Annau et.al.|[2302.08720v1](http://arxiv.org/abs/2302.08720v1)|null|
@@ -278,7 +286,7 @@
 |**2022-08-04**|**Online Video Super-Resolution with Convolutional Kernel Bypass Graft**|Jun Xiao et.al.|[2208.02470v1](http://arxiv.org/abs/2208.02470v1)|null|
 |**2022-07-25**|**NeuriCam: Video Super-Resolution and Colorization Using Key Frames**|Bandhav Veluri et.al.|[2207.12496v1](http://arxiv.org/abs/2207.12496v1)|**[link](https://github.com/vb000/neuricam)**|
 |**2022-07-21**|**Towards Interpretable Video Super-Resolution via Alternating Optimization**|Jiezhang Cao et.al.|[2207.10765v1](http://arxiv.org/abs/2207.10765v1)|**[link](https://github.com/caojiezhang/davsr)**|
-|**2022-07-18**|**Enhancing Space-time Video Super-resolution via Spatial-temporal Feature Interaction**|Zijie Yue et.al.|[2207.08960v1](http://arxiv.org/abs/2207.08960v1)|**[link](https://github.com/yuezijie/stinet-space-time-video-super-resolution)**|
+|**2023-02-22**|**Enhancing Space-time Video Super-resolution via Spatial-temporal Feature Interaction**|Zijie Yue et.al.|[2207.08960v2](http://arxiv.org/abs/2207.08960v2)|**[link](https://github.com/yuezijie/stinet-space-time-video-super-resolution)**|
 |**2022-09-27**|**Boosting Video Super Resolution with Patch-Based Temporal Redundancy Optimization**|Yuhao Huang et.al.|[2207.08674v3](http://arxiv.org/abs/2207.08674v3)|**[link](https://github.com/hyhsimon/boosted-vsr)**|
 |**2022-07-21**|**Geometry-Aware Reference Synthesis for Multi-View Image Super-Resolution**|Ri Cheng et.al.|[2207.08601v2](http://arxiv.org/abs/2207.08601v2)|null|
 |**2022-10-09**|**Rethinking Alignment in Video Super-Resolution Transformers**|Shuwei Shi et.al.|[2207.08494v2](http://arxiv.org/abs/2207.08494v2)|**[link](https://github.com/xpixelgroup/rethinkvsralignment)**|
@@ -372,9 +380,50 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-22**|**K-Diag: Knowledge-enhanced Disease Diagnosis in Radiographic Imaging**|Chaoyi Wu et.al.|[2302.11557v1](http://arxiv.org/abs/2302.11557v1)|null|
+|**2023-02-22**|**nSimplex Zen: A Novel Dimensionality Reduction for Euclidean and Hilbert Spaces**|Richard Connor et.al.|[2302.11508v1](http://arxiv.org/abs/2302.11508v1)|null|
+|**2023-02-22**|**Band structures and contact points in phosphorene superlattice**|Jilali Seffadi et.al.|[2302.11498v1](http://arxiv.org/abs/2302.11498v1)|null|
+|**2023-02-22**|**Magnification Invariant Medical Image Analysis: A Comparison of Convolutional Networks, Vision Transformers, and Token Mixers**|Pranav Jeevan et.al.|[2302.11488v1](http://arxiv.org/abs/2302.11488v1)|null|
+|**2023-02-22**|**Transformer-Based Sensor Fusion for Autonomous Driving: A Survey**|Apoorv Singh et.al.|[2302.11481v1](http://arxiv.org/abs/2302.11481v1)|null|
+|**2023-02-22**|**Thermodynamical properties of a deformed Schwarzschild black hole via Dunkl generalization**|P. Sedaghatnia et.al.|[2302.11460v1](http://arxiv.org/abs/2302.11460v1)|null|
+|**2023-02-22**|**Influence of Gd-rich precipitates on the martensitic transformation, magnetocaloric effect and mechanical properties of Ni-Mn-In Heusler alloys -- A comparative study**|Franziska Scheibel et.al.|[2302.11439v1](http://arxiv.org/abs/2302.11439v1)|null|
+|**2023-02-22**|**Structure Embedded Nucleus Classification for Histopathology Images**|Wei Lou et.al.|[2302.11416v1](http://arxiv.org/abs/2302.11416v1)|null|
+|**2023-02-22**|**Data Augmentation for Neural NLP**|Domagoj Pluščec et.al.|[2302.11412v1](http://arxiv.org/abs/2302.11412v1)|null|
+|**2023-02-22**|**Entity-Level Text-Guided Image Manipulation**|Yikai Wang et.al.|[2302.11383v1](http://arxiv.org/abs/2302.11383v1)|null|
+|**2023-02-22**|**Steerable Equivariant Representation Learning**|Sangnie Bhardwaj et.al.|[2302.11349v1](http://arxiv.org/abs/2302.11349v1)|null|
+|**2023-02-22**|**HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer**|Qiheng Mao et.al.|[2302.11329v1](http://arxiv.org/abs/2302.11329v1)|null|
+|**2023-02-22**|**Video-SwinUNet: Spatio-temporal Deep Learning Framework for VFSS Instance Segmentation**|Chengxi Zeng et.al.|[2302.11325v1](http://arxiv.org/abs/2302.11325v1)|**[link](https://github.com/simonzeng7108/video-swinunet)**|
+|**2023-02-22**|**SGMFQP:An Ontology-based Swine Gut Microbiota Federated Query Platform**|Ying Wang et.al.|[2302.11314v1](http://arxiv.org/abs/2302.11314v1)|null|
+|**2023-02-22**|**Various integral estimations and screening schemes for extended systems in PySCF**|Qiming Sun et.al.|[2302.11307v1](http://arxiv.org/abs/2302.11307v1)|null|
+|**2023-02-22**|**Human MotionFormer: Transferring Human Motions with Vision Transformers**|Hongyu Liu et.al.|[2302.11306v1](http://arxiv.org/abs/2302.11306v1)|null|
+|**2023-02-22**|**Distributional Variational AutoEncoder To Infinite Quantiles and Beyond Gaussianity**|SeungHwan An et.al.|[2302.11294v1](http://arxiv.org/abs/2302.11294v1)|null|
+|**2023-02-22**|**Cross-modal Audio-visual Co-learning for Text-independent Speaker Verification**|Meng Liu et.al.|[2302.11254v1](http://arxiv.org/abs/2302.11254v1)|**[link](https://github.com/danielmengliu/audiovisuallip)**|
+|**2023-02-22**|**Differential Flatness of Slider-Pusher Systems for Constrained Time Optimal Collision Free Path Planning**|Tom Lefebvre et.al.|[2302.11246v1](http://arxiv.org/abs/2302.11246v1)|null|
+|**2023-02-22**|**The DeepCAR Method: Forecasting Time-Series Data That Have Change Points**|Ayla Jungbluth et.al.|[2302.11241v1](http://arxiv.org/abs/2302.11241v1)|**[link](https://github.com/ledererlab/deepcar)**|
+|**2023-02-22**|**KS-DETR: Knowledge Sharing in Attention Learning for Detection Transformer**|Kaikai Zhao et.al.|[2302.11208v1](http://arxiv.org/abs/2302.11208v1)|**[link](https://github.com/edocanonymous/ks-detr)**|
+|**2023-02-22**|**A Hitting Time Analysis for Stochastic Time-Varying Functions with Applications to Adversarial Attacks on Computation of Markov Decision Processes**|Ali Yekkehkhany et.al.|[2302.11190v1](http://arxiv.org/abs/2302.11190v1)|null|
+|**2023-02-22**|**What Are Effective Labels for Augmented Data? Improving Calibration and Robustness with AutoLabel**|Yao Qin et.al.|[2302.11188v1](http://arxiv.org/abs/2302.11188v1)|null|
+|**2023-02-22**|**A residual dense vision transformer for medical image super-resolution with segmentation-based perceptual loss fine-tuning**|Jin Zhu et.al.|[2302.11184v1](http://arxiv.org/abs/2302.11184v1)|null|
+|**2023-02-22**|**DISCO: Distributed Inference with Sparse Communications**|Minghai Qin et.al.|[2302.11180v1](http://arxiv.org/abs/2302.11180v1)|null|
+|**2023-02-22**|**A Quantum Algorithm for Functions of Multiple Commuting Hermitian Matrices**|Yonah Borns-Weil et.al.|[2302.11139v1](http://arxiv.org/abs/2302.11139v1)|null|
+|**2023-02-22**|**On the Design of Artificial Noise for Physical Layer Security in Visible Light Communication Channels with Clipping**|Thanh V. Pham et.al.|[2302.11125v1](http://arxiv.org/abs/2302.11125v1)|null|
+|**2023-02-22**|**Use Cases for Time-Frequency Image Representations and Deep Learning Techniques for Improved Signal Classification**|Mehmet Parlak et.al.|[2302.11093v1](http://arxiv.org/abs/2302.11093v1)|null|
+|**2023-02-22**|**Learning to Generalize Provably in Learning to Optimize**|Junjie Yang et.al.|[2302.11085v1](http://arxiv.org/abs/2302.11085v1)|**[link](https://github.com/VITA-Group/Open-L2O)**|
+|**2023-02-22**|**BB-GCN: A Bi-modal Bridged Graph Convolutional Network for Multi-label Chest X-Ray Recognition**|Guoli Wang et.al.|[2302.11082v1](http://arxiv.org/abs/2302.11082v1)|null|
+|**2023-02-22**|**Deep Active Learning in the Presence of Label Noise: A Survey**|Moseli Mots'oehli et.al.|[2302.11075v1](http://arxiv.org/abs/2302.11075v1)|null|
+|**2023-02-22**|**Universal Morphology Control via Contextual Modulation**|Zheng Xiong et.al.|[2302.11070v1](http://arxiv.org/abs/2302.11070v1)|null|
+|**2023-02-21**|**Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks**|Bowen Jin et.al.|[2302.11050v1](http://arxiv.org/abs/2302.11050v1)|**[link](https://github.com/petergriffinjin/edgeformers)**|
+|**2023-02-21**|**Analysis of Real-Time Hostile Activitiy Detection from Spatiotemporal Features Using Time Distributed Deep CNNs, RNNs and Attention-Based Mechanisms**|Labib Ahmed Siddique et.al.|[2302.11027v1](http://arxiv.org/abs/2302.11027v1)|null|
+|**2023-02-21**|**MVMTnet: A Multi-variate Multi-modal Transformer for Multi-class Classification of Cardiac Irregularities Using ECG Waveforms and Clinical Notes**|Ankur Samanta et.al.|[2302.11021v1](http://arxiv.org/abs/2302.11021v1)|null|
+|**2023-02-21**|**Robust Auto-landing Control of an agile Regional Jet Using Fuzzy Q-learning**|Mohsen Zahmatkesh et.al.|[2302.10997v1](http://arxiv.org/abs/2302.10997v1)|null|
+|**2023-02-21**|**A characterization of Rieffel's deformed algebra as Heisenberg smooth operators**|Rodrigo A. H. M. Cabral et.al.|[2302.10990v1](http://arxiv.org/abs/2302.10990v1)|null|
+|**2023-02-21**|**MultiRobustBench: Benchmarking Robustness Against Multiple Attacks**|Sihui Dai et.al.|[2302.10980v1](http://arxiv.org/abs/2302.10980v1)|null|
+|**2023-02-21**|**Differentiable Rendering with Reparameterized Volume Sampling**|Nikita Morozov et.al.|[2302.10970v1](http://arxiv.org/abs/2302.10970v1)|**[link](https://github.com/greatdrake/reparameterized-volume-sampling)**|
+|**2023-02-21**|**Block-encoding structured matrices for data input in quantum computing**|Christoph Sünderhauf et.al.|[2302.10949v1](http://arxiv.org/abs/2302.10949v1)|null|
+|**2023-02-21**|**Effect of Geomagnetic Storms on a Power Network at Mid Latitudes**|Somayeh Tarana et.al.|[2302.10925v1](http://arxiv.org/abs/2302.10925v1)|null|
 |**2023-02-21**|**Provable Copyright Protection for Generative Models**|Nikhil Vyas et.al.|[2302.10870v1](http://arxiv.org/abs/2302.10870v1)|null|
 |**2023-02-21**|**Hyena Hierarchy: Towards Larger Convolutional Language Models**|Michael Poli et.al.|[2302.10866v1](http://arxiv.org/abs/2302.10866v1)|null|
-|**2023-02-21**|**SF2Former: Amyotrophic Lateral Sclerosis Identification From Multi-center MRI Data Using Spatial and Frequency Fusion Transformer**|Rafsanjany Kushol et.al.|[2302.10859v1](http://arxiv.org/abs/2302.10859v1)|null|
+|**2023-02-21**|**SF2Former: Amyotrophic Lateral Sclerosis Identification From Multi-center MRI Data Using Spatial and Frequency Fusion Transformer**|Rafsanjany Kushol et.al.|[2302.10859v1](http://arxiv.org/abs/2302.10859v1)|**[link](https://github.com/raoyongming/GFNet)**|
 |**2023-02-21**|**Bokeh Rendering Based on Adaptive Depth Calibration Network**|Lu Liu et.al.|[2302.10808v1](http://arxiv.org/abs/2302.10808v1)|null|
 |**2023-02-21**|**ChatGPT: Jack of all trades, master of none**|Jan Kocoń et.al.|[2302.10724v1](http://arxiv.org/abs/2302.10724v1)|**[link](https://github.com/clarin-pl/chatgpt-evaluation-01-2023)**|
 |**2023-02-21**|**Memory-augmented Online Video Anomaly Detection**|Leonardo Rossi et.al.|[2302.10719v1](http://arxiv.org/abs/2302.10719v1)|**[link](https://github.com/implabunipr/movad)**|
