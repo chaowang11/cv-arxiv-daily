@@ -412,7 +412,7 @@
 |**2023-02-23**|**The Transformational Power of Frequency Phase Transfer Methods for ngEHT**|María J. Rioja et.al.|[2302.11776v1](http://arxiv.org/abs/2302.11776v1)|null|
 |**2023-02-23**|**Cross-City Traffic Prediction via Semantic-Fused Hierarchical Graph Transfer Learning**|Kehua Chen et.al.|[2302.11774v1](http://arxiv.org/abs/2302.11774v1)|null|
 |**2023-02-23**|**Detecting software vulnerabilities using Language Models**|Marwan Omar et.al.|[2302.11773v1](http://arxiv.org/abs/2302.11773v1)|null|
-|**2023-02-23**|**VLSP 2022 -- EVJVQA Challenge: Multilingual Visual Question Answering**|Ngan Luu-Thuy Nguyen et.al.|[2302.11752v1](http://arxiv.org/abs/2302.11752v1)|null|
+|**2023-02-24**|**VLSP2022 EVJVQA Challenge: Multilingual Visual Question Answering**|Ngan Luu-Thuy Nguyen et.al.|[2302.11752v2](http://arxiv.org/abs/2302.11752v2)|null|
 |**2023-02-23**|**Membrane buckling and the determination of Gaussian curvature modulus**|Mei-Ting Wang et.al.|[2302.11745v1](http://arxiv.org/abs/2302.11745v1)|null|
 |**2023-02-23**|**A Convolutional-Transformer Network for Crack Segmentation with Boundary Awareness**|Huaqi Tao et.al.|[2302.11728v1](http://arxiv.org/abs/2302.11728v1)|null|
 |**2023-02-22**|**ACE: Zero-Shot Image to Image Translation via Pretrained Auto-Contrastive-Encoder**|Sihan Xu et.al.|[2302.11705v1](http://arxiv.org/abs/2302.11705v1)|**[link](https://github.com/sihanxu/ace)**|
