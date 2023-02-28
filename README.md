@@ -23,7 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-24**|**Joint Learning of Blind Super-Resolution and Crack Segmentation for Realistic Degraded Images**|Yuki Kondoa et.al.|[2302.12491v1](http://arxiv.org/abs/2302.12491v1)|null|
+|**2023-02-27**|**Joint Learning of Blind Super-Resolution and Crack Segmentation for Realistic Degraded Images**|Yuki Kondo et.al.|[2302.12491v2](http://arxiv.org/abs/2302.12491v2)|null|
 |**2023-02-22**|**On The Role of Alias and Band-Shift for Sentinel-2 Super-Resolution**|Ngoc Long Nguyen et.al.|[2302.11494v1](http://arxiv.org/abs/2302.11494v1)|null|
 |**2023-02-22**|**A residual dense vision transformer for medical image super-resolution with segmentation-based perceptual loss fine-tuning**|Jin Zhu et.al.|[2302.11184v1](http://arxiv.org/abs/2302.11184v1)|null|
 |**2023-02-22**|**DISCO: Distributed Inference with Sparse Communications**|Minghai Qin et.al.|[2302.11180v1](http://arxiv.org/abs/2302.11180v1)|null|
@@ -386,7 +386,7 @@
 |**2023-02-24**|**Symplectic charges in the Yang-Mills theory of the normal conformal Cartan connection: applications to gravity**|Adam Bac et.al.|[2302.12739v1](http://arxiv.org/abs/2302.12739v1)|null|
 |**2023-02-24**|**Amortised Invariance Learning for Contrastive Self-Supervision**|Ruchika Chavhan et.al.|[2302.12712v1](http://arxiv.org/abs/2302.12712v1)|null|
 |**2023-02-24**|**Towards UV-Models of Kinetic Mixing and Portal Matter III: Relating Portal Matter and R-H Neutrino Masses**|Thomas G. Rizzo et.al.|[2302.12698v1](http://arxiv.org/abs/2302.12698v1)|null|
-|**2023-02-24**|**Boosting Transformers and Language Models for Clinical Prediction in Immunotherapy**|Zekai Chen et.al.|[2302.12692v1](http://arxiv.org/abs/2302.12692v1)|null|
+|**2023-02-27**|**Language Models are Few-shot Learners for Prognostic Prediction**|Zekai Chen et.al.|[2302.12692v2](http://arxiv.org/abs/2302.12692v2)|null|
 |**2023-02-24**|**Modelling Temporal Document Sequences for Clinical ICD Coding**|Clarence Boon Liang Ng et.al.|[2302.12666v1](http://arxiv.org/abs/2302.12666v1)|null|
 |**2023-02-23**|**Computational Orbital Mechanics of Marble Motion on a 3D Printed Surface -- 1. Formal Basis**|Pooja Bhambhu et.al.|[2302.12643v1](http://arxiv.org/abs/2302.12643v1)|null|
 |**2023-02-24**|**Implicit Temporal Reasoning for Evidence-Based Fact-Checking**|Liesbeth Allein et.al.|[2302.12569v1](http://arxiv.org/abs/2302.12569v1)|**[link](https://github.com/marlon668/verificationclaimswithtimeattribution)**|
@@ -410,10 +410,10 @@
 |**2023-02-23**|**Boosting Adversarial Transferability using Dynamic Cues**|Muzammal Naseer et.al.|[2302.12252v1](http://arxiv.org/abs/2302.12252v1)|null|
 |**2023-02-23**|**VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion**|Yiming Li et.al.|[2302.12251v1](http://arxiv.org/abs/2302.12251v1)|**[link](https://github.com/nvlabs/voxformer)**|
 |**2023-02-23**|**What makes a language easy to deep-learn?**|Lukas Galke et.al.|[2302.12239v1](http://arxiv.org/abs/2302.12239v1)|null|
-|**2023-02-23**|**Unified Chest X-ray and Radiology Report Generation Model with Multi-view Chest X-rays**|Hyungyung Lee et.al.|[2302.12172v1](http://arxiv.org/abs/2302.12172v1)|null|
+|**2023-02-26**|**Unified Chest X-ray and Radiology Report Generation Model with Multi-view Chest X-rays**|Hyungyung Lee et.al.|[2302.12172v2](http://arxiv.org/abs/2302.12172v2)|null|
 |**2023-02-23**|**Do Machine Learning Models Produce TypeScript Types that Type Check?**|Ming-Ho Yee et.al.|[2302.12163v1](http://arxiv.org/abs/2302.12163v1)|**[link](https://github.com/nuprl/typeweaver)**|
 |**2023-02-23**|**On the Generalization Ability of Retrieval-Enhanced Transformers**|Tobias Norlund et.al.|[2302.12128v1](http://arxiv.org/abs/2302.12128v1)|null|
-|**2023-02-23**|**Size effects in the toughening of brittle materials by heterogeneities: a non-linear analysis of front deformations**|Lebihain Mathias et.al.|[2302.12083v1](http://arxiv.org/abs/2302.12083v1)|null|
+|**2023-02-27**|**Size effects in the toughening of brittle materials by heterogeneities: a non-linear analysis of front deformations**|Mathias Lebihain et.al.|[2302.12083v2](http://arxiv.org/abs/2302.12083v2)|null|
 |**2023-02-23**|**Extreme eigenvalues of random matrices from Jacobi ensembles**|B. Winn et.al.|[2302.12082v1](http://arxiv.org/abs/2302.12082v1)|null|
 |**2023-02-23**|**SPINDLE: Spinning Raw Text into Lambda Terms with Graph Attention**|Konstantinos Kogkalidis et.al.|[2302.12050v1](http://arxiv.org/abs/2302.12050v1)|**[link](https://github.com/konstantinoskokos/aethel)**|
 |**2023-02-23**|**Frequency bin-wise single channel speech presence probability estimation using multiple DNNs**|Shuai Tao et.al.|[2302.12048v1](http://arxiv.org/abs/2302.12048v1)|null|
