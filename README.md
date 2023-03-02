@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-01**|**Lessons Learned Report: Super-Resolution for Detection Tasks in Engineering Problem-Solving**|Martin Feder et.al.|[2303.00364v1](http://arxiv.org/abs/2303.00364v1)|null|
+|**2023-03-01**|**Online Video Streaming Super-Resolution with Adaptive Look-Up Table Fusion**|Guanghao Yin et.al.|[2303.00334v1](http://arxiv.org/abs/2303.00334v1)|null|
 |**2023-02-28**|**TextIR: A Simple Framework for Text-based Editable Image Restoration**|Yunpeng Bai et.al.|[2302.14736v1](http://arxiv.org/abs/2302.14736v1)|null|
 |**2023-02-28**|**GRAN: Ghost Residual Attention Network for Single Image Super Resolution**|Axi Niu et.al.|[2302.14557v1](http://arxiv.org/abs/2302.14557v1)|null|
 |**2023-02-28**|**BrainBERT: Self-supervised representation learning for intracranial recordings**|Christopher Wang et.al.|[2302.14367v1](http://arxiv.org/abs/2302.14367v1)|null|
@@ -282,6 +284,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-01**|**Online Video Streaming Super-Resolution with Adaptive Look-Up Table Fusion**|Guanghao Yin et.al.|[2303.00334v1](http://arxiv.org/abs/2303.00334v1)|null|
 |**2023-02-26**|**Continuous Space-Time Video Super-Resolution Utilizing Long-Range Temporal Information**|Yuantong Zhang et.al.|[2302.13256v1](http://arxiv.org/abs/2302.13256v1)|null|
 |**2023-01-02**|**In-situ monitoring additive manufacturing process with AI edge computing**|Wenkang Zhu et.al.|[2301.00554v1](http://arxiv.org/abs/2301.00554v1)|null|
 |**2022-12-27**|**Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution**|Zhongwei Qiu et.al.|[2212.14046v1](http://arxiv.org/abs/2212.14046v1)|**[link](https://github.com/researchmm/ftvsr)**|
@@ -397,6 +400,52 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-01**|**StraIT: Non-autoregressive Generation with Stratified Image Transformer**|Shengju Qian et.al.|[2303.00750v1](http://arxiv.org/abs/2303.00750v1)|null|
+|**2023-03-01**|**Aligning benchmark datasets for table structure recognition**|Brandon Smock et.al.|[2303.00716v1](http://arxiv.org/abs/2303.00716v1)|null|
+|**2023-03-01**|**Trust your source: quantifying source condition elements for variational regularisation methods**|Martin Benning et.al.|[2303.00696v1](http://arxiv.org/abs/2303.00696v1)|null|
+|**2023-03-01**|**Rethinking Efficient Tuning Methods from a Unified Perspective**|Zeyinzi Jiang et.al.|[2303.00690v1](http://arxiv.org/abs/2303.00690v1)|null|
+|**2023-03-01**|**Design of a fast speckle wavemeter with optical processing**|Lucas Rodrigo Mendicino et.al.|[2303.00679v1](http://arxiv.org/abs/2303.00679v1)|null|
+|**2023-03-01**|**Algorithmic Governance for Explainability: A Comparative Overview of Progress and Trends**|Yulu Pi et.al.|[2303.00651v1](http://arxiv.org/abs/2303.00651v1)|null|
+|**2023-03-01**|**Robustness of quantum algorithms against coherent control errors**|J. Berberich et.al.|[2303.00618v1](http://arxiv.org/abs/2303.00618v1)|null|
+|**2023-03-01**|**Diffusing Graph Attention**|Daniel Glickman et.al.|[2303.00613v1](http://arxiv.org/abs/2303.00613v1)|null|
+|**2023-03-01**|**SCRIMP: Scalable Communication for Reinforcement- and Imitation-Learning-Based Multi-Agent Pathfinding**|Yutong Wang et.al.|[2303.00605v1](http://arxiv.org/abs/2303.00605v1)|null|
+|**2023-03-01**|**Are More Layers Beneficial to Graph Transformers?**|Haiteng Zhao et.al.|[2303.00579v1](http://arxiv.org/abs/2303.00579v1)|null|
+|**2023-03-01**|**D2Q-DETR: Decoupling and Dynamic Queries for Oriented Object Detection with Transformers**|Qiang Zhou et.al.|[2303.00542v1](http://arxiv.org/abs/2303.00542v1)|null|
+|**2023-03-01**|**Nonadiabatic Dynamics Near Metal Surface With Periodic Drivings: A Floquet Surface Hopping Algorithm**|Yu Wang et.al.|[2303.00479v1](http://arxiv.org/abs/2303.00479v1)|null|
+|**2023-03-01**|**Maximal Ergodic Theorem On Weighted  $L^p_w(X)$  spaces**|Sri Sakti Swarup Anupindi et.al.|[2303.00464v1](http://arxiv.org/abs/2303.00464v1)|null|
+|**2023-03-01**|**The style transformer with common knowledge optimization for image-text retrieval**|Wenrui Li et.al.|[2303.00448v1](http://arxiv.org/abs/2303.00448v1)|null|
+|**2023-03-01**|**Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation**|Guozhen Zhang et.al.|[2303.00440v1](http://arxiv.org/abs/2303.00440v1)|null|
+|**2023-03-01**|**Self-Sovereign Identity for Trust and Interoperability in the Metaverse**|Siem Ghirmai et.al.|[2303.00422v1](http://arxiv.org/abs/2303.00422v1)|null|
+|**2023-03-01**|**Operator-difference schemes on non-uniform grids for second-order evolutionary equations**|P. N. Vabishchevich et.al.|[2303.00421v1](http://arxiv.org/abs/2303.00421v1)|null|
+|**2023-03-01**|**Detecting the Most Probable High Dimensional Transition Pathway Based on Optimal Control Theory**|Jianyu Chen et.al.|[2303.00385v1](http://arxiv.org/abs/2303.00385v1)|null|
+|**2023-03-01**|**Temporal Scalability of Dynamic Volume Data Using Mesh Compensated Wavelet Lifting**|Wolfgang Schnurrer et.al.|[2303.00379v1](http://arxiv.org/abs/2303.00379v1)|null|
+|**2023-03-01**|**A general approach to constructing minimal representations of Lie supergroups**|Sigiswald Barbier et.al.|[2303.00378v1](http://arxiv.org/abs/2303.00378v1)|null|
+|**2023-03-01**|**Progressive Scale-aware Network for Remote sensing Image Change Captioning**|Chenyang Liu et.al.|[2303.00355v1](http://arxiv.org/abs/2303.00355v1)|null|
+|**2023-03-01**|**Inline Citation Classification using Peripheral Context and Time-evolving Augmentation**|Priyanshi Gupta et.al.|[2303.00344v1](http://arxiv.org/abs/2303.00344v1)|null|
+|**2023-03-01**|**TimeMAE: Self-Supervised Representations of Time Series with Decoupled Masked Autoencoders**|Mingyue Cheng et.al.|[2303.00320v1](http://arxiv.org/abs/2303.00320v1)|null|
+|**2023-03-01**|**RIFT2: Speeding-up RIFT with A New Rotation-Invariance Technique**|Jiayuan Li et.al.|[2303.00319v1](http://arxiv.org/abs/2303.00319v1)|**[link](https://github.com/ljy-rs/rift2-multimodal-matching-rotation)**|
+|**2023-03-01**|**Charged test-particle scattering and effective one-body metrics with spin**|Jitze Hoogeveen et.al.|[2303.00317v1](http://arxiv.org/abs/2303.00317v1)|null|
+|**2023-03-01**|**Thermodynamically consistent non-isothermal phase-field modelling of elastocaloric effect: indirect \textit{vs.} direct method**|Wei Tang et.al.|[2303.00309v1](http://arxiv.org/abs/2303.00309v1)|null|
+|**2023-03-01**|**Static Power Consumption Modeling and Measurement of Reconfigurable Intelligent Surfaces**|Jinghe Wang et.al.|[2303.00299v1](http://arxiv.org/abs/2303.00299v1)|null|
+|**2023-03-01**|**Capturing the motion of every joint: 3D human pose and shape estimation with independent tokens**|Sen Yang et.al.|[2303.00298v1](http://arxiv.org/abs/2303.00298v1)|**[link](https://github.com/yangsenius/int_hmr_model)**|
+|**2023-03-01**|**How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**|Xuanting Chen et.al.|[2303.00293v1](http://arxiv.org/abs/2303.00293v1)|null|
+|**2023-03-01**|**To Make Yourself Invisible with Adversarial Semantic Contours**|Yichi Zhang et.al.|[2303.00284v1](http://arxiv.org/abs/2303.00284v1)|null|
+|**2023-03-01**|**Revisiting the Kepler problem with linear drag using the blowup method and normal form theory**|Kristian Uldall Kristiansen et.al.|[2303.00283v1](http://arxiv.org/abs/2303.00283v1)|null|
+|**2023-03-01**|**FedScore: A privacy-preserving framework for federated scoring system development**|Siqi Li et.al.|[2303.00282v1](http://arxiv.org/abs/2303.00282v1)|null|
+|**2023-03-01**|**Label Attention Network for sequential multi-label classification**|Elizaveta Kovtun et.al.|[2303.00280v1](http://arxiv.org/abs/2303.00280v1)|null|
+|**2023-03-01**|**Hidden Markov Transformer for Simultaneous Machine Translation**|Shaolei Zhang et.al.|[2303.00257v1](http://arxiv.org/abs/2303.00257v1)|**[link](https://github.com/ictnlp/hmt)**|
+|**2023-03-01**|**Single-Cell Multimodal Prediction via Transformers**|Wenzhuo Tang et.al.|[2303.00233v1](http://arxiv.org/abs/2303.00233v1)|null|
+|**2023-03-01**|**Transformed Low-Rank Parameterization Can Help Robust Generalization for Tensor Neural Networks**|Andong Wang et.al.|[2303.00196v1](http://arxiv.org/abs/2303.00196v1)|null|
+|**2023-03-01**|**A Probabilistic Reformulation Technique for Discrete RIS Optimization in Wireless Systems**|Anish Pradhan et.al.|[2303.00182v1](http://arxiv.org/abs/2303.00182v1)|null|
+|**2023-03-01**|**BP-NTT: Fast and Compact in-SRAM Number Theoretic Transform with Bit-Parallel Modular Multiplication**|Jingyao Zhang et.al.|[2303.00173v1](http://arxiv.org/abs/2303.00173v1)|null|
+|**2023-03-01**|**Survivor-Centered Transformative Justice: An Approach to Designing Alongside Domestic Violence Stakeholders in US Muslim Communities**|Hawra Rabaan et.al.|[2303.00172v1](http://arxiv.org/abs/2303.00172v1)|null|
+|**2023-03-01**|**Semi-supervised Parametric Real-world Image Harmonization**|Ke Wang et.al.|[2303.00157v1](http://arxiv.org/abs/2303.00157v1)|null|
+|**2023-03-01**|**Stability and moduli space of generalized Ricci solitons**|Kuan-Hui Lee et.al.|[2303.00149v1](http://arxiv.org/abs/2303.00149v1)|null|
+|**2023-02-28**|**Cell Division and Motility Enable Hexatic Order in Biological Tissues**|Yiwen Tang et.al.|[2303.00129v1](http://arxiv.org/abs/2303.00129v1)|null|
+|**2023-02-28**|**A study on the use of perceptual hashing to detect manipulation of embedded messages in images**|Sven-Jannik Wöhnert et.al.|[2303.00092v1](http://arxiv.org/abs/2303.00092v1)|null|
+|**2023-02-28**|**Applying Plain Transformers to Real-World Point Clouds**|Lanxiao Li et.al.|[2303.00086v1](http://arxiv.org/abs/2303.00086v1)|null|
+|**2023-02-28**|**Key Parameters in Determining the Reactivity of Lithium Metal Battery**|Bingyu Lu et.al.|[2303.00061v1](http://arxiv.org/abs/2303.00061v1)|null|
+|**2023-02-28**|**Efficient Sensor Placement from Regression with Sparse Gaussian Processes in Continuous and Discrete Spaces**|Kalvik Jakkala et.al.|[2303.00028v1](http://arxiv.org/abs/2303.00028v1)|null|
 |**2023-02-28**|**Framelet Message Passing**|Xinliang Liu et.al.|[2302.14806v1](http://arxiv.org/abs/2302.14806v1)|null|
 |**2023-02-28**|**Generic-to-Specific Distillation of Masked Autoencoders**|Wei Huang et.al.|[2302.14771v1](http://arxiv.org/abs/2302.14771v1)|null|
 |**2023-02-28**|**Entanglement, Observers and Cosmology: a view from von Neumann Algebras**|C. Gomez et.al.|[2302.14747v1](http://arxiv.org/abs/2302.14747v1)|null|
