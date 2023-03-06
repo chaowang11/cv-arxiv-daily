@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Single-photon Image Super-resolution via Self-supervised Learning**|Yiwei Chen et.al.|[2303.02033v1](http://arxiv.org/abs/2303.02033v1)|null|
+|**2023-03-03**|**Stochastic Super-Resolution For Gaussian Textures**|Emile Pierret et.al.|[2303.01831v1](http://arxiv.org/abs/2303.01831v1)|null|
 |**2023-03-02**|**Consistency Models**|Yang Song et.al.|[2303.01469v1](http://arxiv.org/abs/2303.01469v1)|null|
 |**2023-03-02**|**OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution**|Gaochao Song et.al.|[2303.01091v1](http://arxiv.org/abs/2303.01091v1)|null|
 |**2023-03-01**|**Lessons Learned Report: Super-Resolution for Detection Tasks in Engineering Problem-Solving**|Martin Feder et.al.|[2303.00364v1](http://arxiv.org/abs/2303.00364v1)|null|
@@ -193,6 +195,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Single-photon Image Super-resolution via Self-supervised Learning**|Yiwei Chen et.al.|[2303.02033v1](http://arxiv.org/abs/2303.02033v1)|null|
 |**2023-03-02**|**OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution**|Gaochao Song et.al.|[2303.01091v1](http://arxiv.org/abs/2303.01091v1)|null|
 |**2023-02-28**|**TextIR: A Simple Framework for Text-based Editable Image Restoration**|Yunpeng Bai et.al.|[2302.14736v1](http://arxiv.org/abs/2302.14736v1)|null|
 |**2023-03-02**|**GRAN: Ghost Residual Attention Network for Single Image Super Resolution**|Axi Niu et.al.|[2302.14557v2](http://arxiv.org/abs/2302.14557v2)|null|
@@ -403,6 +406,53 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**YSE-PZ: A Transient Survey Management Platform that Empowers the Human-in-the-Loop**|D. A. Coulter et.al.|[2303.02154v1](http://arxiv.org/abs/2303.02154v1)|null|
+|**2023-03-03**|**Depth-based 6DoF Object Pose Estimation using Swin Transformer**|Zhujun Li et.al.|[2303.02133v1](http://arxiv.org/abs/2303.02133v1)|**[link](https://github.com/zhujunli1993/swindepose)**|
+|**2023-03-03**|**TRUSformer: Improving Prostate Cancer Detection from Micro-Ultrasound Using Attention and Self-Supervision**|Mahdi Gilany et.al.|[2303.02128v1](http://arxiv.org/abs/2303.02128v1)|**[link](https://github.com/med-i-lab/trusformer)**|
+|**2023-03-03**|**Fubini-Study metric as a tool to classify the topological properties of flat band electronic states: the case of an atomic chain with  $s-p$  orbitals**|Abdiel Espinosa-Champo et.al.|[2303.02126v1](http://arxiv.org/abs/2303.02126v1)|null|
+|**2023-03-03**|**Structure of pressure-gradient-driven current singularity in ideal magnetohydrodynamic equilibrium**|Yi-Min Huang et.al.|[2303.02107v1](http://arxiv.org/abs/2303.02107v1)|null|
+|**2023-03-03**|**Data-Efficient Training of CNNs and Transformers with Coresets: A Stability Perspective**|Animesh Gupta et.al.|[2303.02095v1](http://arxiv.org/abs/2303.02095v1)|null|
+|**2023-03-03**|**Functors between Kasparov categories from étale groupoid correspondences**|Alistair Miller et.al.|[2303.02089v1](http://arxiv.org/abs/2303.02089v1)|null|
+|**2023-03-03**|**On Fourier expansions for systems of ordinary differential equations with distributional coefficients**|Steven Redolfi et.al.|[2303.02086v1](http://arxiv.org/abs/2303.02086v1)|null|
+|**2023-03-03**|**Neutrino Mass and Mixing Models with Eclectic Flavor Symmetry  $Δ (27) \rtimes T'$ **|Gui-Jun Ding et.al.|[2303.02071v1](http://arxiv.org/abs/2303.02071v1)|null|
+|**2023-03-03**|**Spectral learning of Bernoulli linear dynamical systems models for decision-making**|Iris R. Stone et.al.|[2303.02060v1](http://arxiv.org/abs/2303.02060v1)|null|
+|**2023-03-03**|**Ab Initio Transcorrelated Method enabling accurate Quantum Chemistry on near-term Quantum Hardware**|Werner Dobrautz et.al.|[2303.02007v1](http://arxiv.org/abs/2303.02007v1)|null|
+|**2023-03-03**|**PointCert: Point Cloud Classification with Deterministic Certified Robustness Guarantees**|Jinghuai Zhang et.al.|[2303.01959v1](http://arxiv.org/abs/2303.01959v1)|null|
+|**2023-03-03**|**Synthetic Data Generator for Adaptive Interventions in Global Health**|Aditya Rastogi et.al.|[2303.01954v1](http://arxiv.org/abs/2303.01954v1)|null|
+|**2023-03-03**|**Retinal Image Restoration using Transformer and Cycle-Consistent Generative Adversarial Network**|Alnur Alimanov et.al.|[2303.01939v1](http://arxiv.org/abs/2303.01939v1)|null|
+|**2023-03-03**|**A Generalized Nyquist-Shannon Sampling Theorem Using the Koopman Operator**|Zhexuan Zeng et.al.|[2303.01927v1](http://arxiv.org/abs/2303.01927v1)|null|
+|**2023-03-03**|**Low-Complexity Audio Embedding Extractors**|Florian Schmid et.al.|[2303.01879v1](http://arxiv.org/abs/2303.01879v1)|null|
+|**2023-03-03**|**Quantum Merlin-Arthur proof systems for synthesizing quantum states**|Hugo Delavenne et.al.|[2303.01877v1](http://arxiv.org/abs/2303.01877v1)|null|
+|**2023-03-03**|**Attention-based Saliency Maps Improve Interpretability of Pneumothorax Classification**|Alessandro Wollek et.al.|[2303.01871v1](http://arxiv.org/abs/2303.01871v1)|null|
+|**2023-03-03**|**Revisiting Adversarial Training for ImageNet: Architectures, Training and Generalization across Threat Models**|Naman D Singh et.al.|[2303.01870v1](http://arxiv.org/abs/2303.01870v1)|**[link](https://github.com/nmndeep/revisiting-at)**|
+|**2023-03-03**|**An investigation into the adaptability of a diffusion-based TTS model**|Haolin Chen et.al.|[2303.01849v1](http://arxiv.org/abs/2303.01849v1)|null|
+|**2023-03-03**|**Stochastic Super-Resolution For Gaussian Textures**|Emile Pierret et.al.|[2303.01831v1](http://arxiv.org/abs/2303.01831v1)|null|
+|**2023-03-03**|**Unified Keyword Spotting and Audio Tagging on Mobile Devices with Transformers**|Heinrich Dinkel et.al.|[2303.01812v1](http://arxiv.org/abs/2303.01812v1)|null|
+|**2023-03-03**|**DC-based Security Constraints Formulation: A Perspective of Primal-Dual Interior Point Method**|Zhiyuan Bao et.al.|[2303.01810v1](http://arxiv.org/abs/2303.01810v1)|null|
+|**2023-03-03**|**Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving**|Xiwen Liang et.al.|[2303.01788v1](http://arxiv.org/abs/2303.01788v1)|null|
+|**2023-03-03**|**Output Consensus of Heterogeneous Multi-Agent Systems with Mismatched Uncertainties and Measurement Noises: An ADRC Approach**|Mengling Li et.al.|[2303.01782v1](http://arxiv.org/abs/2303.01782v1)|null|
+|**2023-03-03**|**FedML Parrot: A Scalable Federated Learning System via Heterogeneity-aware Scheduling on Sequential and Hierarchical Training**|Zhenheng Tang et.al.|[2303.01778v1](http://arxiv.org/abs/2303.01778v1)|null|
+|**2023-03-03**|**Continual Causal Inference with Incremental Observational Data**|Zhixuan Chu et.al.|[2303.01775v1](http://arxiv.org/abs/2303.01775v1)|null|
+|**2023-03-03**|**Entropic Stabilization and Descriptors of Structural Transformation in High Entropy Alloys**|Narendra Kumar et.al.|[2303.01761v1](http://arxiv.org/abs/2303.01761v1)|null|
+|**2023-03-03**|**Automatic Increase Market Systems (AIMS): Towards a deterministic theory for cryptocurrencies**|Wantall Newby et.al.|[2303.01735v1](http://arxiv.org/abs/2303.01735v1)|null|
+|**2023-03-03**|**Specific three-loop contributions to  $b\to sγ$  associated with the current-current operators**|Christoph Greub et.al.|[2303.01714v1](http://arxiv.org/abs/2303.01714v1)|null|
+|**2023-03-03**|**Convex Bounds on the Softmax Function with Applications to Robustness Verification**|Dennis Wei et.al.|[2303.01713v1](http://arxiv.org/abs/2303.01713v1)|null|
+|**2023-03-03**|**Descriptor State Space Modeling of Power Systems**|Yitong Li et.al.|[2303.01701v1](http://arxiv.org/abs/2303.01701v1)|null|
+|**2023-03-03**|**DWFormer: Dynamic Window transFormer for Speech Emotion Recognition**|Shuaiqi Chen et.al.|[2303.01694v1](http://arxiv.org/abs/2303.01694v1)|**[link](https://github.com/scutcsq/dwformer)**|
+|**2023-03-03**|**Multi-Scale Control Signal-Aware Transformer for Motion Synthesis without Phase**|Lintao Wang et.al.|[2303.01685v1](http://arxiv.org/abs/2303.01685v1)|null|
+|**2023-03-03**|**Dense Pixel-to-Pixel Harmonization via Continuous Image Representation**|Jianqi Chen et.al.|[2303.01681v1](http://arxiv.org/abs/2303.01681v1)|null|
+|**2023-03-03**|**Image Coding via Perceptually Inspired Graph Learning**|Samuel Fernández-Menduiña et.al.|[2303.01674v1](http://arxiv.org/abs/2303.01674v1)|null|
+|**2023-03-03**|**RePreM: Representation Pre-training with Masked Model for Reinforcement Learning**|Yuanying Cai et.al.|[2303.01668v1](http://arxiv.org/abs/2303.01668v1)|null|
+|**2023-03-03**|**LooperGP: A Loopable Sequence Model for Live Coding Performance using GuitarPro Tablature**|Sara Adkins et.al.|[2303.01665v1](http://arxiv.org/abs/2303.01665v1)|null|
+|**2023-03-03**|**Feature Completion Transformer for Occluded Person Re-identification**|Tao Wang et.al.|[2303.01656v1](http://arxiv.org/abs/2303.01656v1)|null|
+|**2023-03-03**|**APIContext2Com: Code Comment Generation by Incorporating Pre-Defined API Documentation**|Ramin Shahbazi et.al.|[2303.01645v1](http://arxiv.org/abs/2303.01645v1)|null|
+|**2023-03-03**|**RIOT: Recursive Inertial Odometry Transformer for Localisation from Low-Cost IMU Measurements**|James Brotchie et.al.|[2303.01641v1](http://arxiv.org/abs/2303.01641v1)|null|
+|**2023-03-02**|**Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers**|Tianlong Chen et.al.|[2303.01610v1](http://arxiv.org/abs/2303.01610v1)|**[link](https://github.com/vita-group/random-moe-as-dropout)**|
+|**2023-03-02**|**Deep Neural Networks with Efficient Guaranteed Invariances**|Matthias Rath et.al.|[2303.01567v1](http://arxiv.org/abs/2303.01567v1)|null|
+|**2023-03-02**|**Replicating Physical Motion with Minkowskian Isorefractive Spacetime Crystals**|Filipa R. Prudêncio et.al.|[2303.01565v1](http://arxiv.org/abs/2303.01565v1)|null|
+|**2023-03-02**|**Convex Approximation for Probabilistic Reachable Set under Data-driven Uncertainties**|Pengcheng Wu et.al.|[2303.01549v1](http://arxiv.org/abs/2303.01549v1)|null|
+|**2023-03-02**|**MiShape: 3D Shape Modelling of Mitochondria in Microscopy**|Abhinanda R. Punnakkal et.al.|[2303.01546v1](http://arxiv.org/abs/2303.01546v1)|null|
+|**2023-03-02**|**Self-attention in Vision Transformers Performs Perceptual Grouping, Not Attention**|Paria Mehrani et.al.|[2303.01542v1](http://arxiv.org/abs/2303.01542v1)|null|
 |**2023-03-02**|**FeatAug-DETR: Enriching One-to-Many Matching for DETRs with Feature Augmentation**|Rongyao Fang et.al.|[2303.01503v1](http://arxiv.org/abs/2303.01503v1)|**[link](https://github.com/rongyaofang/feataug-detr)**|
 |**2023-03-02**|**Image as Set of Points**|Xu Ma et.al.|[2303.01494v1](http://arxiv.org/abs/2303.01494v1)|**[link](https://github.com/ma-xu/context-cluster)**|
 |**2023-03-02**|**An Improved Classical Singular Value Transformation for Quantum Machine Learning**|Ainesh Bakshi et.al.|[2303.01492v1](http://arxiv.org/abs/2303.01492v1)|null|
