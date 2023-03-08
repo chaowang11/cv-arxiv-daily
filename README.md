@@ -54,7 +54,7 @@
 |**2023-01-23**|**Is Autoencoder Truly Applicable for 3D CT Super-Resolution?**|Weixun Luo et.al.|[2302.10272v1](http://arxiv.org/abs/2302.10272v1)|null|
 |**2023-02-20**|**Bilevel learning of regularization models and their discretization for image deblurring and super-resolution**|Tatiana A. Bubba et.al.|[2302.10056v1](http://arxiv.org/abs/2302.10056v1)|null|
 |**2023-02-20**|**RecFNO: a resolution-invariant flow and heat field reconstruction method from sparse observations via Fourier neural operator**|Xiaoyu Zhao et.al.|[2302.09808v1](http://arxiv.org/abs/2302.09808v1)|**[link](https://github.com/zhaoxiaoyu1995/recfno)**|
-|**2023-02-19**|**Guided Depth Map Super-resolution: A Survey**|Zhiwei Zhong et.al.|[2302.09598v1](http://arxiv.org/abs/2302.09598v1)|**[link](https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey)**|
+|**2023-03-07**|**Guided Depth Map Super-resolution: A Survey**|Zhiwei Zhong et.al.|[2302.09598v2](http://arxiv.org/abs/2302.09598v2)|**[link](https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey)**|
 |**2023-02-17**|**Algorithmic Hallucinations of Near-Surface Winds: Statistical Downscaling with Generative Adversarial Networks to Convection-Permitting Scales**|Nicolaas J. Annau et.al.|[2302.08720v1](http://arxiv.org/abs/2302.08720v1)|null|
 |**2023-02-17**|**Kernelized Back-Projection Networks for Blind Super Resolution**|Tomoki Yoshida et.al.|[2302.08478v2](http://arxiv.org/abs/2302.08478v2)|null|
 |**2023-02-18**|**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**|Zhengyu Liang et.al.|[2302.08058v2](http://arxiv.org/abs/2302.08058v2)|**[link](https://github.com/zhengyuliang24/epit)**|
@@ -434,7 +434,7 @@
 |**2023-03-06**|**Improved bounds for the numerical radius via polar decomposition of operators**|Pintu Bhunia et.al.|[2303.03051v1](http://arxiv.org/abs/2303.03051v1)|null|
 |**2023-03-06**|**Predictions for exclusive  $Υ$  photoproduction in ultraperipheral  ${\rm Pb}+{\rm Pb}$  collisions at the LHC at next-to-leading order in perturbative QCD**|Kari J. Eskola et.al.|[2303.03007v1](http://arxiv.org/abs/2303.03007v1)|null|
 |**2023-03-06**|**CLIP-guided Prototype Modulating for Few-shot Action Recognition**|Xiang Wang et.al.|[2303.02982v1](http://arxiv.org/abs/2303.02982v1)|**[link](https://github.com/alibaba-mmai-research/clip-fsar)**|
-|**2023-03-06**|**DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation**|Md Awsafur Rahman et.al.|[2303.02968v1](http://arxiv.org/abs/2303.02968v1)|null|
+|**2023-03-07**|**DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation**|Md Awsafur Rahman et.al.|[2303.02968v2](http://arxiv.org/abs/2303.02968v2)|null|
 |**2023-03-06**|**CTG-Net: An Efficient Cascaded Framework Driven by Terminal Guidance Mechanism for Dilated Pancreatic Duct Segmentation**|Liwen Zou et.al.|[2303.02944v1](http://arxiv.org/abs/2303.02944v1)|null|
 |**2023-03-06**|**Shape Transformation Using Variational Implicit Functions**|Greg Turk et.al.|[2303.02937v1](http://arxiv.org/abs/2303.02937v1)|null|
 |**2023-03-06**|**UniHCP: A Unified Model for Human-Centric Perceptions**|Yuanzheng Ci et.al.|[2303.02936v1](http://arxiv.org/abs/2303.02936v1)|null|
@@ -450,13 +450,13 @@
 |**2023-03-05**|**GKZ hypergeometric systems of the three-loop vacuum Feynman integrals**|Hai-Bin Zhang et.al.|[2303.02795v1](http://arxiv.org/abs/2303.02795v1)|null|
 |**2023-03-05**|**Frequency-domain Blind Quality Assessment of Blurred and Blocking-artefact Images using Gaussian Process Regression model**|Maryam Viqar et.al.|[2303.02753v1](http://arxiv.org/abs/2303.02753v1)|null|
 |**2023-03-05**|**Scientometric Rules as a Guide to Transform Science Systems in the Middle East & North Africa region**|Jamal El-Ouahi et.al.|[2303.02744v1](http://arxiv.org/abs/2303.02744v1)|null|
-|**2023-03-05**|**Reparameterization through Spatial Gradient Scaling**|Alexander Detkov et.al.|[2303.02733v1](http://arxiv.org/abs/2303.02733v1)|**[link](https://github.com/ascend-research/reparameterization)**|
+|**2023-03-07**|**Reparameterization through Spatial Gradient Scaling**|Alexander Detkov et.al.|[2303.02733v2](http://arxiv.org/abs/2303.02733v2)|**[link](https://github.com/ascend-research/reparameterization)**|
 |**2023-03-05**|**Performance of OTFS-NOMA Scheme for Coordinated Direct and Relay Transmission Networks in High-Mobility Scenarios**|Yao Xu et.al.|[2303.02722v1](http://arxiv.org/abs/2303.02722v1)|null|
 |**2023-03-05**|**Learning to Localize in Unseen Scenes with Relative Pose Regressors**|Ofer Idan et.al.|[2303.02717v1](http://arxiv.org/abs/2303.02717v1)|**[link](https://github.com/yolish/relformer)**|
 |**2023-03-05**|**A Lorentz invariant sharp Sobolev inequality on the circle**|Pengyu Le et.al.|[2303.02709v1](http://arxiv.org/abs/2303.02709v1)|null|
 |**2023-03-05**|**The Borel transform of the WKB solution to the Pearcey system**|Takashi Aoki et.al.|[2303.02694v1](http://arxiv.org/abs/2303.02694v1)|null|
 |**2023-03-05**|**On-shell approximation for the s-wave scattering theory**|F. Lorenzi et.al.|[2303.02675v1](http://arxiv.org/abs/2303.02675v1)|null|
-|**2023-03-05**|**Time-frequency Network for Robust Speaker Recognition**|Jiguo Li et.al.|[2303.02673v1](http://arxiv.org/abs/2303.02673v1)|null|
+|**2023-03-07**|**Time-frequency Network for Robust Speaker Recognition**|Jiguo Li et.al.|[2303.02673v2](http://arxiv.org/abs/2303.02673v2)|null|
 |**2023-03-05**|**Heterogeneous Graph Learning for Acoustic Event Classification**|Amir Shirian et.al.|[2303.02665v1](http://arxiv.org/abs/2303.02665v1)|**[link](https://github.com/amirsh15/cross_modality_graph)**|
 |**2023-03-05**|**CBCT-Based Synthetic CT Image Generation Using Conditional Denoising Diffusion Probabilistic Model**|Junbo Peng et.al.|[2303.02649v1](http://arxiv.org/abs/2303.02649v1)|null|
 |**2023-03-05**|**Comparative study of Transformer and LSTM Network with attention mechanism on Image Captioning**|Pranav Dandwate et.al.|[2303.02648v1](http://arxiv.org/abs/2303.02648v1)|null|
