@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-07**|**Self-FiLM: Conditioning GANs with self-supervised representations for bandwidth extension based speaker recognition**|Saurabh Kataria et.al.|[2303.03657v1](http://arxiv.org/abs/2303.03657v1)|null|
 |**2023-02-28**|**Opening long-time investigation window of living matter by nonbleaching phase intensity nanoscope: PINE**|Guangjie Cui et.al.|[2303.03344v1](http://arxiv.org/abs/2303.03344v1)|null|
 |**2023-03-06**|**Combination of Single and Multi-frame Image Super-resolution: An Analytical Perspective**|Mohammad Mahdi Afrasiabi et.al.|[2303.03212v1](http://arxiv.org/abs/2303.03212v1)|null|
 |**2023-03-06**|**Learning multi-scale local conditional probability models of images**|Zahra Kadkhodaie et.al.|[2303.02984v1](http://arxiv.org/abs/2303.02984v1)|**[link](https://github.com/labforcomputationalvision/local-probability-models-of-images)**|
@@ -411,6 +412,43 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-07**|**Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models?**|Boris Knyazev et.al.|[2303.04143v1](http://arxiv.org/abs/2303.04143v1)|null|
+|**2023-03-07**|**Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**|Cheng Chi et.al.|[2303.04137v1](http://arxiv.org/abs/2303.04137v1)|null|
+|**2023-03-07**|**An Inception-Residual-Based Architecture with Multi-Objective Loss for Detecting Respiratory Anomalies**|Dat Ngo et.al.|[2303.04104v1](http://arxiv.org/abs/2303.04104v1)|null|
+|**2023-03-07**|**Meta-Explore: Exploratory Hierarchical Vision-and-Language Navigation Using Scene Object Spectrum Grounding**|Minyoung Hwang et.al.|[2303.04077v1](http://arxiv.org/abs/2303.04077v1)|null|
+|**2023-03-07**|**Optical polaron formation in quantum systems with permanent dipoles**|Adam Burgess et.al.|[2303.03996v1](http://arxiv.org/abs/2303.03996v1)|null|
+|**2023-03-07**|**Structured State Space Models for In-Context Reinforcement Learning**|Chris Lu et.al.|[2303.03982v1](http://arxiv.org/abs/2303.03982v1)|null|
+|**2023-03-07**|**Probing Graph Representations**|Mohammad Sadegh Akhondzadeh et.al.|[2303.03951v1](http://arxiv.org/abs/2303.03951v1)|null|
+|**2023-03-07**|**Joint Chance-Constrained Economic Dispatch Involving Joint Optimization of Frequency-related Inverter Control and Regulation Reserve Allocation**|Ye Tian et.al.|[2303.03939v1](http://arxiv.org/abs/2303.03939v1)|null|
+|**2023-03-06**|**Gauge compensating transformations for boosted axially symmetric membranes and light cone reductions**|Jens Hoppe et.al.|[2303.03920v1](http://arxiv.org/abs/2303.03920v1)|null|
+|**2023-03-07**|**A nearly optimal explicitly-sparse representation for oscillatory kernels with curvelet-like functions**|Yanchuang Cao et.al.|[2303.03889v1](http://arxiv.org/abs/2303.03889v1)|null|
+|**2023-03-07**|**Semigroups of (linear) transformations whose restrictions belong to a given semigroup**|Mosarof Sarkar et.al.|[2303.03861v1](http://arxiv.org/abs/2303.03861v1)|null|
+|**2023-03-07**|**Event Voxel Set Transformer for Spatiotemporal Representation Learning on Event Streams**|Bochen Xie et.al.|[2303.03856v1](http://arxiv.org/abs/2303.03856v1)|null|
+|**2023-03-07**|**ENTROPY: Environment Transformer and Offline Policy Optimization**|Pengqin Wang et.al.|[2303.03811v1](http://arxiv.org/abs/2303.03811v1)|null|
+|**2023-03-07**|**Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding**|Jiacheng Li et.al.|[2303.03800v1](http://arxiv.org/abs/2303.03800v1)|null|
+|**2023-03-07**|**A new view on cosmology, with non-translational invariant Hamiltonian**|Holger Bech Nielsen et.al.|[2303.03796v1](http://arxiv.org/abs/2303.03796v1)|null|
+|**2023-03-07**|**DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer**|Elad Levi et.al.|[2303.03755v1](http://arxiv.org/abs/2303.03755v1)|null|
+|**2023-03-07**|**Graph Decision Transformer**|Shengchao Hu et.al.|[2303.03747v1](http://arxiv.org/abs/2303.03747v1)|null|
+|**2023-03-07**|**Colossal nonreciprocal Hall effect and the breakdown of Ohm's law due to a room temperature nonlinear Hall effect**|Lujin Min et.al.|[2303.03738v1](http://arxiv.org/abs/2303.03738v1)|null|
+|**2023-03-07**|**Multi-Dimensional and Multi-Scale Modeling for Speech Separation Optimized by Discriminative Learning**|Zhaoxi Mu et.al.|[2303.03737v1](http://arxiv.org/abs/2303.03737v1)|null|
+|**2023-03-07**|**An approximation of populations on a habitat with large carrying capacity**|N. Bauman et.al.|[2303.03735v1](http://arxiv.org/abs/2303.03735v1)|null|
+|**2023-03-07**|**Challenges of the Creation of a Dataset for Vision Based Human Hand Action Recognition in Industrial Assembly**|Fabian Sturm et.al.|[2303.03716v1](http://arxiv.org/abs/2303.03716v1)|null|
+|**2023-03-07**|**Prediction of transonic flow over supercritical airfoils using geometric-encoding and deep-learning strategies**|Zhiwen Deng et.al.|[2303.03695v1](http://arxiv.org/abs/2303.03695v1)|null|
+|**2023-03-07**|**Kerker Transform: Expanding Fields in a Discrete Basis of Directional Harmonics**|Parker R. Wray et.al.|[2303.03693v1](http://arxiv.org/abs/2303.03693v1)|null|
+|**2023-03-07**|**AST-SED: An Effective Sound Event Detection Method Based on Audio Spectrogram Transformer**|Kang Li et.al.|[2303.03689v1](http://arxiv.org/abs/2303.03689v1)|null|
+|**2023-03-07**|**MOSO: Decomposing MOtion, Scene and Object for Video Prediction**|Mingzhen Sun et.al.|[2303.03684v1](http://arxiv.org/abs/2303.03684v1)|null|
+|**2023-03-07**|**Training Machine Learning Models to Characterize Temporal Evolution of Disadvantaged Communities**|Milan Jain et.al.|[2303.03677v1](http://arxiv.org/abs/2303.03677v1)|null|
+|**2023-03-07**|**Weakly Supervised Caveline Detection For AUV Navigation Inside Underwater Caves**|Boxiao Yu et.al.|[2303.03670v1](http://arxiv.org/abs/2303.03670v1)|null|
+|**2023-03-07**|**F2BEV: Bird's Eye View Generation from Surround-View Fisheye Camera Images for Automated Driving**|Ekta U. Samani et.al.|[2303.03651v1](http://arxiv.org/abs/2303.03651v1)|null|
+|**2023-03-07**|**PreFallKD: Pre-Impact Fall Detection via CNN-ViT Knowledge Distillation**|Tin-Han Chi et.al.|[2303.03634v1](http://arxiv.org/abs/2303.03634v1)|null|
+|**2023-03-07**|**Approach to Learning Generalized Audio Representation Through Batch Embedding Covariance Regularization and Constant-Q Transforms**|Ankit Shah et.al.|[2303.03591v1](http://arxiv.org/abs/2303.03591v1)|null|
+|**2023-03-07**|**A Review of and Roadmap for Data Science and Machine Learning for the Neuropsychiatric Phenotype of Autism**|Peter Washington et.al.|[2303.03577v1](http://arxiv.org/abs/2303.03577v1)|null|
+|**2023-03-06**|**Multi-resolution Interpretation and Diagnostics Tool for Natural Language Classifiers**|Peyman Jalali et.al.|[2303.03542v1](http://arxiv.org/abs/2303.03542v1)|null|
+|**2023-03-06**|**Null Hamiltonian Yang-Mills theory. Soft symmetries and memory as superselection**|Aldo Riello et.al.|[2303.03531v1](http://arxiv.org/abs/2303.03531v1)|null|
+|**2023-03-06**|**F-Polynomials of Donaldson-Thomas Transformations**|Daping Weng et.al.|[2303.03466v1](http://arxiv.org/abs/2303.03466v1)|null|
+|**2023-03-06**|**Towards Composable Distributions of Latent Space Augmentations**|Omead Pooladzandi et.al.|[2303.03462v1](http://arxiv.org/abs/2303.03462v1)|null|
+|**2023-03-06**|**Learning Differential Invariants of Planar Curves**|Roy Velich et.al.|[2303.03458v1](http://arxiv.org/abs/2303.03458v1)|null|
+|**2023-03-06**|**A variational principle relating self-affine measures to self-affine sets**|Ian D. Morris et.al.|[2303.03437v1](http://arxiv.org/abs/2303.03437v1)|null|
 |**2023-03-06**|**Learning Humanoid Locomotion with Transformers**|Ilija Radosavovic et.al.|[2303.03381v1](http://arxiv.org/abs/2303.03381v1)|null|
 |**2023-03-06**|**Multimodal Prompting with Missing Modalities for Visual Recognition**|Yi-Lun Lee et.al.|[2303.03369v1](http://arxiv.org/abs/2303.03369v1)|**[link](https://github.com/yilunlee/missing_aware_prompts)**|
 |**2023-03-06**|**Referring Multi-Object Tracking**|Dongming Wu et.al.|[2303.03366v1](http://arxiv.org/abs/2303.03366v1)|**[link](https://github.com/wudongming97/rmot)**|
