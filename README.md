@@ -2915,7 +2915,7 @@
 |**2022-12-22**|**Group Sparse Coding for Image Denoising**|Luoyu Chen et.al.|[2212.11501v1](http://arxiv.org/abs/2212.11501v1)|null|
 |**2022-12-13**|**Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting**|Su Wang et.al.|[2212.06909v1](http://arxiv.org/abs/2212.06909v1)|null|
 |**2022-12-09**|**SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model**|Shaoan Xie et.al.|[2212.05034v1](http://arxiv.org/abs/2212.05034v1)|null|
-|**2022-12-06**|**SDM: Spatial Diffusion Model for Large Hole Image Inpainting**|Wenbo Li et.al.|[2212.02963v1](http://arxiv.org/abs/2212.02963v1)|**[link](https://github.com/fenglinglwb/sdm)**|
+|**2023-03-08**|**Image Inpainting via Iteratively Decoupled Probabilistic Modeling**|Wenbo Li et.al.|[2212.02963v2](http://arxiv.org/abs/2212.02963v2)|**[link](https://github.com/fenglinglwb/sdm)**|
 |**2022-12-18**|**Laplacian Convolutional Representation for Traffic Time Series Imputation**|Xinyu Chen et.al.|[2212.01529v2](http://arxiv.org/abs/2212.01529v2)|**[link](https://github.com/xinychen/transdim)**|
 |**2022-12-01**|**Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery**|Yisi Luo et.al.|[2212.00262v1](http://arxiv.org/abs/2212.00262v1)|null|
 |**2022-11-25**|**Generative Modeling in Structural-Hankel Domain for Color Image Inpainting**|Zihao Li et.al.|[2211.13857v1](http://arxiv.org/abs/2211.13857v1)|null|
