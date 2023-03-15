@@ -438,6 +438,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-14**|**Do Transformers Parse while Predicting the Masked Word?**|Haoyu Zhao et.al.|[2303.08117v1](http://arxiv.org/abs/2303.08117v1)|null|
+|**2023-03-14**|**Homeomorphic Image Registration via Conformal-Invariant Hyperelastic Regularisation**|Jing Zou et.al.|[2303.08113v1](http://arxiv.org/abs/2303.08113v1)|null|
+|**2023-03-14**|**Eliciting Latent Predictions from Transformers with the Tuned Lens**|Nora Belrose et.al.|[2303.08112v1](http://arxiv.org/abs/2303.08112v1)|**[link](https://github.com/alignmentresearch/tuned-lens)**|
+|**2023-03-14**|**MELON: NeRF with Unposed Images Using Equivalence Class Estimation**|Axel Levy et.al.|[2303.08096v1](http://arxiv.org/abs/2303.08096v1)|null|
+|**2023-03-14**|**A Faber-Krahn type inequality for log-subharmonic functions in the hyperbolic ball**|David Kalaj et.al.|[2303.08069v1](http://arxiv.org/abs/2303.08069v1)|null|
+|**2023-03-14**|**Gauge equivalence between 1+1 rational Calogero-Moser field theory and higher rank Landau-Lifshitz equation**|K. Atalikov et.al.|[2303.08020v1](http://arxiv.org/abs/2303.08020v1)|null|
+|**2023-03-14**|**Finding the Needle in a Haystack: Unsupervised Rationale Extraction from Long Text Classifiers**|Kamil Bujel et.al.|[2303.07991v1](http://arxiv.org/abs/2303.07991v1)|null|
+|**2023-03-14**|**A Characterization of Most(More) Powerful Test Statistics with Simple Nonparametric Applications**|Albert Vexler et.al.|[2303.07986v1](http://arxiv.org/abs/2303.07986v1)|null|
+|**2023-03-14**|**A Theory of Emergent In-Context Learning as Implicit Structure Induction**|Michael Hahn et.al.|[2303.07971v1](http://arxiv.org/abs/2303.07971v1)|null|
+|**2023-03-14**|**On the Impact of Smartification Strategies for the State Estimation of Low Voltage Grids**|Armin Fatemi et.al.|[2303.07964v1](http://arxiv.org/abs/2303.07964v1)|null|
+|**2023-03-14**|**RoCNet: 3D Robust Registration of Point-Clouds using Deep Learning**|Karim Slimani et.al.|[2303.07963v1](http://arxiv.org/abs/2303.07963v1)|null|
+|**2023-03-14**|**The Riesz Transform and Fractional Integral Operators in the Bessel Setting**|Jorge J. Betancor et.al.|[2303.07952v1](http://arxiv.org/abs/2303.07952v1)|null|
+|**2023-03-14**|**SKA Science Data Challenge 2: analysis and results**|P. Hartley et.al.|[2303.07943v1](http://arxiv.org/abs/2303.07943v1)|null|
+|**2023-03-14**|**DAA: A Delta Age AdaIN operation for age estimation via binary code transformer**|Ping Chen et.al.|[2303.07929v1](http://arxiv.org/abs/2303.07929v1)|null|
+|**2023-03-14**|**Understanding Model Complexity for temporal tabular and multi-variate time series, case study with Numerai data science tournament**|Thomas Wong et.al.|[2303.07925v1](http://arxiv.org/abs/2303.07925v1)|null|
+|**2023-03-14**|**Structural stability of the RG flow in the Gross-Neveu model**|J. Dimock et.al.|[2303.07916v1](http://arxiv.org/abs/2303.07916v1)|null|
+|**2023-03-14**|**Transformation, Identification, and Inversion of Goldberg-Coxeter Fullerenes**|Shaoqing Li et.al.|[2303.07890v1](http://arxiv.org/abs/2303.07890v1)|null|
+|**2023-03-14**|**Some fast convergent series for the mathematical constants  $ζ(4)$  and  $ζ(5)$ **|Chuanan Wei et.al.|[2303.07887v1](http://arxiv.org/abs/2303.07887v1)|null|
+|**2023-03-14**|**Geolocation Predicting of Tweets Using BERT-Based Models**|Kateryna Lutsai et.al.|[2303.07865v1](http://arxiv.org/abs/2303.07865v1)|null|
+|**2023-03-14**|**Precise Facial Landmark Detection by Reference Heatmap Transformer**|Jun Wan et.al.|[2303.07840v1](http://arxiv.org/abs/2303.07840v1)|null|
+|**2023-03-14**|**Quaternion Orthogonal Transformer for Facial Expression Recognition in the Wild**|Yu Zhou et.al.|[2303.07831v1](http://arxiv.org/abs/2303.07831v1)|**[link](https://github.com/gabrella/qot)**|
+|**2023-03-14**|**Implant Global and Local Hierarchy Information to Sequence based Code Representation Models**|Kechi Zhang et.al.|[2303.07826v1](http://arxiv.org/abs/2303.07826v1)|**[link](https://github.com/zkcpku/hit-hierarchy-transformer)**|
+|**2023-03-14**|**Multi-Channel Masking with Learnable Filterbank for Sound Source Separation**|Wang Dai et.al.|[2303.07816v1](http://arxiv.org/abs/2303.07816v1)|null|
+|**2023-03-14**|**Termination of Graph Transformation Systems using Weighted Subgraph Counting**|Roy Overbeek et.al.|[2303.07812v1](http://arxiv.org/abs/2303.07812v1)|null|
+|**2023-03-14**|**USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation**|Zelin Peng et.al.|[2303.07806v1](http://arxiv.org/abs/2303.07806v1)|null|
+|**2023-03-14**|**OVRL-V2: A simple state-of-art baseline for ImageNav and ObjectNav**|Karmesh Yadav et.al.|[2303.07798v1](http://arxiv.org/abs/2303.07798v1)|null|
+|**2023-03-14**|**Anomalous Thermal Transport of SrTiO $_3$  Driven by Anharmonic Phonon Renormalization**|Jian Han et.al.|[2303.07791v1](http://arxiv.org/abs/2303.07791v1)|null|
+|**2023-03-14**|**A Commons-Compatible Implementation of the Sharing Economy: Blockchain-Based Open Source Mediation**|Petra Tschuchnig et.al.|[2303.07786v1](http://arxiv.org/abs/2303.07786v1)|null|
+|**2023-03-14**|**On absolute continuity and maximal Garsia entropy for self-similar measures with algebraic contraction ratio**|Lauritz Streck et.al.|[2303.07785v1](http://arxiv.org/abs/2303.07785v1)|null|
+|**2023-03-14**|**Lotus: Serverless In-Transit Data Processing for Edge-based Pub/Sub**|Minghe Wang et.al.|[2303.07779v1](http://arxiv.org/abs/2303.07779v1)|null|
+|**2023-03-14**|**Automatic Locally Stationary Time Series Forecasting with application to predicting U.K. Gross Value Added Time Series under sudden shocks caused by the COVID pandemic**|Rebecca Killick et.al.|[2303.07772v1](http://arxiv.org/abs/2303.07772v1)|null|
+|**2023-03-14**|**Classical and quantum cosmology in  $f(T)$ -gravity theory: A Noether symmetry approach**|Roshni Bhaumik et.al.|[2303.07766v1](http://arxiv.org/abs/2303.07766v1)|null|
+|**2023-03-14**|**A Simple Baseline for Supervised Surround-view Depth Estimation**|Xianda Guo et.al.|[2303.07759v1](http://arxiv.org/abs/2303.07759v1)|null|
+|**2023-03-14**|**Habit plane determination from reconstructed parent phase orientation maps**|Tuomo Nyyssonen et.al.|[2303.07750v1](http://arxiv.org/abs/2303.07750v1)|null|
+|**2023-03-14**|**Introduction to Faraday tomography and its future prospects**|Keitaro Takahashi et.al.|[2303.07741v1](http://arxiv.org/abs/2303.07741v1)|null|
+|**2023-03-14**|**A complete and operational resource theory of measurement sharpness**|Francesco Buscemi et.al.|[2303.07737v1](http://arxiv.org/abs/2303.07737v1)|null|
+|**2023-03-14**|**Multipole expansion of gravitational waves: memory effects and Bondi aspects**|Luc Blanchet et.al.|[2303.07732v1](http://arxiv.org/abs/2303.07732v1)|null|
+|**2023-03-14**|**Good Neighbors Are All You Need for Chinese Grapheme-to-Phoneme Conversion**|Jungjun Kim et.al.|[2303.07726v1](http://arxiv.org/abs/2303.07726v1)|null|
+|**2023-03-14**|**BlinkFlow: A Dataset to Push the Limits of Event-based Optical Flow Estimation**|Yijin Li et.al.|[2303.07716v1](http://arxiv.org/abs/2303.07716v1)|null|
+|**2023-03-14**|**A note on the flip distance between non-crossing spanning trees**|Nicolas Bousquet et.al.|[2303.07710v1](http://arxiv.org/abs/2303.07710v1)|null|
+|**2023-03-14**|**DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions**|Geumbyeol Hwang et.al.|[2303.07697v1](http://arxiv.org/abs/2303.07697v1)|null|
+|**2023-03-14**|**FPTN: Fast Pure Transformer Network for Traffic Flow Forecasting**|Junhao Zhang et.al.|[2303.07685v1](http://arxiv.org/abs/2303.07685v1)|null|
+|**2023-03-14**|**Koos Classification of Vestibular Schwannoma via Image Translation-Based Unsupervised Cross-Modality Domain Adaptation**|Tao Yang et.al.|[2303.07674v1](http://arxiv.org/abs/2303.07674v1)|null|
+|**2023-03-14**|**RenewNAT: Renewing Potential Translation for Non-Autoregressive Transformer**|Pei Guo et.al.|[2303.07665v1](http://arxiv.org/abs/2303.07665v1)|null|
+|**2023-03-14**|**CAT: Causal Audio Transformer for Audio Classification**|Xiaoyu Liu et.al.|[2303.07626v1](http://arxiv.org/abs/2303.07626v1)|null|
+|**2023-03-14**|**I3D: Transformer architectures with input-dependent dynamic depth for speech recognition**|Yifan Peng et.al.|[2303.07624v1](http://arxiv.org/abs/2303.07624v1)|null|
+|**2023-03-14**|**Medical Phrase Grounding with Region-Phrase Context Contrastive Alignment**|Zhihao Chen et.al.|[2303.07618v1](http://arxiv.org/abs/2303.07618v1)|null|
+|**2023-03-14**|**Training Robust Spiking Neural Networks with ViewPoint Transform and SpatioTemporal Stretching**|Haibo Shen et.al.|[2303.07609v1](http://arxiv.org/abs/2303.07609v1)|null|
+|**2023-03-14**|**AdPE: Adversarial Positional Embeddings for Pretraining Vision Transformers via MAE+**|Xiao Wang et.al.|[2303.07598v1](http://arxiv.org/abs/2303.07598v1)|**[link](https://github.com/maple-research-lab/AdPE)**|
+|**2023-03-14**|**Enable Natural Tactile Interaction for Robot Dog based on Large-format Distributed Flexible Pressure Sensors**|Lishuang Zhan et.al.|[2303.07595v1](http://arxiv.org/abs/2303.07595v1)|null|
 |**2023-03-13**|**MP-Former: Mask-Piloted Transformer for Image Segmentation**|Hao Zhang et.al.|[2303.07336v1](http://arxiv.org/abs/2303.07336v1)|null|
 |**2023-03-13**|**Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**|Feng Li et.al.|[2303.07335v1](http://arxiv.org/abs/2303.07335v1)|**[link](https://github.com/idea-research/lite-detr)**|
 |**2023-03-13**|**The algebraic structure of the non-commutative nonlinear Schrodinger and modified Korteweg-de Vries hierarchy**|Gordon Blower et.al.|[2303.07324v1](http://arxiv.org/abs/2303.07324v1)|null|
