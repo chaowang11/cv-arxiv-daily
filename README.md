@@ -493,7 +493,7 @@
 |**2023-03-16**|**Accelerated Gradient and Skew-Symmetric Splitting Methods for a Class of Monotone Operator Equations**|Long Chen et.al.|[2303.09009v1](http://arxiv.org/abs/2303.09009v1)|null|
 |**2023-03-16**|**Spherical designs and modular forms of the  $D_4$  lattice**|Masatake Hirao et.al.|[2303.09000v1](http://arxiv.org/abs/2303.09000v1)|null|
 |**2023-03-15**|**Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement**|Fartash Faghri et.al.|[2303.08983v1](http://arxiv.org/abs/2303.08983v1)|null|
-|**2023-03-15**|**Cryptographic Primitives based on Compact Knapsack Problem**|George S. Rizos et.al.|[2303.08973v1](http://arxiv.org/abs/2303.08973v1)|null|
+|**2023-03-15**|**Cryptographic Primitives based on Compact Knapsack Problem**|George S. Rizos et.al.|[2303.08973v1](http://arxiv.org/abs/2303.08973v1)|**[link](https://github.com/drazioti/compact-knapsack)**|
 |**2023-03-15**|**Gated Compression Layers for Efficient Always-On Models**|Haiguang Li et.al.|[2303.08970v1](http://arxiv.org/abs/2303.08970v1)|null|
 |**2023-03-15**|**The Tiny Time-series Transformer: Low-latency High-throughput Classification of Astronomical Transients using Deep Model Compression**|Tarek Allam Jr. et.al.|[2303.08951v1](http://arxiv.org/abs/2303.08951v1)|**[link](https://github.com/tallamjr/astronet)**|
 |**2023-03-15**|**Applying unsupervised keyphrase methods on concepts extracted from discharge sheets**|Hoda Memarzadeh et.al.|[2303.08928v1](http://arxiv.org/abs/2303.08928v1)|null|
