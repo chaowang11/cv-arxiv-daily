@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**Toward Super-Resolution for Appearance-Based Gaze Estimation**|Galen O'Shea et.al.|[2303.10151v1](http://arxiv.org/abs/2303.10151v1)|null|
+|**2023-03-17**|**Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**|Zixi Tuo et.al.|[2303.09826v1](http://arxiv.org/abs/2303.09826v1)|null|
+|**2023-03-17**|**SRFormer: Permuted Self-Attention for Single Image Super-Resolution**|Yupeng Zhou et.al.|[2303.09735v1](http://arxiv.org/abs/2303.09735v1)|null|
+|**2023-03-16**|**Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution**|Jiamian Wang et.al.|[2303.09650v1](http://arxiv.org/abs/2303.09650v1)|null|
 |**2023-03-16**|**Depth Super-Resolution from Explicit and Implicit High-Frequency Features**|Xin Qiao et.al.|[2303.09307v1](http://arxiv.org/abs/2303.09307v1)|null|
 |**2023-03-16**|**A Framework for Real-time Object Detection and Image Restoration**|Rui-Yang Ju et.al.|[2303.09190v1](http://arxiv.org/abs/2303.09190v1)|**[link](https://github.com/rubbbbbbbbby/swinoir)**|
 |**2023-03-16**|**Mimic3D: Thriving 3D-Aware GANs via 3D-to-2D Imitation**|Xingyu Chen et.al.|[2303.09036v1](http://arxiv.org/abs/2303.09036v1)|null|
@@ -230,6 +234,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**SRFormer: Permuted Self-Attention for Single Image Super-Resolution**|Yupeng Zhou et.al.|[2303.09735v1](http://arxiv.org/abs/2303.09735v1)|null|
+|**2023-03-16**|**Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution**|Jiamian Wang et.al.|[2303.09650v1](http://arxiv.org/abs/2303.09650v1)|null|
 |**2023-03-16**|**A Framework for Real-time Object Detection and Image Restoration**|Rui-Yang Ju et.al.|[2303.09190v1](http://arxiv.org/abs/2303.09190v1)|**[link](https://github.com/rubbbbbbbbby/swinoir)**|
 |**2023-03-16**|**ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution**|Shuyao Shang et.al.|[2303.08714v2](http://arxiv.org/abs/2303.08714v2)|null|
 |**2023-03-13**|**Synthesizing Realistic Image Restoration Training Pairs: A Diffusion Approach**|Tao Yang et.al.|[2303.06994v1](http://arxiv.org/abs/2303.06994v1)|null|
@@ -335,6 +341,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**|Zixi Tuo et.al.|[2303.09826v1](http://arxiv.org/abs/2303.09826v1)|null|
 |**2023-03-15**|**DeblurSR: Event-Based Motion Deblurring Under the Spiking Representation**|Chen Song et.al.|[2303.08977v1](http://arxiv.org/abs/2303.08977v1)|**[link](https://github.com/chensong1995/deblursr)**|
 |**2023-03-15**|**Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting**|Gen Li et.al.|[2303.08331v1](http://arxiv.org/abs/2303.08331v1)|null|
 |**2023-03-01**|**Online Video Streaming Super-Resolution with Adaptive Look-Up Table Fusion**|Guanghao Yin et.al.|[2303.00334v1](http://arxiv.org/abs/2303.00334v1)|null|
@@ -453,6 +460,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**Spectrum-inspired Low-light Image Translation for Saliency Detection**|Kitty Varghese et.al.|[2303.10145v1](http://arxiv.org/abs/2303.10145v1)|null|
+|**2023-03-17**|**Generate, Transform, Answer: Question Specific Tool Synthesis for Tabular Data**|Carlos Gemmell et.al.|[2303.10138v1](http://arxiv.org/abs/2303.10138v1)|null|
+|**2023-03-17**|**GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models**|Tyna Eloundou et.al.|[2303.10130v1](http://arxiv.org/abs/2303.10130v1)|null|
+|**2023-03-17**|**A Robustness Analysis of Blind Source Separation**|Alexander Schell et.al.|[2303.10104v1](http://arxiv.org/abs/2303.10104v1)|null|
+|**2023-03-17**|**Image comparison and scaling via nonlinear elasticity**|John M. Ball et.al.|[2303.10103v1](http://arxiv.org/abs/2303.10103v1)|null|
+|**2023-03-17**|**Probabilistic pure state conversion on the majorization lattice**|Serge Deside et.al.|[2303.10086v1](http://arxiv.org/abs/2303.10086v1)|null|
+|**2023-03-17**|**A Unified Continual Learning Framework with General Parameter-Efficient Tuning**|Qiankun Gao et.al.|[2303.10070v1](http://arxiv.org/abs/2303.10070v1)|**[link](https://github.com/gqk/lae)**|
+|**2023-03-17**|**Line positions and intensities of the  $ν_1$  band of  $^{12}$ CH $_3$ I using mid-infrared optical frequency comb Fourier transform spectroscopy**|Adrian Hjältén et.al.|[2303.10066v1](http://arxiv.org/abs/2303.10066v1)|null|
+|**2023-03-17**|**Perfect t-embeddings of uniformly weighted Aztec diamonds and tower graphs**|Tomas Berggren et.al.|[2303.10045v1](http://arxiv.org/abs/2303.10045v1)|null|
+|**2023-03-17**|**From positional representation of numbers to positional representation of vectors**|Izabella Ingrid Farkas et.al.|[2303.10027v1](http://arxiv.org/abs/2303.10027v1)|null|
+|**2023-03-17**|**Efficient nonparametric estimation of Toeplitz covariance matrices**|Karolina Klockmann et.al.|[2303.10018v1](http://arxiv.org/abs/2303.10018v1)|null|
+|**2023-03-17**|**Reliability of Tumour Classification from Multi-Dimensional DCE-MRI Variables using Data Transformations**|S. V. Notley et.al.|[2303.10014v1](http://arxiv.org/abs/2303.10014v1)|null|
+|**2023-03-17**|**A Kähler potential on the unit ball with constant differential norm**|Kang-hyurk Lee et.al.|[2303.10012v1](http://arxiv.org/abs/2303.10012v1)|null|
+|**2023-03-17**|**TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving**|Shaoheng Fang et.al.|[2303.09998v1](http://arxiv.org/abs/2303.09998v1)|null|
+|**2023-03-17**|**LION: Implicit Vision Prompt Tuning**|Haixin Wang et.al.|[2303.09992v1](http://arxiv.org/abs/2303.09992v1)|null|
+|**2023-03-17**|**Star-Net: Improving Single Image Desnowing Model With More Efficient Connection and Diverse Feature Interaction**|Jiawei Mao et.al.|[2303.09988v1](http://arxiv.org/abs/2303.09988v1)|null|
+|**2023-03-17**|**Semantic Scene Completion with Cleaner Self**|Fengyun Wang et.al.|[2303.09977v1](http://arxiv.org/abs/2303.09977v1)|**[link](https://github.com/fereenwong/cleaners)**|
+|**2023-03-17**|**MedNeXt: Transformer-driven Scaling of ConvNets for Medical Image Segmentation**|Saikat Roy et.al.|[2303.09975v1](http://arxiv.org/abs/2303.09975v1)|null|
+|**2023-03-17**|**Scaling similarities and quasinormal modes of D0 black hole solutions**|Anna Biggs et.al.|[2303.09974v1](http://arxiv.org/abs/2303.09974v1)|null|
+|**2023-03-17**|**Usage of single-camera video recording to measure sea surface roughness with machine learning methods**|Mikhail B. Salin et.al.|[2303.09967v1](http://arxiv.org/abs/2303.09967v1)|null|
+|**2023-03-17**|**GNNFormer: A Graph-based Framework for Cytopathology Report Generation**|Yang-Fan Zhou et.al.|[2303.09956v1](http://arxiv.org/abs/2303.09956v1)|null|
+|**2023-03-17**|**Voronoi summation formula for the generalized divisor function  $σ_{z}^{(k)}(n)$ **|Atul Dixit et.al.|[2303.09937v1](http://arxiv.org/abs/2303.09937v1)|null|
+|**2023-03-17**|**High-Degree Splines from Discrete Fourier Transforms: Robust Methods to Obtain the Boundary Conditions**|A. Pepin et.al.|[2303.09920v1](http://arxiv.org/abs/2303.09920v1)|null|
+|**2023-03-17**|**Molecular Electronic Structure Calculation via a Quantum Computer**|Hamid Reza Naeij et.al.|[2303.09911v1](http://arxiv.org/abs/2303.09911v1)|null|
+|**2023-03-17**|**mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few- and Zero-shot Framing Detection**|Markus Reiter-Haas et.al.|[2303.09901v1](http://arxiv.org/abs/2303.09901v1)|**[link](https://github.com/socialcomplab/semeval23-mcpt)**|
+|**2023-03-17**|**Thermodynamics of Non-equilibrium Diffuse-Interfaces in Mesoscale Phase Transformations**|Yue Li et.al.|[2303.09879v1](http://arxiv.org/abs/2303.09879v1)|null|
+|**2023-03-17**|**Fluid Dynamics Network: Topology-Agnostic 4D Reconstruction via Fluid Dynamics Priors**|Daniele Baieri et.al.|[2303.09871v1](http://arxiv.org/abs/2303.09871v1)|null|
+|**2023-03-17**|**Dual-path Adaptation from Image to Video Transformers**|Jungin Park et.al.|[2303.09857v1](http://arxiv.org/abs/2303.09857v1)|**[link](https://github.com/park-jungin/dualpath)**|
+|**2023-03-17**|**Jánossy densities and Darboux transformations for the Stark and cylindrical KdV equations**|Tom Claeys et.al.|[2303.09848v1](http://arxiv.org/abs/2303.09848v1)|null|
+|**2023-03-17**|**GADFormer: An Attention-based Model for Group Anomaly Detection on Trajectories**|Andreas Lohrer et.al.|[2303.09841v1](http://arxiv.org/abs/2303.09841v1)|null|
+|**2023-03-17**|**Transformers and Ensemble methods: A solution for Hate Speech Detection in Arabic languages**|Angel Felipe Magnossão de Paula et.al.|[2303.09823v1](http://arxiv.org/abs/2303.09823v1)|null|
+|**2023-03-17**|**TKN: Transformer-based Keypoint Prediction Network For Real-time Video Prediction**|Haoran Li et.al.|[2303.09807v1](http://arxiv.org/abs/2303.09807v1)|null|
+|**2023-03-17**|**Covariance properties under natural image transformations for the generalized Gaussian derivative model for visual receptive fields**|Tony Lindeberg et.al.|[2303.09803v1](http://arxiv.org/abs/2303.09803v1)|null|
+|**2023-03-17**|**Higher-order quantum transformations of Hamiltonian dynamics**|Tatsuki Odake et.al.|[2303.09788v1](http://arxiv.org/abs/2303.09788v1)|null|
+|**2023-03-17**|**Comparison theorems for invariant measures of random dynamical systems**|Tomoki Inoue et.al.|[2303.09784v1](http://arxiv.org/abs/2303.09784v1)|null|
+|**2023-03-17**|**Progressive Content-aware Coded Hyperspectral Compressive Imaging**|Xuanyu Zhang et.al.|[2303.09773v1](http://arxiv.org/abs/2303.09773v1)|null|
+|**2023-03-17**|**QUBO Decision Tree: Annealing Machine Extends Decision Tree Splitting**|Koichiro Yawata et.al.|[2303.09772v1](http://arxiv.org/abs/2303.09772v1)|null|
+|**2023-03-17**|**Denoising Diffusion Autoencoders are Unified Self-supervised Learners**|Weilai Xiang et.al.|[2303.09769v1](http://arxiv.org/abs/2303.09769v1)|null|
+|**2023-03-17**|**CoLT5: Faster Long-Range Transformers with Conditional Computation**|Joshua Ainslie et.al.|[2303.09752v1](http://arxiv.org/abs/2303.09752v1)|null|
+|**2023-03-17**|**SRFormer: Permuted Self-Attention for Single Image Super-Resolution**|Yupeng Zhou et.al.|[2303.09735v1](http://arxiv.org/abs/2303.09735v1)|null|
+|**2023-03-17**|**ElasticViT: Conflict-aware Supernet Training for Deploying Fast Vision Transformer on Diverse Mobile Devices**|Chen Tang et.al.|[2303.09730v1](http://arxiv.org/abs/2303.09730v1)|null|
+|**2023-03-17**|**On the Diophantine system involving pairs of triangles with the same area and the same perimeter**|Yangcheng Li et.al.|[2303.09723v1](http://arxiv.org/abs/2303.09723v1)|null|
+|**2023-03-17**|**Continuity of entropy for all  $α$ -deformations of an infinite class of continued fraction transformations**|Kariane Calta et.al.|[2303.09708v1](http://arxiv.org/abs/2303.09708v1)|null|
+|**2023-03-17**|**PersonalTailor: Personalizing 2D Pattern Design from 3D Garment Point Clouds**|Anran Qi et.al.|[2303.09695v1](http://arxiv.org/abs/2303.09695v1)|null|
+|**2023-03-16**|**Event-based Human Pose Tracking by Spiking Spatiotemporal Transformer**|Shihao Zou et.al.|[2303.09681v1](http://arxiv.org/abs/2303.09681v1)|**[link](https://github.com/jimmyzou/humanposetracking_snn)**|
+|**2023-03-16**|**Instance-Conditioned GAN Data Augmentation for Representation Learning**|Pietro Astolfi et.al.|[2303.09677v1](http://arxiv.org/abs/2303.09677v1)|null|
+|**2023-03-16**|**Predicting discrete-time bifurcations with deep learning**|Thomas M. Bury et.al.|[2303.09669v1](http://arxiv.org/abs/2303.09669v1)|**[link](https://github.com/thomasmbury/dl_discrete_bifurcation)**|
+|**2023-03-16**|**Efficient Computation Sharing for Multi-Task Visual Scene Understanding**|Sara Shoouri et.al.|[2303.09663v1](http://arxiv.org/abs/2303.09663v1)|null|
+|**2023-03-16**|**Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution**|Jiamian Wang et.al.|[2303.09650v1](http://arxiv.org/abs/2303.09650v1)|null|
+|**2023-03-16**|**Preserving Derivative Information while Transforming Neuronal Curves**|Thomas L. Athey et.al.|[2303.09649v1](http://arxiv.org/abs/2303.09649v1)|null|
 |**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v1](http://arxiv.org/abs/2303.09554v1)|null|
 |**2023-03-16**|**InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views**|Mai Nishimura et.al.|[2303.09534v1](http://arxiv.org/abs/2303.09534v1)|null|
 |**2023-03-16**|**No eigenstate of the critical transverse-field Ising chain satisfies the area law**|Saverio Bocini et.al.|[2303.09525v1](http://arxiv.org/abs/2303.09525v1)|null|
