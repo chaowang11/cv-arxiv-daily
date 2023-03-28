@@ -23,11 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-27**|**Additive manufacturing of solid diffractive optical elements via near index matching**|Reut Kedem Orange et.al.|[2303.15197v1](http://arxiv.org/abs/2303.15197v1)|null|
+|**2023-03-27**|**Multi-contrast MRI Super-resolution via Implicit Neural Representations**|Julian McGinnis et.al.|[2303.15065v1](http://arxiv.org/abs/2303.15065v1)|null|
+|**2023-03-26**|**Learning Generative Structure Prior for Blind Text Image Super-resolution**|Xiaoming Li et.al.|[2303.14726v1](http://arxiv.org/abs/2303.14726v1)|**[link](https://github.com/csxmli2016/marconet)**|
+|**2023-03-25**|**Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables**|Jiacheng Li et.al.|[2303.14506v1](http://arxiv.org/abs/2303.14506v1)|**[link](https://github.com/ddlee-cn/mulut)**|
+|**2023-03-25**|**Incorporating Transformer Designs into Convolutions for Lightweight Image Super-Resolution**|Gang Wu et.al.|[2303.14324v1](http://arxiv.org/abs/2303.14324v1)|**[link](https://github.com/aitical/tcsr)**|
 |**2023-03-24**|**Transthoracic super-resolution ultrasound localization microscopy of myocardial vasculature in patients**|Jipeng Yan et.al.|[2303.14003v1](http://arxiv.org/abs/2303.14003v1)|**[link](https://github.com/jipengyan1995/srussoftware)**|
 |**2023-03-24**|**DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution**|Ye Mao et.al.|[2303.13933v1](http://arxiv.org/abs/2303.13933v1)|null|
 |**2023-03-24**|**A Three-Player GAN for Super-Resolution in Magnetic Resonance Imaging**|Qi Wang et.al.|[2303.13900v1](http://arxiv.org/abs/2303.13900v1)|null|
 |**2023-03-24**|**PFT-SSR: Parallax Fusion Transformer for Stereo Image Super-Resolution**|Hansheng Guo et.al.|[2303.13807v1](http://arxiv.org/abs/2303.13807v1)|null|
-|**2023-03-24**|**Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution**|Yunfan Lu et.al.|[2303.13767v1](http://arxiv.org/abs/2303.13767v1)|null|
+|**2023-03-24**|**Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution**|Yunfan Lu et.al.|[2303.13767v1](http://arxiv.org/abs/2303.13767v1)|**[link](https://github.com/yunfanLu/INR-Event-VSR)**|
 |**2023-03-23**|**Human Guided Ground-truth Generation for Realistic Image Super-resolution**|Du Chen et.al.|[2303.13069v1](http://arxiv.org/abs/2303.13069v1)|**[link](https://github.com/chrisdud0257/hggt)**|
 |**2023-03-22**|**EBSR: Enhanced Binary Neural Network for Image Super-Resolution**|Renjie Wei et.al.|[2303.12270v1](http://arxiv.org/abs/2303.12270v1)|null|
 |**2023-03-21**|**GLADE: Gradient Loss Augmented Degradation Enhancement for Unpaired Super-Resolution of Anisotropic MRI**|Michele Pascale et.al.|[2303.11831v1](http://arxiv.org/abs/2303.11831v1)|null|
@@ -250,6 +255,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-26**|**Learning Generative Structure Prior for Blind Text Image Super-resolution**|Xiaoming Li et.al.|[2303.14726v1](http://arxiv.org/abs/2303.14726v1)|**[link](https://github.com/csxmli2016/marconet)**|
+|**2023-03-25**|**Incorporating Transformer Designs into Convolutions for Lightweight Image Super-Resolution**|Gang Wu et.al.|[2303.14324v1](http://arxiv.org/abs/2303.14324v1)|**[link](https://github.com/aitical/tcsr)**|
 |**2023-03-24**|**A Three-Player GAN for Super-Resolution in Magnetic Resonance Imaging**|Qi Wang et.al.|[2303.13900v1](http://arxiv.org/abs/2303.13900v1)|null|
 |**2023-03-24**|**PFT-SSR: Parallax Fusion Transformer for Stereo Image Super-Resolution**|Hansheng Guo et.al.|[2303.13807v1](http://arxiv.org/abs/2303.13807v1)|null|
 |**2023-03-23**|**Human Guided Ground-truth Generation for Realistic Image Super-resolution**|Du Chen et.al.|[2303.13069v1](http://arxiv.org/abs/2303.13069v1)|**[link](https://github.com/chrisdud0257/hggt)**|
@@ -364,7 +371,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-03-24**|**Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution**|Yunfan Lu et.al.|[2303.13767v1](http://arxiv.org/abs/2303.13767v1)|null|
+|**2023-03-24**|**Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution**|Yunfan Lu et.al.|[2303.13767v1](http://arxiv.org/abs/2303.13767v1)|**[link](https://github.com/yunfanLu/INR-Event-VSR)**|
 |**2023-03-17**|**Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**|Zixi Tuo et.al.|[2303.09826v1](http://arxiv.org/abs/2303.09826v1)|null|
 |**2023-03-15**|**DeblurSR: Event-Based Motion Deblurring Under the Spiking Representation**|Chen Song et.al.|[2303.08977v1](http://arxiv.org/abs/2303.08977v1)|**[link](https://github.com/chensong1995/deblursr)**|
 |**2023-03-15**|**Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting**|Gen Li et.al.|[2303.08331v1](http://arxiv.org/abs/2303.08331v1)|null|
@@ -450,6 +457,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-27**|**Exemplar-based Video Colorization with Long-term Spatiotemporal Dependency**|Siqi Chen et.al.|[2303.15081v1](http://arxiv.org/abs/2303.15081v1)|null|
 |**2023-03-21**|**SVCNet: Scribble-based Video Colorization Network with Temporal Aggregation**|Yuzhi Zhao et.al.|[2303.11591v1](http://arxiv.org/abs/2303.11591v1)|**[link](https://github.com/zhaoyuzhi/svcnet)**|
 |**2022-12-05**|**BiSTNet: Semantic Image Prior Guided Bidirectional Temporal Feature Fusion for Deep Exemplar-based Video Colorization**|Yixin Yang et.al.|[2212.02268v1](http://arxiv.org/abs/2212.02268v1)|null|
 |**2022-07-19**|**An Overview of Color Transfer and Style Transfer for Images and Videos**|Shiguang Liu et.al.|[2204.13339v3](http://arxiv.org/abs/2204.13339v3)|null|
@@ -485,6 +493,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-27**|**SwiftFormer: Efficient Additive Attention for Transformer-based Real-time Mobile Vision Applications**|Abdelrahman Shaker et.al.|[2303.15446v1](http://arxiv.org/abs/2303.15446v1)|**[link](https://github.com/amshaker/swiftformer)**|
+|**2023-03-27**|**Classifier Robustness Enhancement Via Test-Time Transformation**|Tsachi Blau et.al.|[2303.15409v1](http://arxiv.org/abs/2303.15409v1)|null|
+|**2023-03-27**|**Time Crystals transforming Frequency Combs in Tunable Photonic Oscillators**|Georgia Himona et.al.|[2303.15394v1](http://arxiv.org/abs/2303.15394v1)|null|
+|**2023-03-27**|**Microstructural engineering by heat treatments of multi-principal element alloys via spinodal mediated phase transformation pathways**|Shalini Roy Koneru et.al.|[2303.15370v1](http://arxiv.org/abs/2303.15370v1)|null|
+|**2023-03-27**|**Progressive Semantic-Visual Mutual Adaption for Generalized Zero-Shot Learning**|Man Liu et.al.|[2303.15322v1](http://arxiv.org/abs/2303.15322v1)|**[link](https://github.com/manliucoder/psvma)**|
+|**2023-03-27**|**Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention**|Sounak Mondal et.al.|[2303.15274v1](http://arxiv.org/abs/2303.15274v1)|null|
+|**2023-03-27**|**Handwritten Text Generation from Visual Archetypes**|Vittorio Pippi et.al.|[2303.15269v1](http://arxiv.org/abs/2303.15269v1)|null|
+|**2023-03-27**|**Joint Person Identity, Gender and Age Estimation from Hand Images using Deep Multi-Task Representation Learning**|Nathanael L. Baisa et.al.|[2303.15263v1](http://arxiv.org/abs/2303.15263v1)|null|
+|**2023-03-27**|**Evaluating self-attention interpretability through human-grounded experimental protocol**|Milan Bhan et.al.|[2303.15190v1](http://arxiv.org/abs/2303.15190v1)|null|
+|**2023-03-27**|**Pushing the Envelope for Depth-Based Semi-Supervised 3D Hand Pose Estimation with Consistency Training**|Mohammad Rezaei et.al.|[2303.15147v1](http://arxiv.org/abs/2303.15147v1)|null|
+|**2023-03-27**|**SimpleNet: A Simple Network for Image Anomaly Detection and Localization**|Zhikang Liu et.al.|[2303.15140v1](http://arxiv.org/abs/2303.15140v1)|**[link](https://github.com/donaldrr/simplenet)**|
+|**2023-03-27**|**Vision Transformer with Quadrangle Attention**|Qiming Zhang et.al.|[2303.15105v1](http://arxiv.org/abs/2303.15105v1)|null|
+|**2023-03-27**|**Subsonic flows with a contact discontinuity in a two-dimensional finitely long curved nozzle**|Shangkun Weng et.al.|[2303.15096v1](http://arxiv.org/abs/2303.15096v1)|null|
+|**2023-03-27**|**Exemplar-based Video Colorization with Long-term Spatiotemporal Dependency**|Siqi Chen et.al.|[2303.15081v1](http://arxiv.org/abs/2303.15081v1)|null|
+|**2023-03-27**|**A Time-invariant Network Flow Model for Two-person Ride-pooling Mobility-on-Demand**|Fabio Paparella et.al.|[2303.15051v1](http://arxiv.org/abs/2303.15051v1)|null|
+|**2023-03-27**|**InterviewBot: Real-Time End-to-End Dialogue System to Interview Students for College Admission**|Zihao Wang et.al.|[2303.15049v1](http://arxiv.org/abs/2303.15049v1)|null|
+|**2023-03-27**|**Leveraging Hidden Positives for Unsupervised Semantic Segmentation**|Hyun Seok Seong et.al.|[2303.15014v1](http://arxiv.org/abs/2303.15014v1)|**[link](https://github.com/hynnsk/hp)**|
+|**2023-03-27**|**Transformer-based Multi-Instance Learning for Weakly Supervised Object Detection**|Zhaofei Wang et.al.|[2303.14999v1](http://arxiv.org/abs/2303.14999v1)|null|
+|**2023-03-27**|**Learned Image Compression with Mixed Transformer-CNN Architectures**|Jinming Liu et.al.|[2303.14978v1](http://arxiv.org/abs/2303.14978v1)|**[link](https://github.com/jmliu206/lic_tcm)**|
+|**2023-03-27**|**On CNF Conversion for SAT Enumeration**|Gabriele Masina et.al.|[2303.14971v1](http://arxiv.org/abs/2303.14971v1)|null|
+|**2023-03-27**|**Learning a Deep Color Difference Metric for Photographic Images**|Haoyu Chen et.al.|[2303.14964v1](http://arxiv.org/abs/2303.14964v1)|**[link](https://github.com/haoychen3/cd-flow)**|
+|**2023-03-27**|**Filter-informed Spectral Graph Wavelet Networks for Multiscale Feature Extraction and Intelligent Fault Diagnosis**|Tianfu Li et.al.|[2303.14958v1](http://arxiv.org/abs/2303.14958v1)|null|
+|**2023-03-27**|**Continuous Intermediate Token Learning with Implicit Motion Manifold for Keyframe Based Motion Interpolation**|Clinton Ansun Mo et.al.|[2303.14926v1](http://arxiv.org/abs/2303.14926v1)|null|
+|**2023-03-27**|**Context-Aware Transformer for 3D Point Cloud Automatic Annotation**|Xiaoyan Qian et.al.|[2303.14893v1](http://arxiv.org/abs/2303.14893v1)|null|
+|**2023-03-27**|**TransCODE: Co-design of Transformers and Accelerators for Efficient Training and Inference**|Shikhar Tuli et.al.|[2303.14882v1](http://arxiv.org/abs/2303.14882v1)|null|
+|**2023-03-27**|**Error-mitigated Quantum Approximate Optimization via Learning-based Adaptive Optimization**|Lixue Cheng et.al.|[2303.14877v1](http://arxiv.org/abs/2303.14877v1)|**[link](https://github.com/sherrylixuecheng/EMQAOA-DARBO)**|
+|**2023-03-27**|**Coupling Artificial Neurons in BERT and Biological Neurons in the Human Brain**|Xu Liu et.al.|[2303.14871v1](http://arxiv.org/abs/2303.14871v1)|null|
+|**2023-03-27**|**DiffTAD: Temporal Action Detection with Proposal Denoising Diffusion**|Sauradip Nag et.al.|[2303.14863v1](http://arxiv.org/abs/2303.14863v1)|**[link](https://github.com/sauradip/diffusiontad)**|
+|**2023-03-26**|**Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers**|Zhou Huang et.al.|[2303.14816v1](http://arxiv.org/abs/2303.14816v1)|**[link](https://github.com/zhouhuang23/fspnet)**|
+|**2023-03-26**|**Contrastive Transformer: Contrastive Learning Scheme with Transformer innate Patches**|Sander Riisøen Jyhne et.al.|[2303.14806v1](http://arxiv.org/abs/2303.14806v1)|null|
+|**2023-03-26**|**RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning**|Yabin Zhu et.al.|[2303.14778v1](http://arxiv.org/abs/2303.14778v1)|null|
+|**2023-03-26**|**Query Generation based on Generative Adversarial Networks**|Weihua Sun et.al.|[2303.14777v1](http://arxiv.org/abs/2303.14777v1)|null|
+|**2023-03-26**|**Goldstone bosons on celestial sphere and conformal soft theorems**|Karol Kampf et.al.|[2303.14761v1](http://arxiv.org/abs/2303.14761v1)|null|
+|**2023-03-26**|**Prediction and estimation of random variables with infinite mean or variance**|Victor de la Pena et.al.|[2303.14752v1](http://arxiv.org/abs/2303.14752v1)|null|
+|**2023-03-26**|**Global-to-Local Modeling for Video-based 3D Human Pose and Shape Estimation**|Xiaolong Shen et.al.|[2303.14747v1](http://arxiv.org/abs/2303.14747v1)|**[link](https://github.com/sxl142/glot)**|
+|**2023-03-26**|**Disentangling Writer and Character Styles for Handwriting Generation**|Gang Dai et.al.|[2303.14736v1](http://arxiv.org/abs/2303.14736v1)|**[link](https://github.com/dailenson/sdt)**|
+|**2023-03-26**|**Driver Profiling and Bayesian Workload Estimation Using Naturalistic Peripheral Detection Study Data**|Nermin Caber et.al.|[2303.14720v1](http://arxiv.org/abs/2303.14720v1)|null|
+|**2023-03-26**|**Mathematical Characterization of Signal Semantics and Rethinking of the Mathematical Theory of Information**|Guangming Shi et.al.|[2303.14701v1](http://arxiv.org/abs/2303.14701v1)|null|
+|**2023-03-26**|**PDPP:Projected Diffusion for Procedure Planning in Instructional Videos**|Hanlin Wang et.al.|[2303.14676v1](http://arxiv.org/abs/2303.14676v1)|null|
+|**2023-03-26**|**A relation between the cube polynomials of partial cubes and the clique polynomials of their crossing graphs**|Yan-Ting Xie et.al.|[2303.14671v1](http://arxiv.org/abs/2303.14671v1)|null|
+|**2023-03-26**|**Hierarchical Dense Correlation Distillation for Few-Shot Segmentation**|Bohao Peng et.al.|[2303.14652v1](http://arxiv.org/abs/2303.14652v1)|null|
+|**2023-03-26**|**Sector Patch Embedding: An Embedding Module Conforming to The Distortion Pattern of Fisheye Image**|Dianyi Yang et.al.|[2303.14645v1](http://arxiv.org/abs/2303.14645v1)|null|
+|**2023-03-26**|**Affordance Grounding from Demonstration Video to Target Image**|Joya Chen et.al.|[2303.14644v1](http://arxiv.org/abs/2303.14644v1)|**[link](https://github.com/showlab/afformer)**|
+|**2023-03-26**|**POAR: Towards Open-World Pedestrian Attribute Recognition**|YUE Zhang et.al.|[2303.14643v1](http://arxiv.org/abs/2303.14643v1)|null|
+|**2023-03-26**|**Improved Nonlinear Transform Source-Channel Coding to Catalyze Semantic Communications**|Sixian Wang et.al.|[2303.14637v1](http://arxiv.org/abs/2303.14637v1)|null|
+|**2023-03-26**|**PORE: Provably Robust Recommender Systems against Data Poisoning Attacks**|Jinyuan Jia et.al.|[2303.14601v1](http://arxiv.org/abs/2303.14601v1)|null|
+|**2023-03-26**|**Preserving Linear Separability in Continual Learning by Backward Feature Projection**|Qiao Gu et.al.|[2303.14595v1](http://arxiv.org/abs/2303.14595v1)|null|
+|**2023-03-25**|**DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality**|Yuqing Wang et.al.|[2303.14585v1](http://arxiv.org/abs/2303.14585v1)|**[link](https://github.com/yizhiwang96/deepvecfont-v2)**|
+|**2023-03-25**|**Automatic Generation of Multiple-Choice Questions**|Cheng Zhang et.al.|[2303.14576v1](http://arxiv.org/abs/2303.14576v1)|null|
+|**2023-03-25**|**Image Moment Invariants to Rotational Motion Blur**|Hanlin Mo et.al.|[2303.14566v1](http://arxiv.org/abs/2303.14566v1)|null|
 |**2023-03-24**|**FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization**|Pavan Kumar Anasosalu Vasu et.al.|[2303.14189v1](http://arxiv.org/abs/2303.14189v1)|null|
 |**2023-03-24**|**Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**|Junshu Tang et.al.|[2303.14184v1](http://arxiv.org/abs/2303.14184v1)|**[link](https://github.com/junshutang/Make-It-3D)**|
 |**2023-03-24**|**Transformations of currents in sigma-models with target space supersymmetry**|Vinícius Bernardes et.al.|[2303.14181v1](http://arxiv.org/abs/2303.14181v1)|null|
