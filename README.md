@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.28
+## Updated on 2023.03.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -28,7 +28,7 @@
 |**2023-03-26**|**Learning Generative Structure Prior for Blind Text Image Super-resolution**|Xiaoming Li et.al.|[2303.14726v1](http://arxiv.org/abs/2303.14726v1)|**[link](https://github.com/csxmli2016/marconet)**|
 |**2023-03-25**|**Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables**|Jiacheng Li et.al.|[2303.14506v1](http://arxiv.org/abs/2303.14506v1)|**[link](https://github.com/ddlee-cn/mulut)**|
 |**2023-03-25**|**Incorporating Transformer Designs into Convolutions for Lightweight Image Super-Resolution**|Gang Wu et.al.|[2303.14324v1](http://arxiv.org/abs/2303.14324v1)|**[link](https://github.com/aitical/tcsr)**|
-|**2023-03-24**|**Transthoracic super-resolution ultrasound localization microscopy of myocardial vasculature in patients**|Jipeng Yan et.al.|[2303.14003v1](http://arxiv.org/abs/2303.14003v1)|**[link](https://github.com/jipengyan1995/srussoftware)**|
+|**2023-03-28**|**Transthoracic super-resolution ultrasound localisation microscopy of myocardial vasculature in patients**|Jipeng Yan et.al.|[2303.14003v2](http://arxiv.org/abs/2303.14003v2)|**[link](https://github.com/jipengyan1995/srussoftware)**|
 |**2023-03-24**|**DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution**|Ye Mao et.al.|[2303.13933v1](http://arxiv.org/abs/2303.13933v1)|null|
 |**2023-03-24**|**A Three-Player GAN for Super-Resolution in Magnetic Resonance Imaging**|Qi Wang et.al.|[2303.13900v1](http://arxiv.org/abs/2303.13900v1)|null|
 |**2023-03-24**|**PFT-SSR: Parallax Fusion Transformer for Stereo Image Super-Resolution**|Hansheng Guo et.al.|[2303.13807v1](http://arxiv.org/abs/2303.13807v1)|null|
@@ -249,7 +249,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230329>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -365,7 +365,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230329>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -434,7 +434,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230329>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -451,7 +451,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230329>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -487,7 +487,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230329>back to top</a>)</p>
 
 ## Transformer
 
@@ -499,20 +499,20 @@
 |**2023-03-27**|**Microstructural engineering by heat treatments of multi-principal element alloys via spinodal mediated phase transformation pathways**|Shalini Roy Koneru et.al.|[2303.15370v1](http://arxiv.org/abs/2303.15370v1)|null|
 |**2023-03-27**|**Progressive Semantic-Visual Mutual Adaption for Generalized Zero-Shot Learning**|Man Liu et.al.|[2303.15322v1](http://arxiv.org/abs/2303.15322v1)|**[link](https://github.com/manliucoder/psvma)**|
 |**2023-03-27**|**Gazeformer: Scalable, Effective and Fast Prediction of Goal-Directed Human Attention**|Sounak Mondal et.al.|[2303.15274v1](http://arxiv.org/abs/2303.15274v1)|null|
-|**2023-03-27**|**Handwritten Text Generation from Visual Archetypes**|Vittorio Pippi et.al.|[2303.15269v1](http://arxiv.org/abs/2303.15269v1)|null|
+|**2023-03-27**|**Handwritten Text Generation from Visual Archetypes**|Vittorio Pippi et.al.|[2303.15269v1](http://arxiv.org/abs/2303.15269v1)|**[link](https://github.com/aimagelab/vatr)**|
 |**2023-03-27**|**Joint Person Identity, Gender and Age Estimation from Hand Images using Deep Multi-Task Representation Learning**|Nathanael L. Baisa et.al.|[2303.15263v1](http://arxiv.org/abs/2303.15263v1)|null|
 |**2023-03-27**|**Evaluating self-attention interpretability through human-grounded experimental protocol**|Milan Bhan et.al.|[2303.15190v1](http://arxiv.org/abs/2303.15190v1)|null|
 |**2023-03-27**|**Pushing the Envelope for Depth-Based Semi-Supervised 3D Hand Pose Estimation with Consistency Training**|Mohammad Rezaei et.al.|[2303.15147v1](http://arxiv.org/abs/2303.15147v1)|null|
-|**2023-03-27**|**SimpleNet: A Simple Network for Image Anomaly Detection and Localization**|Zhikang Liu et.al.|[2303.15140v1](http://arxiv.org/abs/2303.15140v1)|**[link](https://github.com/donaldrr/simplenet)**|
+|**2023-03-28**|**SimpleNet: A Simple Network for Image Anomaly Detection and Localization**|Zhikang Liu et.al.|[2303.15140v2](http://arxiv.org/abs/2303.15140v2)|**[link](https://github.com/donaldrr/simplenet)**|
 |**2023-03-27**|**Vision Transformer with Quadrangle Attention**|Qiming Zhang et.al.|[2303.15105v1](http://arxiv.org/abs/2303.15105v1)|null|
 |**2023-03-27**|**Subsonic flows with a contact discontinuity in a two-dimensional finitely long curved nozzle**|Shangkun Weng et.al.|[2303.15096v1](http://arxiv.org/abs/2303.15096v1)|null|
 |**2023-03-27**|**Exemplar-based Video Colorization with Long-term Spatiotemporal Dependency**|Siqi Chen et.al.|[2303.15081v1](http://arxiv.org/abs/2303.15081v1)|null|
-|**2023-03-27**|**A Time-invariant Network Flow Model for Two-person Ride-pooling Mobility-on-Demand**|Fabio Paparella et.al.|[2303.15051v1](http://arxiv.org/abs/2303.15051v1)|null|
+|**2023-03-27**|**A Time-invariant Network Flow Model for Two-person Ride-pooling Mobility-on-Demand**|Fabio Paparella et.al.|[2303.15051v1](http://arxiv.org/abs/2303.15051v1)|**[link](https://github.com/fabiopaparella/ride-pooling-mod)**|
 |**2023-03-27**|**InterviewBot: Real-Time End-to-End Dialogue System to Interview Students for College Admission**|Zihao Wang et.al.|[2303.15049v1](http://arxiv.org/abs/2303.15049v1)|null|
 |**2023-03-27**|**Leveraging Hidden Positives for Unsupervised Semantic Segmentation**|Hyun Seok Seong et.al.|[2303.15014v1](http://arxiv.org/abs/2303.15014v1)|**[link](https://github.com/hynnsk/hp)**|
 |**2023-03-27**|**Transformer-based Multi-Instance Learning for Weakly Supervised Object Detection**|Zhaofei Wang et.al.|[2303.14999v1](http://arxiv.org/abs/2303.14999v1)|null|
 |**2023-03-27**|**Learned Image Compression with Mixed Transformer-CNN Architectures**|Jinming Liu et.al.|[2303.14978v1](http://arxiv.org/abs/2303.14978v1)|**[link](https://github.com/jmliu206/lic_tcm)**|
-|**2023-03-27**|**On CNF Conversion for SAT Enumeration**|Gabriele Masina et.al.|[2303.14971v1](http://arxiv.org/abs/2303.14971v1)|null|
+|**2023-03-28**|**On CNF Conversion for SAT Enumeration**|Gabriele Masina et.al.|[2303.14971v2](http://arxiv.org/abs/2303.14971v2)|null|
 |**2023-03-27**|**Learning a Deep Color Difference Metric for Photographic Images**|Haoyu Chen et.al.|[2303.14964v1](http://arxiv.org/abs/2303.14964v1)|**[link](https://github.com/haoychen3/cd-flow)**|
 |**2023-03-27**|**Filter-informed Spectral Graph Wavelet Networks for Multiscale Feature Extraction and Intelligent Fault Diagnosis**|Tianfu Li et.al.|[2303.14958v1](http://arxiv.org/abs/2303.14958v1)|null|
 |**2023-03-27**|**Continuous Intermediate Token Learning with Implicit Motion Manifold for Keyframe Based Motion Interpolation**|Clinton Ansun Mo et.al.|[2303.14926v1](http://arxiv.org/abs/2303.14926v1)|null|
@@ -3632,7 +3632,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230329>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -3719,7 +3719,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230329>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -3779,7 +3779,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230329>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
