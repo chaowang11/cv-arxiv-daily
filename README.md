@@ -23,6 +23,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-29**|**Super-Resolution of Three-Dimensional Temperature and Velocity for Building-Resolving Urban Micrometeorology Using Physics-Guided Convolutional Neural Networks with Image Inpainting Techniques**|Yuki Yasuda et.al.|[2303.16684v1](http://arxiv.org/abs/2303.16684v1)|null|
+|**2023-03-29**|**Operational Neural Networks for Efficient Hyperspectral Single-Image Super-Resolution**|Alexander Ulrichsen et.al.|[2303.16636v1](http://arxiv.org/abs/2303.16636v1)|null|
+|**2023-03-29**|**Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution**|Hao-Wei Chen et.al.|[2303.16513v1](http://arxiv.org/abs/2303.16513v1)|null|
+|**2023-03-29**|**Implicit Diffusion Models for Continuous Super-Resolution**|Sicheng Gao et.al.|[2303.16491v1](http://arxiv.org/abs/2303.16491v1)|**[link](https://github.com/ree1s/idm)**|
+|**2023-03-29**|**Random Weights Networks Work as Loss Prior Constraint for Image Restoration**|Man Zhou et.al.|[2303.16438v1](http://arxiv.org/abs/2303.16438v1)|null|
+|**2023-03-29**|**Unlocking Masked Autoencoders as Loss Function for Image and Video Restoration**|Man Zhou et.al.|[2303.16411v1](http://arxiv.org/abs/2303.16411v1)|null|
+|**2023-03-28**|**CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution**|Zixuan Chen et.al.|[2303.16242v1](http://arxiv.org/abs/2303.16242v1)|null|
 |**2023-03-27**|**Additive manufacturing of solid diffractive optical elements via near index matching**|Reut Kedem Orange et.al.|[2303.15197v1](http://arxiv.org/abs/2303.15197v1)|null|
 |**2023-03-27**|**Multi-contrast MRI Super-resolution via Implicit Neural Representations**|Julian McGinnis et.al.|[2303.15065v1](http://arxiv.org/abs/2303.15065v1)|null|
 |**2023-03-26**|**Learning Generative Structure Prior for Blind Text Image Super-resolution**|Xiaoming Li et.al.|[2303.14726v1](http://arxiv.org/abs/2303.14726v1)|**[link](https://github.com/csxmli2016/marconet)**|
@@ -255,6 +262,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-29**|**Operational Neural Networks for Efficient Hyperspectral Single-Image Super-Resolution**|Alexander Ulrichsen et.al.|[2303.16636v1](http://arxiv.org/abs/2303.16636v1)|null|
+|**2023-03-29**|**Implicit Diffusion Models for Continuous Super-Resolution**|Sicheng Gao et.al.|[2303.16491v1](http://arxiv.org/abs/2303.16491v1)|**[link](https://github.com/ree1s/idm)**|
+|**2023-03-29**|**Random Weights Networks Work as Loss Prior Constraint for Image Restoration**|Man Zhou et.al.|[2303.16438v1](http://arxiv.org/abs/2303.16438v1)|null|
+|**2023-03-29**|**Unlocking Masked Autoencoders as Loss Function for Image and Video Restoration**|Man Zhou et.al.|[2303.16411v1](http://arxiv.org/abs/2303.16411v1)|null|
 |**2023-03-26**|**Learning Generative Structure Prior for Blind Text Image Super-resolution**|Xiaoming Li et.al.|[2303.14726v1](http://arxiv.org/abs/2303.14726v1)|**[link](https://github.com/csxmli2016/marconet)**|
 |**2023-03-25**|**Incorporating Transformer Designs into Convolutions for Lightweight Image Super-Resolution**|Gang Wu et.al.|[2303.14324v1](http://arxiv.org/abs/2303.14324v1)|**[link](https://github.com/aitical/tcsr)**|
 |**2023-03-24**|**A Three-Player GAN for Super-Resolution in Magnetic Resonance Imaging**|Qi Wang et.al.|[2303.13900v1](http://arxiv.org/abs/2303.13900v1)|null|
@@ -493,6 +504,44 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-29**|**ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance**|Ziyu Guo et.al.|[2303.16894v1](http://arxiv.org/abs/2303.16894v1)|null|
+|**2023-03-29**|**Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation**|Md Mostafijur Rahman et.al.|[2303.16892v1](http://arxiv.org/abs/2303.16892v1)|**[link](https://github.com/SLDGroup/MERIT)**|
+|**2023-03-29**|**The Hidden-Manifold Hopfield Model and a learning phase transition**|Matteo Negri et.al.|[2303.16880v1](http://arxiv.org/abs/2303.16880v1)|null|
+|**2023-03-29**|**Channel Phase Processing in Wireless Networks for Human Activity Recognition**|Guillermo Diaz et.al.|[2303.16873v1](http://arxiv.org/abs/2303.16873v1)|null|
+|**2023-03-29**|**Robust Dancer: Long-term 3D Dance Synthesis Using Unpaired Data**|Bin Feng et.al.|[2303.16856v1](http://arxiv.org/abs/2303.16856v1)|**[link](https://github.com/bfeng14/robustdancer)**|
+|**2023-03-29**|**Multi-View Keypoints for Reliable 6D Object Pose Estimation**|Alan Li et.al.|[2303.16833v1](http://arxiv.org/abs/2303.16833v1)|null|
+|**2023-03-29**|**Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology**|Timothy Blackmore et.al.|[2303.16747v1](http://arxiv.org/abs/2303.16747v1)|null|
+|**2023-03-29**|**Planar 3-way Edge Perfect Matching Leads to A Holant Dichotomy**|Jin-Yi Cai et.al.|[2303.16705v1](http://arxiv.org/abs/2303.16705v1)|null|
+|**2023-03-29**|**Affine three-manifolds with centralizing holonomy**|Raphaël V Alexandre et.al.|[2303.16665v1](http://arxiv.org/abs/2303.16665v1)|null|
+|**2023-03-29**|**Summarizing Indian Languages using Multilingual Transformers based Models**|Dhaval Taunk et.al.|[2303.16657v1](http://arxiv.org/abs/2303.16657v1)|null|
+|**2023-03-29**|**Adaptive Spot-Guided Transformer for Consistent Local Feature Matching**|Jiahuan Yu et.al.|[2303.16624v1](http://arxiv.org/abs/2303.16624v1)|null|
+|**2023-03-29**|**Stringy Threshold Corrections in D-brane Systems**|Satoshi Iso et.al.|[2303.16608v1](http://arxiv.org/abs/2303.16608v1)|null|
+|**2023-03-29**|**Quantum Deep Hedging**|El Amine Cherrat et.al.|[2303.16585v1](http://arxiv.org/abs/2303.16585v1)|null|
+|**2023-03-29**|**Generalized Relation Modeling for Transformer Tracking**|Shenyuan Gao et.al.|[2303.16580v1](http://arxiv.org/abs/2303.16580v1)|**[link](https://github.com/little-podi/grm)**|
+|**2023-03-29**|**Self-accumulative Vision Transformer for Bone Age Assessment Using the Sauvegrain Method**|Hong-Jun Choi et.al.|[2303.16557v1](http://arxiv.org/abs/2303.16557v1)|null|
+|**2023-03-29**|**On Communication-efficient Multisensor Track Association via Measurement Transformation (Extended Version)**|Haiqi Liu et.al.|[2303.16555v1](http://arxiv.org/abs/2303.16555v1)|null|
+|**2023-03-29**|**Upper bounds on the numbers of binary plateaued and bent functions**|Vladimir N. Potapov et.al.|[2303.16547v1](http://arxiv.org/abs/2303.16547v1)|null|
+|**2023-03-29**|**Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation**|Jiawei Liu et.al.|[2303.16541v1](http://arxiv.org/abs/2303.16541v1)|null|
+|**2023-03-29**|**Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution**|Hao-Wei Chen et.al.|[2303.16513v1](http://arxiv.org/abs/2303.16513v1)|null|
+|**2023-03-29**|**Hook length biases and general linear partition inequalities**|Cristina Ballantine et.al.|[2303.16512v1](http://arxiv.org/abs/2303.16512v1)|null|
+|**2023-03-29**|**Visibility Aware Human-Object Interaction Tracking from Single RGB Camera**|Xianghui Xie et.al.|[2303.16479v1](http://arxiv.org/abs/2303.16479v1)|null|
+|**2023-03-29**|**Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation**|Wenhao Chai et.al.|[2303.16456v1](http://arxiv.org/abs/2303.16456v1)|null|
+|**2023-03-29**|**ProtFIM: Fill-in-Middle Protein Sequence Design via Protein Language Models**|Youhan Lee et.al.|[2303.16452v1](http://arxiv.org/abs/2303.16452v1)|null|
+|**2023-03-29**|**Self-positioning Point-based Transformer for Point Cloud Understanding**|Jinyoung Park et.al.|[2303.16450v1](http://arxiv.org/abs/2303.16450v1)|null|
+|**2023-03-29**|**Dirichlet problem of nonlinear second order partial differential equations resolved with any derivatives**|Jianfeng Wang et.al.|[2303.16444v1](http://arxiv.org/abs/2303.16444v1)|null|
+|**2023-03-29**|**Hybrid-space reconstruction with add-on distortion correction for simultaneous multi-slab diffusion MRI**|Jieying Zhang et.al.|[2303.16442v1](http://arxiv.org/abs/2303.16442v1)|null|
+|**2023-03-29**|**Random Weights Networks Work as Loss Prior Constraint for Image Restoration**|Man Zhou et.al.|[2303.16438v1](http://arxiv.org/abs/2303.16438v1)|null|
+|**2023-03-29**|**Unlocking Masked Autoencoders as Loss Function for Image and Video Restoration**|Man Zhou et.al.|[2303.16411v1](http://arxiv.org/abs/2303.16411v1)|null|
+|**2023-03-29**|**Renormalon Subtraction in OPE by Dual Space Approach: Nonlinear Sigma Model and QCD**|Yuuki Hayashi et.al.|[2303.16392v1](http://arxiv.org/abs/2303.16392v1)|null|
+|**2023-03-28**|**The Half Transform Ansatz: Quarkonium Dynamics in Quantum Phase Space**|Gabriel Nowaskie et.al.|[2303.16356v1](http://arxiv.org/abs/2303.16356v1)|null|
+|**2023-03-28**|**Hall conductivity as the topological invariant in magnetic Brillouin zone in the presence of interactions**|M. Selch et.al.|[2303.16327v1](http://arxiv.org/abs/2303.16327v1)|null|
+|**2023-03-28**|**The Hilbert space of de Sitter quantum gravity**|Tuneer Chakraborty et.al.|[2303.16315v1](http://arxiv.org/abs/2303.16315v1)|null|
+|**2023-03-28**|**SnakeVoxFormer: Transformer-based Single Image\\Voxel Reconstruction with Run Length Encoding**|Jae Joong Lee et.al.|[2303.16293v1](http://arxiv.org/abs/2303.16293v1)|null|
+|**2023-03-28**|**Multi-scale CLEAN in hard X-ray solar imaging**|Anna Volpara et.al.|[2303.16272v1](http://arxiv.org/abs/2303.16272v1)|null|
+|**2023-03-28**|**Optimisation via encodings: a renormalisation group perspective**|Konstantin Klemm et.al.|[2303.16258v1](http://arxiv.org/abs/2303.16258v1)|null|
+|**2023-03-28**|**Scalable handwritten text recognition system for lexicographic sources of under-resourced languages and alphabets**|Jan Idziak et.al.|[2303.16256v1](http://arxiv.org/abs/2303.16256v1)|null|
+|**2023-03-28**|**CryoFormer: Continuous Reconstruction of 3D Structures from Cryo-EM Data using Transformer-based Neural Representations**|Xinhang Liu et.al.|[2303.16254v1](http://arxiv.org/abs/2303.16254v1)|null|
+|**2023-03-28**|**Self-gravity in thin-disc simulations of protoplanetary discs: smoothing length rectified and generalised to bi-fluids**|Steven Rendon Restrepo et.al.|[2303.16213v1](http://arxiv.org/abs/2303.16213v1)|null|
 |**2023-03-28**|**ASIC: Aligning Sparse in-the-wild Image Collections**|Kamal Gupta et.al.|[2303.16201v1](http://arxiv.org/abs/2303.16201v1)|null|
 |**2023-03-28**|**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**|Renrui Zhang et.al.|[2303.16199v1](http://arxiv.org/abs/2303.16199v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
 |**2023-03-28**|**One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer**|Jing Lin et.al.|[2303.16160v1](http://arxiv.org/abs/2303.16160v1)|**[link](https://github.com/IDEA-Research/OSX)**|
@@ -3688,6 +3737,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-29**|**Super-Resolution of Three-Dimensional Temperature and Velocity for Building-Resolving Urban Micrometeorology Using Physics-Guided Convolutional Neural Networks with Image Inpainting Techniques**|Yuki Yasuda et.al.|[2303.16684v1](http://arxiv.org/abs/2303.16684v1)|null|
 |**2023-03-23**|**Generative Image Inpainting with Segmentation Confusion Adversarial Training and Contrastive Learning**|Zhiwen Zuo et.al.|[2303.13133v1](http://arxiv.org/abs/2303.13133v1)|null|
 |**2023-03-17**|**Non-convex approaches for low-rank tensor completion under tubal sampling**|Zheng Tan et.al.|[2303.12721v1](http://arxiv.org/abs/2303.12721v1)|null|
 |**2023-03-22**|**Region-wise matching for image inpainting based on adaptive weighted low-rank decomposition**|Shenghai Liao et.al.|[2303.12421v1](http://arxiv.org/abs/2303.12421v1)|null|
