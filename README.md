@@ -518,6 +518,35 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**What Affects Learned Equivariance in Deep Image Recognition Models?**|Robert-Jan Bruintjes et.al.|[2304.02628v1](http://arxiv.org/abs/2304.02628v1)|null|
+|**2023-04-05**|**Beyond Summarization: Designing AI Support for Real-World Expository Writing Tasks**|Zejiang Shen et.al.|[2304.02623v1](http://arxiv.org/abs/2304.02623v1)|null|
+|**2023-04-05**|**Invariant subspace method to the initial and boundary value problem of the higher dimensional nonlinear time-fractional PDEs**|K. S. Priyendhu et.al.|[2304.02607v1](http://arxiv.org/abs/2304.02607v1)|null|
+|**2023-04-05**|**Borel resummation of secular divergences in stochastic inflation**|Masazumi Honda et.al.|[2304.02592v1](http://arxiv.org/abs/2304.02592v1)|null|
+|**2023-04-05**|**Isomorphisms among quantum Grothendieck rings and cluster algebras**|Ryo Fujita et.al.|[2304.02562v1](http://arxiv.org/abs/2304.02562v1)|null|
+|**2023-04-05**|**Detecting and Grounding Multi-Modal Media Manipulation**|Rui Shao et.al.|[2304.02556v1](http://arxiv.org/abs/2304.02556v1)|**[link](https://github.com/rshaojimmy/multimodal-deepfake)**|
+|**2023-04-05**|**Face Transformer: Towards High Fidelity and Accurate Face Swapping**|Kaiwen Cui et.al.|[2304.02530v1](http://arxiv.org/abs/2304.02530v1)|null|
+|**2023-04-05**|**FPGA-Patch: Mitigating Remote Side-Channel Attacks on FPGAs using Dynamic Patch Generation**|Mahya Morid Ahmadi et.al.|[2304.02510v1](http://arxiv.org/abs/2304.02510v1)|null|
+|**2023-04-05**|**Multi-Spectrally Constrained Low-PAPR Waveform Optimization for MIMO Radar Space-Time Adaptive Processing**|Da Li et.al.|[2304.02502v1](http://arxiv.org/abs/2304.02502v1)|null|
+|**2023-04-05**|**Distance maps between Japanese kanji characters based on hierarchical optimal transport**|Dominic Schuhmacher et.al.|[2304.02493v1](http://arxiv.org/abs/2304.02493v1)|null|
+|**2023-04-05**|**Parametrizing positroid cells using bicolored tilings**|Joel Costa da Rocha et.al.|[2304.02483v1](http://arxiv.org/abs/2304.02483v1)|null|
+|**2023-04-05**|**Gradient Free Methods for Non-Smooth Convex Optimization with Heavy Tails on Convex Compact**|Nikita Kornilov et.al.|[2304.02442v1](http://arxiv.org/abs/2304.02442v1)|null|
+|**2023-04-05**|**TM2D: Bimodality Driven 3D Dance Generation via Music-Text Integration**|Kehong Gong et.al.|[2304.02419v1](http://arxiv.org/abs/2304.02419v1)|**[link](https://github.com/Garfield-kh/TM2D)**|
+|**2023-04-05**|**Modeling martensitic transformation in shape memory alloys using multi-phase-field elasticity models based on partial rank-one energy relaxation on pairwise interfaces**|Mohammad Sarhil et.al.|[2304.02406v1](http://arxiv.org/abs/2304.02406v1)|null|
+|**2023-04-05**|**Robust Secure Transmission for Active RIS Enabled Symbiotic Radio Multicast Communications**|Bin Lyu et.al.|[2304.02398v1](http://arxiv.org/abs/2304.02398v1)|null|
+|**2023-04-05**|**Third quantization for bosons: symplectic diagonalization, non-Hermitian Hamiltonian, and symmetries**|Steven Kim et.al.|[2304.02367v1](http://arxiv.org/abs/2304.02367v1)|null|
+|**2023-04-05**|**FourierPIM: High-Throughput In-Memory Fast Fourier Transform and Polynomial Multiplication**|Orian Leitersdorf et.al.|[2304.02336v1](http://arxiv.org/abs/2304.02336v1)|null|
+|**2023-04-05**|**Towards Efficient Task-Driven Model Reprogramming with Foundation Models**|Shoukai Xu et.al.|[2304.02263v1](http://arxiv.org/abs/2304.02263v1)|null|
+|**2023-04-05**|**BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation**|Junheum Park et.al.|[2304.02225v1](http://arxiv.org/abs/2304.02225v1)|**[link](https://github.com/junheum/biformer)**|
+|**2023-04-05**|**Local Intrinsic Dimensional Entropy**|Rohan Ghosh et.al.|[2304.02223v1](http://arxiv.org/abs/2304.02223v1)|null|
+|**2023-04-05**|**METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens**|Zhanyu Wang et.al.|[2304.02211v1](http://arxiv.org/abs/2304.02211v1)|null|
+|**2023-04-05**|**Algorithm and Hardness for Dynamic Attention Maintenance in Large Language Models**|Jan van den Brand et.al.|[2304.02207v1](http://arxiv.org/abs/2304.02207v1)|null|
+|**2023-04-05**|**Training Strategies for Vision Transformers for Object Detection**|Apoorv Singh et.al.|[2304.02186v1](http://arxiv.org/abs/2304.02186v1)|null|
+|**2023-04-05**|**ChartReader: A Unified Framework for Chart Derendering and Comprehension without Heuristic Rules**|Zhi-Qi Cheng et.al.|[2304.02173v1](http://arxiv.org/abs/2304.02173v1)|null|
+|**2023-04-04**|**Cat-qubit-inspired gate on cos( $2θ$ ) qubits**|Catherine Leroux et.al.|[2304.02155v1](http://arxiv.org/abs/2304.02155v1)|null|
+|**2023-04-04**|**ConvFormer: Parameter Reduction in Transformer Models for 3D Human Pose Estimation by Leveraging Dynamic Multi-Headed Convolutional Attention**|Alec Diaz-Arias et.al.|[2304.02147v1](http://arxiv.org/abs/2304.02147v1)|null|
+|**2023-04-04**|**Sequential Linearithmic Time Optimal Unimodal Fitting When Minimizing Univariate Linear Losses**|Kaan Gokcesu et.al.|[2304.02141v1](http://arxiv.org/abs/2304.02141v1)|null|
+|**2023-04-04**|**Multi-Class Explainable Unlearning for Image Classification via Weight Filtering**|Samuele Poppi et.al.|[2304.02049v1](http://arxiv.org/abs/2304.02049v1)|null|
+|**2023-04-04**|**Effective Theory of Transformers at Initialization**|Emily Dinan et.al.|[2304.02034v1](http://arxiv.org/abs/2304.02034v1)|null|
 |**2023-04-04**|**NPC: Neural Point Characters from Video**|Shih-Yang Su et.al.|[2304.02013v1](http://arxiv.org/abs/2304.02013v1)|null|
 |**2023-04-04**|**A Celestial Route to AdS Bulk Locality**|Faizan Bhat et.al.|[2304.02003v1](http://arxiv.org/abs/2304.02003v1)|null|
 |**2023-04-04**|**Symplectic Fourier-Deligne transforms on G/U and the algebra of braids and ties**|Calder Morton-Ferguson et.al.|[2304.01998v1](http://arxiv.org/abs/2304.01998v1)|null|
@@ -4039,6 +4068,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**HNeRV: A Hybrid Neural Representation for Videos**|Hao Chen et.al.|[2304.02633v1](http://arxiv.org/abs/2304.02633v1)|**[link](https://github.com/haochen-rye/hnerv)**|
 |**2023-03-20**|**Dynamic Object Removal for Effective Slam**|Phani Krishna Uppala et.al.|[2303.10923v1](http://arxiv.org/abs/2303.10923v1)|null|
 |**2023-02-28**|**One-Shot Video Inpainting**|Sangjin Lee et.al.|[2302.14362v1](http://arxiv.org/abs/2302.14362v1)|null|
 |**2023-01-24**|**Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting**|Kaidong Zhang et.al.|[2301.10048v1](http://arxiv.org/abs/2301.10048v1)|null|
