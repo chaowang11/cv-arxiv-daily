@@ -529,9 +529,9 @@
 |**2023-04-06**|**Continual Detection Transformer for Incremental Object Detection**|Yaoyao Liu et.al.|[2304.03110v1](http://arxiv.org/abs/2304.03110v1)|null|
 |**2023-04-06**|**Geometric-aware Pretraining for Vision-centric 3D Object Detection**|Linyan Huang et.al.|[2304.03105v1](http://arxiv.org/abs/2304.03105v1)|**[link](https://github.com/opendrivelab/bevperception-survey-recipe)**|
 |**2023-04-06**|**Gibbs Properties of the Bernoulli field on inhomogeneous trees under the removal of isolated sites**|Florian Henning et.al.|[2304.03102v1](http://arxiv.org/abs/2304.03102v1)|null|
-|**2023-04-06**|**ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**|Dong An et.al.|[2304.03047v1](http://arxiv.org/abs/2304.03047v1)|null|
+|**2023-04-06**|**ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**|Dong An et.al.|[2304.03047v1](http://arxiv.org/abs/2304.03047v1)|**[link](https://github.com/marsaki/etpnav)**|
 |**2023-04-06**|**Laplace transform of the  $x-y$  symplectic transformation formula in Topological Recursion**|Alexander Hock et.al.|[2304.03032v1](http://arxiv.org/abs/2304.03032v1)|null|
-|**2023-04-06**|**PointCAT: Cross-Attention Transformer for point cloud**|Xincheng Yang et.al.|[2304.03012v1](http://arxiv.org/abs/2304.03012v1)|null|
+|**2023-04-06**|**PointCAT: Cross-Attention Transformer for point cloud**|Xincheng Yang et.al.|[2304.03012v1](http://arxiv.org/abs/2304.03012v1)|**[link](https://github.com/xincheng-yang/pointcat)**|
 |**2023-04-06**|**A Closer Look at Audio-Visual Semantic Segmentation**|Chen Yuanhong et.al.|[2304.02970v1](http://arxiv.org/abs/2304.02970v1)|null|
 |**2023-04-06**|**Benchmarking Robustness to Text-Guided Corruptions**|Mohammadreza Mofayezi et.al.|[2304.02963v1](http://arxiv.org/abs/2304.02963v1)|null|
 |**2023-04-06**|**FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead**|Kang Chen et.al.|[2304.02948v1](http://arxiv.org/abs/2304.02948v1)|null|
@@ -555,7 +555,7 @@
 |**2023-04-05**|**Context-Aware Classification of Legal Document Pages**|Pavlos Fragkogiannis et.al.|[2304.02787v1](http://arxiv.org/abs/2304.02787v1)|null|
 |**2023-04-05**|**A Transformer-Based Deep Learning Approach for Fairly Predicting Post-Liver Transplant Risk Factors**|Can Li et.al.|[2304.02780v1](http://arxiv.org/abs/2304.02780v1)|null|
 |**2023-04-05**|**Application of Transformers based methods in Electronic Medical Records: A Systematic Literature Review**|Vitor Alcantara Batista et.al.|[2304.02768v1](http://arxiv.org/abs/2304.02768v1)|**[link](https://github.com/vabatista/slr_transformers_ehr)**|
-|**2023-04-05**|**MethaneMapper: Spectral Absorption aware Hyperspectral Transformer for Methane Detection**|Satish Kumar et.al.|[2304.02767v1](http://arxiv.org/abs/2304.02767v1)|null|
+|**2023-04-05**|**MethaneMapper: Spectral Absorption aware Hyperspectral Transformer for Methane Detection**|Satish Kumar et.al.|[2304.02767v1](http://arxiv.org/abs/2304.02767v1)|**[link](https://github.com/UCSB-VRL/MethaneMapper-Spectral-Absorption-aware-Hyperspectral-Transformer-for-Methane-Detection)**|
 |**2023-04-05**|**StyleGAN Salon: Multi-View Latent Optimization for Pose-Invariant Hairstyle Transfer**|Sasikarn Khwanmuang et.al.|[2304.02744v1](http://arxiv.org/abs/2304.02744v1)|null|
 |**2023-04-05**|**Full Resolution Deconvolution of Complex Faraday Spectra**|Lawrence Rudnick et.al.|[2304.02728v1](http://arxiv.org/abs/2304.02728v1)|null|
 |**2023-04-05**|**Learning Knowledge-Rich Sequential Model for Planar Homography Estimation in Aerial Video**|Pu Li et.al.|[2304.02715v1](http://arxiv.org/abs/2304.02715v1)|**[link](https://github.com/paul-lipu/deepvideohomography)**|
