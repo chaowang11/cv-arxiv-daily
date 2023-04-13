@@ -529,6 +529,52 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**Fluctuation based interpretable analysis scheme for quantum many-body snapshots**|Henning Schlömer et.al.|[2304.06029v1](http://arxiv.org/abs/2304.06029v1)|null|
+|**2023-04-12**|**RECLIP: Resource-efficient CLIP by Training with Small Images**|Runze Li et.al.|[2304.06028v1](http://arxiv.org/abs/2304.06028v1)|null|
+|**2023-04-12**|**DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion**|Johanna Karras et.al.|[2304.06025v1](http://arxiv.org/abs/2304.06025v1)|null|
+|**2023-04-12**|**Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera**|Ruicheng Feng et.al.|[2304.06019v1](http://arxiv.org/abs/2304.06019v1)|**[link](https://github.com/jnjaby/alignformer)**|
+|**2023-04-12**|**Adaptive Human Matting for Dynamic Videos**|Chung-Ching Lin et.al.|[2304.06018v1](http://arxiv.org/abs/2304.06018v1)|null|
+|**2023-04-12**|**Neural Attention Forests: Transformer-Based Forest Improvement**|Andrei V. Konstantinov et.al.|[2304.05980v1](http://arxiv.org/abs/2304.05980v1)|null|
+|**2023-04-12**|**NaviSTAR: Socially Aware Robot Navigation with Hybrid Spatio-Temporal Graph Transformer and Preference Learning**|Weizheng Wang et.al.|[2304.05979v1](http://arxiv.org/abs/2304.05979v1)|null|
+|**2023-04-12**|**Modular flavour symmetry and orbifolds**|Francisco J. de Anda et.al.|[2304.05958v1](http://arxiv.org/abs/2304.05958v1)|null|
+|**2023-04-12**|**Generalized Wigner operators and relativistic gauge fields**|I. L. Buchbinder et.al.|[2304.05945v1](http://arxiv.org/abs/2304.05945v1)|null|
+|**2023-04-12**|**Spacetime codes of Clifford circuits**|Nicolas Delfosse et.al.|[2304.05943v1](http://arxiv.org/abs/2304.05943v1)|null|
+|**2023-04-12**|**MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation**|Rezaul Karim et.al.|[2304.05930v1](http://arxiv.org/abs/2304.05930v1)|null|
+|**2023-04-12**|**ReDWINE: A Clinical Datamart with Text Analytical Capabilities to Facilitate Rehabilitation Research**|David Oniani et.al.|[2304.05929v1](http://arxiv.org/abs/2304.05929v1)|null|
+|**2023-04-12**|**Explicit transformations for generalized Lambert series associated with the divisor function  $σ_{a}^{(N)}(n)$  and their applications**|Soumyarup Banerjee et.al.|[2304.05923v1](http://arxiv.org/abs/2304.05923v1)|null|
+|**2023-04-12**|**Scale-Equivariant Deep Learning for 3D Data**|Thomas Wimmer et.al.|[2304.05864v1](http://arxiv.org/abs/2304.05864v1)|**[link](https://github.com/wimmerth/scale-equivariant-3d-convnet)**|
+|**2023-04-12**|**Learning Homographic Disambiguation Representation for Neural Machine Translation**|Weixuan Wang et.al.|[2304.05860v1](http://arxiv.org/abs/2304.05860v1)|null|
+|**2023-04-12**|**DUFormer: A Novel Architecture for Power Line Segmentation of Aerial Images**|Deyu An et.al.|[2304.05821v1](http://arxiv.org/abs/2304.05821v1)|null|
+|**2023-04-12**|**Proximity Forest 2.0: A new effective and scalable similarity-based classifier for time series**|Matthieu Herrmann et.al.|[2304.05800v1](http://arxiv.org/abs/2304.05800v1)|**[link](https://github.com/monashts/proximityforest2.0)**|
+|**2023-04-12**|**Fundamental and second-order dark soliton solutions of 2- and 3-component Manakov equations in the defocusing regime**|Wen-Juan Che et.al.|[2304.05797v1](http://arxiv.org/abs/2304.05797v1)|null|
+|**2023-04-12**|**Liouvillian exceptional points in continuous variable system**|B. A. Tay et.al.|[2304.05792v1](http://arxiv.org/abs/2304.05792v1)|null|
+|**2023-04-12**|**Non-Speckle-based DVC for Measuring Large Deformations in Homogeneous Solids using Laboratory X-ray CT**|Zifan Wang et.al.|[2304.05785v1](http://arxiv.org/abs/2304.05785v1)|null|
+|**2023-04-12**|**A Security Evaluation Framework for Software-Defined Network Architectures in Data Center Environments**|Igor Ivkić et.al.|[2304.05776v1](http://arxiv.org/abs/2304.05776v1)|null|
+|**2023-04-12**|**Critical States Generators from Perturbed Flatbands**|Sanghoon Lee et.al.|[2304.05769v1](http://arxiv.org/abs/2304.05769v1)|null|
+|**2023-04-12**|**Optimal convergence analysis of Laguerre spectral approximations for analytic functions**|Haiyong Wang et.al.|[2304.05744v1](http://arxiv.org/abs/2304.05744v1)|null|
+|**2023-04-12**|**Universal Polarization Transformations: Spatial programming of polarization scattering matrices using a deep learning-designed diffractive polarization transformer**|Yuhang Li et.al.|[2304.05724v1](http://arxiv.org/abs/2304.05724v1)|null|
+|**2023-04-12**|**Converting the sub-Jovian desert of exoplanets to a savanna with TESS, PLATO and Ariel**|Szilárd Kálmán et.al.|[2304.05707v1](http://arxiv.org/abs/2304.05707v1)|null|
+|**2023-04-12**|**Foundations for an Abstract Proof Theory in the Context of Horn Rules**|Tim S. Lyon et.al.|[2304.05697v1](http://arxiv.org/abs/2304.05697v1)|null|
+|**2023-04-12**|**Multi-scale Geometry-aware Transformer for 3D Point Cloud Classification**|Xian Wei et.al.|[2304.05694v1](http://arxiv.org/abs/2304.05694v1)|null|
+|**2023-04-12**|**HybrIK-X: Hybrid Analytical-Neural Inverse Kinematics for Whole-body Mesh Recovery**|Jiefeng Li et.al.|[2304.05690v1](http://arxiv.org/abs/2304.05690v1)|null|
+|**2023-04-12**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684v1](http://arxiv.org/abs/2304.05684v1)|**[link](https://github.com/tr3e/intergen)**|
+|**2023-04-12**|**Real-time Trajectory-based Social Group Detection**|Simindokht Jahangard et.al.|[2304.05678v1](http://arxiv.org/abs/2304.05678v1)|null|
+|**2023-04-12**|**Janus monolayer TaNF: a new ferrovalley material with large valley splitting and tunable magnetic properties**|Guibo Zheng et.al.|[2304.05670v1](http://arxiv.org/abs/2304.05670v1)|null|
+|**2023-04-12**|**Rail Detection: An Efficient Row-based Network and A New Benchmark**|Xinpeng Li et.al.|[2304.05667v1](http://arxiv.org/abs/2304.05667v1)|**[link](https://github.com/sampson-lee/rail-detection)**|
+|**2023-04-12**|**RIFormer: Keep Your Vision Backbone Effective While Removing Token Mixer**|Jiahao Wang et.al.|[2304.05659v1](http://arxiv.org/abs/2304.05659v1)|null|
+|**2023-04-12**|**CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks**|Yi Li et.al.|[2304.05653v1](http://arxiv.org/abs/2304.05653v1)|**[link](https://github.com/xmed-lab/clip_surgery)**|
+|**2023-04-12**|**Self Optimisation and Automatic Code Generation by Evolutionary Algorithms in PLC based Controlling Processes**|Marlon Löppenberg et.al.|[2304.05638v1](http://arxiv.org/abs/2304.05638v1)|null|
+|**2023-04-12**|**How you feelin'? Learning Emotions and Mental States in Movie Scenes**|Dhruv Srivastava et.al.|[2304.05634v1](http://arxiv.org/abs/2304.05634v1)|null|
+|**2023-04-12**|**ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning**|Viet Dac Lai et.al.|[2304.05613v1](http://arxiv.org/abs/2304.05613v1)|null|
+|**2023-04-12**|**Gauge and time-reparametrization invariant description of spin-half fields**|Mauricio Valenzuela et.al.|[2304.05596v1](http://arxiv.org/abs/2304.05596v1)|null|
+|**2023-04-12**|**Detection of Pseudo Crucial Events**|Jacob D. Baxley et.al.|[2304.05581v1](http://arxiv.org/abs/2304.05581v1)|null|
+|**2023-04-12**|**Exact solution for the interaction of two decaying quantized fields**|L. Hernández-Sánchez et.al.|[2304.05566v1](http://arxiv.org/abs/2304.05566v1)|null|
+|**2023-04-12**|**Distilling Token-Pruned Pose Transformer for 2D Human Pose Estimation**|Feixiang Ren et.al.|[2304.05548v1](http://arxiv.org/abs/2304.05548v1)|null|
+|**2023-04-11**|**Zoom is what you need: An empirical study of the power of zoom and spatial biases in image classification**|Mohammad Reza Taesiri et.al.|[2304.05538v1](http://arxiv.org/abs/2304.05538v1)|**[link](https://github.com/taesiri/ZoomIsAllYouNeed)**|
+|**2023-04-11**|**MoMo: A shared encoder Model for text, image and multi-Modal representations**|Rakesh Chada et.al.|[2304.05523v1](http://arxiv.org/abs/2304.05523v1)|null|
+|**2023-04-11**|**Computational Pathology: A Survey Review and The Way Forward**|Mahdi S. Hosseini et.al.|[2304.05482v1](http://arxiv.org/abs/2304.05482v1)|null|
+|**2023-04-11**|**Cubes of symmetric designs**|Vedran Krčadinac et.al.|[2304.05446v1](http://arxiv.org/abs/2304.05446v1)|null|
+|**2023-04-11**|**Transfer Learning Across Heterogeneous Features For Efficient Tensor Program Generation**|Gaurav Verma et.al.|[2304.05430v1](http://arxiv.org/abs/2304.05430v1)|**[link](https://github.com/xintin/transferlearn_hetfeat_tenproggen)**|
 |**2023-04-11**|**MOST: Multiple Object localization with Self-supervised Transformers for object discovery**|Sai Saketh Rambhatla et.al.|[2304.05387v1](http://arxiv.org/abs/2304.05387v1)|null|
 |**2023-04-11**|**Additive manufacturing of Ni-Mn-Sn shape memory Heusler alloy -- Microstructure and magnetic properties from powder to printed parts**|Franziska Scheibel et.al.|[2304.05383v1](http://arxiv.org/abs/2304.05383v1)|null|
 |**2023-04-11**|**A Framework for Successful Corporate Cloud Transformation**|Naga Mallika Gunturu et.al.|[2304.05333v1](http://arxiv.org/abs/2304.05333v1)|null|
@@ -4170,7 +4216,7 @@
 |**2023-03-17**|**Non-convex approaches for low-rank tensor completion under tubal sampling**|Zheng Tan et.al.|[2303.12721v1](http://arxiv.org/abs/2303.12721v1)|null|
 |**2023-03-22**|**Region-wise matching for image inpainting based on adaptive weighted low-rank decomposition**|Shenghai Liao et.al.|[2303.12421v1](http://arxiv.org/abs/2303.12421v1)|null|
 |**2023-03-15**|**CoordFill: Efficient High-Resolution Image Inpainting via Parameterized Coordinate Querying**|Weihuang Liu et.al.|[2303.08524v1](http://arxiv.org/abs/2303.08524v1)|**[link](https://github.com/nifangbaage/coordfill)**|
-|**2023-03-02**|**Consistency Models**|Yang Song et.al.|[2303.01469v1](http://arxiv.org/abs/2303.01469v1)|null|
+|**2023-03-02**|**Consistency Models**|Yang Song et.al.|[2303.01469v1](http://arxiv.org/abs/2303.01469v1)|**[link](https://github.com/openai/consistency_models)**|
 |**2023-02-28**|**TextIR: A Simple Framework for Text-based Editable Image Restoration**|Yunpeng Bai et.al.|[2302.14736v1](http://arxiv.org/abs/2302.14736v1)|null|
 |**2023-02-24**|**RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection**|Shancong Mou et.al.|[2302.12464v1](http://arxiv.org/abs/2302.12464v1)|null|
 |**2023-02-20**|**Simulating analogue film damage to analyse and improve artefact restoration on high-resolution scans**|Daniela Ivanova et.al.|[2302.10004v1](http://arxiv.org/abs/2302.10004v1)|**[link](https://github.com/daniela997/filmdamagesimulator)**|
