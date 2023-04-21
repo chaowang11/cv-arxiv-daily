@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-20**|**Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization**|Stamatios Lefkimmiatis et.al.|[2304.10536v1](http://arxiv.org/abs/2304.10536v1)|null|
+|**2023-04-20**|**NTIRE 2023 Challenge on Light Field Image Super-Resolution: Dataset, Methods and Results**|Yingqian Wang et.al.|[2304.10415v1](http://arxiv.org/abs/2304.10415v1)|**[link](https://github.com/zhengyuliang24/basiclfsr)**|
+|**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250v1](http://arxiv.org/abs/2304.10250v1)|**[link](https://github.com/wentxul/linr)**|
+|**2023-04-20**|**Omni Aggregation Networks for Lightweight Image Super-Resolution**|Hang Wang et.al.|[2304.10244v1](http://arxiv.org/abs/2304.10244v1)|**[link](https://github.com/francis0625/omni-sr)**|
 |**2023-04-19**|**Passive superresolution imaging of incoherent objects**|Jernej Frank et.al.|[2304.09773v1](http://arxiv.org/abs/2304.09773v1)|null|
 |**2023-04-19**|**StyleDEM: a Versatile Model for Authoring Terrains**|Simon Perche et.al.|[2304.09626v1](http://arxiv.org/abs/2304.09626v1)|null|
 |**2023-04-18**|**Quantum Annealing for Single Image Super-Resolution**|Han Yao Choong et.al.|[2304.08924v1](http://arxiv.org/abs/2304.08924v1)|null|
@@ -296,6 +300,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-20**|**NTIRE 2023 Challenge on Light Field Image Super-Resolution: Dataset, Methods and Results**|Yingqian Wang et.al.|[2304.10415v1](http://arxiv.org/abs/2304.10415v1)|**[link](https://github.com/zhengyuliang24/basiclfsr)**|
+|**2023-04-20**|**Omni Aggregation Networks for Lightweight Image Super-Resolution**|Hang Wang et.al.|[2304.10244v1](http://arxiv.org/abs/2304.10244v1)|**[link](https://github.com/francis0625/omni-sr)**|
 |**2023-04-18**|**Quantum Annealing for Single Image Super-Resolution**|Han Yao Choong et.al.|[2304.08924v1](http://arxiv.org/abs/2304.08924v1)|null|
 |**2023-04-14**|**DIPNet: Efficiency Distillation and Iterative Pruning for Image Super-Resolution**|Lei Yu et.al.|[2304.07018v1](http://arxiv.org/abs/2304.07018v1)|null|
 |**2023-04-17**|**L1BSR: Exploiting Detector Overlap for Self-Supervised Single-Image Super-Resolution of Sentinel-2 L1B Imagery**|Ngoc Long Nguyen et.al.|[2304.06871v2](http://arxiv.org/abs/2304.06871v2)|null|
@@ -550,6 +556,41 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-20**|**Contrastive Tuning: A Little Help to Make Masked Autoencoders Forget**|Johannes Lehner et.al.|[2304.10520v1](http://arxiv.org/abs/2304.10520v1)|**[link](https://github.com/ml-jku/mae-ct)**|
+|**2023-04-20**|**Improved CMB (de-)lensing using general spherical harmonic transforms**|Martin Reinecke et.al.|[2304.10431v1](http://arxiv.org/abs/2304.10431v1)|null|
+|**2023-04-20**|**GPT-NER: Named Entity Recognition via Large Language Models**|Shuhe Wang et.al.|[2304.10428v1](http://arxiv.org/abs/2304.10428v1)|null|
+|**2023-04-20**|**Attention Scheme Inspired Softmax Regression**|Yichuan Deng et.al.|[2304.10411v1](http://arxiv.org/abs/2304.10411v1)|null|
+|**2023-04-20**|**Study of S, Cl and Ar isotopes with  $N \geq Z$  using microscopic effective  $sd$ -shell interactions**|Priyanka Choudhary et.al.|[2304.10361v1](http://arxiv.org/abs/2304.10361v1)|null|
+|**2023-04-20**|**Uncertainty over Uncertainty in Environmental Policy Adoption: Bayesian Learning of Unpredictable Socioeconomic Costs**|Matteo Basei et.al.|[2304.10344v1](http://arxiv.org/abs/2304.10344v1)|null|
+|**2023-04-20**|**Prediction of the evolution of the nuclear reactor core parameters using artificial neural network**|Krzysztof Palmi et.al.|[2304.10337v1](http://arxiv.org/abs/2304.10337v1)|null|
+|**2023-04-20**|**Massless and Modified Massive Abelian 3-Form Theories: First-Class Constraints and Gauge Transformations**|B. Chauhan et.al.|[2304.10325v1](http://arxiv.org/abs/2304.10325v1)|null|
+|**2023-04-20**|**DropDim: A Regularization Method for Transformer Networks**|Hao Zhang et.al.|[2304.10321v1](http://arxiv.org/abs/2304.10321v1)|null|
+|**2023-04-20**|**OptoGPT: A Foundation Model for Inverse Design in Optical Multilayer Thin Film Structures**|Taigao Ma et.al.|[2304.10294v1](http://arxiv.org/abs/2304.10294v1)|null|
+|**2023-04-20**|**Transcoding Quality Prediction for Adaptive Video Streaming**|Vignesh V Menon et.al.|[2304.10234v1](http://arxiv.org/abs/2304.10234v1)|null|
+|**2023-04-20**|**Covariant Canonical Gauge Theory of Classical Gravitation for Scalar, Vector, and Spin-1/2 Particle Fields**|David Vasak et.al.|[2304.10228v1](http://arxiv.org/abs/2304.10228v1)|null|
+|**2023-04-20**|**Spiking-Fer: Spiking Neural Network for Facial Expression Recognition With Event Cameras**|Sami Barchid et.al.|[2304.10211v1](http://arxiv.org/abs/2304.10211v1)|null|
+|**2023-04-20**|**A categorical account of composition methods in logic**|Tomáš Jakl et.al.|[2304.10196v1](http://arxiv.org/abs/2304.10196v1)|null|
+|**2023-04-20**|**Algebraic Characterization of the Voronoi Cell Structure of the  $A_n$  Lattice**|Minho Kim et.al.|[2304.10186v1](http://arxiv.org/abs/2304.10186v1)|null|
+|**2023-04-20**|**Kernel Learning by quantum annealer**|Yasushi Hasegawa et.al.|[2304.10144v1](http://arxiv.org/abs/2304.10144v1)|null|
+|**2023-04-20**|**Diversifying the High-level Features for better Adversarial Transferability**|Zhiyuan Wang et.al.|[2304.10136v1](http://arxiv.org/abs/2304.10136v1)|null|
+|**2023-04-20**|**Spectroscopic studies on phosphate-modified silicon oxycarbide-based amorphous materials**|Magdalena Gawęda et.al.|[2304.10115v1](http://arxiv.org/abs/2304.10115v1)|null|
+|**2023-04-20**|**Learning CLIP Guided Visual-Text Fusion Transformer for Video-based Pedestrian Attribute Recognition**|Jun Zhu et.al.|[2304.10091v1](http://arxiv.org/abs/2304.10091v1)|null|
+|**2023-04-20**|**Conditions of structural transition for collisionless electrostatic shock**|Minh Nhat Ly et.al.|[2304.10086v1](http://arxiv.org/abs/2304.10086v1)|null|
+|**2023-04-20**|**Recurrent Transformer for Dynamic Graph Representation Learning with Edge Temporal States**|Shengxiang Hu et.al.|[2304.10079v1](http://arxiv.org/abs/2304.10079v1)|null|
+|**2023-04-20**|**Unfree gauge symmetry**|V. A. Abakumova et.al.|[2304.10042v1](http://arxiv.org/abs/2304.10042v1)|null|
+|**2023-04-20**|**Kernels of certain kinds of linear transformations via Weyr canonical form**|Jie Jian et.al.|[2304.10040v1](http://arxiv.org/abs/2304.10040v1)|null|
+|**2023-04-20**|**Learning Channel Codes from Data: Performance Guarantees in the Finite Blocklength Regime**|Neil Irwin Bernardo et.al.|[2304.10033v1](http://arxiv.org/abs/2304.10033v1)|null|
+|**2023-04-19**|**AI-coherent data-driven forecasting model for a combined cycle power plant**|Mir Sayed Shah Danish et.al.|[2304.10009v1](http://arxiv.org/abs/2304.10009v1)|**[link](https://github.com/mirsayedshah/AI-coherent-data-driven-forecasting-model-for-a-combined-cycle-power-plant)**|
+|**2023-04-19**|**Reconfiguration of 3D Pivoting Modular Robots**|Hugo A. Akitaya et.al.|[2304.09990v1](http://arxiv.org/abs/2304.09990v1)|null|
+|**2023-04-19**|**Beyond Transformers for Function Learning**|Simon Segert et.al.|[2304.09979v1](http://arxiv.org/abs/2304.09979v1)|null|
+|**2023-04-19**|**Equilibrium-Invariant Embedding, Metric Space, and Fundamental Set of  $2\times2$  Normal-Form Games**|Luke Marris et.al.|[2304.09978v1](http://arxiv.org/abs/2304.09978v1)|null|
+|**2023-04-19**|**MasakhaNEWS: News Topic Classification for African languages**|David Ifeoluwa Adelani et.al.|[2304.09972v1](http://arxiv.org/abs/2304.09972v1)|**[link](https://github.com/masakhane-io/masakhane-news)**|
+|**2023-04-19**|**Catch Me If You Can: Identifying Fraudulent Physician Reviews with Large Language Models Using Generative Pre-Trained Transformers**|Aishwarya Deep Shukla et.al.|[2304.09948v1](http://arxiv.org/abs/2304.09948v1)|null|
+|**2023-04-19**|**A robust and interpretable deep learning framework for multi-modal registration via keypoints**|Alan Q. Wang et.al.|[2304.09941v1](http://arxiv.org/abs/2304.09941v1)|**[link](https://github.com/evanmy/keymorph)**|
+|**2023-04-19**|**Why POCS works, and how to make it better**|Matteo Ravasi et.al.|[2304.09926v1](http://arxiv.org/abs/2304.09926v1)|null|
+|**2023-04-19**|**Regularization for distributionally robust state estimation and prediction**|Jean-Sébastien Brouillon et.al.|[2304.09921v1](http://arxiv.org/abs/2304.09921v1)|null|
+|**2023-04-19**|**DCN-T: Dual Context Network with Transformer for Hyperspectral Image Classification**|Di Wang et.al.|[2304.09915v1](http://arxiv.org/abs/2304.09915v1)|null|
+|**2023-04-19**|**Subsystem Non-Invertible Symmetry Operators and Defects**|Weiguang Cao et.al.|[2304.09886v1](http://arxiv.org/abs/2304.09886v1)|null|
 |**2023-04-19**|**LipsFormer: Introducing Lipschitz Continuity to Vision Transformers**|Xianbiao Qi et.al.|[2304.09856v1](http://arxiv.org/abs/2304.09856v1)|**[link](https://github.com/idea-research/lipsformer)**|
 |**2023-04-19**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v1](http://arxiv.org/abs/2304.09854v1)|**[link](https://github.com/lxtgh/awesome-segmenation-with-transformer)**|
 |**2023-04-19**|**Banach  $L^p$  lattices with an automorphism**|Antonio M. Scielzo et.al.|[2304.09798v1](http://arxiv.org/abs/2304.09798v1)|null|
