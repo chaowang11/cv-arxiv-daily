@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-21**|**Ultra Sharp : Single Image Super Resolution using Residual Dense Network**|Karthick Prasad Gunasekaran et.al.|[2304.10870v1](http://arxiv.org/abs/2304.10870v1)|null|
 |**2023-04-20**|**Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization**|Stamatios Lefkimmiatis et.al.|[2304.10536v1](http://arxiv.org/abs/2304.10536v1)|null|
 |**2023-04-20**|**NTIRE 2023 Challenge on Light Field Image Super-Resolution: Dataset, Methods and Results**|Yingqian Wang et.al.|[2304.10415v1](http://arxiv.org/abs/2304.10415v1)|**[link](https://github.com/zhengyuliang24/basiclfsr)**|
 |**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250v1](http://arxiv.org/abs/2304.10250v1)|**[link](https://github.com/wentxul/linr)**|
@@ -300,6 +301,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-21**|**Ultra Sharp : Single Image Super Resolution using Residual Dense Network**|Karthick Prasad Gunasekaran et.al.|[2304.10870v1](http://arxiv.org/abs/2304.10870v1)|null|
 |**2023-04-20**|**NTIRE 2023 Challenge on Light Field Image Super-Resolution: Dataset, Methods and Results**|Yingqian Wang et.al.|[2304.10415v1](http://arxiv.org/abs/2304.10415v1)|**[link](https://github.com/zhengyuliang24/basiclfsr)**|
 |**2023-04-20**|**Omni Aggregation Networks for Lightweight Image Super-Resolution**|Hang Wang et.al.|[2304.10244v1](http://arxiv.org/abs/2304.10244v1)|**[link](https://github.com/francis0625/omni-sr)**|
 |**2023-04-18**|**Quantum Annealing for Single Image Super-Resolution**|Han Yao Choong et.al.|[2304.08924v1](http://arxiv.org/abs/2304.08924v1)|null|
@@ -556,6 +558,46 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-21**|**H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization**|Jiayi Li et.al.|[2304.11141v1](http://arxiv.org/abs/2304.11141v1)|null|
+|**2023-04-21**|**Deep-Learning-based Fast and Accurate 3D CT Deformable Image Registration in Lung Cancer**|Yuzhen Ding et.al.|[2304.11135v1](http://arxiv.org/abs/2304.11135v1)|null|
+|**2023-04-21**|**Inducing anxiety in large language models increases exploration and bias**|Julian Coda-Forno et.al.|[2304.11111v1](http://arxiv.org/abs/2304.11111v1)|null|
+|**2023-04-21**|**Conjugate variables approach to mixed  $q$ -Araki Woods Algebras: Factoriality and Non-injectivity**|Manish Kumar et.al.|[2304.11108v1](http://arxiv.org/abs/2304.11108v1)|null|
+|**2023-04-21**|**Distance-dependent emission spectrum from two qubits in a strong-coupling regime**|Rongzhen Hu et.al.|[2304.11103v1](http://arxiv.org/abs/2304.11103v1)|null|
+|**2023-04-21**|**Attractor Solutions in Interacting Dark Energy Models**|Yousef Bisabr et.al.|[2304.11092v1](http://arxiv.org/abs/2304.11092v1)|null|
+|**2023-04-21**|**Blow-up for the 1D cubic NLS**|Valeria Banica et.al.|[2304.11050v1](http://arxiv.org/abs/2304.11050v1)|null|
+|**2023-04-21**|**Uniform temperedness of Whittaker integrals for a real reductive group**|E. P. van den Ban et.al.|[2304.11044v1](http://arxiv.org/abs/2304.11044v1)|null|
+|**2023-04-21**|**Disformal symmetry in the Universe: mimetic gravity and beyond**|Guillem Domènech et.al.|[2304.11035v1](http://arxiv.org/abs/2304.11035v1)|null|
+|**2023-04-21**|**Topological magnetoelectric response in passive magnetic devices**|Antonio A. Valido et.al.|[2304.11032v1](http://arxiv.org/abs/2304.11032v1)|null|
+|**2023-04-21**|**A time multiscale decomposition in cyclic elasto-plasticity**|Angelo Pasquale et.al.|[2304.11026v1](http://arxiv.org/abs/2304.11026v1)|null|
+|**2023-04-21**|**Conversion of La $_2$ Ti $_2$ O $_7$  to LaTiO $_2$ N via Ammonolysis: An ab-initio Investigation**|Chiara Ricca et.al.|[2304.10999v1](http://arxiv.org/abs/2304.10999v1)|null|
+|**2023-04-21**|**BERT Based Clinical Knowledge Extraction for Biomedical Knowledge Graph Construction and Analysis**|Ayoub Harnoune et.al.|[2304.10996v1](http://arxiv.org/abs/2304.10996v1)|null|
+|**2023-04-21**|**Bilinear Strichartz estimates and almost sure global solutions for the nonlinear Schr{ö}dinger equation**|Nicolas Burq et.al.|[2304.10979v1](http://arxiv.org/abs/2304.10979v1)|null|
+|**2023-04-21**|**Evaluating Transformer Language Models on Arithmetic Operations Using Number Decomposition**|Matteo Muffo et.al.|[2304.10977v1](http://arxiv.org/abs/2304.10977v1)|null|
+|**2023-04-21**|**Deep Metric Learning Assisted by Intra-variance in A Semi-supervised View of Learning**|Liu Pingping et.al.|[2304.10941v1](http://arxiv.org/abs/2304.10941v1)|null|
+|**2023-04-21**|**Self-Attention in Colors: Another Take on Encoding Graph Structure in Transformers**|Romain Menegaux et.al.|[2304.10933v1](http://arxiv.org/abs/2304.10933v1)|**[link](https://github.com/inria-thoth/csa)**|
+|**2023-04-21**|**FindVehicle and VehicleFinder: A NER dataset for natural language-based vehicle retrieval and a keyword-based cross-modal vehicle retrieval system**|Runwei Guan et.al.|[2304.10893v1](http://arxiv.org/abs/2304.10893v1)|**[link](https://github.com/guanrunwei/vehiclefinder-ctim)**|
+|**2023-04-21**|**Transformer-based models and hardware acceleration analysis in autonomous driving: A survey**|Juan Zhong et.al.|[2304.10891v1](http://arxiv.org/abs/2304.10891v1)|null|
+|**2023-04-21**|**Non-autoregressive End-to-end Approaches for Joint Automatic Speech Recognition and Spoken Language Understanding**|Mohan Li et.al.|[2304.10869v1](http://arxiv.org/abs/2304.10869v1)|null|
+|**2023-04-21**|**FreMAE: Fourier Transform Meets Masked Autoencoders for Medical Image Segmentation**|Wenxuan Wang et.al.|[2304.10864v1](http://arxiv.org/abs/2304.10864v1)|null|
+|**2023-04-21**|**Text2Time: Transformer-based article time period predictor**|Karthick Prasad Gunasekaran et.al.|[2304.10859v1](http://arxiv.org/abs/2304.10859v1)|null|
+|**2023-04-21**|**Better Sign Language Translation with Monolingual Data**|Ru Peng et.al.|[2304.10844v1](http://arxiv.org/abs/2304.10844v1)|**[link](https://github.com/pengr/mono_slt)**|
+|**2023-04-21**|**Multi-frame-based Cross-domain Image Denoising for Low-dose Computed Tomography**|Yucheng Lu et.al.|[2304.10839v1](http://arxiv.org/abs/2304.10839v1)|null|
+|**2023-04-21**|**A Deep Learning algorithm to accelerate Algebraic Multigrid methods in Finite Element solvers of 3D elliptic PDEs**|Matteo Caldana et.al.|[2304.10832v1](http://arxiv.org/abs/2304.10832v1)|null|
+|**2023-04-21**|**Auditing and Generating Synthetic Data with Controllable Trust Trade-offs**|Brian Belgodere et.al.|[2304.10819v1](http://arxiv.org/abs/2304.10819v1)|null|
+|**2023-04-21**|**Calculation of Carrier Doping-Induced Half-Metallicity, and Transformation of Easy Axis in Two-Dimensional MSi2N4 (M = Cr, Mn, Fe, and Co) Monolayers**|Ziyuan An et.al.|[2304.10809v1](http://arxiv.org/abs/2304.10809v1)|null|
+|**2023-04-21**|**An extended Merton problem with relaxed benchmark tracking**|Lijun Bo et.al.|[2304.10802v1](http://arxiv.org/abs/2304.10802v1)|null|
+|**2023-04-21**|**DeformableFormer: Classification of Endoscopic Ultrasound Guided Fine Needle Biopsy in Pancreatic Diseases**|Taiji Kurami et.al.|[2304.10791v1](http://arxiv.org/abs/2304.10791v1)|null|
+|**2023-04-21**|**A Revisit to the Normalized Eight-Point Algorithm and A Self-Supervised Deep Solution**|Bin Fan et.al.|[2304.10771v1](http://arxiv.org/abs/2304.10771v1)|null|
+|**2023-04-21**|**Exact Method of Moments for multi-dimensional population balance equations**|Adeel Muneer et.al.|[2304.10761v1](http://arxiv.org/abs/2304.10761v1)|null|
+|**2023-04-21**|**Enhancing Wind Power Forecast Precision via Multi-head Attention Transformer: An Investigation on Single-step and Multi-step Forecasting**|Md Rasel Sarkar et.al.|[2304.10758v1](http://arxiv.org/abs/2304.10758v1)|null|
+|**2023-04-21**|**Conservative Sparse Neural Network Embedded Frequency-Constrained Unit Commitment With Distributed Energy Resources**|Linwei Sang et.al.|[2304.10720v1](http://arxiv.org/abs/2304.10720v1)|null|
+|**2023-04-21**|**Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers**|Siyuan Wei et.al.|[2304.10716v1](http://arxiv.org/abs/2304.10716v1)|**[link](https://github.com/megvii-research/tps-cvpr2023)**|
+|**2023-04-20**|**NFT Marketplace**|Piyush Batra et.al.|[2304.10632v1](http://arxiv.org/abs/2304.10632v1)|null|
+|**2023-04-20**|**Ellipsoid fitting with the Cayley transform**|Omar Melikechi et.al.|[2304.10630v1](http://arxiv.org/abs/2304.10630v1)|**[link](https://github.com/omelikechi/ctef)**|
+|**2023-04-20**|**HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer**|Hao Xiang et.al.|[2304.10628v1](http://arxiv.org/abs/2304.10628v1)|null|
+|**2023-04-20**|**Hybrid Feedback for Autonomous Navigation in Environments with Arbitrary Non-Convex Obstacles**|Mayur Sawant et.al.|[2304.10598v1](http://arxiv.org/abs/2304.10598v1)|null|
+|**2023-04-20**|**Invariant Scattering Transform for Medical Imaging**|Md Manjurul Ahsan et.al.|[2304.10582v1](http://arxiv.org/abs/2304.10582v1)|null|
+|**2023-04-20**|**An Introduction to Transformers**|Richard E. Turner et.al.|[2304.10557v1](http://arxiv.org/abs/2304.10557v1)|null|
 |**2023-04-20**|**Contrastive Tuning: A Little Help to Make Masked Autoencoders Forget**|Johannes Lehner et.al.|[2304.10520v1](http://arxiv.org/abs/2304.10520v1)|**[link](https://github.com/ml-jku/mae-ct)**|
 |**2023-04-20**|**Improved CMB (de-)lensing using general spherical harmonic transforms**|Martin Reinecke et.al.|[2304.10431v1](http://arxiv.org/abs/2304.10431v1)|**[link](https://github.com/carronj/lenspyx)**|
 |**2023-04-20**|**GPT-NER: Named Entity Recognition via Large Language Models**|Shuhe Wang et.al.|[2304.10428v1](http://arxiv.org/abs/2304.10428v1)|**[link](https://github.com/shuhewang1998/gpt-ner)**|
