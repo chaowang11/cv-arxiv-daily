@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**Reconstructing Turbulent Flows Using Physics-Aware Spatio-Temporal Dynamics and Test-Time Refinement**|Shengyu Chen et.al.|[2304.12130v1](http://arxiv.org/abs/2304.12130v1)|null|
 |**2023-04-24**|**Ultra Sharp : Study of Single Image Super Resolution using Residual Dense Network**|Karthick Prasad Gunasekaran et.al.|[2304.10870v2](http://arxiv.org/abs/2304.10870v2)|**[link](https://github.com/karthickpgunasekaran/superresolutionwithrdn)**|
 |**2023-04-20**|**Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization**|Stamatios Lefkimmiatis et.al.|[2304.10536v1](http://arxiv.org/abs/2304.10536v1)|null|
 |**2023-04-20**|**NTIRE 2023 Challenge on Light Field Image Super-Resolution: Dataset, Methods and Results**|Yingqian Wang et.al.|[2304.10415v1](http://arxiv.org/abs/2304.10415v1)|**[link](https://github.com/zhengyuliang24/basiclfsr)**|
@@ -558,6 +559,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**Explicit Correspondence Matching for Generalizable Neural Radiance Fields**|Yuedong Chen et.al.|[2304.12294v1](http://arxiv.org/abs/2304.12294v1)|**[link](https://github.com/donydchen/matchnerf)**|
+|**2023-04-24**|**Moving Forward by Moving Backward: Embedding Action Impact over Action Semantics**|Kuo-Hao Zeng et.al.|[2304.12289v1](http://arxiv.org/abs/2304.12289v1)|null|
+|**2023-04-24**|**Central limit theorem for smooth statistics of one-dimensional free fermions**|Alix Deleporte et.al.|[2304.12275v1](http://arxiv.org/abs/2304.12275v1)|null|
+|**2023-04-24**|**Enriching Source Code with Contextual Data for Code Completion Models: An Empirical Study**|Tim van Dam et.al.|[2304.12269v1](http://arxiv.org/abs/2304.12269v1)|**[link](https://github.com/aise-tudelft/contextualdatacodecompletion)**|
+|**2023-04-24**|**A Transfer Principle: Universal Approximators Between Metric Spaces From Euclidean Universal Approximators**|Anastasis Kratsios et.al.|[2304.12231v1](http://arxiv.org/abs/2304.12231v1)|null|
+|**2023-04-24**|**Parameterized Learning and Distillation with Vortex-encoded Spectral Correlations**|Altai Perry et.al.|[2304.12172v1](http://arxiv.org/abs/2304.12172v1)|null|
+|**2023-04-24**|**End-to-End Spatio-Temporal Action Localisation with Video Transformers**|Alexey Gritsenko et.al.|[2304.12160v1](http://arxiv.org/abs/2304.12160v1)|null|
+|**2023-04-24**|**Augmentation-based Domain Generalization for Semantic Segmentation**|Manuel Schwonberg et.al.|[2304.12122v1](http://arxiv.org/abs/2304.12122v1)|null|
+|**2023-04-24**|**Occlusion Robust 3D Human Pose Estimation with StridedPoseGraphFormer and Data Augmentation**|Soubarna Banik et.al.|[2304.12069v1](http://arxiv.org/abs/2304.12069v1)|null|
+|**2023-04-24**|**VR Facial Animation for Immersive Telepresence Avatars**|Andre Rochow et.al.|[2304.12051v1](http://arxiv.org/abs/2304.12051v1)|null|
+|**2023-04-24**|**Diquark and chiral condensate in a self-consistent NJL-type model**|Wen-Li Yuan et.al.|[2304.12050v1](http://arxiv.org/abs/2304.12050v1)|null|
+|**2023-04-24**|**MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer**|Qihao Zhao et.al.|[2304.12043v1](http://arxiv.org/abs/2304.12043v1)|**[link](https://github.com/fistyee/mixpro)**|
+|**2023-04-24**|**Front propagation in ultrastable glasses is dynamically heterogeneous**|Cecilia Herrero et.al.|[2304.12039v1](http://arxiv.org/abs/2304.12039v1)|null|
+|**2023-04-24**|**GRIG: Few-Shot Generative Residual Image Inpainting**|Wanglong Lu et.al.|[2304.12035v1](http://arxiv.org/abs/2304.12035v1)|null|
+|**2023-04-24**|**A Spatial Calibration Method for Robust Cooperative Perception**|Zhiying Song et.al.|[2304.12033v1](http://arxiv.org/abs/2304.12033v1)|null|
+|**2023-04-24**|**Unified Quantum State Tomography and Hamiltonian Learning Using Transformer Models: A Language-Translation-Like Approach for Quantum Systems**|Zheng An et.al.|[2304.12010v1](http://arxiv.org/abs/2304.12010v1)|null|
+|**2023-04-24**|**On spatial beam self-cleaning from the perspective of optical wave thermalization in multimode graded-index fibers**|Mario Ferraro et.al.|[2304.12006v1](http://arxiv.org/abs/2304.12006v1)|null|
+|**2023-04-24**|**Self-regularised Minimum Latency Training for Streaming Transformer-based Speech Recognition**|Mohan Li et.al.|[2304.11985v1](http://arxiv.org/abs/2304.11985v1)|null|
+|**2023-04-24**|**gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction**|Zerui Chen et.al.|[2304.11970v1](http://arxiv.org/abs/2304.11970v1)|null|
+|**2023-04-24**|**ThreatCrawl: A BERT-based Focused Crawler for the Cybersecurity Domain**|Philipp Kuehn et.al.|[2304.11960v1](http://arxiv.org/abs/2304.11960v1)|null|
+|**2023-04-24**|**Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network**|Chenlin Zhou et.al.|[2304.11954v1](http://arxiv.org/abs/2304.11954v1)|null|
+|**2023-04-24**|**Tensor network approach to the fully frustrated XY kagome antiferromagnets with a fractional vortex-antivortex pairing transition**|Feng-Feng Song et.al.|[2304.11944v1](http://arxiv.org/abs/2304.11944v1)|null|
+|**2023-04-24**|**KInITVeraAI at SemEval-2023 Task 3: Simple yet Powerful Multilingual Fine-Tuning for Persuasion Techniques Detection**|Timo Hromadka et.al.|[2304.11924v1](http://arxiv.org/abs/2304.11924v1)|**[link](https://github.com/kinit-sk/semeval2023-task3-persuasion-techniques)**|
+|**2023-04-24**|**Orientation selectivity of affine Gaussian derivative based receptive fields**|Tony Lindeberg et.al.|[2304.11920v1](http://arxiv.org/abs/2304.11920v1)|null|
+|**2023-04-24**|**Transformer-based stereo-aware 3D object detection from binocular images**|Hanqing Sun et.al.|[2304.11906v1](http://arxiv.org/abs/2304.11906v1)|null|
+|**2023-04-24**|**The State of the Art in transformer fault diagnosis with artificial intelligence and Dissolved Gas Analysis: A Review of the Literature**|Yuyan Li et.al.|[2304.11880v1](http://arxiv.org/abs/2304.11880v1)|null|
+|**2023-04-24**|**Generalized co-polynomials of  $R_{II}$  type and associated quadrature rules**|Vinay Shukla et.al.|[2304.11869v1](http://arxiv.org/abs/2304.11869v1)|null|
+|**2023-04-24**|**Singularity swap quadrature for nearly singular line integrals on closed curves in two dimensions**|Ludvig af Klinteberg et.al.|[2304.11865v1](http://arxiv.org/abs/2304.11865v1)|**[link](https://github.com/ludvigak/TrapzSSQ.jl)**|
+|**2023-04-24**|**Universal Domain Adaptation via Compressive Attention Matching**|Didi Zhu et.al.|[2304.11862v1](http://arxiv.org/abs/2304.11862v1)|null|
+|**2023-04-24**|**The Hawking temperature of dynamical black holes via Rindler transformations**|Pravin Kumar Dahal et.al.|[2304.11833v1](http://arxiv.org/abs/2304.11833v1)|null|
+|**2023-04-24**|**Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer**|Hao Tang et.al.|[2304.11818v1](http://arxiv.org/abs/2304.11818v1)|null|
+|**2023-04-24**|**NoiseTrans: Point Cloud Denoising with Transformers**|Guangzhe Hou et.al.|[2304.11812v1](http://arxiv.org/abs/2304.11812v1)|null|
+|**2023-04-24**|**PARAGRAPH2GRAPH: A GNN-based framework for layout paragraph analysis**|Shu Wei et.al.|[2304.11810v1](http://arxiv.org/abs/2304.11810v1)|**[link](https://github.com/NormXU/Layout2Graph)**|
+|**2023-04-24**|**Directed Acyclic Transformer Pre-training for High-quality Non-autoregressive Text Generation**|Fei Huang et.al.|[2304.11791v1](http://arxiv.org/abs/2304.11791v1)|**[link](https://github.com/thu-coai/da-transformer)**|
+|**2023-04-23**|**GamutMLP: A Lightweight MLP for Color Loss Recovery**|Hoang M. Le et.al.|[2304.11743v1](http://arxiv.org/abs/2304.11743v1)|null|
+|**2023-04-23**|**No Free Lunch in Self Supervised Representation Learning**|Ihab Bendidi et.al.|[2304.11718v1](http://arxiv.org/abs/2304.11718v1)|null|
+|**2023-04-23**|**Automatized marine vessel monitoring from sentinel-1 data using convolution neural network**|Surya Prakash Tiwari et.al.|[2304.11717v1](http://arxiv.org/abs/2304.11717v1)|null|
+|**2023-04-23**|**Deep Convolutional Tables: Deep Learning without Convolutions**|Shay Dekel et.al.|[2304.11706v1](http://arxiv.org/abs/2304.11706v1)|null|
+|**2023-04-23**|**Toy model for the correlation of qudit bipartite states with maximally mixed marginals**|Constantino Rodriguez-Ramos et.al.|[2304.11637v1](http://arxiv.org/abs/2304.11637v1)|null|
+|**2023-04-23**|**New classes of solutions for Euclidean scalar field theories**|Carl M. Bender et.al.|[2304.11629v1](http://arxiv.org/abs/2304.11629v1)|null|
+|**2023-04-23**|**Lorenz Energy Cycle: Another Way to Understand the Atmospheric Circulation on Tidally Locked Terrestrial Planets**|Shuang Wang et.al.|[2304.11627v1](http://arxiv.org/abs/2304.11627v1)|null|
+|**2023-04-23**|**Robust Short-term Operation of AC Power Network with Injection Uncertainties**|Anamika Tiwari et.al.|[2304.11611v1](http://arxiv.org/abs/2304.11611v1)|null|
+|**2023-04-23**|**PiClick: Picking the desired mask in click-based interactive segmentation**|Cilin Yan et.al.|[2304.11609v1](http://arxiv.org/abs/2304.11609v1)|null|
+|**2023-04-23**|**A complementary  $\ell^1$ -TV reconstruction algorithm for limited data CT**|Simon Göppel et.al.|[2304.11599v1](http://arxiv.org/abs/2304.11599v1)|null|
+|**2023-04-23**|**Deriving positive steady states of chemical reaction networks for classes of non-mass action kinetics**|Bryan S. Hernandez et.al.|[2304.11594v1](http://arxiv.org/abs/2304.11594v1)|null|
+|**2023-04-23**|**Non-autonomous reductions of the KdV equation and multi-component analogs of the Painlevé equations P $_{34}$  and P $_3$ **|V. E. Adler et.al.|[2304.11590v1](http://arxiv.org/abs/2304.11590v1)|null|
+|**2023-04-23**|**FAN-Net: Fourier-Based Adaptive Normalization For Cross-Domain Stroke Lesion Segmentation**|Weiyi Yu et.al.|[2304.11557v1](http://arxiv.org/abs/2304.11557v1)|null|
+|**2023-04-23**|**Superoscillations and Fock spaces**|Daniel Alpay et.al.|[2304.11551v1](http://arxiv.org/abs/2304.11551v1)|null|
+|**2023-04-23**|**Vision Transformer for Efficient Chest X-ray and Gastrointestinal Image Classification**|Smriti Regmi et.al.|[2304.11529v1](http://arxiv.org/abs/2304.11529v1)|null|
+|**2023-04-23**|**TransFlow: Transformer as Flow Learner**|Yawen Lu et.al.|[2304.11523v1](http://arxiv.org/abs/2304.11523v1)|null|
 |**2023-04-21**|**H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization**|Jiayi Li et.al.|[2304.11141v1](http://arxiv.org/abs/2304.11141v1)|null|
 |**2023-04-21**|**Deep-Learning-based Fast and Accurate 3D CT Deformable Image Registration in Lung Cancer**|Yuzhen Ding et.al.|[2304.11135v1](http://arxiv.org/abs/2304.11135v1)|null|
 |**2023-04-21**|**Inducing anxiety in large language models increases exploration and bias**|Julian Coda-Forno et.al.|[2304.11111v1](http://arxiv.org/abs/2304.11111v1)|null|
@@ -4539,6 +4590,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**GRIG: Few-Shot Generative Residual Image Inpainting**|Wanglong Lu et.al.|[2304.12035v1](http://arxiv.org/abs/2304.12035v1)|null|
+|**2023-04-23**|**Segment Anything in Non-Euclidean Domains: Challenges and Opportunities**|Yongcheng Jing et.al.|[2304.11595v1](http://arxiv.org/abs/2304.11595v1)|null|
 |**2023-04-20**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2304.09677v2](http://arxiv.org/abs/2304.09677v2)|null|
 |**2023-04-17**|**NF-ULA: Langevin Monte Carlo with Normalizing Flow Prior for Imaging Inverse Problems**|Ziruo Cai et.al.|[2304.08342v1](http://arxiv.org/abs/2304.08342v1)|null|
 |**2023-04-13**|**Inpaint Anything: Segment Anything Meets Image Inpainting**|Tao Yu et.al.|[2304.06790v1](http://arxiv.org/abs/2304.06790v1)|**[link](https://github.com/geekyutao/inpaint-anything)**|
