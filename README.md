@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**Synthetic aperture phase imaging of second harmonic generation field with computational adaptive optics**|Jungho Moon et.al.|[2304.14018v1](http://arxiv.org/abs/2304.14018v1)|null|
 |**2023-04-26**|**Super-NeRF: View-consistent Detail Generation for NeRF super-resolution**|Yuqi Han et.al.|[2304.13518v1](http://arxiv.org/abs/2304.13518v1)|null|
 |**2023-04-26**|**OPDN: Omnidirectional Position-aware Deformable Network for Omnidirectional Image Super-Resolution**|Xiaopeng Sun et.al.|[2304.13471v1](http://arxiv.org/abs/2304.13471v1)|null|
 |**2023-04-25**|**On the Use of Singular Value Decomposition as a Clutter Filter for Ultrasound Flow Imaging**|Kai Riemer et.al.|[2304.12783v1](http://arxiv.org/abs/2304.12783v1)|null|
@@ -567,6 +568,46 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers**|Ronghuan Wu et.al.|[2304.14400v1](http://arxiv.org/abs/2304.14400v1)|null|
+|**2023-04-27**|**SeqTrack: Sequence to Sequence Learning for Visual Object Tracking**|Xin Chen et.al.|[2304.14394v1](http://arxiv.org/abs/2304.14394v1)|**[link](https://github.com/microsoft/videox)**|
+|**2023-04-27**|**Semantic embedding for quantum algorithms**|Zane M. Rossi et.al.|[2304.14392v1](http://arxiv.org/abs/2304.14392v1)|null|
+|**2023-04-27**|**Quantum signal processing with continuous variables**|Zane M. Rossi et.al.|[2304.14383v1](http://arxiv.org/abs/2304.14383v1)|null|
+|**2023-04-27**|**Analogy-Forming Transformers for Few-Shot 3D Parsing**|Nikolaos Gkanatsios et.al.|[2304.14382v1](http://arxiv.org/abs/2304.14382v1)|null|
+|**2023-04-27**|**High moments of the SHE in the clustering regimes**|Li-Cheng Tsai et.al.|[2304.14375v1](http://arxiv.org/abs/2304.14375v1)|null|
+|**2023-04-27**|**SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection**|Yichen Xie et.al.|[2304.14340v1](http://arxiv.org/abs/2304.14340v1)|**[link](https://github.com/yichen928/sparsefusion)**|
+|**2023-04-27**|**Reduction to master integrals via intersection numbers and polynomial expansions**|Gaia Fontana et.al.|[2304.14336v1](http://arxiv.org/abs/2304.14336v1)|null|
+|**2023-04-27**|**Meron configurations in easy-plane chiral magnets**|David Bachmann et.al.|[2304.14314v1](http://arxiv.org/abs/2304.14314v1)|null|
+|**2023-04-27**|**Dynamical symmetries of the anisotropic oscillator**|Akash Sinha et.al.|[2304.14306v1](http://arxiv.org/abs/2304.14306v1)|null|
+|**2023-04-27**|**EDAPS: Enhanced Domain-Adaptive Panoptic Segmentation**|Suman Saha et.al.|[2304.14291v1](http://arxiv.org/abs/2304.14291v1)|**[link](https://github.com/susaha/edaps)**|
+|**2023-04-27**|**Distinguishing a planetary transit from false positives: a Transformer-based classification for planetary transit signals**|Helem Salinas et.al.|[2304.14283v1](http://arxiv.org/abs/2304.14283v1)|null|
+|**2023-04-27**|**KPZ equation limit of sticky Brownian motion**|Sayan Das et.al.|[2304.14279v1](http://arxiv.org/abs/2304.14279v1)|null|
+|**2023-04-27**|**Stellar variability in Gaia DR3. I. Three-band photometric dispersions for 145 million sources**|J. Maíz Apellániz et.al.|[2304.14249v1](http://arxiv.org/abs/2304.14249v1)|null|
+|**2023-04-27**|**LLT: An R package for Linear Law-based Feature Space Transformation**|Marcell T. Kurbucz et.al.|[2304.14211v1](http://arxiv.org/abs/2304.14211v1)|**[link](https://github.com/mtkurbucz/llt)**|
+|**2023-04-27**|**NAP at SemEval-2023 Task 3: Is Less Really More? (Back-)Translation as Data Augmentation Strategies for Detecting Persuasion Techniques**|Neele Falk et.al.|[2304.14179v1](http://arxiv.org/abs/2304.14179v1)|null|
+|**2023-04-27**|**ChatGPT vs State-of-the-Art Models: A Benchmarking Study in Keyphrase Generation Task**|Roberto Martínez-Cruz et.al.|[2304.14177v1](http://arxiv.org/abs/2304.14177v1)|null|
+|**2023-04-27**|**Traced Types for Safe Strategic Rewriting**|Rongxiao Fu et.al.|[2304.14154v1](http://arxiv.org/abs/2304.14154v1)|null|
+|**2023-04-27**|**Figments and Misalignments: A Framework for Fine-grained Crossmodal Misinformation Detection**|Stefanos-Iordanis Papadopoulos et.al.|[2304.14133v1](http://arxiv.org/abs/2304.14133v1)|**[link](https://github.com/stevejpapad/figments-and-misalignments)**|
+|**2023-04-27**|**Human Semantic Segmentation using Millimeter-Wave Radar Sparse Point Clouds**|Pengfei Song et.al.|[2304.14132v1](http://arxiv.org/abs/2304.14132v1)|null|
+|**2023-04-27**|**TempEE: Temporal-Spatial Parallel Transformer for Radar Echo Extrapolation Beyond Auto-Regression**|Shengchao Chen et.al.|[2304.14131v1](http://arxiv.org/abs/2304.14131v1)|null|
+|**2023-04-27**|**Exploiting Inductive Bias in Transformer for Point Cloud Classification and Segmentation**|Zihao Li et.al.|[2304.14124v1](http://arxiv.org/abs/2304.14124v1)|**[link](https://github.com/jiamang/ibt)**|
+|**2023-04-27**|**Deeply-Coupled Convolution-Transformer with Spatial-temporal Complementary Learning for Video-based Person Re-identification**|Xuehu Liu et.al.|[2304.14122v1](http://arxiv.org/abs/2304.14122v1)|null|
+|**2023-04-27**|**The CRAM Cognitive Architecture for Robot Manipulation in Everyday Activities**|Michael Beetz et.al.|[2304.14119v1](http://arxiv.org/abs/2304.14119v1)|null|
+|**2023-04-27**|**Distributed Multi-Horizon Model Predictive Control for Network of Energy Hubs**|Varsha Behrunani et.al.|[2304.14089v1](http://arxiv.org/abs/2304.14089v1)|null|
+|**2023-04-27**|**Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net**|Yuchen Zhang et.al.|[2304.14071v1](http://arxiv.org/abs/2304.14071v1)|null|
+|**2023-04-27**|**Lightweight, Pre-trained Transformers for Remote Sensing Timeseries**|Gabriel Tseng et.al.|[2304.14065v1](http://arxiv.org/abs/2304.14065v1)|**[link](https://github.com/nasaharvest/presto)**|
+|**2023-04-27**|**A barrier for further approximating Sorting By Transpositions**|Luiz Augusto G. da Silva et.al.|[2304.13996v1](http://arxiv.org/abs/2304.13996v1)|null|
+|**2023-04-27**|**SweCTRL-Mini: a data-transparent Transformer-based large language model for controllable text generation in Swedish**|Dmytro Kalpakchi et.al.|[2304.13994v1](http://arxiv.org/abs/2304.13994v1)|null|
+|**2023-04-27**|**Fourier transform on a cone and the minimal representation of even orthogonal group**|Nadya Gurevich et.al.|[2304.13993v1](http://arxiv.org/abs/2304.13993v1)|null|
+|**2023-04-27**|**Vision Conformer: Incorporating Convolutions into Vision Transformer Layers**|Brian Kenji Iwana et.al.|[2304.13991v1](http://arxiv.org/abs/2304.13991v1)|**[link](https://github.com/uchidalab/vision-conformer)**|
+|**2023-04-27**|**Contour Completion by Transformers and Its Application to Vector Font Data**|Yusuke Nagata et.al.|[2304.13988v1](http://arxiv.org/abs/2304.13988v1)|null|
+|**2023-04-27**|**Optimization-Inspired Cross-Attention Transformer for Compressive Sensing**|Jiechong Song et.al.|[2304.13986v1](http://arxiv.org/abs/2304.13986v1)|**[link](https://github.com/songjiechong/octuf)**|
+|**2023-04-27**|**Spin-Peierls transition to a Haldane phase**|Hironori Yamaguchi et.al.|[2304.13970v1](http://arxiv.org/abs/2304.13970v1)|null|
+|**2023-04-27**|**Noise Is Not the Main Factor Behind the Gap Between SGD and Adam on Transformers, but Sign Descent Might Be**|Frederik Kunstner et.al.|[2304.13960v1](http://arxiv.org/abs/2304.13960v1)|**[link](https://github.com/fkunstner/noise-sgd-adam-sign)**|
+|**2023-04-27**|**Cramer-Rao Lower Bound Analysis for OTFS and OFDM Modulation Systems**|Bowen Wang et.al.|[2304.13928v1](http://arxiv.org/abs/2304.13928v1)|null|
+|**2023-04-27**|**Neural Keyphrase Generation: Analysis and Evaluation**|Tuhin Kundu et.al.|[2304.13883v1](http://arxiv.org/abs/2304.13883v1)|null|
+|**2023-04-26**|**Adaptation to Misspecified Kernel Regularity in Kernelised Bandits**|Yusha Liu et.al.|[2304.13830v1](http://arxiv.org/abs/2304.13830v1)|null|
+|**2023-04-26**|**Robust formulation of Wick's theorem for computing matrix elements between Hartree-Fock-Bogoliubov wavefunctions**|Guo P. Chen et.al.|[2304.13780v1](http://arxiv.org/abs/2304.13780v1)|null|
+|**2023-04-26**|**Making rare events typical in chaotic maps**|Ricardo Gutiérrez et.al.|[2304.13754v1](http://arxiv.org/abs/2304.13754v1)|null|
 |**2023-04-26**|**UniNeXt: Exploring A Unified Architecture for Vision Recognition**|Fangjian Lin et.al.|[2304.13700v1](http://arxiv.org/abs/2304.13700v1)|null|
 |**2023-04-27**|**Rigidity, Generators and Homology of Interval Exchange Groups**|Owen Tanner et.al.|[2304.13691v2](http://arxiv.org/abs/2304.13691v2)|null|
 |**2023-04-26**|**PVP: Pre-trained Visual Parameter-Efficient Tuning**|Zhao Song et.al.|[2304.13639v1](http://arxiv.org/abs/2304.13639v1)|null|
