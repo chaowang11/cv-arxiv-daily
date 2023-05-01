@@ -568,6 +568,48 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**|Peng Gao et.al.|[2304.15010v1](http://arxiv.org/abs/2304.15010v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
+|**2023-04-28**|**Are Emergent Abilities of Large Language Models a Mirage?**|Rylan Schaeffer et.al.|[2304.15004v1](http://arxiv.org/abs/2304.15004v1)|null|
+|**2023-04-28**|**Towards Automated Circuit Discovery for Mechanistic Interpretability**|Arthur Conmy et.al.|[2304.14997v1](http://arxiv.org/abs/2304.14997v1)|null|
+|**2023-04-28**|**Exact and approximate simulation of large quantum circuits on a single GPU**|Daniel Strano et.al.|[2304.14969v1](http://arxiv.org/abs/2304.14969v1)|null|
+|**2023-04-28**|**The Exponential Capacity of Dense Associative Memories**|Carlo Lucibello et.al.|[2304.14964v1](http://arxiv.org/abs/2304.14964v1)|null|
+|**2023-04-28**|**Solving constrained Procrustes problems: a conic optimization approach**|Terézia Fulová et.al.|[2304.14961v1](http://arxiv.org/abs/2304.14961v1)|null|
+|**2023-04-28**|**Information Redundancy and Biases in Public Document Information Extraction Benchmarks**|Seif Laatiri et.al.|[2304.14936v1](http://arxiv.org/abs/2304.14936v1)|**[link](https://github.com/seif-lat/bias-study-funsd-sroie)**|
+|**2023-04-28**|**An Empirical Study of Multimodal Model Merging**|Yi-Lin Sung et.al.|[2304.14933v1](http://arxiv.org/abs/2304.14933v1)|**[link](https://github.com/ylsung/vl-merging)**|
+|**2023-04-28**|**Representation Matters: The Game of Chess Poses a Challenge to Vision Transformers**|Johannes Czech et.al.|[2304.14918v1](http://arxiv.org/abs/2304.14918v1)|null|
+|**2023-04-28**|**First-principles Prediction of Potential Candidate Materials MCu $_3$ X $_4$  (M = V, Nb, Ta; X = S, Se, Te) for Neuromorphic Computing**|Baoxing Zhai et.al.|[2304.14897v1](http://arxiv.org/abs/2304.14897v1)|null|
+|**2023-04-28**|**Cycle equivalence classes, orthogonal Weingarten calculus, and the mean field theory of memristive systems**|Francesco Caravelli et.al.|[2304.14890v1](http://arxiv.org/abs/2304.14890v1)|null|
+|**2023-04-28**|**A novel reduced-order model for advection-dominated problems based on Radon-Cumulative-Distribution Transform**|Tobias Long et.al.|[2304.14883v1](http://arxiv.org/abs/2304.14883v1)|null|
+|**2023-04-28**|**SGAligner : 3D Scene Alignment with Scene Graphs**|Sayan Deb Sarkar et.al.|[2304.14880v1](http://arxiv.org/abs/2304.14880v1)|**[link](https://github.com/sayands/sgaligner)**|
+|**2023-04-28**|**Directionality Theory and the Origin of Life**|Lloyd Demetrius et.al.|[2304.14873v1](http://arxiv.org/abs/2304.14873v1)|null|
+|**2023-04-28**|**Directed hypergraph connectivity augmentation by hyperarc reorientations**|Moritz Mühlenthaler et.al.|[2304.14868v1](http://arxiv.org/abs/2304.14868v1)|null|
+|**2023-04-28**|**MASK-CNN-Transformer For Real-Time Multi-Label Weather Recognition**|Shengchao Chen et.al.|[2304.14857v1](http://arxiv.org/abs/2304.14857v1)|null|
+|**2023-04-28**|**Using Large Language Models for Interpreting Autonomous Robots Behaviors**|Miguel A. González-Santamarta et.al.|[2304.14844v1](http://arxiv.org/abs/2304.14844v1)|null|
+|**2023-04-28**|**IMP: Iterative Matching and Pose Estimation with Adaptive Pooling**|Fei Xue et.al.|[2304.14837v1](http://arxiv.org/abs/2304.14837v1)|null|
+|**2023-04-28**|**ResiDual: Transformer with Dual Residual Connections**|Shufang Xie et.al.|[2304.14802v1](http://arxiv.org/abs/2304.14802v1)|null|
+|**2023-04-28**|**Learning Graph Neural Networks using Exact Compression**|Jeroen Bollen et.al.|[2304.14793v1](http://arxiv.org/abs/2304.14793v1)|null|
+|**2023-04-28**|**Non-Contact Heart Rate Measurement from Deteriorated Videos**|Nhi Nguyen et.al.|[2304.14789v1](http://arxiv.org/abs/2304.14789v1)|null|
+|**2023-04-28**|**Quasi-Monte Carlo methods for mixture distributions and approximated distributions via piecewise linear interpolation**|Tiangang Cui et.al.|[2304.14786v1](http://arxiv.org/abs/2304.14786v1)|null|
+|**2023-04-28**|**Robustness of predicted CMB fluctuations in Cartan  $F(R)$  gravity**|Tomohiro Inagaki et.al.|[2304.14769v1](http://arxiv.org/abs/2304.14769v1)|null|
+|**2023-04-28**|**Dissecting Recall of Factual Associations in Auto-Regressive Language Models**|Mor Geva et.al.|[2304.14767v1](http://arxiv.org/abs/2304.14767v1)|null|
+|**2023-04-28**|**LostPaw: Finding Lost Pets using a Contrastive Learning-based Transformer with Visual Input**|Andrei Voinea et.al.|[2304.14765v1](http://arxiv.org/abs/2304.14765v1)|null|
+|**2023-04-28**|**The Logical Essence of Compiling With Continuations**|José Espírito Santo et.al.|[2304.14752v1](http://arxiv.org/abs/2304.14752v1)|null|
+|**2023-04-28**|**FlowTransformer: A Transformer Framework for Flow-based Network Intrusion Detection Systems**|Liam Daly Manocchio et.al.|[2304.14746v1](http://arxiv.org/abs/2304.14746v1)|null|
+|**2023-04-28**|**A heat-wave of accretion energy traced by masers in the G358-MM1 high-mass protostar**|R. A. Burns et.al.|[2304.14739v1](http://arxiv.org/abs/2304.14739v1)|null|
+|**2023-04-28**|**A unified density-matrix functional construction of quantum baths in density matrix embedding theory beyond the mean-field approximation**|Sajanthan Sekaran et.al.|[2304.14729v1](http://arxiv.org/abs/2304.14729v1)|null|
+|**2023-04-28**|**X-RLflow: Graph Reinforcement Learning for Neural Network Subgraphs Transformation**|Guoliang He et.al.|[2304.14698v1](http://arxiv.org/abs/2304.14698v1)|null|
+|**2023-04-28**|**Metaplectic Gabor frames of Wigner-Decomposable Distributions**|Elena Cordero et.al.|[2304.14689v1](http://arxiv.org/abs/2304.14689v1)|null|
+|**2023-04-28**|**PreNAS: Preferred One-Shot Learning Towards Efficient Neural Architecture Search**|Haibin Wang et.al.|[2304.14636v1](http://arxiv.org/abs/2304.14636v1)|null|
+|**2023-04-28**|**MUDiff: Unified Diffusion for Complete Molecule Generation**|Chenqing Hua et.al.|[2304.14621v1](http://arxiv.org/abs/2304.14621v1)|null|
+|**2023-04-28**|**A positive feedback method based on F-measure value for Salient Object Detection**|Ailing Pan et.al.|[2304.14619v1](http://arxiv.org/abs/2304.14619v1)|null|
+|**2023-04-28**|**The resource theory of dephasing estimation in multiqubit systems**|Zishi Chen et.al.|[2304.14615v1](http://arxiv.org/abs/2304.14615v1)|null|
+|**2023-04-28**|**Local-Global Transformer Enhanced Unfolding Network for Pan-sharpening**|Mingsong Li et.al.|[2304.14612v1](http://arxiv.org/abs/2304.14612v1)|**[link](https://github.com/lms-07/lgteun)**|
+|**2023-04-28**|**Computation of Rate-Distortion-Perception Functions With Wasserstein Barycenter**|Chunhui Chen et.al.|[2304.14611v1](http://arxiv.org/abs/2304.14611v1)|null|
+|**2023-04-28**|**Robust Gaussian Process Regression method for efficient reaction pathway optimization: application to surface processes**|Wei Fang et.al.|[2304.14596v1](http://arxiv.org/abs/2304.14596v1)|null|
+|**2023-04-28**|**Smooth Indirect Solution Method for State-constrained Optimal Control Problems with Nonlinear Control-affine Systems**|Kenshiro Oguri et.al.|[2304.14587v1](http://arxiv.org/abs/2304.14587v1)|null|
+|**2023-04-28**|**Internal symmetry in Poincare gauge gravity**|James T. Wheeler et.al.|[2304.14586v1](http://arxiv.org/abs/2304.14586v1)|null|
+|**2023-04-28**|**DIAMANT: Dual Image-Attention Map Encoders For Medical Image Segmentation**|Yousef Yeganeh et.al.|[2304.14571v1](http://arxiv.org/abs/2304.14571v1)|null|
+|**2023-04-28**|**3D Brainformer: 3D Fusion Transformer for Brain Tumor Segmentation**|Rui Nian et.al.|[2304.14508v1](http://arxiv.org/abs/2304.14508v1)|null|
 |**2023-04-27**|**IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers**|Ronghuan Wu et.al.|[2304.14400v1](http://arxiv.org/abs/2304.14400v1)|null|
 |**2023-04-27**|**SeqTrack: Sequence to Sequence Learning for Visual Object Tracking**|Xin Chen et.al.|[2304.14394v1](http://arxiv.org/abs/2304.14394v1)|**[link](https://github.com/microsoft/videox)**|
 |**2023-04-27**|**Semantic embedding for quantum algorithms**|Zane M. Rossi et.al.|[2304.14392v1](http://arxiv.org/abs/2304.14392v1)|null|
