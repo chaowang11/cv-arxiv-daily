@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Learning-based Framework for US Signals Super-resolution**|Simone Cammarasana et.al.|[2305.01510v1](http://arxiv.org/abs/2305.01510v1)|null|
+|**2023-05-02**|**Self-supervised arbitrary scale super-resolution framework for anisotropic MRI**|Haonan Zhang et.al.|[2305.01360v1](http://arxiv.org/abs/2305.01360v1)|null|
+|**2023-05-02**|**Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles**|Yuanzheng Ma et.al.|[2305.01165v1](http://arxiv.org/abs/2305.01165v1)|**[link](https://github.com/yuanzhengthu/handDrawnPAAImages)**|
 |**2023-04-29**|**Sparsity-Aware Optimal Transport for Unsupervised Restoration Learning**|Fei Wen et.al.|[2305.00273v1](http://arxiv.org/abs/2305.00273v1)|null|
 |**2023-04-29**|**Integrated Sensing and Communications: Recent Advances and Ten Open Challenges**|Shihang Lu et.al.|[2305.00179v1](http://arxiv.org/abs/2305.00179v1)|null|
 |**2023-04-29**|**An Implicit Alignment for Video Super-Resolution**|Kai Xu et.al.|[2305.00163v1](http://arxiv.org/abs/2305.00163v1)|**[link](https://github.com/kai422/iart)**|
@@ -573,6 +576,41 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**Sequence Modeling with Multiresolution Convolutional Memory**|Jiaxin Shi et.al.|[2305.01638v1](http://arxiv.org/abs/2305.01638v1)|null|
+|**2023-05-02**|**Unlimiformer: Long-Range Transformers with Unlimited Length Input**|Amanda Bertsch et.al.|[2305.01625v1](http://arxiv.org/abs/2305.01625v1)|**[link](https://github.com/abertsch72/unlimiformer)**|
+|**2023-05-02**|**FlowMap: Path Generation for Automated Vehicles in Open Space Using Traffic Flow**|Wenchao Ding et.al.|[2305.01622v1](http://arxiv.org/abs/2305.01622v1)|null|
+|**2023-05-02**|**Analysis of Dispersive Fourier Transform dataset using Dynamic Mode Decomposition: evidence of multiple vibrational modes, and their interplay in a three-soliton molecule**|Anastasiia Sheveleva et.al.|[2305.01591v1](http://arxiv.org/abs/2305.01591v1)|null|
+|**2023-05-02**|**Restrictions of Pfaffian Systems for Feynman Integrals**|Vsevolod Chestnov et.al.|[2305.01585v1](http://arxiv.org/abs/2305.01585v1)|null|
+|**2023-05-02**|**Type-enhanced Ensemble Triple Representation via Triple-aware Attention for Cross-lingual Entity Alignment**|Zhishuo Zhang et.al.|[2305.01556v1](http://arxiv.org/abs/2305.01556v1)|null|
+|**2023-05-02**|**Touch and deformation perception of soft manipulators with capacitive e-skins and deep learning**|Delin Hu et.al.|[2305.01545v1](http://arxiv.org/abs/2305.01545v1)|null|
+|**2023-05-02**|**Unlocking the Power of Representations in Long-term Novelty-based Exploration**|Alaa Saade et.al.|[2305.01521v1](http://arxiv.org/abs/2305.01521v1)|null|
+|**2023-05-02**|**ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning**|Azmine Toushik Wasi et.al.|[2305.01486v1](http://arxiv.org/abs/2305.01486v1)|**[link](https://github.com/takihasan/arbex)**|
+|**2023-05-01**|**Cancer-inspired Genomics Mapper Model for the Generation of Synthetic DNA Sequences with Desired Genomics Signatures**|Teddy Lazebnik et.al.|[2305.01475v1](http://arxiv.org/abs/2305.01475v1)|null|
+|**2023-05-02**|**Scalable Mask Annotation for Video Text Spotting**|Haibin He et.al.|[2305.01443v1](http://arxiv.org/abs/2305.01443v1)|**[link](https://github.com/vitae-transformer/samtext)**|
+|**2023-05-02**|**On the convergence of reduction-based and model-based methods in proof theory**|Gilles Dowek et.al.|[2305.01439v1](http://arxiv.org/abs/2305.01439v1)|null|
+|**2023-05-02**|**Unsupervised Feature Based Algorithms for Time Series Extrinsic Regression**|David Guijo-Rubio et.al.|[2305.01429v1](http://arxiv.org/abs/2305.01429v1)|null|
+|**2023-05-02**|**Distinct quasiparticle interference patterns for surface impurity scattering on various Weyl semimetals**|Feng Xiong et.al.|[2305.01422v1](http://arxiv.org/abs/2305.01422v1)|null|
+|**2023-05-02**|**The Premartensite and Martensite in Fe50Rh50 System**|Esmaeil Adabifiroozjaei et.al.|[2305.01351v1](http://arxiv.org/abs/2305.01351v1)|null|
+|**2023-05-02**|**When the Tracy-Singh product of matrices represents a certain operation on linear operators**|Fabienne Chouraqui et.al.|[2305.01342v1](http://arxiv.org/abs/2305.01342v1)|null|
+|**2023-05-02**|**On 1 + 3 covariant perturbations of the quasi-Newtonian space-time in modified Gauss-Bonnet gravity**|Albert Munyeshyaka et.al.|[2305.01331v1](http://arxiv.org/abs/2305.01331v1)|null|
+|**2023-05-02**|**Turning Flowchart into Dialog: Plan-based Data Augmentation for Low-Resource Flowchart-grounded Troubleshooting Dialogs**|Haolan Zhan et.al.|[2305.01323v1](http://arxiv.org/abs/2305.01323v1)|null|
+|**2023-05-02**|**AxWin Transformer: A Context-Aware Vision Transformer Backbone with Axial Windows**|Fangjian Lin et.al.|[2305.01280v1](http://arxiv.org/abs/2305.01280v1)|null|
+|**2023-05-02**|**Exploring vision transformer layer choosing for semantic segmentation**|Fangjian Lin et.al.|[2305.01279v1](http://arxiv.org/abs/2305.01279v1)|null|
+|**2023-05-02**|**Universal MIMO Jammer Mitigation via Secret Temporal Subspace Embeddings**|Gian Marti et.al.|[2305.01260v1](http://arxiv.org/abs/2305.01260v1)|null|
+|**2023-05-02**|**HTPS: Heterogeneous Transferring Prediction System for Healthcare Datasets**|Jia-Hao Syu et.al.|[2305.01252v1](http://arxiv.org/abs/2305.01252v1)|null|
+|**2023-05-02**|**Traction Control Allocation Employing Vehicle Motion Feedback Controller for Four-wheel-independent-drive Vehicle**|David Vošahlík et.al.|[2305.01251v1](http://arxiv.org/abs/2305.01251v1)|null|
+|**2023-05-02**|**Transformations between arbitrary (quantum) objects and the emergence of indefinite causality**|Simon Milz et.al.|[2305.01247v1](http://arxiv.org/abs/2305.01247v1)|null|
+|**2023-05-02**|**AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis**|Hendric Voß et.al.|[2305.01241v1](http://arxiv.org/abs/2305.01241v1)|null|
+|**2023-05-02**|**MultiLegalSBD: A Multilingual Legal Sentence Boundary Detection Dataset**|Tobias Brugger et.al.|[2305.01211v1](http://arxiv.org/abs/2305.01211v1)|**[link](https://github.com/tobiasbrugger/multilegalsbd)**|
+|**2023-05-02**|**Study of Decoupled Cosmological Solutions in  $f(\mathbb{R},\mathbb{T})$  Theory**|Tayyab Naseer et.al.|[2305.01184v1](http://arxiv.org/abs/2305.01184v1)|null|
+|**2023-05-02**|**PU-EdgeFormer: Edge Transformer for Dense Prediction in Point Cloud Upsampling**|Dohoon Kim et.al.|[2305.01148v1](http://arxiv.org/abs/2305.01148v1)|**[link](https://github.com/dohoon2045/pu-edgeformer)**|
+|**2023-05-02**|**ADVISE: AI-accelerated Design of Evidence Synthesis for Global Development**|Kristen M. Edwards et.al.|[2305.01145v1](http://arxiv.org/abs/2305.01145v1)|null|
+|**2023-05-01**|**Adiabatic driving and parallel transport for parameter-dependent Hamiltonians**|A. D. Bermúdez Manjarres et.al.|[2305.01125v1](http://arxiv.org/abs/2305.01125v1)|null|
+|**2023-05-01**|**Enhanced Photon Routing Beyond the Blockade Limit Via Linear Optics**|Harjot Singh et.al.|[2305.01114v1](http://arxiv.org/abs/2305.01114v1)|null|
+|**2023-05-01**|**Time-Frequency Warped Waveforms for Well-Contained Massive Machine Type Communications**|Mostafa Ibrahim et.al.|[2305.01113v1](http://arxiv.org/abs/2305.01113v1)|null|
+|**2023-05-01**|**Performative Prediction with Bandit Feedback: Learning through Reparameterization**|Yatong Chen et.al.|[2305.01094v1](http://arxiv.org/abs/2305.01094v1)|null|
+|**2023-05-01**|**AI & Blockchain as sustainable teaching and learning tools to cope with the 4IR**|Md Aminul Islam et.al.|[2305.01088v1](http://arxiv.org/abs/2305.01088v1)|null|
+|**2023-05-01**|**Company classification using zero-shot learning**|Maryan Rizinski et.al.|[2305.01028v1](http://arxiv.org/abs/2305.01028v1)|null|
 |**2023-05-01**|**Skeleton Integral Equations for Acoustic Transmission Problems with Varying Coefficients**|Francesco Florian et.al.|[2305.00959v1](http://arxiv.org/abs/2305.00959v1)|null|
 |**2023-05-01**|**Early Detection of Alzheimer's Disease using Bottleneck Transformers**|Arunima Jaiswal et.al.|[2305.00923v1](http://arxiv.org/abs/2305.00923v1)|null|
 |**2023-05-01**|**Hypernuclear event detection in the nuclear emulsion with Monte Carlo simulation and machine learning**|A. Kasagi et.al.|[2305.00884v1](http://arxiv.org/abs/2305.00884v1)|null|
