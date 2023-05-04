@@ -23,6 +23,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126v1](http://arxiv.org/abs/2305.02126v1)|**[link](https://github.com/aselsan-research-imaging-team/bicubic-plusplus)**|
+|**2023-05-03**|**Efficient CNN-based Super Resolution Algorithms for mmWave Mobile Radar Imaging**|Christos Vasileiou et.al.|[2305.02092v1](http://arxiv.org/abs/2305.02092v1)|null|
+|**2023-05-03**|**A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution**|Josiah Smith et.al.|[2305.02074v1](http://arxiv.org/abs/2305.02074v1)|null|
+|**2023-05-03**|**Deep Learning-Based Multiband Signal Fusion for 3-D SAR Super-Resolution**|Josiah Smith et.al.|[2305.02017v1](http://arxiv.org/abs/2305.02017v1)|null|
+|**2023-05-03**|**An FCNN-Based Super-Resolution mmWave Radar Framework for Contactless Musical Instrument Interface**|Josiah W. Smith et.al.|[2305.01995v1](http://arxiv.org/abs/2305.01995v1)|null|
 |**2023-04-17**|**Learning-based Framework for US Signals Super-resolution**|Simone Cammarasana et.al.|[2305.01510v1](http://arxiv.org/abs/2305.01510v1)|null|
 |**2023-05-02**|**Self-supervised arbitrary scale super-resolution framework for anisotropic MRI**|Haonan Zhang et.al.|[2305.01360v1](http://arxiv.org/abs/2305.01360v1)|null|
 |**2023-05-02**|**Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles**|Yuanzheng Ma et.al.|[2305.01165v1](http://arxiv.org/abs/2305.01165v1)|**[link](https://github.com/yuanzhengthu/handDrawnPAAImages)**|
@@ -315,6 +320,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126v1](http://arxiv.org/abs/2305.02126v1)|**[link](https://github.com/aselsan-research-imaging-team/bicubic-plusplus)**|
+|**2023-05-03**|**Efficient CNN-based Super Resolution Algorithms for mmWave Mobile Radar Imaging**|Christos Vasileiou et.al.|[2305.02092v1](http://arxiv.org/abs/2305.02092v1)|null|
+|**2023-05-03**|**A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution**|Josiah Smith et.al.|[2305.02074v1](http://arxiv.org/abs/2305.02074v1)|null|
 |**2023-04-26**|**Super-NeRF: View-consistent Detail Generation for NeRF super-resolution**|Yuqi Han et.al.|[2304.13518v1](http://arxiv.org/abs/2304.13518v1)|null|
 |**2023-04-26**|**OPDN: Omnidirectional Position-aware Deformable Network for Omnidirectional Image Super-Resolution**|Xiaopeng Sun et.al.|[2304.13471v1](http://arxiv.org/abs/2304.13471v1)|null|
 |**2023-04-25**|**SwinFSR: Stereo Image Super-Resolution using SwinIR and Frequency Domain Knowledge**|Ke Chen et.al.|[2304.12556v1](http://arxiv.org/abs/2304.12556v1)|null|
@@ -576,6 +584,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-03**|**Testing charge quantization with axion string-induced cosmic birefringence**|Weichen Winston Yin et.al.|[2305.02318v1](http://arxiv.org/abs/2305.02318v1)|null|
+|**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310v1](http://arxiv.org/abs/2305.02310v1)|null|
+|**2023-05-03**|**DynamicStereo: Consistent Dynamic Depth from Stereo Videos**|Nikita Karaev et.al.|[2305.02296v1](http://arxiv.org/abs/2305.02296v1)|null|
+|**2023-05-03**|**Learngene: Inheriting Condensed Knowledge from the Ancestry Model to Descendant Models**|Qiufeng Wang et.al.|[2305.02279v1](http://arxiv.org/abs/2305.02279v1)|null|
+|**2023-05-03**|**Reconnection generated plasma flows in the quasi-separatrix layer in localised solar corona**|Sripan Mondal et.al.|[2305.02277v1](http://arxiv.org/abs/2305.02277v1)|null|
+|**2023-05-03**|**Pseudo and quasi quark PDF in the BFKL approximation**|Giovanni Antonio Chirilli et.al.|[2305.02270v1](http://arxiv.org/abs/2305.02270v1)|null|
+|**2023-05-03**|**Classification of EEG signals to detect Parkinsons Disease using a computationally method**|A. Hamidi et.al.|[2305.02234v1](http://arxiv.org/abs/2305.02234v1)|null|
+|**2023-05-03**|**Accessing continuous-variable entanglement witnesses with multimode spin observables**|Célia Griffet et.al.|[2305.02227v1](http://arxiv.org/abs/2305.02227v1)|null|
+|**2023-05-03**|**Exploring Linguistic Properties of Monolingual BERTs with Typological Classification among Languages**|Federico Ranaldi et.al.|[2305.02215v1](http://arxiv.org/abs/2305.02215v1)|null|
+|**2023-05-03**|**CLUSTSEG: Clustering for Universal Segmentation**|James Liang et.al.|[2305.02187v1](http://arxiv.org/abs/2305.02187v1)|null|
+|**2023-05-03**|**Transforming Visual Scene Graphs to Image Captions**|Xu Yang et.al.|[2305.02177v1](http://arxiv.org/abs/2305.02177v1)|null|
+|**2023-05-03**|**Towards Being Parameter-Efficient: A Stratified Sparsely Activated Transformer with Dynamic Capacity**|Haoran Xu et.al.|[2305.02176v1](http://arxiv.org/abs/2305.02176v1)|**[link](https://github.com/fe1ixxu/stratified_mixture_of_experts)**|
+|**2023-05-03**|**ProgDTD: Progressive Learned Image Compression with Double-Tail-Drop Training**|Ali Hojjat et.al.|[2305.02145v1](http://arxiv.org/abs/2305.02145v1)|null|
+|**2023-05-03**|**An identification method for oscillators with response-dependent inertia**|Yuval Harduf et.al.|[2305.02135v1](http://arxiv.org/abs/2305.02135v1)|null|
+|**2023-05-03**|**Rethinking the Encoding of Satellite Image Time Series**|Xin Cai et.al.|[2305.02086v1](http://arxiv.org/abs/2305.02086v1)|null|
+|**2023-05-03**|**A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution**|Josiah Smith et.al.|[2305.02074v1](http://arxiv.org/abs/2305.02074v1)|null|
+|**2023-05-03**|**General One-dimensional Clifford Fourier Transform and Application to Probability Theory**|Said Fahlaoui et.al.|[2305.02048v1](http://arxiv.org/abs/2305.02048v1)|null|
+|**2023-05-03**|**Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model**|Di Wang et.al.|[2305.02034v1](http://arxiv.org/abs/2305.02034v1)|**[link](https://github.com/vitae-transformer/samrs)**|
+|**2023-05-03**|**Unsupervised Mutual Transformer Learning for Multi-Gigapixel Whole Slide Image Classification**|Sajid Javed et.al.|[2305.02032v1](http://arxiv.org/abs/2305.02032v1)|null|
+|**2023-05-03**|**Synchronization in Networks of Neural Mass Model Populations with Discrete Couplings**|Sergei Plotnikov et.al.|[2305.02021v1](http://arxiv.org/abs/2305.02021v1)|null|
+|**2023-05-03**|**Some problem with the Lorentz transformations of energy and momentum of the electromagnetic field**|Vladimir Onoochin et.al.|[2305.01994v1](http://arxiv.org/abs/2305.01994v1)|null|
+|**2023-05-03**|**Diverse and Vivid Sound Generation from Text Descriptions**|Guangwei Li et.al.|[2305.01980v1](http://arxiv.org/abs/2305.01980v1)|null|
+|**2023-05-03**|**"Glitch in the Matrix!": A Large Scale Benchmark for Content Driven Audio-Visual Forgery Detection and Localization**|Zhixi Cai et.al.|[2305.01979v1](http://arxiv.org/abs/2305.01979v1)|**[link](https://github.com/ControlNet/LAV-DF)**|
+|**2023-05-03**|**DPSeq: A Novel and Efficient Digital Pathology Classifier for Predicting Cancer Biomarkers using Sequencer Architecture**|Min Cen et.al.|[2305.01968v1](http://arxiv.org/abs/2305.01968v1)|null|
+|**2023-05-03**|**Decidable (Ac)counting with Parikh and Muller: Adding Presburger Arithmetic to Monadic Second-Order Logic over Tree-Interpretable Structures**|Luisa Herrmann et.al.|[2305.01962v1](http://arxiv.org/abs/2305.01962v1)|null|
+|**2023-05-03**|**Satellite Clusters Flying in Formation: Orbital Configuration-Dependent Performance Analyses**|Dong-Hyun Jung et.al.|[2305.01955v1](http://arxiv.org/abs/2305.01955v1)|null|
+|**2023-05-03**|**SeqAug: Sequential Feature Resampling as a modality agnostic augmentation method**|Efthymios Georgiou et.al.|[2305.01954v1](http://arxiv.org/abs/2305.01954v1)|null|
+|**2023-05-03**|**Signs of criticality in social explosions**|Mariano G. Beiró et.al.|[2305.01944v1](http://arxiv.org/abs/2305.01944v1)|null|
+|**2023-05-03**|**Exploring the Protein Sequence Space with Global Generative Models**|Sergio Romero-Romero et.al.|[2305.01941v1](http://arxiv.org/abs/2305.01941v1)|null|
+|**2023-05-03**|**Doc2SoarGraph: Discrete Reasoning over Visually-Rich Table-Text Documents with Semantic-Oriented Hierarchical Graphs**|Fengbin Zhu et.al.|[2305.01938v1](http://arxiv.org/abs/2305.01938v1)|null|
+|**2023-05-03**|**An Exploration of Conditioning Methods in Graph Neural Networks**|Yeskendir Koishekenov et.al.|[2305.01933v1](http://arxiv.org/abs/2305.01933v1)|**[link](https://github.com/yeskendirk/conditioning-gnns)**|
+|**2023-05-03**|**Visual Transformation Telling**|Xin Hong et.al.|[2305.01928v1](http://arxiv.org/abs/2305.01928v1)|null|
+|**2023-05-03**|**DiffFacto Controllable Part-Based 3D Point Cloud Generation with Cross Diffusion**|Kiyohiro Nakayama et.al.|[2305.01921v1](http://arxiv.org/abs/2305.01921v1)|null|
+|**2023-05-03**|**MolKD: Distilling Cross-Modal Knowledge in Chemical Reactions for Molecular Property Prediction**|Liang Zeng et.al.|[2305.01912v1](http://arxiv.org/abs/2305.01912v1)|null|
+|**2023-05-03**|**Revolutionizing Agrifood Systems with Artificial Intelligence: A Survey**|Tao Chen et.al.|[2305.01899v1](http://arxiv.org/abs/2305.01899v1)|null|
+|**2023-05-03**|**A Lightweight CNN-Transformer Model for Learning Traveling Salesman Problems**|Minseop Jung et.al.|[2305.01883v1](http://arxiv.org/abs/2305.01883v1)|**[link](https://github.com/cm8908/cnn_transformer3)**|
+|**2023-05-03**|**On the generation of ultra-bright and low energy spread electron beams in laser wakefield acceleration in a uniform plasma**|Xinlu Xu et.al.|[2305.01866v1](http://arxiv.org/abs/2305.01866v1)|null|
+|**2023-05-03**|**Toward Textual Transform Coding**|Tsachy Weissman et.al.|[2305.01857v1](http://arxiv.org/abs/2305.01857v1)|null|
+|**2023-05-03**|**Multivariate Symmetry: Distribution-Free Testing via Optimal Transport**|Zhen Huang et.al.|[2305.01839v1](http://arxiv.org/abs/2305.01839v1)|null|
+|**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822v1](http://arxiv.org/abs/2305.01822v1)|null|
+|**2023-05-02**|**Numerical circuit synthesis and compilation for multi-state preparation**|Aaron Szasz et.al.|[2305.01816v1](http://arxiv.org/abs/2305.01816v1)|null|
+|**2023-05-02**|**On the symplectic geometry of  $A_k$  singularities**|Nikolay Martynchuk et.al.|[2305.01814v1](http://arxiv.org/abs/2305.01814v1)|null|
+|**2023-05-02**|**Beyond Traditional Feedback Channels: Extracting Requirements-Relevant Feedback from TikTok and YouTube**|Manish Sihag et.al.|[2305.01796v1](http://arxiv.org/abs/2305.01796v1)|null|
+|**2023-05-02**|**Computation of Normal Forms for Systems with Many Parameters**|Tatjana Petek et.al.|[2305.01739v1](http://arxiv.org/abs/2305.01739v1)|null|
+|**2023-05-02**|**High-Resolution Synthetic RGB-D Datasets for Monocular Depth Estimation**|Aakash Rajpal et.al.|[2305.01732v1](http://arxiv.org/abs/2305.01732v1)|null|
+|**2023-05-02**|**Elasticity in the Projective Plane and Induced Transformations of Membrane Shells**|Tamás Baranyai et.al.|[2305.01725v1](http://arxiv.org/abs/2305.01725v1)|null|
+|**2023-05-02**|**Construction of Decision Trees and Acyclic Decision Graphs from Decision Rule Systems**|Kerven Durdymyradov et.al.|[2305.01721v1](http://arxiv.org/abs/2305.01721v1)|null|
+|**2023-05-02**|**Learning Disentangled Semantic Spaces of Explanations via Invertible Neural Networks**|Yingji Zhang et.al.|[2305.01713v1](http://arxiv.org/abs/2305.01713v1)|null|
+|**2023-05-02**|**Frustration induced Itinerant Ferromagnetism of Fermions in Optical Lattice**|Chengshu Li et.al.|[2305.01682v1](http://arxiv.org/abs/2305.01682v1)|null|
+|**2023-05-02**|**The dynamics of debris streams from tidal disruption events: exact solutions, critical stream density, and hydrogen recombination**|Eric R. Coughlin et.al.|[2305.01677v1](http://arxiv.org/abs/2305.01677v1)|null|
 |**2023-05-02**|**Sequence Modeling with Multiresolution Convolutional Memory**|Jiaxin Shi et.al.|[2305.01638v1](http://arxiv.org/abs/2305.01638v1)|null|
 |**2023-05-02**|**Unlimiformer: Long-Range Transformers with Unlimited Length Input**|Amanda Bertsch et.al.|[2305.01625v1](http://arxiv.org/abs/2305.01625v1)|**[link](https://github.com/abertsch72/unlimiformer)**|
 |**2023-05-02**|**FlowMap: Path Generation for Automated Vehicles in Open Space Using Traffic Flow**|Wenchao Ding et.al.|[2305.01622v1](http://arxiv.org/abs/2305.01622v1)|null|
