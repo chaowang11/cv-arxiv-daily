@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.04
+## Updated on 2023.05.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126v1](http://arxiv.org/abs/2305.02126v1)|**[link](https://github.com/aselsan-research-imaging-team/bicubic-plusplus)**|
+|**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126v1](http://arxiv.org/abs/2305.02126v1)|null|
 |**2023-05-03**|**Efficient CNN-based Super Resolution Algorithms for mmWave Mobile Radar Imaging**|Christos Vasileiou et.al.|[2305.02092v1](http://arxiv.org/abs/2305.02092v1)|null|
 |**2023-05-03**|**A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution**|Josiah Smith et.al.|[2305.02074v1](http://arxiv.org/abs/2305.02074v1)|null|
 |**2023-05-03**|**Deep Learning-Based Multiband Signal Fusion for 3-D SAR Super-Resolution**|Josiah Smith et.al.|[2305.02017v1](http://arxiv.org/abs/2305.02017v1)|null|
@@ -34,7 +34,7 @@
 |**2023-04-29**|**Sparsity-Aware Optimal Transport for Unsupervised Restoration Learning**|Fei Wen et.al.|[2305.00273v1](http://arxiv.org/abs/2305.00273v1)|null|
 |**2023-04-29**|**Integrated Sensing and Communications: Recent Advances and Ten Open Challenges**|Shihang Lu et.al.|[2305.00179v1](http://arxiv.org/abs/2305.00179v1)|null|
 |**2023-04-29**|**An Implicit Alignment for Video Super-Resolution**|Kai Xu et.al.|[2305.00163v1](http://arxiv.org/abs/2305.00163v1)|**[link](https://github.com/kai422/iart)**|
-|**2023-04-29**|**LD-GAN: Low-Dimensional Generative Adversarial Network for Spectral Image Generation with Variance Regularization**|Emmanuel Martinez et.al.|[2305.00132v1](http://arxiv.org/abs/2305.00132v1)|**[link](https://github.com/hdspgroup/LD-GAN)**|
+|**2023-04-29**|**LD-GAN: Low-Dimensional Generative Adversarial Network for Spectral Image Generation with Variance Regularization**|Emmanuel Martinez et.al.|[2305.00132v1](http://arxiv.org/abs/2305.00132v1)|**[link](https://github.com/romanjacome99/ld_gan)**|
 |**2023-04-27**|**Synthetic aperture phase imaging of second harmonic generation field with computational adaptive optics**|Jungho Moon et.al.|[2304.14018v1](http://arxiv.org/abs/2304.14018v1)|null|
 |**2023-04-26**|**Super-NeRF: View-consistent Detail Generation for NeRF super-resolution**|Yuqi Han et.al.|[2304.13518v1](http://arxiv.org/abs/2304.13518v1)|null|
 |**2023-04-26**|**OPDN: Omnidirectional Position-aware Deformable Network for Omnidirectional Image Super-Resolution**|Xiaopeng Sun et.al.|[2304.13471v1](http://arxiv.org/abs/2304.13471v1)|null|
@@ -314,13 +314,13 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126v1](http://arxiv.org/abs/2305.02126v1)|**[link](https://github.com/aselsan-research-imaging-team/bicubic-plusplus)**|
+|**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126v1](http://arxiv.org/abs/2305.02126v1)|null|
 |**2023-05-03**|**Efficient CNN-based Super Resolution Algorithms for mmWave Mobile Radar Imaging**|Christos Vasileiou et.al.|[2305.02092v1](http://arxiv.org/abs/2305.02092v1)|null|
 |**2023-05-03**|**A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution**|Josiah Smith et.al.|[2305.02074v1](http://arxiv.org/abs/2305.02074v1)|null|
 |**2023-04-26**|**Super-NeRF: View-consistent Detail Generation for NeRF super-resolution**|Yuqi Han et.al.|[2304.13518v1](http://arxiv.org/abs/2304.13518v1)|null|
@@ -453,7 +453,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -525,7 +525,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -542,7 +542,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -578,7 +578,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## Transformer
 
@@ -594,11 +594,11 @@
 |**2023-05-03**|**Accessing continuous-variable entanglement witnesses with multimode spin observables**|Célia Griffet et.al.|[2305.02227v1](http://arxiv.org/abs/2305.02227v1)|null|
 |**2023-05-03**|**Exploring Linguistic Properties of Monolingual BERTs with Typological Classification among Languages**|Federico Ranaldi et.al.|[2305.02215v1](http://arxiv.org/abs/2305.02215v1)|null|
 |**2023-05-03**|**CLUSTSEG: Clustering for Universal Segmentation**|James Liang et.al.|[2305.02187v1](http://arxiv.org/abs/2305.02187v1)|null|
-|**2023-05-03**|**Transforming Visual Scene Graphs to Image Captions**|Xu Yang et.al.|[2305.02177v1](http://arxiv.org/abs/2305.02177v1)|null|
+|**2023-05-04**|**Transforming Visual Scene Graphs to Image Captions**|Xu Yang et.al.|[2305.02177v2](http://arxiv.org/abs/2305.02177v2)|null|
 |**2023-05-03**|**Towards Being Parameter-Efficient: A Stratified Sparsely Activated Transformer with Dynamic Capacity**|Haoran Xu et.al.|[2305.02176v1](http://arxiv.org/abs/2305.02176v1)|**[link](https://github.com/fe1ixxu/stratified_mixture_of_experts)**|
 |**2023-05-03**|**ProgDTD: Progressive Learned Image Compression with Double-Tail-Drop Training**|Ali Hojjat et.al.|[2305.02145v1](http://arxiv.org/abs/2305.02145v1)|null|
 |**2023-05-03**|**An identification method for oscillators with response-dependent inertia**|Yuval Harduf et.al.|[2305.02135v1](http://arxiv.org/abs/2305.02135v1)|null|
-|**2023-05-03**|**Rethinking the Encoding of Satellite Image Time Series**|Xin Cai et.al.|[2305.02086v1](http://arxiv.org/abs/2305.02086v1)|null|
+|**2023-05-03**|**Rethinking the Encoding of Satellite Image Time Series**|Xin Cai et.al.|[2305.02086v1](http://arxiv.org/abs/2305.02086v1)|**[link](https://github.com/TotalVariation/Exchanger4SITS)**|
 |**2023-05-03**|**A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution**|Josiah Smith et.al.|[2305.02074v1](http://arxiv.org/abs/2305.02074v1)|null|
 |**2023-05-03**|**General One-dimensional Clifford Fourier Transform and Application to Probability Theory**|Said Fahlaoui et.al.|[2305.02048v1](http://arxiv.org/abs/2305.02048v1)|null|
 |**2023-05-03**|**Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model**|Di Wang et.al.|[2305.02034v1](http://arxiv.org/abs/2305.02034v1)|**[link](https://github.com/vitae-transformer/samrs)**|
@@ -613,17 +613,17 @@
 |**2023-05-03**|**SeqAug: Sequential Feature Resampling as a modality agnostic augmentation method**|Efthymios Georgiou et.al.|[2305.01954v1](http://arxiv.org/abs/2305.01954v1)|null|
 |**2023-05-03**|**Signs of criticality in social explosions**|Mariano G. Beiró et.al.|[2305.01944v1](http://arxiv.org/abs/2305.01944v1)|null|
 |**2023-05-03**|**Exploring the Protein Sequence Space with Global Generative Models**|Sergio Romero-Romero et.al.|[2305.01941v1](http://arxiv.org/abs/2305.01941v1)|null|
-|**2023-05-03**|**Doc2SoarGraph: Discrete Reasoning over Visually-Rich Table-Text Documents with Semantic-Oriented Hierarchical Graphs**|Fengbin Zhu et.al.|[2305.01938v1](http://arxiv.org/abs/2305.01938v1)|null|
+|**2023-05-04**|**Doc2SoarGraph: Discrete Reasoning over Visually-Rich Table-Text Documents with Semantic-Oriented Hierarchical Graphs**|Fengbin Zhu et.al.|[2305.01938v2](http://arxiv.org/abs/2305.01938v2)|null|
 |**2023-05-03**|**An Exploration of Conditioning Methods in Graph Neural Networks**|Yeskendir Koishekenov et.al.|[2305.01933v1](http://arxiv.org/abs/2305.01933v1)|**[link](https://github.com/yeskendirk/conditioning-gnns)**|
 |**2023-05-03**|**Visual Transformation Telling**|Xin Hong et.al.|[2305.01928v1](http://arxiv.org/abs/2305.01928v1)|null|
-|**2023-05-03**|**DiffFacto Controllable Part-Based 3D Point Cloud Generation with Cross Diffusion**|Kiyohiro Nakayama et.al.|[2305.01921v1](http://arxiv.org/abs/2305.01921v1)|null|
+|**2023-05-04**|**DiffFacto: Controllable Part-Based 3D Point Cloud Generation with Cross Diffusion**|Kiyohiro Nakayama et.al.|[2305.01921v2](http://arxiv.org/abs/2305.01921v2)|null|
 |**2023-05-03**|**MolKD: Distilling Cross-Modal Knowledge in Chemical Reactions for Molecular Property Prediction**|Liang Zeng et.al.|[2305.01912v1](http://arxiv.org/abs/2305.01912v1)|null|
 |**2023-05-03**|**Revolutionizing Agrifood Systems with Artificial Intelligence: A Survey**|Tao Chen et.al.|[2305.01899v1](http://arxiv.org/abs/2305.01899v1)|null|
 |**2023-05-03**|**A Lightweight CNN-Transformer Model for Learning Traveling Salesman Problems**|Minseop Jung et.al.|[2305.01883v1](http://arxiv.org/abs/2305.01883v1)|**[link](https://github.com/cm8908/cnn_transformer3)**|
 |**2023-05-03**|**On the generation of ultra-bright and low energy spread electron beams in laser wakefield acceleration in a uniform plasma**|Xinlu Xu et.al.|[2305.01866v1](http://arxiv.org/abs/2305.01866v1)|null|
 |**2023-05-03**|**Toward Textual Transform Coding**|Tsachy Weissman et.al.|[2305.01857v1](http://arxiv.org/abs/2305.01857v1)|null|
 |**2023-05-03**|**Multivariate Symmetry: Distribution-Free Testing via Optimal Transport**|Zhen Huang et.al.|[2305.01839v1](http://arxiv.org/abs/2305.01839v1)|null|
-|**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822v1](http://arxiv.org/abs/2305.01822v1)|null|
+|**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822v1](http://arxiv.org/abs/2305.01822v1)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 |**2023-05-02**|**Numerical circuit synthesis and compilation for multi-state preparation**|Aaron Szasz et.al.|[2305.01816v1](http://arxiv.org/abs/2305.01816v1)|null|
 |**2023-05-02**|**On the symplectic geometry of  $A_k$  singularities**|Nikolay Martynchuk et.al.|[2305.01814v1](http://arxiv.org/abs/2305.01814v1)|null|
 |**2023-05-02**|**Beyond Traditional Feedback Channels: Extracting Requirements-Relevant Feedback from TikTok and YouTube**|Manish Sihag et.al.|[2305.01796v1](http://arxiv.org/abs/2305.01796v1)|null|
@@ -4919,7 +4919,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -5017,7 +5017,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -5078,7 +5078,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
