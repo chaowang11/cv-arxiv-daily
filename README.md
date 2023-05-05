@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Expanding Synthetic Real-World Degradations for Blind Video Super Resolution**|Mehran Jeelani et.al.|[2305.02660v1](http://arxiv.org/abs/2305.02660v1)|null|
+|**2023-05-04**|**Unsupervised Domain Adaptation for Neuron Membrane Segmentation based on Structural Features**|Yuxiang An et.al.|[2305.02569v1](http://arxiv.org/abs/2305.02569v1)|null|
 |**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126v1](http://arxiv.org/abs/2305.02126v1)|null|
 |**2023-05-03**|**Efficient CNN-based Super Resolution Algorithms for mmWave Mobile Radar Imaging**|Christos Vasileiou et.al.|[2305.02092v1](http://arxiv.org/abs/2305.02092v1)|null|
 |**2023-05-03**|**A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution**|Josiah Smith et.al.|[2305.02074v1](http://arxiv.org/abs/2305.02074v1)|null|
@@ -459,6 +461,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Expanding Synthetic Real-World Degradations for Blind Video Super Resolution**|Mehran Jeelani et.al.|[2305.02660v1](http://arxiv.org/abs/2305.02660v1)|null|
 |**2023-04-29**|**An Implicit Alignment for Video Super-Resolution**|Kai Xu et.al.|[2305.00163v1](http://arxiv.org/abs/2305.00163v1)|**[link](https://github.com/kai422/iart)**|
 |**2023-04-18**|**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**|Andreas Blattmann et.al.|[2304.08818v1](http://arxiv.org/abs/2304.08818v1)|null|
 |**2023-04-10**|**Local-Global Temporal Difference Learning for Satellite Video Super-Resolution**|Yi Xiao et.al.|[2304.04421v1](http://arxiv.org/abs/2304.04421v1)|**[link](https://github.com/xy-boy/tdmvsr)**|
@@ -584,6 +587,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Tracking through Containers and Occluders in the Wild**|Basile Van Hoorick et.al.|[2305.03052v1](http://arxiv.org/abs/2305.03052v1)|null|
+|**2023-05-04**|**OctFormer: Octree-based Transformers for 3D Point Clouds**|Peng-Shuai Wang et.al.|[2305.03045v1](http://arxiv.org/abs/2305.03045v1)|null|
+|**2023-05-04**|**Medical Image Registration using optimal control of a linear hyperbolic transport equation with a DG discretization**|Bastian Zapf et.al.|[2305.03020v1](http://arxiv.org/abs/2305.03020v1)|null|
+|**2023-05-04**|**The Polynomial Connection between Morphological Dilation and Discrete Convolution**|Vivek Sridhar et.al.|[2305.03018v1](http://arxiv.org/abs/2305.03018v1)|null|
+|**2023-05-04**|**Accelerating GW calculations through machine learned dielectric matrices**|Mario G. Zauchner et.al.|[2305.02990v1](http://arxiv.org/abs/2305.02990v1)|null|
+|**2023-05-04**|**A Modular Quantum Compilation Framework for Distributed Quantum Computing**|Davide Ferrari et.al.|[2305.02969v1](http://arxiv.org/abs/2305.02969v1)|null|
+|**2023-05-04**|**Piecewise Normalizing Flows**|Harry Bevins et.al.|[2305.02930v1](http://arxiv.org/abs/2305.02930v1)|null|
+|**2023-05-04**|**UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery**|Chuanbo Hu et.al.|[2305.02911v1](http://arxiv.org/abs/2305.02911v1)|null|
+|**2023-05-04**|**High-sensitivity dual-comb spectroscopy in the SWIR using a widely-tunable, free-running spatially-multiplexed dual-comb optical parametric oscillator**|Carolin P. Bauer et.al.|[2305.02908v1](http://arxiv.org/abs/2305.02908v1)|null|
+|**2023-05-04**|**Carrollian conformal fields and flat holography**|Kevin Nguyen et.al.|[2305.02884v1](http://arxiv.org/abs/2305.02884v1)|null|
+|**2023-05-04**|**2x Faster Language Model Pre-training via Masked Structural Growth**|Yiqun Yao et.al.|[2305.02869v1](http://arxiv.org/abs/2305.02869v1)|null|
+|**2023-05-04**|**Hierarchical Transformer for Scalable Graph Learning**|Wenhao Zhu et.al.|[2305.02866v1](http://arxiv.org/abs/2305.02866v1)|null|
+|**2023-05-04**|**ReMask: A Robust Information-Masking Approach for Domain Counterfactual Generation**|Pengfei Hong et.al.|[2305.02858v1](http://arxiv.org/abs/2305.02858v1)|null|
+|**2023-05-04**|**Noise-Resistant Multimodal Transformer for Emotion Recognition**|Yuanyuan Liu et.al.|[2305.02814v1](http://arxiv.org/abs/2305.02814v1)|null|
+|**2023-05-04**|**MTLSegFormer: Multi-task Learning with Transformers for Semantic Segmentation in Precision Agriculture**|Diogo Nunes Goncalves et.al.|[2305.02813v1](http://arxiv.org/abs/2305.02813v1)|null|
+|**2023-05-04**|**Interpretable Sentence Representation with Variational Autoencoders and Attention**|Ghazi Felhi et.al.|[2305.02810v1](http://arxiv.org/abs/2305.02810v1)|null|
+|**2023-05-04**|**Little Rip, Pseudo Rip and bounce cosmology from generalized equation of state in the Universe with spatial curvature**|A. V. Timoshkin et.al.|[2305.02796v1](http://arxiv.org/abs/2305.02796v1)|null|
+|**2023-05-04**|**BranchNorm: Robustly Scaling Extremely Deep Transformers**|Yijin Liu et.al.|[2305.02790v1](http://arxiv.org/abs/2305.02790v1)|null|
+|**2023-05-04**|**Towards End-to-End Semi-Supervised Table Detection with Deformable Transformer**|Tahira Shehzadi et.al.|[2305.02769v1](http://arxiv.org/abs/2305.02769v1)|null|
+|**2023-05-04**|**The Algebraic Weak Factorisation System for Delta Lenses**|Bryce Clarke et.al.|[2305.02732v1](http://arxiv.org/abs/2305.02732v1)|null|
+|**2023-05-04**|**Avatar Knowledge Distillation: Self-ensemble Teacher Paradigm with Uncertainty**|Yuan Zhang et.al.|[2305.02722v1](http://arxiv.org/abs/2305.02722v1)|null|
+|**2023-05-04**|**Quantum Simulation for Partial Differential Equations with Physical Boundary or Interface Conditions**|Shi Jin et.al.|[2305.02710v1](http://arxiv.org/abs/2305.02710v1)|null|
+|**2023-05-04**|**Translation invariant diagonal frame decomposition for the Radon transform**|Simon Göppel et.al.|[2305.02708v1](http://arxiv.org/abs/2305.02708v1)|null|
+|**2023-05-04**|**On Vertically-Drifted First Arrival Position Distribution in Diffusion Channels**|Yen-Chi Lee et.al.|[2305.02706v1](http://arxiv.org/abs/2305.02706v1)|null|
+|**2023-05-04**|**Mixed Max-and-Min Fractional Programming for Wireless Networks**|Yannan Chen et.al.|[2305.02704v1](http://arxiv.org/abs/2305.02704v1)|null|
+|**2023-05-04**|**Impact of electric charges on chaos in magnetized  $Reissner-Nordström$  spacetimes**|Daqi Yang et.al.|[2305.02702v1](http://arxiv.org/abs/2305.02702v1)|null|
+|**2023-05-04**|**In-situ Anomaly Detection in Additive Manufacturing with Graph Neural Networks**|Sebastian Larsen et.al.|[2305.02695v1](http://arxiv.org/abs/2305.02695v1)|null|
+|**2023-05-04**|**Real-Time Neural Appearance Models**|Tizian Zeltner et.al.|[2305.02678v1](http://arxiv.org/abs/2305.02678v1)|null|
+|**2023-05-04**|**Learning Language-Specific Layers for Multilingual Machine Translation**|Telmo Pessoa Pires et.al.|[2305.02665v1](http://arxiv.org/abs/2305.02665v1)|null|
+|**2023-05-04**|**Pattern QUBOs: Algorithmic construction of 3SAT-to-QUBO transformations**|Sebastian Zielinski et.al.|[2305.02659v1](http://arxiv.org/abs/2305.02659v1)|null|
+|**2023-05-04**|**Eliminating unobservable parameters in physics models using deep learning**|C. H. Kim et.al.|[2305.02623v1](http://arxiv.org/abs/2305.02623v1)|null|
+|**2023-05-04**|**Snapshot Averaged Matrix Pencil Method (SAM) For Direction of Arrival Estimation**|Harsha A. Tanti et.al.|[2305.02617v1](http://arxiv.org/abs/2305.02617v1)|null|
+|**2023-05-04**|**A Soft Coordination Method of Heterogeneous Devices in Distribution System Voltage Control**|Licheng Wang et.al.|[2305.02596v1](http://arxiv.org/abs/2305.02596v1)|null|
+|**2023-05-04**|**Semantically Structured Image Compression via Irregular Group-Based Decoupling**|Ruoyu Feng et.al.|[2305.02586v1](http://arxiv.org/abs/2305.02586v1)|null|
+|**2023-05-04**|**On the Expressivity Role of LayerNorm in Transformers' Attention**|Shaked Brody et.al.|[2305.02582v1](http://arxiv.org/abs/2305.02582v1)|**[link](https://github.com/tech-srl/layer_norm_expressivity_role)**|
+|**2023-05-04**|**LayoutDM: Transformer-based Diffusion Model for Layout Generation**|Shang Chai et.al.|[2305.02567v1](http://arxiv.org/abs/2305.02567v1)|null|
+|**2023-05-04**|**Should ChatGPT and Bard Share Revenue with Their Data Providers? A New Business Model for the AI Era**|Dong Zhang et.al.|[2305.02555v1](http://arxiv.org/abs/2305.02555v1)|null|
+|**2023-05-04**|**Catch Missing Details: Image Reconstruction with Frequency Augmented Variational Autoencoder**|Xinmiao Lin et.al.|[2305.02541v1](http://arxiv.org/abs/2305.02541v1)|null|
+|**2023-05-04**|**Point Transformer For Coronary Artery Labeling**|Xu Wang et.al.|[2305.02533v1](http://arxiv.org/abs/2305.02533v1)|null|
+|**2023-05-04**|**Compound WKI-SP hierarchy and multiloop soliton solutions**|Xiaorui Hu et.al.|[2305.02532v1](http://arxiv.org/abs/2305.02532v1)|null|
+|**2023-05-04**|**A Primer on Security of Quantum Computing**|Swaroop Ghosh et.al.|[2305.02505v1](http://arxiv.org/abs/2305.02505v1)|null|
+|**2023-05-04**|**A Cross-direction Task Decoupling Network for Small Logo Detection**|Hou et.al.|[2305.02503v1](http://arxiv.org/abs/2305.02503v1)|null|
+|**2023-05-04**|**Self-Supervised Learning for Organs At Risk and Tumor Segmentation with Uncertainty Quantification**|Ilkin Isler et.al.|[2305.02491v1](http://arxiv.org/abs/2305.02491v1)|null|
+|**2023-05-04**|**Wavelet estimation of nonstationary spatial covariance function**|Yangyang Chen et.al.|[2305.02489v1](http://arxiv.org/abs/2305.02489v1)|null|
+|**2023-05-03**|**Transfer and Active Learning for Dissonance Detection: Addressing the Rare-Class Challenge**|Vasudha Varadarajan et.al.|[2305.02459v1](http://arxiv.org/abs/2305.02459v1)|null|
+|**2023-05-03**|**Cheaply Evaluating Inference Efficiency Metrics for Autoregressive Transformer APIs**|Deepak Narayanan et.al.|[2305.02440v1](http://arxiv.org/abs/2305.02440v1)|null|
+|**2023-05-03**|**Quantum phase transition between symmetry enriched topological phases in tensor-network states**|Lukas Haller et.al.|[2305.02432v1](http://arxiv.org/abs/2305.02432v1)|null|
+|**2023-05-03**|**Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents**|Yue Wu et.al.|[2305.02412v1](http://arxiv.org/abs/2305.02412v1)|null|
+|**2023-05-03**|**Normalizing flows for lattice gauge theory in arbitrary space-time dimension**|Ryan Abbott et.al.|[2305.02402v1](http://arxiv.org/abs/2305.02402v1)|null|
+|**2023-05-03**|**Synthetic DOmain-Targeted Augmentation (S-DOTA) Improves Model Generalization in Digital Pathology**|Sai Chowdary Gullapally et.al.|[2305.02401v1](http://arxiv.org/abs/2305.02401v1)|null|
 |**2023-05-03**|**Testing charge quantization with axion string-induced cosmic birefringence**|Weichen Winston Yin et.al.|[2305.02318v1](http://arxiv.org/abs/2305.02318v1)|null|
 |**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310v1](http://arxiv.org/abs/2305.02310v1)|null|
 |**2023-05-03**|**DynamicStereo: Consistent Dynamic Depth from Stereo Videos**|Nikita Karaev et.al.|[2305.02296v1](http://arxiv.org/abs/2305.02296v1)|null|
