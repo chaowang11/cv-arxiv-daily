@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution**|Ming Cheng et.al.|[2305.05177v1](http://arxiv.org/abs/2305.05177v1)|null|
+|**2023-05-09**|**Integrated Super-Resolution Sensing and Communication with 5G NR Waveform: Signal Processing with Uneven CPs and Experiments**|Chaoyue Zhang et.al.|[2305.05142v1](http://arxiv.org/abs/2305.05142v1)|null|
 |**2023-05-08**|**Compressed Video Quality Assessment for Super-Resolution: a Benchmark and a Quality Metric**|Evgeney Bogatyrev et.al.|[2305.04844v1](http://arxiv.org/abs/2305.04844v1)|**[link](https://github.com/evgeneybogatyrev/super-resolution-metric)**|
 |**2023-05-05**|**Neural Architecture Search for Intel Movidius VPU**|Qian Xu et.al.|[2305.03739v1](http://arxiv.org/abs/2305.03739v1)|null|
 |**2023-05-05**|**Steered Mixture-of-Experts Autoencoder Design for Real-Time Image Modelling and Denoising**|Elvira Fleig et.al.|[2305.03485v1](http://arxiv.org/abs/2305.03485v1)|null|
@@ -328,6 +330,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution**|Ming Cheng et.al.|[2305.05177v1](http://arxiv.org/abs/2305.05177v1)|null|
 |**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126v1](http://arxiv.org/abs/2305.02126v1)|null|
 |**2023-05-03**|**Efficient CNN-based Super Resolution Algorithms for mmWave Mobile Radar Imaging**|Christos Vasileiou et.al.|[2305.02092v1](http://arxiv.org/abs/2305.02092v1)|null|
 |**2023-05-03**|**A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution**|Josiah Smith et.al.|[2305.02074v1](http://arxiv.org/abs/2305.02074v1)|null|
@@ -593,10 +596,53 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**SwinIA: Self-Supervised Blind-Spot Image Denoising with Zero Convolutions**|Mikhail Papkov et.al.|[2305.05651v1](http://arxiv.org/abs/2305.05651v1)|null|
+|**2023-05-09**|**Estimation of large covariance matrices via free deconvolution: computational and statistical aspects**|Reda Chhaibi et.al.|[2305.05646v1](http://arxiv.org/abs/2305.05646v1)|null|
+|**2023-05-09**|**Generalized group algebras and generalized measure algebras on non-discrete locally compact abelian groups**|Jyunji Inoue et.al.|[2305.05617v1](http://arxiv.org/abs/2305.05617v1)|null|
+|**2023-05-09**|**AudioSlots: A slot-centric generative model for audio separation**|Pradyumna Reddy et.al.|[2305.05591v1](http://arxiv.org/abs/2305.05591v1)|null|
+|**2023-05-09**|**Group Activity Recognition via Dynamic Composition and Interaction**|Youliang Zhang et.al.|[2305.05583v1](http://arxiv.org/abs/2305.05583v1)|null|
+|**2023-05-09**|**Engineering a Formally Verified Automated Bug Finder**|Arthur Correnson et.al.|[2305.05570v1](http://arxiv.org/abs/2305.05570v1)|null|
+|**2023-05-09**|**Resource Dimensioning for Single-Cell Edge Video Analytics**|Jaume Anguera Peris et.al.|[2305.05568v1](http://arxiv.org/abs/2305.05568v1)|null|
+|**2023-05-09**|**Digital Transformation in the Public Administrations: a Guided Tour For Computer Scientists**|Paolo Ciancarini et.al.|[2305.05551v1](http://arxiv.org/abs/2305.05551v1)|null|
+|**2023-05-09**|**ColonMapper: topological mapping and localization for colonoscopy**|Javier Morlana et.al.|[2305.05546v1](http://arxiv.org/abs/2305.05546v1)|null|
+|**2023-05-09**|**Integrating Holistic and Local Information to Estimate Emotional Reaction Intensity**|Yini Fang et.al.|[2305.05534v1](http://arxiv.org/abs/2305.05534v1)|**[link](https://github.com/hkust-nisl/abaw5)**|
+|**2023-05-09**|**GPT Agents in Game Theory Experiments**|Fulin Guo et.al.|[2305.05516v1](http://arxiv.org/abs/2305.05516v1)|null|
+|**2023-05-09**|**BadCS: A Backdoor Attack Framework for Code search**|Shiyi Qi et.al.|[2305.05503v1](http://arxiv.org/abs/2305.05503v1)|null|
+|**2023-05-09**|**On the algebraic classification of the gravitational field in Weyl-Cartan space-times**|Sebastian Bahamonde et.al.|[2305.05501v1](http://arxiv.org/abs/2305.05501v1)|null|
+|**2023-05-09**|**Self-Supervised Anomaly Detection of Rogue Soil Moisture Sensors**|Boje Deforce et.al.|[2305.05495v1](http://arxiv.org/abs/2305.05495v1)|null|
+|**2023-05-09**|**Testing versus estimation of graph properties, revisited**|Lior Gishboliner et.al.|[2305.05487v1](http://arxiv.org/abs/2305.05487v1)|null|
+|**2023-05-09**|**Investigating the effect of sub-word segmentation on the performance of transformer language models**|Jue Hou et.al.|[2305.05480v1](http://arxiv.org/abs/2305.05480v1)|null|
+|**2023-05-09**|**Field Theory Equivalences as Spans of  $L_\infty$ -algebras**|Mehran Jalali Farahani et.al.|[2305.05473v1](http://arxiv.org/abs/2305.05473v1)|null|
+|**2023-05-09**|**Toward universal transformations of orbital angular momentum of a single photon**|Dong-Xu Chen et.al.|[2305.05467v1](http://arxiv.org/abs/2305.05467v1)|null|
+|**2023-05-09**|**The emergence of clusters in self-attention dynamics**|Borjan Geshkovski et.al.|[2305.05465v1](http://arxiv.org/abs/2305.05465v1)|null|
+|**2023-05-09**|**Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**|Nisha Huang et.al.|[2305.05464v1](http://arxiv.org/abs/2305.05464v1)|**[link](https://github.com/haha-lisa/style-a-video)**|
+|**2023-05-09**|**Multiscale Augmented Normalizing Flows for Image Compression**|Marc Windsheimer et.al.|[2305.05451v1](http://arxiv.org/abs/2305.05451v1)|null|
+|**2023-05-09**|**Attention-Based Transformer Networks for Quantum State Tomography**|Hailan Ma et.al.|[2305.05433v1](http://arxiv.org/abs/2305.05433v1)|null|
+|**2023-05-09**|**Trans-Inpainter: A Transformer Model for High Accuracy Image Inpainting from Channel State Information**|Cheng Chen et.al.|[2305.05385v1](http://arxiv.org/abs/2305.05385v1)|null|
+|**2023-05-09**|**Functors of Variance: Heuristic Naturality and Connection to Ends**|David Forsman et.al.|[2305.05361v1](http://arxiv.org/abs/2305.05361v1)|null|
+|**2023-05-09**|**Robust Beamforming Design for RIS-aided Cell-free Systems with CSI Uncertainties and Capacity-limited Backhaul**|Jiacheng Yao et.al.|[2305.05348v1](http://arxiv.org/abs/2305.05348v1)|null|
+|**2023-05-09**|**Detection of depression on social networks using transformers and ensembles**|Ilija Tavchioski et.al.|[2305.05325v1](http://arxiv.org/abs/2305.05325v1)|**[link](https://gitlab.com/teletton/diploma)**|
+|**2023-05-09**|**TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition**|Tianlun Zheng et.al.|[2305.05322v1](http://arxiv.org/abs/2305.05322v1)|**[link](https://github.com/simplify23/tps_pp)**|
+|**2023-05-09**|**On Crystal-Structure Matches in Solid-Solid Phase Transitions**|Fang-Cheng Wang et.al.|[2305.05278v1](http://arxiv.org/abs/2305.05278v1)|null|
+|**2023-05-09**|**FEL stochastic spectroscopy revealing silicon bond softening dynamics**|Dario De Angelis et.al.|[2305.05258v1](http://arxiv.org/abs/2305.05258v1)|null|
+|**2023-05-09**|**Simplicial Hopfield networks**|Thomas F Burns et.al.|[2305.05179v1](http://arxiv.org/abs/2305.05179v1)|**[link](https://github.com/tfburns/simplicial-hopfield-networks)**|
+|**2023-05-09**|**Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution**|Ming Cheng et.al.|[2305.05177v1](http://arxiv.org/abs/2305.05177v1)|null|
+|**2023-05-09**|**Fundamental Limits of Distributed Linearly Separable Computation under Cyclic Assignment**|Wenbo Huang et.al.|[2305.05143v1](http://arxiv.org/abs/2305.05143v1)|null|
+|**2023-05-08**|**Artificial Intelligence in 3GPP 5G-Advanced: A Survey**|Xingqin Lin et.al.|[2305.05092v1](http://arxiv.org/abs/2305.05092v1)|null|
+|**2023-05-08**|**Fast Conformer with Linearly Scalable Attention for Efficient Speech Recognition**|Dima Rekesh et.al.|[2305.05084v1](http://arxiv.org/abs/2305.05084v1)|null|
+|**2023-05-08**|**Recommender Systems with Generative Retrieval**|Shashank Rajput et.al.|[2305.05065v1](http://arxiv.org/abs/2305.05065v1)|null|
+|**2023-05-08**|**Coherent Wave Dynamics and Language Generation of a Generative Pre-trained Transformer**|Tao Hong et.al.|[2305.05061v1](http://arxiv.org/abs/2305.05061v1)|null|
+|**2023-05-08**|**In Honour of Ted Swart**|Stephen Gismondi et.al.|[2305.05011v1](http://arxiv.org/abs/2305.05011v1)|null|
+|**2023-05-08**|**Do Not Blindly Imitate the Teacher: Using Perturbed Loss for Knowledge Distillation**|Rongzhi Zhang et.al.|[2305.05010v1](http://arxiv.org/abs/2305.05010v1)|null|
+|**2023-05-08**|**A first Kronecker limit formula for Kleinian groups**|Zihan Miao et.al.|[2305.04996v1](http://arxiv.org/abs/2305.04996v1)|null|
+|**2023-05-08**|**Knowledge Graph Guided Semantic Evaluation of Language Models For User Trust**|Kaushik Roy et.al.|[2305.04989v1](http://arxiv.org/abs/2305.04989v1)|null|
+|**2023-05-08**|**Calculating the Gravitational Waves Emitted from High-speed Sources**|Han Yan et.al.|[2305.04969v1](http://arxiv.org/abs/2305.04969v1)|null|
+|**2023-05-08**|**Joint Moment Retrieval and Highlight Detection Via Natural Language Queries**|Richard Luo et.al.|[2305.04961v1](http://arxiv.org/abs/2305.04961v1)|**[link](https://github.com/skyline-9/visionary-vids)**|
+|**2023-05-08**|**The EarlyBIRD Catches the Bug: On Exploiting Early Layers of Encoder Models for More Efficient Code Classification**|Anastasiia Grishina et.al.|[2305.04940v1](http://arxiv.org/abs/2305.04940v1)|null|
 |**2023-05-08**|**RelPose++: Recovering 6D Poses from Sparse-view Observations**|Amy Lin et.al.|[2305.04926v1](http://arxiv.org/abs/2305.04926v1)|null|
 |**2023-05-08**|**A Frustratingly Easy Improvement for Position Embeddings via Random Padding**|Mingxu Tao et.al.|[2305.04859v1](http://arxiv.org/abs/2305.04859v1)|null|
 |**2023-05-08**|**Modulation instability, periodic anomalous wave recurrence, and blow up in the Ablowitz-Ladik lattices**|F. Coppini et.al.|[2305.04857v1](http://arxiv.org/abs/2305.04857v1)|null|
-|**2023-05-08**|**BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning**|Kishaan Jeeveswaran et.al.|[2305.04769v1](http://arxiv.org/abs/2305.04769v1)|null|
+|**2023-05-08**|**BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning**|Kishaan Jeeveswaran et.al.|[2305.04769v1](http://arxiv.org/abs/2305.04769v1)|**[link](https://github.com/neurai-lab/birt)**|
 |**2023-05-08**|**Toeplitz Neural Network for Sequence Modeling**|Zhen Qin et.al.|[2305.04749v1](http://arxiv.org/abs/2305.04749v1)|**[link](https://github.com/opennlplab/tnn)**|
 |**2023-05-08**|**Onsager matrix for finite-time and weak processes**|Pierre Nazé et.al.|[2305.04739v1](http://arxiv.org/abs/2305.04739v1)|null|
 |**2023-05-08**|**Understanding Gaussian Attention Bias of Vision Transformers Using Effective Receptive Fields**|Bum Jun Kim et.al.|[2305.04722v1](http://arxiv.org/abs/2305.04722v1)|null|
@@ -5084,6 +5130,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**Trans-Inpainter: A Transformer Model for High Accuracy Image Inpainting from Channel State Information**|Cheng Chen et.al.|[2305.05385v1](http://arxiv.org/abs/2305.05385v1)|null|
 |**2023-04-30**|**Quaternion Matrix Completion Using Untrained Quaternion Convolutional Neural Network for Color Image Inpainting**|Jifei Miao et.al.|[2305.00416v1](http://arxiv.org/abs/2305.00416v1)|null|
 |**2023-04-24**|**GRIG: Few-Shot Generative Residual Image Inpainting**|Wanglong Lu et.al.|[2304.12035v1](http://arxiv.org/abs/2304.12035v1)|null|
 |**2023-04-23**|**Segment Anything in Non-Euclidean Domains: Challenges and Opportunities**|Yongcheng Jing et.al.|[2304.11595v1](http://arxiv.org/abs/2304.11595v1)|null|
