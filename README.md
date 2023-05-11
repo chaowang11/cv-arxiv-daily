@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Propagation Modeling for Physically Large Arrays: Measurements and Multipath Component Visibility**|Thomas Wilding et.al.|[2305.05958v1](http://arxiv.org/abs/2305.05958v1)|null|
+|**2023-05-10**|**Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks**|Yunshan Zhong et.al.|[2305.05888v1](http://arxiv.org/abs/2305.05888v1)|null|
+|**2023-05-10**|**Reference-based OCT Angiogram Super-resolution with Learnable Texture Generation**|Yuyan Ruan et.al.|[2305.05835v1](http://arxiv.org/abs/2305.05835v1)|null|
+|**2023-05-09**|**Tight information bounds for spontaneous emission lifetime resolution of quantum sources with varied spectral purity**|Cheyenne S. Mitchell et.al.|[2305.05798v1](http://arxiv.org/abs/2305.05798v1)|null|
 |**2023-05-09**|**Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution**|Ming Cheng et.al.|[2305.05177v1](http://arxiv.org/abs/2305.05177v1)|null|
 |**2023-05-09**|**Integrated Super-Resolution Sensing and Communication with 5G NR Waveform: Signal Processing with Uneven CPs and Experiments**|Chaoyue Zhang et.al.|[2305.05142v1](http://arxiv.org/abs/2305.05142v1)|null|
 |**2023-05-08**|**Compressed Video Quality Assessment for Super-Resolution: a Benchmark and a Quality Metric**|Evgeney Bogatyrev et.al.|[2305.04844v1](http://arxiv.org/abs/2305.04844v1)|**[link](https://github.com/evgeneybogatyrev/super-resolution-metric)**|
@@ -596,6 +600,53 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**RECKONING: Reasoning through Dynamic Knowledge Encoding**|Zeming Chen et.al.|[2305.06349v1](http://arxiv.org/abs/2305.06349v1)|null|
+|**2023-05-10**|**Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception**|Hassan Akbari et.al.|[2305.06324v1](http://arxiv.org/abs/2305.06324v1)|null|
+|**2023-05-10**|**From Lindblad master equations to Langevin dynamics and back**|Michele Coppola et.al.|[2305.06312v1](http://arxiv.org/abs/2305.06312v1)|null|
+|**2023-05-10**|**Unitary equivalence of the twisted quantum states**|N. V. Filina et.al.|[2305.06293v1](http://arxiv.org/abs/2305.06293v1)|null|
+|**2023-05-10**|**Some more Weyl asymptotics for functional difference operators with potential**|Yaozhong W. Qiu et.al.|[2305.06281v1](http://arxiv.org/abs/2305.06281v1)|null|
+|**2023-05-10**|**A Multi-modal Garden Dataset and Hybrid 3D Dense Reconstruction Framework Based on Panoramic Stereo Images for a Trimming Robot**|Can Pu et.al.|[2305.06278v1](http://arxiv.org/abs/2305.06278v1)|**[link](https://github.com/canpu999/trimbot-wageningen-slam-dataset)**|
+|**2023-05-10**|**Pseudo-reversing and its application for multiscaling of manifold-valued data**|Wael Mattar et.al.|[2305.06261v1](http://arxiv.org/abs/2305.06261v1)|null|
+|**2023-05-10**|**Explainable Knowledge Distillation for On-device Chest X-Ray Classification**|Chakkrit Termritthikun et.al.|[2305.06244v1](http://arxiv.org/abs/2305.06244v1)|null|
+|**2023-05-10**|**Think Twice before Driving: Towards Scalable Decoders for End-to-End Autonomous Driving**|Xiaosong Jia et.al.|[2305.06242v1](http://arxiv.org/abs/2305.06242v1)|**[link](https://github.com/opendrivelab/thinktwice)**|
+|**2023-05-10**|**Precise determination of decay rates for  $η_c \to γγ$ ,  $J/ψ\to γη_c$  and  $J/ψ\to η_c e^+e^-$  from lattice QCD**|Brian Colquhoun et.al.|[2305.06231v1](http://arxiv.org/abs/2305.06231v1)|null|
+|**2023-05-10**|**Is incoherence required for sustainability?**|Olivier Hamant et.al.|[2305.06220v1](http://arxiv.org/abs/2305.06220v1)|null|
+|**2023-05-10**|**Equality of the Hilbert Hamiltonian and the canonical Hamiltonian for gauge theories in a static spacetime**|H. Arthur Weldon et.al.|[2305.06209v1](http://arxiv.org/abs/2305.06209v1)|null|
+|**2023-05-10**|**Weighted Radon transforms of vector fields, with applications to magnetoacoustoelectric tomography**|L. Kunyansky et.al.|[2305.06192v1](http://arxiv.org/abs/2305.06192v1)|null|
+|**2023-05-10**|**The Cauchy problem for the (2+1) integrable nonlinear Schrödinger equation**|L. P. Nizhnik et.al.|[2305.06182v1](http://arxiv.org/abs/2305.06182v1)|null|
+|**2023-05-10**|**Shape Formation and Locomotion with Joint Movements in the Amoebot Model**|Andreas Padalkin et.al.|[2305.06146v1](http://arxiv.org/abs/2305.06146v1)|null|
+|**2023-05-10**|**CrudeBERT: Applying Economic Theory towards fine-tuning Transformer-based Sentiment Analysis Models to the Crude Oil Market**|Himmet Kaplan et.al.|[2305.06140v1](http://arxiv.org/abs/2305.06140v1)|null|
+|**2023-05-10**|**Crank-Nicolson schemes for sub-diffusion equations with nonsingular and singular source terms in time**|Han Zhou et.al.|[2305.06138v1](http://arxiv.org/abs/2305.06138v1)|null|
+|**2023-05-10**|**Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era**|Chenghao Li et.al.|[2305.06131v1](http://arxiv.org/abs/2305.06131v1)|null|
+|**2023-05-10**|**Let It TEE: Asynchronous Byzantine Atomic Broadcast with  $n \geq 2f+1$ **|Marc Leinweber et.al.|[2305.06123v1](http://arxiv.org/abs/2305.06123v1)|null|
+|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121v1](http://arxiv.org/abs/2305.06121v1)|null|
+|**2023-05-10**|**VTPNet for 3D deep learning on point cloud**|Wei Zhou et.al.|[2305.06115v1](http://arxiv.org/abs/2305.06115v1)|null|
+|**2023-05-10**|**Pressure-induced color change arising from transformation between intra- and inter-band transitions in LuH $_{2\pm x}$ N $_{y}$ **|Zhe Liu et.al.|[2305.06103v1](http://arxiv.org/abs/2305.06103v1)|null|
+|**2023-05-10**|**Towards Better Graph Representation Learning with Parameterized Decomposition & Filtering**|Mingqi Yang et.al.|[2305.06102v1](http://arxiv.org/abs/2305.06102v1)|**[link](https://github.com/qslim/pdf)**|
+|**2023-05-10**|**PAI at SemEval-2023 Task 2: A Universal System for Named Entity Recognition with External Entity Information**|Long Ma et.al.|[2305.06099v1](http://arxiv.org/abs/2305.06099v1)|**[link](https://github.com/diqiuzhuanzhuan/semeval-2023)**|
+|**2023-05-10**|**Computation-Efficient Backscatter-Blessed MEC with User Reciprocity**|Bowen Gu et.al.|[2305.06094v1](http://arxiv.org/abs/2305.06094v1)|null|
+|**2023-05-10**|**XTab: Cross-table Pretraining for Tabular Transformers**|Bingzhao Zhu et.al.|[2305.06090v1](http://arxiv.org/abs/2305.06090v1)|**[link](https://github.com/bingzhaozhu/xtab)**|
+|**2023-05-10**|**Enhancing Quantum Support Vector Machines through Variational Kernel Training**|Nouhaila Innan et.al.|[2305.06063v1](http://arxiv.org/abs/2305.06063v1)|null|
+|**2023-05-10**|**A robust explanation of CMB anomalies with a new formulation of inflationary quantum fluctuations**|K. Sravan Kumar et.al.|[2305.06057v1](http://arxiv.org/abs/2305.06057v1)|null|
+|**2023-05-10**|**Towards a unitary formulation of quantum field theory in curved spacetime I: the case of de Sitter spacetime**|K. Sravan Kumar et.al.|[2305.06046v1](http://arxiv.org/abs/2305.06046v1)|null|
+|**2023-05-10**|**Brain Tumor Detection using Swin Transformers**|Prateek A. Meshram et.al.|[2305.06025v1](http://arxiv.org/abs/2305.06025v1)|null|
+|**2023-05-10**|**MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis**|Jianbin Zheng et.al.|[2305.05992v1](http://arxiv.org/abs/2305.05992v1)|null|
+|**2023-05-10**|**Enhancing the Performance of Transformer-based Spiking Neural Networks by Improved Downsampling with Precise Gradient Backpropagation**|Chenlin Zhou et.al.|[2305.05954v1](http://arxiv.org/abs/2305.05954v1)|**[link](https://github.com/zhouchenlin2096/spikingformer-cml)**|
+|**2023-05-10**|**Multi-Path Transformer is Better: A Case Study on Neural Machine Translation**|Ye Lin et.al.|[2305.05948v1](http://arxiv.org/abs/2305.05948v1)|null|
+|**2023-05-10**|**Structured Kalman Filter for Time Scale Generation in Atomic Clock Ensembles**|Yuyue Yan et.al.|[2305.05894v1](http://arxiv.org/abs/2305.05894v1)|null|
+|**2023-05-10**|**Revisit the entanglement entropy with gravitational anomaly**|Peng-Zhang He et.al.|[2305.05892v1](http://arxiv.org/abs/2305.05892v1)|null|
+|**2023-05-10**|**ChinaOpen: A Dataset for Open-world Multimodal Learning**|Aozhu Chen et.al.|[2305.05880v1](http://arxiv.org/abs/2305.05880v1)|null|
+|**2023-05-10**|**Generative Steganographic Flow**|Ping Wei et.al.|[2305.05838v1](http://arxiv.org/abs/2305.05838v1)|null|
+|**2023-05-10**|**Inclusive FinTech Lending via Contrastive Learning and Domain Adaptation**|Xiyang Hu et.al.|[2305.05827v1](http://arxiv.org/abs/2305.05827v1)|null|
+|**2023-05-09**|**Change Detection Methods for Remote Sensing in the Last Decade: A Comprehensive Review**|Guangliang Cheng et.al.|[2305.05813v1](http://arxiv.org/abs/2305.05813v1)|null|
+|**2023-05-09**|**Towards an Automatic Optimisation Model Generator Assisted with Generative Pre-trained Transformer**|Boris Almonacid et.al.|[2305.05811v1](http://arxiv.org/abs/2305.05811v1)|null|
+|**2023-05-09**|**PT-Symmetric Quantum Field Theory in Path Integral Formalism and Arbitrariness Problem**|Yi-Da Li et.al.|[2305.05809v1](http://arxiv.org/abs/2305.05809v1)|null|
+|**2023-05-09**|**Quantum Fokker-Planck structure of the Lindblad equation**|Mário J. de Oliveira et.al.|[2305.05805v1](http://arxiv.org/abs/2305.05805v1)|null|
+|**2023-05-09**|**On the Extremality of the Tensor Product of Quantum Channels**|James Miller S. T. da Silva et.al.|[2305.05795v1](http://arxiv.org/abs/2305.05795v1)|null|
+|**2023-05-09**|**Enhancing Gappy Speech Audio Signals with Generative Adversarial Networks**|Deniss Strods et.al.|[2305.05780v1](http://arxiv.org/abs/2305.05780v1)|null|
+|**2023-05-09**|**DeepTextMark: Deep Learning based Text Watermarking for Detection of Large Language Model Generated Text**|Travis Munyer et.al.|[2305.05773v1](http://arxiv.org/abs/2305.05773v1)|null|
+|**2023-05-09**|**A Simple Computation Method for the Time-Domain Voltage Waveform over a Parallel RLC Resonator Excited by a Current Distribution with Holomorphic Fourier Transform**|Brian J. Vaughn et.al.|[2305.05771v1](http://arxiv.org/abs/2305.05771v1)|null|
+|**2023-05-09**|**R7-Branes as Charge Conjugation Operators**|Markus Dierigl et.al.|[2305.05689v1](http://arxiv.org/abs/2305.05689v1)|null|
 |**2023-05-09**|**SwinIA: Self-Supervised Blind-Spot Image Denoising with Zero Convolutions**|Mikhail Papkov et.al.|[2305.05651v1](http://arxiv.org/abs/2305.05651v1)|null|
 |**2023-05-09**|**Estimation of large covariance matrices via free deconvolution: computational and statistical aspects**|Reda Chhaibi et.al.|[2305.05646v1](http://arxiv.org/abs/2305.05646v1)|null|
 |**2023-05-09**|**Generalized group algebras and generalized measure algebras on non-discrete locally compact abelian groups**|Jyunji Inoue et.al.|[2305.05617v1](http://arxiv.org/abs/2305.05617v1)|null|
@@ -5130,6 +5181,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Multi-stage Progressive Reasoning for Dunhuang Murals Inpainting**|Wenjie Liu et.al.|[2305.05902v1](http://arxiv.org/abs/2305.05902v1)|null|
 |**2023-05-09**|**Trans-Inpainter: A Transformer Model for High Accuracy Image Inpainting from Channel State Information**|Cheng Chen et.al.|[2305.05385v1](http://arxiv.org/abs/2305.05385v1)|null|
 |**2023-04-30**|**Quaternion Matrix Completion Using Untrained Quaternion Convolutional Neural Network for Color Image Inpainting**|Jifei Miao et.al.|[2305.00416v1](http://arxiv.org/abs/2305.00416v1)|null|
 |**2023-04-24**|**GRIG: Few-Shot Generative Residual Image Inpainting**|Wanglong Lu et.al.|[2304.12035v1](http://arxiv.org/abs/2304.12035v1)|null|
