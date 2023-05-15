@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-12**|**Joint MR sequence optimization beats pure neural network approaches for spin-echo MRI super-resolution**|Hoai Nam Dang et.al.|[2305.07524v1](http://arxiv.org/abs/2305.07524v1)|null|
+|**2023-05-12**|**Sensing User's Channel and Location with Terahertz Extra-Large Reconfigurable Intelligent Surface under Hybrid-Field Beam Squint Effect**|Zhuoran Li et.al.|[2305.07184v1](http://arxiv.org/abs/2305.07184v1)|null|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
 |**2023-05-12**|**Can SAM Boost Video Super-Resolution?**|Zhihe Lu et.al.|[2305.06524v2](http://arxiv.org/abs/2305.06524v2)|null|
 |**2023-05-10**|**Propagation Modeling for Physically Large Arrays: Measurements and Multipath Component Visibility**|Thomas Wilding et.al.|[2305.05958v1](http://arxiv.org/abs/2305.05958v1)|null|
@@ -604,6 +606,44 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-12**|**Jointly optimization of passenger-route assignment and transfer incentivization scheme for a customized modular bus system**|Jianbiao Wang et.al.|[2305.07616v1](http://arxiv.org/abs/2305.07616v1)|null|
+|**2023-05-12**|**Spider GAN: Leveraging Friendly Neighbors to Accelerate GAN Training**|Siddarth Asokan et.al.|[2305.07613v1](http://arxiv.org/abs/2305.07613v1)|null|
+|**2023-05-12**|**Quasi-free isomorphisms of second quantisation algebras and modular theory**|Roberto Conti et.al.|[2305.07606v1](http://arxiv.org/abs/2305.07606v1)|null|
+|**2023-05-12**|**ViT Unified: Joint Fingerprint Recognition and Presentation Attack Detection**|Steven A. Grosz et.al.|[2305.07602v1](http://arxiv.org/abs/2305.07602v1)|null|
+|**2023-05-12**|**Shielding collisions of ultracold CaF molecules with static electric fields**|Bijit Mukherjee et.al.|[2305.07600v1](http://arxiv.org/abs/2305.07600v1)|null|
+|**2023-05-12**|**RHINO: Rotated DETR with Dynamic Denoising via Hungarian Matching for Oriented Object Detection**|Hakjin Lee et.al.|[2305.07598v1](http://arxiv.org/abs/2305.07598v1)|null|
+|**2023-05-12**|**Improving the Understanding of Subsurface Structure and Dynamics of Solar Active Regions (A white paper submitted to the decadal survey for solar and space Physics (Heliophysics) -- SSPH 2024-2033)**|S. C. Tripathy et.al.|[2305.07585v1](http://arxiv.org/abs/2305.07585v1)|null|
+|**2023-05-12**|**MoMo: Momentum Models for Adaptive Learning Rates**|Fabian Schaipp et.al.|[2305.07583v1](http://arxiv.org/abs/2305.07583v1)|null|
+|**2023-05-12**|**AGFormer: Efficient Graph Representation with Anchor-Graph Transformer**|Bo Jiang et.al.|[2305.07521v1](http://arxiv.org/abs/2305.07521v1)|null|
+|**2023-05-12**|**HFLIC: Human Friendly Perceptual Learned Image Compression with Reinforced Transform**|Peirong Ning et.al.|[2305.07519v1](http://arxiv.org/abs/2305.07519v1)|**[link](https://github.com/beiluo97/hflic)**|
+|**2023-05-12**|**Device-Robust Acoustic Scene Classification via Impulse Response Augmentation**|Tobias Morocutti et.al.|[2305.07499v1](http://arxiv.org/abs/2305.07499v1)|**[link](https://github.com/themoro/diraugmentation)**|
+|**2023-05-12**|**Comprehensive Solution Program Centric Pretraining for Table-and-Text Hybrid Numerical Reasoning**|Qianying Liu et.al.|[2305.07475v1](http://arxiv.org/abs/2305.07475v1)|null|
+|**2023-05-12**|**Inverse wave-number-dependent source problems for the Helmholtz equation**|Hongxia Guo et.al.|[2305.07459v1](http://arxiv.org/abs/2305.07459v1)|null|
+|**2023-05-12**|**A Lightweight Domain Adversarial Neural Network Based on Knowledge Distillation for EEG-based Cross-subject Emotion Recognition**|Zhe Wang et.al.|[2305.07446v1](http://arxiv.org/abs/2305.07446v1)|null|
+|**2023-05-12**|**Kato meets Bakry-Émery**|Gilles Carron et.al.|[2305.07428v1](http://arxiv.org/abs/2305.07428v1)|null|
+|**2023-05-12**|**A Multidimensional Graph Fourier Transformation Neural Network for Vehicle Trajectory Prediction**|Marion Neumeier et.al.|[2305.07416v1](http://arxiv.org/abs/2305.07416v1)|null|
+|**2023-05-12**|**Color Deconvolution applied to Domain Adaptation in HER2 histopathological images**|David Anglada-Rotger et.al.|[2305.07404v1](http://arxiv.org/abs/2305.07404v1)|null|
+|**2023-05-12**|**Robust score matching for compositional data**|Janice L. Scealy et.al.|[2305.07349v1](http://arxiv.org/abs/2305.07349v1)|null|
+|**2023-05-12**|**Continuous-time extensions of discrete-time cocycles**|Robin Chemnitz et.al.|[2305.07338v1](http://arxiv.org/abs/2305.07338v1)|null|
+|**2023-05-12**|**Echoes: a 200 GOPS/W Frequency Domain SoC with FFT Processor and I2S DSP for Flexible Data Acquisition from Microphone Arrays**|Mattia Sinigaglia et.al.|[2305.07325v1](http://arxiv.org/abs/2305.07325v1)|null|
+|**2023-05-12**|**Matching Statistics speed up BWT construction**|Francesco Masillo et.al.|[2305.07319v1](http://arxiv.org/abs/2305.07319v1)|null|
+|**2023-05-12**|**Self-Learning Symmetric Multi-view Probabilistic Clustering**|Junjie Liu et.al.|[2305.07307v1](http://arxiv.org/abs/2305.07307v1)|null|
+|**2023-05-12**|**Multi-Relational Hyperbolic Word Embeddings from Natural Language Definitions**|Marco Valentino et.al.|[2305.07303v1](http://arxiv.org/abs/2305.07303v1)|null|
+|**2023-05-12**|**SSD-MonoDTR: Supervised Scale-constrained Deformable Transformer for Monocular 3D Object Detection**|Xuan He et.al.|[2305.07270v1](http://arxiv.org/abs/2305.07270v1)|**[link](https://github.com/mikasa3lili/ssd-monodetr)**|
+|**2023-05-12**|**The Potential Inversion Theorem**|Alec Shelley et.al.|[2305.07260v1](http://arxiv.org/abs/2305.07260v1)|null|
+|**2023-05-12**|**Better speech synthesis through scaling**|James Betker et.al.|[2305.07243v1](http://arxiv.org/abs/2305.07243v1)|**[link](https://github.com/neonbjb/tortoise-tts)**|
+|**2023-05-12**|**Message-Passing Neural Quantum States for the Homogeneous Electron Gas**|Gabriel Pescia et.al.|[2305.07240v1](http://arxiv.org/abs/2305.07240v1)|null|
+|**2023-05-12**|**T-former: An Efficient Transformer for Image Inpainting**|Ye Deng et.al.|[2305.07239v1](http://arxiv.org/abs/2305.07239v1)|**[link](https://github.com/dengyecode/t-former_image_inpainting)**|
+|**2023-05-12**|**Making Differential Privacy Work for Census Data Users**|Cory McCartan et.al.|[2305.07208v1](http://arxiv.org/abs/2305.07208v1)|null|
+|**2023-05-12**|**MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers**|Lili Yu et.al.|[2305.07185v1](http://arxiv.org/abs/2305.07185v1)|null|
+|**2023-05-12**|**Boosting Value Decomposition via Unit-Wise Attentive State Representation for Cooperative Multi-Agent Reinforcement Learning**|Qingpeng Zhao et.al.|[2305.07182v1](http://arxiv.org/abs/2305.07182v1)|null|
+|**2023-05-11**|**OneCAD: One Classifier for All image Datasets using multimodal learning**|Shakti N. Wadekar et.al.|[2305.07167v1](http://arxiv.org/abs/2305.07167v1)|null|
+|**2023-05-11**|**A new version of the adaptive fast Gauss transform for discrete and continuous sources**|Leslie Greengard et.al.|[2305.07165v1](http://arxiv.org/abs/2305.07165v1)|null|
+|**2023-05-11**|**Surgical tool classification and localization: results and methods from the MICCAI 2022 SurgToolLoc challenge**|Aneeq Zia et.al.|[2305.07152v1](http://arxiv.org/abs/2305.07152v1)|null|
+|**2023-05-11**|**Graph Neural Network for Accurate and Low-complexity SAR ATR**|Bingyi Zhang et.al.|[2305.07119v1](http://arxiv.org/abs/2305.07119v1)|null|
+|**2023-05-11**|**Salient Mask-Guided Vision Transformer for Fine-Grained Classification**|Dmitry Demidov et.al.|[2305.07102v1](http://arxiv.org/abs/2305.07102v1)|**[link](https://github.com/demidovd98/sm-vit)**|
+|**2023-05-11**|**IceCube: Neutrinos from Active Galaxies**|Francis Halzen et.al.|[2305.07086v1](http://arxiv.org/abs/2305.07086v1)|null|
+|**2023-05-11**|**Natural Occurrence of Fractional Derivatives in Physics**|Sverre Holm et.al.|[2305.07074v1](http://arxiv.org/abs/2305.07074v1)|null|
 |**2023-05-11**|**EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention**|Xinyu Liu et.al.|[2305.07027v1](http://arxiv.org/abs/2305.07027v1)|**[link](https://github.com/microsoft/cream)**|
 |**2023-05-11**|**SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**|Weihao Cheng et.al.|[2305.07024v1](http://arxiv.org/abs/2305.07024v1)|**[link](https://github.com/xt4d/sparsegnv)**|
 |**2023-05-11**|**A General-Purpose Multilingual Document Encoder**|Onur Galoğlu et.al.|[2305.07016v1](http://arxiv.org/abs/2305.07016v1)|**[link](https://github.com/ogaloglu/pre-training-multilingual-document-encoders)**|
@@ -5232,6 +5272,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-12**|**T-former: An Efficient Transformer for Image Inpainting**|Ye Deng et.al.|[2305.07239v1](http://arxiv.org/abs/2305.07239v1)|**[link](https://github.com/dengyecode/t-former_image_inpainting)**|
 |**2023-05-10**|**Multi-stage Progressive Reasoning for Dunhuang Murals Inpainting**|Wenjie Liu et.al.|[2305.05902v1](http://arxiv.org/abs/2305.05902v1)|null|
 |**2023-05-09**|**Trans-Inpainter: A Transformer Model for High Accuracy Image Inpainting from Channel State Information**|Cheng Chen et.al.|[2305.05385v1](http://arxiv.org/abs/2305.05385v1)|null|
 |**2023-04-30**|**Quaternion Matrix Completion Using Untrained Quaternion Convolutional Neural Network for Color Image Inpainting**|Jifei Miao et.al.|[2305.00416v1](http://arxiv.org/abs/2305.00416v1)|null|
