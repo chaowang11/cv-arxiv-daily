@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Plasmonic photoconductive terahertz focal-plane array with pixel super-resolution**|Xurong Li et.al.|[2305.09225v1](http://arxiv.org/abs/2305.09225v1)|null|
+|**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995v1](http://arxiv.org/abs/2305.08995v1)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585v1](http://arxiv.org/abs/2305.08585v1)|null|
 |**2023-05-15**|**Screentone-Aware Manga Super-Resolution Using DeepLearning**|Chih-Yuan Yao et.al.|[2305.08325v1](http://arxiv.org/abs/2305.08325v1)|null|
 |**2023-05-15**|**First-principles study of the optical properties of BaMoO3/SrHfO3 hyperbolic metamaterials**|Jonathan Gjerde et.al.|[2305.08282v1](http://arxiv.org/abs/2305.08282v1)|null|
@@ -356,7 +358,7 @@
 |**2023-04-18**|**Quantum Annealing for Single Image Super-Resolution**|Han Yao Choong et.al.|[2304.08924v1](http://arxiv.org/abs/2304.08924v1)|null|
 |**2023-04-14**|**DIPNet: Efficiency Distillation and Iterative Pruning for Image Super-Resolution**|Lei Yu et.al.|[2304.07018v1](http://arxiv.org/abs/2304.07018v1)|null|
 |**2023-04-17**|**L1BSR: Exploiting Detector Overlap for Self-Supervised Single-Image Super-Resolution of Sentinel-2 L1B Imagery**|Ngoc Long Nguyen et.al.|[2304.06871v2](http://arxiv.org/abs/2304.06871v2)|null|
-|**2023-04-13**|**CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input**|Senmao Tian et.al.|[2304.06454v1](http://arxiv.org/abs/2304.06454v1)|null|
+|**2023-04-13**|**CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input**|Senmao Tian et.al.|[2304.06454v1](http://arxiv.org/abs/2304.06454v1)|**[link](https://github.com/Sheldon04/CABM-pytorch)**|
 |**2023-04-13**|**Cross-View Hierarchy Network for Stereo Image Super-Resolution**|Wenbin Zou et.al.|[2304.06236v1](http://arxiv.org/abs/2304.06236v1)|null|
 |**2023-04-20**|**Hyperspectral Image Super-Resolution via Dual-domain Network Based on Hybrid Convolution**|Tingting Liu et.al.|[2304.04589v4](http://arxiv.org/abs/2304.04589v4)|null|
 |**2023-04-07**|**Better "CMOS" Produces Clearer Images: Learning Space-Variant Blur Estimation for Blind Image Super-Resolution**|Xuhai Chen et.al.|[2304.03542v1](http://arxiv.org/abs/2304.03542v1)|null|
@@ -611,6 +613,50 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Understanding 3D Object Interaction from a Single Image**|Shengyi Qian et.al.|[2305.09664v1](http://arxiv.org/abs/2305.09664v1)|null|
+|**2023-05-16**|**Prompt-Tuning Decision Transformer with Preference Ranking**|Shengchao Hu et.al.|[2305.09648v1](http://arxiv.org/abs/2305.09648v1)|null|
+|**2023-05-16**|**Expressiveness Remarks for Denoising Diffusion Models and Samplers**|Francisco Vargas et.al.|[2305.09605v1](http://arxiv.org/abs/2305.09605v1)|null|
+|**2023-05-16**|**Deep Fourier Residual method for solving time-harmonic Maxwell's equations**|Jamie M. Taylor et.al.|[2305.09578v1](http://arxiv.org/abs/2305.09578v1)|null|
+|**2023-05-16**|**Ray-Patch: An Efficient Decoder for Light Field Transformers**|T. B. Martins et.al.|[2305.09566v1](http://arxiv.org/abs/2305.09566v1)|null|
+|**2023-05-16**|**Robust and lightweight audio fingerprint for Automatic Content Recognition**|Anoubhav Agarwaal et.al.|[2305.09559v1](http://arxiv.org/abs/2305.09559v1)|null|
+|**2023-05-16**|**Adapting Sentence Transformers for the Aviation Domain**|Liya Wang et.al.|[2305.09556v1](http://arxiv.org/abs/2305.09556v1)|null|
+|**2023-05-16**|**Life of PII -- A PII Obfuscation Transformer**|Ajinkya Deshmukh et.al.|[2305.09550v1](http://arxiv.org/abs/2305.09550v1)|null|
+|**2023-05-16**|**NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer**|Yun Liu et.al.|[2305.09533v1](http://arxiv.org/abs/2305.09533v1)|null|
+|**2023-05-16**|**DLUE: Benchmarking Document Language Understanding**|Ruoxi Xu et.al.|[2305.09520v1](http://arxiv.org/abs/2305.09520v1)|null|
+|**2023-05-16**|**Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis**|Yue Deng et.al.|[2305.09509v1](http://arxiv.org/abs/2305.09509v1)|**[link](https://github.com/damo-nlp-sg/bgca)**|
+|**2023-05-16**|**The Period Distribution of Hot Jupiters is Not Dependent on Host Star Metallicity**|Samuel W. Yee et.al.|[2305.09488v1](http://arxiv.org/abs/2305.09488v1)|null|
+|**2023-05-16**|**Probabilistic Distance-Based Outlier Detection**|David Muhr et.al.|[2305.09446v1](http://arxiv.org/abs/2305.09446v1)|null|
+|**2023-05-16**|**MPI-rical: Data-Driven MPI Distributed Parallelism Assistance with Transformers**|Nadav Schneider et.al.|[2305.09438v1](http://arxiv.org/abs/2305.09438v1)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rical)**|
+|**2023-05-16**|**Lie symmetry classification for the 1+1 and 1+2 generalized Zoomeron equations**|Andronikos Paliathanasis et.al.|[2305.09416v1](http://arxiv.org/abs/2305.09416v1)|null|
+|**2023-05-16**|**Transformational Supervisor Localization**|Sander Thuijsman et.al.|[2305.09384v1](http://arxiv.org/abs/2305.09384v1)|null|
+|**2023-05-16**|**Optimal Control of McKean-Vlasov equations with controlled stochasticity**|Luca Di Persio et.al.|[2305.09379v1](http://arxiv.org/abs/2305.09379v1)|null|
+|**2023-05-16**|**GIFT: Graph-Induced Fine-Tuning for Multi-Party Conversation Understanding**|Jia-Chen Gu et.al.|[2305.09360v1](http://arxiv.org/abs/2305.09360v1)|null|
+|**2023-05-16**|**Control of distributed-parameter systems using normal forms: An introduction**|Nicole Gehring et.al.|[2305.09354v1](http://arxiv.org/abs/2305.09354v1)|null|
+|**2023-05-16**|**Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token**|Jinsong Shi et.al.|[2305.09353v1](http://arxiv.org/abs/2305.09353v1)|**[link](https://github.com/srache/tempqt)**|
+|**2023-05-16**|**Exploring the Impact of Layer Normalization for Zero-shot Neural Machine Translation**|Zhuoyuan Mao et.al.|[2305.09312v1](http://arxiv.org/abs/2305.09312v1)|null|
+|**2023-05-16**|**On mean elements in artificial satellite theory**|Martin Lara et.al.|[2305.09303v1](http://arxiv.org/abs/2305.09303v1)|null|
+|**2023-05-16**|**Dimension-free  $L^p$  estimates for higher order maximal Riesz transforms in terms of the Riesz transforms: the case of all orders**|Maciej Kucharski et.al.|[2305.09279v1](http://arxiv.org/abs/2305.09279v1)|null|
+|**2023-05-16**|**Noise robust neural network architecture**|Xiong Yunuo et.al.|[2305.09276v1](http://arxiv.org/abs/2305.09276v1)|null|
+|**2023-05-16**|**Plasmonic photoconductive terahertz focal-plane array with pixel super-resolution**|Xurong Li et.al.|[2305.09225v1](http://arxiv.org/abs/2305.09225v1)|null|
+|**2023-05-16**|**CB-HVTNet: A channel-boosted hybrid vision transformer network for lymphocyte assessment in histopathological images**|Momina Liaqat Ali et.al.|[2305.09211v1](http://arxiv.org/abs/2305.09211v1)|null|
+|**2023-05-16**|**Empirical Analysis of the Inductive Bias of Recurrent Neural Networks by Discrete Fourier Transform of Output Sequences**|Taiga Ishii et.al.|[2305.09178v1](http://arxiv.org/abs/2305.09178v1)|null|
+|**2023-05-16**|**Higher-order Klein bottle topological insulator in three-dimensional acoustic crystals**|Yu-Liang Tao et.al.|[2305.09174v1](http://arxiv.org/abs/2305.09174v1)|null|
+|**2023-05-16**|**Style Transfer Enabled Sim2Real Framework for Efficient Learning of Robotic Ultrasound Image Analysis Using Simulated Data**|Keyu Li et.al.|[2305.09169v1](http://arxiv.org/abs/2305.09169v1)|null|
+|**2023-05-16**|**Transmutation operators and complete systems of solutions for the radial Bicomplex Vekua equation**|Víctor A. Vicente-Benítez et.al.|[2305.09150v1](http://arxiv.org/abs/2305.09150v1)|null|
+|**2023-05-16**|**TG-Critic: A Timbre-Guided Model for Reference-Independent Singing Evaluation**|Xiaoheng Sun et.al.|[2305.09127v1](http://arxiv.org/abs/2305.09127v1)|null|
+|**2023-05-16**|**A Conditional Denoising Diffusion Probabilistic Model for Radio Interferometric Image Reconstruction**|Ruoqi Wang et.al.|[2305.09121v1](http://arxiv.org/abs/2305.09121v1)|null|
+|**2023-05-16**|**Smooth Robustness Measures for Symbolic Control Via Signal Temporal Logic**|Shirantha Welikala et.al.|[2305.09116v1](http://arxiv.org/abs/2305.09116v1)|null|
+|**2023-05-16**|**Sharp maximal function estimates for Hilbert transforms along monomial curves in higher dimensions**|Renhui Wan et.al.|[2305.09110v1](http://arxiv.org/abs/2305.09110v1)|null|
+|**2023-05-16**|**Is a Video worth  $n\times n$  Images? A Highly Efficient Approach to Transformer-based Video Question Answering**|Chenyang Lyu et.al.|[2305.09107v1](http://arxiv.org/abs/2305.09107v1)|null|
+|**2023-05-16**|**An Improved QFT-Based Quantum Comparator and Extended Modular Arithmetic Using One Ancilla Qubit**|Yewei Yuan et.al.|[2305.09106v1](http://arxiv.org/abs/2305.09106v1)|null|
+|**2023-05-16**|**Symbolic determinant construction of perturbative expansions**|Ibsal Assi et.al.|[2305.09103v1](http://arxiv.org/abs/2305.09103v1)|null|
+|**2023-05-16**|**PanelNet: Understanding 360 Indoor Environment via Panel Representation**|Haozheng Yu et.al.|[2305.09078v1](http://arxiv.org/abs/2305.09078v1)|null|
+|**2023-05-15**|**Self-Supervised Pretraining on Paired Sequences of fMRI Data for Transfer Learning to Brain Decoding Tasks**|Sean Paulsen et.al.|[2305.09057v1](http://arxiv.org/abs/2305.09057v1)|null|
+|**2023-05-15**|**SKI to go Faster: Accelerating Toeplitz Neural Networks via Asymmetric Kernels**|Alexander Moreno et.al.|[2305.09028v1](http://arxiv.org/abs/2305.09028v1)|null|
+|**2023-05-15**|**Phase Field Modeling and Numerical Algorithm for Two-Phase Dielectric Fluid Flows**|Jielin Yang et.al.|[2305.09020v1](http://arxiv.org/abs/2305.09020v1)|null|
+|**2023-05-15**|**LoViT: Long Video Transformer for Surgical Phase Recognition**|Yang Liu et.al.|[2305.08989v1](http://arxiv.org/abs/2305.08989v1)|null|
+|**2023-05-15**|**Numerical implementation of generalized V-line transforms on 2D vector fields and their inversions**|Gaik Ambartsoumian et.al.|[2305.08975v1](http://arxiv.org/abs/2305.08975v1)|null|
+|**2023-05-15**|**Tests of the Charge Convexity Conjecture in Caswell-Banks-Zaks Theory**|Ofer Aharony et.al.|[2305.08947v1](http://arxiv.org/abs/2305.08947v1)|null|
 |**2023-05-15**|**Attacking Perceptual Similarity Metrics**|Abhijay Ghildyal et.al.|[2305.08840v1](http://arxiv.org/abs/2305.08840v1)|null|
 |**2023-05-15**|**Neural-network quantum states for ultra-cold Fermi gases**|Jane Kim et.al.|[2305.08831v1](http://arxiv.org/abs/2305.08831v1)|null|
 |**2023-05-15**|**AutoRecon: Automated 3D Object Discovery and Reconstruction**|Yuang Wang et.al.|[2305.08810v1](http://arxiv.org/abs/2305.08810v1)|null|
