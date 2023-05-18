@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-17**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124v1](http://arxiv.org/abs/2305.10124v1)|null|
+|**2023-05-17**|**Super-Resolution Imaging via Angular Magnification**|Yi Zhou et.al.|[2305.10011v1](http://arxiv.org/abs/2305.10011v1)|null|
 |**2023-05-16**|**Plasmonic photoconductive terahertz focal-plane array with pixel super-resolution**|Xurong Li et.al.|[2305.09225v1](http://arxiv.org/abs/2305.09225v1)|null|
 |**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995v1](http://arxiv.org/abs/2305.08995v1)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585v1](http://arxiv.org/abs/2305.08585v1)|null|
@@ -613,11 +615,51 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-17**|**Accelerating Transformer Inference for Translation via Parallel Decoding**|Andrea Santilli et.al.|[2305.10427v1](http://arxiv.org/abs/2305.10427v1)|null|
+|**2023-05-17**|**Towards Multi-Layered 3D Garments Animation**|Yidi Shao et.al.|[2305.10418v1](http://arxiv.org/abs/2305.10418v1)|null|
+|**2023-05-17**|**On Consistency of Signatures Using Lasso**|Xin Guo et.al.|[2305.10413v1](http://arxiv.org/abs/2305.10413v1)|null|
+|**2023-05-17**|**PaLM 2 Technical Report**|Rohan Anil et.al.|[2305.10403v1](http://arxiv.org/abs/2305.10403v1)|null|
+|**2023-05-17**|**Logit-Based Ensemble Distribution Distillation for Robust Autoregressive Sequence Uncertainties**|Yassir Fathullah et.al.|[2305.10384v1](http://arxiv.org/abs/2305.10384v1)|null|
+|**2023-05-17**|**A 334 $μ$ W 0.158mm $^2$  ASIC for Post-Quantum Key-Encapsulation Mechanism Saber with Low-latency Striding Toom-Cook Multiplication Authors Version**|Archisman Ghosh et.al.|[2305.10368v1](http://arxiv.org/abs/2305.10368v1)|null|
+|**2023-05-17**|**Inertial-based Navigation by Polynomial Optimization: Inertial-Magnetic Attitude Estimation**|Maoran Zhu et.al.|[2305.10338v1](http://arxiv.org/abs/2305.10338v1)|null|
+|**2023-05-17**|**G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks**|Anchun Gui et.al.|[2305.10329v1](http://arxiv.org/abs/2305.10329v1)|null|
+|**2023-05-17**|**CostFormer:Cost Transformer for Cost Aggregation in Multi-view Stereo**|Weitao Chen et.al.|[2305.10320v1](http://arxiv.org/abs/2305.10320v1)|null|
+|**2023-05-17**|**Interpretation of the principles and implementation of FreeRider: A tutorial**|Chenming Zhang et.al.|[2305.10316v1](http://arxiv.org/abs/2305.10316v1)|null|
+|**2023-05-17**|**Rethinking Data Augmentation for Tabular Data in Deep Learning**|Soma Onishi et.al.|[2305.10308v1](http://arxiv.org/abs/2305.10308v1)|**[link](https://github.com/somaonishi/mtr)**|
+|**2023-05-17**|**Digital Twin for Non-Terrestrial Networks: Vision, Challenges, and Enabling Technologies**|Hayder Al-Hraishawi et.al.|[2305.10273v1](http://arxiv.org/abs/2305.10273v1)|null|
+|**2023-05-17**|**Can Deep Network Balance Copy-Move Forgery Detection and Distinguishment?**|Shizhen Chang et.al.|[2305.10247v1](http://arxiv.org/abs/2305.10247v1)|null|
+|**2023-05-17**|**A quantitative study of NLP approaches to question difficulty estimation**|Luca Benedetto et.al.|[2305.10236v1](http://arxiv.org/abs/2305.10236v1)|null|
+|**2023-05-17**|**Towards High-Value Datasets determination for data-driven development: a systematic literature review**|Anastasija Nikiforova et.al.|[2305.10234v1](http://arxiv.org/abs/2305.10234v1)|null|
+|**2023-05-17**|**People Talking and AI Listening: How Stigmatizing Language in EHR Notes Affect AI Performance**|Yizhi Liu et.al.|[2305.10201v1](http://arxiv.org/abs/2305.10201v1)|null|
+|**2023-05-17**|**Fusion-S2iGan: An Efficient and Effective Single-Stage Framework for Speech-to-Image Generation**|Zhenxing Zhang et.al.|[2305.10126v1](http://arxiv.org/abs/2305.10126v1)|null|
+|**2023-05-17**|**Adaptive aggregation of Monte Carlo augmented decomposed filters for efficient group-equivariant convolutional neural network**|Wenzhao Zhao et.al.|[2305.10110v1](http://arxiv.org/abs/2305.10110v1)|null|
+|**2023-05-17**|**Applicability of the Klein-Gordon equation for pair production in vacuum and plasma**|Haidar Al-Naseri et.al.|[2305.10106v1](http://arxiv.org/abs/2305.10106v1)|null|
+|**2023-05-17**|**Two-Stream Regression Network for Dental Implant Position Prediction**|Xinquan Yang et.al.|[2305.10044v1](http://arxiv.org/abs/2305.10044v1)|null|
+|**2023-05-17**|**Persistence of AR( $1$ ) sequences with Rademacher innovations and linear mod  $1$  transforms**|Vladislav Vysotsky et.al.|[2305.10038v1](http://arxiv.org/abs/2305.10038v1)|null|
+|**2023-05-17**|**Constructing wavelets by welding segments of smooth functions**|Maarten Jansen et.al.|[2305.10019v1](http://arxiv.org/abs/2305.10019v1)|null|
+|**2023-05-17**|**Transfer Learning for Fine-grained Classification Using Semi-supervised Learning and Visual Transformers**|Manuel Lagunas et.al.|[2305.10018v1](http://arxiv.org/abs/2305.10018v1)|null|
+|**2023-05-17**|**EfficientSCI: Densely Connected Network with Space-time Factorization for Large-scale Video Snapshot Compressive Imaging**|Lishun Wang et.al.|[2305.10006v1](http://arxiv.org/abs/2305.10006v1)|**[link](https://github.com/ucaswangls/efficientsci)**|
+|**2023-05-17**|**A Coding Theorem for Rate-Limited Quantum-Classical Optimal Transport**|Hafez M. Garmaroudi et.al.|[2305.10004v1](http://arxiv.org/abs/2305.10004v1)|null|
+|**2023-05-17**|**Algorithmic Decorrelation and Planted Clique in Dependent Random Graphs: The Case of Extra Triangles**|Guy Bresler et.al.|[2305.09995v1](http://arxiv.org/abs/2305.09995v1)|null|
+|**2023-05-17**|**River of No Return: Graph Percolation Embeddings for Efficient Knowledge Graph Reasoning**|Kai Wang et.al.|[2305.09974v1](http://arxiv.org/abs/2305.09974v1)|null|
+|**2023-05-17**|**CageViT: Convolutional Activation Guided Efficient Vision Transformer**|Hao Zheng et.al.|[2305.09924v1](http://arxiv.org/abs/2305.09924v1)|null|
+|**2023-05-17**|**Robust Power Allocation for Integrated Visible Light Positioning and Communication Networks**|Shuai Ma et.al.|[2305.09923v1](http://arxiv.org/abs/2305.09923v1)|null|
+|**2023-05-17**|**Equivariant Few-Shot Learning from Pretrained Models**|Sourya Basu et.al.|[2305.09900v1](http://arxiv.org/abs/2305.09900v1)|null|
+|**2023-05-17**|**Analyzing the Stance of Facebook Posts on Abortion Considering State-level Health and Social Compositions**|Ana Aleksandric et.al.|[2305.09889v1](http://arxiv.org/abs/2305.09889v1)|null|
+|**2023-05-17**|**A survey of the Vision Transformers and its CNN-Transformer based Variants**|Asifullah Khan et.al.|[2305.09880v1](http://arxiv.org/abs/2305.09880v1)|null|
+|**2023-05-16**|**The Tiny Triplet Finder as a Versatile Track Segment Seeding Engine for Trigger Systems**|Jinyuan Wu et.al.|[2305.09834v1](http://arxiv.org/abs/2305.09834v1)|null|
+|**2023-05-16**|**A Deep RL Approach on Task Placement and Scaling of Edge Resources for Cellular Vehicle-to-Network Service Provisioning**|Cyril Shih-Huan Hsu et.al.|[2305.09832v1](http://arxiv.org/abs/2305.09832v1)|null|
+|**2023-05-16**|**Mimetic Initialization of Self-Attention Layers**|Asher Trockman et.al.|[2305.09828v1](http://arxiv.org/abs/2305.09828v1)|null|
+|**2023-05-16**|**On Dataset Transferability in Active Learning for Transformers**|Fran Jelenić et.al.|[2305.09807v1](http://arxiv.org/abs/2305.09807v1)|**[link](https://github.com/fjelenic/al-transfer)**|
+|**2023-05-16**|**Non-Noetherian conformal scalar fields**|Eloy Ayón-Beato et.al.|[2305.09806v1](http://arxiv.org/abs/2305.09806v1)|null|
+|**2023-05-16**|**A Scalable Walsh-Hadamard Regularizer to Overcome the Low-degree Spectral Bias of Neural Networks**|Ali Gorji et.al.|[2305.09779v1](http://arxiv.org/abs/2305.09779v1)|null|
+|**2023-05-16**|**Assessment of few-hits machine learning classification algorithms for low energy physics in liquid argon detectors**|Matteo Biassoni et.al.|[2305.09744v1](http://arxiv.org/abs/2305.09744v1)|null|
+|**2023-05-16**|**BMS symmetry in gravity: Front form versus Instant form**|Sudarshan Ananth et.al.|[2305.09735v1](http://arxiv.org/abs/2305.09735v1)|null|
 |**2023-05-16**|**Understanding 3D Object Interaction from a Single Image**|Shengyi Qian et.al.|[2305.09664v1](http://arxiv.org/abs/2305.09664v1)|null|
 |**2023-05-16**|**Prompt-Tuning Decision Transformer with Preference Ranking**|Shengchao Hu et.al.|[2305.09648v1](http://arxiv.org/abs/2305.09648v1)|null|
 |**2023-05-16**|**Expressiveness Remarks for Denoising Diffusion Models and Samplers**|Francisco Vargas et.al.|[2305.09605v1](http://arxiv.org/abs/2305.09605v1)|null|
 |**2023-05-16**|**Deep Fourier Residual method for solving time-harmonic Maxwell's equations**|Jamie M. Taylor et.al.|[2305.09578v1](http://arxiv.org/abs/2305.09578v1)|null|
-|**2023-05-16**|**Ray-Patch: An Efficient Decoder for Light Field Transformers**|T. B. Martins et.al.|[2305.09566v1](http://arxiv.org/abs/2305.09566v1)|null|
+|**2023-05-16**|**Ray-Patch: An Efficient Decoder for Light Field Transformers**|T. B. Martins et.al.|[2305.09566v1](http://arxiv.org/abs/2305.09566v1)|**[link](https://github.com/tberriel/RayPatch)**|
 |**2023-05-17**|**Robust and lightweight audio fingerprint for Automatic Content Recognition**|Anoubhav Agarwaal et.al.|[2305.09559v2](http://arxiv.org/abs/2305.09559v2)|null|
 |**2023-05-16**|**Adapting Sentence Transformers for the Aviation Domain**|Liya Wang et.al.|[2305.09556v1](http://arxiv.org/abs/2305.09556v1)|null|
 |**2023-05-17**|**Life of PII -- A PII Obfuscation Transformer**|Ajinkya Deshmukh et.al.|[2305.09550v2](http://arxiv.org/abs/2305.09550v2)|null|
