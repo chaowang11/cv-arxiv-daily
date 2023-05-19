@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**mdctGAN: Taming transformer-based GAN for speech super-resolution with Modified DCT spectra**|Chenhao Shuai et.al.|[2305.11104v1](http://arxiv.org/abs/2305.11104v1)|**[link](https://github.com/neoncloud/mdctgan)**|
+|**2023-05-18**|**Far-field Super-resolution Chemical Microscopy**|Mingwei Tang et.al.|[2305.10658v1](http://arxiv.org/abs/2305.10658v1)|null|
 |**2023-05-17**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124v1](http://arxiv.org/abs/2305.10124v1)|null|
 |**2023-05-17**|**Super-Resolution Imaging via Angular Magnification**|Yi Zhou et.al.|[2305.10011v1](http://arxiv.org/abs/2305.10011v1)|null|
 |**2023-05-16**|**Plasmonic photoconductive terahertz focal-plane array with pixel super-resolution**|Xurong Li et.al.|[2305.09225v1](http://arxiv.org/abs/2305.09225v1)|null|
@@ -615,6 +617,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**Evidence of Meaning in Language Models Trained on Programs**|Charles Jin et.al.|[2305.11169v1](http://arxiv.org/abs/2305.11169v1)|null|
+|**2023-05-18**|**Exploiting Biased Models to De-bias Text: A Gender-Fair Rewriting Model**|Chantal Amrhein et.al.|[2305.11140v1](http://arxiv.org/abs/2305.11140v1)|null|
+|**2023-05-18**|**mLongT5: A Multilingual and Efficient Text-To-Text Transformer for Longer Sequences**|David Uthus et.al.|[2305.11129v1](http://arxiv.org/abs/2305.11129v1)|null|
+|**2023-05-18**|**Unfaulting mechanisms of Frank loops in fluorite oxides**|Miaomiao Jin et.al.|[2305.11127v1](http://arxiv.org/abs/2305.11127v1)|null|
+|**2023-05-18**|**LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**|Yujie Lu et.al.|[2305.11116v1](http://arxiv.org/abs/2305.11116v1)|**[link](https://github.com/yujielu10/llmscore)**|
+|**2023-05-18**|**mdctGAN: Taming transformer-based GAN for speech super-resolution with Modified DCT spectra**|Chenhao Shuai et.al.|[2305.11104v1](http://arxiv.org/abs/2305.11104v1)|**[link](https://github.com/neoncloud/mdctgan)**|
+|**2023-05-18**|**XFormer: Fast and Accurate Monocular 3D Body Capture**|Lihui Qian et.al.|[2305.11101v1](http://arxiv.org/abs/2305.11101v1)|null|
+|**2023-05-18**|**Statistical Foundations of Prior-Data Fitted Networks**|Thomas Nagler et.al.|[2305.11097v1](http://arxiv.org/abs/2305.11097v1)|null|
+|**2023-05-18**|**Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces**|Javier E Santos et.al.|[2305.11089v1](http://arxiv.org/abs/2305.11089v1)|**[link](https://github.com/lanl/blackout-diffusion)**|
+|**2023-05-18**|**A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks**|Yifan Peng et.al.|[2305.11073v1](http://arxiv.org/abs/2305.11073v1)|**[link](https://github.com/espnet/espnet)**|
+|**2023-05-18**|**Is Our Organization Actually Measuring Productivity? How Contrasting Organizational and Individual Measures of Engineering Success is an Opportunity to Drive Engineering Transformation**|Carol S. Lee et.al.|[2305.11030v1](http://arxiv.org/abs/2305.11030v1)|null|
+|**2023-05-18**|**Terminal Velocity Motion Model Used to Analyze the Mutual Phase-locking of STNOs**|Hao-Hsuan Chen et.al.|[2305.11020v1](http://arxiv.org/abs/2305.11020v1)|null|
+|**2023-05-18**|**Annotation-free Audio-Visual Segmentation**|Jinxiang Liu et.al.|[2305.11019v1](http://arxiv.org/abs/2305.11019v1)|null|
+|**2023-05-18**|**FunASR: A Fundamental End-to-End Speech Recognition Toolkit**|Zhifu Gao et.al.|[2305.11013v1](http://arxiv.org/abs/2305.11013v1)|**[link](https://github.com/alibaba-damo-academy/FunASR)**|
+|**2023-05-18**|**Ultrashort Pulse Laser Annealing of Amorphous Atomic Layer Deposited MoS $_2$  Films**|Malte J. M. J. Becher et.al.|[2305.11008v1](http://arxiv.org/abs/2305.11008v1)|null|
+|**2023-05-18**|**Less is More! A slim architecture for optimal language translation**|Luca Herranz-Celotti et.al.|[2305.10991v1](http://arxiv.org/abs/2305.10991v1)|null|
+|**2023-05-18**|**On iterative methods based on Sherman-Morrison-Woodbury regular splitting**|Dimitrios Mitsotakis et.al.|[2305.10968v1](http://arxiv.org/abs/2305.10968v1)|null|
+|**2023-05-18**|**Structural Pruning for Diffusion Models**|Gongfan Fang et.al.|[2305.10924v1](http://arxiv.org/abs/2305.10924v1)|**[link](https://github.com/vainf/diff-pruning)**|
+|**2023-05-18**|**A Generalist Dynamics Model for Control**|Ingmar Schubert et.al.|[2305.10912v1](http://arxiv.org/abs/2305.10912v1)|null|
+|**2023-05-18**|**Ultra-High Resolution Segmentation with Ultra-Rich Context: A Novel Benchmark**|Deyi Ji et.al.|[2305.10899v1](http://arxiv.org/abs/2305.10899v1)|**[link](https://github.com/jankyee/urur)**|
+|**2023-05-18**|**Search for periodic signals in the dielectron and diphoton invariant mass spectra using 139 fb $^{-1}$  of  $pp$  collisions at  $\sqrt{s} =$  13 TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2305.10894v1](http://arxiv.org/abs/2305.10894v1)|null|
+|**2023-05-18**|**How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses**|Joana C. Costa et.al.|[2305.10862v1](http://arxiv.org/abs/2305.10862v1)|null|
+|**2023-05-18**|**Latent Space Planning for Multi-Object Manipulation with Environment-Aware Relational Classifiers**|Yixuan Huang et.al.|[2305.10857v1](http://arxiv.org/abs/2305.10857v1)|null|
+|**2023-05-18**|**TextDiffuser: Diffusion Models as Text Painters**|Jingye Chen et.al.|[2305.10855v1](http://arxiv.org/abs/2305.10855v1)|**[link](https://github.com/microsoft/unilm/tree/master/textdiffuser)**|
+|**2023-05-18**|**3D Registration with Maximal Cliques**|Xiyu Zhang et.al.|[2305.10854v1](http://arxiv.org/abs/2305.10854v1)|null|
+|**2023-05-18**|**LDM3D: Latent Diffusion Model for 3D**|Gabriela Ben Melech Stan et.al.|[2305.10853v1](http://arxiv.org/abs/2305.10853v1)|null|
+|**2023-05-18**|**Variational Bihamiltonian Cohomologies and Integrable Hierarchies III: linear reciprocal trasformations**|Si-Qi Liu et.al.|[2305.10851v1](http://arxiv.org/abs/2305.10851v1)|null|
+|**2023-05-18**|**Extreme ATM skew in a local volatility model with discontinuity: joint density approach**|Alexander Gairat et.al.|[2305.10849v1](http://arxiv.org/abs/2305.10849v1)|null|
+|**2023-05-18**|**TAPIR: Learning Adaptive Revision for Incremental Natural Language Understanding with a Two-Pass Model**|Patrick Kahardipraja et.al.|[2305.10845v1](http://arxiv.org/abs/2305.10845v1)|**[link](https://github.com/pkhdipraja/tapir)**|
+|**2023-05-18**|**A Lexical-aware Non-autoregressive Transformer-based ASR Model**|Chong-En Lin et.al.|[2305.10839v1](http://arxiv.org/abs/2305.10839v1)|null|
+|**2023-05-18**|**Ahead-of-Time P-Tuning**|Daniil Gavrilov et.al.|[2305.10835v1](http://arxiv.org/abs/2305.10835v1)|null|
+|**2023-05-18**|**AIwriting: Relations Between Image Generation and Digital Writing**|Scott Rettberg et.al.|[2305.10834v1](http://arxiv.org/abs/2305.10834v1)|null|
+|**2023-05-18**|**Deep Learning Methods for Extracting Metaphorical Names of Flowers and Plants**|Amal Haddad Haddad et.al.|[2305.10833v1](http://arxiv.org/abs/2305.10833v1)|null|
+|**2023-05-18**|**FastFit: Towards Real-Time Iterative Neural Vocoder by Replacing U-Net Encoder With Multiple STFTs**|Won Jang et.al.|[2305.10823v1](http://arxiv.org/abs/2305.10823v1)|null|
+|**2023-05-18**|**When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation**|Zihua Si et.al.|[2305.10822v1](http://arxiv.org/abs/2305.10822v1)|**[link](https://github.com/ethan00si/sesrec-sigir-2023)**|
+|**2023-05-18**|**An empirical potential for simulating hydrogen isotope retention in highly irradiated tungsten**|Daniel R. Mason et.al.|[2305.10814v1](http://arxiv.org/abs/2305.10814v1)|null|
+|**2023-05-18**|**Transformer-based Variable-rate Image Compression with Region-of-interest Control**|Chia-Hao Kao et.al.|[2305.10807v1](http://arxiv.org/abs/2305.10807v1)|null|
+|**2023-05-18**|**Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection**|Feng Gao et.al.|[2305.10801v1](http://arxiv.org/abs/2305.10801v1)|null|
+|**2023-05-18**|**Transforming Human-Centered AI Collaboration: Redefining Embodied Agents Capabilities through Interactive Grounded Language Instructions**|Shrestha Mohanty et.al.|[2305.10783v1](http://arxiv.org/abs/2305.10783v1)|null|
+|**2023-05-18**|**Enhancing Speech Articulation Analysis using a Geometric Transformation of the X-ray Microbeam Dataset**|Ahmed Adel Attia et.al.|[2305.10775v1](http://arxiv.org/abs/2305.10775v1)|null|
+|**2023-05-18**|**Adversarial Amendment is the Only Force Capable of Transforming an Enemy into a Friend**|Chong Yu et.al.|[2305.10766v1](http://arxiv.org/abs/2305.10766v1)|null|
+|**2023-05-18**|**Multi-resolution Spatiotemporal Enhanced Transformer Denoising with Functional Diffusive GANs for Constructing Brain Effective Connectivity in MCI analysis**|Qiankun Zuo et.al.|[2305.10754v1](http://arxiv.org/abs/2305.10754v1)|null|
+|**2023-05-18**|**Poincaré invariance of spinning binary dynamics in the post-Minkowskian Hamiltonian approach**|Hojin Lee et.al.|[2305.10739v1](http://arxiv.org/abs/2305.10739v1)|null|
+|**2023-05-18**|**Boost Vision Transformer with GPU-Friendly Sparsity and Quantization**|Chong Yu et.al.|[2305.10727v1](http://arxiv.org/abs/2305.10727v1)|null|
+|**2023-05-18**|**A Survey on Time-Series Pre-Trained Models**|Qianli Ma et.al.|[2305.10716v1](http://arxiv.org/abs/2305.10716v1)|**[link](https://github.com/qianlima-lab/time-series-ptms)**|
+|**2023-05-18**|**MolXPT: Wrapping Molecules with Text for Generative Pre-training**|Zequn Liu et.al.|[2305.10688v1](http://arxiv.org/abs/2305.10688v1)|null|
+|**2023-05-18**|**Use of Speech Impairment Severity for Dysarthric Speech Recognition**|Mengzhe Geng et.al.|[2305.10659v1](http://arxiv.org/abs/2305.10659v1)|null|
+|**2023-05-18**|**Wald entropy in supergravity: the fermionic contribution**|Igor Bandos et.al.|[2305.10617v1](http://arxiv.org/abs/2305.10617v1)|null|
+|**2023-05-17**|**Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions**|Byung-Doh Oh et.al.|[2305.10614v1](http://arxiv.org/abs/2305.10614v1)|null|
+|**2023-05-17**|**Short-Term Electricity Load Forecasting Using the Temporal Fusion Transformer: Effect of Grid Hierarchies and Data Sources**|Elena Giacomazzi et.al.|[2305.10559v1](http://arxiv.org/abs/2305.10559v1)|null|
 |**2023-05-17**|**Accelerating Transformer Inference for Translation via Parallel Decoding**|Andrea Santilli et.al.|[2305.10427v1](http://arxiv.org/abs/2305.10427v1)|null|
 |**2023-05-17**|**Towards Multi-Layered 3D Garments Animation**|Yidi Shao et.al.|[2305.10418v1](http://arxiv.org/abs/2305.10418v1)|null|
 |**2023-05-17**|**On Consistency of Signatures Using Lasso**|Xin Guo et.al.|[2305.10413v1](http://arxiv.org/abs/2305.10413v1)|null|
@@ -5415,6 +5467,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-17**|**INCLG: Inpainting for Non-Cleft Lip Generation with a Multi-Task Image Processing Network**|Shuang Chen et.al.|[2305.10589v1](http://arxiv.org/abs/2305.10589v1)|null|
 |**2023-05-13**|**Nonnegative Low-Rank Tensor Completion via Dual Formulation with Applications to Image and Video Completion**|Tanmay Kumar Sinha et.al.|[2305.07976v1](http://arxiv.org/abs/2305.07976v1)|null|
 |**2023-05-13**|**AURA : Automatic Mask Generator using Randomized Input Sampling for Object Removal**|Changsuk Oh et.al.|[2305.07857v1](http://arxiv.org/abs/2305.07857v1)|null|
 |**2023-05-12**|**T-former: An Efficient Transformer for Image Inpainting**|Ye Deng et.al.|[2305.07239v1](http://arxiv.org/abs/2305.07239v1)|**[link](https://github.com/dengyecode/t-former_image_inpainting)**|
