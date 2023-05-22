@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**A Unified Prompt-Guided In-Context Inpainting Framework for Reference-based Image Manipulations**|Chenjie Cao et.al.|[2305.11577v1](http://arxiv.org/abs/2305.11577v1)|null|
+|**2023-05-19**|**RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration**|Haram Choi et.al.|[2305.11474v1](http://arxiv.org/abs/2305.11474v1)|null|
+|**2023-05-19**|**Efficient Mixed Transformer for Single Image Super-Resolution**|Ling Zheng et.al.|[2305.11403v1](http://arxiv.org/abs/2305.11403v1)|**[link](https://github.com/fried-rice-lab/emt)**|
 |**2023-05-19**|**mdctGAN: Taming transformer-based GAN for speech super-resolution with Modified DCT spectra**|Chenhao Shuai et.al.|[2305.11104v2](http://arxiv.org/abs/2305.11104v2)|**[link](https://github.com/neoncloud/mdctgan)**|
 |**2023-05-18**|**Far-field Super-resolution Chemical Microscopy**|Mingwei Tang et.al.|[2305.10658v1](http://arxiv.org/abs/2305.10658v1)|null|
 |**2023-05-17**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124v1](http://arxiv.org/abs/2305.10124v1)|null|
@@ -348,6 +351,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Efficient Mixed Transformer for Single Image Super-Resolution**|Ling Zheng et.al.|[2305.11403v1](http://arxiv.org/abs/2305.11403v1)|**[link](https://github.com/fried-rice-lab/emt)**|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
 |**2023-05-09**|**Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution**|Ming Cheng et.al.|[2305.05177v1](http://arxiv.org/abs/2305.05177v1)|null|
 |**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126v1](http://arxiv.org/abs/2305.02126v1)|null|
@@ -617,6 +621,53 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Consistent Conjectural Variations Equilibrium: Characterization & Stability for a Class of Continuous Games**|Daniel J. Calderone et.al.|[2305.11866v1](http://arxiv.org/abs/2305.11866v1)|null|
+|**2023-05-19**|**Scaling laws for language encoding models in fMRI**|Richard Antonello et.al.|[2305.11863v1](http://arxiv.org/abs/2305.11863v1)|null|
+|**2023-05-19**|**Multimodal Web Navigation with Instruction-Finetuned Foundation Models**|Hiroki Furuta et.al.|[2305.11854v1](http://arxiv.org/abs/2305.11854v1)|null|
+|**2023-05-19**|**How Does Generative Retrieval Scale to Millions of Passages?**|Ronak Pradeep et.al.|[2305.11841v1](http://arxiv.org/abs/2305.11841v1)|null|
+|**2023-05-19**|**On the Andrews-Curtis groups: non-finite presentability**|Vitaly Roman'kov et.al.|[2305.11838v1](http://arxiv.org/abs/2305.11838v1)|null|
+|**2023-05-19**|**Multi-Objective Optimization Using the R2 Utility**|Ben Tu et.al.|[2305.11774v1](http://arxiv.org/abs/2305.11774v1)|**[link](https://github.com/benmltu/scalarize)**|
+|**2023-05-19**|**Universal defects statistics with strong long-range interactions**|Stefano Gherardini et.al.|[2305.11771v1](http://arxiv.org/abs/2305.11771v1)|null|
+|**2023-05-19**|**Single-photon source over the terahertz regime**|Caspar Groiseau et.al.|[2305.11754v1](http://arxiv.org/abs/2305.11754v1)|null|
+|**2023-05-19**|**Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization**|Mengqi Huang et.al.|[2305.11718v1](http://arxiv.org/abs/2305.11718v1)|**[link](https://github.com/crossmodalgroup/dynamicvectorquantization)**|
+|**2023-05-19**|**Efficient and Deterministic Search Strategy Based on Residual Projections for Point Cloud Registration**|Xinyi Li et.al.|[2305.11716v1](http://arxiv.org/abs/2305.11716v1)|null|
+|**2023-05-19**|**A quality assurance framework for real-time monitoring of deep learning segmentation models in radiotherapy**|Xiyao Jin et.al.|[2305.11715v1](http://arxiv.org/abs/2305.11715v1)|null|
+|**2023-05-19**|**Quadratic Hamiltonians in Fermionic Fock Spaces**|Jean-Bernard Bru et.al.|[2305.11697v1](http://arxiv.org/abs/2305.11697v1)|null|
+|**2023-05-19**|**Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery**|Long Bai et.al.|[2305.11692v1](http://arxiv.org/abs/2305.11692v1)|**[link](https://github.com/longbai1006/surgical-vqla)**|
+|**2023-05-19**|**Recycle-and-Distill: Universal Compression Strategy for Transformer-based Speech SSL Models with Attention Map Reusing and Masking Distillation**|Kangwook Jang et.al.|[2305.11685v1](http://arxiv.org/abs/2305.11685v1)|**[link](https://github.com/sungnyun/armhubert)**|
+|**2023-05-19**|**Learning Global-aware Kernel for Image Harmonization**|Xintian Shen et.al.|[2305.11676v1](http://arxiv.org/abs/2305.11676v1)|null|
+|**2023-05-19**|**Towards Code Generation from BDD Test Case Specifications: A Vision**|Leon Chemnitz et.al.|[2305.11619v1](http://arxiv.org/abs/2305.11619v1)|null|
+|**2023-05-19**|**DAP: A Dynamic Adversarial Patch for Evading Person Detectors**|Amira Guesmi et.al.|[2305.11618v1](http://arxiv.org/abs/2305.11618v1)|null|
+|**2023-05-19**|**Formalising causal inference in time and frequency on process graphs with latent components**|Nicolas-Domenic Reiter et.al.|[2305.11561v1](http://arxiv.org/abs/2305.11561v1)|null|
+|**2023-05-19**|**Brain Captioning: Decoding human brain activity into images and text**|Matteo Ferrante et.al.|[2305.11560v1](http://arxiv.org/abs/2305.11560v1)|null|
+|**2023-05-19**|**The Global Governance of Artificial Intelligence: Next Steps for Empirical and Normative Research**|Jonas Tallberg et.al.|[2305.11528v1](http://arxiv.org/abs/2305.11528v1)|null|
+|**2023-05-19**|**Enhancing Short-Term Wind Speed Forecasting using Graph Attention and Frequency-Enhanced Mechanisms**|Hao Liu et.al.|[2305.11526v1](http://arxiv.org/abs/2305.11526v1)|null|
+|**2023-05-19**|**Enriching Disentanglement: Definitions to Metrics**|Yivan Zhang et.al.|[2305.11512v1](http://arxiv.org/abs/2305.11512v1)|null|
+|**2023-05-19**|**JOINEDTrans: Prior Guided Multi-task Transformer for Joint Optic Disc/Cup Segmentation and Fovea Detection**|Huaqing He et.al.|[2305.11504v1](http://arxiv.org/abs/2305.11504v1)|null|
+|**2023-05-19**|**From Alignment to Entailment: A Unified Textual Entailment Framework for Entity Alignment**|Yu Zhao et.al.|[2305.11501v1](http://arxiv.org/abs/2305.11501v1)|null|
+|**2023-05-19**|**PointGPT: Auto-regressively Generative Pre-training from Point Clouds**|Guangyan Chen et.al.|[2305.11487v1](http://arxiv.org/abs/2305.11487v1)|null|
+|**2023-05-19**|**Curve Your Enthusiasm: Concurvity Regularization in Differentiable Generalized Additive Models**|Julien Siems et.al.|[2305.11475v1](http://arxiv.org/abs/2305.11475v1)|null|
+|**2023-05-19**|**RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration**|Haram Choi et.al.|[2305.11474v1](http://arxiv.org/abs/2305.11474v1)|null|
+|**2023-05-19**|**Self-Agreement: A Framework for Fine-tuning Language Models to Find Agreement among Diverse Opinions**|Shiyao Ding et.al.|[2305.11460v1](http://arxiv.org/abs/2305.11460v1)|null|
+|**2023-05-19**|**SurgMAE: Masked Autoencoders for Long Surgical Video Analysis**|Muhammad Abdullah Jamal et.al.|[2305.11451v1](http://arxiv.org/abs/2305.11451v1)|null|
+|**2023-05-19**|**Equivariant Multi-Modality Image Fusion**|Zixiang Zhao et.al.|[2305.11443v1](http://arxiv.org/abs/2305.11443v1)|null|
+|**2023-05-19**|**Graph Propagation Transformer for Graph Representation Learning**|Zhe Chen et.al.|[2305.11424v1](http://arxiv.org/abs/2305.11424v1)|**[link](https://github.com/czczup/gptrans)**|
+|**2023-05-19**|**Contact mappings of differential equations**|Kaptsov Oleg et.al.|[2305.11422v1](http://arxiv.org/abs/2305.11422v1)|null|
+|**2023-05-19**|**A Preliminary Study on Augmenting Speech Emotion Recognition using a Diffusion Model**|Ibrahim Malik et.al.|[2305.11413v1](http://arxiv.org/abs/2305.11413v1)|null|
+|**2023-05-19**|**Efficient Mixed Transformer for Single Image Super-Resolution**|Ling Zheng et.al.|[2305.11403v1](http://arxiv.org/abs/2305.11403v1)|**[link](https://github.com/fried-rice-lab/emt)**|
+|**2023-05-19**|**Are Microphone Signals Alone Sufficient for Joint Microphones and Sources Localization?**|Faxian Cao et.al.|[2305.11397v1](http://arxiv.org/abs/2305.11397v1)|null|
+|**2023-05-19**|**Fast-StrucTexT: An Efficient Hourglass Transformer with Modality-guided Dynamic Token Merge for Document Understanding**|Mingliang Zhai et.al.|[2305.11392v1](http://arxiv.org/abs/2305.11392v1)|null|
+|**2023-05-19**|**Domain Generalization Deep Graph Transformation**|Shiyu Wang et.al.|[2305.11389v1](http://arxiv.org/abs/2305.11389v1)|null|
+|**2023-05-19**|**Enhancing Transformer Backbone for Egocentric Video Action Segmentation**|Sakib Reza et.al.|[2305.11365v1](http://arxiv.org/abs/2305.11365v1)|null|
+|**2023-05-18**|**Nanoscale magnetic domains in polycrystalline Mn3Sn films imaged by a scanning single-spin magnetometer**|Senlei Li et.al.|[2305.11343v1](http://arxiv.org/abs/2305.11343v1)|null|
+|**2023-05-18**|**Coordinated Transformer with Position \& Sample-aware Central Loss for Anatomical Landmark Detection**|Qikui Zhu et.al.|[2305.11338v1](http://arxiv.org/abs/2305.11338v1)|null|
+|**2023-05-18**|**Improving Toponym Resolution with Better Candidate Generation, Transformer-based Reranking, and Two-Stage Resolution**|Zeyu Zhang et.al.|[2305.11315v1](http://arxiv.org/abs/2305.11315v1)|**[link](https://github.com/clulab/geonorm)**|
+|**2023-05-18**|**SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models**|Ziyi Wu et.al.|[2305.11281v1](http://arxiv.org/abs/2305.11281v1)|null|
+|**2023-05-18**|**Multi-Focus Image Fusion Based on Spatial Frequency(SF) and Consistency Verification(CV) in DCT Domain**|Krishnendu K. S. et.al.|[2305.11265v1](http://arxiv.org/abs/2305.11265v1)|null|
+|**2023-05-18**|**Average fold-change of genetic pathways in biological transitions**|Sandra Costa et.al.|[2305.11245v1](http://arxiv.org/abs/2305.11245v1)|null|
+|**2023-05-18**|**Evidence Networks: simple losses for fast, amortized, neural Bayesian model comparison**|Niall Jeffrey et.al.|[2305.11241v1](http://arxiv.org/abs/2305.11241v1)|null|
+|**2023-05-18**|** $clustertools$ : A Python Package for Analyzing Star Cluster Simulations**|Jeremy J. Webb et.al.|[2305.11222v1](http://arxiv.org/abs/2305.11222v1)|null|
+|**2023-05-18**|**Information-Ordered Bottlenecks for Adaptive Semantic Compression**|Matthew Ho et.al.|[2305.11213v1](http://arxiv.org/abs/2305.11213v1)|null|
 |**2023-05-18**|**Evidence of Meaning in Language Models Trained on Programs**|Charles Jin et.al.|[2305.11169v1](http://arxiv.org/abs/2305.11169v1)|null|
 |**2023-05-18**|**Exploiting Biased Models to De-bias Text: A Gender-Fair Rewriting Model**|Chantal Amrhein et.al.|[2305.11140v1](http://arxiv.org/abs/2305.11140v1)|**[link](https://github.com/textshuttle/exploiting-bias-to-debias)**|
 |**2023-05-18**|**mLongT5: A Multilingual and Efficient Text-To-Text Transformer for Longer Sequences**|David Uthus et.al.|[2305.11129v1](http://arxiv.org/abs/2305.11129v1)|null|
@@ -5467,6 +5518,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**A Unified Prompt-Guided In-Context Inpainting Framework for Reference-based Image Manipulations**|Chenjie Cao et.al.|[2305.11577v1](http://arxiv.org/abs/2305.11577v1)|null|
 |**2023-05-17**|**INCLG: Inpainting for Non-Cleft Lip Generation with a Multi-Task Image Processing Network**|Shuang Chen et.al.|[2305.10589v1](http://arxiv.org/abs/2305.10589v1)|null|
 |**2023-05-13**|**Nonnegative Low-Rank Tensor Completion via Dual Formulation with Applications to Image and Video Completion**|Tanmay Kumar Sinha et.al.|[2305.07976v1](http://arxiv.org/abs/2305.07976v1)|null|
 |**2023-05-13**|**AURA : Automatic Mask Generator using Randomized Input Sampling for Object Removal**|Changsuk Oh et.al.|[2305.07857v1](http://arxiv.org/abs/2305.07857v1)|null|
