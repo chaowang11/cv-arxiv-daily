@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Cycle Consistency-based Uncertainty Quantification of Neural Networks in Inverse Imaging Problems**|Luzhe Huang et.al.|[2305.12852v1](http://arxiv.org/abs/2305.12852v1)|null|
+|**2023-05-20**|**AI-assisted super-resolution cosmological simulations III: Time evolution**|Xiaowen Zhang et.al.|[2305.12222v1](http://arxiv.org/abs/2305.12222v1)|null|
+|**2023-05-20**|**Dual-Diffusion: Dual Conditional Denoising Diffusion Probabilistic Models for Blind Super-Resolution Reconstruction in RSIs**|Mengze Xu et.al.|[2305.12170v1](http://arxiv.org/abs/2305.12170v1)|**[link](https://github.com/lincoln20030413/ddsr)**|
 |**2023-05-19**|**A Unified Prompt-Guided In-Context Inpainting Framework for Reference-based Image Manipulations**|Chenjie Cao et.al.|[2305.11577v1](http://arxiv.org/abs/2305.11577v1)|null|
 |**2023-05-22**|**RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration**|Haram Choi et.al.|[2305.11474v2](http://arxiv.org/abs/2305.11474v2)|null|
 |**2023-05-22**|**Efficient Mixed Transformer for Single Image Super-Resolution**|Ling Zheng et.al.|[2305.11403v2](http://arxiv.org/abs/2305.11403v2)|**[link](https://github.com/fried-rice-lab/emt)**|
@@ -621,6 +624,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311v1](http://arxiv.org/abs/2305.13311v1)|**[link](https://github.com/rerv/vdt)**|
+|**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307v1](http://arxiv.org/abs/2305.13307v1)|**[link](https://github.com/ripl/nerfuser)**|
+|**2023-05-22**|**RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text**|Wangchunshu Zhou et.al.|[2305.13304v1](http://arxiv.org/abs/2305.13304v1)|**[link](https://github.com/aiwaves-cn/recurrentgpt)**|
+|**2023-05-22**|**Parallel Attention and Feed-Forward Net Design for Pre-training and Inference on Transformers**|Shashank Sonkar et.al.|[2305.13297v1](http://arxiv.org/abs/2305.13297v1)|null|
+|**2023-05-22**|**The Geometric Approach to the Classification of Signals via a Maximal Set of Signals**|Leon A. Luxemburg et.al.|[2305.13255v1](http://arxiv.org/abs/2305.13255v1)|null|
+|**2023-05-22**|**GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints**|Joshua Ainslie et.al.|[2305.13245v1](http://arxiv.org/abs/2305.13245v1)|null|
+|**2023-05-22**|**Sequential Transfer Learning to Decode Heard and Imagined Timbre from fMRI Data**|Sean Paulsen et.al.|[2305.13226v1](http://arxiv.org/abs/2305.13226v1)|null|
+|**2023-05-22**|**Bicomplex Matrices and Operators: Jordan Forms, Invariant Subspace Lattice Diagrams, and Compact Operators**|William Johnston et.al.|[2305.13219v1](http://arxiv.org/abs/2305.13219v1)|null|
+|**2023-05-22**|**Know your Enemy: Investigating Monte-Carlo Tree Search with Opponent Models in Pommerman**|Jannis Weil et.al.|[2305.13206v1](http://arxiv.org/abs/2305.13206v1)|null|
+|**2023-05-22**|**Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters**|Proyag Pal et.al.|[2305.13204v1](http://arxiv.org/abs/2305.13204v1)|null|
+|**2023-05-22**|**U-DiT TTS: U-Diffusion Vision Transformer for Text-to-Speech**|Xin Jing et.al.|[2305.13195v1](http://arxiv.org/abs/2305.13195v1)|null|
+|**2023-05-22**|**Teaching Probabilistic Logical Reasoning to Transformers**|Aliakbar Nafar et.al.|[2305.13179v1](http://arxiv.org/abs/2305.13179v1)|null|
+|**2023-05-22**|**Excursus on modulation spaces via metaplectic operators and related time-frequency representations**|Elena Cordero et.al.|[2305.13166v1](http://arxiv.org/abs/2305.13166v1)|null|
+|**2023-05-22**|**DeepJSCC-l++: Robust and Bandwidth-Adaptive Wireless Image Transmission**|Chenghong Bian et.al.|[2305.13161v1](http://arxiv.org/abs/2305.13161v1)|null|
+|**2023-05-22**|**Transforming Geospatial Ontologies by Homomorphisms**|Xiuzhan Guo et.al.|[2305.13135v1](http://arxiv.org/abs/2305.13135v1)|null|
+|**2023-05-22**|**Non-commutative double geometry**|Toni Kodzoman et.al.|[2305.13131v1](http://arxiv.org/abs/2305.13131v1)|null|
+|**2023-05-22**|**The Missing Link: Exploring the Relationship Between Transformational Leadership and Change in team members in Construction**|M. R. Ibrahim et.al.|[2305.13121v1](http://arxiv.org/abs/2305.13121v1)|null|
+|**2023-05-22**|**Analysis of a class of randomized numerical methods for singular matrix pencils**|Daniel Kressner et.al.|[2305.13118v1](http://arxiv.org/abs/2305.13118v1)|null|
+|**2023-05-22**|**An Optimal Separation between Two Property Testing Models for Bounded Degree Directed Graphs**|Pan Peng et.al.|[2305.13089v1](http://arxiv.org/abs/2305.13089v1)|null|
+|**2023-05-22**|**An FFT-based framework for predicting corrosion-driven damage in fractal porous media**|Mohit Pundir et.al.|[2305.13081v1](http://arxiv.org/abs/2305.13081v1)|null|
+|**2023-05-22**|**Optimality Principles in Spacecraft Neural Guidance and Control**|Dario Izzo et.al.|[2305.13078v1](http://arxiv.org/abs/2305.13078v1)|null|
+|**2023-05-22**|**Retrieval-augmented Multi-label Text Classification**|Ilias Chalkidis et.al.|[2305.13058v1](http://arxiv.org/abs/2305.13058v1)|null|
+|**2023-05-22**|**Learning Pedestrian Actions to Ensure Safe Autonomous Driving**|Jia Huang et.al.|[2305.13051v1](http://arxiv.org/abs/2305.13051v1)|null|
+|**2023-05-22**|**RWKV: Reinventing RNNs for the Transformer Era**|Bo Peng et.al.|[2305.13048v1](http://arxiv.org/abs/2305.13048v1)|**[link](https://github.com/blinkdl/chatrwkv)**|
+|**2023-05-22**|**Getting ViT in Shape: Scaling Laws for Compute-Optimal Model Design**|Ibrahim Alabdulmohsin et.al.|[2305.13035v1](http://arxiv.org/abs/2305.13035v1)|null|
+|**2023-05-22**|**Towards generalizing deep-audio fake detection networks**|Konstantin Gasenzer et.al.|[2305.13033v1](http://arxiv.org/abs/2305.13033v1)|null|
+|**2023-05-22**|**HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation**|Jian Ding et.al.|[2305.13031v1](http://arxiv.org/abs/2305.13031v1)|null|
+|**2023-05-22**|**Some power function distribution processes**|Barry C. Arnold et.al.|[2305.13020v1](http://arxiv.org/abs/2305.13020v1)|null|
+|**2023-05-22**|**Iterative Forward Tuning Boosts In-context Learning in Language Models**|Jiaxi Yang et.al.|[2305.13016v1](http://arxiv.org/abs/2305.13016v1)|null|
+|**2023-05-22**|**Bidirectional Transformer Reranker for Grammatical Error Correction**|Ying Zhang et.al.|[2305.13000v1](http://arxiv.org/abs/2305.13000v1)|null|
+|**2023-05-22**|**Sparsity and Coefficient Permutation Based Two-Domain AMP for Image Block Compressed Sensing**|Junhui Li et.al.|[2305.12986v1](http://arxiv.org/abs/2305.12986v1)|null|
+|**2023-05-22**|**Why current rain denoising models fail on CycleGAN created rain images in autonomous driving**|Michael Kranl et.al.|[2305.12983v1](http://arxiv.org/abs/2305.12983v1)|null|
+|**2023-05-22**|**When Computing Power Network Meets Distributed Machine Learning: An Efficient Federated Split Learning Framework**|Xinjing Yuan et.al.|[2305.12979v1](http://arxiv.org/abs/2305.12979v1)|null|
+|**2023-05-22**|**VanillaNet: the Power of Minimalism in Deep Learning**|Hanting Chen et.al.|[2305.12972v1](http://arxiv.org/abs/2305.12972v1)|**[link](https://github.com/huawei-noah/vanillanet)**|
+|**2023-05-22**|**Enhancing Next Active Object-based Egocentric Action Anticipation with Guided Attention**|Sanket Thakur et.al.|[2305.12953v1](http://arxiv.org/abs/2305.12953v1)|null|
+|**2023-05-22**|**Album Storytelling with Iterative Story-aware Captioning and Large Language Models**|Munan Ning et.al.|[2305.12943v1](http://arxiv.org/abs/2305.12943v1)|null|
+|**2023-05-22**|**Quantifying `local softness' in a simple liquid**|Tamoghna Das et.al.|[2305.12931v1](http://arxiv.org/abs/2305.12931v1)|null|
+|**2023-05-22**|**Analytical approximations in short times of exact operational solutions to reaction diffusion problems on bounded intervals**|Anani Kwassi et.al.|[2305.12911v1](http://arxiv.org/abs/2305.12911v1)|null|
+|**2023-05-22**|**DiffAVA: Personalized Text-to-Audio Generation with Visual Alignment**|Shentong Mo et.al.|[2305.12903v1](http://arxiv.org/abs/2305.12903v1)|null|
+|**2023-05-22**|**TSPTQ-ViT: Two-scaled post-training quantization for vision transformer**|Yu-Shan Tai et.al.|[2305.12901v1](http://arxiv.org/abs/2305.12901v1)|null|
+|**2023-05-22**|**Evaluating Prompt-based Question Answering for Object Prediction in the Open Research Knowledge Graph**|Jennifer D'Souza et.al.|[2305.12900v1](http://arxiv.org/abs/2305.12900v1)|null|
+|**2023-05-22**|**Variance Decay Property for Filter Stability**|Jin Won Kim et.al.|[2305.12850v1](http://arxiv.org/abs/2305.12850v1)|null|
+|**2023-05-22**|**Twirling and spontaneous symmetry breaking of domain wall networks in lattice-reconstructed heterostructures of 2D materials**|M. A. Kaliteevsky et.al.|[2305.12848v1](http://arxiv.org/abs/2305.12848v1)|null|
+|**2023-05-22**|**Registering Neural Radiance Fields as 3D Density Images**|Han Jiang et.al.|[2305.12843v1](http://arxiv.org/abs/2305.12843v1)|null|
+|**2023-05-22**|**FieldHAR: A Fully Integrated End-to-end RTL Framework for Human Activity Recognition with Neural Networks from Heterogeneous Sensors**|Mengxi Liu et.al.|[2305.12824v1](http://arxiv.org/abs/2305.12824v1)|null|
+|**2023-05-22**|**Conservative Physics-Informed Neural Networks for Non-Conservative Hyperbolic Conservation Laws Near Critical States**|Reyna Quita et.al.|[2305.12817v1](http://arxiv.org/abs/2305.12817v1)|null|
+|**2023-05-22**|**Multi-task Combinatorial Optimization: Adaptive Multi-modality Knowledge Transfer by an Explicit Inter-task Distance**|Peng Li et.al.|[2305.12807v1](http://arxiv.org/abs/2305.12807v1)|null|
+|**2023-05-22**|**LM-Switch: Lightweight Language Model Conditioning in Word Embedding Space**|Chi Han et.al.|[2305.12798v1](http://arxiv.org/abs/2305.12798v1)|null|
+|**2023-05-22**|**Spatiotemporal Attention-based Semantic Compression for Real-time Video Recognition**|Nan Li et.al.|[2305.12796v1](http://arxiv.org/abs/2305.12796v1)|null|
+|**2023-05-22**|**In-Context Learning of Large Language Models Explained as Kernel Regression**|Chi Han et.al.|[2305.12766v1](http://arxiv.org/abs/2305.12766v1)|null|
 |**2023-05-19**|**Consistent Conjectural Variations Equilibrium: Characterization & Stability for a Class of Continuous Games**|Daniel J. Calderone et.al.|[2305.11866v1](http://arxiv.org/abs/2305.11866v1)|null|
 |**2023-05-22**|**Scaling laws for language encoding models in fMRI**|Richard Antonello et.al.|[2305.11863v2](http://arxiv.org/abs/2305.11863v2)|null|
 |**2023-05-19**|**Multimodal Web Navigation with Instruction-Finetuned Foundation Models**|Hiroki Furuta et.al.|[2305.11854v1](http://arxiv.org/abs/2305.11854v1)|null|
