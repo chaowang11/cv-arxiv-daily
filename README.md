@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**|Yiyang Ma et.al.|[2305.15357v1](http://arxiv.org/abs/2305.15357v1)|null|
+|**2023-05-24**|**EgoVSR: Towards High-Quality Egocentric Video Super-Resolution**|Yichen Chi et.al.|[2305.14708v1](http://arxiv.org/abs/2305.14708v1)|null|
+|**2023-05-24**|**NegVSR: Augmenting Negatives for Generalized Noise Modeling in Real-World Video Super-Resolution**|Yexing Song et.al.|[2305.14669v1](http://arxiv.org/abs/2305.14669v1)|null|
 |**2023-05-23**|**Basis Pursuit Denoising via Recurrent Neural Network Applied to Super-resolving SAR Tomography**|Kun Qian et.al.|[2305.14209v1](http://arxiv.org/abs/2305.14209v1)|null|
 |**2023-05-23**|**Multi-BVOC Super-Resolution Exploiting Compounds Inter-Connection**|Antonio Giganti et.al.|[2305.14180v1](http://arxiv.org/abs/2305.14180v1)|null|
 |**2023-05-08**|**Deep Learning and Image Super-Resolution-Guided Beam and Power Allocation for mmWave Networks**|Yuwen Cao et.al.|[2305.13929v1](http://arxiv.org/abs/2305.13929v1)|null|
@@ -359,6 +362,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**|Yiyang Ma et.al.|[2305.15357v1](http://arxiv.org/abs/2305.15357v1)|null|
 |**2023-05-23**|**Multi-BVOC Super-Resolution Exploiting Compounds Inter-Connection**|Antonio Giganti et.al.|[2305.14180v1](http://arxiv.org/abs/2305.14180v1)|null|
 |**2023-05-08**|**Deep Learning and Image Super-Resolution-Guided Beam and Power Allocation for mmWave Networks**|Yuwen Cao et.al.|[2305.13929v1](http://arxiv.org/abs/2305.13929v1)|null|
 |**2023-05-23**|**Generalized Expectation Maximization Framework for Blind Image Super Resolution**|Yuxiao Li et.al.|[2305.13880v1](http://arxiv.org/abs/2305.13880v1)|null|
@@ -505,6 +509,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**EgoVSR: Towards High-Quality Egocentric Video Super-Resolution**|Yichen Chi et.al.|[2305.14708v1](http://arxiv.org/abs/2305.14708v1)|null|
+|**2023-05-24**|**NegVSR: Augmenting Negatives for Generalized Noise Modeling in Real-World Video Super-Resolution**|Yexing Song et.al.|[2305.14669v1](http://arxiv.org/abs/2305.14669v1)|null|
 |**2023-05-12**|**Can SAM Boost Video Super-Resolution?**|Zhihe Lu et.al.|[2305.06524v2](http://arxiv.org/abs/2305.06524v2)|null|
 |**2023-05-04**|**Expanding Synthetic Real-World Degradations for Blind Video Super Resolution**|Mehran Jeelani et.al.|[2305.02660v1](http://arxiv.org/abs/2305.02660v1)|null|
 |**2023-04-29**|**An Implicit Alignment for Video Super-Resolution**|Kai Xu et.al.|[2305.00163v1](http://arxiv.org/abs/2305.00163v1)|**[link](https://github.com/kai422/iart)**|
@@ -634,6 +640,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Towards Revealing the Mystery behind Chain of Thought: a Theoretical Perspective**|Guhao Feng et.al.|[2305.15408v1](http://arxiv.org/abs/2305.15408v1)|null|
+|**2023-05-24**|**Deep learning non-local and scalable energy functionals for quantum Ising models**|Emanuele Costa et.al.|[2305.15370v1](http://arxiv.org/abs/2305.15370v1)|null|
+|**2023-05-24**|**Inverse Preference Learning: Preference-based RL without a Reward Function**|Joey Hejna et.al.|[2305.15363v1](http://arxiv.org/abs/2305.15363v1)|null|
+|**2023-05-24**|**Context-Aware Transformer Pre-Training for Answer Sentence Selection**|Luca Di Liello et.al.|[2305.15358v1](http://arxiv.org/abs/2305.15358v1)|null|
+|**2023-05-24**|**READ: Recurrent Adaptation of Large Transformers**|Sid Wang et.al.|[2305.15348v1](http://arxiv.org/abs/2305.15348v1)|null|
+|**2023-05-24**|**Multi-Modal Mutual Attention and Iterative Interaction for Referring Image Segmentation**|Chang Liu et.al.|[2305.15302v1](http://arxiv.org/abs/2305.15302v1)|null|
+|**2023-05-24**|**Extending the support of  $1$ - and  $2$ -level densities for cusp form  $L$ -functions under square-root cancellation hypotheses**|Annika Mauro et.al.|[2305.15293v1](http://arxiv.org/abs/2305.15293v1)|null|
+|**2023-05-24**|**ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers**|Jingfeng Yao et.al.|[2305.15272v1](http://arxiv.org/abs/2305.15272v1)|**[link](https://github.com/hustvl/ViTMatte)**|
+|**2023-05-24**|**Training Energy-Based Normalizing Flow with Score-Matching Objectives**|Chen-Hao Chao et.al.|[2305.15267v1](http://arxiv.org/abs/2305.15267v1)|null|
+|**2023-05-24**|**Diffusion-Based Audio Inpainting**|Eloi Moliner et.al.|[2305.15266v1](http://arxiv.org/abs/2305.15266v1)|null|
+|**2023-05-24**|**Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model**|Zirui Liu et.al.|[2305.15265v1](http://arxiv.org/abs/2305.15265v1)|null|
+|**2023-05-24**|**GTNet: Graph Transformer Network for 3D Point Cloud Classification and Semantic Segmentation**|Wei Zhou et.al.|[2305.15213v1](http://arxiv.org/abs/2305.15213v1)|null|
+|**2023-05-24**|**Towards Adaptive Prefix Tuning for Parameter-Efficient Language Model Fine-tuning**|Zhen-Ru Zhang et.al.|[2305.15212v1](http://arxiv.org/abs/2305.15212v1)|null|
+|**2023-05-24**|**Symmetry in complex unit gain graphs and their spectra**|Pepijn Wissing et.al.|[2305.15207v1](http://arxiv.org/abs/2305.15207v1)|null|
+|**2023-05-24**|**SciReviewGen: A Large-scale Dataset for Automatic Literature Review Generation**|Tetsu Kasanishi et.al.|[2305.15186v1](http://arxiv.org/abs/2305.15186v1)|null|
+|**2023-05-24**|**6G Enabled Advanced Transportation Systems**|Ruiqi Liu et.al.|[2305.15184v1](http://arxiv.org/abs/2305.15184v1)|null|
+|**2023-05-24**|**HiTIN: Hierarchy-aware Tree Isomorphism Network for Hierarchical Text Classification**|He Zhu et.al.|[2305.15182v1](http://arxiv.org/abs/2305.15182v1)|null|
+|**2023-05-24**|**Using Scalarizations for the Approximation of Multiobjective Optimization Problems: Towards a General Theory**|Stephan Helfrich et.al.|[2305.15173v1](http://arxiv.org/abs/2305.15173v1)|null|
+|**2023-05-24**|**Modular invariance of (logarithmic) intertwining operators**|Yi-Zhi Huang et.al.|[2305.15152v1](http://arxiv.org/abs/2305.15152v1)|null|
+|**2023-05-24**|**Bert4CMR: Cross-Market Recommendation with Bidirectional Encoder Representations from Transformer**|Zheng Hu et.al.|[2305.15145v1](http://arxiv.org/abs/2305.15145v1)|null|
+|**2023-05-24**|**Beyond Individual Input for Deep Anomaly Detection on Tabular Data**|Hugo Thimonier et.al.|[2305.15121v1](http://arxiv.org/abs/2305.15121v1)|null|
+|**2023-05-24**|**Fourier Transformer: Fast Long Range Modeling by Removing Sequence Redundancy with FFT Operator**|Ziwei He et.al.|[2305.15099v1](http://arxiv.org/abs/2305.15099v1)|null|
+|**2023-05-24**|**Dynamic Masking Rate Schedules for MLM Pretraining**|Zachary Ankner et.al.|[2305.15096v1](http://arxiv.org/abs/2305.15096v1)|null|
+|**2023-05-24**|**SmartTrim: Adaptive Tokens and Parameters Pruning for Efficient Vision-Language Models**|Zekun Wang et.al.|[2305.15033v1](http://arxiv.org/abs/2305.15033v1)|null|
+|**2023-05-24**|**How to Distill your BERT: An Empirical Study on the Impact of Weight Initialisation and Distillation Objectives**|Xinpeng Wang et.al.|[2305.15032v1](http://arxiv.org/abs/2305.15032v1)|null|
+|**2023-05-24**|**Dior-CVAE: Diffusion Priors in Variational Dialog Generation**|Tianyu Yang et.al.|[2305.15025v1](http://arxiv.org/abs/2305.15025v1)|null|
+|**2023-05-24**|**Chasing the Speed of Light: Low-Latency Planetary-Scale Adaptive Byzantine Consensus**|Christian Berger et.al.|[2305.15000v1](http://arxiv.org/abs/2305.15000v1)|null|
+|**2023-05-24**|**MuLER: Detailed and Scalable Reference-based Evaluation**|Taelin Karidi et.al.|[2305.14991v1](http://arxiv.org/abs/2305.14991v1)|null|
+|**2023-05-24**|**Block-local learning with probabilistic latent representations**|David Kappel et.al.|[2305.14974v1](http://arxiv.org/abs/2305.14974v1)|null|
+|**2023-05-24**|**ICDAR 2023 Competition on Robust Layout Segmentation in Corporate Documents**|Christoph Auer et.al.|[2305.14962v1](http://arxiv.org/abs/2305.14962v1)|null|
+|**2023-05-24**|**Editing Commonsense Knowledge in GPT**|Anshita Gupta et.al.|[2305.14956v1](http://arxiv.org/abs/2305.14956v1)|null|
+|**2023-05-24**|**GAMUS: A Geometry-aware Multi-modal Semantic Segmentation Benchmark for Remote Sensing Data**|Zhitong Xiong et.al.|[2305.14914v1](http://arxiv.org/abs/2305.14914v1)|null|
+|**2023-05-24**|**HARD: Hard Augmentations for Robust Distillation**|Arne F. Nix et.al.|[2305.14890v1](http://arxiv.org/abs/2305.14890v1)|null|
+|**2023-05-24**|**Multiresolution Feature Guidance Based Transformer for Anomaly Detection**|Shuting Yan et.al.|[2305.14880v1](http://arxiv.org/abs/2305.14880v1)|null|
+|**2023-05-24**|**A Game-Theoretic Framework for AI Governance**|Na Zhang et.al.|[2305.14865v1](http://arxiv.org/abs/2305.14865v1)|null|
+|**2023-05-24**|**Utility-Probability Duality of Neural Networks**|Huang Bojun et.al.|[2305.14859v1](http://arxiv.org/abs/2305.14859v1)|null|
+|**2023-05-24**|**Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers**|Zixuan Jiang et.al.|[2305.14858v1](http://arxiv.org/abs/2305.14858v1)|**[link](https://github.com/zixuanjiang/pre-rmsnorm-transformer)**|
+|**2023-05-24**|**Geometrical Study of the Cone of Sums of Squares plus Sums of Nonnegative Circuits**|Mareike Dressler et.al.|[2305.14848v1](http://arxiv.org/abs/2305.14848v1)|null|
+|**2023-05-24**|**Predicting Token Impact Towards Efficient Vision Transformer**|Hong Wang et.al.|[2305.14840v1](http://arxiv.org/abs/2305.14840v1)|null|
+|**2023-05-24**|**On Correlated Knowledge Distillation for Monitoring Human Pose with Radios**|Shiva Raj Pokhrel et.al.|[2305.14829v1](http://arxiv.org/abs/2305.14829v1)|null|
+|**2023-05-24**|**Towards Few-shot Entity Recognition in Document Images: A Graph Neural Network Approach Robust to Image Manipulation**|Prashant Krishnan et.al.|[2305.14828v1](http://arxiv.org/abs/2305.14828v1)|null|
+|**2023-05-24**|**Building Transportation Foundation Model via Generative Graph Transformer**|Xuhong Wang et.al.|[2305.14826v1](http://arxiv.org/abs/2305.14826v1)|null|
+|**2023-05-24**|**A new discretely divergence-free positivity-preserving high-order finite volume method for ideal MHD equations**|Shengrong Ding et.al.|[2305.14820v1](http://arxiv.org/abs/2305.14820v1)|null|
+|**2023-05-24**|**Semi-Supervised and Long-Tailed Object Detection with CascadeMatch**|Yuhang Zang et.al.|[2305.14813v1](http://arxiv.org/abs/2305.14813v1)|null|
+|**2023-05-24**|**Adapting Language Models to Compress Contexts**|Alexis Chevalier et.al.|[2305.14788v1](http://arxiv.org/abs/2305.14788v1)|null|
+|**2023-05-24**|**P-vectors: A Parallel-Coupled TDNN/Transformer Network for Speaker Verification**|Xiyuan wang et.al.|[2305.14778v1](http://arxiv.org/abs/2305.14778v1)|null|
+|**2023-05-24**|**Solution to a problem of Luca, Menares and Pizarro-Madariaga**|Yuchen Ding et.al.|[2305.14776v1](http://arxiv.org/abs/2305.14776v1)|null|
+|**2023-05-24**|**Dual Path Transformer with Partition Attention**|Zhengkai Jiang et.al.|[2305.14768v1](http://arxiv.org/abs/2305.14768v1)|null|
+|**2023-05-24**|**A New Era in Software Security: Towards Self-Healing Software via Large Language Models and Formal Verification**|Yiannis Charalambous et.al.|[2305.14752v1](http://arxiv.org/abs/2305.14752v1)|null|
+|**2023-05-24**|**Wasserstein Gaussianization and Efficient Variational Bayes for Robust Bayesian Synthetic Likelihood**|Nhat-Minh Nguyen et.al.|[2305.14746v1](http://arxiv.org/abs/2305.14746v1)|null|
 |**2023-05-23**|**Video Prediction Models as Rewards for Reinforcement Learning**|Alejandro Escontrela et.al.|[2305.14343v1](http://arxiv.org/abs/2305.14343v1)|null|
 |**2023-05-23**|**APPLS: A Meta-evaluation Testbed for Plain Language Summarization**|Yue Guo et.al.|[2305.14341v1](http://arxiv.org/abs/2305.14341v1)|**[link](https://github.com/linguisticanomalies/appls)**|
 |**2023-05-23**|**Schema-Driven Information Extraction from Heterogeneous Tables**|Fan Bai et.al.|[2305.14336v1](http://arxiv.org/abs/2305.14336v1)|null|
