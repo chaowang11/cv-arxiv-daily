@@ -23,6 +23,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**Crafting Training Degradation Distribution for the Accuracy-Generalization Trade-off**|Ruofan Zhang et.al.|[2305.18107v1](http://arxiv.org/abs/2305.18107v1)|null|
+|**2023-05-29**|**Convolutional neural network based on sparse graph attention mechanism for MRI super-resolution**|Xin Hua et.al.|[2305.17898v1](http://arxiv.org/abs/2305.17898v1)|null|
+|**2023-05-27**|**USIM-DAL: Uncertainty-aware Statistical Image Modeling-based Dense Active Learning for Super-resolution**|Vikrant Rangnekar et.al.|[2305.17520v1](http://arxiv.org/abs/2305.17520v1)|null|
+|**2023-05-27**|**Super resolution computational saturated absorption microscopy**|Gabe Murray et.al.|[2305.17348v1](http://arxiv.org/abs/2305.17348v1)|null|
+|**2023-05-27**|**Super-Resolution of License Plate Images Using Attention Modules and Sub-Pixel Convolution Layers**|Valfride Nascimento et.al.|[2305.17313v1](http://arxiv.org/abs/2305.17313v1)|**[link](https://github.com/valfride/lpr-rsr-ext)**|
+|**2023-05-26**|**AI-based analysis of super-resolution microscopy: Biological discovery in the absence of ground truth**|Ivan R. Nabi et.al.|[2305.17193v1](http://arxiv.org/abs/2305.17193v1)|null|
 |**2023-05-26**|**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling**|Gongye Liu et.al.|[2305.16965v1](http://arxiv.org/abs/2305.16965v1)|**[link](https://github.com/gongyeliu/ssd)**|
 |**2023-05-26**|**Accelerated evolution of Burgers turbulence with coarse projective integration and deep learning**|Mrigank Dhingra et.al.|[2305.16564v1](http://arxiv.org/abs/2305.16564v1)|null|
 |**2023-05-26**|**GenerateCT: Text-Guided 3D Chest CT Generation**|Ibrahim Ethem Hamamci et.al.|[2305.16037v2](http://arxiv.org/abs/2305.16037v2)|**[link](https://github.com/ibrahimethemhamamci/generatect)**|
@@ -366,6 +372,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**Convolutional neural network based on sparse graph attention mechanism for MRI super-resolution**|Xin Hua et.al.|[2305.17898v1](http://arxiv.org/abs/2305.17898v1)|null|
+|**2023-05-27**|**USIM-DAL: Uncertainty-aware Statistical Image Modeling-based Dense Active Learning for Super-resolution**|Vikrant Rangnekar et.al.|[2305.17520v1](http://arxiv.org/abs/2305.17520v1)|null|
+|**2023-05-27**|**Super-Resolution of License Plate Images Using Attention Modules and Sub-Pixel Convolution Layers**|Valfride Nascimento et.al.|[2305.17313v1](http://arxiv.org/abs/2305.17313v1)|**[link](https://github.com/valfride/lpr-rsr-ext)**|
 |**2023-05-25**|**High-Similarity-Pass Attention for Single Image Super-Resolution**|Jian-Nan Su et.al.|[2305.15768v1](http://arxiv.org/abs/2305.15768v1)|null|
 |**2023-05-27**|**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**|Yiyang Ma et.al.|[2305.15357v2](http://arxiv.org/abs/2305.15357v2)|null|
 |**2023-05-23**|**Multi-BVOC Super-Resolution Exploiting Compounds Inter-Connection**|Antonio Giganti et.al.|[2305.14180v1](http://arxiv.org/abs/2305.14180v1)|null|
@@ -645,6 +654,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**Transformer Language Models Handle Word Frequency in Prediction Head**|Goro Kobayashi et.al.|[2305.18294v1](http://arxiv.org/abs/2305.18294v1)|null|
+|**2023-05-29**|**HyperConformer: Multi-head HyperMixer for Efficient Speech Recognition**|Florian Mai et.al.|[2305.18281v1](http://arxiv.org/abs/2305.18281v1)|**[link](https://github.com/speechbrain/speechbrain)**|
+|**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256v1](http://arxiv.org/abs/2305.18256v1)|null|
+|**2023-05-29**|**Extension of exactly-solvable Hamiltonians using symmetries of Lie algebras**|Smik Patel et.al.|[2305.18251v1](http://arxiv.org/abs/2305.18251v1)|null|
+|**2023-05-29**|**GazeGNN: A Gaze-Guided Graph Neural Network for Disease Classification**|Bin Wang et.al.|[2305.18221v1](http://arxiv.org/abs/2305.18221v1)|null|
+|**2023-05-29**|**Concept Decomposition for Visual Exploration and Inspiration**|Yael Vinker et.al.|[2305.18203v1](http://arxiv.org/abs/2305.18203v1)|null|
+|**2023-05-29**|**Encapsulated generalized summation-by-parts formulations for curvilinear and non-conforming meshes**|Tomas Lundquist et.al.|[2305.18195v1](http://arxiv.org/abs/2305.18195v1)|null|
+|**2023-05-29**|**A flexible Clayton-like spatial copula with application to bounded support data**|Moreno Bevilacqua et.al.|[2305.18166v1](http://arxiv.org/abs/2305.18166v1)|null|
+|**2023-05-29**|**Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning**|Yu Wang et.al.|[2305.18158v1](http://arxiv.org/abs/2305.18158v1)|**[link](https://github.com/rain305f/osp)**|
+|**2023-05-29**|**Extrinsic Factors Affecting the Accuracy of Biomedical NER**|Zhiyi Li et.al.|[2305.18152v1](http://arxiv.org/abs/2305.18152v1)|null|
+|**2023-05-29**|**Alignment-free HDR Deghosting with Semantics Consistent Transformer**|Steven Tel et.al.|[2305.18135v1](http://arxiv.org/abs/2305.18135v1)|null|
+|**2023-05-29**|**Quantum impurity with 2/3 local moment in 1D quantum wires: an NRG study**|P. A. Almeida et.al.|[2305.18121v1](http://arxiv.org/abs/2305.18121v1)|null|
+|**2023-05-29**|**Space-Time-Matter: Some Notes on the Localization Problem in Relativistic Quantum Theory**|Christian Beck et.al.|[2305.18118v1](http://arxiv.org/abs/2305.18118v1)|null|
+|**2023-05-29**|**Game of Tones: Faculty detection of GPT-4 generated content in university assessments**|Mike Perkins et.al.|[2305.18081v1](http://arxiv.org/abs/2305.18081v1)|null|
+|**2023-05-29**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079v1](http://arxiv.org/abs/2305.18079v1)|null|
+|**2023-05-29**|**Physics-Informed Computer Vision: A Review and Perspectives**|Chayan Banerjee et.al.|[2305.18035v1](http://arxiv.org/abs/2305.18035v1)|null|
+|**2023-05-29**|**A Corpus for Sentence-level Subjectivity Detection on English News Articles**|Francesco Antici et.al.|[2305.18034v1](http://arxiv.org/abs/2305.18034v1)|null|
+|**2023-05-29**|**Abstractive Summarization as Augmentation for Document-Level Event Detection**|Janko Vidaković et.al.|[2305.18023v1](http://arxiv.org/abs/2305.18023v1)|null|
+|**2023-05-29**|**HGT: A Hierarchical GCN-Based Transformer for Multimodal Periprosthetic Joint Infection Diagnosis Using CT Images and Text**|Ruiyang Li et.al.|[2305.18022v1](http://arxiv.org/abs/2305.18022v1)|null|
+|**2023-05-29**|**On the Correspondence Between Monotonic Max-Sum GNNs and Datalog**|David Tena Cucala et.al.|[2305.18015v1](http://arxiv.org/abs/2305.18015v1)|null|
+|**2023-05-29**|**TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2305.18013v1](http://arxiv.org/abs/2305.18013v1)|null|
+|**2023-05-29**|**DiffRate : Differentiable Compression Rate for Efficient Vision Transformers**|Mengzhao Chen et.al.|[2305.17997v1](http://arxiv.org/abs/2305.17997v1)|**[link](https://github.com/opengvlab/diffrate)**|
+|**2023-05-29**|**Laplace transformations and sine-Gordon type integrable PDE**|I T Habibullin et.al.|[2305.17996v1](http://arxiv.org/abs/2305.17996v1)|null|
+|**2023-05-29**|**Quafu-Qcover: Explore Combinatorial Optimization Problems on Cloud-based Quantum Computers**|BAQIS Quafu Group et.al.|[2305.17979v1](http://arxiv.org/abs/2305.17979v1)|null|
+|**2023-05-29**|**Matrix-valued  $θ$ -deformed bi-orthogonal polynomials, Non-commutative Toda theory and Bäcklund transformation**|Claire Gilson et.al.|[2305.17962v1](http://arxiv.org/abs/2305.17962v1)|null|
+|**2023-05-29**|**Fourier Analysis on Robustness of Graph Convolutional Neural Networks for Skeleton-based Action Recognition**|Nariki Tanaka et.al.|[2305.17939v1](http://arxiv.org/abs/2305.17939v1)|null|
+|**2023-05-29**|**Integrated Sensing and Communication Complex CNN CSI Enhancer for 6G Networks**|Xu Chen et.al.|[2305.17938v1](http://arxiv.org/abs/2305.17938v1)|null|
+|**2023-05-29**|**Attention Mechanisms in Medical Image Segmentation: A Survey**|Yutong Xie et.al.|[2305.17937v1](http://arxiv.org/abs/2305.17937v1)|null|
+|**2023-05-29**|**Computation Offloading for Edge Computing in RIS-Assisted Symbiotic Radio Systems**|Bin Li et.al.|[2305.17928v1](http://arxiv.org/abs/2305.17928v1)|null|
+|**2023-05-29**|**Volume Feature Rendering for Fast Neural Radiance Field Reconstruction**|Kang Han et.al.|[2305.17916v1](http://arxiv.org/abs/2305.17916v1)|null|
+|**2023-05-29**|**Adaptive Localized Cayley Parametrization for Optimization over Stiefel Manifold**|Keita Kume et.al.|[2305.17901v1](http://arxiv.org/abs/2305.17901v1)|null|
+|**2023-05-29**|**Secrecy Capacity Analysis of 4-WFRFT Based Physical Layer Security in MIMO System**|T. Xu et.al.|[2305.17897v1](http://arxiv.org/abs/2305.17897v1)|null|
+|**2023-05-29**|**A generalized curvilinear solver for spherical shell Rayleigh-Bénard convection**|Souvik Naskar et.al.|[2305.17875v1](http://arxiv.org/abs/2305.17875v1)|null|
+|**2023-05-29**|**The Digital Divide in Process Safety: Quantitative Risk Analysis of Human-AI Collaboration**|He Wen et.al.|[2305.17873v1](http://arxiv.org/abs/2305.17873v1)|null|
+|**2023-05-29**|**GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions**|Tao Wang et.al.|[2305.17863v1](http://arxiv.org/abs/2305.17863v1)|null|
+|**2023-05-29**|**Streaming Audio Transformers for Online Audio Tagging**|Heinrich Dinkel et.al.|[2305.17834v1](http://arxiv.org/abs/2305.17834v1)|null|
+|**2023-05-28**|**Forecasting the levels of disability in the older population of England: Application of neural nets**|Marjan Qazvini et.al.|[2305.17807v1](http://arxiv.org/abs/2305.17807v1)|null|
+|**2023-05-28**|**T2FNorm: Extremely Simple Scaled Train-time Feature Normalization for OOD Detection**|Sudarshan Regmi et.al.|[2305.17797v1](http://arxiv.org/abs/2305.17797v1)|null|
+|**2023-05-28**|**Comparison Problems for Radon Transforms**|Alexander Koldobsky et.al.|[2305.17796v1](http://arxiv.org/abs/2305.17796v1)|null|
+|**2023-05-28**|**LowDINO -- A Low Parameter Self Supervised Learning Model**|Sai Krishna Prathapaneni et.al.|[2305.17791v1](http://arxiv.org/abs/2305.17791v1)|**[link](https://github.com/saikrishna-prathapaneni/LowDINO)**|
+|**2023-05-28**|**Visual Affordance Prediction for Guiding Robot Exploration**|Homanga Bharadhwaj et.al.|[2305.17783v1](http://arxiv.org/abs/2305.17783v1)|null|
+|**2023-05-28**|**On Landau-Khalatnikov-Fradkin transformation in quenched QED3**|A. V. Kotikov et.al.|[2305.17775v1](http://arxiv.org/abs/2305.17775v1)|null|
+|**2023-05-28**|**Breaking Language Barriers with a LEAP: Learning Strategies for Polyglot LLMs**|Akshay Nambi et.al.|[2305.17740v1](http://arxiv.org/abs/2305.17740v1)|null|
+|**2023-05-28**|**Learning a Structural Causal Model for Intuition Reasoning in Conversation**|Hang Chen et.al.|[2305.17727v1](http://arxiv.org/abs/2305.17727v1)|null|
+|**2023-05-28**|**Eliminating the Hubble Tension in the Presence of the Interconnection between Dark Energy and Matter in the Modern Universe**|G. S. Bisnovatyi-Kogan et.al.|[2305.17722v1](http://arxiv.org/abs/2305.17722v1)|null|
+|**2023-05-28**|**Local Probe Isomerization in a One-Dimensional Molecular Array**|Shigeki Kawai et.al.|[2305.17703v1](http://arxiv.org/abs/2305.17703v1)|null|
+|**2023-05-28**|**Amplification trojan network: Attack deep neural networks by amplifying their inherent weakness**|Zhanhao Hu et.al.|[2305.17688v1](http://arxiv.org/abs/2305.17688v1)|null|
+|**2023-05-28**|**Understanding Blockchain Governance: Analyzing Decentralized Voting to Amend DeFi Smart Contracts**|Johnnatan Messias et.al.|[2305.17655v1](http://arxiv.org/abs/2305.17655v1)|null|
+|**2023-05-28**|**DPFormer: Learning Differentially Private Transformer on Long-Tailed Data**|Youlong Ding et.al.|[2305.17633v1](http://arxiv.org/abs/2305.17633v1)|null|
+|**2023-05-29**|**MT-SLVR: Multi-Task Self-Supervised Learning for Transformation In(Variant) Representations**|Calum Heggan et.al.|[2305.17191v1](http://arxiv.org/abs/2305.17191v1)|**[link](https://github.com/cheggan/mt-slvr)**|
 |**2023-05-26**|**Rotating black holes embedded in a cosmological background for scalar-tensor theories**|Eugeny Babichev et.al.|[2305.17129v1](http://arxiv.org/abs/2305.17129v1)|null|
 |**2023-05-26**|**BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks**|Kai Zhang et.al.|[2305.17100v1](http://arxiv.org/abs/2305.17100v1)|**[link](https://github.com/taokz/biomedgpt)**|
 |**2023-05-26**|**GRAtt-VIS: Gated Residual Attention for Auto Rectifying Video Instance Segmentation**|Tanveer Hannan et.al.|[2305.17096v1](http://arxiv.org/abs/2305.17096v1)|null|
