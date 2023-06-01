@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**Physics-Informed Ensemble Representation for Light-Field Image Super-Resolution**|Manchang Jin et.al.|[2305.20006v1](http://arxiv.org/abs/2305.20006v1)|null|
 |**2023-05-30**|**Scale-aware Super-resolution Network with Dual Affinity Learning for Lesion Segmentation from Medical Images**|Yanwen Li et.al.|[2305.19063v1](http://arxiv.org/abs/2305.19063v1)|null|
 |**2023-05-30**|**Toward Real-World Light Field Super-Resolution**|Zeyu Xiao et.al.|[2305.18994v1](http://arxiv.org/abs/2305.18994v1)|null|
 |**2023-05-26**|**Learning from Multi-Perception Features for Real-Word Image Super-resolution**|Axi Niu et.al.|[2305.18547v1](http://arxiv.org/abs/2305.18547v1)|null|
@@ -375,6 +376,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**Physics-Informed Ensemble Representation for Light-Field Image Super-Resolution**|Manchang Jin et.al.|[2305.20006v1](http://arxiv.org/abs/2305.20006v1)|null|
 |**2023-05-30**|**Scale-aware Super-resolution Network with Dual Affinity Learning for Lesion Segmentation from Medical Images**|Yanwen Li et.al.|[2305.19063v1](http://arxiv.org/abs/2305.19063v1)|null|
 |**2023-05-26**|**Learning from Multi-Perception Features for Real-Word Image Super-resolution**|Axi Niu et.al.|[2305.18547v1](http://arxiv.org/abs/2305.18547v1)|null|
 |**2023-05-29**|**Convolutional neural network based on sparse graph attention mechanism for MRI super-resolution**|Xin Hua et.al.|[2305.17898v1](http://arxiv.org/abs/2305.17898v1)|null|
@@ -659,6 +661,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel et.al.|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|null|
+|**2023-05-31**|**Learning Explicit Contact for Implicit Reconstruction of Hand-held Objects from Monocular Images**|Junxing Hu et.al.|[2305.20089v1](http://arxiv.org/abs/2305.20089v1)|null|
+|**2023-05-31**|**Managed Geo-Distributed Feature Store: Architecture and System Design**|Anya Li et.al.|[2305.20077v1](http://arxiv.org/abs/2305.20077v1)|null|
+|**2023-05-31**|**On the Origin of Linearity and Unitarity in Quantum Theory**|Matt Wilson et.al.|[2305.20063v1](http://arxiv.org/abs/2305.20063v1)|null|
+|**2023-05-31**|**LOWA: Localize Objects in the Wild with Attributes**|Xiaoyuan Guo et.al.|[2305.20047v1](http://arxiv.org/abs/2305.20047v1)|null|
+|**2023-05-31**|**On the faces of unigraphic  $3$ -polytopes**|Riccardo W. Maffucci et.al.|[2305.20012v1](http://arxiv.org/abs/2305.20012v1)|null|
+|**2023-05-31**|**Physics-Informed Ensemble Representation for Light-Field Image Super-Resolution**|Manchang Jin et.al.|[2305.20006v1](http://arxiv.org/abs/2305.20006v1)|null|
+|**2023-05-31**|**Adam Accumulation to Reduce Memory Footprints of both Activations and Gradients for Large-scale DNN Training**|Yijia Zhang et.al.|[2305.19982v1](http://arxiv.org/abs/2305.19982v1)|null|
+|**2023-05-31**|**MedNgage: A Dataset for Understanding Engagement in Patient-Nurse Conversations**|Yan Wang et.al.|[2305.19981v1](http://arxiv.org/abs/2305.19981v1)|null|
+|**2023-05-31**|**DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Text Spotting**|Maoyuan Ye et.al.|[2305.19957v1](http://arxiv.org/abs/2305.19957v1)|**[link](https://github.com/vitae-transformer/deepsolo)**|
+|**2023-05-31**|**MicroSegNet: A Deep Learning Approach for Prostate Segmentation on Micro-Ultrasound Images**|Hongxu Jiang et.al.|[2305.19956v1](http://arxiv.org/abs/2305.19956v1)|null|
+|**2023-05-31**|**Image Registration of In Vivo Micro-Ultrasound and Ex Vivo Pseudo-Whole Mount Histopathology Images of the Prostate: A Proof-of-Concept Study**|Muhammad Imran et.al.|[2305.19939v1](http://arxiv.org/abs/2305.19939v1)|null|
+|**2023-05-31**|**Neuron to Graph: Interpreting Language Model Neurons at Scale**|Alex Foote et.al.|[2305.19911v1](http://arxiv.org/abs/2305.19911v1)|**[link](https://github.com/alexjfoote/neuron2graph)**|
+|**2023-05-31**|**The effect of spatial sampling on the resolution of the magnetostatic inverse problem**|Jussi Nurminen et.al.|[2305.19909v1](http://arxiv.org/abs/2305.19909v1)|null|
+|**2023-05-31**|**How to Plant Trees in Language Models: Data and Architectural Effects on the Emergence of Syntactic Inductive Biases**|Aaron Mueller et.al.|[2305.19905v1](http://arxiv.org/abs/2305.19905v1)|null|
+|**2023-05-31**|**fpgaHART: A toolflow for throughput-oriented acceleration of 3D CNNs for HAR onto FPGAs**|Petros Toupas et.al.|[2305.19896v1](http://arxiv.org/abs/2305.19896v1)|null|
+|**2023-05-31**|**Sharp quantitative stability of the Möbius group among sphere-valued maps in arbitrary dimension**|André Guerra et.al.|[2305.19886v1](http://arxiv.org/abs/2305.19886v1)|null|
+|**2023-05-31**|**Multi-qubit State Tomography with Few Pauli Measurements**|Xudan Chai et.al.|[2305.19873v1](http://arxiv.org/abs/2305.19873v1)|null|
+|**2023-05-31**|**There is more to graphs than meets the eye: Learning universal features with self-supervision**|Laya Das et.al.|[2305.19871v1](http://arxiv.org/abs/2305.19871v1)|null|
+|**2023-05-31**|**Cellular automata inspired multistable origami metamaterials for mechanical learning**|Zuolin Liu et.al.|[2305.19856v1](http://arxiv.org/abs/2305.19856v1)|null|
+|**2023-05-31**|**Primal-Attention: Self-attention through Asymmetric Kernel SVD in Primal Representation**|Yingyi Chen et.al.|[2305.19798v1](http://arxiv.org/abs/2305.19798v1)|null|
+|**2023-05-31**|**W-symmetries, anomalies and heterotic backgrounds with SU holonomy**|L. Grimanellis et.al.|[2305.19793v1](http://arxiv.org/abs/2305.19793v1)|null|
+|**2023-05-31**|**DeepMerge: Deep Learning-Based Region-Merging for Image Segmentation**|Xianwei Lv et.al.|[2305.19787v1](http://arxiv.org/abs/2305.19787v1)|null|
+|**2023-05-31**|**On a class of elliptic equations with Critical Perturbations in the hyperbolic space**|Debdip Ganguly et.al.|[2305.19781v1](http://arxiv.org/abs/2305.19781v1)|null|
+|**2023-05-31**|**Sensitivity analysis for publication bias on the time-dependent summary ROC analysis in meta-analysis of prognosis studies**|Yi Zhou et.al.|[2305.19741v1](http://arxiv.org/abs/2305.19741v1)|null|
+|**2023-05-31**|**Prevalence of non-stationarity in quasi-periodic pulsations (QPPs) associated with M- and X-class solar flares**|Tishtrya Mehta et.al.|[2305.19737v1](http://arxiv.org/abs/2305.19737v1)|null|
+|**2023-05-31**|**A rule-general abductive learning by rough sets**|Xu-chang Guo et.al.|[2305.19718v1](http://arxiv.org/abs/2305.19718v1)|null|
+|**2023-05-31**|**On Chaplygin models in f(G) gravity**|Fidele Twagirayezu et.al.|[2305.19711v1](http://arxiv.org/abs/2305.19711v1)|null|
+|**2023-05-31**|**Building Extractive Question Answering System to Support Human-AI Health Coaching Model for Sleep Domain**|Iva Bojic et.al.|[2305.19707v1](http://arxiv.org/abs/2305.19707v1)|null|
+|**2023-05-31**|**Vandermonde Neural Operators**|Levi Lingsch et.al.|[2305.19663v1](http://arxiv.org/abs/2305.19663v1)|null|
+|**2023-05-31**|**Uncertainties in ab initio nuclear structure calculations with chiral interactions**|P. Maris et.al.|[2305.19648v1](http://arxiv.org/abs/2305.19648v1)|null|
+|**2023-05-31**|**A Multi-Modal Transformer Network for Action Detection**|Matthew Korban et.al.|[2305.19624v1](http://arxiv.org/abs/2305.19624v1)|null|
+|**2023-05-31**|**XTransCT: Ultra-Fast Volumetric CT Reconstruction using Two Orthogonal X-Ray Projections via a Transformer Network**|Chulong Zhang et.al.|[2305.19621v1](http://arxiv.org/abs/2305.19621v1)|null|
+|**2023-05-31**|**SLABERT Talk Pretty One Day: Modeling Second Language Acquisition with BERT**|Aditya Yadavalli et.al.|[2305.19589v1](http://arxiv.org/abs/2305.19589v1)|null|
+|**2023-05-31**|**LAIT: Efficient Multi-Segment Encoding in Transformers with Layer-Adjustable Interaction**|Jeremiah Milbauer et.al.|[2305.19585v1](http://arxiv.org/abs/2305.19585v1)|null|
+|**2023-05-31**|**Zero-Shot Automatic Pronunciation Assessment**|Hongfu Liu et.al.|[2305.19563v1](http://arxiv.org/abs/2305.19563v1)|null|
+|**2023-05-31**|**Replicability in Reinforcement Learning**|Amin Karbasi et.al.|[2305.19562v1](http://arxiv.org/abs/2305.19562v1)|null|
+|**2023-05-31**|**Dictionary Learning under Symmetries via Group Representations**|Subhroshekhar Ghosh et.al.|[2305.19557v1](http://arxiv.org/abs/2305.19557v1)|null|
+|**2023-05-31**|**Accurate and Structured Pruning for Efficient Automatic Speech Recognition**|Huiqiang Jiang et.al.|[2305.19549v1](http://arxiv.org/abs/2305.19549v1)|null|
+|**2023-05-31**|**Catalysis distillation neural network for the few shot open catalyst challenge**|Bowen Deng et.al.|[2305.19545v1](http://arxiv.org/abs/2305.19545v1)|null|
+|**2023-05-31**|**Few-Shot Speaker Identification Using Lightweight Prototypical Network with Feature Grouping and Interaction**|Yanxiong Li et.al.|[2305.19541v1](http://arxiv.org/abs/2305.19541v1)|null|
+|**2023-05-31**|**Energy stable and maximum bound principle preserving schemes for the Allen-Cahn equation based on the Saul'yev methods**|Xuelong Gu et.al.|[2305.19537v1](http://arxiv.org/abs/2305.19537v1)|null|
+|**2023-05-31**|**Recasting Self-Attention with Holographic Reduced Representations**|Mohammad Mahmudul Alam et.al.|[2305.19534v1](http://arxiv.org/abs/2305.19534v1)|**[link](https://github.com/neuromorphiccomputationresearchprogram/hrrformer)**|
+|**2023-05-31**|**DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator**|Hanqing Zhu et.al.|[2305.19533v1](http://arxiv.org/abs/2305.19533v1)|null|
+|**2023-05-31**|**Explanations as Features: LLM-Based Features for Text-Attributed Graphs**|Xiaoxin He et.al.|[2305.19523v1](http://arxiv.org/abs/2305.19523v1)|**[link](https://github.com/XiaoxinHe/TAPE)**|
+|**2023-05-31**|**An MCMC Approach to Bayesian Image Analysis in Fourier Space**|Konstantinos Bakas et.al.|[2305.19511v1](http://arxiv.org/abs/2305.19511v1)|null|
+|**2023-05-31**|**SPADA: A Toolbox of Designing Soft Pneumatic Actuators for Shape Matching based on the Surrogate Model**|Yao Yao et.al.|[2305.19509v1](http://arxiv.org/abs/2305.19509v1)|null|
+|**2023-05-31**|**M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference**|Jiaqi Gu et.al.|[2305.19505v1](http://arxiv.org/abs/2305.19505v1)|**[link](https://github.com/JeremieMelo/M3ICRO-MOMMI)**|
+|**2023-05-31**|**CVSNet: A Computer Implementation for Central Visual System of The Brain**|Ruimin Gao et.al.|[2305.19492v1](http://arxiv.org/abs/2305.19492v1)|null|
+|**2023-05-31**|**Adaptive False Discovery Rate Control with Privacy Guarantee**|Xintao Xia et.al.|[2305.19482v1](http://arxiv.org/abs/2305.19482v1)|null|
 |**2023-05-30**|**Make-A-Voice: Unified Voice Synthesis With Discrete Representation**|Rongjie Huang et.al.|[2305.19269v1](http://arxiv.org/abs/2305.19269v1)|null|
 |**2023-05-30**|**Jointly Reparametrized Multi-Layer Adaptation for Efficient and Private Tuning**|Umang Gupta et.al.|[2305.19264v1](http://arxiv.org/abs/2305.19264v1)|**[link](https://github.com/umgupta/jointly-reparametrized-finetuning)**|
 |**2023-05-30**|**Characterization of p-exponents by continuous wavelet transforms, applications to the multifractal analysis of sum of random pulses**|Guillaume Saës et.al.|[2305.19239v1](http://arxiv.org/abs/2305.19239v1)|null|
