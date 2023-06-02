@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Spatio-Angular Convolutions for Super-resolution in Diffusion MRI**|Matthew Lyon et.al.|[2306.00854v1](http://arxiv.org/abs/2306.00854v1)|null|
+|**2023-06-01**|**Dissecting Arbitrary-scale Super-resolution Capability from Pre-trained Diffusion Generative Models**|Ruibin Li et.al.|[2306.00714v1](http://arxiv.org/abs/2306.00714v1)|null|
+|**2023-06-01**|**Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution**|Wuxuan Shi et.al.|[2306.00386v1](http://arxiv.org/abs/2306.00386v1)|**[link](https://github.com/shiwuxuan/suft)**|
 |**2023-05-31**|**Physics-Informed Ensemble Representation for Light-Field Image Super-Resolution**|Manchang Jin et.al.|[2305.20006v1](http://arxiv.org/abs/2305.20006v1)|null|
 |**2023-05-30**|**Scale-aware Super-resolution Network with Dual Affinity Learning for Lesion Segmentation from Medical Images**|Yanwen Li et.al.|[2305.19063v1](http://arxiv.org/abs/2305.19063v1)|null|
 |**2023-05-30**|**Toward Real-World Light Field Super-Resolution**|Zeyu Xiao et.al.|[2305.18994v1](http://arxiv.org/abs/2305.18994v1)|null|
@@ -376,6 +379,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Dissecting Arbitrary-scale Super-resolution Capability from Pre-trained Diffusion Generative Models**|Ruibin Li et.al.|[2306.00714v1](http://arxiv.org/abs/2306.00714v1)|null|
 |**2023-05-31**|**Physics-Informed Ensemble Representation for Light-Field Image Super-Resolution**|Manchang Jin et.al.|[2305.20006v1](http://arxiv.org/abs/2305.20006v1)|null|
 |**2023-05-30**|**Scale-aware Super-resolution Network with Dual Affinity Learning for Lesion Segmentation from Medical Images**|Yanwen Li et.al.|[2305.19063v1](http://arxiv.org/abs/2305.19063v1)|null|
 |**2023-05-26**|**Learning from Multi-Perception Features for Real-Word Image Super-resolution**|Axi Niu et.al.|[2305.18547v1](http://arxiv.org/abs/2305.18547v1)|null|
@@ -661,6 +665,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles**|Chaitanya Ryali et.al.|[2306.00989v1](http://arxiv.org/abs/2306.00989v1)|**[link](https://github.com/facebookresearch/hiera)**|
+|**2023-06-01**|**StyleGAN knows Normal, Depth, Albedo, and More**|Anand Bhattad et.al.|[2306.00987v1](http://arxiv.org/abs/2306.00987v1)|null|
+|**2023-06-01**|**Building Rearticulable Models for Arbitrary 3D Objects from 4D Point Clouds**|Shaowei Liu et.al.|[2306.00979v1](http://arxiv.org/abs/2306.00979v1)|null|
+|**2023-06-01**|**EEL: Efficiently Encoding Lattices for Reranking**|Prasann Singhal et.al.|[2306.00947v1](http://arxiv.org/abs/2306.00947v1)|**[link](https://github.com/prasanns/eel-reranking)**|
+|**2023-06-01**|**Exposing Attention Glitches with Flip-Flop Language Modeling**|Bingbin Liu et.al.|[2306.00946v1](http://arxiv.org/abs/2306.00946v1)|null|
+|**2023-06-01**|**CS4ML: A general framework for active learning with arbitrary data based on Christoffel functions**|Ben Adcock et.al.|[2306.00945v1](http://arxiv.org/abs/2306.00945v1)|null|
+|**2023-06-01**|**AC response of Chklovskii-Halperin quantum Hall step-up transformer**|Sampurna Karmakar et.al.|[2306.00939v1](http://arxiv.org/abs/2306.00939v1)|null|
+|**2023-06-01**|**Unraveling the Catalytic Effect of Hydrogen Adsorption on Pt Nanoparticle Shape-Change**|Cameron J. Owen et.al.|[2306.00901v1](http://arxiv.org/abs/2306.00901v1)|null|
+|**2023-06-01**|**Covariance in Non-Commutative Algebra**|Aleks Kleyn et.al.|[2306.00880v1](http://arxiv.org/abs/2306.00880v1)|null|
+|**2023-06-01**|**Blockchain-based Decentralized Co-governance: Innovations and Solutions for Sustainable Crowdfunding**|Bingyou Chen et.al.|[2306.00869v1](http://arxiv.org/abs/2306.00869v1)|null|
+|**2023-06-01**|**A Transformer-based representation-learning model with unified processing of multimodal input for clinical diagnostics**|Hong-Yu Zhou et.al.|[2306.00864v1](http://arxiv.org/abs/2306.00864v1)|null|
+|**2023-06-01**|**DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection**|Rui Shao et.al.|[2306.00863v1](http://arxiv.org/abs/2306.00863v1)|**[link](https://github.com/rshaojimmy/deepfake-adapter)**|
+|**2023-06-01**|**Learning Sampling Dictionaries for Efficient and Generalizable Robot Motion Planning with Transformers**|Jacob J Johnson et.al.|[2306.00851v1](http://arxiv.org/abs/2306.00851v1)|null|
+|**2023-06-01**|**Geometrothermodynamic cosmology**|Orlando Luongo et.al.|[2306.00839v1](http://arxiv.org/abs/2306.00839v1)|null|
+|**2023-06-01**|**Adapting a ConvNeXt model to audio classification on AudioSet**|Thomas Pellegrini et.al.|[2306.00830v1](http://arxiv.org/abs/2306.00830v1)|null|
+|**2023-06-01**|**Semigroup of transformations with restricted partial range: Regularity, abundance and some combinatorial results**|Jiulin Jin et.al.|[2306.00822v1](http://arxiv.org/abs/2306.00822v1)|null|
+|**2023-06-01**|**Boundary Layers for the Lane-Emden System with supercritical exponents**|Qing Guo et.al.|[2306.00811v1](http://arxiv.org/abs/2306.00811v1)|null|
+|**2023-06-01**|**Auto-Spikformer: Spikformer Architecture Search**|Kaiwei Che et.al.|[2306.00807v1](http://arxiv.org/abs/2306.00807v1)|null|
+|**2023-06-01**|**Adaptive Contextual Biasing for Transducer Based Streaming Speech Recognition**|Tianyi Xu et.al.|[2306.00804v1](http://arxiv.org/abs/2306.00804v1)|null|
+|**2023-06-01**|**Birth of a Transformer: A Memory Viewpoint**|Alberto Bietti et.al.|[2306.00802v1](http://arxiv.org/abs/2306.00802v1)|null|
+|**2023-06-01**|**Catalysis in Quantum Information Theory**|Patryk Lipka-Bartosik et.al.|[2306.00798v1](http://arxiv.org/abs/2306.00798v1)|null|
+|**2023-06-01**|**Fermonic anyons: entanglement and quantum computation from a resource-theoretic perspective**|Allan Tosta et.al.|[2306.00795v1](http://arxiv.org/abs/2306.00795v1)|null|
+|**2023-06-01**|**Improved Cross-Lingual Transfer Learning For Automatic Speech Translation**|Sameer Khurana et.al.|[2306.00789v1](http://arxiv.org/abs/2306.00789v1)|null|
+|**2023-06-01**|**Impact of using a privacy model on smart buildings data for CO2 prediction**|Marlon P. da Silva et.al.|[2306.00766v1](http://arxiv.org/abs/2306.00766v1)|null|
+|**2023-06-01**|**LiT-4-RSVQA: Lightweight Transformer-based Visual Question Answering in Remote Sensing**|Leonard Hackel et.al.|[2306.00758v1](http://arxiv.org/abs/2306.00758v1)|null|
+|**2023-06-01**|**Differentiable Tree Operations Promote Compositional Generalization**|Paul Soulos et.al.|[2306.00751v1](http://arxiv.org/abs/2306.00751v1)|null|
+|**2023-06-01**|**Shape Transitions in Network Model of Active Elastic Shells**|Ajoy Maji et.al.|[2306.00735v1](http://arxiv.org/abs/2306.00735v1)|null|
+|**2023-06-01**|**Self-testing in prepare-and-measure scenarios and a robust version of Wigner's theorem**|Miguel Navascues et.al.|[2306.00730v1](http://arxiv.org/abs/2306.00730v1)|null|
+|**2023-06-01**|**Boosting the Performance of Transformer Architectures for Semantic Textual Similarity**|Ivan Rep et.al.|[2306.00708v1](http://arxiv.org/abs/2306.00708v1)|null|
+|**2023-06-01**|**DAM-Net: Global Flood Detection from SAR Imagery Using Differential Attention Metric-Based Vision Transformers**|Tamer Saleh et.al.|[2306.00704v1](http://arxiv.org/abs/2306.00704v1)|**[link](https://github.com/tamer-saleh/s1gflood-detection)**|
+|**2023-06-01**|**Prediction of Post-Operative Renal and Pulmonary Complication Using Transformers**|Reza Shirkavand et.al.|[2306.00698v1](http://arxiv.org/abs/2306.00698v1)|null|
+|**2023-06-01**|**Analyzing the Internals of Neural Radiance Fields**|Lukas Radl et.al.|[2306.00696v1](http://arxiv.org/abs/2306.00696v1)|null|
+|**2023-06-01**|**Encoder-decoder multimodal speaker change detection**|Jee-weon Jung et.al.|[2306.00680v1](http://arxiv.org/abs/2306.00680v1)|null|
+|**2023-06-01**|**Modes of the Sakai-Sugimoto soliton**|Markus A. G. Amano et.al.|[2306.00677v1](http://arxiv.org/abs/2306.00677v1)|null|
+|**2023-06-01**|**RHFedMTL: Resource-Aware Hierarchical Federated Multi-Task Learning**|Xingfu Yi et.al.|[2306.00675v1](http://arxiv.org/abs/2306.00675v1)|null|
+|**2023-06-01**|**Being Right for Whose Right Reasons?**|Terne Sasha Thorn Jakobsen et.al.|[2306.00639v1](http://arxiv.org/abs/2306.00639v1)|null|
+|**2023-06-01**|**Experiential AI: A transdisciplinary framework for legibility and agency in AI**|Drew Hemment et.al.|[2306.00635v1](http://arxiv.org/abs/2306.00635v1)|null|
+|**2023-06-01**|**A low-rank isogeometric solver based on Tucker tensors**|Montardini Monica et.al.|[2306.00632v1](http://arxiv.org/abs/2306.00632v1)|null|
+|**2023-06-01**|**Class Anchor Margin Loss for Content-Based Image Retrieval**|Alexandru Ghita et.al.|[2306.00630v1](http://arxiv.org/abs/2306.00630v1)|null|
+|**2023-06-01**|**TorchRL: A data-driven decision-making library for PyTorch**|Albert Bou et.al.|[2306.00577v1](http://arxiv.org/abs/2306.00577v1)|**[link](https://github.com/pytorch/rl)**|
+|**2023-06-01**|**Masked Autoencoders with Multi-Window Attention Are Better Audio Learners**|Sarthak Yadav et.al.|[2306.00561v1](http://arxiv.org/abs/2306.00561v1)|**[link](https://github.com/10997neurips23/10997_mwmae)**|
+|**2023-06-01**|**Infinitesimal braidings and pre-Cartier bialgebras**|A. Ardizzoni et.al.|[2306.00558v1](http://arxiv.org/abs/2306.00558v1)|null|
+|**2023-06-01**|**A Novel Driver Distraction Behavior Detection Based on Self-Supervised Learning Framework with Masked Image Modeling**|Yingzhi Zhang et.al.|[2306.00543v1](http://arxiv.org/abs/2306.00543v1)|null|
+|**2023-06-01**|**Expanding the Fourier transform of the scaled circular Jacobi  $β$  ensemble density**|Peter J. Forrester et.al.|[2306.00525v1](http://arxiv.org/abs/2306.00525v1)|null|
+|**2023-06-01**|**On orbital stability of solitons for Maxwell-Lorentz equations with spinning particle**|Alexander Komech et.al.|[2306.00508v1](http://arxiv.org/abs/2306.00508v1)|null|
+|**2023-06-01**|**Speech inpainting: Context-based speech synthesis guided by video**|Juan F. Montesinos et.al.|[2306.00489v1](http://arxiv.org/abs/2306.00489v1)|null|
+|**2023-06-01**|**A study on Diophantine equations via cluster theory**|Leizhen Bao et.al.|[2306.00468v1](http://arxiv.org/abs/2306.00468v1)|null|
+|**2023-06-01**|**Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual Semantic Sentence Similarity**|Katharina Hämmerl et.al.|[2306.00458v1](http://arxiv.org/abs/2306.00458v1)|**[link](https://github.com/kathyhaem/outliers)**|
+|**2023-06-01**|**Mixed-Integer MPC Strategies for Fueling and Density Control in Fusion Tokamaks**|Christopher A. Orrico et.al.|[2306.00415v1](http://arxiv.org/abs/2306.00415v1)|null|
+|**2023-06-01**|**Lightweight Vision Transformer with Bidirectional Interaction**|Qihang Fan et.al.|[2306.00396v1](http://arxiv.org/abs/2306.00396v1)|**[link](https://github.com/qhfan/fat)**|
 |**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel et.al.|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|null|
 |**2023-05-31**|**Learning Explicit Contact for Implicit Reconstruction of Hand-held Objects from Monocular Images**|Junxing Hu et.al.|[2305.20089v1](http://arxiv.org/abs/2305.20089v1)|null|
 |**2023-05-31**|**Managed Geo-Distributed Feature Store: Architecture and System Design**|Anya Li et.al.|[2305.20077v1](http://arxiv.org/abs/2305.20077v1)|null|
@@ -5957,6 +6011,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Towards Interactive Image Inpainting via Sketch Refinement**|Chang Liu et.al.|[2306.00407v1](http://arxiv.org/abs/2306.00407v1)|**[link](https://github.com/alonzoleeeooo/sketchrefiner)**|
+|**2023-05-31**|**Diffusion Brush: A Latent Diffusion Model-based Editing Tool for AI-generated Images**|Peyman Gholami et.al.|[2306.00219v1](http://arxiv.org/abs/2306.00219v1)|null|
 |**2023-05-30**|**Scene restoration from scaffold occlusion using deep learning-based methods**|Yuexiong Ding et.al.|[2305.18810v1](http://arxiv.org/abs/2305.18810v1)|null|
 |**2023-05-30**|**Real-World Image Variation by Aligning Diffusion Inversion Chain**|Yuechen Zhang et.al.|[2305.18729v1](http://arxiv.org/abs/2305.18729v1)|**[link](https://github.com/julianjuaner/rival)**|
 |**2023-05-19**|**A Unified Prompt-Guided In-Context Inpainting Framework for Reference-based Image Manipulations**|Chenjie Cao et.al.|[2305.11577v1](http://arxiv.org/abs/2305.11577v1)|**[link](https://github.com/ewrfcas/pgic_inpainting)**|
