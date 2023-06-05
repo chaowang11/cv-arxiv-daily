@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**A Feature Reuse Framework with Texture-adaptive Aggregation for Reference-based Super-Resolution**|Xiaoyong Mei et.al.|[2306.01500v1](http://arxiv.org/abs/2306.01500v1)|**[link](https://github.com/yi-yang355/frfsr)**|
 |**2023-06-01**|**Spatio-Angular Convolutions for Super-resolution in Diffusion MRI**|Matthew Lyon et.al.|[2306.00854v1](http://arxiv.org/abs/2306.00854v1)|null|
 |**2023-06-01**|**Dissecting Arbitrary-scale Super-resolution Capability from Pre-trained Diffusion Generative Models**|Ruibin Li et.al.|[2306.00714v1](http://arxiv.org/abs/2306.00714v1)|null|
 |**2023-06-01**|**Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution**|Wuxuan Shi et.al.|[2306.00386v1](http://arxiv.org/abs/2306.00386v1)|**[link](https://github.com/shiwuxuan/suft)**|
@@ -379,6 +380,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**A Feature Reuse Framework with Texture-adaptive Aggregation for Reference-based Super-Resolution**|Xiaoyong Mei et.al.|[2306.01500v1](http://arxiv.org/abs/2306.01500v1)|**[link](https://github.com/yi-yang355/frfsr)**|
 |**2023-06-01**|**Dissecting Arbitrary-scale Super-resolution Capability from Pre-trained Diffusion Generative Models**|Ruibin Li et.al.|[2306.00714v1](http://arxiv.org/abs/2306.00714v1)|null|
 |**2023-05-31**|**Physics-Informed Ensemble Representation for Light-Field Image Super-Resolution**|Manchang Jin et.al.|[2305.20006v1](http://arxiv.org/abs/2305.20006v1)|**[link](https://github.com/kimchange/pilf)**|
 |**2023-05-30**|**Scale-aware Super-resolution Network with Dual Affinity Learning for Lesion Segmentation from Medical Images**|Yanwen Li et.al.|[2305.19063v1](http://arxiv.org/abs/2305.19063v1)|null|
@@ -627,6 +629,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732v1](http://arxiv.org/abs/2306.01732v1)|null|
 |**2023-05-23**|**FlowChroma -- A Deep Recurrent Neural Network for Video Colorization**|Thejan Wijesinghe et.al.|[2305.13704v1](http://arxiv.org/abs/2305.13704v1)|null|
 |**2023-05-13**|**Temporal Consistent Automatic Video Colorization via Semantic Correspondence**|Yu Zhang et.al.|[2305.07904v1](http://arxiv.org/abs/2305.07904v1)|**[link](https://github.com/bupt-ai-cz/tcvc)**|
 |**2023-03-27**|**Exemplar-based Video Colorization with Long-term Spatiotemporal Dependency**|Siqi Chen et.al.|[2303.15081v1](http://arxiv.org/abs/2303.15081v1)|null|
@@ -665,6 +668,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection**|Zhangyang Qi et.al.|[2306.01738v1](http://arxiv.org/abs/2306.01738v1)|null|
+|**2023-06-02**|**DocFormerv2: Local Features for Document Understanding**|Srikar Appalaraju et.al.|[2306.01733v1](http://arxiv.org/abs/2306.01733v1)|null|
+|**2023-06-02**|**Improving Generalization in Task-oriented Dialogues with Workflows and Action Plans**|Stefania Raimondo et.al.|[2306.01729v1](http://arxiv.org/abs/2306.01729v1)|null|
+|**2023-06-02**|**Distilling Efficient Language-Specific Models for Cross-Lingual Transfer**|Alan Ansell et.al.|[2306.01709v1](http://arxiv.org/abs/2306.01709v1)|**[link](https://github.com/alanansell/bistil)**|
+|**2023-06-02**|**The Information Pathways Hypothesis: Transformers are Dynamic Self-Ensembles**|Md Shamim Hussain et.al.|[2306.01705v1](http://arxiv.org/abs/2306.01705v1)|null|
+|**2023-06-02**|**Interplay of magnetic field and magnetic impurities in Ising superconductors**|Wuzhang Fang et.al.|[2306.01700v1](http://arxiv.org/abs/2306.01700v1)|null|
+|**2023-06-02**|**Affinity Clustering Framework for Data Debiasing Using Pairwise Distribution Discrepancy**|Siamak Ghodsi et.al.|[2306.01699v1](http://arxiv.org/abs/2306.01699v1)|**[link](https://github.com/siamakghodsi/masc)**|
+|**2023-06-02**|**Fine-Grained Human Feedback Gives Better Rewards for Language Model Training**|Zeqiu Wu et.al.|[2306.01693v1](http://arxiv.org/abs/2306.01693v1)|null|
+|**2023-06-02**|**GateON: an unsupervised method for large scale continual learning**|Martin Barry et.al.|[2306.01690v1](http://arxiv.org/abs/2306.01690v1)|null|
+|**2023-06-02**|**MKOR: Momentum-Enabled Kronecker-Factor-Based Optimizer Using Rank-1 Updates**|Mohammad Mozaffari et.al.|[2306.01685v1](http://arxiv.org/abs/2306.01685v1)|null|
+|**2023-06-02**|**XAI Renaissance: Redefining Interpretability in Medical Diagnostic Models**|Sujith K Mandala et.al.|[2306.01668v1](http://arxiv.org/abs/2306.01668v1)|null|
+|**2023-06-02**|**Backchannel Detection and Agreement Estimation from Video with Transformer Networks**|Ahmed Amer et.al.|[2306.01656v1](http://arxiv.org/abs/2306.01656v1)|null|
+|**2023-06-02**|**Quantum spectral analysis by continuous measurement of Landau-Zener transitions**|Christopher C. Bounds et.al.|[2306.01622v1](http://arxiv.org/abs/2306.01622v1)|null|
+|**2023-06-02**|**Centered Self-Attention Layers**|Ameen Ali et.al.|[2306.01610v1](http://arxiv.org/abs/2306.01610v1)|null|
+|**2023-06-02**|**A Novel Vision Transformer with Residual in Self-attention for Biomedical Image Classification**|Arun K. Sharma et.al.|[2306.01594v1](http://arxiv.org/abs/2306.01594v1)|null|
+|**2023-06-02**|**Non-canonical Higgs inflation**|Pooja Pareek et.al.|[2306.01576v1](http://arxiv.org/abs/2306.01576v1)|null|
+|**2023-06-02**|**Monoidal and submonoidal surfaces, and Cremona transformations**|Igor V. Dolgachev et.al.|[2306.01539v1](http://arxiv.org/abs/2306.01539v1)|null|
+|**2023-06-02**|**Enhance Temporal Relations in Audio Captioning with Sound Event Detection**|Zeyu Xie et.al.|[2306.01533v1](http://arxiv.org/abs/2306.01533v1)|null|
+|**2023-06-02**|**Transformer-based Multi-Modal Learning for Multi Label Remote Sensing Image Classification**|David Hoffmann et.al.|[2306.01523v1](http://arxiv.org/abs/2306.01523v1)|null|
+|**2023-06-02**|**Auditory Representation Effective for Estimating Vocal Tract Information**|Toshio Irino et.al.|[2306.01522v1](http://arxiv.org/abs/2306.01522v1)|null|
+|**2023-06-02**|**Learning Local to Global Feature Aggregation for Speech Emotion Recognition**|Cheng Lu et.al.|[2306.01491v1](http://arxiv.org/abs/2306.01491v1)|null|
+|**2023-06-02**|**Joint User Association and UAV Location Optimization for Two-Tired Visible Light Communication Networks**|Alireza Qazavi et.al.|[2306.01482v1](http://arxiv.org/abs/2306.01482v1)|null|
+|**2023-06-02**|**Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning**|Xiangzhe Kong et.al.|[2306.01474v1](http://arxiv.org/abs/2306.01474v1)|null|
+|**2023-06-02**|**Guiding Text-to-Text Privatization by Syntax**|Stefan Arnold et.al.|[2306.01471v1](http://arxiv.org/abs/2306.01471v1)|null|
+|**2023-06-02**|**PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Models**|Jiacheng Chen et.al.|[2306.01461v1](http://arxiv.org/abs/2306.01461v1)|null|
+|**2023-06-02**|**Improving Adversarial Robustness of DEQs with Explicit Regulations Along the Neural Dynamics**|Zonghan Yang et.al.|[2306.01435v1](http://arxiv.org/abs/2306.01435v1)|**[link](https://github.com/minicheshire/deq-regulating-neural-dynamics)**|
+|**2023-06-02**|**Audio-Visual Speech Enhancement with Score-Based Generative Models**|Julius Richter et.al.|[2306.01432v1](http://arxiv.org/abs/2306.01432v1)|null|
+|**2023-06-02**|**Improved DeepFake Detection Using Whisper Features**|Piotr Kawa et.al.|[2306.01428v1](http://arxiv.org/abs/2306.01428v1)|**[link](https://github.com/piotrkawa/deepfake-whisper-features)**|
+|**2023-06-02**|**Radio Sources Segmentation and Classification with Deep Learning**|Baoqiang Lao et.al.|[2306.01426v1](http://arxiv.org/abs/2306.01426v1)|null|
+|**2023-06-02**|**Spectral gaps and Fourier dimension for self-conformal sets with overlaps**|Simon Baker et.al.|[2306.01389v1](http://arxiv.org/abs/2306.01389v1)|null|
+|**2023-06-02**|**DSHGT: Dual-Supervisors Heterogeneous Graph Transformer -- A pioneer study of using heterogeneous graph learning for detecting software vulnerabilities**|Tiehua Zhang et.al.|[2306.01376v1](http://arxiv.org/abs/2306.01376v1)|null|
+|**2023-06-02**|**Adjustable Visual Appearance for Generalizable Novel View Synthesis**|Josef Bengtson et.al.|[2306.01344v1](http://arxiv.org/abs/2306.01344v1)|null|
+|**2023-06-02**|**Transformer-based Annotation Bias-aware Medical Image Segmentation**|Zehui Liao et.al.|[2306.01340v1](http://arxiv.org/abs/2306.01340v1)|null|
+|**2023-06-02**|**Synchro-Transient-Extracting Transform for the Analysis of Signals with Both Harmonic and Impulsive Components**|Yunlong Ma et.al.|[2306.01320v1](http://arxiv.org/abs/2306.01320v1)|null|
+|**2023-06-02**|**Independent Modular Networks**|Hamed Damirchi et.al.|[2306.01316v1](http://arxiv.org/abs/2306.01316v1)|null|
+|**2023-06-02**|**Improved Training for End-to-End Streaming Automatic Speech Recognition Model with Punctuation**|Hanbyul Kim et.al.|[2306.01296v1](http://arxiv.org/abs/2306.01296v1)|null|
+|**2023-06-02**|**NNMobile-Net: Rethinking CNN Design for Deep Learning-Based Retinopathy Research**|Wenhui Zhu et.al.|[2306.01289v1](http://arxiv.org/abs/2306.01289v1)|**[link](https://github.com/Retinal-Research/NNMOBILE-NET)**|
+|**2023-06-02**|**Symmetric Exploration in Combinatorial Optimization is Free!**|Hyeonah Kim et.al.|[2306.01276v1](http://arxiv.org/abs/2306.01276v1)|null|
+|**2023-06-02**|**VoteTRANS: Detecting Adversarial Text without Training by Voting on Hard Labels of Transformations**|Hoang-Quoc Nguyen-Son et.al.|[2306.01273v1](http://arxiv.org/abs/2306.01273v1)|**[link](https://github.com/quocnsh/votetrans)**|
+|**2023-06-02**|**Collect-and-Distribute Transformer for 3D Point Cloud Analysis**|Haibo Qiu et.al.|[2306.01257v1](http://arxiv.org/abs/2306.01257v1)|**[link](https://github.com/haibo-qiu/cdformer)**|
+|**2023-06-02**|**Transforming ECG Diagnosis:An In-depth Review of Transformer-based DeepLearning Models in Cardiovascular Disease Detection**|Zibin Zhao et.al.|[2306.01249v1](http://arxiv.org/abs/2306.01249v1)|null|
+|**2023-06-02**|**Time Optimal Qubit Computer**|Peter Morrison et.al.|[2306.01223v1](http://arxiv.org/abs/2306.01223v1)|null|
+|**2023-06-02**|**An Approach to Mismatched Disturbance Rejection Control for Continuous-Time Uncontrollable Systems**|Shichao Lv et.al.|[2306.01221v1](http://arxiv.org/abs/2306.01221v1)|null|
+|**2023-06-02**|**A new method using deep transfer learning on ECG to predict the response to cardiac resynchronization therapy**|Zhuo He et.al.|[2306.01210v1](http://arxiv.org/abs/2306.01210v1)|null|
+|**2023-06-01**|**Neural Ideal Large Eddy Simulation: Modeling Turbulence with Neural Stochastic Differential Equations**|Anudhyan Boral et.al.|[2306.01174v1](http://arxiv.org/abs/2306.01174v1)|null|
+|**2023-06-01**|**BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**|Wei Zhang et.al.|[2306.01173v1](http://arxiv.org/abs/2306.01173v1)|null|
+|**2023-06-01**|**Faster Causal Attention Over Large Sequences Through Sparse Flash Attention**|Matteo Pagliardini et.al.|[2306.01160v1](http://arxiv.org/abs/2306.01160v1)|**[link](https://github.com/epfml/dynamic-sparse-flash-attention)**|
+|**2023-06-01**|**White-Box Transformers via Sparse Rate Reduction**|Yaodong Yu et.al.|[2306.01129v1](http://arxiv.org/abs/2306.01129v1)|**[link](https://github.com/ma-lab-berkeley/crate)**|
+|**2023-06-01**|**Learning Transformer Programs**|Dan Friedman et.al.|[2306.01128v1](http://arxiv.org/abs/2306.01128v1)|**[link](https://github.com/princeton-nlp/transformerprograms)**|
+|**2023-06-01**|**Quantization-Aware and Tensor-Compressed Training of Transformers for Natural Language Understanding**|Zi Yang et.al.|[2306.01076v1](http://arxiv.org/abs/2306.01076v1)|null|
 |**2023-06-01**|**Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles**|Chaitanya Ryali et.al.|[2306.00989v1](http://arxiv.org/abs/2306.00989v1)|**[link](https://github.com/facebookresearch/hiera)**|
 |**2023-06-01**|**StyleGAN knows Normal, Depth, Albedo, and More**|Anand Bhattad et.al.|[2306.00987v1](http://arxiv.org/abs/2306.00987v1)|null|
 |**2023-06-01**|**Building Rearticulable Models for Arbitrary 3D Objects from 4D Point Clouds**|Shaowei Liu et.al.|[2306.00979v1](http://arxiv.org/abs/2306.00979v1)|null|
