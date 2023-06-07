@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**A Unified Framework to Super-Resolve Face Images of Varied Low Resolutions**|Qiuyu Peng et.al.|[2306.03380v1](http://arxiv.org/abs/2306.03380v1)|null|
+|**2023-06-05**|**SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting**|Lei Chen et.al.|[2306.03110v1](http://arxiv.org/abs/2306.03110v1)|null|
 |**2023-06-05**|**AI Techniques for Cone Beam Computed Tomography in Dentistry: Trends and Practices**|Saba Sarwar et.al.|[2306.03025v1](http://arxiv.org/abs/2306.03025v1)|null|
 |**2023-06-04**|**ESTISR: Adapting Efficient Scene Text Image Super-resolution for Real-Scenes**|Minghao Fu et.al.|[2306.02443v1](http://arxiv.org/abs/2306.02443v1)|null|
 |**2023-06-04**|**Scale Guided Hypernetwork for Blind Super-Resolution Image Quality Assessment**|Jun Fu et.al.|[2306.02398v1](http://arxiv.org/abs/2306.02398v1)|**[link](https://github.com/junfu1995/sgh)**|
@@ -384,6 +386,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**A Unified Framework to Super-Resolve Face Images of Varied Low Resolutions**|Qiuyu Peng et.al.|[2306.03380v1](http://arxiv.org/abs/2306.03380v1)|null|
 |**2023-06-04**|**ESTISR: Adapting Efficient Scene Text Image Super-resolution for Real-Scenes**|Minghao Fu et.al.|[2306.02443v1](http://arxiv.org/abs/2306.02443v1)|null|
 |**2023-06-04**|**Scale Guided Hypernetwork for Blind Super-Resolution Image Quality Assessment**|Jun Fu et.al.|[2306.02398v1](http://arxiv.org/abs/2306.02398v1)|**[link](https://github.com/junfu1995/sgh)**|
 |**2023-06-04**|**EfficientSRFace: An Efficient Network with Super-Resolution Enhancement for Accurate Face Detection**|Guangtao Wang et.al.|[2306.02277v1](http://arxiv.org/abs/2306.02277v1)|null|
@@ -675,6 +678,50 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Causal interventions expose implicit situation models for commonsense language understanding**|Takateru Yamakoshi et.al.|[2306.03882v1](http://arxiv.org/abs/2306.03882v1)|null|
+|**2023-06-06**|**Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere**|Boris Bonev et.al.|[2306.03838v1](http://arxiv.org/abs/2306.03838v1)|null|
+|**2023-06-06**|**Patient Dropout Prediction in Virtual Health: A Multimodal Dynamic Knowledge Graph and Text Mining Approach**|Shuang Geng et.al.|[2306.03833v1](http://arxiv.org/abs/2306.03833v1)|null|
+|**2023-06-06**|**GEO-Bench: Toward Foundation Models for Earth Monitoring**|Alexandre Lacoste et.al.|[2306.03831v1](http://arxiv.org/abs/2306.03831v1)|**[link](https://github.com/servicenow/geo-bench)**|
+|**2023-06-06**|**X-Align++: cross-modal cross-view alignment for Bird's-eye-view segmentation**|Shubhankar Borse et.al.|[2306.03810v1](http://arxiv.org/abs/2306.03810v1)|null|
+|**2023-06-06**|**The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter**|Ajay Jaiswal et.al.|[2306.03805v1](http://arxiv.org/abs/2306.03805v1)|**[link](https://github.com/vita-group/essential_sparsity)**|
+|**2023-06-06**|**A Novel Approach To User Agent String Parsing For Vulnerability Analysis Using Mutli-Headed Attention**|Dhruv Nandakumar et.al.|[2306.03733v1](http://arxiv.org/abs/2306.03733v1)|null|
+|**2023-06-06**|**Block-radial symmetry breaking for ground states of biharmonic NLS**|Rainer Mandel et.al.|[2306.03720v1](http://arxiv.org/abs/2306.03720v1)|null|
+|**2023-06-06**|**DashQL -- Complete Analysis Workflows with SQL**|André Kohn et.al.|[2306.03714v1](http://arxiv.org/abs/2306.03714v1)|null|
+|**2023-06-06**|**Rigorous analysis of the topologically protected edge states in the quantum spin Hall phase of the armchair ribbon geometry**|Mozhgan Sadeghizadeh et.al.|[2306.03690v1](http://arxiv.org/abs/2306.03690v1)|null|
+|**2023-06-06**|**Human-imperceptible, Machine-recognizable Images**|Fusheng Hao et.al.|[2306.03679v1](http://arxiv.org/abs/2306.03679v1)|**[link](https://github.com/fushenghao/privacypreservingml)**|
+|**2023-06-06**|**Asymptotic Stability of Solitary Waves for One Dimensional Nonlinear Schrödinger Equations**|Charles Collot et.al.|[2306.03668v1](http://arxiv.org/abs/2306.03668v1)|null|
+|**2023-06-06**|**On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering**|Jiayan Guo et.al.|[2306.03624v1](http://arxiv.org/abs/2306.03624v1)|**[link](https://github.com/spacelearner/jgcf)**|
+|**2023-06-06**|**Zero-shot Preference Learning for Offline RL via Optimal Transport**|Runze Liu et.al.|[2306.03615v1](http://arxiv.org/abs/2306.03615v1)|null|
+|**2023-06-06**|**Human-Object Interaction Prediction in Videos through Gaze Following**|Zhifan Ni et.al.|[2306.03597v1](http://arxiv.org/abs/2306.03597v1)|**[link](https://github.com/nizhf/hoi-prediction-gaze-transformer)**|
+|**2023-06-06**|**Entropic covariance models**|Piotr Zwiernik et.al.|[2306.03590v1](http://arxiv.org/abs/2306.03590v1)|null|
+|**2023-06-06**|**A block  $α$ -circulant based preconditioned MINRES method for wave equations**|Xue-lei Lin et.al.|[2306.03574v1](http://arxiv.org/abs/2306.03574v1)|null|
+|**2023-06-06**|**Range-Restricted Interpolation through Clausal Tableaux**|Christoph Wernhard et.al.|[2306.03572v1](http://arxiv.org/abs/2306.03572v1)|null|
+|**2023-06-06**|**Phase space dynamics of unmagnetized plasmas: collisionless and collisional regimes**|G. Celebre et.al.|[2306.03567v1](http://arxiv.org/abs/2306.03567v1)|null|
+|**2023-06-06**|**Theory of the Simultaneous Transient Dispersive Readout of Multiple Spin Qubits**|Florian Ginzel et.al.|[2306.03564v1](http://arxiv.org/abs/2306.03564v1)|null|
+|**2023-06-06**|**Scalable Concept Extraction in Industry 4.0**|Andrés Felipe Posada-Moreno et.al.|[2306.03551v1](http://arxiv.org/abs/2306.03551v1)|null|
+|**2023-06-06**|**LegoNet: Alternating Model Blocks for Medical Image Segmentation**|Ikboljon Sobirov et.al.|[2306.03494v1](http://arxiv.org/abs/2306.03494v1)|null|
+|**2023-06-06**|**Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer**|Hanxi Li et.al.|[2306.03492v1](http://arxiv.org/abs/2306.03492v1)|null|
+|**2023-06-06**|**SciCap+: A Knowledge Augmented Dataset to Study the Challenges of Scientific Figure Captioning**|Zhishen Yang et.al.|[2306.03491v1](http://arxiv.org/abs/2306.03491v1)|**[link](https://github.com/zhishenyang/scientific_figure_captioning_dataset)**|
+|**2023-06-06**|**Natural Language Commanding via Program Synthesis**|Apurva Gandhi et.al.|[2306.03460v1](http://arxiv.org/abs/2306.03460v1)|null|
+|**2023-06-06**|**GRAFENNE: Learning on Graphs with Heterogeneous and Dynamic Feature Sets**|Shubham Gupta et.al.|[2306.03447v1](http://arxiv.org/abs/2306.03447v1)|null|
+|**2023-06-06**|**Quantifying the Variability Collapse of Neural Networks**|Jing Xu et.al.|[2306.03440v1](http://arxiv.org/abs/2306.03440v1)|null|
+|**2023-06-06**|**DFormer: Diffusion-guided Transformer for Universal Image Segmentation**|Hefeng Wang et.al.|[2306.03437v1](http://arxiv.org/abs/2306.03437v1)|null|
+|**2023-06-06**|**Change Diffusion: Change Detection Map Generation Based on Difference-Feature Guided DDPM**|Yihan Wen et.al.|[2306.03424v1](http://arxiv.org/abs/2306.03424v1)|null|
+|**2023-06-06**|**Diversifying Joint Vision-Language Tokenization Learning**|Vardaan Pahuja et.al.|[2306.03421v1](http://arxiv.org/abs/2306.03421v1)|null|
+|**2023-06-06**|**Clinical-Inspired Cytological Whole Slide Image Screening with Just Slide-Level Labels**|Beidi Zhao et.al.|[2306.03407v1](http://arxiv.org/abs/2306.03407v1)|null|
+|**2023-06-06**|**Deep neural networks architectures from the perspective of manifold learning**|German Magai et.al.|[2306.03406v1](http://arxiv.org/abs/2306.03406v1)|null|
+|**2023-06-06**|**SGAT4PASS: Spherical Geometry-Aware Transformer for PAnoramic Semantic Segmentation**|Xuewei Li et.al.|[2306.03403v1](http://arxiv.org/abs/2306.03403v1)|**[link](https://github.com/tencentarc/sgat4pass)**|
+|**2023-06-06**|**ColdNAS: Search to Modulate for User Cold-Start Recommendation**|Shiguang Wu et.al.|[2306.03387v1](http://arxiv.org/abs/2306.03387v1)|**[link](https://github.com/lars-research/coldnas)**|
+|**2023-06-06**|**TextFormer: A Query-based End-to-End Text Spotter with Mixed Supervision**|Yukun Zhai et.al.|[2306.03377v1](http://arxiv.org/abs/2306.03377v1)|null|
+|**2023-06-06**|**PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction**|Yanwen Fang et.al.|[2306.03374v1](http://arxiv.org/abs/2306.03374v1)|null|
+|**2023-06-06**|**CiT-Net: Convolutional Neural Networks Hand in Hand with Vision Transformers for Medical Image Segmentation**|Tao Lei et.al.|[2306.03373v1](http://arxiv.org/abs/2306.03373v1)|**[link](https://github.com/sr0920/cit-net)**|
+|**2023-06-06**|**Form Follows Function: A Different Approach to Neuron Connectivity**|Lane Yoder et.al.|[2306.03337v1](http://arxiv.org/abs/2306.03337v1)|null|
+|**2023-06-06**|**Unraveling Projection Heads in Contrastive Learning: Insights from Expansion and Shrinkage**|Yu Gui et.al.|[2306.03335v1](http://arxiv.org/abs/2306.03335v1)|null|
+|**2023-06-05**|**Optical Synthesis of Transient Chirality in Achiral Plasmonic Metasurfaces**|Andrew S. Kim et.al.|[2306.03298v1](http://arxiv.org/abs/2306.03298v1)|null|
+|**2023-06-05**|**A new finite element method for elliptic optimal control problems with pointwise state constraints in energy spaces**|Wei Gong et.al.|[2306.03246v1](http://arxiv.org/abs/2306.03246v1)|null|
+|**2023-06-05**|**Information Flow Control in Machine Learning through Modular Model Architecture**|Trishita Tiwari et.al.|[2306.03235v1](http://arxiv.org/abs/2306.03235v1)|null|
+|**2023-06-05**|**Matrix exceptional Laguerre polynomials**|Erik Koelink et.al.|[2306.03223v1](http://arxiv.org/abs/2306.03223v1)|null|
+|**2023-06-05**|**Infusing Lattice Symmetry Priors in Attention Mechanisms for Sample-Efficient Abstract Geometric Reasoning**|Mattia Atzeni et.al.|[2306.03175v1](http://arxiv.org/abs/2306.03175v1)|null|
 |**2023-06-05**|**Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs**|Alexander K. Lew et.al.|[2306.03081v1](http://arxiv.org/abs/2306.03081v1)|**[link](https://github.com/probcomp/llamppl)**|
 |**2023-06-05**|**Quantization of counterexamples to Dirac's conjecture**|Mauricio Valenzuela et.al.|[2306.03080v1](http://arxiv.org/abs/2306.03080v1)|null|
 |**2023-06-05**|**Machine Learning and Statistical Approaches to Measuring Similarity of Political Parties**|Daria Boratyn et.al.|[2306.03079v1](http://arxiv.org/abs/2306.03079v1)|null|
