@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**HRTF upsampling with a generative adversarial network using a gnomonic equiangular projection**|Aidan O. T. Hogg et.al.|[2306.05812v1](http://arxiv.org/abs/2306.05812v1)|null|
 |**2023-06-08**|**HQ-50K: A Large-scale, High-quality Dataset for Image Restoration**|Qinhong Yang et.al.|[2306.05390v1](http://arxiv.org/abs/2306.05390v1)|**[link](https://github.com/littleyaang/hq-50k)**|
 |**2023-06-08**|**Octree-based hierarchical sampling optimization for the volumetric super-resolution of scientific data**|Xinjie Wang et.al.|[2306.05133v1](http://arxiv.org/abs/2306.05133v1)|**[link](https://github.com/xinjiewang/octree-based_sampling)**|
 |**2023-06-05**|**Model-Based Deep Learning**|Nir Shlezinger et.al.|[2306.04469v1](http://arxiv.org/abs/2306.04469v1)|**[link](https://github.com/shlezingerlab/mbdl_book)**|
@@ -681,6 +682,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Prodigy: An Expeditiously Adaptive Parameter-Free Learner**|Konstantin Mishchenko et.al.|[2306.06101v1](http://arxiv.org/abs/2306.06101v1)|null|
+|**2023-06-09**|**SENS: Sketch-based Implicit Neural Shape Modeling**|Alexandre Binninger et.al.|[2306.06088v1](http://arxiv.org/abs/2306.06088v1)|null|
+|**2023-06-09**|**Virtual Node Tuning for Few-shot Node Classification**|Zhen Tan et.al.|[2306.06063v1](http://arxiv.org/abs/2306.06063v1)|null|
+|**2023-06-09**|**Semiparametric posterior corrections**|Andrew Yiu et.al.|[2306.06059v1](http://arxiv.org/abs/2306.06059v1)|null|
+|**2023-06-09**|**Reconstructing Human Expressiveness in Piano Performances with a Transformer Network**|Jingjing Tang et.al.|[2306.06040v1](http://arxiv.org/abs/2306.06040v1)|null|
+|**2023-06-09**|**A Dynamic Partial Computation Offloading for the Metaverse in In-Network Computing**|Ibrahim Aliyu et.al.|[2306.06022v1](http://arxiv.org/abs/2306.06022v1)|null|
+|**2023-06-09**|**Lorentzian quantum cosmology from effective spin foams**|Bianca Dittrich et.al.|[2306.06012v1](http://arxiv.org/abs/2306.06012v1)|null|
+|**2023-06-09**|**HVOX: Scalable Interferometric Synthesis and Analysis of Spherical Sky Maps**|Sepand Kashani et.al.|[2306.06007v1](http://arxiv.org/abs/2306.06007v1)|null|
+|**2023-06-09**|**Efficient Tensor-Product Spectral-Element Operators with the Summation-by-Parts Property on Curved Triangles and Tetrahedra**|Tristan Montoya et.al.|[2306.05975v1](http://arxiv.org/abs/2306.05975v1)|null|
+|**2023-06-09**|**Taxonomy of hybridly polarized Stokes vortex beams**|Gauri Arora et.al.|[2306.05974v1](http://arxiv.org/abs/2306.05974v1)|null|
+|**2023-06-09**|**Low-temperature Holographic Screens Correspond to Einstein-Rosen Bridges**|Marco Alberto Javarone et.al.|[2306.05964v1](http://arxiv.org/abs/2306.05964v1)|null|
+|**2023-06-09**|**A dichotomy theorem for  $Γ$ -switchable  $H$ -colouring on  $m$ -edge coloured graphs**|Richard Brewster et.al.|[2306.05962v1](http://arxiv.org/abs/2306.05962v1)|null|
+|**2023-06-09**|**Improving Estimation of the Koopman Operator with Kolmogorov-Smirnov Indicator Functions**|Van A. Ngo et.al.|[2306.05945v1](http://arxiv.org/abs/2306.05945v1)|null|
+|**2023-06-09**|**Efficient operator method for modelling mode mixing in misaligned optical cavities**|William J. Hughes et.al.|[2306.05929v1](http://arxiv.org/abs/2306.05929v1)|null|
+|**2023-06-09**|**Reconstruction of Quantum Particle Statistics: Bosons, Fermions, and Transtatistics**|Nicolás Medina Sánchez et.al.|[2306.05919v1](http://arxiv.org/abs/2306.05919v1)|null|
+|**2023-06-09**|**A general support theorem for analytic double fibration transforms**|Marco Mazzucchelli et.al.|[2306.05906v1](http://arxiv.org/abs/2306.05906v1)|null|
+|**2023-06-09**|**TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses**|Xuesong Chen et.al.|[2306.05888v1](http://arxiv.org/abs/2306.05888v1)|null|
+|**2023-06-09**|**An Efficient Speech Separation Network Based on Recurrent Fusion Dilated Convolution and Channel Attention**|Junyu Wang et.al.|[2306.05887v1](http://arxiv.org/abs/2306.05887v1)|null|
+|**2023-06-09**|**Efficient Encoder-Decoder and Dual-Path Conformer for Comprehensive Feature Learning in Speech Enhancement**|Junyu Wang et.al.|[2306.05861v1](http://arxiv.org/abs/2306.05861v1)|null|
+|**2023-06-09**|**Deterministic equivalent of the Conjugate Kernel matrix associated to Artificial Neural Networks**|Clément Chouard et.al.|[2306.05850v1](http://arxiv.org/abs/2306.05850v1)|null|
+|**2023-06-09**|**The Pauli-Poisson equation and its semiclassical limit**|Jakob Möller et.al.|[2306.05841v1](http://arxiv.org/abs/2306.05841v1)|null|
+|**2023-06-09**|**Towards the Exploitation of LLM-based Chatbot for Providing Legal Support to Palestinian Cooperatives**|Rabee Qasem et.al.|[2306.05827v1](http://arxiv.org/abs/2306.05827v1)|null|
+|**2023-06-09**|**HRTF upsampling with a generative adversarial network using a gnomonic equiangular projection**|Aidan O. T. Hogg et.al.|[2306.05812v1](http://arxiv.org/abs/2306.05812v1)|null|
+|**2023-06-09**|**RankFormer: Listwise Learning-to-Rank Using Listwide Labels**|Maarten Buyl et.al.|[2306.05808v1](http://arxiv.org/abs/2306.05808v1)|null|
+|**2023-06-09**|**A Dual-Source Attention Transformer for Multi-Person Pose Tracking**|Andreas Doering et.al.|[2306.05807v1](http://arxiv.org/abs/2306.05807v1)|null|
+|**2023-06-09**|**Kähler Gradient Ricci Solitons with Large Symmetry**|Hung Tran et.al.|[2306.05787v1](http://arxiv.org/abs/2306.05787v1)|null|
+|**2023-06-09**|**Two-level histograms for dealing with outliers and heavy tail distributions**|Marc Boullé et.al.|[2306.05786v1](http://arxiv.org/abs/2306.05786v1)|null|
+|**2023-06-09**|**Transformer-based Time-to-Event Prediction for Chronic Kidney Disease Deterioration**|Moshe Zisser et.al.|[2306.05779v1](http://arxiv.org/abs/2306.05779v1)|null|
+|**2023-06-09**|**Ultrafast melting of charge-density wave fluctuations at room temperature in  ${1T-TiSe_2}$  monitored under non-equilibrium conditions**|Yu Mizukoshi et.al.|[2306.05777v1](http://arxiv.org/abs/2306.05777v1)|null|
+|**2023-06-09**|**Three-dimensional structure and stability of discontinuities between unmagnetized pair plasma and magnetized electron-proton plasma**|M E Dieckmann et.al.|[2306.05757v1](http://arxiv.org/abs/2306.05757v1)|null|
+|**2023-06-09**|**On the Scaling of the Cubic-to-Tetragonal Phase Transformation with Displacement Boundary Conditions**|Angkana Rüland et.al.|[2306.05740v1](http://arxiv.org/abs/2306.05740v1)|null|
+|**2023-06-09**|**Computing Algorithm for an Equilibrium of the Generalized Stackelberg Game**|Jaeyeon Jo et.al.|[2306.05732v1](http://arxiv.org/abs/2306.05732v1)|null|
+|**2023-06-09**|**Privacy, Security, and Usability Tradeoffs of Telehealth from Practitioners' Perspectives**|Faiza Tazi et.al.|[2306.05725v1](http://arxiv.org/abs/2306.05725v1)|null|
+|**2023-06-09**|**Estimation of Ridge Using Nonlinear Transformation on Density Function**|Zheng Zhai et.al.|[2306.05722v1](http://arxiv.org/abs/2306.05722v1)|null|
+|**2023-06-09**|**Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion**|Haogeng Liu et.al.|[2306.05708v1](http://arxiv.org/abs/2306.05708v1)|null|
+|**2023-06-09**|**Exploring Effective Mask Sampling Modeling for Neural Image Compression**|Lin Liu et.al.|[2306.05704v1](http://arxiv.org/abs/2306.05704v1)|null|
+|**2023-06-09**|**Group Equivariant Fourier Neural Operators for Partial Differential Equations**|Jacob Helwig et.al.|[2306.05697v1](http://arxiv.org/abs/2306.05697v1)|null|
+|**2023-06-09**|**Power Beacon Energy Consumption Minimization in Wireless Powered Backscatter Communication Networks**|Haohang Yang et.al.|[2306.05695v1](http://arxiv.org/abs/2306.05695v1)|null|
+|**2023-06-09**|**DIFT: Dynamic Iterative Field Transforms for Memory Efficient Optical Flow**|Risheek Garrepalli et.al.|[2306.05691v1](http://arxiv.org/abs/2306.05691v1)|null|
+|**2023-06-09**|**Single-Stage Visual Relationship Learning using Conditional Queries**|Alakh Desai et.al.|[2306.05689v1](http://arxiv.org/abs/2306.05689v1)|null|
+|**2023-06-09**|**ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer**|Haiqiao Wang et.al.|[2306.05688v1](http://arxiv.org/abs/2306.05688v1)|null|
+|**2023-06-09**|**Encrypted Simultaneous Control of Joint Angle and Stiffness of Antagonistic Pneumatic Artificial Muscle Actuator by Polynomial Approximation**|Yuta Takeda et.al.|[2306.05686v1](http://arxiv.org/abs/2306.05686v1)|null|
+|**2023-06-09**|**Lightweight Monocular Depth Estimation via Token-Sharing Transformer**|Dong-Jae Lee et.al.|[2306.05682v1](http://arxiv.org/abs/2306.05682v1)|null|
+|**2023-06-09**|**Illumination Controllable Dehazing Network based on Unsupervised Retinex Embedding**|Jie Gui et.al.|[2306.05675v1](http://arxiv.org/abs/2306.05675v1)|null|
+|**2023-06-09**|**Resonances and scattering in microscopic cluster models with complex-scaled generator coordinate method**|Takayuki Myo et.al.|[2306.05660v1](http://arxiv.org/abs/2306.05660v1)|null|
+|**2023-06-09**|**GMS-3DQA: Projection-based Grid Mini-patch Sampling for 3D Model Quality Assessment**|Zicheng Zhang et.al.|[2306.05658v1](http://arxiv.org/abs/2306.05658v1)|null|
+|**2023-06-09**|**Customizing General-Purpose Foundation Models for Medical Report Generation**|Bang Yang et.al.|[2306.05642v1](http://arxiv.org/abs/2306.05642v1)|null|
+|**2023-06-09**|**Low-rank Adaptation Method for Wav2vec2-based Fake Audio Detection**|Chenglong Wang et.al.|[2306.05617v1](http://arxiv.org/abs/2306.05617v1)|null|
+|**2023-06-09**|**Word sense extension**|Lei Yu et.al.|[2306.05609v1](http://arxiv.org/abs/2306.05609v1)|null|
+|**2023-06-08**|**Proposal for realizing quantum spin models with Dzyaloshinskii-Moriya interaction using Rydberg atoms**|Masaya Kunimi et.al.|[2306.05591v1](http://arxiv.org/abs/2306.05591v1)|null|
 |**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
 |**2023-06-08**|**Mixture-of-Domain-Adapters: Decoupling and Injecting Domain Knowledge to Pre-trained Language Models Memories**|Shizhe Diao et.al.|[2306.05406v1](http://arxiv.org/abs/2306.05406v1)|**[link](https://github.com/amano-aki/mixture-of-domain-adapters)**|
 |**2023-06-08**|**Rate Forecaster based Energy Aware Band Assignment in Multiband Networks**|Brijesh Soni et.al.|[2306.05369v1](http://arxiv.org/abs/2306.05369v1)|null|
