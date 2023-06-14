@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Effects of Data Enrichment with Image Transformations on the Performance of Deep Networks**|Hakan Temiz et.al.|[2306.07724v1](http://arxiv.org/abs/2306.07724v1)|null|
+|**2023-06-09**|**Urban Spatiotemporal Data Synthesis via Neural Disaggregation**|Bin Han et.al.|[2306.07292v1](http://arxiv.org/abs/2306.07292v1)|null|
 |**2023-06-11**|**TransMRSR: Transformer-based Self-Distilled Generative Prior for Brain MRI Super-Resolution**|Shan Huang et.al.|[2306.06669v1](http://arxiv.org/abs/2306.06669v1)|**[link](https://github.com/goddesshs/transmrsr)**|
 |**2023-06-10**|**Quantum Super-Resolution with Balanced Homodyne Detection in Low-Earth-Orbit**|Ronakraj K Gosalia et.al.|[2306.06541v1](http://arxiv.org/abs/2306.06541v1)|null|
 |**2023-06-13**|**Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration**|Kechun Liu et.al.|[2306.06513v2](http://arxiv.org/abs/2306.06513v2)|null|
@@ -687,6 +689,49 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models**|Omkar Thawkar et.al.|[2306.07971v1](http://arxiv.org/abs/2306.07971v1)|null|
+|**2023-06-13**|**Image Captioners Are Scalable Vision Learners Too**|Michael Tschannen et.al.|[2306.07915v1](http://arxiv.org/abs/2306.07915v1)|null|
+|**2023-06-13**|**{Generalized  $ \left\{ h (1) \oplus h(1) \right\} \uplus u(2) $  commensurate anisotropic Hamiltoninan and ladder operators; energy spectrum, eigenstates and associated coherent and squeezed states**|Nibaldo-Edmundo Alvarez-Moraga et.al.|[2306.07889v1](http://arxiv.org/abs/2306.07889v1)|null|
+|**2023-06-13**|**Expanding the Scope of DAWN: A Novel Version for Weighted Shortest Path Problem**|Yelai Feng et.al.|[2306.07872v1](http://arxiv.org/abs/2306.07872v1)|null|
+|**2023-06-13**|**Unitary quantum process tomography with unreliable pure input states**|François Verdeil et.al.|[2306.07867v1](http://arxiv.org/abs/2306.07867v1)|null|
+|**2023-06-13**|**On automorphisms of the semigroup  $\boldsymbol{B}_ω^{\mathscr{F}}$  in the case when the family  $\mathscr{F}$  consists of nonempty inductive subsets of  $ω$ **|Oleg Gutik et.al.|[2306.07844v1](http://arxiv.org/abs/2306.07844v1)|null|
+|**2023-06-13**|**Mean first-passage time of a random walker under Galilean transformation**|Marcus Dahlenburg et.al.|[2306.07828v1](http://arxiv.org/abs/2306.07828v1)|null|
+|**2023-06-13**|**Rethinking Polyp Segmentation from an Out-of-Distribution Perspective**|Ge-Peng Ji et.al.|[2306.07792v1](http://arxiv.org/abs/2306.07792v1)|null|
+|**2023-06-13**|**A Cloud-based Machine Learning Pipeline for the Efficient Extraction of Insights from Customer Reviews**|Robert Lakatos et.al.|[2306.07786v1](http://arxiv.org/abs/2306.07786v1)|null|
+|**2023-06-13**|**The Polychromatic T-matrix**|Maxim Vavilin et.al.|[2306.07776v1](http://arxiv.org/abs/2306.07776v1)|null|
+|**2023-06-13**|**The Rank-Reduced Kalman Filter: Approximate Dynamical-Low-Rank Filtering In High Dimensions**|Jonathan Schmidt et.al.|[2306.07774v1](http://arxiv.org/abs/2306.07774v1)|null|
+|**2023-06-13**|**Classicality of the Bogoliubov transformations and the dynamical Casimir effect through the reduced state of the field**|Tomasz Linowski et.al.|[2306.07762v1](http://arxiv.org/abs/2306.07762v1)|null|
+|**2023-06-13**|**Global harmonic analysis for  $Φ^4_3$  on closed Riemannian manifolds**|I. Bailleul et.al.|[2306.07757v1](http://arxiv.org/abs/2306.07757v1)|null|
+|**2023-06-13**|**All pure bipartite entangled states can be semi-self-tested with only one measurement setting on each party**|Lijinzhi Lin et.al.|[2306.07755v1](http://arxiv.org/abs/2306.07755v1)|null|
+|**2023-06-13**|**Effects of Data Enrichment with Image Transformations on the Performance of Deep Networks**|Hakan Temiz et.al.|[2306.07724v1](http://arxiv.org/abs/2306.07724v1)|null|
+|**2023-06-13**|**Stability Analysis of Cosmological models in  $f(T,φ)$  Gravity**|Amit Samaddar et.al.|[2306.07689v1](http://arxiv.org/abs/2306.07689v1)|null|
+|**2023-06-13**|**Statistical field theory of mechanical stresses in Coulomb fluids: beyond mean-field theory**|P. E. Brandyshev et.al.|[2306.07686v1](http://arxiv.org/abs/2306.07686v1)|null|
+|**2023-06-13**|**Lookaround Optimizer:  $k$  steps around, 1 step average**|Jiangtao Zhang et.al.|[2306.07684v1](http://arxiv.org/abs/2306.07684v1)|null|
+|**2023-06-13**|**Is Anisotropy Inherent to Transformers?**|Nathan Godey et.al.|[2306.07656v1](http://arxiv.org/abs/2306.07656v1)|null|
+|**2023-06-13**|**Sea Ice Segmentation From SAR Data by Convolutional Transformer Networks**|Nicolae-Catalin Ristea et.al.|[2306.07649v1](http://arxiv.org/abs/2306.07649v1)|null|
+|**2023-06-13**|**Unitary transformations within density matrix embedding approaches: A novel perspective on the self-consistent scheme for electronic structure calculation**|Quentin Marécat et.al.|[2306.07641v1](http://arxiv.org/abs/2306.07641v1)|null|
+|**2023-06-13**|**Revisiting the statistical estimation of activation parameters in incipient plasticity**|Sweta Kumari et.al.|[2306.07630v1](http://arxiv.org/abs/2306.07630v1)|null|
+|**2023-06-13**|**UOD: Universal One-shot Detection of Anatomical Landmarks**|Heqin Zhu et.al.|[2306.07615v1](http://arxiv.org/abs/2306.07615v1)|null|
+|**2023-06-13**|**Towards a Machine-Learned Poisson Solver for Low-Temperature Plasma Simulations in Complex Geometries**|Ihda Chaerony Siffa et.al.|[2306.07604v1](http://arxiv.org/abs/2306.07604v1)|null|
+|**2023-06-13**|**Numerical Simulation of Power-Law Fluid Flow in a Trapezoidal Cavity using the Incompressible Finite-Difference Lattice Boltzmann Method**|Xinmeng Chen et.al.|[2306.07603v1](http://arxiv.org/abs/2306.07603v1)|null|
+|**2023-06-13**|**I See Dead People: Gray-Box Adversarial Attack on Image-To-Text Models**|Raz Lapid et.al.|[2306.07591v1](http://arxiv.org/abs/2306.07591v1)|null|
+|**2023-06-13**|**Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment**|Shuaikang Wang et.al.|[2306.07537v1](http://arxiv.org/abs/2306.07537v1)|null|
+|**2023-06-13**|**TART: A plug-and-play Transformer module for task-agnostic reasoning**|Kush Bhatia et.al.|[2306.07536v1](http://arxiv.org/abs/2306.07536v1)|null|
+|**2023-06-13**|**Energy Efficient RAN Slicing and Beams Selection for Multiplexing of Heterogeneous Services in 5G mmWave Networks**|PraveenKumar Korrai et.al.|[2306.07518v1](http://arxiv.org/abs/2306.07518v1)|null|
+|**2023-06-13**|**PaVa: a novel Path-based Valley-seeking clustering algorithm**|Lin Ma et.al.|[2306.07503v1](http://arxiv.org/abs/2306.07503v1)|null|
+|**2023-06-13**|**SoK: Decoding the Super App Enigma: The Security Mechanisms, Threats, and Trade-offs in OS-alike Apps**|Yuqing Yang et.al.|[2306.07495v1](http://arxiv.org/abs/2306.07495v1)|null|
+|**2023-06-13**|**Exact sharp-fronted solutions for nonlinear diffusion on evolving domains**|Stuart T. Johnston et.al.|[2306.07491v1](http://arxiv.org/abs/2306.07491v1)|null|
+|**2023-06-13**|**Multi-objective Molecular Optimization for Opioid Use Disorder Treatment Using Generative Network Complex**|Hongsong Feng et.al.|[2306.07484v1](http://arxiv.org/abs/2306.07484v1)|null|
+|**2023-06-13**|**Density criteria for Fourier uniqueness phenomena in  $\mathbf{R}^d$ **|Anshul Adve et.al.|[2306.07475v1](http://arxiv.org/abs/2306.07475v1)|null|
+|**2023-06-13**|**Resources for Brewing BEIR: Reproducible Reference Models and an Official Leaderboard**|Ehsan Kamalloo et.al.|[2306.07471v1](http://arxiv.org/abs/2306.07471v1)|null|
+|**2023-06-13**|**Reviving Shift Equivariance in Vision Transformers**|Peijian Ding et.al.|[2306.07470v1](http://arxiv.org/abs/2306.07470v1)|null|
+|**2023-06-12**|**ELF Codes: Concatenated Codes with an Expurgating Linear Function as the Outer Code**|Richard Wesel et.al.|[2306.07467v1](http://arxiv.org/abs/2306.07467v1)|null|
+|**2023-06-12**|**Instant Multi-View Head Capture through Learnable Registration**|Timo Bolkart et.al.|[2306.07437v1](http://arxiv.org/abs/2306.07437v1)|null|
+|**2023-06-12**|**Explaining CLIP through Co-Creative Drawings and Interaction**|Varvara Guljajeva et.al.|[2306.07429v1](http://arxiv.org/abs/2306.07429v1)|null|
+|**2023-06-12**|** $L^p$  norm of truncated Riesz transform and an improved dimension-free  $L^p$  estimate for maxima Riesz transform**|Jinsong Liu et.al.|[2306.07406v1](http://arxiv.org/abs/2306.07406v1)|null|
+|**2023-06-12**|**Convex valuations, from Whitney to Nash**|Dmitry Faifman et.al.|[2306.07390v1](http://arxiv.org/abs/2306.07390v1)|null|
+|**2023-06-12**|**Asymmetries in random motions of neutral Hydrogen gas in spiral galaxies**|P. Adamczyk et.al.|[2306.07374v1](http://arxiv.org/abs/2306.07374v1)|null|
+|**2023-06-12**|**Learning to Mask and Permute Visual Tokens for Vision Transformer Pre-Training**|Lorenzo Baraldi et.al.|[2306.07346v1](http://arxiv.org/abs/2306.07346v1)|null|
 |**2023-06-12**|**Reconstructing Heterogeneous Cryo-EM Molecular Structures by Decomposing Them into Polymer Chains**|Bongjin Koo et.al.|[2306.07274v1](http://arxiv.org/abs/2306.07274v1)|null|
 |**2023-06-12**|**Zero-shot Composed Text-Image Retrieval**|Yikun Liu et.al.|[2306.07272v1](http://arxiv.org/abs/2306.07272v1)|null|
 |**2023-06-13**|**detrex: Benchmarking Detection Transformers**|Tianhe Ren et.al.|[2306.07265v2](http://arxiv.org/abs/2306.07265v2)|**[link](https://github.com/IDEA-Research/detrex)**|
@@ -6376,6 +6421,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**|Ricong Huang et.al.|[2306.07579v1](http://arxiv.org/abs/2306.07579v1)|null|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632v1](http://arxiv.org/abs/2306.04632v1)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
 |**2023-06-01**|**Towards Interactive Image Inpainting via Sketch Refinement**|Chang Liu et.al.|[2306.00407v1](http://arxiv.org/abs/2306.00407v1)|**[link](https://github.com/alonzoleeeooo/sketchrefiner)**|
 |**2023-05-31**|**Diffusion Brush: A Latent Diffusion Model-based Editing Tool for AI-generated Images**|Peyman Gholami et.al.|[2306.00219v1](http://arxiv.org/abs/2306.00219v1)|null|
