@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-14**|**Generalizable One-shot Neural Head Avatar**|Xueting Li et.al.|[2306.08768v1](http://arxiv.org/abs/2306.08768v1)|null|
+|**2023-06-14**|**Simulation Study on Super-Resolution for Coded Aperture Gamma Imaging**|Tobias Meißner et.al.|[2306.08483v1](http://arxiv.org/abs/2306.08483v1)|null|
+|**2023-06-13**|**Exact particle-enhanced point-spread function unlocks 3D super-resolution localization microscopy on nanoparticles**|Teun A. P. M. Huijben et.al.|[2306.08148v1](http://arxiv.org/abs/2306.08148v1)|null|
 |**2023-06-13**|**Effects of Data Enrichment with Image Transformations on the Performance of Deep Networks**|Hakan Temiz et.al.|[2306.07724v1](http://arxiv.org/abs/2306.07724v1)|null|
 |**2023-06-09**|**Urban Spatiotemporal Data Synthesis via Neural Disaggregation**|Bin Han et.al.|[2306.07292v1](http://arxiv.org/abs/2306.07292v1)|null|
 |**2023-06-11**|**TransMRSR: Transformer-based Self-Distilled Generative Prior for Brain MRI Super-Resolution**|Shan Huang et.al.|[2306.06669v1](http://arxiv.org/abs/2306.06669v1)|**[link](https://github.com/goddesshs/transmrsr)**|
