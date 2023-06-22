@@ -23,6 +23,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**Dynamic Implicit Image Function for Efficient Arbitrary-Scale Image Representation**|Zongyao He et.al.|[2306.12321v1](http://arxiv.org/abs/2306.12321v1)|**[link](https://github.com/hezongyao/diif)**|
+|**2023-06-21**|**DiffuseIR:Diffusion Models For Isotropic Reconstruction of 3D Microscopic Images**|Mingjie Pan et.al.|[2306.12109v1](http://arxiv.org/abs/2306.12109v1)|null|
+|**2023-06-21**|**HSR-Diff:Hyperspectral Image Super-Resolution via Conditional Diffusion Models**|Chanyue Wu et.al.|[2306.12085v1](http://arxiv.org/abs/2306.12085v1)|null|
+|**2023-06-20**|**Using super-resolution for enhancing visual perception and segmentation performance in veterinary cytology**|Jakub Caputa et.al.|[2306.11848v1](http://arxiv.org/abs/2306.11848v1)|null|
+|**2023-06-19**|**Optical Coherence Tomography Image Enhancement via Block Hankelization and Low Rank Tensor Network Approximation**|Farnaz Sedighin et.al.|[2306.11750v1](http://arxiv.org/abs/2306.11750v1)|null|
 |**2023-06-20**|**Phase Repair for Time-Domain Convolutional Neural Networks in Music Super-Resolution**|Yenan Zhang et.al.|[2306.11282v1](http://arxiv.org/abs/2306.11282v1)|null|
 |**2023-06-19**|**Evaluating Loss Functions and Learning Data Pre-Processing for Climate Downscaling Deep Learning Models**|Xingying Huang et.al.|[2306.11144v1](http://arxiv.org/abs/2306.11144v1)|null|
 |**2023-06-19**|**Super-resolving sparse observations in partial differential equations: A physics-constrained convolutional neural network approach**|Daniel Kelshaw et.al.|[2306.10990v1](http://arxiv.org/abs/2306.10990v1)|null|
@@ -407,6 +412,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**HSR-Diff:Hyperspectral Image Super-Resolution via Conditional Diffusion Models**|Chanyue Wu et.al.|[2306.12085v1](http://arxiv.org/abs/2306.12085v1)|null|
+|**2023-06-19**|**Optical Coherence Tomography Image Enhancement via Block Hankelization and Low Rank Tensor Network Approximation**|Farnaz Sedighin et.al.|[2306.11750v1](http://arxiv.org/abs/2306.11750v1)|null|
 |**2023-06-19**|**Evaluating Loss Functions and Learning Data Pre-Processing for Climate Downscaling Deep Learning Models**|Xingying Huang et.al.|[2306.11144v1](http://arxiv.org/abs/2306.11144v1)|null|
 |**2023-06-15**|**Deep learning techniques for blind image super-resolution: A high-scale multi-domain perspective evaluation**|Valdivino Alexandre de Santiago Júnior et.al.|[2306.09426v1](http://arxiv.org/abs/2306.09426v1)|**[link](https://github.com/vsantjr/dl_blindsr)**|
 |**2023-06-11**|**TransMRSR: Transformer-based Self-Distilled Generative Prior for Brain MRI Super-Resolution**|Shan Huang et.al.|[2306.06669v1](http://arxiv.org/abs/2306.06669v1)|**[link](https://github.com/goddesshs/transmrsr)**|
@@ -647,6 +654,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining**|Dezhi Peng et.al.|[2306.12106v1](http://arxiv.org/abs/2306.12106v1)|null|
 |**2022-09-06**|**A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data**|Zhengmi Tang et.al.|[2209.02397v1](http://arxiv.org/abs/2209.02397v1)|**[link](https://github.com/iiclab/decompst)**|
 |**2023-04-28**|**Progressive Scene Text Erasing with Self-Supervision**|Xiangcheng Du et.al.|[2207.11469v2](http://arxiv.org/abs/2207.11469v2)|null|
 |**2022-04-27**|**Self-Supervised Text Erasing with Controllable Image Synthesis**|Gangwei Jiang et.al.|[2204.12743v1](http://arxiv.org/abs/2204.12743v1)|null|
@@ -703,6 +711,52 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**On the fractal uncertainty principle in several dimensions**|Ioann Vasilyev et.al.|[2306.12397v1](http://arxiv.org/abs/2306.12397v1)|null|
+|**2023-06-21**|**Probing the limit of hydrologic predictability with the Transformer network**|Jiangtao Liu et.al.|[2306.12384v1](http://arxiv.org/abs/2306.12384v1)|null|
+|**2023-06-21**|**Towards Efficient MPPI Trajectory Generation with Unscented Guidance: U-MPPI Control Strategy**|Ihab S. Mohamed et.al.|[2306.12369v1](http://arxiv.org/abs/2306.12369v1)|null|
+|**2023-06-21**|**Sigma-point Kalman Filter with Nonlinear Unknown Input Estimation via Optimization and Data-driven Approach for Dynamic Systems**|Junn Yong Loo et.al.|[2306.12361v1](http://arxiv.org/abs/2306.12361v1)|null|
+|**2023-06-21**|**The isoperimetric problem for convex hulls and the large deviations rate functionals of random walks**|Vladislav Vysotsky et.al.|[2306.12359v1](http://arxiv.org/abs/2306.12359v1)|null|
+|**2023-06-21**|**Iterated Piecewise Affine (IPA) Approximation for Language Modeling**|Davood Shamsi et.al.|[2306.12317v1](http://arxiv.org/abs/2306.12317v1)|null|
+|**2023-06-21**|**Beyond Deep Ensembles -- A Large-Scale Evaluation of Bayesian Deep Learning under Distribution Shift**|Florian Seligmann et.al.|[2306.12306v1](http://arxiv.org/abs/2306.12306v1)|**[link](https://github.com/bdl-authors/beyond-ensembles)**|
+|**2023-06-21**|**StarVQA+: Co-training Space-Time Attention for Video Quality Assessment**|Fengchuang Xing et.al.|[2306.12298v1](http://arxiv.org/abs/2306.12298v1)|**[link](https://github.com/gzhu-dvl/starvqaplus)**|
+|**2023-06-21**|**Wildfire Detection Via Transfer Learning: A Survey**|Ziliang Hong et.al.|[2306.12276v1](http://arxiv.org/abs/2306.12276v1)|null|
+|**2023-06-21**|**An efficient mass lumping scheme for isogeometric analysis based on approximate dual basis functions**|Susanne Held et.al.|[2306.12257v1](http://arxiv.org/abs/2306.12257v1)|null|
+|**2023-06-21**|**Optical frequency comb Fourier transform spectroscopy of formaldehyde in the 1250 to 1390 cm $^{-1}$  range: experimental line list and improved MARVEL analysis**|Matthias Germann et.al.|[2306.12246v1](http://arxiv.org/abs/2306.12246v1)|null|
+|**2023-06-21**|**Inter-Instance Similarity Modeling for Contrastive Learning**|Chengchao Shen et.al.|[2306.12243v1](http://arxiv.org/abs/2306.12243v1)|null|
+|**2023-06-21**|**Concurrent ischemic lesion age estimation and segmentation of CT brain using a Transformer-based network**|Adam Marcus et.al.|[2306.12242v1](http://arxiv.org/abs/2306.12242v1)|null|
+|**2023-06-21**|**The Jost function and Siegert pseudostates from R-matrix calculations at complex wavenumbers**|Paul Vaandrager et.al.|[2306.12216v1](http://arxiv.org/abs/2306.12216v1)|null|
+|**2023-06-21**|**Investigating Pre-trained Language Models on Cross-Domain Datasets, a Step Closer to General AI**|Mohamad Ballout et.al.|[2306.12205v1](http://arxiv.org/abs/2306.12205v1)|null|
+|**2023-06-21**|**Polygon Detection for Room Layout Estimation using Heterogeneous Graphs and Wireframes**|David Gillsjö et.al.|[2306.12203v1](http://arxiv.org/abs/2306.12203v1)|null|
+|**2023-06-21**|**Opening the Black Box: Analyzing Attention Weights and Hidden States in Pre-trained Language Models for Non-language Tasks**|Mohamad Ballout et.al.|[2306.12198v1](http://arxiv.org/abs/2306.12198v1)|**[link](https://github.com/balloutai/attention-analysis)**|
+|**2023-06-21**|**Extended NYUSIM-based MmWave Channel Model and Simulator for RIS-Assisted Systems**|Aline Habib et.al.|[2306.12164v1](http://arxiv.org/abs/2306.12164v1)|null|
+|**2023-06-21**|**Fast Segment Anything**|Xu Zhao et.al.|[2306.12156v1](http://arxiv.org/abs/2306.12156v1)|**[link](https://github.com/casia-iva-lab/fastsam)**|
+|**2023-06-21**|**The first-passage area of Wiener process with stochastic resetting**|Mario Abundo et.al.|[2306.12154v1](http://arxiv.org/abs/2306.12154v1)|null|
+|**2023-06-21**|**ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining**|Dezhi Peng et.al.|[2306.12106v1](http://arxiv.org/abs/2306.12106v1)|null|
+|**2023-06-21**|**MSW-Transformer: Multi-Scale Shifted Windows Transformer Networks for 12-Lead ECG Classification**|Renjie Cheng et.al.|[2306.12098v1](http://arxiv.org/abs/2306.12098v1)|null|
+|**2023-06-21**|**What Constitutes Good Contrastive Learning in Time-Series Forecasting?**|Chiyu Zhang et.al.|[2306.12086v1](http://arxiv.org/abs/2306.12086v1)|null|
+|**2023-06-21**|**HSR-Diff:Hyperspectral Image Super-Resolution via Conditional Diffusion Models**|Chanyue Wu et.al.|[2306.12085v1](http://arxiv.org/abs/2306.12085v1)|null|
+|**2023-06-21**|**The Importance of Education for Technological Development and the Role of Internet-Based Learning in Education**|Ozdemir Cetin et.al.|[2306.12082v1](http://arxiv.org/abs/2306.12082v1)|null|
+|**2023-06-21**|**Learning Latent Dynamics via Invariant Decomposition and (Spatio-)Temporal Transformers**|Kai Lagemann et.al.|[2306.12077v1](http://arxiv.org/abs/2306.12077v1)|null|
+|**2023-06-21**|**EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations**|Yi-Lun Liao et.al.|[2306.12059v1](http://arxiv.org/abs/2306.12059v1)|**[link](https://github.com/atomicarchitects/equiformer_v2)**|
+|**2023-06-21**|**A Reliable and Interpretable Framework of Multi-view Learning for Liver Fibrosis Staging**|Zheyao Gao et.al.|[2306.12054v1](http://arxiv.org/abs/2306.12054v1)|null|
+|**2023-06-21**|**Towards chemical accuracy with shallow quantum circuits: A Clifford-based Hamiltonian engineering approach**|Jiace Sun et.al.|[2306.12053v1](http://arxiv.org/abs/2306.12053v1)|null|
+|**2023-06-21**|**Some invariants of  $U(1,1;\mathbb{H})$  and diagonalization**|Cailing Yao et.al.|[2306.12052v1](http://arxiv.org/abs/2306.12052v1)|null|
+|**2023-06-21**|**Exploring the chiral and deconfinement phase transitions in a self-consistent PNJL model**|Xiaozhu Yu et.al.|[2306.12036v1](http://arxiv.org/abs/2306.12036v1)|null|
+|**2023-06-21**|**Non-Hermitian band theory in all dimensions: uniform spectra and skin effect**|Haiping Hu et.al.|[2306.12022v1](http://arxiv.org/abs/2306.12022v1)|null|
+|**2023-06-21**|**Training Transformers with 4-bit Integers**|Haocheng Xi et.al.|[2306.11987v1](http://arxiv.org/abs/2306.11987v1)|null|
+|**2023-06-21**|**Addressing the Rank Degeneration in Sequential Recommendation via Singular Spectrum Smoothing**|Ziwei Fan et.al.|[2306.11986v1](http://arxiv.org/abs/2306.11986v1)|**[link](https://github.com/zfan20/spmrec)**|
+|**2023-06-21**|**LLM-based Smart Reply (LSR): Enhancing Collaborative Performance with ChatGPT-mediated Smart Reply System (ACM)(Draft) LLM-based Smart Reply (LSR): Enhancing Collaborative Performance with ChatGPT-mediated Smart Reply System**|Ashish Bastola et.al.|[2306.11980v1](http://arxiv.org/abs/2306.11980v1)|null|
+|**2023-06-21**|**Symmetry making and symmetry breaking in cortex A collective portrait of ensemble excitation and inhibition**|Nima Dehghani et.al.|[2306.11965v1](http://arxiv.org/abs/2306.11965v1)|null|
+|**2023-06-21**|**Multimodality Fusion for Smart Healthcare: a Journey from Data, Information, Knowledge to Wisdom**|Thanveer Shaik et.al.|[2306.11963v1](http://arxiv.org/abs/2306.11963v1)|null|
+|**2023-06-21**|**TADIL: Task-Agnostic Domain-Incremental Learning through Task-ID Inference using Transformer Nearest-Centroid Embeddings**|Gusseppe Bravo-Rocca et.al.|[2306.11955v1](http://arxiv.org/abs/2306.11955v1)|null|
+|**2023-06-20**|**Experimenting with Discrete Dynamical Systems**|George Spahn et.al.|[2306.11929v1](http://arxiv.org/abs/2306.11929v1)|null|
+|**2023-06-20**|**NILUT: Conditional Neural Implicit 3D Lookup Tables for Image Enhancement**|Marcos V. Conde et.al.|[2306.11920v1](http://arxiv.org/abs/2306.11920v1)|null|
+|**2023-06-20**|**Exploring New Frontiers in Agricultural NLP: Investigating the Potential of Large Language Models for Food Applications**|Saed Rezayi et.al.|[2306.11892v1](http://arxiv.org/abs/2306.11892v1)|null|
+|**2023-06-20**|**Protecting the Decentralized Future: An Exploration of Common Blockchain Attacks and their Countermeasures**|Bilash Saha et.al.|[2306.11884v1](http://arxiv.org/abs/2306.11884v1)|null|
+|**2023-06-20**|**Engineering phase and density of Bose-Einstein condensates in curved waveguides with toroidal topology**|Yelyzaveta Nikolaieva et.al.|[2306.11873v1](http://arxiv.org/abs/2306.11873v1)|null|
+|**2023-06-20**|**Multiverse Transformer: 1st Place Solution for Waymo Open Sim Agents Challenge 2023**|Yu Wang et.al.|[2306.11868v1](http://arxiv.org/abs/2306.11868v1)|null|
+|**2023-06-20**|**Celestial holography and AdS3/CFT2 from a scaling reduction of twistor space**|Wei Bu et.al.|[2306.11850v1](http://arxiv.org/abs/2306.11850v1)|null|
+|**2023-06-20**|**Retrieval-Based Transformer for Table Augmentation**|Michael Glass et.al.|[2306.11843v1](http://arxiv.org/abs/2306.11843v1)|**[link](https://github.com/ibm/retrieval-table-augmentation)**|
 |**2023-06-20**|**Low-complexity Multidimensional DCT Approximations**|V. A. Coutinho et.al.|[2306.11724v1](http://arxiv.org/abs/2306.11724v1)|null|
 |**2023-06-20**|**RoboCat: A Self-Improving Foundation Agent for Robotic Manipulation**|Konstantinos Bousmalis et.al.|[2306.11706v1](http://arxiv.org/abs/2306.11706v1)|null|
 |**2023-06-20**|**DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models**|Boxin Wang et.al.|[2306.11698v1](http://arxiv.org/abs/2306.11698v1)|null|
