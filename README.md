@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**Minimalist and High-Quality Panoramic Imaging with PSF-aware Transformers**|Qi Jiang et.al.|[2306.12992v1](http://arxiv.org/abs/2306.12992v1)|null|
+|**2023-06-22**|**Super-Resolution of BVOC Emission Maps Via Domain Adaptation**|Antonio Giganti et.al.|[2306.12796v1](http://arxiv.org/abs/2306.12796v1)|null|
+|**2023-06-22**|**Time Domain Superoscillation Enables Super-contrast Spectroscopy**|Peisong Peng et.al.|[2306.12665v1](http://arxiv.org/abs/2306.12665v1)|null|
 |**2023-06-21**|**Dynamic Implicit Image Function for Efficient Arbitrary-Scale Image Representation**|Zongyao He et.al.|[2306.12321v1](http://arxiv.org/abs/2306.12321v1)|**[link](https://github.com/hezongyao/diif)**|
 |**2023-06-21**|**DiffuseIR:Diffusion Models For Isotropic Reconstruction of 3D Microscopic Images**|Mingjie Pan et.al.|[2306.12109v1](http://arxiv.org/abs/2306.12109v1)|null|
 |**2023-06-21**|**HSR-Diff:Hyperspectral Image Super-Resolution via Conditional Diffusion Models**|Chanyue Wu et.al.|[2306.12085v1](http://arxiv.org/abs/2306.12085v1)|null|
@@ -711,6 +714,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**Mapping the German Diamond Open Access Journal Landscape**|Niels Taubert et.al.|[2306.13080v1](http://arxiv.org/abs/2306.13080v1)|null|
+|**2023-06-22**|**A Comparison of Time-based Models for Multimodal Emotion Recognition**|Ege Kesim et.al.|[2306.13076v1](http://arxiv.org/abs/2306.13076v1)|null|
+|**2023-06-22**|**Unitary Complexity and the Uhlmann Transformation Problem**|John Bostanci et.al.|[2306.13073v1](http://arxiv.org/abs/2306.13073v1)|null|
+|**2023-06-22**|**Named entity recognition in resumes**|Ege Kesim et.al.|[2306.13062v1](http://arxiv.org/abs/2306.13062v1)|null|
+|**2023-06-22**|**Deep Metric Learning with Soft Orthogonal Proxies**|Farshad Saberi-Movahed et.al.|[2306.13055v1](http://arxiv.org/abs/2306.13055v1)|null|
+|**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen et.al.|[2306.13040v1](http://arxiv.org/abs/2306.13040v1)|null|
+|**2023-06-22**|**Minimalist and High-Quality Panoramic Imaging with PSF-aware Transformers**|Qi Jiang et.al.|[2306.12992v1](http://arxiv.org/abs/2306.12992v1)|null|
+|**2023-06-22**|**Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing**|Yelysei Bondarenko et.al.|[2306.12929v1](http://arxiv.org/abs/2306.12929v1)|null|
+|**2023-06-22**|**Cross-lingual Cross-temporal Summarization: Dataset, Models, Evaluation**|Ran Zhang et.al.|[2306.12916v1](http://arxiv.org/abs/2306.12916v1)|null|
+|**2023-06-22**|**Learning from Visual Observation via Offline Pretrained State-to-Go Transformer**|Bohan Zhou et.al.|[2306.12860v1](http://arxiv.org/abs/2306.12860v1)|null|
+|**2023-06-22**|**Solving the complete pseudo-impulsive radiation and diffraction problem using a spectral element method**|Jens Visbech et.al.|[2306.12854v1](http://arxiv.org/abs/2306.12854v1)|null|
+|**2023-06-22**|**Backstepping Control of Coupled General Hyperbolic-Parabolic PDE-PDE Systems**|Joachim Deutscher et.al.|[2306.12833v1](http://arxiv.org/abs/2306.12833v1)|null|
+|**2023-06-22**|**Delayed Hawkes birth-death processes**|Justin Baars et.al.|[2306.12812v1](http://arxiv.org/abs/2306.12812v1)|null|
+|**2023-06-22**|**AI could create a perfect storm of climate misinformation**|Victor Galaz et.al.|[2306.12807v1](http://arxiv.org/abs/2306.12807v1)|null|
+|**2023-06-22**|**Automatic Feature Detection in Lung Ultrasound Images using Wavelet and Radon Transforms**|Maria Farahi et.al.|[2306.12780v1](http://arxiv.org/abs/2306.12780v1)|null|
+|**2023-06-22**|**Physical informed neural networks with soft and hard boundary constraints for solving advection-diffusion equations using Fourier expansions**|Jiaxin Deng et.al.|[2306.12749v1](http://arxiv.org/abs/2306.12749v1)|null|
+|**2023-06-22**|**Porous crystals in charged sphere suspensions by aggregate-driven phase separation**|Nina Lorenz et.al.|[2306.12748v1](http://arxiv.org/abs/2306.12748v1)|null|
+|**2023-06-22**|**Self-compression of femtosecond pulses in normally dispersive media**|Renjing Chen et.al.|[2306.12743v1](http://arxiv.org/abs/2306.12743v1)|null|
+|**2023-06-22**|**Right here, right now? The role of spatio-temporal minimum renewable shares for energy system transformation pathways**|Tim Fürmann et.al.|[2306.12704v1](http://arxiv.org/abs/2306.12704v1)|null|
+|**2023-06-22**|**Vec2Vec: A Compact Neural Network Approach for Transforming Text Embeddings with High Fidelity**|Andrew Kean Gao et.al.|[2306.12689v1](http://arxiv.org/abs/2306.12689v1)|null|
+|**2023-06-22**|**SoftGPT: Learn Goal-oriented Soft Object Manipulation Skills by Generative Pre-trained Heterogeneous Graph Transformer**|Junjia Liu et.al.|[2306.12677v1](http://arxiv.org/abs/2306.12677v1)|null|
+|**2023-06-22**|**Higher group Weyl Symmetry**|Yu Nakayama et.al.|[2306.12662v1](http://arxiv.org/abs/2306.12662v1)|null|
+|**2023-06-22**|**Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of General-Purpose Large Language Models**|Boyu Zhang et.al.|[2306.12659v1](http://arxiv.org/abs/2306.12659v1)|null|
+|**2023-06-22**|**1st Place Solution to MultiEarth 2023 Challenge on Multimodal SAR-to-EO Image Translation**|Jingi Ju et.al.|[2306.12626v1](http://arxiv.org/abs/2306.12626v1)|null|
+|**2023-06-21**|**Hamilton-Jacobi framework for Regge-Teitelboim gravity**|A. Aguilar-Salas et.al.|[2306.12605v1](http://arxiv.org/abs/2306.12605v1)|null|
+|**2023-06-21**|**Improving Long-Horizon Imitation Through Instruction Prediction**|Joey Hejna et.al.|[2306.12554v1](http://arxiv.org/abs/2306.12554v1)|null|
+|**2023-06-21**|**Neural Multigrid Memory For Computational Fluid Dynamics**|Duc Minh Nguyen et.al.|[2306.12545v1](http://arxiv.org/abs/2306.12545v1)|null|
+|**2023-06-21**|**LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network**|Dongqiangzi Ye et.al.|[2306.12525v1](http://arxiv.org/abs/2306.12525v1)|null|
+|**2023-06-21**|**NTT-Based Polynomial Modular Multiplication for Homomorphic Encryption: A Tutorial**|Sin-Wei Chiu et.al.|[2306.12519v1](http://arxiv.org/abs/2306.12519v1)|null|
+|**2023-06-21**|**Accelerated Griffin-Lim algorithm: A fast and provably converging numerical method for phase retrieval**|Rossen Nenov et.al.|[2306.12504v1](http://arxiv.org/abs/2306.12504v1)|null|
+|**2023-06-21**|**Nonlinear dynamics and onset of chaos in a physical model of a damper pressure relief valve**|Lukas Schickhofer et.al.|[2306.12503v1](http://arxiv.org/abs/2306.12503v1)|null|
+|**2023-06-21**|**Correlated Phases in Spin-Orbit-Coupled Rhombohedral Trilayer Graphene**|Jin Ming Koh et.al.|[2306.12486v1](http://arxiv.org/abs/2306.12486v1)|null|
+|**2023-06-21**|**Efficient Deep Spiking Multi-Layer Perceptrons with Multiplication-Free Inference**|Boyan Li et.al.|[2306.12465v1](http://arxiv.org/abs/2306.12465v1)|null|
 |**2023-06-21**|**On the fractal uncertainty principle in several dimensions**|Ioann Vasilyev et.al.|[2306.12397v1](http://arxiv.org/abs/2306.12397v1)|null|
 |**2023-06-21**|**Probing the limit of hydrologic predictability with the Transformer network**|Jiangtao Liu et.al.|[2306.12384v1](http://arxiv.org/abs/2306.12384v1)|null|
 |**2023-06-21**|**Towards Efficient MPPI Trajectory Generation with Unscented Guidance: U-MPPI Control Strategy**|Ihab S. Mohamed et.al.|[2306.12369v1](http://arxiv.org/abs/2306.12369v1)|null|
@@ -726,7 +762,7 @@
 |**2023-06-21**|**Concurrent ischemic lesion age estimation and segmentation of CT brain using a Transformer-based network**|Adam Marcus et.al.|[2306.12242v1](http://arxiv.org/abs/2306.12242v1)|null|
 |**2023-06-21**|**The Jost function and Siegert pseudostates from R-matrix calculations at complex wavenumbers**|Paul Vaandrager et.al.|[2306.12216v1](http://arxiv.org/abs/2306.12216v1)|null|
 |**2023-06-21**|**Investigating Pre-trained Language Models on Cross-Domain Datasets, a Step Closer to General AI**|Mohamad Ballout et.al.|[2306.12205v1](http://arxiv.org/abs/2306.12205v1)|null|
-|**2023-06-21**|**Polygon Detection for Room Layout Estimation using Heterogeneous Graphs and Wireframes**|David Gillsjö et.al.|[2306.12203v1](http://arxiv.org/abs/2306.12203v1)|null|
+|**2023-06-21**|**Polygon Detection for Room Layout Estimation using Heterogeneous Graphs and Wireframes**|David Gillsjö et.al.|[2306.12203v1](http://arxiv.org/abs/2306.12203v1)|**[link](https://github.com/davidgillsjo/polygon-hgt)**|
 |**2023-06-21**|**Opening the Black Box: Analyzing Attention Weights and Hidden States in Pre-trained Language Models for Non-language Tasks**|Mohamad Ballout et.al.|[2306.12198v1](http://arxiv.org/abs/2306.12198v1)|**[link](https://github.com/balloutai/attention-analysis)**|
 |**2023-06-21**|**Extended NYUSIM-based MmWave Channel Model and Simulator for RIS-Assisted Systems**|Aline Habib et.al.|[2306.12164v1](http://arxiv.org/abs/2306.12164v1)|null|
 |**2023-06-21**|**Fast Segment Anything**|Xu Zhao et.al.|[2306.12156v1](http://arxiv.org/abs/2306.12156v1)|**[link](https://github.com/casia-iva-lab/fastsam)**|
