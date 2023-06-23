@@ -737,7 +737,7 @@
 |**2023-06-22**|**SoftGPT: Learn Goal-oriented Soft Object Manipulation Skills by Generative Pre-trained Heterogeneous Graph Transformer**|Junjia Liu et.al.|[2306.12677v1](http://arxiv.org/abs/2306.12677v1)|null|
 |**2023-06-22**|**Higher group Weyl Symmetry**|Yu Nakayama et.al.|[2306.12662v1](http://arxiv.org/abs/2306.12662v1)|null|
 |**2023-06-22**|**Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of General-Purpose Large Language Models**|Boyu Zhang et.al.|[2306.12659v1](http://arxiv.org/abs/2306.12659v1)|null|
-|**2023-06-22**|**1st Place Solution to MultiEarth 2023 Challenge on Multimodal SAR-to-EO Image Translation**|Jingi Ju et.al.|[2306.12626v1](http://arxiv.org/abs/2306.12626v1)|null|
+|**2023-06-22**|**1st Place Solution to MultiEarth 2023 Challenge on Multimodal SAR-to-EO Image Translation**|Jingi Ju et.al.|[2306.12626v1](http://arxiv.org/abs/2306.12626v1)|**[link](https://github.com/cjf8899/MultiEarth2023_SAR2EO_1st_Place_Solution)**|
 |**2023-06-21**|**Hamilton-Jacobi framework for Regge-Teitelboim gravity**|A. Aguilar-Salas et.al.|[2306.12605v1](http://arxiv.org/abs/2306.12605v1)|null|
 |**2023-06-21**|**Improving Long-Horizon Imitation Through Instruction Prediction**|Joey Hejna et.al.|[2306.12554v1](http://arxiv.org/abs/2306.12554v1)|null|
 |**2023-06-21**|**Neural Multigrid Memory For Computational Fluid Dynamics**|Duc Minh Nguyen et.al.|[2306.12545v1](http://arxiv.org/abs/2306.12545v1)|null|
