@@ -657,7 +657,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-21**|**ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining**|Dezhi Peng et.al.|[2306.12106v1](http://arxiv.org/abs/2306.12106v1)|null|
+|**2023-06-21**|**ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining**|Dezhi Peng et.al.|[2306.12106v1](http://arxiv.org/abs/2306.12106v1)|**[link](https://github.com/shannanyinxiang/viteraser)**|
 |**2022-09-06**|**A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data**|Zhengmi Tang et.al.|[2209.02397v1](http://arxiv.org/abs/2209.02397v1)|**[link](https://github.com/iiclab/decompst)**|
 |**2023-04-28**|**Progressive Scene Text Erasing with Self-Supervision**|Xiangcheng Du et.al.|[2207.11469v2](http://arxiv.org/abs/2207.11469v2)|null|
 |**2022-04-27**|**Self-Supervised Text Erasing with Controllable Image Synthesis**|Gangwei Jiang et.al.|[2204.12743v1](http://arxiv.org/abs/2204.12743v1)|null|
@@ -758,7 +758,7 @@
 |**2023-06-21**|**Wildfire Detection Via Transfer Learning: A Survey**|Ziliang Hong et.al.|[2306.12276v1](http://arxiv.org/abs/2306.12276v1)|null|
 |**2023-06-21**|**An efficient mass lumping scheme for isogeometric analysis based on approximate dual basis functions**|Susanne Held et.al.|[2306.12257v1](http://arxiv.org/abs/2306.12257v1)|null|
 |**2023-06-21**|**Optical frequency comb Fourier transform spectroscopy of formaldehyde in the 1250 to 1390 cm $^{-1}$  range: experimental line list and improved MARVEL analysis**|Matthias Germann et.al.|[2306.12246v1](http://arxiv.org/abs/2306.12246v1)|null|
-|**2023-06-21**|**Inter-Instance Similarity Modeling for Contrastive Learning**|Chengchao Shen et.al.|[2306.12243v1](http://arxiv.org/abs/2306.12243v1)|null|
+|**2023-06-21**|**Inter-Instance Similarity Modeling for Contrastive Learning**|Chengchao Shen et.al.|[2306.12243v1](http://arxiv.org/abs/2306.12243v1)|**[link](https://github.com/visresearch/patchmix)**|
 |**2023-06-21**|**Concurrent ischemic lesion age estimation and segmentation of CT brain using a Transformer-based network**|Adam Marcus et.al.|[2306.12242v1](http://arxiv.org/abs/2306.12242v1)|null|
 |**2023-06-21**|**The Jost function and Siegert pseudostates from R-matrix calculations at complex wavenumbers**|Paul Vaandrager et.al.|[2306.12216v1](http://arxiv.org/abs/2306.12216v1)|null|
 |**2023-06-21**|**Investigating Pre-trained Language Models on Cross-Domain Datasets, a Step Closer to General AI**|Mohamad Ballout et.al.|[2306.12205v1](http://arxiv.org/abs/2306.12205v1)|null|
