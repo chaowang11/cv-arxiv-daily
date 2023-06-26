@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**Directional diffusion models for graph representation learning**|Run Yang et.al.|[2306.13210v1](http://arxiv.org/abs/2306.13210v1)|null|
 |**2023-06-22**|**Minimalist and High-Quality Panoramic Imaging with PSF-aware Transformers**|Qi Jiang et.al.|[2306.12992v1](http://arxiv.org/abs/2306.12992v1)|**[link](https://github.com/zju-jiangqi/pcie-part)**|
 |**2023-06-22**|**Super-Resolution of BVOC Emission Maps Via Domain Adaptation**|Antonio Giganti et.al.|[2306.12796v1](http://arxiv.org/abs/2306.12796v1)|**[link](https://github.com/polimi-ispl/sr-bvoc)**|
 |**2023-06-22**|**Time Domain Superoscillation Enables Super-contrast Spectroscopy**|Peisong Peng et.al.|[2306.12665v1](http://arxiv.org/abs/2306.12665v1)|null|
@@ -714,6 +715,46 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-23**|**ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration**|Jiaqi Ma et.al.|[2306.13653v1](http://arxiv.org/abs/2306.13653v1)|**[link](https://github.com/leonmakise/prores)**|
+|**2023-06-23**|**Bring Your Own Data! Self-Supervised Evaluation for Large Language Models**|Neel Jain et.al.|[2306.13651v1](http://arxiv.org/abs/2306.13651v1)|**[link](https://github.com/neelsjain/byod)**|
+|**2023-06-23**|**Fast Approximation of Unbalanced Optimal Transport and Maximum Mean Discrepancies**|Rajmadan Lakshmanan et.al.|[2306.13618v1](http://arxiv.org/abs/2306.13618v1)|null|
+|**2023-06-23**|**Chimera Dynamics of Generalized Kuramoto-Sakaguchi Oscillators in Two-population Networks**|Seungjae Lee et.al.|[2306.13616v1](http://arxiv.org/abs/2306.13616v1)|null|
+|**2023-06-23**|**Margin Maximization in Attention Mechanism**|Davoud Ataee Tarzanagh et.al.|[2306.13596v1](http://arxiv.org/abs/2306.13596v1)|null|
+|**2023-06-23**|**TACOformer:Token-channel compounded Cross Attention for Multimodal Emotion Recognition**|Xinda Li et.al.|[2306.13592v1](http://arxiv.org/abs/2306.13592v1)|null|
+|**2023-06-23**|**A Semi-Paired Approach For Label-to-Image Translation**|George Eskandar et.al.|[2306.13585v1](http://arxiv.org/abs/2306.13585v1)|null|
+|**2023-06-23**|**The star-square relation and the generalized star-triangle relation from 3d supersymmetric dualities I**|Mustafa Mullahasanoglu et.al.|[2306.13581v1](http://arxiv.org/abs/2306.13581v1)|null|
+|**2023-06-23**|**Lower Complexity Adaptation for Empirical Entropic Optimal Transport**|Michel Groppe et.al.|[2306.13580v1](http://arxiv.org/abs/2306.13580v1)|null|
+|**2023-06-23**|**Scaling MLPs: A Tale of Inductive Bias**|Gregor Bachmann et.al.|[2306.13575v1](http://arxiv.org/abs/2306.13575v1)|**[link](https://github.com/gregorbachmann/scaling_mlps)**|
+|**2023-06-23**|**Fuzzification-based Feature Selection for Enhanced Website Content Encryption**|Mike Nkongolo et.al.|[2306.13548v1](http://arxiv.org/abs/2306.13548v1)|null|
+|**2023-06-23**|**Manifold Contrastive Learning with Variational Lie Group Operators**|Kion Fallah et.al.|[2306.13544v1](http://arxiv.org/abs/2306.13544v1)|null|
+|**2023-06-23**|**PathMLP: Smooth Path Towards High-order Homophily**|Chenxuan Xie et.al.|[2306.13532v1](http://arxiv.org/abs/2306.13532v1)|null|
+|**2023-06-23**|**Fourier-transformed gauge theory models of three-dimensional topological orders with gapped boundaries**|Siyuan Wang et.al.|[2306.13530v1](http://arxiv.org/abs/2306.13530v1)|null|
+|**2023-06-23**|**Bridging the Performance Gap between DETR and R-CNN for Graphical Object Detection in Document Images**|Tahira Shehzadi et.al.|[2306.13526v1](http://arxiv.org/abs/2306.13526v1)|null|
+|**2023-06-23**|**Rational Transformations and Invariant Polynomials**|Max Schulz et.al.|[2306.13502v1](http://arxiv.org/abs/2306.13502v1)|null|
+|**2023-06-23**|**Knowledge-Infused Self Attention Transformers**|Kaushik Roy et.al.|[2306.13501v1](http://arxiv.org/abs/2306.13501v1)|null|
+|**2023-06-23**|**Galilean Relativity and the Path Integral Formalism in Quantum Mechanics**|Charles Torre et.al.|[2306.13487v1](http://arxiv.org/abs/2306.13487v1)|null|
+|**2023-06-23**|**A Stabilized Circuit-Consistent Foil Conductor Model**|Jonas Bundschuh et.al.|[2306.13477v1](http://arxiv.org/abs/2306.13477v1)|null|
+|**2023-06-23**|**Attractive invariant circles à la Chenciner**|Jessica Elisa Massetti et.al.|[2306.13476v1](http://arxiv.org/abs/2306.13476v1)|null|
+|**2023-06-23**|**Efficient Online Processing with Deep Neural Networks**|Lukas Hedegaard et.al.|[2306.13474v1](http://arxiv.org/abs/2306.13474v1)|**[link](https://github.com/LukasHedegaard/continual-inference)**|
+|**2023-06-23**|**Incorporating Graph Information in Transformer-based AMR Parsing**|Pavlo Vasylenko et.al.|[2306.13467v1](http://arxiv.org/abs/2306.13467v1)|null|
+|**2023-06-23**|**3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation**|Shizhan Gong et.al.|[2306.13465v1](http://arxiv.org/abs/2306.13465v1)|null|
+|**2023-06-23**|**Long-range Language Modeling with Self-retrieval**|Ohad Rubin et.al.|[2306.13421v1](http://arxiv.org/abs/2306.13421v1)|null|
+|**2023-06-23**|**X-ray diffraction from dislocation half-loops in epitaxial films**|Vladimir M. Kaganer et.al.|[2306.13404v1](http://arxiv.org/abs/2306.13404v1)|null|
+|**2023-06-23**|**Stress Testing BERT Anaphora Resolution Models for Reaction Extraction in Chemical Patents**|Chieling Yueh et.al.|[2306.13379v1](http://arxiv.org/abs/2306.13379v1)|null|
+|**2023-06-23**|**Fractal properties, information theory, and market efficiency**|Xavier Brouty et.al.|[2306.13371v1](http://arxiv.org/abs/2306.13371v1)|null|
+|**2023-06-23**|**Kapitza-resistance-like exciton dynamics in atomically flat MoSe $_{2}$ -WSe $_{2}$  lateral heterojunction**|Hassan Lamsaadi et.al.|[2306.13352v1](http://arxiv.org/abs/2306.13352v1)|null|
+|**2023-06-23**|**Unsupervised Deformable Image Registration for Respiratory Motion Compensation in Ultrasound Images**|FNU Abhimanyu et.al.|[2306.13332v1](http://arxiv.org/abs/2306.13332v1)|null|
+|**2023-06-23**|**Micromechanical field-effect transistor terahertz detectors with optical interferometric readout**|V. Ryzhii et.al.|[2306.13318v1](http://arxiv.org/abs/2306.13318v1)|null|
+|**2023-06-23**|**Abstractive Text Summarization for Resumes With Cutting Edge NLP Transformers and LSTM**|Öykü Berfin Mercan et.al.|[2306.13315v1](http://arxiv.org/abs/2306.13315v1)|null|
+|**2023-06-23**|**Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems**|Mingyu Cui et.al.|[2306.13307v1](http://arxiv.org/abs/2306.13307v1)|null|
+|**2023-06-23**|**DP Streaming Data Release under Correlations via Post-processing**|Xuyang Cao et.al.|[2306.13293v1](http://arxiv.org/abs/2306.13293v1)|null|
+|**2023-06-23**|**Optimal Power Flow for Integrated Primary-Secondary Distribution Networks with Service Transformers**|Rui Cheng et.al.|[2306.13287v1](http://arxiv.org/abs/2306.13287v1)|null|
+|**2023-06-23**|**Weyl Transform on Nonunimodular Groups**|Santosh Kumar Nayak et.al.|[2306.13260v1](http://arxiv.org/abs/2306.13260v1)|null|
+|**2023-06-23**|**Predicting Grokking Long Before it Happens: A look into the loss landscape of models which grok**|Pascal Jr. Tikeng Notsawo et.al.|[2306.13253v1](http://arxiv.org/abs/2306.13253v1)|null|
+|**2023-06-23**|**Self-similar solutions to the hypoviscous Burgers and SQG equations at criticality**|Koji Ohkitani et.al.|[2306.13252v1](http://arxiv.org/abs/2306.13252v1)|null|
+|**2023-06-23**|**Emergent Influence Networks in Good-Faith Online Discussions**|Henry K. Dambanemuya et.al.|[2306.13250v1](http://arxiv.org/abs/2306.13250v1)|null|
+|**2023-06-22**|**V-line 2-tensor tomography in the plane**|Gaik Ambartsoumian et.al.|[2306.13245v1](http://arxiv.org/abs/2306.13245v1)|null|
+|**2023-06-22**|**Communication-Free Distributed Charging Control for Electric Vehicle Group**|Heyang Yu et.al.|[2306.13154v1](http://arxiv.org/abs/2306.13154v1)|null|
 |**2023-06-22**|**Mapping the German Diamond Open Access Journal Landscape**|Niels Taubert et.al.|[2306.13080v1](http://arxiv.org/abs/2306.13080v1)|null|
 |**2023-06-22**|**A Comparison of Time-based Models for Multimodal Emotion Recognition**|Ege Kesim et.al.|[2306.13076v1](http://arxiv.org/abs/2306.13076v1)|null|
 |**2023-06-22**|**Unitary Complexity and the Uhlmann Transformation Problem**|John Bostanci et.al.|[2306.13073v1](http://arxiv.org/abs/2306.13073v1)|null|
@@ -6662,7 +6703,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-21**|**TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting**|Liang Liao et.al.|[2306.11528v2](http://arxiv.org/abs/2306.11528v2)|**[link](https://github.com/cameltr/transref)**|
-|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869v1](http://arxiv.org/abs/2306.09869v1)|null|
+|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869v1](http://arxiv.org/abs/2306.09869v1)|**[link](https://github.com/energyattention/energy-based-crossattention)**|
 |**2023-06-15**|**Deep Generative Models for Decision-Making and Control**|Michael Janner et.al.|[2306.08810v1](http://arxiv.org/abs/2306.08810v1)|null|
 |**2023-06-13**|**Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**|Ricong Huang et.al.|[2306.07579v1](http://arxiv.org/abs/2306.07579v1)|null|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632v1](http://arxiv.org/abs/2306.04632v1)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
