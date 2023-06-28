@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Novel Hybrid-Learning Algorithms for Improved Millimeter-Wave Imaging Systems**|Josiah Smith et.al.|[2306.15341v1](http://arxiv.org/abs/2306.15341v1)|null|
+|**2023-06-27**|**Cutting-Edge Techniques for Depth Map Super-Resolution**|Ryan Peterson et.al.|[2306.15244v1](http://arxiv.org/abs/2306.15244v1)|null|
+|**2023-06-27**|**SPDER: Semiperiodic Damping-Enabled Object Representation**|Kathan Shah et.al.|[2306.15242v1](http://arxiv.org/abs/2306.15242v1)|null|
+|**2023-06-27**|**Semantic Segmentation Using Super Resolution Technique as Pre-Processing**|Chih-Chia Chen et.al.|[2306.15218v1](http://arxiv.org/abs/2306.15218v1)|null|
 |**2023-06-26**|**Iterative-in-Iterative Super-Resolution Biomedical Imaging Using One Real Image**|Yuanzheng Ma et.al.|[2306.14487v1](http://arxiv.org/abs/2306.14487v1)|null|
 |**2023-06-25**|**SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image**|Luyuan Xie et.al.|[2306.14119v1](http://arxiv.org/abs/2306.14119v1)|**[link](https://github.com/xiely-123/shisrcnet)**|
 |**2023-06-24**|**SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning**|Pu Ren et.al.|[2306.14070v1](http://arxiv.org/abs/2306.14070v1)|**[link](https://github.com/erichson/superbench)**|
@@ -421,6 +425,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Novel Hybrid-Learning Algorithms for Improved Millimeter-Wave Imaging Systems**|Josiah Smith et.al.|[2306.15341v1](http://arxiv.org/abs/2306.15341v1)|null|
+|**2023-06-27**|**SPDER: Semiperiodic Damping-Enabled Object Representation**|Kathan Shah et.al.|[2306.15242v1](http://arxiv.org/abs/2306.15242v1)|null|
+|**2023-06-27**|**Semantic Segmentation Using Super Resolution Technique as Pre-Processing**|Chih-Chia Chen et.al.|[2306.15218v1](http://arxiv.org/abs/2306.15218v1)|null|
 |**2023-06-24**|**Real-World Video for Zoom Enhancement based on Spatio-Temporal Coupling**|Zhiling Guo et.al.|[2306.13875v1](http://arxiv.org/abs/2306.13875v1)|null|
 |**2023-06-21**|**HSR-Diff:Hyperspectral Image Super-Resolution via Conditional Diffusion Models**|Chanyue Wu et.al.|[2306.12085v1](http://arxiv.org/abs/2306.12085v1)|null|
 |**2023-06-19**|**Optical Coherence Tomography Image Enhancement via Block Hankelization and Low Rank Tensor Network Approximation**|Farnaz Sedighin et.al.|[2306.11750v1](http://arxiv.org/abs/2306.11750v1)|null|
@@ -721,6 +728,47 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Surface superconductor-insulator transition induced by an electric field**|Liyu Yin et.al.|[2306.15655v1](http://arxiv.org/abs/2306.15655v1)|null|
+|**2023-06-27**|**Style-transfer based Speech and Audio-visual Scene Understanding for Robot Action Sequence Acquisition from Videos**|Chiori Hori et.al.|[2306.15644v1](http://arxiv.org/abs/2306.15644v1)|null|
+|**2023-06-27**|**Adaptive local density estimation in tomography**|Sergio Brenner Miguel et.al.|[2306.15640v1](http://arxiv.org/abs/2306.15640v1)|null|
+|**2023-06-27**|**Constructing Multilingual Code Search Dataset Using Neural Machine Translation**|Ryo Sekizawa et.al.|[2306.15604v1](http://arxiv.org/abs/2306.15604v1)|**[link](https://github.com/ynklab/xcodesearchnet)**|
+|**2023-06-27**|**Hybrid Koopman C*-formalism and the hybrid quantum-classical master equation**|C. Bouthelier-Madre et.al.|[2306.15601v1](http://arxiv.org/abs/2306.15601v1)|null|
+|**2023-06-27**|**Fourier Analysis on  $\mathbb{T}^m\times\mathbb{R}^n$  and Applications to Global Hypoellipticity**|André Pedroso Kowacs et.al.|[2306.15578v1](http://arxiv.org/abs/2306.15578v1)|null|
+|**2023-06-27**|**Challenges and Opportunities for RISC-V Architectures towards Genomics-based Workloads**|Gonzalo Gomez-Sanchez et.al.|[2306.15562v1](http://arxiv.org/abs/2306.15562v1)|null|
+|**2023-06-27**|**Quantum phenomena inside a black hole: quantization of the scalar field iniside horizon in Schwarzschild spacetime**|Pawel Gusin et.al.|[2306.15549v1](http://arxiv.org/abs/2306.15549v1)|null|
+|**2023-06-27**|**Robust Wasserstein Optimization and its Application in Mean-CVaR**|Xin Hai et.al.|[2306.15524v1](http://arxiv.org/abs/2306.15524v1)|null|
+|**2023-06-27**|**Taming Detection Transformers for Medical Object Detection**|Marc K. Ickler et.al.|[2306.15472v1](http://arxiv.org/abs/2306.15472v1)|null|
+|**2023-06-27**|**Quantum Fourier Networks for Solving Parametric PDEs**|Nishant Jain et.al.|[2306.15415v1](http://arxiv.org/abs/2306.15415v1)|null|
+|**2023-06-27**|**Length Generalization in Arithmetic Transformers**|Samy Jelassi et.al.|[2306.15400v1](http://arxiv.org/abs/2306.15400v1)|null|
+|**2023-06-27**|**A Cluster-Based Computational Thermodynamics Framework with Intrinsic Chemical Short-Range Order: Part I. Configurational Contribution**|Chu-Liang Fu et.al.|[2306.15384v1](http://arxiv.org/abs/2306.15384v1)|null|
+|**2023-06-27**|**The Szegő kernel in analytic regularity and analytic Fourier Integral Operators**|Alix Deleporte et.al.|[2306.15382v1](http://arxiv.org/abs/2306.15382v1)|null|
+|**2023-06-27**|**Conformal Symmetry and Effective Potential: I. Vacuum  $V_{z,x}$ -operation for the Green functions**|I. V. Anikin et.al.|[2306.15373v1](http://arxiv.org/abs/2306.15373v1)|null|
+|**2023-06-27**|**CellViT: Vision Transformers for Precise Cell Segmentation and Classification**|Fabian Hörst et.al.|[2306.15350v1](http://arxiv.org/abs/2306.15350v1)|**[link](https://github.com/tio-ikim/cellvit)**|
+|**2023-06-27**|**FedET: A Communication-Efficient Federated Class-Incremental Learning Framework Based on Enhanced Transformer**|Chenghao Liu et.al.|[2306.15347v1](http://arxiv.org/abs/2306.15347v1)|null|
+|**2023-06-27**|**Novel Hybrid-Learning Algorithms for Improved Millimeter-Wave Imaging Systems**|Josiah Smith et.al.|[2306.15341v1](http://arxiv.org/abs/2306.15341v1)|null|
+|**2023-06-27**|**Space-Time Entropy, Space of Singularities and Gravity Origin: A Case Study**|Faycal Ben Adda et.al.|[2306.15335v1](http://arxiv.org/abs/2306.15335v1)|null|
+|**2023-06-27**|**Topology optimization of transient vibroacoustic problems for broadband filter design using cut elements**|Cetin B. Dilgen et.al.|[2306.15325v1](http://arxiv.org/abs/2306.15325v1)|null|
+|**2023-06-27**|**Towards predicting Pedestrian Evacuation Time and Density from Floorplans using a Vision Transformer**|Patrick Berggold et.al.|[2306.15318v1](http://arxiv.org/abs/2306.15318v1)|null|
+|**2023-06-27**|**The  $2D$  nonlinear shallow water equations with a partially immersed obstacle**|David Lannes et.al.|[2306.15285v1](http://arxiv.org/abs/2306.15285v1)|null|
+|**2023-06-27**|**Variational Latent Discrete Representation for Time Series Modelling**|Max Cohen et.al.|[2306.15282v1](http://arxiv.org/abs/2306.15282v1)|null|
+|**2023-06-27**|**Hierarchical Dense Correlation Distillation for Few-Shot Segmentation-Extended Abstract**|Bohao Peng et.al.|[2306.15278v1](http://arxiv.org/abs/2306.15278v1)|null|
+|**2023-06-27**|**Confined extensions and non-standard dynamical filtrations**|Séverin Benzoni et.al.|[2306.15269v1](http://arxiv.org/abs/2306.15269v1)|null|
+|**2023-06-27**|**Sparse wavelet-based solutions for the M/EEG inverse problem**|Samy Mokhtari et.al.|[2306.15262v1](http://arxiv.org/abs/2306.15262v1)|null|
+|**2023-06-27**|**Cutting-Edge Techniques for Depth Map Super-Resolution**|Ryan Peterson et.al.|[2306.15244v1](http://arxiv.org/abs/2306.15244v1)|null|
+|**2023-06-27**|**Learning to Rank in Generative Retrieval**|Yongqi Li et.al.|[2306.15222v1](http://arxiv.org/abs/2306.15222v1)|null|
+|**2023-06-27**|**Wormhole C-metric**|Masato Nozawa et.al.|[2306.15198v1](http://arxiv.org/abs/2306.15198v1)|null|
+|**2023-06-27**|**Error analyses of Sinc-collocation methods for exponential decay initial value problems**|Tomoaki Okayama et.al.|[2306.15175v1](http://arxiv.org/abs/2306.15175v1)|null|
+|**2023-06-27**|**Reducing the gap between streaming and non-streaming Transducer-based ASR by adaptive two-stage knowledge distillation**|Haitao Tang et.al.|[2306.15171v1](http://arxiv.org/abs/2306.15171v1)|null|
+|**2023-06-27**|**PT-symmetric cross injection dual optoelectronic oscillator**|Mehedi Hasan et.al.|[2306.15168v1](http://arxiv.org/abs/2306.15168v1)|null|
+|**2023-06-26**|**Scaling symmetries and canonoid transformations in Hamiltonian systems**|R. Azuaje et.al.|[2306.15108v1](http://arxiv.org/abs/2306.15108v1)|null|
+|**2023-06-26**|**Automated Identication of Atrial Fibrillation from Single-lead ECGs Using Multi-branching ResNet**|Jianxin Xie et.al.|[2306.15096v1](http://arxiv.org/abs/2306.15096v1)|null|
+|**2023-06-26**|**Science with a small two-band UV-photometry mission I: Mission description and follow-up observations of stellar transients**|N. Werner et.al.|[2306.15080v1](http://arxiv.org/abs/2306.15080v1)|null|
+|**2023-06-26**|**Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression**|Allan Raventós et.al.|[2306.15063v1](http://arxiv.org/abs/2306.15063v1)|**[link](https://github.com/mansheej/icl-task-diversity)**|
+|**2023-06-26**|**Rebricking frames and bases**|Thomas Fink et.al.|[2306.15038v1](http://arxiv.org/abs/2306.15038v1)|null|
+|**2023-06-26**|**Efficient High-Resolution Template Matching with Vector Quantized Nearest Neighbour Fields**|Ankit Gupta et.al.|[2306.15010v1](http://arxiv.org/abs/2306.15010v1)|null|
+|**2023-06-26**|**DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome**|Zhihan Zhou et.al.|[2306.15006v1](http://arxiv.org/abs/2306.15006v1)|**[link](https://github.com/zhihan1996/dnabert_2)**|
+|**2023-06-26**|**Shaping Exciton Dynamics in 2D Semiconductors by Tailored Ultrafast Pulses**|Omri Meron et.al.|[2306.15005v1](http://arxiv.org/abs/2306.15005v1)|null|
+|**2023-06-26**|**Applying wavelet analysis to the X-ray light curves of active galactic nuclei and quasi-periodic eruptions**|Akshay Ghosh et.al.|[2306.14972v1](http://arxiv.org/abs/2306.14972v1)|null|
 |**2023-06-26**|**RVT: Robotic View Transformer for 3D Object Manipulation**|Ankit Goyal et.al.|[2306.14896v1](http://arxiv.org/abs/2306.14896v1)|null|
 |**2023-06-26**|**LongCoder: A Long-Range Pre-trained Language Model for Code Completion**|Daya Guo et.al.|[2306.14893v1](http://arxiv.org/abs/2306.14893v1)|**[link](https://github.com/microsoft/CodeBERT)**|
 |**2023-06-26**|**Supervised Pretraining Can Learn In-Context Reinforcement Learning**|Jonathan N. Lee et.al.|[2306.14892v1](http://arxiv.org/abs/2306.14892v1)|null|
