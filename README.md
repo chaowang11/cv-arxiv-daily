@@ -785,7 +785,7 @@
 |**2023-07-05**|**Resurgent Structure of the Topological String and the First Painlevé Equation**|Kohei Iwaki et.al.|[2307.02080v1](http://arxiv.org/abs/2307.02080v1)|null|
 |**2023-07-05**|**Facing off World Model Backbones: RNNs, Transformers, and S4**|Fei Deng et.al.|[2307.02064v1](http://arxiv.org/abs/2307.02064v1)|null|
 |**2023-07-05**|**Traversability Analysis for Autonomous Driving in Complex Environment: A LiDAR-based Terrain Modeling Approach**|Hanzhang Xue et.al.|[2307.02060v1](http://arxiv.org/abs/2307.02060v1)|null|
-|**2023-07-05**|**Emoji Prediction using Transformer Models**|Muhammad Osama Nusrat et.al.|[2307.02054v1](http://arxiv.org/abs/2307.02054v1)|null|
+|**2023-07-05**|**Emoji Prediction using Transformer Models**|Muhammad Osama Nusrat et.al.|[2307.02054v1](http://arxiv.org/abs/2307.02054v1)|**[link](https://github.com/mnusrat786/emoji-prediction-with-transformer)**|
 |**2023-07-05**|**Monte Carlo Sampling without Isoperimetry: A Reverse Diffusion Approach**|Xunpeng Huang et.al.|[2307.02037v1](http://arxiv.org/abs/2307.02037v1)|null|
 |**2023-07-05**|**Convex Optimal Power Flow Based on Power Injection-based Equations and Its Application in Bipolar DC Distribution Network**|Yiyao Zhou et.al.|[2307.02036v1](http://arxiv.org/abs/2307.02036v1)|null|
 |**2023-07-05**|**Improving Automatic Parallel Training via Balanced Memory Workload Optimization**|Yujie Wang et.al.|[2307.02031v1](http://arxiv.org/abs/2307.02031v1)|null|
