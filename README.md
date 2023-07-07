@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Multi-source imagery fusion using deep learning in a cloud computing platform**|Carlos Theran et.al.|[2307.03054v1](http://arxiv.org/abs/2307.03054v1)|null|
+|**2023-07-06**|**Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution**|Yuting Lu et.al.|[2307.02974v1](http://arxiv.org/abs/2307.02974v1)|null|
+|**2023-07-06**|**RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution**|Han Zou et.al.|[2307.02897v1](http://arxiv.org/abs/2307.02897v1)|null|
 |**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457v1](http://arxiv.org/abs/2307.02457v1)|null|
 |**2023-07-06**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334v2](http://arxiv.org/abs/2307.02334v2)|null|
 |**2023-07-05**|**Source Identification: A Self-Supervision Task for Dense Prediction**|Shuai Chen et.al.|[2307.02238v1](http://arxiv.org/abs/2307.02238v1)|null|
@@ -439,6 +442,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution**|Yuting Lu et.al.|[2307.02974v1](http://arxiv.org/abs/2307.02974v1)|null|
 |**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457v1](http://arxiv.org/abs/2307.02457v1)|null|
 |**2023-07-05**|**Compound Attention and Neighbor Matching Network for Multi-contrast MRI Super-resolution**|Wenxuan Chen et.al.|[2307.02148v1](http://arxiv.org/abs/2307.02148v1)|null|
 |**2023-07-04**|**Spatio-Temporal Perception-Distortion Trade-off in Learned Video SR**|Nasrin Rahimi et.al.|[2307.01556v1](http://arxiv.org/abs/2307.01556v1)|null|
@@ -614,6 +618,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution**|Han Zou et.al.|[2307.02897v1](http://arxiv.org/abs/2307.02897v1)|null|
 |**2023-07-04**|**Spatio-Temporal Perception-Distortion Trade-off in Learned Video SR**|Nasrin Rahimi et.al.|[2307.01556v1](http://arxiv.org/abs/2307.01556v1)|null|
 |**2023-05-24**|**EgoVSR: Towards High-Quality Egocentric Video Super-Resolution**|Yichen Chi et.al.|[2305.14708v1](http://arxiv.org/abs/2305.14708v1)|null|
 |**2023-05-24**|**NegVSR: Augmenting Negatives for Generalized Noise Modeling in Real-World Video Super-Resolution**|Yexing Song et.al.|[2305.14669v1](http://arxiv.org/abs/2305.14669v1)|null|
@@ -748,8 +753,46 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Focused Transformer: Contrastive Training for Context Scaling**|Szymon Tworkowski et.al.|[2307.03170v1](http://arxiv.org/abs/2307.03170v1)|**[link](https://github.com/cstankonrad/long_llama)**|
+|**2023-07-06**|**Recovering implicit pitch contours from formants in whispered speech**|Pablo Pérez Zarazaga et.al.|[2307.03168v1](http://arxiv.org/abs/2307.03168v1)|null|
+|**2023-07-06**|**Ergodicity-breaking phase diagram and fractal dimensions in long-range models with generically correlated disorder**|Shilpi Roy et.al.|[2307.03085v1](http://arxiv.org/abs/2307.03085v1)|null|
+|**2023-07-06**|**Consistent Causal Inference for High-Dimensional Time Series**|Francesco Cordoni et.al.|[2307.03074v1](http://arxiv.org/abs/2307.03074v1)|null|
+|**2023-07-06**|**Electromagnetic cloak design with mono-objective and bi-objective optimizers: seeking the best tradeoff between protection and invisibility**|Ronald Aznavourian et.al.|[2307.03055v1](http://arxiv.org/abs/2307.03055v1)|null|
+|**2023-07-06**|**Origin-Destination Travel Time Oracle for Map-based Services**|Yan Lin et.al.|[2307.03048v1](http://arxiv.org/abs/2307.03048v1)|null|
+|**2023-07-06**|**Track Mix Generation on Music Streaming Services using Transformers**|Walid Bendada et.al.|[2307.03045v1](http://arxiv.org/abs/2307.03045v1)|null|
+|**2023-07-06**|**Art Authentication with Vision Transformers**|Ludovica Schaerf et.al.|[2307.03039v1](http://arxiv.org/abs/2307.03039v1)|null|
+|**2023-07-06**|**PCL-Indexability and Whittle Index for Restless Bandits with General Observation Models**|Keqin Liu et.al.|[2307.03034v1](http://arxiv.org/abs/2307.03034v1)|null|
+|**2023-07-06**|**Performance Analysis and Approximate Message Passing Detection of Orthogonal Time Sequency Multiplexing Modulation**|Zeping Sui et.al.|[2307.03028v1](http://arxiv.org/abs/2307.03028v1)|null|
+|**2023-07-06**|**Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution**|Yuting Lu et.al.|[2307.02974v1](http://arxiv.org/abs/2307.02974v1)|null|
+|**2023-07-06**|**Template synthesis approach for radio emission from extensive air showers**|Mitja Desmet et.al.|[2307.02939v1](http://arxiv.org/abs/2307.02939v1)|null|
+|**2023-07-06**|**DisAsymNet: Disentanglement of Asymmetrical Abnormality on Bilateral Mammograms using Self-adversarial Learning**|Xin Wang et.al.|[2307.02935v1](http://arxiv.org/abs/2307.02935v1)|null|
+|**2023-07-06**|**Numerical Methods with Coordinate Transforms for Efficient Brownian Dynamics Simulations**|Dominic Phillips et.al.|[2307.02913v1](http://arxiv.org/abs/2307.02913v1)|null|
+|**2023-07-06**|**LEA: Improving Sentence Similarity Robustness to Typos Using Lexical Attention Bias**|Mario Almagro et.al.|[2307.02912v1](http://arxiv.org/abs/2307.02912v1)|null|
+|**2023-07-06**|**Agentività e telicità in GilBERTo: implicazioni cognitive**|Agnese Lombardi et.al.|[2307.02910v1](http://arxiv.org/abs/2307.02910v1)|null|
+|**2023-07-06**|**Invertibility of functionals of the Poisson process and applications**|Laure Coutin et.al.|[2307.02887v1](http://arxiv.org/abs/2307.02887v1)|null|
+|**2023-07-06**|**Contrast Is All You Need**|Burak Kilic et.al.|[2307.02882v1](http://arxiv.org/abs/2307.02882v1)|null|
+|**2023-07-06**|**Restoring spatial cooperation with myopic agents in a three-strategy social dilemma**|Hsuan-Wei Lee et.al.|[2307.02832v1](http://arxiv.org/abs/2307.02832v1)|null|
+|**2023-07-06**|**Sampling-based Fast Gradient Rescaling Method for Highly Transferable Adversarial Attacks**|Xu Han et.al.|[2307.02828v1](http://arxiv.org/abs/2307.02828v1)|null|
+|**2023-07-06**|**What Should Data Science Education Do with Large Language Models?**|Xinming Tu et.al.|[2307.02792v1](http://arxiv.org/abs/2307.02792v1)|null|
+|**2023-07-06**|**UIT-Saviors at MEDVQA-GI 2023: Improving Multimodal Learning with Image Enhancement for Gastrointestinal Visual Question Answering**|Triet M. Thai et.al.|[2307.02783v1](http://arxiv.org/abs/2307.02783v1)|null|
+|**2023-07-06**|**Large Language Models Empowered Autonomous Edge AI for Connected Intelligence**|Yifei Shen et.al.|[2307.02779v1](http://arxiv.org/abs/2307.02779v1)|null|
+|**2023-07-06**|**Single-shot Transverse Wakefield Mapping with a Hollow Electron Beam**|A. Halavanau et.al.|[2307.02776v1](http://arxiv.org/abs/2307.02776v1)|null|
+|**2023-07-06**|**MMNet: Multi-Collaboration and Multi-Supervision Network for Sequential Deepfake Detection**|Ruiyang Xia et.al.|[2307.02733v1](http://arxiv.org/abs/2307.02733v1)|null|
+|**2023-07-06**|**Towards Symmetry-Aware Generation of Periodic Materials**|Youzhi Luo et.al.|[2307.02707v1](http://arxiv.org/abs/2307.02707v1)|null|
+|**2023-07-06**|**A Logical Way to Negotiate Services**|Glenn Bruns et.al.|[2307.02703v1](http://arxiv.org/abs/2307.02703v1)|null|
+|**2023-07-05**|**GIT: Detecting Uncertainty, Out-Of-Distribution and Adversarial Samples using Gradients and Invariance Transformations**|Julia Lust et.al.|[2307.02672v1](http://arxiv.org/abs/2307.02672v1)|null|
+|**2023-07-05**|**Periodic discrete Darboux transforms**|Joseph Cho et.al.|[2307.02649v1](http://arxiv.org/abs/2307.02649v1)|null|
+|**2023-07-05**|**Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation**|Sébastien Lachapelle et.al.|[2307.02598v1](http://arxiv.org/abs/2307.02598v1)|null|
+|**2023-07-05**|**TransformerG2G: Adaptive time-stepping for learning temporal graph embeddings using transformers**|Alan John Varghese et.al.|[2307.02588v1](http://arxiv.org/abs/2307.02588v1)|null|
+|**2023-07-05**|**User Perspectives on Branching in Computer-Aided Design**|Kathy Cheng et.al.|[2307.02583v1](http://arxiv.org/abs/2307.02583v1)|null|
+|**2023-07-05**|**Two-component breather solution of the nonlinear wave equation**|G. T. Adamashvili et.al.|[2307.02581v1](http://arxiv.org/abs/2307.02581v1)|null|
+|**2023-07-05**|**Multimodal Temporal Fusion Transformers Are Good Product Demand Forecasters**|Maarten Sukel et.al.|[2307.02578v1](http://arxiv.org/abs/2307.02578v1)|null|
+|**2023-07-05**|**Exploring the  $β$  symmetry of supergravity**|Walter H. Baron et.al.|[2307.02537v1](http://arxiv.org/abs/2307.02537v1)|null|
+|**2023-07-05**|**Postmodern Fermi Liquids**|Umang Mehta et.al.|[2307.02536v1](http://arxiv.org/abs/2307.02536v1)|null|
+|**2023-07-05**|**Majorana chain and Ising model -- (non-invertible) translations, anomalies, and emanant symmetries**|Nathan Seiberg et.al.|[2307.02534v1](http://arxiv.org/abs/2307.02534v1)|null|
 |**2023-07-05**|**LongNet: Scaling Transformers to 1,000,000,000 Tokens**|Jiayu Ding et.al.|[2307.02486v1](http://arxiv.org/abs/2307.02486v1)|**[link](https://github.com/microsoft/unilm)**|
 |**2023-07-05**|**Elastic Decision Transformer**|Yueh-Hua Wu et.al.|[2307.02484v1](http://arxiv.org/abs/2307.02484v1)|null|
+|**2023-07-06**|**Deductive Additivity for Planning of Natural Language Proofs**|Zayne Sprague et.al.|[2307.02472v2](http://arxiv.org/abs/2307.02472v2)|**[link](https://github.com/zayne-sprague/deductive_additivity_for_planning_of_natural_language_proofs)**|
 |**2023-07-05**|**Double space T-dualization and coordinate dependent RR**|Bojan Nikolić et.al.|[2307.02438v1](http://arxiv.org/abs/2307.02438v1)|null|
 |**2023-07-05**|**Graphical CSS Code Transformation Using ZX Calculus**|Jiaxin Huang et.al.|[2307.02437v1](http://arxiv.org/abs/2307.02437v1)|null|
 |**2023-07-05**|**DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models**|Chong Mou et.al.|[2307.02421v1](http://arxiv.org/abs/2307.02421v1)|**[link](https://github.com/mc-e/dragondiffusion)**|
