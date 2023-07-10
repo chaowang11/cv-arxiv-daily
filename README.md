@@ -753,6 +753,53 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**Bilateral boundary control of an input delayed 2-D reaction-diffusion equation**|Dandan Guan et.al.|[2307.03727v1](http://arxiv.org/abs/2307.03727v1)|null|
+|**2023-07-06**|**Steel Surface Roughness Parameter Calculations Using Lasers and Machine Learning Models**|Alex Milne et.al.|[2307.03723v1](http://arxiv.org/abs/2307.03723v1)|null|
+|**2023-07-07**|**The bright blue side of the night sky: Spectroscopic survey of bright and hot (pre-) white dwarfs**|Nicole Reindl et.al.|[2307.03721v1](http://arxiv.org/abs/2307.03721v1)|null|
+|**2023-07-07**|**INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers**|Lakshmi Nair et.al.|[2307.03712v1](http://arxiv.org/abs/2307.03712v1)|null|
+|**2023-07-07**|**Quantum cohomology of projective bundles**|Hiroshi Iritani et.al.|[2307.03696v1](http://arxiv.org/abs/2307.03696v1)|null|
+|**2023-07-07**|**Three-dimensional Vorticity Effects on Extinction Behavior of Laminar Flamelets**|Wes Hellwig et.al.|[2307.03695v1](http://arxiv.org/abs/2307.03695v1)|null|
+|**2023-07-07**|**Content Addressable Memories and Transformable Logic Circuits Based on Ferroelectric Reconfigurable Transistors for In-Memory Computing**|Zijing Zhao et.al.|[2307.03660v1](http://arxiv.org/abs/2307.03660v1)|null|
+|**2023-07-07**|**Properties of "special'' hyperbolic Bessel-Gaussian optical beams**|Tomasz Radożycki et.al.|[2307.03656v1](http://arxiv.org/abs/2307.03656v1)|null|
+|**2023-07-07**|**Density-on-Density Regression**|Yi Zhao et.al.|[2307.03642v1](http://arxiv.org/abs/2307.03642v1)|null|
+|**2023-07-07**|**Fock quantization of a Klein-Gordon field in the interior geometry of a nonrotating black hole**|Jerónimo Cortez et.al.|[2307.03636v1](http://arxiv.org/abs/2307.03636v1)|null|
+|**2023-07-07**|**Fast reconstruction of programmable integrated interferometers**|B. I. Bantysh et.al.|[2307.03635v1](http://arxiv.org/abs/2307.03635v1)|null|
+|**2023-07-07**|**Integrable coupled massive Thirring model with field values in a Grassmann algebra**|B. Basu-Mallick et.al.|[2307.03626v1](http://arxiv.org/abs/2307.03626v1)|null|
+|**2023-07-07**|**To Patch, or not To Patch? That is the Question: A Case Study of System Administrators' Online Collaborative Behaviour**|Adam Jenkins et.al.|[2307.03609v1](http://arxiv.org/abs/2307.03609v1)|null|
+|**2023-07-07**|**GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest**|Shilong Zhang et.al.|[2307.03601v1](http://arxiv.org/abs/2307.03601v1)|null|
+|**2023-07-06**|**Structure Guided Multi-modal Pre-trained Transformer for Knowledge Graph Reasoning**|Ke Liang et.al.|[2307.03591v1](http://arxiv.org/abs/2307.03591v1)|null|
+|**2023-07-07**|**One Step of Gradient Descent is Provably the Optimal In-Context Learner with One Layer of Linear Self-Attention**|Arvind Mahankali et.al.|[2307.03576v1](http://arxiv.org/abs/2307.03576v1)|null|
+|**2023-07-07**|**Celestial open strings at one-loop**|Laura Donnay et.al.|[2307.03551v1](http://arxiv.org/abs/2307.03551v1)|null|
+|**2023-07-07**|**DWReCO at CheckThat! 2023: Enhancing Subjectivity Detection through Style-based Data Sampling**|Ipek Baris Schlicht et.al.|[2307.03550v1](http://arxiv.org/abs/2307.03550v1)|null|
+|**2023-07-07**|**Matching in the Wild: Learning Anatomical Embeddings for Multi-Modality Images**|Xiaoyu Bai et.al.|[2307.03535v1](http://arxiv.org/abs/2307.03535v1)|null|
+|**2023-07-07**|**HoughLaneNet: Lane Detection with Deep Hough Transform and Dynamic Convolution**|Jia-Qi Zhang et.al.|[2307.03494v1](http://arxiv.org/abs/2307.03494v1)|null|
+|**2023-07-07**|**ITA: An Energy-Efficient Attention and Softmax Accelerator for Quantized Transformers**|Gamze İslamoğlu et.al.|[2307.03493v1](http://arxiv.org/abs/2307.03493v1)|null|
+|**2023-07-07**|**Finite Elements with Switch Detection for Numerical Optimal Control of Nonsmooth Dynamical Systems with Set-Valued Step Functions**|Armin Nurkanović et.al.|[2307.03482v1](http://arxiv.org/abs/2307.03482v1)|null|
+|**2023-07-07**|**Padé and Padé-Laplace Methods for masses and matrix elements**|Georg M. von Hippel et.al.|[2307.03478v1](http://arxiv.org/abs/2307.03478v1)|null|
+|**2023-07-07**|**Mle-equivariance, data transformations and invariant tests of fit**|Muneya Matsui et.al.|[2307.03429v1](http://arxiv.org/abs/2307.03429v1)|null|
+|**2023-07-07**|**Merging-Diverging Hybrid Transformer Networks for Survival Prediction in Head and Neck Cancer**|Mingyuan Meng et.al.|[2307.03427v1](http://arxiv.org/abs/2307.03427v1)|null|
+|**2023-07-07**|**Registration-Free Hybrid Learning Empowers Simple Multimodal Imaging System for High-quality Fusion Detection**|Yinghan Guan et.al.|[2307.03425v1](http://arxiv.org/abs/2307.03425v1)|null|
+|**2023-07-07**|**Non-iterative Coarse-to-fine Transformer Networks for Joint Affine and Deformable Image Registration**|Mingyuan Meng et.al.|[2307.03421v1](http://arxiv.org/abs/2307.03421v1)|null|
+|**2023-07-07**|**One-dimensional Townes solitons in dual-core systems with localized coupling**|Shatrughna Kumar et.al.|[2307.03420v1](http://arxiv.org/abs/2307.03420v1)|null|
+|**2023-07-07**|**Unsupervised Hyperspectral and Multispectral Images Fusion Based on the Cycle Consistency**|Shuaikai Shi et.al.|[2307.03413v1](http://arxiv.org/abs/2307.03413v1)|null|
+|**2023-07-07**|**Distilling Self-Supervised Vision Transformers for Weakly-Supervised Few-Shot Classification & Segmentation**|Dahyun Kang et.al.|[2307.03407v1](http://arxiv.org/abs/2307.03407v1)|null|
+|**2023-07-07**|**Swin Transformer-Based Dynamic Semantic Communication for Multi-User with Different Computing Capacity**|Loc X. Nguyen et.al.|[2307.03402v1](http://arxiv.org/abs/2307.03402v1)|null|
+|**2023-07-07**|**Towards Robust SDRTV-to-HDRTV via Dual Inverse Degradation Network**|Kepeng Xu et.al.|[2307.03394v1](http://arxiv.org/abs/2307.03394v1)|null|
+|**2023-07-07**|**General-Purpose Multimodal Transformer meets Remote Sensing Semantic Segmentation**|Nhi Kieu et.al.|[2307.03388v1](http://arxiv.org/abs/2307.03388v1)|null|
+|**2023-07-07**|**ToxiSpanSE: An Explainable Toxicity Detection in Code Review Comments**|Jaydeb Saker et.al.|[2307.03386v1](http://arxiv.org/abs/2307.03386v1)|null|
+|**2023-07-07**|**Teaching Arithmetic to Small Transformers**|Nayoung Lee et.al.|[2307.03381v1](http://arxiv.org/abs/2307.03381v1)|null|
+|**2023-07-07**|**A Side-by-side Comparison of Transformers for English Implicit Discourse Relation Classification**|Bruce W. Lee et.al.|[2307.03378v1](http://arxiv.org/abs/2307.03378v1)|null|
+|**2023-07-07**|**All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment**|Chunhui Zhang et.al.|[2307.03373v1](http://arxiv.org/abs/2307.03373v1)|null|
+|**2023-07-07**|**Token-Level Serialized Output Training for Joint Streaming ASR and ST Leveraging Textual Alignments**|Sara Papi et.al.|[2307.03354v1](http://arxiv.org/abs/2307.03354v1)|null|
+|**2023-07-07**|**Generalizations (in the spirit of Koshliakov) of some formulas from Ramanujan's Lost Notebook**|Pedro Ribeiro et.al.|[2307.03350v1](http://arxiv.org/abs/2307.03350v1)|null|
+|**2023-07-06**|**ACDNet: Attention-guided Collaborative Decision Network for Effective Medication Recommendation**|Jiacong Mi et.al.|[2307.03332v1](http://arxiv.org/abs/2307.03332v1)|null|
+|**2023-07-06**|**Fitted value shrinkage**|Daeyoung Ham et.al.|[2307.03317v1](http://arxiv.org/abs/2307.03317v1)|null|
+|**2023-07-06**|**Lorentz polarisation, finite lightcone, domain of dependence and isoperimetric inequality in Minkowski spacetime**|Pengyu Le et.al.|[2307.03301v1](http://arxiv.org/abs/2307.03301v1)|null|
+|**2023-07-06**|**A network flow approach to a common generalization of Clar and Fries numbers**|Erika Bérczi-Kovács et.al.|[2307.03285v1](http://arxiv.org/abs/2307.03285v1)|null|
+|**2023-07-06**|**It is not Sexually Suggestive, It is Educative. Separating Sex Education from Suggestive Content on TikTok Videos**|Enfa George et.al.|[2307.03274v1](http://arxiv.org/abs/2307.03274v1)|null|
+|**2023-07-06**|**Transformation of 2-line ferrihydrite to goethite at alkaline pH**|Fabio E. Furcas et.al.|[2307.03267v1](http://arxiv.org/abs/2307.03267v1)|null|
+|**2023-07-06**|**Vision Language Transformers: A Survey**|Clayton Fields et.al.|[2307.03254v1](http://arxiv.org/abs/2307.03254v1)|null|
+|**2023-07-06**|**Asteroseismology with the Roman Galactic Bulge Time-Domain Survey**|Daniel Huber et.al.|[2307.03237v1](http://arxiv.org/abs/2307.03237v1)|null|
 |**2023-07-06**|**Focused Transformer: Contrastive Training for Context Scaling**|Szymon Tworkowski et.al.|[2307.03170v1](http://arxiv.org/abs/2307.03170v1)|**[link](https://github.com/cstankonrad/long_llama)**|
 |**2023-07-06**|**Recovering implicit pitch contours from formants in whispered speech**|Pablo Pérez Zarazaga et.al.|[2307.03168v1](http://arxiv.org/abs/2307.03168v1)|null|
 |**2023-07-06**|**Ergodicity-breaking phase diagram and fractal dimensions in long-range models with generically correlated disorder**|Shilpi Roy et.al.|[2307.03085v1](http://arxiv.org/abs/2307.03085v1)|null|
