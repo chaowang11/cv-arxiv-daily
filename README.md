@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-10**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian B. Moser et.al.|[2307.04593v1](http://arxiv.org/abs/2307.04593v1)|null|
+|**2023-07-10**|**Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection**|YeongHyeon Park et.al.|[2307.04298v1](http://arxiv.org/abs/2307.04298v1)|null|
+|**2023-07-09**|**Enhancing Building Semantic Segmentation Accuracy with Super Resolution and Deep Learning: Investigating the Impact of Spatial Resolution on Various Datasets**|Zhiling Guo et.al.|[2307.04101v1](http://arxiv.org/abs/2307.04101v1)|null|
 |**2023-07-06**|**Multi-source imagery fusion using deep learning in a cloud computing platform**|Carlos Theran et.al.|[2307.03054v1](http://arxiv.org/abs/2307.03054v1)|null|
 |**2023-07-06**|**Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution**|Yuting Lu et.al.|[2307.02974v1](http://arxiv.org/abs/2307.02974v1)|null|
 |**2023-07-06**|**RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution**|Han Zou et.al.|[2307.02897v1](http://arxiv.org/abs/2307.02897v1)|null|
@@ -442,6 +445,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-10**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian B. Moser et.al.|[2307.04593v1](http://arxiv.org/abs/2307.04593v1)|null|
 |**2023-07-06**|**Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution**|Yuting Lu et.al.|[2307.02974v1](http://arxiv.org/abs/2307.02974v1)|null|
 |**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457v1](http://arxiv.org/abs/2307.02457v1)|null|
 |**2023-07-05**|**Compound Attention and Neighbor Matching Network for Multi-contrast MRI Super-resolution**|Wenxuan Chen et.al.|[2307.02148v1](http://arxiv.org/abs/2307.02148v1)|null|
@@ -753,6 +757,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-10**|**Covariant Action for Self-Dual p-Form Gauge Fields in General Spacetimes**|C. M. Hull et.al.|[2307.04748v1](http://arxiv.org/abs/2307.04748v1)|null|
+|**2023-07-10**|**Particle production from non-minimal coupling in a symmetry breaking potential transporting vacuum energy**|Alessio Belfiglio et.al.|[2307.04739v1](http://arxiv.org/abs/2307.04739v1)|null|
+|**2023-07-10**|**Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer**|Minxuan He et.al.|[2307.04723v1](http://arxiv.org/abs/2307.04723v1)|null|
+|**2023-07-10**|**Global solutions versus finite time blow-up for the fast diffusion equation with spatially inhomogeneous source**|Razvan Gabriel Iagar et.al.|[2307.04714v1](http://arxiv.org/abs/2307.04714v1)|null|
+|**2023-07-10**|**VampNet: Music Generation via Masked Acoustic Token Modeling**|Hugo Flores Garcia et.al.|[2307.04686v1](http://arxiv.org/abs/2307.04686v1)|null|
+|**2023-07-10**|**Pixelation with concentration-encoded effective photons for molecular optical sectioning microscopy**|Geng Wang et.al.|[2307.04670v1](http://arxiv.org/abs/2307.04670v1)|null|
+|**2023-07-10**|**Instability of Pa $\overline 3$  Cs $_{3}$ C $_{60}$  at ambient pressure and superconducting state of the FCC phase**|Changming Yue et.al.|[2307.04637v1](http://arxiv.org/abs/2307.04637v1)|null|
+|**2023-07-10**|**MiVOLO: Multi-input Transformer for Age and Gender Estimation**|Maksim Kuprashevich et.al.|[2307.04616v1](http://arxiv.org/abs/2307.04616v1)|**[link](https://github.com/wildchlamydia/mivolo)**|
+|**2023-07-10**|**EchoVest: Real-Time Sound Classification and Depth Perception Expressed through Transcutaneous Electrical Nerve Stimulation**|Jesse Choe et.al.|[2307.04604v1](http://arxiv.org/abs/2307.04604v1)|null|
+|**2023-07-10**|**Model-Driven Engineering for Artificial Intelligence -- A Systematic Literature Review**|Simon Raedler et.al.|[2307.04599v1](http://arxiv.org/abs/2307.04599v1)|**[link](https://github.com/sraedler/model-driven-engineering4artificial-intelligence)**|
+|**2023-07-10**|**Source-Free Open-Set Domain Adaptation for Histopathological Images via Distilling Self-Supervised Vision Transformer**|Guillaume Vray et.al.|[2307.04596v1](http://arxiv.org/abs/2307.04596v1)|null|
+|**2023-07-10**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian B. Moser et.al.|[2307.04593v1](http://arxiv.org/abs/2307.04593v1)|null|
+|**2023-07-10**|**Galerkin-Bernstein Approximations of the System of Time Dependent Nonlinear Parabolic PDEs**|Hazrat Ali et.al.|[2307.04581v1](http://arxiv.org/abs/2307.04581v1)|null|
+|**2023-07-10**|**TFR: Texture Defect Detection with Fourier Transform using Normal Reconstructed Template of Simple Autoencoder**|Jongwook Si et.al.|[2307.04574v1](http://arxiv.org/abs/2307.04574v1)|null|
+|**2023-07-10**|**On an uncertainty result by Donoho and Stark**|Oriol Baeza-Guasch et.al.|[2307.04558v1](http://arxiv.org/abs/2307.04558v1)|null|
+|**2023-07-10**|**Cluster-Induced Mask Transformers for Effective Opportunistic Gastric Cancer Screening on Non-contrast CT Scans**|Mingze Yuan et.al.|[2307.04525v1](http://arxiv.org/abs/2307.04525v1)|null|
+|**2023-07-10**|**Laplace-Transform GW**|Johannes Tölle et.al.|[2307.04508v1](http://arxiv.org/abs/2307.04508v1)|null|
+|**2023-07-10**|**Transformative Effect of Oxygen Plasma to Upshot the Structural and Electrical Properties of Pr0.5Sr0.5MnO3 Manganites**|Pronita Chettri et.al.|[2307.04474v1](http://arxiv.org/abs/2307.04474v1)|null|
+|**2023-07-10**|**Automatic diagnosis of knee osteoarthritis severity using Swin transformer**|Aymen Sekhri et.al.|[2307.04442v1](http://arxiv.org/abs/2307.04442v1)|null|
+|**2023-07-10**|**Designing Novel Cognitive Diagnosis Models via Evolutionary Multi-Objective Neural Architecture Search**|Shangshang Yang et.al.|[2307.04429v1](http://arxiv.org/abs/2307.04429v1)|**[link](https://github.com/devilyangs/emo-nas-cd)**|
+|**2023-07-10**|**CT-based Subchondral Bone Microstructural Analysis in Knee Osteoarthritis via MR-Guided Distillation Learning**|Yuqi Hu et.al.|[2307.04390v1](http://arxiv.org/abs/2307.04390v1)|**[link](https://github.com/jackhu-bme/srrd)**|
+|**2023-07-10**|**Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains**|Haoxuan Che et.al.|[2307.04378v1](http://arxiv.org/abs/2307.04378v1)|null|
+|**2023-07-10**|**One-Shot Pruning for Fast-adapting Pre-trained Models on Devices**|Haiyan Zhao et.al.|[2307.04365v1](http://arxiv.org/abs/2307.04365v1)|null|
+|**2023-07-10**|**Stroke Extraction of Chinese Character Based on Deep Structure Deformable Image Registration**|Meng Li et.al.|[2307.04341v1](http://arxiv.org/abs/2307.04341v1)|**[link](https://github.com/mengli-l1/strokeextraction)**|
+|**2023-07-10**|**Automotive Radar Mutual Interference Mitigation Based on Hough Transform in Time-Frequency Domain**|Yanbing Li et.al.|[2307.04326v1](http://arxiv.org/abs/2307.04326v1)|null|
+|**2023-07-10**|**RaPlace: Place Recognition for Imaging Radar using Radon Transform and Mutable Threshold**|Hyesu Jang et.al.|[2307.04321v1](http://arxiv.org/abs/2307.04321v1)|null|
+|**2023-07-10**|**Automatic Piano Transcription with Hierarchical Frequency-Time Transformer**|Keisuke Toyama et.al.|[2307.04305v1](http://arxiv.org/abs/2307.04305v1)|null|
+|**2023-07-09**|**Automated Essay Scoring in Argumentative Writing: DeBERTeachingAssistant**|Yann Hicke et.al.|[2307.04276v1](http://arxiv.org/abs/2307.04276v1)|null|
+|**2023-07-09**|**Relativistic time dilation as a quantum mechanism**|Esteban Martínez-Vargas et.al.|[2307.04254v1](http://arxiv.org/abs/2307.04254v1)|null|
+|**2023-07-09**|**Delay-Adaptive Control of First-order Hyperbolic PIDEs**|Shanshan Wang et.al.|[2307.04212v1](http://arxiv.org/abs/2307.04212v1)|null|
+|**2023-07-09**|**SAS Video-QA: Self-Adaptive Sampling for Efficient Video Question-Answering**|Wei Han et.al.|[2307.04192v1](http://arxiv.org/abs/2307.04192v1)|null|
+|**2023-07-09**|**Histopathology Whole Slide Image Analysis with Heterogeneous Graph Representation Learning**|Tsai Hor Chan et.al.|[2307.04189v1](http://arxiv.org/abs/2307.04189v1)|**[link](https://github.com/hku-medai/wsi-hgnn)**|
+|**2023-07-09**|**Brylinski-Radon transformation in characteristic  $p>0$ **|Deepam Patel et.al.|[2307.04156v1](http://arxiv.org/abs/2307.04156v1)|null|
+|**2023-07-09**|**A Survey and Approach to Chart Classification**|Anurag Dhote et.al.|[2307.04147v1](http://arxiv.org/abs/2307.04147v1)|null|
+|**2023-07-09**|**Chemical Reactive Flow past a Parabolic Vertical Plate with Exponentially Accelerated Temperature and Uniform Mass Transfer**|P. Sivakumar et.al.|[2307.04142v1](http://arxiv.org/abs/2307.04142v1)|null|
+|**2023-07-09**|**Reasoning over the Behaviour of Objects in Video-Clips for Adverb-Type Recognition**|Amrit Diggavi Seshadri et.al.|[2307.04132v1](http://arxiv.org/abs/2307.04132v1)|null|
+|**2023-07-09**|**Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers**|Zhiyu Zhu et.al.|[2307.04129v1](http://arxiv.org/abs/2307.04129v1)|null|
+|**2023-07-09**|**Marine Debris Detection in Satellite Surveillance using Attention Mechanisms**|Ao Shen et.al.|[2307.04128v1](http://arxiv.org/abs/2307.04128v1)|null|
+|**2023-07-09**|**Parametric Depth Based Feature Representation Learning for Object Detection and Segmentation in Bird's Eye View**|Jiayu Yang et.al.|[2307.04106v1](http://arxiv.org/abs/2307.04106v1)|null|
+|**2023-07-09**|**A generative flow for conditional sampling via optimal transport**|Jason Alfonso et.al.|[2307.04102v1](http://arxiv.org/abs/2307.04102v1)|**[link](https://github.com/giuliotrigila/moonexample)**|
+|**2023-07-09**|**Restricted Generative Projection for One-Class Classification and Anomaly Detection**|Feng Xiao et.al.|[2307.04097v1](http://arxiv.org/abs/2307.04097v1)|null|
+|**2023-07-09**|**Random Position Adversarial Patch for Vision Transformers**|Mingzhen Shao et.al.|[2307.04066v1](http://arxiv.org/abs/2307.04066v1)|null|
+|**2023-07-08**|**Bidirectional Attention as a Mixture of Continuous Word Experts**|Kevin Christian Wibisono et.al.|[2307.04057v1](http://arxiv.org/abs/2307.04057v1)|**[link](https://github.com/yixinw-lab/attention-uai)**|
+|**2023-07-08**|**Manifold Filter-Combine Networks**|Joyce Chew et.al.|[2307.04056v1](http://arxiv.org/abs/2307.04056v1)|**[link](https://github.com/krishnaswamylab/mfcn)**|
+|**2023-07-08**|**Emotion-Guided Music Accompaniment Generation Based on Variational Autoencoder**|Qi Wang et.al.|[2307.04015v1](http://arxiv.org/abs/2307.04015v1)|null|
+|**2023-07-08**|**Understanding the Efficacy of U-Net & Vision Transformer for Groundwater Numerical Modelling**|Maria Luisa Taccari et.al.|[2307.04010v1](http://arxiv.org/abs/2307.04010v1)|null|
+|**2023-07-08**|**Energy-Efficient Beamforming Design for Integrated Sensing and Communications Systems**|Jiaqi Zou et.al.|[2307.04002v1](http://arxiv.org/abs/2307.04002v1)|null|
+|**2023-07-08**|**Multiplicative properties of the current transform regulator**|Paulo Lima-Filho et.al.|[2307.03991v1](http://arxiv.org/abs/2307.03991v1)|null|
+|**2023-07-08**|**On short wave-long wave interactions\\ in the relativistic context: Application to the Relativistic Euler Equations**|João Paulo Dias et.al.|[2307.03989v1](http://arxiv.org/abs/2307.03989v1)|null|
+|**2023-07-08**|**End-to-End Supervised Multilabel Contrastive Learning**|Ahmad Sajedi et.al.|[2307.03967v1](http://arxiv.org/abs/2307.03967v1)|**[link](https://github.com/mahdihosseini/kmcl)**|
 |**2023-07-07**|**Bilateral boundary control of an input delayed 2-D reaction-diffusion equation**|Dandan Guan et.al.|[2307.03727v1](http://arxiv.org/abs/2307.03727v1)|null|
 |**2023-07-06**|**Steel Surface Roughness Parameter Calculations Using Lasers and Machine Learning Models**|Alex Milne et.al.|[2307.03723v1](http://arxiv.org/abs/2307.03723v1)|null|
 |**2023-07-07**|**The bright blue side of the night sky: Spectroscopic survey of bright and hot (pre-) white dwarfs**|Nicole Reindl et.al.|[2307.03721v1](http://arxiv.org/abs/2307.03721v1)|null|
