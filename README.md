@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207v1](http://arxiv.org/abs/2307.06207v1)|null|
 |**2023-07-11**|**Super-resolution imaging through a multimode fiber: the physical upsampling of speckle-driven**|Chuncheng Zhang et.al.|[2307.05138v1](http://arxiv.org/abs/2307.05138v1)|null|
 |**2023-07-10**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian B. Moser et.al.|[2307.04593v1](http://arxiv.org/abs/2307.04593v1)|null|
 |**2023-07-10**|**Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection**|YeongHyeon Park et.al.|[2307.04298v1](http://arxiv.org/abs/2307.04298v1)|null|
@@ -758,6 +759,49 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**SAGE -- A Tool for Optimal Deployments in Kubernetes Clusters**|Vlad-Ioan Luca et.al.|[2307.06318v1](http://arxiv.org/abs/2307.06318v1)|null|
+|**2023-07-12**|**Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution**|Mostafa Dehghani et.al.|[2307.06304v1](http://arxiv.org/abs/2307.06304v1)|null|
+|**2023-07-12**|**Direct x-ray scattering signal measurements in edge-illumination/beam-tracking imaging and their interplay with the variance of the refraction signals**|Ian Buchanan et.al.|[2307.06301v1](http://arxiv.org/abs/2307.06301v1)|null|
+|**2023-07-12**|**Disorder operators and magnetic vortices in SU(N) lattice gauge theory**|Manu Mathur et.al.|[2307.06278v1](http://arxiv.org/abs/2307.06278v1)|null|
+|**2023-07-12**|**Power Loss Minimization of Distribution Network using Different Grid Strategies**|Umar Jamil et.al.|[2307.06275v1](http://arxiv.org/abs/2307.06275v1)|null|
+|**2023-07-12**|**UGCANet: A Unified Global Context-Aware Transformer-based Network with Feature Alignment for Endoscopic Image Analysis**|Pham Vu Hung et.al.|[2307.06260v1](http://arxiv.org/abs/2307.06260v1)|null|
+|**2023-07-12**|**Fast and stable rational approximation of generalized hypergeometric functions**|Richard Mikael Slevinsky et.al.|[2307.06221v1](http://arxiv.org/abs/2307.06221v1)|null|
+|**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207v1](http://arxiv.org/abs/2307.06207v1)|null|
+|**2023-07-12**|**Integrated supervisory control and fixed path speed trajectory generation for hybrid electric ships via convex optimization**|Antti Ritari et.al.|[2307.06184v1](http://arxiv.org/abs/2307.06184v1)|null|
+|**2023-07-12**|**Emerging Physics Education Researchers' Growth in Professional Agency: Case Study**|Shams El-Adawy et.al.|[2307.06149v1](http://arxiv.org/abs/2307.06149v1)|null|
+|**2023-07-12**|**Permutationally invariant processes in arbitrary multiqudit systems**|T. Bastin et.al.|[2307.06141v1](http://arxiv.org/abs/2307.06141v1)|null|
+|**2023-07-12**|**Distribution-on-Distribution Regression with Wasserstein Metric: Multivariate Gaussian Case**|Ryo Okano et.al.|[2307.06137v1](http://arxiv.org/abs/2307.06137v1)|null|
+|**2023-07-12**|**TreeFormer: a Semi-Supervised Transformer-based Framework for Tree Counting from a Single High Resolution Image**|Hamed Amini Amirkolaee et.al.|[2307.06118v1](http://arxiv.org/abs/2307.06118v1)|**[link](https://github.com/haaclassic/treeformer)**|
+|**2023-07-12**|**AICT: An Adaptive Image Compression Transformer**|Ahmed Ghorbel et.al.|[2307.06091v1](http://arxiv.org/abs/2307.06091v1)|null|
+|**2023-07-12**|**Integrating Enzyme-generated functions into CoDiPack**|M. Sagebaum et.al.|[2307.06075v1](http://arxiv.org/abs/2307.06075v1)|null|
+|**2023-07-12**|**Visualization for Multivariate Gaussian Anomaly Detection in Images**|Joao P C Bertoldo et.al.|[2307.06052v1](http://arxiv.org/abs/2307.06052v1)|null|
+|**2023-07-12**|**Rhythm Modeling for Voice Conversion**|Benjamin van Niekerk et.al.|[2307.06040v1](http://arxiv.org/abs/2307.06040v1)|**[link](https://github.com/bshall/urhythmic)**|
+|**2023-07-12**|**What Happens During Finetuning of Vision Transformers: An Invariance Based Investigation**|Gabriele Merlin et.al.|[2307.06006v1](http://arxiv.org/abs/2307.06006v1)|null|
+|**2023-07-12**|**Digital tools in occupational health, brakes or levers for building multidisciplinary dynamics?**|Cédric Gouvenelle et.al.|[2307.05998v1](http://arxiv.org/abs/2307.05998v1)|null|
+|**2023-07-12**|**Transformers in Reinforcement Learning: A Survey**|Pranav Agarwal et.al.|[2307.05979v1](http://arxiv.org/abs/2307.05979v1)|null|
+|**2023-07-12**|**Self-Distilled Quantization: Achieving High Compression Rates in Transformer-Based Language Models**|James O' Neill et.al.|[2307.05972v1](http://arxiv.org/abs/2307.05972v1)|null|
+|**2023-07-12**|**Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study**|Yichen Li et.al.|[2307.05950v1](http://arxiv.org/abs/2307.05950v1)|null|
+|**2023-07-12**|**Newell's theory based feature transformations for spatio-temporal traffic prediction**|Agnimitra Sengupta et.al.|[2307.05949v1](http://arxiv.org/abs/2307.05949v1)|null|
+|**2023-07-12**|**YOGA: Deep Object Detection in the Wild with Lightweight Feature Learning and Multiscale Attention**|Raja Sunkara et.al.|[2307.05945v1](http://arxiv.org/abs/2307.05945v1)|null|
+|**2023-07-12**|**Lorentz-covariant spinor wave packet**|Kin-ya Oda et.al.|[2307.05932v1](http://arxiv.org/abs/2307.05932v1)|null|
+|**2023-07-12**|**Harer-Zagier formulas for families of twisted hyperbolic knots**|Andreani Petrou et.al.|[2307.05919v1](http://arxiv.org/abs/2307.05919v1)|null|
+|**2023-07-12**|**SwiFT: Swin 4D fMRI Transformer**|Peter Yongho Kim et.al.|[2307.05916v1](http://arxiv.org/abs/2307.05916v1)|null|
+|**2023-07-12**|**Exploring the Sector-Specific Influence and Response of AI Tools: A Critical Review**|Hitesh Mohapatra et.al.|[2307.05909v1](http://arxiv.org/abs/2307.05909v1)|null|
+|**2023-07-12**|**A novel approach for regularized inversion of noisy Laplace transforms using real-axis data points**|Vladimir V Kryzhniy et.al.|[2307.05878v1](http://arxiv.org/abs/2307.05878v1)|null|
+|**2023-07-12**|**Multi-Object Tracking as Attention Mechanism**|Hiroshi Fukui et.al.|[2307.05874v1](http://arxiv.org/abs/2307.05874v1)|null|
+|**2023-07-12**|**DeepMapping: The Case for Learned Data Mapping for Compression and Efficient Query Processing**|Lixi Zhou et.al.|[2307.05861v1](http://arxiv.org/abs/2307.05861v1)|null|
+|**2023-07-11**|**PIGEON: Predicting Image Geolocations**|Lukas Haas et.al.|[2307.05845v1](http://arxiv.org/abs/2307.05845v1)|null|
+|**2023-07-11**|**Detection, Instance Segmentation, and Classification for Astronomical Surveys with Deep Learning (DeepDISC): Detectron2 Implementation and Demonstration with Hyper Suprime-Cam Data**|G. M. Merz et.al.|[2307.05826v1](http://arxiv.org/abs/2307.05826v1)|null|
+|**2023-07-11**|**Inverse design and additive manufacturing of shape-morphing structures based on functionally graded composites**|Hirak Kansara et.al.|[2307.05805v1](http://arxiv.org/abs/2307.05805v1)|null|
+|**2023-07-11**|**A Hierarchical Transformer Encoder to Improve Entire Neoplasm Segmentation on Whole Slide Image of Hepatocellular Carcinoma**|Zhuxian Guo et.al.|[2307.05800v1](http://arxiv.org/abs/2307.05800v1)|null|
+|**2023-07-11**|**3D Medical Image Segmentation based on multi-scale MPU-Net**|Zeqiu. Yu et.al.|[2307.05799v1](http://arxiv.org/abs/2307.05799v1)|null|
+|**2023-07-11**|**Machine Learning Study of the Extended Drug-target Interaction Network informed by Pain Related Voltage-Gated Sodium Channels**|Long Chen et.al.|[2307.05794v1](http://arxiv.org/abs/2307.05794v1)|**[link](https://github.com/weilabmsu/oud-ppi)**|
+|**2023-07-11**|**Large Language Models**|Michael R. Douglas et.al.|[2307.05782v1](http://arxiv.org/abs/2307.05782v1)|null|
+|**2023-07-11**|**SonoTransformers: Ultrafast Transformable Wireless Microscale Machines**|Zhiyuan Zhang et.al.|[2307.05754v1](http://arxiv.org/abs/2307.05754v1)|null|
+|**2023-07-11**|**Towards quantum-enabled cell-centric therapeutics**|Saugata Basu et.al.|[2307.05734v1](http://arxiv.org/abs/2307.05734v1)|null|
+|**2023-07-11**|**Bayesian inference on the order of stationary vector autoregressions**|Rachel L. Binks et.al.|[2307.05708v1](http://arxiv.org/abs/2307.05708v1)|null|
+|**2023-07-11**|**Stack More Layers Differently: High-Rank Training Through Low-Rank Updates**|Vladislav Lialin et.al.|[2307.05695v1](http://arxiv.org/abs/2307.05695v1)|null|
+|**2023-07-11**|**Generalized Dualities and Supergroups**|Daniel Butter et.al.|[2307.05665v1](http://arxiv.org/abs/2307.05665v1)|null|
 |**2023-07-11**|**Non-parametric estimation of the reaction term in semi-linear SPDEs with spatial ergodicity**|Sascha Gaudlitz et.al.|[2307.05457v1](http://arxiv.org/abs/2307.05457v1)|null|
 |**2023-07-11**|**Polynomial-Time Linear-Swap Regret Minimization in Imperfect-Information Sequential Games**|Gabriele Farina et.al.|[2307.05448v1](http://arxiv.org/abs/2307.05448v1)|null|
 |**2023-07-11**|**ISLTranslate: Dataset for Translating Indian Sign Language**|Abhinav Joshi et.al.|[2307.05440v1](http://arxiv.org/abs/2307.05440v1)|**[link](https://github.com/exploration-lab/isltranslate)**|
@@ -7236,6 +7280,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation**|Chun Fu et.al.|[2307.05926v1](http://arxiv.org/abs/2307.05926v1)|null|
+|**2023-07-12**|**DiffuseGAE: Controllable and High-fidelity Image Manipulation from Disentangled Representation**|Yipeng Leng et.al.|[2307.05899v1](http://arxiv.org/abs/2307.05899v1)|null|
 |**2023-07-01**|**WavePaint: Resource-efficient Token-mixer for Self-supervised Inpainting**|Pranav Jeevan et.al.|[2307.00407v1](http://arxiv.org/abs/2307.00407v1)|**[link](https://github.com/pranavphoenix/WavePaint)**|
 |**2023-06-30**|**Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**|Luhuan Wu et.al.|[2306.17775v1](http://arxiv.org/abs/2306.17775v1)|**[link](https://github.com/blt2114/twisted_diffusion_sampler)**|
 |**2023-06-29**|**Guided Deep Generative Model-based Spatial Regularization for Multiband Imaging Inverse Problems**|Min Zhao et.al.|[2306.17197v1](http://arxiv.org/abs/2306.17197v1)|null|
