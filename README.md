@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Reconstructing Three-decade Global Fine-Grained Nighttime Light Observations by a New Super-Resolution Framework**|Jinyu Guo et.al.|[2307.07366v1](http://arxiv.org/abs/2307.07366v1)|null|
+|**2023-07-14**|**High-density single-molecule maps reveal transient membrane receptor interactions within a dynamically varying environment**|Nicolas Mateos et.al.|[2307.07334v1](http://arxiv.org/abs/2307.07334v1)|null|
+|**2023-07-14**|**MaxSR: Image Super-Resolution Using Improved MaxViT**|Bincheng Yang et.al.|[2307.07240v1](http://arxiv.org/abs/2307.07240v1)|null|
 |**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207v1](http://arxiv.org/abs/2307.06207v1)|**[link](https://github.com/bu-cisl/LCNF)**|
 |**2023-07-11**|**Super-resolution imaging through a multimode fiber: the physical upsampling of speckle-driven**|Chuncheng Zhang et.al.|[2307.05138v1](http://arxiv.org/abs/2307.05138v1)|null|
 |**2023-07-10**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian B. Moser et.al.|[2307.04593v1](http://arxiv.org/abs/2307.04593v1)|null|
@@ -447,6 +450,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**MaxSR: Image Super-Resolution Using Improved MaxViT**|Bincheng Yang et.al.|[2307.07240v1](http://arxiv.org/abs/2307.07240v1)|null|
 |**2023-07-10**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian B. Moser et.al.|[2307.04593v1](http://arxiv.org/abs/2307.04593v1)|null|
 |**2023-07-06**|**Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution**|Yuting Lu et.al.|[2307.02974v1](http://arxiv.org/abs/2307.02974v1)|null|
 |**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457v1](http://arxiv.org/abs/2307.02457v1)|null|
@@ -759,6 +763,40 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**TALL: Thumbnail Layout for Deepfake Video Detection**|Yuting Xu et.al.|[2307.07494v1](http://arxiv.org/abs/2307.07494v1)|null|
+|**2023-07-14**|**PseudoCal: A Source-Free Approach to Unsupervised Uncertainty Calibration in Domain Adaptation**|Dapeng Hu et.al.|[2307.07489v1](http://arxiv.org/abs/2307.07489v1)|null|
+|**2023-07-14**|**Multimodal Distillation for Egocentric Action Recognition**|Gorjan Radevski et.al.|[2307.07483v1](http://arxiv.org/abs/2307.07483v1)|null|
+|**2023-07-14**|**Can Large Language Models Empower Molecular Property Prediction?**|Chen Qian et.al.|[2307.07443v1](http://arxiv.org/abs/2307.07443v1)|**[link](https://github.com/chnq/llm4mol)**|
+|**2023-07-14**|**The Shimura lift and congruences for modular forms with the eta multiplier**|Scott Ahlgren et.al.|[2307.07438v1](http://arxiv.org/abs/2307.07438v1)|null|
+|**2023-07-14**|**BiGSeT: Binary Mask-Guided Separation Training for DNN-based Hyperspectral Anomaly Detection**|Haijun Liu et.al.|[2307.07428v1](http://arxiv.org/abs/2307.07428v1)|null|
+|**2023-07-14**|**The resource theory of tensor networks**|Matthias Christandl et.al.|[2307.07394v1](http://arxiv.org/abs/2307.07394v1)|null|
+|**2023-07-14**|**Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach**|G. M. Shahariar et.al.|[2307.07392v1](http://arxiv.org/abs/2307.07392v1)|null|
+|**2023-07-14**|**Norm-variation of triple ergodic averages for commuting transformations**|Polona Durcik et.al.|[2307.07372v1](http://arxiv.org/abs/2307.07372v1)|null|
+|**2023-07-14**|**Monte Carlo Graph Search for Quantum Circuit Optimization**|Bodo Rosenhahn et.al.|[2307.07353v1](http://arxiv.org/abs/2307.07353v1)|null|
+|**2023-07-14**|**Distributed Planning for Rigid Robot Formations using Consensus on the Transformation of a Base Configuration**|Jeppe Heini Mikkelsen et.al.|[2307.07326v1](http://arxiv.org/abs/2307.07326v1)|null|
+|**2023-07-14**|**Deep learning-based reduced order model for three-dimensional unsteady flow using mesh transformation and stitching**|Xin Li et.al.|[2307.07323v1](http://arxiv.org/abs/2307.07323v1)|null|
+|**2023-07-14**|**The Power of Large Language Models for Wireless Communication System Development: A Case Study on FPGA Platforms**|Yuyang Du et.al.|[2307.07319v1](http://arxiv.org/abs/2307.07319v1)|null|
+|**2023-07-14**|**A Unified Distributed Method for Constrained Networked Optimization via Saddle-Point Dynamics**|Yi Huang et.al.|[2307.07318v1](http://arxiv.org/abs/2307.07318v1)|null|
+|**2023-07-14**|**HEAL-SWIN: A Vision Transformer On The Sphere**|Oscar Carlsson et.al.|[2307.07313v1](http://arxiv.org/abs/2307.07313v1)|**[link](https://github.com/janegerken/heal-swin)**|
+|**2023-07-14**|**Are words equally surprising in audio and audio-visual comprehension?**|Pranava Madhyastha et.al.|[2307.07277v1](http://arxiv.org/abs/2307.07277v1)|null|
+|**2023-07-14**|**Random Wheeler Automata**|Ruben Becker et.al.|[2307.07267v1](http://arxiv.org/abs/2307.07267v1)|null|
+|**2023-07-14**|**Improving BERT with Hybrid Pooling Network and Drop Mask**|Qian Chen et.al.|[2307.07258v1](http://arxiv.org/abs/2307.07258v1)|null|
+|**2023-07-14**|**Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning**|Byung-Kwan Lee et.al.|[2307.07250v1](http://arxiv.org/abs/2307.07250v1)|null|
+|**2023-07-14**|**MaxSR: Image Super-Resolution Using Improved MaxViT**|Bincheng Yang et.al.|[2307.07240v1](http://arxiv.org/abs/2307.07240v1)|null|
+|**2023-07-14**|**Erasing, Transforming, and Noising Defense Network for Occluded Person Re-Identification**|Neng Dong et.al.|[2307.07187v1](http://arxiv.org/abs/2307.07187v1)|null|
+|**2023-07-14**|**TriFormer: A Multi-modal Transformer Framework For Mild Cognitive Impairment Conversion Prediction**|Linfeng Liu et.al.|[2307.07177v1](http://arxiv.org/abs/2307.07177v1)|null|
+|**2023-07-14**|**Approximating Edit Distance in the Fully Dynamic Model**|Tomasz Kociumaka et.al.|[2307.07175v1](http://arxiv.org/abs/2307.07175v1)|null|
+|**2023-07-14**|**CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2307.07142v1](http://arxiv.org/abs/2307.07142v1)|null|
+|**2023-07-14**|**Graph Positional and Structural Encoder**|Renming Liu et.al.|[2307.07107v1](http://arxiv.org/abs/2307.07107v1)|**[link](https://github.com/g-taxonomy-workgroup/gpse)**|
+|**2023-07-14**|**Lorentz-Covariant Spin Operator for Spin 1/2 Massive Fields As a Physical Observable**|Taeseung Choi et.al.|[2307.07105v1](http://arxiv.org/abs/2307.07105v1)|null|
+|**2023-07-14**|**Universal Unitary Photonic Circuits by Interlacing Discrete Fractional Fourier Transform and Phase Modulation**|Matthew Markowitz et.al.|[2307.07101v1](http://arxiv.org/abs/2307.07101v1)|null|
+|**2023-07-13**|**A Noise Resilient Transformation for Streaming Algorithms**|Meghal Gupta et.al.|[2307.07087v1](http://arxiv.org/abs/2307.07087v1)|null|
+|**2023-07-13**|**Implementation of the Density-functional Theory on Quantum Computers with Linear Scaling with respect to the Number of Atoms**|Taehee Ko et.al.|[2307.07067v1](http://arxiv.org/abs/2307.07067v1)|null|
+|**2023-07-13**|**Bootstrapping Vision-Language Learning with Decoupled Language Pre-training**|Yiren Jian et.al.|[2307.07063v1](http://arxiv.org/abs/2307.07063v1)|null|
+|**2023-07-13**|**Leveraging Pretrained ASR Encoders for Effective and Efficient End-to-End Speech Intent Classification and Slot Filling**|He Huang et.al.|[2307.07057v1](http://arxiv.org/abs/2307.07057v1)|null|
+|**2023-07-13**|**Deepfake Video Detection Using Generative Convolutional Vision Transformer**|Deressa Wodajo et.al.|[2307.07036v1](http://arxiv.org/abs/2307.07036v1)|**[link](https://github.com/erprogs/genconvit)**|
+|**2023-07-13**|**Bridging the Gap: Heterogeneous Face Recognition with Conditional Adaptive Instance Modulation**|Anjith George et.al.|[2307.07032v1](http://arxiv.org/abs/2307.07032v1)|null|
+|**2023-07-13**|**Size - Stellar Mass Relation and Morphology of Quiescent Galaxies at  $z\geq3$  in Public  $JWST$  Fields**|Kei Ito et.al.|[2307.06994v1](http://arxiv.org/abs/2307.06994v1)|null|
 |**2023-07-13**|**Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition**|Syed Talal Wasim et.al.|[2307.06947v1](http://arxiv.org/abs/2307.06947v1)|**[link](https://github.com/talalwasim/video-focalnets)**|
 |**2023-07-13**|**Generating Benchmarks for Factuality Evaluation of Language Models**|Dor Muhlgay et.al.|[2307.06908v1](http://arxiv.org/abs/2307.06908v1)|null|
 |**2023-07-13**|**Enhanced Universal Kriging for Transformed Input Parameter Spaces**|Matthias Fischer et.al.|[2307.06906v1](http://arxiv.org/abs/2307.06906v1)|null|
