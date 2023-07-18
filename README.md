@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702v1](http://arxiv.org/abs/2307.08702v1)|null|
+|**2023-07-17**|**Reconstructed Convolution Module Based Look-Up Tables for Efficient Image Super-Resolution**|Guandu Liu et.al.|[2307.08544v1](http://arxiv.org/abs/2307.08544v1)|**[link](https://github.com/liuguandu/rc-lut)**|
+|**2023-07-16**|**MoTIF: Learning Motion Trajectories with Local Implicit Neural Functions for Continuous Space-Time Video Super-Resolution**|Yi-Hsin Chen et.al.|[2307.07988v1](http://arxiv.org/abs/2307.07988v1)|null|
+|**2023-07-16**|**Surface Geometry Processing: An Efficient Normal-based Detail Representation**|Wuyuan Xie et.al.|[2307.07945v1](http://arxiv.org/abs/2307.07945v1)|null|
 |**2023-07-14**|**Reconstructing Three-decade Global Fine-Grained Nighttime Light Observations by a New Super-Resolution Framework**|Jinyu Guo et.al.|[2307.07366v1](http://arxiv.org/abs/2307.07366v1)|null|
 |**2023-07-14**|**High-density single-molecule maps reveal transient membrane receptor interactions within a dynamically varying environment**|Nicolas Mateos et.al.|[2307.07334v1](http://arxiv.org/abs/2307.07334v1)|null|
 |**2023-07-14**|**MaxSR: Image Super-Resolution Using Improved MaxViT**|Bincheng Yang et.al.|[2307.07240v1](http://arxiv.org/abs/2307.07240v1)|null|
@@ -450,6 +454,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Reconstructed Convolution Module Based Look-Up Tables for Efficient Image Super-Resolution**|Guandu Liu et.al.|[2307.08544v1](http://arxiv.org/abs/2307.08544v1)|**[link](https://github.com/liuguandu/rc-lut)**|
 |**2023-07-14**|**MaxSR: Image Super-Resolution Using Improved MaxViT**|Bincheng Yang et.al.|[2307.07240v1](http://arxiv.org/abs/2307.07240v1)|null|
 |**2023-07-10**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian B. Moser et.al.|[2307.04593v1](http://arxiv.org/abs/2307.04593v1)|null|
 |**2023-07-06**|**Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution**|Yuting Lu et.al.|[2307.02974v1](http://arxiv.org/abs/2307.02974v1)|null|
@@ -628,6 +633,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-16**|**MoTIF: Learning Motion Trajectories with Local Implicit Neural Functions for Continuous Space-Time Video Super-Resolution**|Yi-Hsin Chen et.al.|[2307.07988v1](http://arxiv.org/abs/2307.07988v1)|null|
 |**2023-07-06**|**RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution**|Han Zou et.al.|[2307.02897v1](http://arxiv.org/abs/2307.02897v1)|null|
 |**2023-07-04**|**Spatio-Temporal Perception-Distortion Trade-off in Learned Video SR**|Nasrin Rahimi et.al.|[2307.01556v1](http://arxiv.org/abs/2307.01556v1)|**[link](https://github.com/kuis-ai-tekalp-research-group/perceptual-vsr)**|
 |**2023-05-24**|**EgoVSR: Towards High-Quality Egocentric Video Super-Resolution**|Yichen Chi et.al.|[2305.14708v1](http://arxiv.org/abs/2305.14708v1)|null|
@@ -763,6 +769,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning**|Tri Dao et.al.|[2307.08691v1](http://arxiv.org/abs/2307.08691v1)|**[link](https://github.com/dao-ailab/flash-attention)**|
+|**2023-07-17**|**Deficiency-Aware Masked Transformer for Video Inpainting**|Yongsheng Yu et.al.|[2307.08629v1](http://arxiv.org/abs/2307.08629v1)|**[link](https://github.com/yeates/dmt)**|
+|**2023-07-17**|**Retentive Network: A Successor to Transformer for Large Language Models**|Yutao Sun et.al.|[2307.08621v1](http://arxiv.org/abs/2307.08621v1)|**[link](https://github.com/microsoft/unilm)**|
+|**2023-07-17**|**Scale-Aware Modulation Meet Transformer**|Weifeng Lin et.al.|[2307.08579v1](http://arxiv.org/abs/2307.08579v1)|**[link](https://github.com/afeng-x/smt)**|
+|**2023-07-17**|**A Study on the Performance of Generative Pre-trained Transformer (GPT) in Simulating Depressed Individuals on the Standardized Depressive Symptom Scale**|Sijin Cai et.al.|[2307.08576v1](http://arxiv.org/abs/2307.08576v1)|null|
+|**2023-07-17**|**Deep Learning with Passive Optical Nonlinear Mapping**|Fei Xia et.al.|[2307.08558v1](http://arxiv.org/abs/2307.08558v1)|null|
+|**2023-07-17**|**Nonlinear Processing with Linear Optics**|Mustafa Yildirim et.al.|[2307.08533v1](http://arxiv.org/abs/2307.08533v1)|null|
+|**2023-07-17**|**Does Visual Pretraining Help End-to-End Reasoning?**|Chen Sun et.al.|[2307.08506v1](http://arxiv.org/abs/2307.08506v1)|null|
+|**2023-07-17**|**BUS:Efficient and Effective Vision-language Pre-training with Bottom-Up Patch Summarization**|Chaoya Jiang et.al.|[2307.08504v1](http://arxiv.org/abs/2307.08504v1)|null|
+|**2023-07-17**|**Cumulative Spatial Knowledge Distillation for Vision Transformers**|Borui Zhao et.al.|[2307.08500v1](http://arxiv.org/abs/2307.08500v1)|null|
+|**2023-07-17**|**EGE-UNet: an Efficient Group Enhanced UNet for skin lesion segmentation**|Jiacheng Ruan et.al.|[2307.08473v1](http://arxiv.org/abs/2307.08473v1)|**[link](https://github.com/jcruan519/ege-unet)**|
+|**2023-07-17**|**Riesz feature representation: scale equivariant scattering network for classification tasks**|Tin Barisin et.al.|[2307.08467v1](http://arxiv.org/abs/2307.08467v1)|null|
+|**2023-07-17**|**A simple proof of monotonicity for remainder of Stirling's formula**|Yuling Xue et.al.|[2307.08458v1](http://arxiv.org/abs/2307.08458v1)|null|
+|**2023-07-17**|**Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems**|Xuan Zhang et.al.|[2307.08423v1](http://arxiv.org/abs/2307.08423v1)|**[link](https://github.com/divelab/AIRS)**|
+|**2023-07-17**|**An extended latent factor framework for ill-posed linear regression**|Gianluca Finocchio et.al.|[2307.08377v1](http://arxiv.org/abs/2307.08377v1)|null|
+|**2023-07-17**|**Box-DETR: Understanding and Boxing Conditional Spatial Queries**|Wenze Liu et.al.|[2307.08353v1](http://arxiv.org/abs/2307.08353v1)|**[link](https://github.com/tiny-smart/box-detr)**|
+|**2023-07-17**|**Zero-th Order Algorithm for Softmax Attention Optimization**|Yichuan Deng et.al.|[2307.08352v1](http://arxiv.org/abs/2307.08352v1)|null|
+|**2023-07-17**|**Efficient coding of 360° videos exploiting inactive regions in projection formats**|Christian Herglotz et.al.|[2307.08344v1](http://arxiv.org/abs/2307.08344v1)|null|
+|**2023-07-17**|**Coherence and incoherence in quadrature basis**|Laura Ares et.al.|[2307.08333v1](http://arxiv.org/abs/2307.08333v1)|null|
+|**2023-07-17**|**GBT: Two-stage transformer framework for non-stationary time series forecasting**|Li Shen et.al.|[2307.08302v1](http://arxiv.org/abs/2307.08302v1)|**[link](https://github.com/origamisl/gbt)**|
+|**2023-07-17**|**ShiftNAS: Improving One-shot NAS via Probability Shift**|Mingyang Zhang et.al.|[2307.08300v1](http://arxiv.org/abs/2307.08300v1)|**[link](https://github.com/bestfleer/shiftnas)**|
+|**2023-07-17**|**CoAD: Automatic Diagnosis through Symptom and Disease Collaborative Generation**|Huimin Wang et.al.|[2307.08290v1](http://arxiv.org/abs/2307.08290v1)|**[link](https://github.com/kwanwaichung/coad)**|
+|**2023-07-17**|**Complexity Matters: Rethinking the Latent Space for Generative Modeling**|Tianyang Hu et.al.|[2307.08283v1](http://arxiv.org/abs/2307.08283v1)|null|
+|**2023-07-17**|**Planar Symmetry Detection and Quantification using the Extended Persistent Homology Transform**|Nicholas Bermingham et.al.|[2307.08281v1](http://arxiv.org/abs/2307.08281v1)|null|
+|**2023-07-17**|**Liver Tumor Screening and Diagnosis in CT with Pixel-Lesion-Patient Network**|Ke Yan et.al.|[2307.08268v1](http://arxiv.org/abs/2307.08268v1)|null|
+|**2023-07-17**|**Hierarchical Spatiotemporal Transformers for Video Object Segmentation**|Jun-Sang Yoo et.al.|[2307.08263v1](http://arxiv.org/abs/2307.08263v1)|null|
+|**2023-07-17**|**Team Badminseok at IJCAI CoachAI Badminton Challenge 2023: Multi-Layer Multi-Input Transformer Network (MuLMINet) with Weighted Loss**|Minwoo Seong et.al.|[2307.08262v1](http://arxiv.org/abs/2307.08262v1)|null|
+|**2023-07-17**|**Second-order cosmological perturbations. V. Produced by scalar-scalar coupling during inflation stage**|Bo Wang et.al.|[2307.08261v1](http://arxiv.org/abs/2307.08261v1)|null|
+|**2023-07-17**|**Extending the Frontier of ChatGPT: Code Generation and Debugging**|Fardin Ahsan Sakib et.al.|[2307.08260v1](http://arxiv.org/abs/2307.08260v1)|null|
+|**2023-07-17**|**Random Boxes Are Open-world Object Detectors**|Yanghao Wang et.al.|[2307.08249v1](http://arxiv.org/abs/2307.08249v1)|null|
+|**2023-07-17**|**PAT: Parallel Attention Transformer for Visual Question Answering in Vietnamese**|Nghia Hieu Nguyen et.al.|[2307.08247v1](http://arxiv.org/abs/2307.08247v1)|null|
+|**2023-07-17**|**Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting**|Wentao Bao et.al.|[2307.08243v1](http://arxiv.org/abs/2307.08243v1)|null|
+|**2023-07-17**|**MIST-CF: Chemical formula inference from tandem mass spectra**|Samuel Goldman et.al.|[2307.08240v1](http://arxiv.org/abs/2307.08240v1)|null|
+|**2023-07-17**|**Can Euclidean Symmetry be Leveraged in Reinforcement Learning and Planning?**|Linfeng Zhao et.al.|[2307.08226v1](http://arxiv.org/abs/2307.08226v1)|null|
+|**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|**[link](https://github.com/SlamCabbage/NDTMC)**|
+|**2023-07-17**|**A Lightweight Framework for High-Quality Code Generation**|Mohammed Latif Siddiq et.al.|[2307.08220v1](http://arxiv.org/abs/2307.08220v1)|null|
+|**2023-07-17**|**Long-time asymptotics of the Sawada-Kotera equation and Kaup-Kupershmidt equation on the line**|Deng-Shan Wang et.al.|[2307.08196v1](http://arxiv.org/abs/2307.08196v1)|null|
+|**2023-07-17**|**Unleashing the Potential of LLMs for Quantum Computing: A Study in Quantum Architecture Design**|Zhiding Liang et.al.|[2307.08191v1](http://arxiv.org/abs/2307.08191v1)|null|
+|**2023-07-16**|**Boundary-weighted logit consistency improves calibration of segmentation networks**|Neerav Karani et.al.|[2307.08163v1](http://arxiv.org/abs/2307.08163v1)|null|
+|**2023-07-16**|**Self-Attention Based Generative Adversarial Networks For Unsupervised Video Summarization**|Maria Nektaria Minaidi et.al.|[2307.08145v1](http://arxiv.org/abs/2307.08145v1)|null|
+|**2023-07-16**|**Heterogeneous graphs model spatial relationships between biological entities for breast cancer diagnosis**|Akhila Krishna K et.al.|[2307.08132v1](http://arxiv.org/abs/2307.08132v1)|null|
+|**2023-07-16**|**Negative flows and non-autonomous reductions of the Volterra lattice**|V. E. Adler et.al.|[2307.08127v1](http://arxiv.org/abs/2307.08127v1)|null|
+|**2023-07-16**|**Tangent Transformers for Composition, Privacy and Removal**|Tian Yu Liu et.al.|[2307.08122v1](http://arxiv.org/abs/2307.08122v1)|null|
+|**2023-07-16**|**Domain Generalisation with Bidirectional Encoder Representations from Vision Transformers**|Hamza Riaz et.al.|[2307.08117v1](http://arxiv.org/abs/2307.08117v1)|null|
+|**2023-07-16**|**Solar Cells, Lambert W and the LogWright Functions**|Prabhat Lankireddy et.al.|[2307.08099v1](http://arxiv.org/abs/2307.08099v1)|null|
+|**2023-07-16**|**Semi-DETR: Semi-Supervised Object Detection with Detection Transformers**|Jiacheng Zhang et.al.|[2307.08095v1](http://arxiv.org/abs/2307.08095v1)|**[link](https://github.com/PaddlePaddle/PaddleDetection)**|
+|**2023-07-16**|**POMDP inference and robust solution via deep reinforcement learning: An application to railway optimal maintenance**|Giacomo Arcieri et.al.|[2307.08082v1](http://arxiv.org/abs/2307.08082v1)|**[link](https://github.com/giarcieri/robust-optimal-maintenance-planning-through-reinforcement-learning-and-rllib)**|
+|**2023-07-16**|**Well-posedness and stability of a stochastic neural field in the form of a partial differential equation**|José Antonio Carrillo et.al.|[2307.08077v1](http://arxiv.org/abs/2307.08077v1)|null|
+|**2023-07-16**|**Disco-Bench: A Discourse-Aware Evaluation Benchmark for Language Modelling**|Longyue Wang et.al.|[2307.08074v1](http://arxiv.org/abs/2307.08074v1)|null|
+|**2023-07-16**|**The sequence of higher order Mersenne numbers and associated binomial transforms**|Kalika Prasad et.al.|[2307.08073v1](http://arxiv.org/abs/2307.08073v1)|null|
 |**2023-07-14**|**TALL: Thumbnail Layout for Deepfake Video Detection**|Yuting Xu et.al.|[2307.07494v1](http://arxiv.org/abs/2307.07494v1)|null|
 |**2023-07-14**|**PseudoCal: A Source-Free Approach to Unsupervised Uncertainty Calibration in Domain Adaptation**|Dapeng Hu et.al.|[2307.07489v1](http://arxiv.org/abs/2307.07489v1)|null|
 |**2023-07-14**|**Multimodal Distillation for Egocentric Action Recognition**|Gorjan Radevski et.al.|[2307.07483v1](http://arxiv.org/abs/2307.07483v1)|null|
@@ -7352,6 +7408,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698v1](http://arxiv.org/abs/2307.08698v1)|**[link](https://github.com/vinairesearch/lfm)**|
+|**2023-07-17**|**Deficiency-Aware Masked Transformer for Video Inpainting**|Yongsheng Yu et.al.|[2307.08629v1](http://arxiv.org/abs/2307.08629v1)|**[link](https://github.com/yeates/dmt)**|
+|**2023-07-15**|**Both Spatial and Frequency Cues Contribute to High-Fidelity Image Inpainting**|Ze Lu et.al.|[2307.07678v1](http://arxiv.org/abs/2307.07678v1)|null|
 |**2023-07-13**|**Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation**|Chun Fu et.al.|[2307.05926v2](http://arxiv.org/abs/2307.05926v2)|null|
 |**2023-07-12**|**DiffuseGAE: Controllable and High-fidelity Image Manipulation from Disentangled Representation**|Yipeng Leng et.al.|[2307.05899v1](http://arxiv.org/abs/2307.05899v1)|null|
 |**2023-07-01**|**WavePaint: Resource-efficient Token-mixer for Self-supervised Inpainting**|Pranav Jeevan et.al.|[2307.00407v1](http://arxiv.org/abs/2307.00407v1)|**[link](https://github.com/pranavphoenix/WavePaint)**|
@@ -7472,6 +7531,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Deficiency-Aware Masked Transformer for Video Inpainting**|Yongsheng Yu et.al.|[2307.08629v1](http://arxiv.org/abs/2307.08629v1)|**[link](https://github.com/yeates/dmt)**|
 |**2023-06-16**|**A New Low-Rank Learning Robust Quaternion Tensor Completion Method for Color Video Inpainting Problem and Fast Algorithms**|Zhigang Jia et.al.|[2306.09652v1](http://arxiv.org/abs/2306.09652v1)|null|
 |**2023-05-25**|**Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos**|Matthew Chang et.al.|[2305.16301v1](http://arxiv.org/abs/2305.16301v1)|null|
 |**2023-04-05**|**HNeRV: A Hybrid Neural Representation for Videos**|Hao Chen et.al.|[2304.02633v1](http://arxiv.org/abs/2304.02633v1)|**[link](https://github.com/haochen-rye/hnerv)**|
