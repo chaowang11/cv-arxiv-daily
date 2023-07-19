@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**A comparative analysis of SR-GAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456v1](http://arxiv.org/abs/2307.09456v1)|null|
+|**2023-07-18**|**DiTTO: Diffusion-inspired Temporal Transformer Operator**|Oded Ovadia et.al.|[2307.09072v1](http://arxiv.org/abs/2307.09072v1)|null|
+|**2023-07-18**|**Soft-IntroVAE for Continuous Latent space Image Super-Resolution**|Zhi-Song Liu et.al.|[2307.09008v1](http://arxiv.org/abs/2307.09008v1)|null|
+|**2023-07-17**|**DARTS: Double Attention Reference-based Transformer for Super-resolution**|Masoomeh Aslahishahri et.al.|[2307.08837v1](http://arxiv.org/abs/2307.08837v1)|null|
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702v1](http://arxiv.org/abs/2307.08702v1)|null|
 |**2023-07-17**|**Reconstructed Convolution Module Based Look-Up Tables for Efficient Image Super-Resolution**|Guandu Liu et.al.|[2307.08544v1](http://arxiv.org/abs/2307.08544v1)|**[link](https://github.com/liuguandu/rc-lut)**|
 |**2023-07-16**|**MoTIF: Learning Motion Trajectories with Local Implicit Neural Functions for Continuous Space-Time Video Super-Resolution**|Yi-Hsin Chen et.al.|[2307.07988v1](http://arxiv.org/abs/2307.07988v1)|null|
@@ -454,6 +458,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**A comparative analysis of SR-GAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456v1](http://arxiv.org/abs/2307.09456v1)|null|
+|**2023-07-18**|**Soft-IntroVAE for Continuous Latent space Image Super-Resolution**|Zhi-Song Liu et.al.|[2307.09008v1](http://arxiv.org/abs/2307.09008v1)|null|
+|**2023-07-17**|**DARTS: Double Attention Reference-based Transformer for Super-resolution**|Masoomeh Aslahishahri et.al.|[2307.08837v1](http://arxiv.org/abs/2307.08837v1)|null|
 |**2023-07-17**|**Reconstructed Convolution Module Based Look-Up Tables for Efficient Image Super-Resolution**|Guandu Liu et.al.|[2307.08544v1](http://arxiv.org/abs/2307.08544v1)|**[link](https://github.com/liuguandu/rc-lut)**|
 |**2023-07-14**|**MaxSR: Image Super-Resolution Using Improved MaxViT**|Bincheng Yang et.al.|[2307.07240v1](http://arxiv.org/abs/2307.07240v1)|null|
 |**2023-07-10**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian B. Moser et.al.|[2307.04593v1](http://arxiv.org/abs/2307.04593v1)|null|
@@ -769,6 +776,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455v1](http://arxiv.org/abs/2307.09455v1)|null|
+|**2023-07-18**|**Factoring multivariate polynomials over hyperfields and the multivariable Descartes' problem**|Andreas Gross et.al.|[2307.09400v1](http://arxiv.org/abs/2307.09400v1)|null|
+|**2023-07-18**|**MOCA: Self-supervised Representation Learning by Predicting Masked Online Codebook Assignments**|Spyros Gidaris et.al.|[2307.09361v1](http://arxiv.org/abs/2307.09361v1)|null|
+|**2023-07-18**|**Rational Skyrmions**|Derek Harland et.al.|[2307.09355v1](http://arxiv.org/abs/2307.09355v1)|null|
+|**2023-07-18**|**SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration**|Guiyu Zhao et.al.|[2307.09351v1](http://arxiv.org/abs/2307.09351v1)|null|
+|**2023-07-18**|**Direct Solving the Many-Electron Schrödinger Equation with a Language Model**|Honghui Shang et.al.|[2307.09343v1](http://arxiv.org/abs/2307.09343v1)|null|
+|**2023-07-18**|**Towards a performance analysis on pre-trained Visual Question Answering models for autonomous driving**|Kaavya Rekanar et.al.|[2307.09329v1](http://arxiv.org/abs/2307.09329v1)|**[link](https://github.com/kaavyarekanar/towards-a-performance-analysis-on-pre-trained-vqa-models-for-autonomous-driving)**|
+|**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323v1](http://arxiv.org/abs/2307.09323v1)|**[link](https://github.com/fictionarry/er-nerf)**|
+|**2023-07-18**|**Multi-Modal Discussion Transformer: Integrating Text, Images and Graph Transformers to Detect Hate Speech on Social Media**|Liam Hebert et.al.|[2307.09312v1](http://arxiv.org/abs/2307.09312v1)|**[link](https://github.com/liamhebert/multimodaldiscussiontransformer)**|
+|**2023-07-18**|**EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting**|Inhwan Bae et.al.|[2307.09306v1](http://arxiv.org/abs/2307.09306v1)|**[link](https://github.com/inhwanbae/eigentrajectory)**|
+|**2023-07-18**|**Stability of the Faber-Krahn inequality for the Short-time Fourier Transform**|Jaime Gómez et.al.|[2307.09304v1](http://arxiv.org/abs/2307.09304v1)|null|
+|**2023-07-18**|**Paranatural Category Theory**|Jacob Neumann et.al.|[2307.09289v1](http://arxiv.org/abs/2307.09289v1)|null|
+|**2023-07-18**|**FlexiAST: Flexibility is What AST Needs**|Jiu Feng et.al.|[2307.09286v1](http://arxiv.org/abs/2307.09286v1)|null|
+|**2023-07-18**|**RepViT: Revisiting Mobile CNN From ViT Perspective**|Ao Wang et.al.|[2307.09283v1](http://arxiv.org/abs/2307.09283v1)|**[link](https://github.com/jameslahm/RepViT)**|
+|**2023-07-18**|**The Spectrum and Energy Levels of the Low-lying Configurations of Nd III**|Milan Ding et.al.|[2307.09282v1](http://arxiv.org/abs/2307.09282v1)|null|
+|**2023-07-18**|**Improving Text Semantic Similarity Modeling through a 3D Siamese Network**|Jianxiang Zang et.al.|[2307.09274v1](http://arxiv.org/abs/2307.09274v1)|null|
+|**2023-07-18**|**Linearized Relative Positional Encoding**|Zhen Qin et.al.|[2307.09270v1](http://arxiv.org/abs/2307.09270v1)|null|
+|**2023-07-18**|**Text vectorization via transformer-based language models and n-gram perplexities**|Mihailo Škorić et.al.|[2307.09255v1](http://arxiv.org/abs/2307.09255v1)|null|
+|**2023-07-18**|**Socio-spatial Inequalities in a Context of "Great Economic Wealth". Case study of neighbourhoods of Luxembourg City**|Natalia Zdanowska et.al.|[2307.09251v1](http://arxiv.org/abs/2307.09251v1)|null|
+|**2023-07-18**|**UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data**|Yazheng Yang et.al.|[2307.09249v1](http://arxiv.org/abs/2307.09249v1)|null|
+|**2023-07-18**|**Fusing Hand and Body Skeletons for Human Action Recognition in Assembly**|Dustin Aganian et.al.|[2307.09238v1](http://arxiv.org/abs/2307.09238v1)|null|
+|**2023-07-18**|**On a characterization of blow-up behavior for ODEs with normally hyperbolic nature in dynamics at infinity**|Kaname Matsue et.al.|[2307.09201v1](http://arxiv.org/abs/2307.09201v1)|null|
+|**2023-07-18**|**Pixel-wise Graph Attention Networks for Person Re-identification**|Wenyu Zhang et.al.|[2307.09183v1](http://arxiv.org/abs/2307.09183v1)|**[link](https://github.com/wenyu1009/pganet)**|
+|**2023-07-18**|**Rule-based Graph Repair using Minimally Restricted Consistency-Improving Transformations**|Alexander Lauer et.al.|[2307.09150v1](http://arxiv.org/abs/2307.09150v1)|null|
+|**2023-07-18**|**Few-molecule reservoir computing experimentally demonstrated with surface enhanced Raman scattering and ion-gating stimulation**|Daiki Nishioka et.al.|[2307.09138v1](http://arxiv.org/abs/2307.09138v1)|null|
+|**2023-07-18**|**Laboratory and astronomical discovery of the cyanovinyl radical H2CCCN**|C. Cabezas et.al.|[2307.09127v1](http://arxiv.org/abs/2307.09127v1)|null|
+|**2023-07-18**|**Light-Weight Vision Transformer with Parallel Local and Global Self-Attention**|Nikolas Ebert et.al.|[2307.09120v1](http://arxiv.org/abs/2307.09120v1)|null|
+|**2023-07-18**|**NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and Repulsive UDF**|Stefan Lionar et.al.|[2307.09112v1](http://arxiv.org/abs/2307.09112v1)|null|
+|**2023-07-18**|**Attention over pre-trained Sentence Embeddings for Long Document Classification**|Amine Abdaoui et.al.|[2307.09084v1](http://arxiv.org/abs/2307.09084v1)|null|
+|**2023-07-18**|**DiTTO: Diffusion-inspired Temporal Transformer Operator**|Oded Ovadia et.al.|[2307.09072v1](http://arxiv.org/abs/2307.09072v1)|null|
+|**2023-07-18**|**Outlier-Robust Tensor Low-Rank Representation for Data Clustering**|Tong Wu et.al.|[2307.09055v1](http://arxiv.org/abs/2307.09055v1)|null|
+|**2023-07-18**|**R-Cut: Enhancing Explainability in Vision Transformers with Relationship Weighted Out and Cut**|Yingjie Niu et.al.|[2307.09050v1](http://arxiv.org/abs/2307.09050v1)|null|
+|**2023-07-18**|**6G Network Operation Support System**|Ye Ouyang et.al.|[2307.09045v1](http://arxiv.org/abs/2307.09045v1)|null|
+|**2023-07-18**|**qecGPT: decoding Quantum Error-correcting Codes with Generative Pre-trained Transformers**|Hanyan Cao et.al.|[2307.09025v1](http://arxiv.org/abs/2307.09025v1)|**[link](https://github.com/chy-i/qecgpt)**|
+|**2023-07-18**|**Face-PAST: Facial Pose Awareness and Style Transfer Networks**|Sunder Ali Khowaja et.al.|[2307.09020v1](http://arxiv.org/abs/2307.09020v1)|null|
+|**2023-07-18**|**U-shaped Transformer: Retain High Frequency Context in Time Series Analysis**|Qingkui Chen et.al.|[2307.09019v1](http://arxiv.org/abs/2307.09019v1)|null|
+|**2023-07-18**|**Ord2Seq: Regard Ordinal Regression as Label Sequence Prediction**|Jinhong Wang et.al.|[2307.09004v1](http://arxiv.org/abs/2307.09004v1)|null|
+|**2023-07-18**|**CBSeq: A Channel-level Behavior Sequence For Encrypted Malware Traffic Detection**|Susu Cui et.al.|[2307.09002v1](http://arxiv.org/abs/2307.09002v1)|null|
+|**2023-07-18**|**TractCloud: Registration-free tractography parcellation with a novel local-global streamline point cloud representation**|Tengfei Xue et.al.|[2307.09000v1](http://arxiv.org/abs/2307.09000v1)|null|
+|**2023-07-18**|**Human Action Recognition in Still Images Using ConViT**|Seyed Rohollah Hosseyni et.al.|[2307.08994v1](http://arxiv.org/abs/2307.08994v1)|null|
+|**2023-07-18**|**EgoVM: Achieving Precise Ego-Localization using Lightweight Vectorized Maps**|Yuzhe He et.al.|[2307.08991v1](http://arxiv.org/abs/2307.08991v1)|null|
+|**2023-07-18**|**AI-assisted Improved Service Provisioning for Low-latency XR over 5G NR**|Moyukh Laha et.al.|[2307.08987v1](http://arxiv.org/abs/2307.08987v1)|null|
+|**2023-07-18**|**Development of the ChatGPT, Generative Artificial Intelligence and Natural Large Language Models for Accountable Reporting and Use (CANGARU) Guidelines**|Giovanni E. Cacciamani et.al.|[2307.08974v1](http://arxiv.org/abs/2307.08974v1)|null|
+|**2023-07-18**|**A Large and Variable Leading Tail of Helium in a Hot Saturn Undergoing Runaway Inflation**|Michael Gully-Santiago et.al.|[2307.08959v1](http://arxiv.org/abs/2307.08959v1)|null|
+|**2023-07-18**|**Knowledge-infused Deep Learning Enables Interpretable Landslide Forecasting**|Zhengjing Ma et.al.|[2307.08951v1](http://arxiv.org/abs/2307.08951v1)|null|
+|**2023-07-18**|**EsaNet: Environment Semantics Enabled Physical Layer Authentication**|Ning Gao et.al.|[2307.08946v1](http://arxiv.org/abs/2307.08946v1)|null|
+|**2023-07-17**|**Symbolic computation of solitary wave solutions and solitons through homogenization of degree**|Willy Hereman et.al.|[2307.08888v1](http://arxiv.org/abs/2307.08888v1)|null|
+|**2023-07-17**|**Statistics of extreme events in integrable turbulence**|T. Congy et.al.|[2307.08884v1](http://arxiv.org/abs/2307.08884v1)|null|
+|**2023-07-17**|**AI for the Generation and Testing of Ideas Towards an AI Supported Knowledge Development Environment**|Ted Selker et.al.|[2307.08876v1](http://arxiv.org/abs/2307.08876v1)|null|
+|**2023-07-17**|**Latent Space Representations of Neural Algorithmic Reasoners**|Vladimir V. Mirjanić et.al.|[2307.08874v1](http://arxiv.org/abs/2307.08874v1)|**[link](https://github.com/mirjanic/nar-latent-spaces)**|
 |**2023-07-17**|**FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning**|Tri Dao et.al.|[2307.08691v1](http://arxiv.org/abs/2307.08691v1)|**[link](https://github.com/dao-ailab/flash-attention)**|
 |**2023-07-17**|**Deficiency-Aware Masked Transformer for Video Inpainting**|Yongsheng Yu et.al.|[2307.08629v1](http://arxiv.org/abs/2307.08629v1)|**[link](https://github.com/yeates/dmt)**|
 |**2023-07-17**|**Retentive Network: A Successor to Transformer for Large Language Models**|Yutao Sun et.al.|[2307.08621v1](http://arxiv.org/abs/2307.08621v1)|**[link](https://github.com/microsoft/unilm)**|
