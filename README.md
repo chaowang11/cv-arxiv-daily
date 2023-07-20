@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement**|Hang Guo et.al.|[2307.09749v1](http://arxiv.org/abs/2307.09749v1)|null|
+|**2023-07-18**|**Revealing the Predictive Power of Neural Operators for Strain Evolution in Digital Composites**|Meer Mehran Rashid et.al.|[2307.09623v1](http://arxiv.org/abs/2307.09623v1)|null|
 |**2023-07-19**|**A comparative analysis of SRGAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456v2](http://arxiv.org/abs/2307.09456v2)|null|
 |**2023-07-18**|**DiTTO: Diffusion-inspired Temporal Transformer Operator**|Oded Ovadia et.al.|[2307.09072v1](http://arxiv.org/abs/2307.09072v1)|null|
 |**2023-07-18**|**Soft-IntroVAE for Continuous Latent space Image Super-Resolution**|Zhi-Song Liu et.al.|[2307.09008v1](http://arxiv.org/abs/2307.09008v1)|null|
@@ -49,7 +51,7 @@
 |**2023-07-04**|**Spatio-Temporal Perception-Distortion Trade-off in Learned Video SR**|Nasrin Rahimi et.al.|[2307.01556v1](http://arxiv.org/abs/2307.01556v1)|**[link](https://github.com/kuis-ai-tekalp-research-group/perceptual-vsr)**|
 |**2023-07-04**|**Bistable scattering of nano-silicon for super-linear super-resolution imaging**|Po-Hsueh Tseng et.al.|[2307.01490v1](http://arxiv.org/abs/2307.01490v1)|null|
 |**2023-07-03**|**Ultrafast electro-optic Time-Frequency Fractional Fourier Imaging at the Single-Photon Level**|Michał Lipka et.al.|[2307.01141v1](http://arxiv.org/abs/2307.01141v1)|null|
-|**2023-07-16**|**MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion**|Shitao Tang et.al.|[2307.01097v2](http://arxiv.org/abs/2307.01097v2)|null|
+|**2023-07-16**|**MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion**|Shitao Tang et.al.|[2307.01097v2](http://arxiv.org/abs/2307.01097v2)|**[link](https://github.com/Tangshitao/MVDiffusion)**|
 |**2023-07-03**|**ACDMSR: Accelerated Conditional Diffusion Models for Single Image Super-Resolution**|Axi Niu et.al.|[2307.00781v1](http://arxiv.org/abs/2307.00781v1)|null|
 |**2023-07-02**|**Solving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models**|Litu Rout et.al.|[2307.00619v1](http://arxiv.org/abs/2307.00619v1)|**[link](https://github.com/liturout/psld)**|
 |**2023-07-01**|**WaveMixSR: A Resource-efficient Neural Network for Image Super-resolution**|Pranav Jeevan et.al.|[2307.00430v1](http://arxiv.org/abs/2307.00430v1)|**[link](https://github.com/pranavphoenix/WaveMixSR)**|
@@ -458,6 +460,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement**|Hang Guo et.al.|[2307.09749v1](http://arxiv.org/abs/2307.09749v1)|null|
 |**2023-07-19**|**A comparative analysis of SRGAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456v2](http://arxiv.org/abs/2307.09456v2)|null|
 |**2023-07-18**|**Soft-IntroVAE for Continuous Latent space Image Super-Resolution**|Zhi-Song Liu et.al.|[2307.09008v1](http://arxiv.org/abs/2307.09008v1)|null|
 |**2023-07-17**|**DARTS: Double Attention Reference-based Transformer for Super-resolution**|Masoomeh Aslahishahri et.al.|[2307.08837v1](http://arxiv.org/abs/2307.08837v1)|null|
@@ -776,6 +779,53 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Exploring Transformer Extrapolation**|Zhen Qin et.al.|[2307.10156v1](http://arxiv.org/abs/2307.10156v1)|null|
+|**2023-07-19**|**Gradient Sparsification For Masked Fine-Tuning of Transformers**|James O' Neill et.al.|[2307.10098v1](http://arxiv.org/abs/2307.10098v1)|null|
+|**2023-07-19**|**Revisiting invariances and introducing priors in Gromov-Wasserstein distances**|Pinar Demetci et.al.|[2307.10093v1](http://arxiv.org/abs/2307.10093v1)|null|
+|**2023-07-19**|**The first comprehensive Milky Way stellar mock catalogue for the Chinese Space Station Telescope Survey Camera**|Yang Chen et.al.|[2307.10091v1](http://arxiv.org/abs/2307.10091v1)|null|
+|**2023-07-19**|**Object-centric Representations for Interactive Online Learning with Non-Parametric Methods**|Nikhil U. Shinde et.al.|[2307.10063v1](http://arxiv.org/abs/2307.10063v1)|null|
+|**2023-07-19**|**Automated Complexity Analysis of Integer Programs via Triangular Weakly Non-Linear Loops (Short WST Version)**|Nils Lommen et.al.|[2307.10061v1](http://arxiv.org/abs/2307.10061v1)|null|
+|**2023-07-19**|**Divert More Attention to Vision-Language Object Tracking**|Mingzhe Guo et.al.|[2307.10046v1](http://arxiv.org/abs/2307.10046v1)|null|
+|**2023-07-19**|**Optimizing the extended Fourier Mellin Transformation Algorithm**|Wenqing Jiang et.al.|[2307.10015v1](http://arxiv.org/abs/2307.10015v1)|null|
+|**2023-07-19**|**6G Network Business Support System**|Ye Ouyang et.al.|[2307.10004v1](http://arxiv.org/abs/2307.10004v1)|null|
+|**2023-07-19**|**Two supercongruences involving truncated hypergeometric series**|Wei Xia et.al.|[2307.10000v1](http://arxiv.org/abs/2307.10000v1)|null|
+|**2023-07-19**|**On Dynamic Graph Algorithms with Predictions**|Jan van den Brand et.al.|[2307.09961v1](http://arxiv.org/abs/2307.09961v1)|null|
+|**2023-07-19**|**Linear stability of elastic 2-line solitons for the KP-II equation**|Tetsu Mizumachi et.al.|[2307.09932v1](http://arxiv.org/abs/2307.09932v1)|null|
+|**2023-07-19**|**TimeTuner: Diagnosing Time Representations for Time-Series Forecasting with Counterfactual Explanations**|Jianing Hao et.al.|[2307.09916v1](http://arxiv.org/abs/2307.09916v1)|null|
+|**2023-07-19**|**Embedded Heterogeneous Attention Transformer for Cross-lingual Image Captioning**|Zijie Song et.al.|[2307.09915v1](http://arxiv.org/abs/2307.09915v1)|null|
+|**2023-07-19**|**Repeated Observations for Classification**|Hüseyin Afşer et.al.|[2307.09896v1](http://arxiv.org/abs/2307.09896v1)|null|
+|**2023-07-19**|**Test-takers have a say: understanding the implications of the use of AI in language tests**|Dawen Zhang et.al.|[2307.09885v1](http://arxiv.org/abs/2307.09885v1)|null|
+|**2023-07-19**|**Single shot diagnosis of ion channel dysfunction from assimilation of cell membrane dynamics**|Paul G Morris et.al.|[2307.09877v1](http://arxiv.org/abs/2307.09877v1)|null|
+|**2023-07-19**|**Self-Supervised Acoustic Word Embedding Learning via Correspondence Transformer Encoder**|Jingru Lin et.al.|[2307.09871v1](http://arxiv.org/abs/2307.09871v1)|null|
+|**2023-07-19**|**A Fast and Map-Free Model for Trajectory Prediction in Traffics**|Junhong Xiang et.al.|[2307.09831v1](http://arxiv.org/abs/2307.09831v1)|null|
+|**2023-07-19**|**Projective Quantum Phase Difference Estimation Algorithm for the Direct Computation of Eigenenergy Gaps on a Quantum Computer**|Kenji Sugisaki et.al.|[2307.09825v1](http://arxiv.org/abs/2307.09825v1)|null|
+|**2023-07-19**|**A Siamese-based Verification System for Open-set Architecture Attribution of Synthetic Images**|Lydia Abady et.al.|[2307.09822v1](http://arxiv.org/abs/2307.09822v1)|null|
+|**2023-07-19**|**Deep unrolling Shrinkage Network for Dynamic MR imaging**|Yinghao Zhang et.al.|[2307.09818v1](http://arxiv.org/abs/2307.09818v1)|**[link](https://github.com/yhao-z/dus-net)**|
+|**2023-07-19**|**Timelike Entanglement Entropy from Rindler Method**|Peng-Zhang He et.al.|[2307.09803v1](http://arxiv.org/abs/2307.09803v1)|null|
+|**2023-07-19**|**From West to East: Who can understand the music of the others better?**|Charilaos Papaioannou et.al.|[2307.09795v1](http://arxiv.org/abs/2307.09795v1)|**[link](https://github.com/pxaris/ccml)**|
+|**2023-07-19**|**DiffDP: Radiotherapy Dose Prediction via a Diffusion Model**|Zhenghao Feng et.al.|[2307.09794v1](http://arxiv.org/abs/2307.09794v1)|null|
+|**2023-07-19**|**DVPT: Dynamic Visual Prompt Tuning of Large Pre-trained Models for Medical Image Analysis**|Along He et.al.|[2307.09787v1](http://arxiv.org/abs/2307.09787v1)|null|
+|**2023-07-19**|**On long-time asymptotics to the nonlocal Lakshmanan -Porsezian-Daniel equation with step-like initial data**|Wen-yu zhou et.al.|[2307.09783v1](http://arxiv.org/abs/2307.09783v1)|null|
+|**2023-07-19**|**Perturbing a Neural Network to Infer Effective Connectivity: Evidence from Synthetic EEG Data**|Peizhen Yang et.al.|[2307.09770v1](http://arxiv.org/abs/2307.09770v1)|null|
+|**2023-07-19**|**How Curvature Enhance the Adaptation Power of Framelet GCNs**|Dai Shi et.al.|[2307.09768v1](http://arxiv.org/abs/2307.09768v1)|null|
+|**2023-07-19**|**Sig-Splines: universal approximation and convex calibration of time series generative models**|Magnus Wiese et.al.|[2307.09767v1](http://arxiv.org/abs/2307.09767v1)|null|
+|**2023-07-19**|**Information Retrieval Meets Large Language Models: A Strategic Report from Chinese IR Community**|Qingyao Ai et.al.|[2307.09751v1](http://arxiv.org/abs/2307.09751v1)|null|
+|**2023-07-19**|**Anomalous Reflection Under Ambient Sunlight: Accessing In-Plane Radiation Pressure for Solar Sailing**|Tom Joly-Jehenne et.al.|[2307.09750v1](http://arxiv.org/abs/2307.09750v1)|null|
+|**2023-07-19**|**Robust Bayesian Functional Principal Component Analysis**|Jiarui Zhang et.al.|[2307.09731v1](http://arxiv.org/abs/2307.09731v1)|null|
+|**2023-07-19**|**SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid**|Zi Li et.al.|[2307.09727v1](http://arxiv.org/abs/2307.09727v1)|null|
+|**2023-07-19**|**Improving Domain Generalization for Sound Classification with Sparse Frequency-Regularized Transformer**|Honglin Mu et.al.|[2307.09723v1](http://arxiv.org/abs/2307.09723v1)|null|
+|**2023-07-19**|**Improved Label Design for Timing Synchronization in OFDM Systems against Multi-path Uncertainty**|Chaojin Qing et.al.|[2307.09707v1](http://arxiv.org/abs/2307.09707v1)|null|
+|**2023-07-19**|**The Connection Between R-Learning and Inverse-Variance Weighting for Estimation of Heterogeneous Treatment Effects**|Aaron Fisher et.al.|[2307.09700v1](http://arxiv.org/abs/2307.09700v1)|null|
+|**2023-07-18**|**JAZZVAR: A Dataset of Variations found within Solo Piano Performances of Jazz Standards for Music Overpainting**|Eleanor Row et.al.|[2307.09670v1](http://arxiv.org/abs/2307.09670v1)|null|
+|**2023-07-18**|**Anticipating Technical Expertise and Capability Evolution in Research Communities using Dynamic Graph Transformers**|Sameera Horawalavithana et.al.|[2307.09665v1](http://arxiv.org/abs/2307.09665v1)|null|
+|**2023-07-18**|**Object-aware Gaze Target Detection**|Francesco Tonini et.al.|[2307.09662v1](http://arxiv.org/abs/2307.09662v1)|**[link](https://github.com/francescotonini/object-aware-gaze-target-detection)**|
+|**2023-07-18**|**HAT-CL: A Hard-Attention-to-the-Task PyTorch Library for Continual Learning**|Xiaotian Duan et.al.|[2307.09653v1](http://arxiv.org/abs/2307.09653v1)|null|
+|**2023-07-18**|**General Formalism of the Quantum Equivalence Principle**|Saurya Das et.al.|[2307.09632v1](http://arxiv.org/abs/2307.09632v1)|null|
+|**2023-07-18**|**Transformer-based Dual-domain Network for Few-view Dedicated Cardiac SPECT Image Reconstructions**|Huidong Xie et.al.|[2307.09624v1](http://arxiv.org/abs/2307.09624v1)|null|
+|**2023-07-18**|**Stream Types**|Joseph W. Cutler et.al.|[2307.09553v1](http://arxiv.org/abs/2307.09553v1)|null|
+|**2023-07-18**|**Surgical Action Triplet Detection by Mixed Supervised Learning of Instrument-Tissue Interactions**|Saurav Sharma et.al.|[2307.09548v1](http://arxiv.org/abs/2307.09548v1)|null|
+|**2023-07-18**|**DreaMR: Diffusion-driven Counterfactual Explanation for Functional MRI**|Hasan Atakan Bedel et.al.|[2307.09547v1](http://arxiv.org/abs/2307.09547v1)|null|
+|**2023-07-18**|**Can Model Fusing Help Transformers in Long Document Classification? An Empirical Study**|Damith Premasiri et.al.|[2307.09532v1](http://arxiv.org/abs/2307.09532v1)|**[link](https://github.com/damithdr/legal-classification)**|
 |**2023-07-19**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455v2](http://arxiv.org/abs/2307.09455v2)|null|
 |**2023-07-18**|**Factoring multivariate polynomials over hyperfields and the multivariable Descartes' problem**|Andreas Gross et.al.|[2307.09400v1](http://arxiv.org/abs/2307.09400v1)|null|
 |**2023-07-18**|**MOCA: Self-supervised Representation Learning by Predicting Masked Online Codebook Assignments**|Spyros Gidaris et.al.|[2307.09361v1](http://arxiv.org/abs/2307.09361v1)|null|
