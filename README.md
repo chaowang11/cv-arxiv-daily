@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Frequency-aware optical coherence tomography image super-resolution via conditional generative adversarial neural network**|Xueshen Li et.al.|[2307.11130v1](http://arxiv.org/abs/2307.11130v1)|null|
 |**2023-07-02**|**Enhancing Super-Resolution Networks through Realistic Thick-Slice CT Simulation**|Zeyu Tang et.al.|[2307.10182v1](http://arxiv.org/abs/2307.10182v1)|null|
 |**2023-07-19**|**Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement**|Hang Guo et.al.|[2307.09749v1](http://arxiv.org/abs/2307.09749v1)|null|
 |**2023-07-18**|**Revealing the Predictive Power of Neural Operators for Strain Evolution in Digital Composites**|Meer Mehran Rashid et.al.|[2307.09623v1](http://arxiv.org/abs/2307.09623v1)|null|
@@ -461,6 +462,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Frequency-aware optical coherence tomography image super-resolution via conditional generative adversarial neural network**|Xueshen Li et.al.|[2307.11130v1](http://arxiv.org/abs/2307.11130v1)|null|
 |**2023-07-19**|**Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement**|Hang Guo et.al.|[2307.09749v1](http://arxiv.org/abs/2307.09749v1)|null|
 |**2023-07-19**|**A comparative analysis of SRGAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456v2](http://arxiv.org/abs/2307.09456v2)|null|
 |**2023-07-18**|**Soft-IntroVAE for Continuous Latent space Image Super-Resolution**|Zhi-Song Liu et.al.|[2307.09008v1](http://arxiv.org/abs/2307.09008v1)|null|
@@ -780,6 +782,33 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Statement-based Memory for Neural Source Code Summarization**|Aakash Bansal et.al.|[2307.11709v1](http://arxiv.org/abs/2307.11709v1)|null|
+|**2023-07-21**|**Small Sample Estimators for Two-way Capture Recapture Experiments**|Louis-Paul Rivest et.al.|[2307.11705v1](http://arxiv.org/abs/2307.11705v1)|null|
+|**2023-07-21**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702v1](http://arxiv.org/abs/2307.11702v1)|null|
+|**2023-07-21**|**The structure of End( $\mathcal{T}_n$ )**|Victoria Gould et.al.|[2307.11596v1](http://arxiv.org/abs/2307.11596v1)|null|
+|**2023-07-21**|**YOLOPose V2: Understanding and Improving Transformer-based 6D Pose Estimation**|Arul Selvam Periyasamy et.al.|[2307.11550v1](http://arxiv.org/abs/2307.11550v1)|null|
+|**2023-07-21**|**Training Latency Minimization for Model-Splitting Allowed Federated Edge Learning**|Yao Wen et.al.|[2307.11532v1](http://arxiv.org/abs/2307.11532v1)|null|
+|**2023-07-21**|**UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN**|Zhaojie Fang et.al.|[2307.11530v1](http://arxiv.org/abs/2307.11530v1)|**[link](https://github.com/Tinysqua/UWAT-GAN)**|
+|**2023-07-21**|**Improving Viewpoint Robustness for Visual Recognition via Adversarial Training**|Shouwei Ruan et.al.|[2307.11528v1](http://arxiv.org/abs/2307.11528v1)|null|
+|**2023-07-21**|**No-go theorems for photon state transformations in quantum linear optics**|Pablo V. Parellada et.al.|[2307.11478v1](http://arxiv.org/abs/2307.11478v1)|null|
+|**2023-07-21**|**SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection**|Jinqing Zhang et.al.|[2307.11477v1](http://arxiv.org/abs/2307.11477v1)|null|
+|**2023-07-21**|**A Deep Learning Approach for Overall Survival Analysis with Missing Values**|Camillo Maria Caruso et.al.|[2307.11465v1](http://arxiv.org/abs/2307.11465v1)|null|
+|**2023-07-21**|**AIGC Empowering Telecom Sector White Paper**|Ye Ouyang et.al.|[2307.11449v1](http://arxiv.org/abs/2307.11449v1)|null|
+|**2023-07-21**|**Robust stabilization of  $2 \times 2$  first-order hyperbolic PDEs with uncertain input delay**|Jing Zhang et.al.|[2307.11424v1](http://arxiv.org/abs/2307.11424v1)|null|
+|**2023-07-21**|**Latent-OFER: Detect, Mask, and Reconstruct with Latent Vectors for Occluded Facial Expression Recognition**|Isack Lee et.al.|[2307.11404v1](http://arxiv.org/abs/2307.11404v1)|null|
+|**2023-07-21**|**What can a Single Attention Layer Learn? A Study Through the Random Features Lens**|Hengyu Fu et.al.|[2307.11353v1](http://arxiv.org/abs/2307.11353v1)|null|
+|**2023-07-21**|**DPM-OT: A New Diffusion Probabilistic Model Based on Optimal Transport**|Zezeng Li et.al.|[2307.11308v1](http://arxiv.org/abs/2307.11308v1)|null|
+|**2023-07-21**|**EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos**|Ruyi Zha et.al.|[2307.11307v1](http://arxiv.org/abs/2307.11307v1)|null|
+|**2023-07-21**|**Thermal Behavior of Astrophysical Amorphous Molecular Ices**|Murthy S. Gudipati et.al.|[2307.11275v1](http://arxiv.org/abs/2307.11275v1)|null|
+|**2023-07-20**|**A Systematic Evaluation of Federated Learning on Biomedical Natural Language Processing**|Le Peng et.al.|[2307.11254v1](http://arxiv.org/abs/2307.11254v1)|null|
+|**2023-07-20**|**Formal-Guided Fuzz Testing: Targeting Security Assurance from Specification to Implementation for 5G and Beyond**|Jingda Yang et.al.|[2307.11247v1](http://arxiv.org/abs/2307.11247v1)|null|
+|**2023-07-20**|**Quantum computing for finance**|Dylan Herman et.al.|[2307.11230v1](http://arxiv.org/abs/2307.11230v1)|null|
+|**2023-07-20**|**Painlevé-III Monodromy Maps Under the  $D_6\to D_8$  Confluence and Applications to the Large-Parameter Asymptotics of Rational Solutions**|Ahmad Barhoumi et.al.|[2307.11217v1](http://arxiv.org/abs/2307.11217v1)|null|
+|**2023-07-20**|**Plastic strain-induced olivine-ringwoodite phase transformation at room temperature: main rules and the mechanism of the deep-focus earthquake**|Feng Lin et.al.|[2307.11215v1](http://arxiv.org/abs/2307.11215v1)|null|
+|**2023-07-20**|**UMLS-KGI-BERT: Data-Centric Knowledge Integration in Transformers for Biomedical Entity Recognition**|Aidan Mannion et.al.|[2307.11170v1](http://arxiv.org/abs/2307.11170v1)|null|
+|**2023-07-20**|**Towards General Game Representations: Decomposing Games Pixels into Content and Style**|Chintan Trivedi et.al.|[2307.11141v1](http://arxiv.org/abs/2307.11141v1)|null|
+|**2023-07-20**|**Frequency-aware optical coherence tomography image super-resolution via conditional generative adversarial neural network**|Xueshen Li et.al.|[2307.11130v1](http://arxiv.org/abs/2307.11130v1)|null|
+|**2023-07-20**|**Diffusion Models for Probabilistic Deconvolution of Galaxy Images**|Zhiwei Xue et.al.|[2307.11122v1](http://arxiv.org/abs/2307.11122v1)|null|
 |**2023-07-20**|**GLSFormer: Gated - Long, Short Sequence Transformer for Step Recognition in Surgical Videos**|Nisarg A. Shah et.al.|[2307.11081v1](http://arxiv.org/abs/2307.11081v1)|**[link](https://github.com/nisargshah1999/glsformer)**|
 |**2023-07-20**|**Discovery Forecasts of the Diffuse Ultra-High-Energy Neutrino Flux with IceCube-Gen2**|Victor B. Valera et.al.|[2307.11055v1](http://arxiv.org/abs/2307.11055v1)|null|
 |**2023-07-20**|**Cascade-DETR: Delving into High-Quality Universal Object Detection**|Mingqiao Ye et.al.|[2307.11035v1](http://arxiv.org/abs/2307.11035v1)|**[link](https://github.com/syscv/cascade-detr)**|
