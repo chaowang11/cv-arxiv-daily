@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.24
+## Updated on 2023.07.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -38,7 +38,7 @@
 |**2023-07-14**|**Reconstructing Three-decade Global Fine-Grained Nighttime Light Observations by a New Super-Resolution Framework**|Jinyu Guo et.al.|[2307.07366v1](http://arxiv.org/abs/2307.07366v1)|null|
 |**2023-07-14**|**High-density single-molecule maps reveal transient membrane receptor interactions within a dynamically varying environment**|Nicolas Mateos et.al.|[2307.07334v1](http://arxiv.org/abs/2307.07334v1)|null|
 |**2023-07-14**|**MaxSR: Image Super-Resolution Using Improved MaxViT**|Bincheng Yang et.al.|[2307.07240v1](http://arxiv.org/abs/2307.07240v1)|null|
-|**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207v1](http://arxiv.org/abs/2307.06207v1)|**[link](https://github.com/bu-cisl/LCNF)**|
+|**2023-07-22**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207v2](http://arxiv.org/abs/2307.06207v2)|**[link](https://github.com/bu-cisl/LCNF)**|
 |**2023-07-11**|**Super-resolution imaging through a multimode fiber: the physical upsampling of speckle-driven**|Chuncheng Zhang et.al.|[2307.05138v1](http://arxiv.org/abs/2307.05138v1)|null|
 |**2023-07-10**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian B. Moser et.al.|[2307.04593v1](http://arxiv.org/abs/2307.04593v1)|null|
 |**2023-07-10**|**Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection**|YeongHyeon Park et.al.|[2307.04298v1](http://arxiv.org/abs/2307.04298v1)|null|
@@ -49,7 +49,7 @@
 |**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457v1](http://arxiv.org/abs/2307.02457v1)|null|
 |**2023-07-10**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334v3](http://arxiv.org/abs/2307.02334v3)|**[link](https://github.com/jmzhang79/dual-arbnet)**|
 |**2023-07-05**|**Source Identification: A Self-Supervision Task for Dense Prediction**|Shuai Chen et.al.|[2307.02238v1](http://arxiv.org/abs/2307.02238v1)|null|
-|**2023-07-05**|**Compound Attention and Neighbor Matching Network for Multi-contrast MRI Super-resolution**|Wenxuan Chen et.al.|[2307.02148v1](http://arxiv.org/abs/2307.02148v1)|null|
+|**2023-07-24**|**Compound Attention and Neighbor Matching Network for Multi-contrast MRI Super-resolution**|Wenxuan Chen et.al.|[2307.02148v2](http://arxiv.org/abs/2307.02148v2)|null|
 |**2023-07-04**|**Spatio-Temporal Perception-Distortion Trade-off in Learned Video SR**|Nasrin Rahimi et.al.|[2307.01556v1](http://arxiv.org/abs/2307.01556v1)|**[link](https://github.com/kuis-ai-tekalp-research-group/perceptual-vsr)**|
 |**2023-07-04**|**Bistable scattering of nano-silicon for super-linear super-resolution imaging**|Po-Hsueh Tseng et.al.|[2307.01490v1](http://arxiv.org/abs/2307.01490v1)|null|
 |**2023-07-03**|**Ultrafast electro-optic Time-Frequency Fractional Fourier Imaging at the Single-Photon Level**|Michał Lipka et.al.|[2307.01141v1](http://arxiv.org/abs/2307.01141v1)|null|
@@ -456,7 +456,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20230724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -472,7 +472,7 @@
 |**2023-07-10**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian B. Moser et.al.|[2307.04593v1](http://arxiv.org/abs/2307.04593v1)|null|
 |**2023-07-06**|**Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution**|Yuting Lu et.al.|[2307.02974v1](http://arxiv.org/abs/2307.02974v1)|null|
 |**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457v1](http://arxiv.org/abs/2307.02457v1)|null|
-|**2023-07-05**|**Compound Attention and Neighbor Matching Network for Multi-contrast MRI Super-resolution**|Wenxuan Chen et.al.|[2307.02148v1](http://arxiv.org/abs/2307.02148v1)|null|
+|**2023-07-24**|**Compound Attention and Neighbor Matching Network for Multi-contrast MRI Super-resolution**|Wenxuan Chen et.al.|[2307.02148v2](http://arxiv.org/abs/2307.02148v2)|null|
 |**2023-07-04**|**Spatio-Temporal Perception-Distortion Trade-off in Learned Video SR**|Nasrin Rahimi et.al.|[2307.01556v1](http://arxiv.org/abs/2307.01556v1)|**[link](https://github.com/kuis-ai-tekalp-research-group/perceptual-vsr)**|
 |**2023-07-03**|**ACDMSR: Accelerated Conditional Diffusion Models for Single Image Super-Resolution**|Axi Niu et.al.|[2307.00781v1](http://arxiv.org/abs/2307.00781v1)|null|
 |**2023-07-01**|**WaveMixSR: A Resource-efficient Neural Network for Image Super-resolution**|Pranav Jeevan et.al.|[2307.00430v1](http://arxiv.org/abs/2307.00430v1)|**[link](https://github.com/pranavphoenix/WaveMixSR)**|
@@ -640,7 +640,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20230724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -719,7 +719,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -737,7 +737,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -776,7 +776,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
 
 ## Transformer
 
@@ -793,7 +793,7 @@
 |**2023-07-21**|**No-go theorems for photon state transformations in quantum linear optics**|Pablo V. Parellada et.al.|[2307.11478v1](http://arxiv.org/abs/2307.11478v1)|null|
 |**2023-07-21**|**SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection**|Jinqing Zhang et.al.|[2307.11477v1](http://arxiv.org/abs/2307.11477v1)|null|
 |**2023-07-21**|**A Deep Learning Approach for Overall Survival Analysis with Missing Values**|Camillo Maria Caruso et.al.|[2307.11465v1](http://arxiv.org/abs/2307.11465v1)|null|
-|**2023-07-21**|**AIGC Empowering Telecom Sector White Paper**|Ye Ouyang et.al.|[2307.11449v1](http://arxiv.org/abs/2307.11449v1)|null|
+|**2023-07-24**|**AIGC Empowering Telecom Sector White Paper_chinese**|Ye Ouyang et.al.|[2307.11449v2](http://arxiv.org/abs/2307.11449v2)|null|
 |**2023-07-21**|**Robust stabilization of  $2 \times 2$  first-order hyperbolic PDEs with uncertain input delay**|Jing Zhang et.al.|[2307.11424v1](http://arxiv.org/abs/2307.11424v1)|null|
 |**2023-07-21**|**Latent-OFER: Detect, Mask, and Reconstruct with Latent Vectors for Occluded Facial Expression Recognition**|Isack Lee et.al.|[2307.11404v1](http://arxiv.org/abs/2307.11404v1)|null|
 |**2023-07-21**|**What can a Single Attention Layer Learn? A Study Through the Random Features Lens**|Hengyu Fu et.al.|[2307.11353v1](http://arxiv.org/abs/2307.11353v1)|null|
@@ -822,7 +822,7 @@
 |**2023-07-20**|**MediaGPT : A Large Language Model Target Chinese Media**|Zhonghao Wang et.al.|[2307.10930v1](http://arxiv.org/abs/2307.10930v1)|null|
 |**2023-07-20**|**Efficient amplitude encoding of polynomial functions into quantum computers**|Javier Gonzalez-Conde et.al.|[2307.10917v1](http://arxiv.org/abs/2307.10917v1)|null|
 |**2023-07-20**|**WeakPolyp: You Only Look Bounding Box for Polyp Segmentation**|Jun Wei et.al.|[2307.10912v1](http://arxiv.org/abs/2307.10912v1)|null|
-|**2023-07-20**|**Exploring Effective Priors and Efficient Models for Weakly-Supervised Change Detection**|Zhenghui Zhao et.al.|[2307.10853v1](http://arxiv.org/abs/2307.10853v1)|null|
+|**2023-07-22**|**Exploring Effective Priors and Efficient Models for Weakly-Supervised Change Detection**|Zhenghui Zhao et.al.|[2307.10853v2](http://arxiv.org/abs/2307.10853v2)|null|
 |**2023-07-20**|**Central Limit Theorem for traces of the resolvents of half-heavy tailed Sample Covariance matrices**|Svetlana Malysheva et.al.|[2307.10848v1](http://arxiv.org/abs/2307.10848v1)|null|
 |**2023-07-20**|**Shortest Dominating Set Reconfiguration under Token Sliding**|Jan Matyáš Křišťan et.al.|[2307.10847v1](http://arxiv.org/abs/2307.10847v1)|null|
 |**2023-07-20**|**Central limit measure for V-monotone independence**|Adrian Dacko et.al.|[2307.10844v1](http://arxiv.org/abs/2307.10844v1)|null|
@@ -7589,7 +7589,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -7714,7 +7714,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -7778,7 +7778,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
