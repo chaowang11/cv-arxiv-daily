@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Overcoming Distribution Mismatch in Quantizing Image Super-Resolution Networks**|Cheeun Hong et.al.|[2307.13337v1](http://arxiv.org/abs/2307.13337v1)|null|
+|**2023-07-25**|**Multiscale scanning with nuisance parameters**|Claudia König et.al.|[2307.13301v1](http://arxiv.org/abs/2307.13301v1)|null|
 |**2023-07-24**|**ICF-SRSR: Invertible scale-Conditional Function for Self-Supervised Real-world Single Image Super-Resolution**|Reyhaneh Neshatavar et.al.|[2307.12751v1](http://arxiv.org/abs/2307.12751v1)|null|
 |**2023-07-24**|**Bayesian Based Unrolling for Reconstruction and Super-resolution of Single-Photon Lidar Systems**|Abderrahim Halimi et.al.|[2307.12700v1](http://arxiv.org/abs/2307.12700v1)|null|
 |**2023-07-25**|**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting**|Zongsheng Yue et.al.|[2307.12348v2](http://arxiv.org/abs/2307.12348v2)|**[link](https://github.com/zsyoaoa/resshift)**|
@@ -469,6 +471,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Overcoming Distribution Mismatch in Quantizing Image Super-Resolution Networks**|Cheeun Hong et.al.|[2307.13337v1](http://arxiv.org/abs/2307.13337v1)|null|
 |**2023-07-24**|**ICF-SRSR: Invertible scale-Conditional Function for Self-Supervised Real-world Single Image Super-Resolution**|Reyhaneh Neshatavar et.al.|[2307.12751v1](http://arxiv.org/abs/2307.12751v1)|null|
 |**2023-07-25**|**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting**|Zongsheng Yue et.al.|[2307.12348v2](http://arxiv.org/abs/2307.12348v2)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2023-07-22**|**On the Effectiveness of Spectral Discriminators for Perceptual Quality Improvement**|Xin Luo et.al.|[2307.12027v1](http://arxiv.org/abs/2307.12027v1)|**[link](https://github.com/luciennnnnnn/dualformer)**|
@@ -795,6 +798,45 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**A Comprehensive Review of Recent Research Trends on UAVs**|Kaled Telli et.al.|[2307.13691v1](http://arxiv.org/abs/2307.13691v1)|null|
+|**2023-07-25**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668v1](http://arxiv.org/abs/2307.13668v1)|null|
+|**2023-07-25**|**Ideal gases and degenerate Fermi gases in external torsion fields**|Chih-Hung Wang et.al.|[2307.13647v1](http://arxiv.org/abs/2307.13647v1)|null|
+|**2023-07-25**|**Learning Transferable Object-Centric Diffeomorphic Transformations for Data Augmentation in Medical Image Segmentation**|Nilesh Kumar et.al.|[2307.13645v1](http://arxiv.org/abs/2307.13645v1)|null|
+|**2023-07-25**|**Optical Flow boosts Unsupervised Localization and Segmentation**|Xinyu Zhang et.al.|[2307.13640v1](http://arxiv.org/abs/2307.13640v1)|**[link](https://github.com/mlzxy/flowdino)**|
+|**2023-07-25**|**Object-based Probabilistic Similarity Evidence of Sparse Latent Features from Fully Convolutional Networks**|Cyril Juliani et.al.|[2307.13606v1](http://arxiv.org/abs/2307.13606v1)|null|
+|**2023-07-25**|**Isogeometric analysis of insoluble surfactant spreading on a thin film**|David Medina et.al.|[2307.13605v1](http://arxiv.org/abs/2307.13605v1)|null|
+|**2023-07-25**|**Calculating the Single-Particle Many-body Green's Functions via the Quantum Singular Value Transform Algorithm**|Alexis Ralli et.al.|[2307.13583v1](http://arxiv.org/abs/2307.13583v1)|null|
+|**2023-07-25**|**Normal quantum channels and Markovian correlated two-qubit quantum errors**|Alejandro Contreras Reynoso et.al.|[2307.13578v1](http://arxiv.org/abs/2307.13578v1)|null|
+|**2023-07-25**|**XDLM: Cross-lingual Diffusion Language Model for Machine Translation**|Linyao Chen et.al.|[2307.13560v1](http://arxiv.org/abs/2307.13560v1)|null|
+|**2023-07-25**|**Living on the Edge: Quantum Black Hole Physics from the Event Horizon**|Manuel Del Piano et.al.|[2307.13489v1](http://arxiv.org/abs/2307.13489v1)|null|
+|**2023-07-25**|**Unlocking the Emotional World of Visual Media: An Overview of the Science, Research, and Impact of Understanding Emotion**|James Z. Wang et.al.|[2307.13463v1](http://arxiv.org/abs/2307.13463v1)|null|
+|**2023-07-25**|**Weakly-supervised 3D Pose Transfer with Keypoints**|Jinnan Chen et.al.|[2307.13459v1](http://arxiv.org/abs/2307.13459v1)|null|
+|**2023-07-25**|**Finding discrete symmetry groups via Machine Learning**|Pablo Calvo-Barlés et.al.|[2307.13457v1](http://arxiv.org/abs/2307.13457v1)|null|
+|**2023-07-25**|**Manifestly Covariant Polynomial M5-brane Lagrangians**|Sukŗti Bansal et.al.|[2307.13449v1](http://arxiv.org/abs/2307.13449v1)|null|
+|**2023-07-25**|**A behavioural transformer for effective collaboration between a robot and a non-stationary human**|Ruaridh Mon-Williams et.al.|[2307.13447v1](http://arxiv.org/abs/2307.13447v1)|null|
+|**2023-07-25**|**A versatile unitary transformation framework for an optimal bath construction in density-matrix based quantum embedding approaches**|Quentin Marécat et.al.|[2307.13446v1](http://arxiv.org/abs/2307.13446v1)|null|
+|**2023-07-25**|**Towards Resolving Word Ambiguity with Word Embeddings**|Matthias Thurnbauer et.al.|[2307.13417v1](http://arxiv.org/abs/2307.13417v1)|null|
+|**2023-07-25**|**Spin waves in bilayers of transition-metal dichalcogenides**|Wojciech Rudziński et.al.|[2307.13414v1](http://arxiv.org/abs/2307.13414v1)|null|
+|**2023-07-25**|**Prior Based Online Lane Graph Extraction from Single Onboard Camera Image**|Yigit Baran Can et.al.|[2307.13344v1](http://arxiv.org/abs/2307.13344v1)|null|
+|**2023-07-25**|**Coherent control of thermoelectric flows and noise in quantum thermocouples**|José Balduque et.al.|[2307.13319v1](http://arxiv.org/abs/2307.13319v1)|null|
+|**2023-07-25**|**CT-Net: Arbitrary-Shaped Text Detection via Contour Transformer**|Zhiwen Shao et.al.|[2307.13310v1](http://arxiv.org/abs/2307.13310v1)|null|
+|**2023-07-25**|**Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**|Chuanyu Luo et.al.|[2307.13300v1](http://arxiv.org/abs/2307.13300v1)|null|
+|**2023-07-25**|**Semi-analytical study of transient electroosmotic flow of Maxwell fluids in nanochannels grafted with a strong polyelectrolyte layer having layered distribution of charges**|Jun-Sik Sin et.al.|[2307.13283v1](http://arxiv.org/abs/2307.13283v1)|null|
+|**2023-07-25**|**Curvature-based Transformer for Molecular Property Prediction**|Yili Chen et.al.|[2307.13275v1](http://arxiv.org/abs/2307.13275v1)|null|
+|**2023-07-25**|**GaitFormer: Revisiting Intrinsic Periodicity for Gait Recognition**|Qian Wu et.al.|[2307.13259v1](http://arxiv.org/abs/2307.13259v1)|null|
+|**2023-07-25**|**Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network**|Chull Hwan Song et.al.|[2307.13254v1](http://arxiv.org/abs/2307.13254v1)|null|
+|**2023-07-25**|**Vibrational heat-bath configuration interaction with semistochastic perturbation theory using harmonic oscillator or VSCF modals**|Henry K. Tran et.al.|[2307.13246v1](http://arxiv.org/abs/2307.13246v1)|null|
+|**2023-07-25**|**Multi-Granularity Prediction with Learnable Fusion for Scene Text Recognition**|Cheng Da et.al.|[2307.13244v1](http://arxiv.org/abs/2307.13244v1)|**[link](https://github.com/alibabaresearch/advancedliteratemachinery)**|
+|**2023-07-25**|**Audio-aware Query-enhanced Transformer for Audio-Visual Segmentation**|Jinxiang Liu et.al.|[2307.13236v1](http://arxiv.org/abs/2307.13236v1)|null|
+|**2023-07-24**|**Uniform asymptotics for a family of degenerating variational problems and error estimates in homogenisation theory**|Shane Cooper et.al.|[2307.13151v1](http://arxiv.org/abs/2307.13151v1)|null|
+|**2023-07-24**|**simPLE: a visuotactile method learned in simulation to precisely pick, localize, regrasp, and place objects**|Maria Bauza et.al.|[2307.13133v1](http://arxiv.org/abs/2307.13133v1)|null|
+|**2023-07-24**|**Why Don't You Clean Your Glasses? Perception Attacks with Dynamic Optical Perturbations**|Yi Han et.al.|[2307.13131v1](http://arxiv.org/abs/2307.13131v1)|null|
+|**2023-07-24**|**Fourier-Domain Inversion for the Modulo Radon Transform**|Matthias Beckmann et.al.|[2307.13114v1](http://arxiv.org/abs/2307.13114v1)|null|
+|**2023-07-24**|**How to use LLMs for Text Analysis**|Petter Törnberg et.al.|[2307.13106v1](http://arxiv.org/abs/2307.13106v1)|**[link](https://github.com/cssmodels/howtousellms)**|
+|**2023-07-24**|**Optical time-domain quantum state tomography on a subcycle scale**|Emanuel Hubenschmid et.al.|[2307.13090v1](http://arxiv.org/abs/2307.13090v1)|null|
+|**2023-07-24**|**Direct measurement of the Husimi-Q function of the electric-field in the time-domain**|Sho Onoe et.al.|[2307.13088v1](http://arxiv.org/abs/2307.13088v1)|null|
+|**2023-07-24**|**The Status of Horava Gravity**|M. Herrero-Valea et.al.|[2307.13039v1](http://arxiv.org/abs/2307.13039v1)|null|
+|**2023-07-24**|**Improved Digital Quantum Simulation by Non-Unitary Channels**|W. Gong et.al.|[2307.13028v1](http://arxiv.org/abs/2307.13028v1)|null|
 |**2023-07-24**|**An Isometric Stochastic Optimizer**|Jacob Jackson et.al.|[2307.12979v1](http://arxiv.org/abs/2307.12979v1)|null|
 |**2023-07-24**|**DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting**|Hongyang Li et.al.|[2307.12972v1](http://arxiv.org/abs/2307.12972v1)|null|
 |**2023-07-24**|**Learning Dense Correspondences between Photos and Sketches**|Xuanchen Lu et.al.|[2307.12967v1](http://arxiv.org/abs/2307.12967v1)|null|
