@@ -823,7 +823,7 @@
 |**2023-07-27**|**Symbol-Level Precoding for MU-MIMO System with RIRC Receiver**|Xiao Tong et.al.|[2307.14797v1](http://arxiv.org/abs/2307.14797v1)|null|
 |**2023-07-27**|**Likely, Light, and Accurate Context-Free Clusters-based Trajectory Prediction**|Tiago Rodrigues de Almeida et.al.|[2307.14788v1](http://arxiv.org/abs/2307.14788v1)|null|
 |**2023-07-27**|**Improving Aspect-Based Sentiment with End-to-End Semantic Role Labeling Model**|Pavel Přibáň et.al.|[2307.14785v1](http://arxiv.org/abs/2307.14785v1)|**[link](https://github.com/pauli31/srl-aspect-based-sentiment)**|
-|**2023-07-27**|**pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation**|Abhishek Kuriyal et.al.|[2307.14777v1](http://arxiv.org/abs/2307.14777v1)|null|
+|**2023-07-27**|**pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation**|Abhishek Kuriyal et.al.|[2307.14777v1](http://arxiv.org/abs/2307.14777v1)|**[link](https://github.com/GeoAI-Research-Lab/PCTFusion)**|
 |**2023-07-27**|**Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining**|Benjia Zhou et.al.|[2307.14768v1](http://arxiv.org/abs/2307.14768v1)|null|
 |**2023-07-27**|**Where are the photons in a transmission-line pulse?**|Evangelos Varvelis et.al.|[2307.14756v1](http://arxiv.org/abs/2307.14756v1)|null|
 |**2023-07-27**|**Audio Inputs for Active Speaker Detection and Localization via Microphone Array**|Davide Berghi et.al.|[2307.14739v1](http://arxiv.org/abs/2307.14739v1)|null|
