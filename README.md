@@ -806,7 +806,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-07-27**|**A Transformer-based Approach for Arabic Offline Handwritten Text Recognition**|Saleh Momeni et.al.|[2307.15045v1](http://arxiv.org/abs/2307.15045v1)|null|
-|**2023-07-27**|**Speeding up Fourier Neural Operators via Mixed Precision**|Colin White et.al.|[2307.15034v1](http://arxiv.org/abs/2307.15034v1)|null|
+|**2023-07-27**|**Speeding up Fourier Neural Operators via Mixed Precision**|Colin White et.al.|[2307.15034v1](http://arxiv.org/abs/2307.15034v1)|**[link](https://github.com/neuraloperator/neuraloperator)**|
 |**2023-07-27**|**Self-Supervised Graph Transformer for Deepfake Detection**|Aminollah Khormali et.al.|[2307.15019v1](http://arxiv.org/abs/2307.15019v1)|null|
 |**2023-07-27**|**Verifiable Feature Attributions: A Bridge between Post Hoc Explainability and Inherent Interpretability**|Usha Bhalla et.al.|[2307.15007v1](http://arxiv.org/abs/2307.15007v1)|null|
 |**2023-07-27**|**Incrementally-Computable Neural Networks: Efficient Inference for Dynamic Inputs**|Or Sharir et.al.|[2307.14988v1](http://arxiv.org/abs/2307.14988v1)|null|
@@ -830,12 +830,12 @@
 |**2023-07-27**|**GaitMorph: Transforming Gait by Optimally Transporting Discrete Codes**|Adrian Cosma et.al.|[2307.14713v1](http://arxiv.org/abs/2307.14713v1)|null|
 |**2023-07-27**|**Pre-training Vision Transformers with Very Limited Synthesized Images**|Ryo Nakamura1 et.al.|[2307.14710v1](http://arxiv.org/abs/2307.14710v1)|**[link](https://github.com/ryoo-nakamura/ofdb)**|
 |**2023-07-27**|**MIM-OOD: Generative Masked Image Modelling for Out-of-Distribution Detection in Medical Images**|Sergio {Naval Marimont} et.al.|[2307.14701v1](http://arxiv.org/abs/2307.14701v1)|null|
-|**2023-07-27**|**Unified Adversarial Patch for Visible-Infrared Cross-modal Attacks in the Physical World**|Xingxing Wei et.al.|[2307.14682v1](http://arxiv.org/abs/2307.14682v1)|null|
+|**2023-07-27**|**Unified Adversarial Patch for Visible-Infrared Cross-modal Attacks in the Physical World**|Xingxing Wei et.al.|[2307.14682v1](http://arxiv.org/abs/2307.14682v1)|**[link](https://github.com/aries-iai/cross-modal_patch_attack)**|
 |**2023-07-27**|**Adjoint-based optimal control of contractile elastic bodies. Application to limbless locomotion on frictional substrates**|Ashutosh Bijalwan et.al.|[2307.14681v1](http://arxiv.org/abs/2307.14681v1)|null|
 |**2023-07-27**|**Improving Natural Language Inference in Arabic using Transformer Models and Linguistically Informed Pre-Training**|Mohammad Majd Saad Al Deen et.al.|[2307.14666v1](http://arxiv.org/abs/2307.14666v1)|**[link](https://github.com/fraunhofer-iais/arabic_nlp)**|
 |**2023-07-27**|**Spatial-Frequency U-Net for Denoising Diffusion Probabilistic Models**|Xin Yuan et.al.|[2307.14648v1](http://arxiv.org/abs/2307.14648v1)|null|
 |**2023-07-27**|**HTNet for micro-expression recognition**|Zhifeng Wang et.al.|[2307.14637v1](http://arxiv.org/abs/2307.14637v1)|**[link](https://github.com/wangzhifengharrison/htnet)**|
-|**2023-07-27**|**Clustering based Point Cloud Representation Learning for 3D Analysis**|Tuo Feng et.al.|[2307.14605v1](http://arxiv.org/abs/2307.14605v1)|null|
+|**2023-07-27**|**Clustering based Point Cloud Representation Learning for 3D Analysis**|Tuo Feng et.al.|[2307.14605v1](http://arxiv.org/abs/2307.14605v1)|**[link](https://github.com/fengzicai/cluster3dseg)**|
 |**2023-07-27**|**HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic Forecasting**|Zezhi Shao et.al.|[2307.14596v1](http://arxiv.org/abs/2307.14596v1)|null|
 |**2023-07-27**|**MCPA: Multi-scale Cross Perceptron Attention Network for 2D Medical Image Segmentation**|Liang Xu et.al.|[2307.14588v1](http://arxiv.org/abs/2307.14588v1)|**[link](https://github.com/simonustc/mcpa-for-2d-medical-image-segmentation)**|
 |**2023-07-27**|**Explainable Techniques for Analyzing Flow Cytometry Cell Transformers**|Florian Kowarsch et.al.|[2307.14581v1](http://arxiv.org/abs/2307.14581v1)|null|
