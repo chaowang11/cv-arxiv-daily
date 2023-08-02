@@ -813,6 +813,48 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Harnessing the Power of Sample Abundance: Theoretical Guarantees and Algorithms for Accelerated One-Bit Sensing**|Arian Eamaz et.al.|[2308.00695v1](http://arxiv.org/abs/2308.00695v1)|null|
+|**2023-08-01**|**CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code**|Nadezhda Chirkova et.al.|[2308.00683v1](http://arxiv.org/abs/2308.00683v1)|null|
+|**2023-08-01**|**A Platform for Far-Infrared Spectroscopy of Quantum Materials at Millikelvin Temperatures**|Michael Onyszczak et.al.|[2308.00610v1](http://arxiv.org/abs/2308.00610v1)|null|
+|**2023-08-01**|**PVG: Progressive Vision Graph for Vision Recognition**|Jiafu Wu et.al.|[2308.00574v1](http://arxiv.org/abs/2308.00574v1)|null|
+|**2023-08-01**|**Nonlinear Gagliardo-Nirenberg inequality and a priori estimates for nonlinear elliptic eigenvalue problems**|Agnieszka Kałamajska et.al.|[2308.00545v1](http://arxiv.org/abs/2308.00545v1)|null|
+|**2023-08-01**|**Adaptive Bitrate Video Semantic Communication over Wireless Networks**|Wentao Gong et.al.|[2308.00531v1](http://arxiv.org/abs/2308.00531v1)|null|
+|**2023-08-01**|**Transfer-Ensemble Learning based Deep Convolutional Neural Networks for Diabetic Retinopathy Classification**|Susmita Ghosh et.al.|[2308.00525v1](http://arxiv.org/abs/2308.00525v1)|null|
+|**2023-08-01**|**Improved Prognostic Prediction of Pancreatic Cancer Using Multi-Phase CT by Integrating Neural Distance and Texture-Aware Transformer**|Hexin Dong et.al.|[2308.00507v1](http://arxiv.org/abs/2308.00507v1)|null|
+|**2023-08-01**|**Massively Parallel Algorithms for High-Dimensional Euclidean Minimum Spanning Tree**|Rajesh Jayaram et.al.|[2308.00503v1](http://arxiv.org/abs/2308.00503v1)|null|
+|**2023-08-01**|**Leveraging MLIR for Loop Vectorization and GPU Porting of FFT Libraries**|Yifei He et.al.|[2308.00497v1](http://arxiv.org/abs/2308.00497v1)|null|
+|**2023-08-01**|**DINO-CXR: A self supervised method based on vision transformer for chest X-ray classification**|Mohammadreza Shakouri et.al.|[2308.00475v1](http://arxiv.org/abs/2308.00475v1)|null|
+|**2023-08-01**|**Characterization-based approach for construction of goodness-of-fit test for Lévy distribution**|Žikica Lukić et.al.|[2308.00460v1](http://arxiv.org/abs/2308.00460v1)|null|
+|**2023-08-01**|**Probing proton structure with  $c \bar c$  correlations in ultraperipheral  $pA$  collisions**|Barbara Linek et.al.|[2308.00457v1](http://arxiv.org/abs/2308.00457v1)|null|
+|**2023-08-01**|**ViT2EEG: Leveraging Hybrid Pretrained Vision Transformers for EEG Data**|Ruiqi Yang et.al.|[2308.00454v1](http://arxiv.org/abs/2308.00454v1)|null|
+|**2023-08-01**|**LoRa Modulation for Split Learning**|Marc Martinez-Gost et.al.|[2308.00449v1](http://arxiv.org/abs/2308.00449v1)|null|
+|**2023-08-01**|**FLatten Transformer: Vision Transformer using Focused Linear Attention**|Dongchen Han et.al.|[2308.00442v1](http://arxiv.org/abs/2308.00442v1)|null|
+|**2023-08-01**|**Decision Diagrams for Symbolic Verification of Quantum Circuits**|Xin Hong et.al.|[2308.00440v1](http://arxiv.org/abs/2308.00440v1)|null|
+|**2023-08-01**|**Discourse-Aware Text Simplification: From Complex Sentences to Linked Propositions**|Christina Niklaus et.al.|[2308.00425v1](http://arxiv.org/abs/2308.00425v1)|null|
+|**2023-08-01**|**Counterfactual Graph Transformer for Traffic Flow Prediction**|Ying Yang et.al.|[2308.00391v1](http://arxiv.org/abs/2308.00391v1)|null|
+|**2023-08-01**|**Deep Image Harmonization with Learnable Augmentation**|Li Niu et.al.|[2308.00376v1](http://arxiv.org/abs/2308.00376v1)|**[link](https://github.com/bcmi/syconet-adaptive-image-harmonization)**|
+|**2023-08-01**|**The asymptotic stability of solitons in the focusing Hirota equation on the line**|Ruihong Ma et.al.|[2308.00359v1](http://arxiv.org/abs/2308.00359v1)|null|
+|**2023-08-01**|**Deep Image Harmonization with Globally Guided Feature Transformation and Relation Distillation**|Li Niu et.al.|[2308.00356v1](http://arxiv.org/abs/2308.00356v1)|**[link](https://github.com/bcmi/image-harmonization-dataset-ccharmony)**|
+|**2023-08-01**|**A Dual-space Multilevel Kernel-splitting Framework for Discrete and Continuous Convolution**|Leslie Greengard et.al.|[2308.00292v1](http://arxiv.org/abs/2308.00292v1)|null|
+|**2023-08-01**|**Data Collaboration Analysis applied to Compound Datasets and the Introduction of Projection data to Non-IID settings**|Akihiro Mizoguchi et.al.|[2308.00280v1](http://arxiv.org/abs/2308.00280v1)|null|
+|**2023-08-01**|**Neural approximation of Wasserstein distance via a universal architecture for symmetric and factorwise group invariant functions**|Samantha Chen et.al.|[2308.00273v1](http://arxiv.org/abs/2308.00273v1)|null|
+|**2023-08-01**|**Enhanced Security with Encrypted Vision Transformer in Federated Learning**|Rei Aso et.al.|[2308.00271v1](http://arxiv.org/abs/2308.00271v1)|null|
+|**2023-08-01**|**Black hole perturbations in spatially covariant gravity with just two tensorial degrees of freedom**|Jin Saito et.al.|[2308.00267v1](http://arxiv.org/abs/2308.00267v1)|null|
+|**2023-08-01**|**Benchmarking Ultra-High-Definition Image Reflection Removal**|Zhenyuan Zhang et.al.|[2308.00265v1](http://arxiv.org/abs/2308.00265v1)|**[link](https://github.com/liar-zzy/benchmarking-ultra-high-definition-single-image-reflection-removal)**|
+|**2023-08-01**|**Improving Pixel-based MIM by Reducing Wasted Modeling Capability**|Yuan Liu et.al.|[2308.00261v1](http://arxiv.org/abs/2308.00261v1)|**[link](https://github.com/open-mmlab/mmpretrain)**|
+|**2023-08-01**|**LGViT: Dynamic Early Exiting for Accelerating Vision Transformer**|Guanyu Xu et.al.|[2308.00255v1](http://arxiv.org/abs/2308.00255v1)|null|
+|**2023-08-01**|**Near-Field Integrated Sensing and Communications: Unlocking Potentials and Shaping the Future**|Kaiqian Qu et.al.|[2308.00252v1](http://arxiv.org/abs/2308.00252v1)|null|
+|**2023-08-01**|**Unleashing the Power of Self-Supervised Image Denoising: A Comprehensive Review**|Dan Zhang et.al.|[2308.00247v1](http://arxiv.org/abs/2308.00247v1)|null|
+|**2023-08-01**|**EEG-based Cognitive Load Classification using Feature Masked Autoencoding and Emotion Transfer Learning**|Dustin Pulver et.al.|[2308.00246v1](http://arxiv.org/abs/2308.00246v1)|null|
+|**2023-08-01**|**EC-Conf: A Ultra-fast Diffusion Model for Molecular Conformation Generation with Equivariant Consistency**|Zhiguang Fan et.al.|[2308.00237v1](http://arxiv.org/abs/2308.00237v1)|null|
+|**2023-08-01**|**Partitioned Saliency Ranking with Dense Pyramid Transformers**|Chengxiao Sun et.al.|[2308.00236v1](http://arxiv.org/abs/2308.00236v1)|**[link](https://github.com/ssecv/psr)**|
+|**2023-08-01**|**Wakey-Wakey: Animate Text by Mimicking Characters in a GIF**|Liwenhan Xie et.al.|[2308.00224v1](http://arxiv.org/abs/2308.00224v1)|null|
+|**2023-07-31**|**Performance Evaluation of Swin Vision Transformer Model using Gradient Accumulation Optimization Technique**|Sanad Aburass et.al.|[2308.00197v1](http://arxiv.org/abs/2308.00197v1)|null|
+|**2023-07-31**|**Quantum simulation of Pauli channels and dynamical maps: algorithm and implementation**|Tomas Basile et.al.|[2308.00188v1](http://arxiv.org/abs/2308.00188v1)|null|
+|**2023-07-31**|**What's Logs Got to do With it: On the Perils of log Dependent Variables and Difference-in-Differences**|Brendon McConnell et.al.|[2308.00167v1](http://arxiv.org/abs/2308.00167v1)|null|
+|**2023-07-31**|**Classical stochastic representation of quantum mechanics**|Mário j. de Oliveira et.al.|[2308.00151v1](http://arxiv.org/abs/2308.00151v1)|null|
+|**2023-07-31**|**Ensemble Learning with Residual Transformer for Brain Tumor Segmentation**|Lanhong Yao et.al.|[2308.00128v1](http://arxiv.org/abs/2308.00128v1)|null|
+|**2023-07-31**|**The Basis Invariant Flavor Puzzle**|Miguel P. Bento et.al.|[2308.00019v1](http://arxiv.org/abs/2308.00019v1)|null|
 |**2023-07-31**|**Conformal PID Control for Time Series Prediction**|Anastasios N. Angelopoulos et.al.|[2307.16895v1](http://arxiv.org/abs/2307.16895v1)|**[link](https://github.com/aangelopoulos/conformal-time-series)**|
 |**2023-07-31**|**A reduced order model for geometrically parameterized two-scale simulations of elasto-plastic microstructures under large deformations**|Theron Guo et.al.|[2307.16894v1](http://arxiv.org/abs/2307.16894v1)|null|
 |**2023-07-31**|**HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution**|Ehsan Kamalloo et.al.|[2307.16883v1](http://arxiv.org/abs/2307.16883v1)|**[link](https://github.com/project-miracl/hagrid)**|
