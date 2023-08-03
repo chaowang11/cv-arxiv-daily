@@ -813,6 +813,38 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Masked and Swapped Sequence Modeling for Next Novel Basket Recommendation in Grocery Shopping**|Ming Li et.al.|[2308.01308v1](http://arxiv.org/abs/2308.01308v1)|**[link](https://github.com/liming-7/mask-swap-nnbr)**|
+|**2023-08-02**|**Revisiting DETR Pre-training for Object Detection**|Yan Ma et.al.|[2308.01300v1](http://arxiv.org/abs/2308.01300v1)|null|
+|**2023-08-02**|**Moment tracking and their coordinate transformations for macroparticles with an application to plasmas around black holes**|Alexander Warwick et.al.|[2308.01276v1](http://arxiv.org/abs/2308.01276v1)|null|
+|**2023-08-02**|**Unified Entropy-Ruled Einstein Relation for Bulk and Low-Dimensional Systems: A Hopping to Band Shift Analysis**|K. Navamani et.al.|[2308.01275v1](http://arxiv.org/abs/2308.01275v1)|null|
+|**2023-08-02**|**CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion**|Fenghe Tang et.al.|[2308.01239v1](http://arxiv.org/abs/2308.01239v1)|**[link](https://github.com/fenghetan9/cmunext)**|
+|**2023-08-02**|**Grounded Image Text Matching with Mismatched Relation Reasoning**|Yu Wu et.al.|[2308.01236v1](http://arxiv.org/abs/2308.01236v1)|null|
+|**2023-08-02**|**Bogoliubov Transformation and Schrodinger Representation on Curved Space**|Musfar Muhamed Kozhikkal et.al.|[2308.01190v1](http://arxiv.org/abs/2308.01190v1)|null|
+|**2023-08-02**|**UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation**|Qingsong Xu et.al.|[2308.01146v1](http://arxiv.org/abs/2308.01146v1)|**[link](https://github.com/zhu-xlab/ucdformer)**|
+|**2023-08-02**|**Some notes on the trapezoidal rule for Fourier type integrals**|Eleonora Denich et.al.|[2308.01124v1](http://arxiv.org/abs/2308.01124v1)|null|
+|**2023-08-02**|**Accelerated Benders Decomposition for Variable-Height Transport Packaging Optimisation**|Alain Lehmann et.al.|[2308.01104v1](http://arxiv.org/abs/2308.01104v1)|null|
+|**2023-08-02**|**Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction**|Muhammad U. Mirza et.al.|[2308.01096v1](http://arxiv.org/abs/2308.01096v1)|null|
+|**2023-08-02**|**Homography Estimation in Complex Topological Scenes**|Giacomo D'Amicantonio et.al.|[2308.01086v1](http://arxiv.org/abs/2308.01086v1)|null|
+|**2023-08-02**|**Data-Driven Identification of Quadratic Symplectic Representations of Nonlinear Hamiltonian Systems**|Süleyman Yildiz et.al.|[2308.01084v1](http://arxiv.org/abs/2308.01084v1)|null|
+|**2023-08-02**|**Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation**|Quan Tang et.al.|[2308.01045v1](http://arxiv.org/abs/2308.01045v1)|null|
+|**2023-08-02**|**WCCNet: Wavelet-integrated CNN with Crossmodal Rearranging Fusion for Fast Multispectral Pedestrian Detection**|Xingjian Wang et.al.|[2308.01042v1](http://arxiv.org/abs/2308.01042v1)|null|
+|**2023-08-02**|**Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Tim**|Xinfeng Li et.al.|[2308.01040v1](http://arxiv.org/abs/2308.01040v1)|null|
+|**2023-08-02**|**FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving**|Tengju Ye et.al.|[2308.01006v1](http://arxiv.org/abs/2308.01006v1)|**[link](https://github.com/westlake-autolab/fusionad)**|
+|**2023-08-02**|**Transform-Limited Photon Emission From a Lead-Vacancy Center in Diamond Above 10 K**|Peng Wang et.al.|[2308.00995v1](http://arxiv.org/abs/2308.00995v1)|null|
+|**2023-08-02**|**Contact formalism for dissipative mechanical systems on Lie algebroids**|Alexandre Anahory Simoes et.al.|[2308.00990v1](http://arxiv.org/abs/2308.00990v1)|null|
+|**2023-08-02**|**From Sparse to Soft Mixtures of Experts**|Joan Puigcerver et.al.|[2308.00951v1](http://arxiv.org/abs/2308.00951v1)|null|
+|**2023-08-02**|**Training-Free Instance Segmentation from Semantic Image Segmentation Masks**|Yuchen Shen et.al.|[2308.00949v1](http://arxiv.org/abs/2308.00949v1)|**[link](https://github.com/ssyc123/tfiseg)**|
+|**2023-08-02**|**Rigidity of Schouten Tensor under Conformal Deformation**|Mijia Lai et.al.|[2308.00948v1](http://arxiv.org/abs/2308.00948v1)|null|
+|**2023-08-02**|**Continual Domain Adaptation on Aerial Images under Gradually Degrading Weather**|Chowdhury Sadman Jahan et.al.|[2308.00924v1](http://arxiv.org/abs/2308.00924v1)|**[link](https://github.com/sadman-jahan/aid-ucm-degradingweather)**|
+|**2023-08-02**|**Virtual histological staining of unlabeled autopsy tissue**|Yuzhu Li et.al.|[2308.00920v1](http://arxiv.org/abs/2308.00920v1)|null|
+|**2023-08-02**|**ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation**|Yasheng Sun et.al.|[2308.00906v1](http://arxiv.org/abs/2308.00906v1)|null|
+|**2023-08-02**|**Higgs Inflation with a Gauss-Bonnet term**|Seoktae Koh et.al.|[2308.00897v1](http://arxiv.org/abs/2308.00897v1)|null|
+|**2023-08-01**|**Single-Qubit Gates Matter for Optimising Quantum Circuit Depth in Qubit Mapping**|Sanjiang Li et.al.|[2308.00876v1](http://arxiv.org/abs/2308.00876v1)|null|
+|**2023-08-01**|**Training on Foveated Images Improves Robustness to Adversarial Attacks**|Muhammad A. Shah et.al.|[2308.00854v1](http://arxiv.org/abs/2308.00854v1)|null|
+|**2023-08-01**|**Weak localization in radiative transfer of acoustic waves in a randomly-fluctuating slab**|Adel Messaoudi et.al.|[2308.00822v1](http://arxiv.org/abs/2308.00822v1)|null|
+|**2023-08-02**|**Gravitationally induced matter creation and cosmological consequences**|Trishit Banerjee et.al.|[2308.00804v1](http://arxiv.org/abs/2308.00804v1)|null|
+|**2023-08-01**|**High-Fidelity Eye Animatable Neural Radiance Fields for Human Face**|Hengfei Wang et.al.|[2308.00773v1](http://arxiv.org/abs/2308.00773v1)|null|
+|**2023-08-01**|**ELFNet: Evidential Local-global Fusion for Stereo Matching**|Jieming Lou et.al.|[2308.00728v1](http://arxiv.org/abs/2308.00728v1)|**[link](https://github.com/jimmy19991222/elfnet)**|
 |**2023-08-01**|**Harnessing the Power of Sample Abundance: Theoretical Guarantees and Algorithms for Accelerated One-Bit Sensing**|Arian Eamaz et.al.|[2308.00695v1](http://arxiv.org/abs/2308.00695v1)|null|
 |**2023-08-01**|**CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code**|Nadezhda Chirkova et.al.|[2308.00683v1](http://arxiv.org/abs/2308.00683v1)|null|
 |**2023-08-01**|**A Platform for Far-Infrared Spectroscopy of Quantum Materials at Millikelvin Temperatures**|Michael Onyszczak et.al.|[2308.00610v1](http://arxiv.org/abs/2308.00610v1)|null|
@@ -8071,6 +8103,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation**|Yasheng Sun et.al.|[2308.00906v1](http://arxiv.org/abs/2308.00906v1)|null|
 |**2023-07-17**|**Deficiency-Aware Masked Transformer for Video Inpainting**|Yongsheng Yu et.al.|[2307.08629v1](http://arxiv.org/abs/2307.08629v1)|**[link](https://github.com/yeates/dmt)**|
 |**2023-06-16**|**A New Low-Rank Learning Robust Quaternion Tensor Completion Method for Color Video Inpainting Problem and Fast Algorithms**|Zhigang Jia et.al.|[2306.09652v1](http://arxiv.org/abs/2306.09652v1)|null|
 |**2023-05-25**|**Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos**|Matthew Chang et.al.|[2305.16301v1](http://arxiv.org/abs/2305.16301v1)|null|
