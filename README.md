@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**PoissonNet: Resolution-Agnostic 3D Shape Reconstruction using Fourier Neural Operators**|Hector Andrade-Loarca et.al.|[2308.01766v1](http://arxiv.org/abs/2308.01766v1)|**[link](https://github.com/arsenal9971/poissonnet)**|
+|**2023-08-03**|**Super-Resolution Estimation of UWB Channels including the Diffuse Component -- An SBL-Inspired Approach**|Stefan Grebien et.al.|[2308.01702v1](http://arxiv.org/abs/2308.01702v1)|null|
+|**2023-08-03**|**Efficient neural supersampling on a novel gaming dataset**|Antoine Mercier et.al.|[2308.01483v1](http://arxiv.org/abs/2308.01483v1)|null|
 |**2023-07-31**|**Lightweight Super-Resolution Head for Human Pose Estimation**|Haonan Wang et.al.|[2307.16765v1](http://arxiv.org/abs/2307.16765v1)|**[link](https://github.com/haonanwang0522/srpose)**|
 |**2023-07-31**|**HiREN: Towards Higher Supervision Quality for Better Scene Text Image Super-Resolution**|Minyi Zhao et.al.|[2307.16410v1](http://arxiv.org/abs/2307.16410v1)|null|
 |**2023-07-30**|**StarSRGAN: Improving Real-World Blind Super-Resolution**|Khoa D. Vo et.al.|[2307.16169v1](http://arxiv.org/abs/2307.16169v1)|**[link](https://github.com/kynthesis/StarSRGAN)**|
@@ -813,6 +816,34 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**How many preprints have actually been printed and why: a case study of computer science preprints on arXiv**|Jialiang Lin et.al.|[2308.01899v1](http://arxiv.org/abs/2308.01899v1)|null|
+|**2023-08-03**|**The Electronic and Electromagnetic Dirac Equations**|Mingjie Li et.al.|[2308.01869v1](http://arxiv.org/abs/2308.01869v1)|null|
+|**2023-08-03**|**URET: Universal Robustness Evaluation Toolkit (for Evasion)**|Kevin Eykholt et.al.|[2308.01840v1](http://arxiv.org/abs/2308.01840v1)|null|
+|**2023-08-03**|**Strictly subgaussian probability distributions**|S. G. Bobkov et.al.|[2308.01749v1](http://arxiv.org/abs/2308.01749v1)|null|
+|**2023-08-03**|**A new 2D limit of general relativity**|Christian G. Boehmer et.al.|[2308.01728v1](http://arxiv.org/abs/2308.01728v1)|null|
+|**2023-08-03**|**The Data Movement Bottleneck: Theoretical Shortcomings of Analog Optical Fourier Transform and Convolution Computing Accelerators**|James T. Meech et.al.|[2308.01719v1](http://arxiv.org/abs/2308.01719v1)|null|
+|**2023-08-03**|**Deep Koopman Operator-based degradation modelling**|Sergei Garmaev et.al.|[2308.01690v1](http://arxiv.org/abs/2308.01690v1)|null|
+|**2023-08-03**|**Baby's CoThought: Leveraging Large Language Models for Enhanced Reasoning in Compact Models**|Zheyu Zhang et.al.|[2308.01684v1](http://arxiv.org/abs/2308.01684v1)|**[link](https://github.com/oooranz/baby-cothought)**|
+|**2023-08-03**|**NBIAS: A Natural Language Processing Framework for Bias Identification in Text**|Shaina Razaa et.al.|[2308.01681v1](http://arxiv.org/abs/2308.01681v1)|null|
+|**2023-08-03**|**Density-Based Semantics for Reactive Probabilistic Programming**|Guillaume Baudart et.al.|[2308.01676v1](http://arxiv.org/abs/2308.01676v1)|null|
+|**2023-08-03**|**Versatile Time-Frequency Representations Realized by Convex Penalty on Magnitude Spectrogram**|Keidai Arai et.al.|[2308.01665v1](http://arxiv.org/abs/2308.01665v1)|null|
+|**2023-08-03**|**UniG-Encoder: A Universal Feature Encoder for Graph and Hypergraph Node Classification**|Minhao Zou et.al.|[2308.01650v1](http://arxiv.org/abs/2308.01650v1)|**[link](https://github.com/minhzou/unig-encoder)**|
+|**2023-08-03**|**Disentangling Multi-view Representations Beyond Inductive Bias**|Guanzhou Ke et.al.|[2308.01634v1](http://arxiv.org/abs/2308.01634v1)|**[link](https://github.com/guanzhou-ke/dmrib)**|
+|**2023-08-03**|**ReIDTrack: Multi-Object Track and Segmentation Without Motion**|Kaer Huang et.al.|[2308.01622v1](http://arxiv.org/abs/2308.01622v1)|null|
+|**2023-08-03**|**MVFlow: Deep Optical Flow Estimation of Compressed Videos with Motion Vector Prior**|Shili Zhou et.al.|[2308.01568v1](http://arxiv.org/abs/2308.01568v1)|null|
+|**2023-08-03**|**Mani-GPT: A Generative Model for Interactive Robotic Manipulation**|Zhe Zhang et.al.|[2308.01555v1](http://arxiv.org/abs/2308.01555v1)|null|
+|**2023-08-03**|**Targeted Control-flow Transformations for Mitigating Path Explosion in Dynamic Symbolic Execution**|Charitha Saumya et.al.|[2308.01554v1](http://arxiv.org/abs/2308.01554v1)|null|
+|**2023-08-03**|**Multimodal Neurons in Pretrained Text-Only Transformers**|Sarah Schwettmann et.al.|[2308.01544v1](http://arxiv.org/abs/2308.01544v1)|null|
+|**2023-08-03**|**MFIM: Megapixel Facial Identity Manipulation**|Sanghyeon Na et.al.|[2308.01536v1](http://arxiv.org/abs/2308.01536v1)|null|
+|**2023-08-03**|**Data Augmentation for Human Behavior Analysis in Multi-Person Conversations**|Kun Li et.al.|[2308.01526v1](http://arxiv.org/abs/2308.01526v1)|null|
+|**2023-08-03**|**Generalized Quantum Signal Processing**|Danial Motlagh et.al.|[2308.01501v1](http://arxiv.org/abs/2308.01501v1)|null|
+|**2023-08-03**|**Target-point Attention Transformer: A novel trajectory predict network for end-to-end autonomous driving**|Jingyu Du et.al.|[2308.01496v1](http://arxiv.org/abs/2308.01496v1)|null|
+|**2023-08-02**|**Novel Physics-Based Machine-Learning Models for Indoor Air Quality Approximations**|Ahmad Mohammadshirazi et.al.|[2308.01438v1](http://arxiv.org/abs/2308.01438v1)|null|
+|**2023-08-02**|**UPB at IberLEF-2023 AuTexTification: Detection of Machine-Generated Text using Transformer Ensembles**|Andrei-Alexandru Preda et.al.|[2308.01408v1](http://arxiv.org/abs/2308.01408v1)|null|
+|**2023-08-02**|**A formula and sharp estimates for the Dunkl kernel for the root system  $A_2$ **|P. Graczyk et.al.|[2308.01388v1](http://arxiv.org/abs/2308.01388v1)|null|
+|**2023-08-02**|**EmbeddingTree: Hierarchical Exploration of Entity Features in Embedding**|Yan Zheng et.al.|[2308.01329v1](http://arxiv.org/abs/2308.01329v1)|null|
+|**2023-08-02**|**A vision transformer-based framework for knowledge transfer from multi-modal to mono-modal lymphoma subtyping models**|Bilel Guetarni et.al.|[2308.01328v1](http://arxiv.org/abs/2308.01328v1)|null|
+|**2023-08-02**|**Permissible domain walls in monoclinic MAB ferroelectric phases**|Ido Biran et.al.|[2308.01324v1](http://arxiv.org/abs/2308.01324v1)|null|
 |**2023-08-02**|**Masked and Swapped Sequence Modeling for Next Novel Basket Recommendation in Grocery Shopping**|Ming Li et.al.|[2308.01308v1](http://arxiv.org/abs/2308.01308v1)|**[link](https://github.com/liming-7/mask-swap-nnbr)**|
 |**2023-08-02**|**Revisiting DETR Pre-training for Object Detection**|Yan Ma et.al.|[2308.01300v1](http://arxiv.org/abs/2308.01300v1)|null|
 |**2023-08-02**|**Moment tracking and their coordinate transformations for macroparticles with an application to plasmas around black holes**|Alexander Warwick et.al.|[2308.01276v1](http://arxiv.org/abs/2308.01276v1)|null|
@@ -7975,6 +8006,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Erase and Repair: An Efficient Box-Free Removal Attack on High-Capacity Deep Hiding**|Hangcheng Liu et.al.|[2308.01512v1](http://arxiv.org/abs/2308.01512v1)|null|
 |**2023-08-01**|**Seeing Behind Dynamic Occlusions with Event Cameras**|Rong Zou et.al.|[2307.15829v2](http://arxiv.org/abs/2307.15829v2)|null|
 |**2023-07-26**|**SuperInpaint: Learning Detail-Enhanced Attentional Implicit Representation for Super-resolutional Image Inpainting**|Canyu Zhang et.al.|[2307.14489v1](http://arxiv.org/abs/2307.14489v1)|null|
 |**2023-08-01**|**Phenotype-preserving metric design for high-content image reconstruction by generative inpainting**|Vaibhav Sharma et.al.|[2307.14436v2](http://arxiv.org/abs/2307.14436v2)|null|
