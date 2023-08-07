@@ -70,7 +70,7 @@
 |**2023-07-06**|**Multi-source imagery fusion using deep learning in a cloud computing platform**|Carlos Theran et.al.|[2307.03054v1](http://arxiv.org/abs/2307.03054v1)|null|
 |**2023-07-06**|**Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution**|Yuting Lu et.al.|[2307.02974v1](http://arxiv.org/abs/2307.02974v1)|null|
 |**2023-07-06**|**RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution**|Han Zou et.al.|[2307.02897v1](http://arxiv.org/abs/2307.02897v1)|null|
-|**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457v1](http://arxiv.org/abs/2307.02457v1)|null|
+|**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457v1](http://arxiv.org/abs/2307.02457v1)|**[link](https://github.com/tencentarc/desra)**|
 |**2023-07-10**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334v3](http://arxiv.org/abs/2307.02334v3)|**[link](https://github.com/jmzhang79/dual-arbnet)**|
 |**2023-07-05**|**Source Identification: A Self-Supervision Task for Dense Prediction**|Shuai Chen et.al.|[2307.02238v1](http://arxiv.org/abs/2307.02238v1)|null|
 |**2023-07-24**|**Compound Attention and Neighbor Matching Network for Multi-contrast MRI Super-resolution**|Wenxuan Chen et.al.|[2307.02148v2](http://arxiv.org/abs/2307.02148v2)|null|
@@ -504,7 +504,7 @@
 |**2023-07-14**|**MaxSR: Image Super-Resolution Using Improved MaxViT**|Bincheng Yang et.al.|[2307.07240v1](http://arxiv.org/abs/2307.07240v1)|null|
 |**2023-07-10**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian B. Moser et.al.|[2307.04593v1](http://arxiv.org/abs/2307.04593v1)|null|
 |**2023-07-06**|**Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution**|Yuting Lu et.al.|[2307.02974v1](http://arxiv.org/abs/2307.02974v1)|null|
-|**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457v1](http://arxiv.org/abs/2307.02457v1)|null|
+|**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457v1](http://arxiv.org/abs/2307.02457v1)|**[link](https://github.com/tencentarc/desra)**|
 |**2023-07-24**|**Compound Attention and Neighbor Matching Network for Multi-contrast MRI Super-resolution**|Wenxuan Chen et.al.|[2307.02148v2](http://arxiv.org/abs/2307.02148v2)|null|
 |**2023-07-04**|**Spatio-Temporal Perception-Distortion Trade-off in Learned Video SR**|Nasrin Rahimi et.al.|[2307.01556v1](http://arxiv.org/abs/2307.01556v1)|**[link](https://github.com/kuis-ai-tekalp-research-group/perceptual-vsr)**|
 |**2023-07-03**|**ACDMSR: Accelerated Conditional Diffusion Models for Single Image Super-Resolution**|Axi Niu et.al.|[2307.00781v1](http://arxiv.org/abs/2307.00781v1)|null|
@@ -816,6 +816,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-04**|**Compact Bloch mappings on the complex unit disc**|A. Jiménez-Vargas et.al.|[2308.02461v1](http://arxiv.org/abs/2308.02461v1)|null|
+|**2023-08-04**|**Applications of Laguerre transform to solve Schrödinger-type equations and Differential Equations of order four**|Gabriel López Garza et.al.|[2308.02428v1](http://arxiv.org/abs/2308.02428v1)|null|
+|**2023-08-03**|**Multimodal Indoor Localisation in Parkinson's Disease for Detecting Medication Use: Observational Pilot Study in a Free-Living Setting**|Ferdian Jovan et.al.|[2308.02419v1](http://arxiv.org/abs/2308.02419v1)|null|
+|**2023-08-04**|**A Bi-variant Variational Model for Diffeomorphic Image Registration with Relaxed Jacobian Determinant Constraints**|Yanyan Li et.al.|[2308.02393v1](http://arxiv.org/abs/2308.02393v1)|null|
+|**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387v1](http://arxiv.org/abs/2308.02387v1)|null|
+|**2023-08-04**|**Monodromy of the Radon transform**|Meirav Amram et.al.|[2308.02379v1](http://arxiv.org/abs/2308.02379v1)|null|
+|**2023-08-04**|**Non-standard Sobolev scales and the mapping properties of the X-ray transform on manifolds with strictly convex boundary**|François Monard et.al.|[2308.02367v1](http://arxiv.org/abs/2308.02367v1)|null|
+|**2023-08-04**|**A Parameter-efficient Multi-subject Model for Predicting fMRI Activity**|Connor Lane et.al.|[2308.02351v1](http://arxiv.org/abs/2308.02351v1)|null|
+|**2023-08-04**|**Efficient Spectrum Sharing Between Coexisting OFDM Radar and Downlink Multiuser Communication Systems**|Jia Zhu et.al.|[2308.02298v1](http://arxiv.org/abs/2308.02298v1)|null|
+|**2023-08-04**|**Blessing of High-Order Dimensionality: from Non-Convex to Convex Optimization for Sensor Network Localization**|Mingyu Lei et.al.|[2308.02278v1](http://arxiv.org/abs/2308.02278v1)|null|
+|**2023-08-04**|**Efficient Monaural Speech Enhancement using Spectrum Attention Fusion**|Jinyu Long et.al.|[2308.02263v1](http://arxiv.org/abs/2308.02263v1)|null|
+|**2023-08-04**|**Measurement incompatibility cannot be stochastically distilled**|Huan-Yu Ku et.al.|[2308.02252v1](http://arxiv.org/abs/2308.02252v1)|null|
+|**2023-08-04**|**FB-BEV: BEV Representation from Forward-Backward View Transformations**|Zhiqi Li et.al.|[2308.02236v1](http://arxiv.org/abs/2308.02236v1)|null|
+|**2023-08-04**|**A priori estimates for higher-order fractional Laplace equations**|Yugao Ouyang et.al.|[2308.02229v1](http://arxiv.org/abs/2308.02229v1)|null|
+|**2023-08-04**|**Scene-aware Human Pose Generation using Transformer**|Jieteng Yao et.al.|[2308.02177v1](http://arxiv.org/abs/2308.02177v1)|null|
+|**2023-08-04**|**Transformer-Based Denoising of Mechanical Vibration Signals**|Han Chen et.al.|[2308.02166v1](http://arxiv.org/abs/2308.02166v1)|null|
+|**2023-08-04**|**M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition**|Jiyong Moon et.al.|[2308.02161v1](http://arxiv.org/abs/2308.02161v1)|null|
+|**2023-08-04**|**Floquet systems with continuous dynamical symmetries: characterization, time-dependent Noether charge, and integrability**|Yukio Kaneko et.al.|[2308.02143v1](http://arxiv.org/abs/2308.02143v1)|null|
+|**2023-08-04**|**Inexpensive Benchtop Soft Photolithography Technique for Microfluidics and Other Applications**|Habilou Ouro-Koura et.al.|[2308.02141v1](http://arxiv.org/abs/2308.02141v1)|null|
+|**2023-08-04**|**Semantics-guided Transformer-based Sensor Fusion for Improved Waypoint Prediction**|Hwan-Soo Choi et.al.|[2308.02126v1](http://arxiv.org/abs/2308.02126v1)|null|
+|**2023-08-04**|**Breast Ultrasound Tumor Classification Using a Hybrid Multitask CNN-Transformer Network**|Bryar Shareef et.al.|[2308.02101v1](http://arxiv.org/abs/2308.02101v1)|null|
+|**2023-08-03**|**Classical derivation of Bose-Einstein statistics**|Paul Tangney et.al.|[2308.02069v1](http://arxiv.org/abs/2308.02069v1)|null|
+|**2023-08-03**|**Instantons on multi-Taub-NUT Spaces III: Down Transform, Completeness, and Isometry**|Sergey A. Cherkis et.al.|[2308.02048v1](http://arxiv.org/abs/2308.02048v1)|null|
+|**2023-08-03**|**Quantifying Roman WFI Dark Images with the Wavelet Scattering Transform**|Phani Datta Velicheti et.al.|[2308.02028v1](http://arxiv.org/abs/2308.02028v1)|null|
+|**2023-08-03**|**A Compact Model of Threshold Switching Devices for Efficient Circuit Simulations**|Mohamad Moner Al Chawa et.al.|[2308.02017v1](http://arxiv.org/abs/2308.02017v1)|null|
+|**2023-08-03**|**Unconventional Metallic Magnetism: Non-analyticity and Sign-changing Behavior of Orbital Magnetization in ABC Trilayer Graphene**|Mainak Das et.al.|[2308.01996v1](http://arxiv.org/abs/2308.01996v1)|null|
+|**2023-08-03**|**Explainable unsupervised multi-modal image registration using deep networks**|Chengjia Wang et.al.|[2308.01994v1](http://arxiv.org/abs/2308.01994v1)|null|
+|**2023-08-03**|**Bengali Fake Reviews: A Benchmark Dataset and Detection System**|G. M. Shahariar et.al.|[2308.01987v1](http://arxiv.org/abs/2308.01987v1)|null|
+|**2023-08-03**|**Relative K-homology of higher-order differential operators**|Magnus Fries et.al.|[2308.01977v1](http://arxiv.org/abs/2308.01977v1)|null|
+|**2023-08-03**|**A Multidimensional Analysis of Social Biases in Vision Transformers**|Jannik Brinkmann et.al.|[2308.01948v1](http://arxiv.org/abs/2308.01948v1)|null|
+|**2023-08-03**|**Experimental Results regarding multiple Machine Learning via Quaternions**|Tianlei Zhu et.al.|[2308.01946v1](http://arxiv.org/abs/2308.01946v1)|null|
+|**2023-08-03**|**Dynamic Token-Pass Transformers for Semantic Segmentation**|Yuang Liu et.al.|[2308.01944v1](http://arxiv.org/abs/2308.01944v1)|null|
+|**2023-08-03**|**Beyond Kitaev physics in strong spin-orbit coupled magnets**|Ioannis Rousochatzakis et.al.|[2308.01943v1](http://arxiv.org/abs/2308.01943v1)|null|
 |**2023-08-03**|**How many preprints have actually been printed and why: a case study of computer science preprints on arXiv**|Jialiang Lin et.al.|[2308.01899v1](http://arxiv.org/abs/2308.01899v1)|null|
 |**2023-08-03**|**The Electronic and Electromagnetic Dirac Equations**|Mingjie Li et.al.|[2308.01869v1](http://arxiv.org/abs/2308.01869v1)|null|
 |**2023-08-03**|**URET: Universal Robustness Evaluation Toolkit (for Evasion)**|Kevin Eykholt et.al.|[2308.01840v1](http://arxiv.org/abs/2308.01840v1)|**[link](https://github.com/ibm/uret)**|
