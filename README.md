@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Friedrichs' systems discretized with the Discontinuous Galerkin method: domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions**|Francesco Romor et.al.|[2308.03378v1](http://arxiv.org/abs/2308.03378v1)|null|
+|**2023-08-07**|**Dual Aggregation Transformer for Image Super-Resolution**|Zheng Chen et.al.|[2308.03364v1](http://arxiv.org/abs/2308.03364v1)|**[link](https://github.com/zhengchen1999/dat)**|
+|**2023-08-07**|**A Theory of Evidence Lower Bound and Its Application to Super-Resolution Data Assimilation (SRDA) Using Conditional Variational Autoencoders**|Yuki Yasuda et.al.|[2308.03351v1](http://arxiv.org/abs/2308.03351v1)|null|
+|**2023-08-07**|**A Benchmark for Chinese-English Scene Text Image Super-resolution**|Jianqi Ma et.al.|[2308.03262v1](http://arxiv.org/abs/2308.03262v1)|**[link](https://github.com/mjq11302010044/real-ce)**|
+|**2023-08-06**|**NNVISR: Bring Neural Network Video Interpolation and Super Resolution into Video Processing Framework**|Yuan Tong et.al.|[2308.03121v1](http://arxiv.org/abs/2308.03121v1)|**[link](https://github.com/tongyuantongyu/vs-nnvisr)**|
+|**2023-08-06**|**All-in-one Multi-degradation Image Restoration Network via Hierarchical Degradation Representation**|Cheng Zhang et.al.|[2308.03021v1](http://arxiv.org/abs/2308.03021v1)|null|
+|**2023-08-06**|**High-Resolution Vision Transformers for Pixel-Level Identification of Structural Components and Damage**|Kareem Eltouny et.al.|[2308.03006v1](http://arxiv.org/abs/2308.03006v1)|null|
+|**2023-08-05**|**DiffDance: Cascaded Human Motion Diffusion Model for Dance Generation**|Qiaosong Qi et.al.|[2308.02915v1](http://arxiv.org/abs/2308.02915v1)|null|
+|**2023-08-05**|**Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution**|Yong Liu et.al.|[2308.02794v1](http://arxiv.org/abs/2308.02794v1)|**[link](https://github.com/yongliuy/ditn)**|
+|**2023-08-05**|**One-stage Low-resolution Text Recognition with High-resolution Knowledge Transfer**|Hang Guo et.al.|[2308.02770v1](http://arxiv.org/abs/2308.02770v1)|**[link](https://github.com/csguoh/kd-ltr)**|
 |**2023-08-04**|**PoissonNet: Resolution-Agnostic 3D Shape Reconstruction using Fourier Neural Operators**|Hector Andrade-Loarca et.al.|[2308.01766v2](http://arxiv.org/abs/2308.01766v2)|**[link](https://github.com/arsenal9971/poissonnet)**|
 |**2023-08-03**|**Super-Resolution Estimation of UWB Channels including the Diffuse Component -- An SBL-Inspired Approach**|Stefan Grebien et.al.|[2308.01702v1](http://arxiv.org/abs/2308.01702v1)|null|
 |**2023-08-03**|**Efficient neural supersampling on a novel gaming dataset**|Antoine Mercier et.al.|[2308.01483v1](http://arxiv.org/abs/2308.01483v1)|null|
@@ -486,6 +496,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Dual Aggregation Transformer for Image Super-Resolution**|Zheng Chen et.al.|[2308.03364v1](http://arxiv.org/abs/2308.03364v1)|**[link](https://github.com/zhengchen1999/dat)**|
+|**2023-08-07**|**A Benchmark for Chinese-English Scene Text Image Super-resolution**|Jianqi Ma et.al.|[2308.03262v1](http://arxiv.org/abs/2308.03262v1)|**[link](https://github.com/mjq11302010044/real-ce)**|
+|**2023-08-05**|**Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution**|Yong Liu et.al.|[2308.02794v1](http://arxiv.org/abs/2308.02794v1)|**[link](https://github.com/yongliuy/ditn)**|
 |**2023-07-31**|**HiREN: Towards Higher Supervision Quality for Better Scene Text Image Super-Resolution**|Minyi Zhao et.al.|[2307.16410v1](http://arxiv.org/abs/2307.16410v1)|null|
 |**2023-07-30**|**Fully  $1\times1$  Convolutional Network for Lightweight Image Super-Resolution**|Gang Wu et.al.|[2307.16140v1](http://arxiv.org/abs/2307.16140v1)|**[link](https://github.com/aitical/scnet)**|
 |**2023-07-26**|**ESSAformer: Efficient Transformer for Hyperspectral Image Super-resolution**|Mingjin Zhang et.al.|[2307.14010v1](http://arxiv.org/abs/2307.14010v1)|null|
@@ -520,7 +533,7 @@
 |**2023-06-11**|**TransMRSR: Transformer-based Self-Distilled Generative Prior for Brain MRI Super-Resolution**|Shan Huang et.al.|[2306.06669v1](http://arxiv.org/abs/2306.06669v1)|**[link](https://github.com/goddesshs/transmrsr)**|
 |**2023-06-13**|**Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration**|Kechun Liu et.al.|[2306.06513v2](http://arxiv.org/abs/2306.06513v2)|null|
 |**2023-06-06**|**A Unified Framework to Super-Resolve Face Images of Varied Low Resolutions**|Qiuyu Peng et.al.|[2306.03380v1](http://arxiv.org/abs/2306.03380v1)|null|
-|**2023-06-04**|**ESTISR: Adapting Efficient Scene Text Image Super-resolution for Real-Scenes**|Minghao Fu et.al.|[2306.02443v1](http://arxiv.org/abs/2306.02443v1)|null|
+|**2023-06-04**|**ESTISR: Adapting Efficient Scene Text Image Super-resolution for Real-Scenes**|Minghao Fu et.al.|[2306.02443v1](http://arxiv.org/abs/2306.02443v1)|**[link](https://github.com/MinghaoFu/ESTISR)**|
 |**2023-06-04**|**Scale Guided Hypernetwork for Blind Super-Resolution Image Quality Assessment**|Jun Fu et.al.|[2306.02398v1](http://arxiv.org/abs/2306.02398v1)|**[link](https://github.com/junfu1995/sgh)**|
 |**2023-06-04**|**EfficientSRFace: An Efficient Network with Super-Resolution Enhancement for Accurate Face Detection**|Guangtao Wang et.al.|[2306.02277v1](http://arxiv.org/abs/2306.02277v1)|null|
 |**2023-06-02**|**A Feature Reuse Framework with Texture-adaptive Aggregation for Reference-based Super-Resolution**|Xiaoyong Mei et.al.|[2306.01500v1](http://arxiv.org/abs/2306.01500v1)|**[link](https://github.com/yi-yang355/frfsr)**|
@@ -816,6 +829,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**What about translation? New coding system for content analysis on the perception of literary translation around the political transformation in 1989 in Hungary as a classification problem on an unbalanced dataset**|Dalma Galambos et.al.|[2308.03742v1](http://arxiv.org/abs/2308.03742v1)|null|
+|**2023-08-07**|**GRN-Transformer: Enhancing Motion Artifact Detection in PICU Photoplethysmogram Signals**|Thanh-Dung Le et.al.|[2308.03722v1](http://arxiv.org/abs/2308.03722v1)|null|
+|**2023-08-07**|**Modified particle lifetimes as a signature of deformed relativity**|Pedro H. Morais et.al.|[2308.03716v1](http://arxiv.org/abs/2308.03716v1)|null|
+|**2023-08-07**|**Communication-Efficient Framework for Distributed Image Semantic Wireless Transmission**|Bingyan Xie et.al.|[2308.03713v1](http://arxiv.org/abs/2308.03713v1)|null|
+|**2023-08-07**|**Scaling may be all you need for achieving human-level object recognition capacity with human-like visual experience**|A. Emin Orhan et.al.|[2308.03712v1](http://arxiv.org/abs/2308.03712v1)|**[link](https://github.com/eminorhan/humanlike-vits)**|
+|**2023-08-07**|**Point selections from Jordan domains in Riemannian Surfaces**|Igor Belegradek et.al.|[2308.03697v1](http://arxiv.org/abs/2308.03697v1)|null|
+|**2023-08-07**|**Improving FHB Screening in Wheat Breeding Using an Efficient Transformer Model**|Babak Azad et.al.|[2308.03670v1](http://arxiv.org/abs/2308.03670v1)|null|
+|**2023-08-07**|**Detecting Spells in Fantasy Literature with a Transformer Based Artificial Intelligence**|Marcel Moravek et.al.|[2308.03660v1](http://arxiv.org/abs/2308.03660v1)|null|
+|**2023-08-07**|**Sensing-Communication-Computing-Control Closed Loop for Unmanned Space Exploration**|Xinran Fang et.al.|[2308.03658v1](http://arxiv.org/abs/2308.03658v1)|null|
+|**2023-08-07**|**Lossless preprocessing of floating point data to enhance compression**|Francesco Taurone et.al.|[2308.03623v1](http://arxiv.org/abs/2308.03623v1)|null|
+|**2023-08-07**|**FeatEnHancer: Enhancing Hierarchical Features for Object Detection and Beyond Under Low-Light Vision**|Khurram Azeem Hashmi et.al.|[2308.03594v1](http://arxiv.org/abs/2308.03594v1)|null|
+|**2023-08-07**|**Conditional Aggregation-Based Choquet Integral as a Choquet Integral on a Hyperspace**|Jana Borzová et.al.|[2308.03546v1](http://arxiv.org/abs/2308.03546v1)|null|
+|**2023-08-07**|**Off-the-grid Blind Deconvolution and Demixing**|Saeed Razavikia et.al.|[2308.03518v1](http://arxiv.org/abs/2308.03518v1)|null|
+|**2023-08-07**|**Learning Photometric Feature Transform for Free-form Object Scan**|Xiang Feng et.al.|[2308.03492v1](http://arxiv.org/abs/2308.03492v1)|null|
+|**2023-08-07**|**COPA: Efficient Vision-Language Pre-training Through Collaborative Object- and Patch-Text Alignment**|Chaoya Jiang et.al.|[2308.03475v1](http://arxiv.org/abs/2308.03475v1)|null|
+|**2023-08-07**|**Deepfake Detection: A Comparative Analysis**|Sohail Ahmed Khan et.al.|[2308.03471v1](http://arxiv.org/abs/2308.03471v1)|null|
+|**2023-08-07**|**Folding Domain Functions (FDF): a Random Variable Transformation technique for the non-invertible case, with applications to RDEs**|Fabrizio Masullo et.al.|[2308.03455v1](http://arxiv.org/abs/2308.03455v1)|null|
+|**2023-08-07**|**A Result About the Classification of Quantum Covariance Matrices Based on Their Eigenspectra**|Arik Avagyan et.al.|[2308.03439v1](http://arxiv.org/abs/2308.03439v1)|null|
+|**2023-08-07**|**RCMHA: Relative Convolutional Multi-Head Attention for Natural Language Modelling**|Herman Sugiharto et.al.|[2308.03429v1](http://arxiv.org/abs/2308.03429v1)|null|
+|**2023-08-07**|**GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images**|Tianxiang Ma et.al.|[2308.03413v1](http://arxiv.org/abs/2308.03413v1)|null|
+|**2023-08-07**|**DiT: Efficient Vision Transformers with Dynamic Token Routing**|Yuchen Ma et.al.|[2308.03409v1](http://arxiv.org/abs/2308.03409v1)|**[link](https://github.com/maycbj/dit)**|
+|**2023-08-07**|**Hierarchical Contrastive Learning with Multiple Augmentation for Sequential Recommendation**|Dongjun Lee et.al.|[2308.03400v1](http://arxiv.org/abs/2308.03400v1)|null|
+|**2023-08-07**|**Energy-resolved pulse profiles of accreting pulsars: Diagnostic tools for spectral features**|Carlo Ferrigno et.al.|[2308.03395v1](http://arxiv.org/abs/2308.03395v1)|null|
+|**2023-08-07**|**Dual Aggregation Transformer for Image Super-Resolution**|Zheng Chen et.al.|[2308.03364v1](http://arxiv.org/abs/2308.03364v1)|**[link](https://github.com/zhengchen1999/dat)**|
+|**2023-08-07**|**Coupling Symbolic Reasoning with Language Modeling for Efficient Longitudinal Understanding of Unstructured Electronic Medical Records**|Shivani Shekhar et.al.|[2308.03360v1](http://arxiv.org/abs/2308.03360v1)|null|
+|**2023-08-07**|**Distortion-aware Transformer in 360° Salient Object Detection**|Yinjie Zhao et.al.|[2308.03359v1](http://arxiv.org/abs/2308.03359v1)|null|
+|**2023-08-07**|**Cooperative Colorization: Exploring Latent Cross-Domain Priors for NIR Image Spectrum Translation**|Xingxing Yang et.al.|[2308.03348v1](http://arxiv.org/abs/2308.03348v1)|null|
+|**2023-08-07**|**A Hybrid CNN-Transformer Architecture with Frequency Domain Contrastive Learning for Image Deraining**|Cheng Wang et.al.|[2308.03340v1](http://arxiv.org/abs/2308.03340v1)|null|
+|**2023-08-07**|**Expediting Neural Network Verification via Network Reduction**|Yuyi Zhong et.al.|[2308.03330v1](http://arxiv.org/abs/2308.03330v1)|null|
+|**2023-08-07**|**Part-Aware Transformer for Generalizable Person Re-identification**|Hao Ni et.al.|[2308.03322v1](http://arxiv.org/abs/2308.03322v1)|null|
+|**2023-08-07**|**When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**|Yuqiang Sun et.al.|[2308.03314v1](http://arxiv.org/abs/2308.03314v1)|null|
+|**2023-08-07**|**Symmetry-Preserving Program Representations for Learning Code Semantics**|Kexin Pei et.al.|[2308.03312v1](http://arxiv.org/abs/2308.03312v1)|null|
+|**2023-08-07**|**GPU Optimization of Lattice Boltzmann Method with Local Ensemble Transform Kalman Filter**|Yuta Hasegawa et.al.|[2308.03310v1](http://arxiv.org/abs/2308.03310v1)|**[link](https://github.com/hasegawa-yuta-jaea/LBM2D-LETKF)**|
+|**2023-08-07**|**SynJax: Structured Probability Distributions for JAX**|Miloš Stanojević et.al.|[2308.03291v1](http://arxiv.org/abs/2308.03291v1)|**[link](https://github.com/deepmind/synjax)**|
+|**2023-08-07**|**FLIQS: One-Shot Mixed-Precision Floating-Point and Integer Quantization Search**|Jordan Dotzel et.al.|[2308.03290v1](http://arxiv.org/abs/2308.03290v1)|null|
+|**2023-08-07**|**Key Gene Mining in Transcriptional Regulation for Specific Biological Processes with Small Sample Sizes Using Multi-network pipeline Transformer**|Kerui Huang et.al.|[2308.03278v1](http://arxiv.org/abs/2308.03278v1)|null|
+|**2023-08-07**|**DSformer: A Double Sampling Transformer for Multivariate Time Series Long-term Prediction**|Chengqing Yu et.al.|[2308.03274v1](http://arxiv.org/abs/2308.03274v1)|null|
+|**2023-08-07**|**Mean topological dimension of induced amenable group actions**|Ruxi Shi et.al.|[2308.03270v1](http://arxiv.org/abs/2308.03270v1)|null|
+|**2023-08-07**|**Redundancy-aware Transformer for Video Question Answering**|Yicong Li et.al.|[2308.03267v1](http://arxiv.org/abs/2308.03267v1)|null|
+|**2023-08-07**|**Exploring Different Time-series-Transformer (TST) Architectures: A Case Study in Battery Life Prediction for Electric Vehicles (EVs)**|Niranjan Sitapure et.al.|[2308.03260v1](http://arxiv.org/abs/2308.03260v1)|null|
+|**2023-08-07**|**TempFuser: Learning Tactical and Agile Flight Maneuvers in Aerial Dogfights using a Long Short-Term Temporal Fusion Transformer**|Hyunki Seong et.al.|[2308.03257v1](http://arxiv.org/abs/2308.03257v1)|null|
+|**2023-08-07**|**Mind the Gap: Improving Success Rate of Vision-and-Language Navigation by Revisiting Oracle Success Routes**|Chongyang Zhao et.al.|[2308.03244v1](http://arxiv.org/abs/2308.03244v1)|null|
+|**2023-08-07**|**Analysis of the Evolution of Advanced Transformer-Based Language Models: Experiments on Opinion Mining**|Nour Eddine Zekaoui et.al.|[2308.03235v1](http://arxiv.org/abs/2308.03235v1)|**[link](https://github.com/zekaouinoureddine/Opinion-Transformers)**|
+|**2023-08-07**|**Absolute zeta functions and ceiling and floor Puiseux polynomials**|Yoshinosuke Hirakawa et.al.|[2308.03232v1](http://arxiv.org/abs/2308.03232v1)|null|
+|**2023-08-06**|**Local Consensus Enhanced Siamese Network with Reciprocal Loss for Two-view Correspondence Learning**|Linbo Wang et.al.|[2308.03217v1](http://arxiv.org/abs/2308.03217v1)|null|
+|**2023-08-06**|**Average-Hard Attention Transformers are Constant-Depth Uniform Threshold Circuits**|Lena Strobl et.al.|[2308.03212v1](http://arxiv.org/abs/2308.03212v1)|null|
+|**2023-08-06**|**A Combinatorial Hopf Algebra on Partition Diagrams**|John M. Campbell et.al.|[2308.03187v1](http://arxiv.org/abs/2308.03187v1)|null|
+|**2023-08-06**|**Empirical Optimal Risk to Quantify Model Trustworthiness for Failure Detection**|Shuang Ao et.al.|[2308.03179v1](http://arxiv.org/abs/2308.03179v1)|null|
+|**2023-08-06**|**Detection of Anomalies in Multivariate Time Series Using Ensemble Techniques**|Anastasios Iliopoulos et.al.|[2308.03171v1](http://arxiv.org/abs/2308.03171v1)|null|
+|**2023-08-06**|**Closed expressions for one-qubit states of convex roof coherence measures**|Xiao-Dan Cui et.al.|[2308.03116v1](http://arxiv.org/abs/2308.03116v1)|null|
 |**2023-08-04**|**Compact Bloch mappings on the complex unit disc**|A. Jiménez-Vargas et.al.|[2308.02461v1](http://arxiv.org/abs/2308.02461v1)|null|
 |**2023-08-04**|**Applications of Laguerre transform to solve Schrödinger-type equations and Differential Equations of order four**|Gabriel López Garza et.al.|[2308.02428v1](http://arxiv.org/abs/2308.02428v1)|null|
 |**2023-08-03**|**Multimodal Indoor Localisation in Parkinson's Disease for Detecting Medication Use: Observational Pilot Study in a Free-Living Setting**|Ferdian Jovan et.al.|[2308.02419v1](http://arxiv.org/abs/2308.02419v1)|null|
