@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**Iterative Reweighted Least Squares Networks With Convergence Guarantees for Solving Inverse Imaging Problems**|Iaroslav Koshelev et.al.|[2308.05745v1](http://arxiv.org/abs/2308.05745v1)|null|
 |**2023-08-09**|**Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution**|Ao Li et.al.|[2308.05022v1](http://arxiv.org/abs/2308.05022v1)|**[link](https://github.com/avc2-uestc/craft-sr)**|
 |**2023-08-09**|**HSD-PAM: High Speed Super Resolution Deep Penetration Photoacoustic Microscopy Imaging Boosted by Dual Branch Fusion Network**|Zhengyuan Zhang et.al.|[2308.04922v1](http://arxiv.org/abs/2308.04922v1)|null|
 |**2023-08-08**|**PSRFlow: Probabilistic Super Resolution with Flow-Based Models for Scientific Data**|Jingyi Shen et.al.|[2308.04605v1](http://arxiv.org/abs/2308.04605v1)|null|
@@ -836,6 +837,53 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**Iterative Reweighted Least Squares Networks With Convergence Guarantees for Solving Inverse Imaging Problems**|Iaroslav Koshelev et.al.|[2308.05745v1](http://arxiv.org/abs/2308.05745v1)|null|
+|**2023-08-10**|**PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs**|Wentao Hu et.al.|[2308.05744v1](http://arxiv.org/abs/2308.05744v1)|**[link](https://github.com/manycore-research/PlankAssembly)**|
+|**2023-08-10**|**A Characterization of Entropy as a Universal Monoidal Natural Transformation**|Cheuk Ting Li et.al.|[2308.05742v1](http://arxiv.org/abs/2308.05742v1)|null|
+|**2023-08-10**|**Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction**|Yangyang Xu et.al.|[2308.05721v1](http://arxiv.org/abs/2308.05721v1)|**[link](https://github.com/yangyangxu0/demtg)**|
+|**2023-08-10**|**Finding Already Debunked Narratives via Multistage Retrieval: Enabling Cross-Lingual, Cross-Dataset and Zero-Shot Learning**|Iknoor Singh et.al.|[2308.05680v1](http://arxiv.org/abs/2308.05680v1)|null|
+|**2023-08-10**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667v1](http://arxiv.org/abs/2308.05667v1)|null|
+|**2023-08-10**|**Exploring Deep Learning Approaches to Predict Person and Vehicle Trips: An Analysis of NHTS Data**|Kojo Adu-Gyamfi et.al.|[2308.05665v1](http://arxiv.org/abs/2308.05665v1)|null|
+|**2023-08-10**|**Automatic Extraction of Relevant Road Infrastructure using Connected vehicle data and Deep Learning Model**|Adu-Gyamfi Kojo et.al.|[2308.05658v1](http://arxiv.org/abs/2308.05658v1)|null|
+|**2023-08-10**|**ESBMC v7.3: Model Checking C++ Programs using Clang AST**|Kunjian Song et.al.|[2308.05649v1](http://arxiv.org/abs/2308.05649v1)|null|
+|**2023-08-10**|**AST-MHSA : Code Summarization using Multi-Head Self-Attention**|Yeshwanth Nagaraj et.al.|[2308.05646v1](http://arxiv.org/abs/2308.05646v1)|null|
+|**2023-08-10**|**The Fast and the Private: Task-based Dataset Search**|Zezhou Huang et.al.|[2308.05637v1](http://arxiv.org/abs/2308.05637v1)|null|
+|**2023-08-10**|**Tracing the Influence of Predecessors on Trajectory Prediction**|Mengmeng Liu et.al.|[2308.05634v1](http://arxiv.org/abs/2308.05634v1)|null|
+|**2023-08-10**|**IIHT: Medical Report Generation with Image-to-Indicator Hierarchical Transformer**|Keqiang Fan et.al.|[2308.05633v1](http://arxiv.org/abs/2308.05633v1)|null|
+|**2023-08-10**|**A linearized approach to radial velocity extraction**|Sahar Shahaf et.al.|[2308.05626v1](http://arxiv.org/abs/2308.05626v1)|null|
+|**2023-08-10**|**Object Goal Navigation with Recursive Implicit Maps**|Shizhe Chen et.al.|[2308.05602v1](http://arxiv.org/abs/2308.05602v1)|null|
+|**2023-08-10**|**NUPES : Non-Uniform Post-Training Quantization via Power Exponent Search**|Edouard Yvinec et.al.|[2308.05600v1](http://arxiv.org/abs/2308.05600v1)|null|
+|**2023-08-10**|**Category Feature Transformer for Semantic Segmentation**|Quan Tang et.al.|[2308.05581v1](http://arxiv.org/abs/2308.05581v1)|null|
+|**2023-08-10**|**Advancing Space-Based Gravitational Wave Astronomy: Rapid Detection and Parameter Estimation Using Normalizing Flows**|Minghui Du et.al.|[2308.05510v1](http://arxiv.org/abs/2308.05510v1)|null|
+|**2023-08-10**|**Bringing order into the realm of Transformer-based language models for artificial intelligence and law**|Candida M. Greco et.al.|[2308.05502v1](http://arxiv.org/abs/2308.05502v1)|null|
+|**2023-08-10**|**Exploring Machine Learning and Transformer-based Approaches for Deceptive Text Classification: A Comparative Analysis**|Anusuya Krishnan et.al.|[2308.05476v1](http://arxiv.org/abs/2308.05476v1)|null|
+|**2023-08-10**|**Surface Masked AutoEncoder: Self-Supervision for Cortical Imaging Data**|Simon Dahan et.al.|[2308.05474v1](http://arxiv.org/abs/2308.05474v1)|**[link](https://github.com/metrics-lab/surface-vision-transformers)**|
+|**2023-08-10**|**Global in Local: A Convolutional Transformer for SAR ATR FSL**|Chenwei Wang et.al.|[2308.05464v1](http://arxiv.org/abs/2308.05464v1)|null|
+|**2023-08-10**|** $\mathcal{G}^2Pxy$ : Generative Open-Set Node Classification on Graphs with Proxy Unknowns**|Qin Zhang et.al.|[2308.05463v1](http://arxiv.org/abs/2308.05463v1)|null|
+|**2023-08-10**|**Transforming Breast Cancer Diagnosis: Towards Real-Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis**|Sahar Almahfouz Nasser et.al.|[2308.05449v1](http://arxiv.org/abs/2308.05449v1)|null|
+|**2023-08-10**|**Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation**|Jun Zhou et.al.|[2308.05438v1](http://arxiv.org/abs/2308.05438v1)|**[link](https://github.com/junzastar/dftr_voting)**|
+|**2023-08-10**|**Dynamics of  $L^p$ -Multiplier for  $p\leq 2$  on Harmonic Manifolds of Purely Exponential Volume Growth**|Oliver Brammen et.al.|[2308.05427v1](http://arxiv.org/abs/2308.05427v1)|null|
+|**2023-08-10**|**Photoelectronic mapping of spin-orbit interaction of intense light fields**|Yiqi Fang et.al.|[2308.05397v1](http://arxiv.org/abs/2308.05397v1)|null|
+|**2023-08-10**|**Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization**|Hongyang Du et.al.|[2308.05384v1](http://arxiv.org/abs/2308.05384v1)|null|
+|**2023-08-10**|**Liquid Metal Molecular Scissors**|Liangfei Duan et.al.|[2308.05383v1](http://arxiv.org/abs/2308.05383v1)|null|
+|**2023-08-10**|**Interaction-aware Joint Attention Estimation Using People Attributes**|Chihiro Nakatani et.al.|[2308.05382v1](http://arxiv.org/abs/2308.05382v1)|**[link](https://github.com/chihina/pjae)**|
+|**2023-08-10**|**Building a serverless Data Lakehouse from spare parts**|Jacopo Tagliabue et.al.|[2308.05368v1](http://arxiv.org/abs/2308.05368v1)|null|
+|**2023-08-10**|**TriDo-Former: A Triple-Domain Transformer for Direct PET Reconstruction from Low-Dose Sinograms**|Jiaqi Cui et.al.|[2308.05365v1](http://arxiv.org/abs/2308.05365v1)|null|
+|**2023-08-10**|**New insights into tackling large amplitude oscillatory shear (LAOS): an analytic LAOS approach (aLAOS)**|Pengguang Wang et.al.|[2308.05340v1](http://arxiv.org/abs/2308.05340v1)|null|
+|**2023-08-10**|**Demonstration of a Facile and Efficient Strategy for Yield Stress Determination in Large Amplitude Oscillatory Shear: Algebraic Stress Bifurcation**|Pengguang Wang et.al.|[2308.05339v1](http://arxiv.org/abs/2308.05339v1)|null|
+|**2023-08-10**|**MDVSC -- Wireless Model Division Video Semantic Communication**|Zhicheng Bao et.al.|[2308.05338v1](http://arxiv.org/abs/2308.05338v1)|null|
+|**2023-08-10**|**Topological invariants of complex energy plane in non-Hermitian systems**|Annan Fan et.al.|[2308.05329v1](http://arxiv.org/abs/2308.05329v1)|null|
+|**2023-08-10**|**OpenProteinSet: Training data for structural biology at scale**|Gustaf Ahdritz et.al.|[2308.05326v1](http://arxiv.org/abs/2308.05326v1)|null|
+|**2023-08-10**|**Deep Semantic Graph Matching for Large-scale Outdoor Point Clouds Registration**|Shaocong Liu et.al.|[2308.05314v1](http://arxiv.org/abs/2308.05314v1)|null|
+|**2023-08-10**|**From CNN to Transformer: A Review of Medical Image Segmentation Models**|Wenjian Yao et.al.|[2308.05305v1](http://arxiv.org/abs/2308.05305v1)|null|
+|**2023-08-10**|**Double-chain Constraints for 3D Human Pose Estimation in Images and Videos**|Hongbo Kang et.al.|[2308.05298v1](http://arxiv.org/abs/2308.05298v1)|**[link](https://github.com/KHB1698/DC-GCT)**|
+|**2023-08-10**|**An unconditional boundary and dynamics preserving scheme for the stochastic epidemic model**|Ruishu Liu et.al.|[2308.05287v1](http://arxiv.org/abs/2308.05287v1)|null|
+|**2023-08-10**|**Informative Scene Graph Generation via Debiasing**|Lianli Gao et.al.|[2308.05286v1](http://arxiv.org/abs/2308.05286v1)|null|
+|**2023-08-10**|**Investigating disaster response through social media data and the Susceptible-Infected-Recovered (SIR) model: A case study of 2020 Western U.S. wildfire season**|Zihui Ma et.al.|[2308.05281v1](http://arxiv.org/abs/2308.05281v1)|null|
+|**2023-08-09**|**Spatial Gated Multi-Layer Perceptron for Land Use and Land Cover Mapping**|Ali Jamali et.al.|[2308.05235v1](http://arxiv.org/abs/2308.05235v1)|**[link](https://github.com/aj1365/sgumlp)**|
+|**2023-08-09**|**Decoding Layer Saliency in Language Transformers**|Elizabeth M. Hou et.al.|[2308.05219v1](http://arxiv.org/abs/2308.05219v1)|null|
+|**2023-08-09**|**"Generate" the Future of Work through AI: Empirical Evidence from Online Labor Markets**|Jin Liu et.al.|[2308.05201v1](http://arxiv.org/abs/2308.05201v1)|null|
+|**2023-08-09**|**The field theory of a superconductor with repulsion**|Amir Dalal et.al.|[2308.05150v1](http://arxiv.org/abs/2308.05150v1)|null|
 |**2023-08-09**|**A degree of image identification at sub-human scales could be possible with more advanced clusters**|Prateek Y J et.al.|[2308.05092v1](http://arxiv.org/abs/2308.05092v1)|**[link](https://github.com/prateekjannu/imagescale2)**|
 |**2023-08-09**|**Space-bounded quantum state testing via space-efficient quantum singular value transformation**|François Le Gall et.al.|[2308.05079v1](http://arxiv.org/abs/2308.05079v1)|null|
 |**2023-08-10**|**Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**|Sneha Sree C et.al.|[2308.05068v2](http://arxiv.org/abs/2308.05068v2)|null|
