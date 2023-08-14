@@ -837,6 +837,46 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**Foundation Model is Efficient Multimodal Multitask Model Selector**|Fanqing Meng et.al.|[2308.06262v1](http://arxiv.org/abs/2308.06262v1)|**[link](https://github.com/opengvlab/multitask-model-selector)**|
+|**2023-08-11**|**ChatGPT-based Investment Portfolio Selection**|Oleksandr Romanko et.al.|[2308.06260v1](http://arxiv.org/abs/2308.06260v1)|null|
+|**2023-08-11**|**Conforming Finite Element Function Spaces in Four Dimensions, Part 1: Foundational Principles and the Tesseract**|Nilima Nigam et.al.|[2308.06243v1](http://arxiv.org/abs/2308.06243v1)|null|
+|**2023-08-11**|**A highly efficient and accurate numerical method for the electromagnetic scattering problem with rectangular cavities**|Peijun Li et.al.|[2308.06229v1](http://arxiv.org/abs/2308.06229v1)|null|
+|**2023-08-11**|**Exploring Predicate Visual Context in Detecting of Human-Object Interactions**|Frederic Z. Zhang et.al.|[2308.06202v1](http://arxiv.org/abs/2308.06202v1)|**[link](https://github.com/fredzzhang/pvic)**|
+|**2023-08-11**|**Hybrid-Supervised Deep Learning for Domain Transfer 3D Protoacoustic Image Reconstruction**|Yankun Lang et.al.|[2308.06194v1](http://arxiv.org/abs/2308.06194v1)|null|
+|**2023-08-11**|**Demazure weaves for reduced plabic graphs (with a proof that Muller-Speyer twist is Donaldson-Thomas)**|Roger Casals et.al.|[2308.06184v1](http://arxiv.org/abs/2308.06184v1)|null|
+|**2023-08-11**|**Nonlinear asymptotic stability of compressible vortex sheets with viscosity effects**|Feimin Huang et.al.|[2308.06180v1](http://arxiv.org/abs/2308.06180v1)|null|
+|**2023-08-11**|**Task Conditioned BERT for Joint Intent Detection and Slot-filling**|Diogo Tavares et.al.|[2308.06165v1](http://arxiv.org/abs/2308.06165v1)|null|
+|**2023-08-11**|**Infinitesimal modular group:  $q$ -deformed  $\mathfrak{sl}_2$  and Witt algebra**|Alexander Thomas et.al.|[2308.06158v1](http://arxiv.org/abs/2308.06158v1)|null|
+|**2023-08-11**|**Identification of the Relevance of Comments in Codes Using Bag of Words and Transformer Based Models**|Sruthi S et.al.|[2308.06144v1](http://arxiv.org/abs/2308.06144v1)|null|
+|**2023-08-11**|**Improving Zero-Shot Text Matching for Financial Auditing with Large Language Models**|Lars Hillebrand et.al.|[2308.06111v1](http://arxiv.org/abs/2308.06111v1)|null|
+|**2023-08-11**|**Composable Function-preserving Expansions for Transformer Architectures**|Andrea Gesmundo et.al.|[2308.06103v1](http://arxiv.org/abs/2308.06103v1)|null|
+|**2023-08-11**|**Experts Weights Averaging: A New General Training Scheme for Vision Transformers**|Yongqi Huang et.al.|[2308.06093v1](http://arxiv.org/abs/2308.06093v1)|null|
+|**2023-08-11**|**Transformation of a variational problem in the Euclidean space to that of a tuple of functions on several regions**|Sohei Ashida et.al.|[2308.06090v1](http://arxiv.org/abs/2308.06090v1)|null|
+|**2023-08-11**|**Versatile Face Animator: Driving Arbitrary 3D Facial Avatar in RGBD Space**|Haoyu Wang et.al.|[2308.06076v1](http://arxiv.org/abs/2308.06076v1)|null|
+|**2023-08-11**|**Joint Beamforming Optimization for Active STAR-RIS Assisted ISAC systems**|Shuang Zhang et.al.|[2308.06064v1](http://arxiv.org/abs/2308.06064v1)|null|
+|**2023-08-11**|**Evidence of Human-Like Visual-Linguistic Integration in Multimodal Large Language Models During Predictive Language Processing**|Viktor Kewenig et.al.|[2308.06035v1](http://arxiv.org/abs/2308.06035v1)|null|
+|**2023-08-11**|**Optimizing transformer-based machine translation model for single GPU training: a hyperparameter ablation study**|Luv Verma et.al.|[2308.06017v1](http://arxiv.org/abs/2308.06017v1)|null|
+|**2023-08-11**|**Large Language Models for Telecom: Forthcoming Impact on the Industry**|Ali Maatouk et.al.|[2308.06013v1](http://arxiv.org/abs/2308.06013v1)|null|
+|**2023-08-11**|**ViGT: Proposal-free Video Grounding with Learnable Token in Transformer**|Kun Li et.al.|[2308.06009v1](http://arxiv.org/abs/2308.06009v1)|null|
+|**2023-08-11**|**Audio is all in one: speech-driven gesture synthetics using WavLM pre-trained model**|Fan Zhang et.al.|[2308.05995v1](http://arxiv.org/abs/2308.05995v1)|null|
+|**2023-08-11**|**Image-based Geolocalization by Ground-to-2.5D Map Matching**|Mengjie Zhou et.al.|[2308.05993v1](http://arxiv.org/abs/2308.05993v1)|null|
+|**2023-08-11**|**Face Encryption via Frequency-Restricted Identity-Agnostic Attacks**|Xin Dong et.al.|[2308.05983v1](http://arxiv.org/abs/2308.05983v1)|null|
+|**2023-08-11**|**Breaking a Barrier in Constructing Compact Indexes for Parameterized Pattern Matching**|Kento Iseri et.al.|[2308.05977v1](http://arxiv.org/abs/2308.05977v1)|null|
+|**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961v1](http://arxiv.org/abs/2308.05961v1)|null|
+|**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930v1](http://arxiv.org/abs/2308.05930v1)|null|
+|**2023-08-11**|**Characterizing Correlation Matrices that Admit a Clustered Factor Representation**|Chen Tong et.al.|[2308.05895v1](http://arxiv.org/abs/2308.05895v1)|null|
+|**2023-08-10**|**Navier-Stokes-Schrödinger equation for dissipative fluids**|S. Succi et.al.|[2308.05879v1](http://arxiv.org/abs/2308.05879v1)|null|
+|**2023-08-10**|**Strategic Decision-Making in Multi-Agent Domains: A Weighted Potential Dynamic Game Approach**|Maulik Bhatt et.al.|[2308.05876v1](http://arxiv.org/abs/2308.05876v1)|null|
+|**2023-08-10**|**Vision Backbone Enhancement via Multi-Stage Cross-Scale Attention**|Liang Shang et.al.|[2308.05872v1](http://arxiv.org/abs/2308.05872v1)|null|
+|**2023-08-10**|**The Multi-modality Cell Segmentation Challenge: Towards Universal Solutions**|Jun Ma et.al.|[2308.05864v1](http://arxiv.org/abs/2308.05864v1)|null|
+|**2023-08-10**|**Spatial Dependence of Microscopic Percolation Conduction**|Matthew D. Golden et.al.|[2308.05855v1](http://arxiv.org/abs/2308.05855v1)|null|
+|**2023-08-10**|**On the "Legendre scalarization" of nonlinear gravity theories**|Guido Magnano et.al.|[2308.05854v1](http://arxiv.org/abs/2308.05854v1)|null|
+|**2023-08-10**|**Treatment of long-range interactions arising in the Enskog-Vlasov description of dense fluids**|Mohsen Sadr et.al.|[2308.05845v1](http://arxiv.org/abs/2308.05845v1)|null|
+|**2023-08-10**|**Discrete dynamics in the set of quantum measurements**|Albert Rico et.al.|[2308.05835v1](http://arxiv.org/abs/2308.05835v1)|null|
+|**2023-08-10**|**Bergman kernels of Monomial Polyhedra**|Debraj Chakrabarti et.al.|[2308.05834v1](http://arxiv.org/abs/2308.05834v1)|null|
+|**2023-08-10**|**Delicate Topology of Luttinger Semimetal**|Penghao Zhu et.al.|[2308.05793v1](http://arxiv.org/abs/2308.05793v1)|null|
+|**2023-08-10**|**Correlated electrons tunneling through pseudo Fermi arcs in hyperbolic Fermi surfaces of topological materials**|Elena Derunova et.al.|[2308.05788v1](http://arxiv.org/abs/2308.05788v1)|null|
+|**2023-08-10**|**Temporally-Adaptive Models for Efficient Video Understanding**|Ziyuan Huang et.al.|[2308.05787v1](http://arxiv.org/abs/2308.05787v1)|**[link](https://github.com/alibaba-mmai-research/TAdaConv)**|
 |**2023-08-10**|**Iterative Reweighted Least Squares Networks With Convergence Guarantees for Solving Inverse Imaging Problems**|Iaroslav Koshelev et.al.|[2308.05745v1](http://arxiv.org/abs/2308.05745v1)|null|
 |**2023-08-10**|**PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs**|Wentao Hu et.al.|[2308.05744v1](http://arxiv.org/abs/2308.05744v1)|**[link](https://github.com/manycore-research/PlankAssembly)**|
 |**2023-08-10**|**A Characterization of Entropy as a Universal Monoidal Natural Transformation**|Cheuk Ting Li et.al.|[2308.05742v1](http://arxiv.org/abs/2308.05742v1)|null|
