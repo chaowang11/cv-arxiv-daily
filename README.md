@@ -851,7 +851,7 @@
 |**2023-08-14**|**Improving Zero-Shot Text Matching for Financial Auditing with Large Language Models**|Lars Hillebrand et.al.|[2308.06111v2](http://arxiv.org/abs/2308.06111v2)|null|
 |**2023-08-11**|**Composable Function-preserving Expansions for Transformer Architectures**|Andrea Gesmundo et.al.|[2308.06103v1](http://arxiv.org/abs/2308.06103v1)|null|
 |**2023-08-11**|**Experts Weights Averaging: A New General Training Scheme for Vision Transformers**|Yongqi Huang et.al.|[2308.06093v1](http://arxiv.org/abs/2308.06093v1)|null|
-|**2023-08-11**|**Transformation of a variational problem in the Euclidean space to that of a tuple of functions on several regions**|Sohei Ashida et.al.|[2308.06090v1](http://arxiv.org/abs/2308.06090v1)|null|
+|**2023-08-14**|**Transformation of a variational problem in the Euclidean space to that of a tuple of functions on several regions**|Sohei Ashida et.al.|[2308.06090v2](http://arxiv.org/abs/2308.06090v2)|null|
 |**2023-08-11**|**Versatile Face Animator: Driving Arbitrary 3D Facial Avatar in RGBD Space**|Haoyu Wang et.al.|[2308.06076v1](http://arxiv.org/abs/2308.06076v1)|null|
 |**2023-08-11**|**Joint Beamforming Optimization for Active STAR-RIS Assisted ISAC systems**|Shuang Zhang et.al.|[2308.06064v1](http://arxiv.org/abs/2308.06064v1)|null|
 |**2023-08-11**|**Evidence of Human-Like Visual-Linguistic Integration in Multimodal Large Language Models During Predictive Language Processing**|Viktor Kewenig et.al.|[2308.06035v1](http://arxiv.org/abs/2308.06035v1)|null|
@@ -882,7 +882,7 @@
 |**2023-08-10**|**A Characterization of Entropy as a Universal Monoidal Natural Transformation**|Cheuk Ting Li et.al.|[2308.05742v1](http://arxiv.org/abs/2308.05742v1)|null|
 |**2023-08-11**|**Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction**|Yangyang Xu et.al.|[2308.05721v2](http://arxiv.org/abs/2308.05721v2)|**[link](https://github.com/yangyangxu0/demtg)**|
 |**2023-08-10**|**Finding Already Debunked Narratives via Multistage Retrieval: Enabling Cross-Lingual, Cross-Dataset and Zero-Shot Learning**|Iknoor Singh et.al.|[2308.05680v1](http://arxiv.org/abs/2308.05680v1)|null|
-|**2023-08-10**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667v1](http://arxiv.org/abs/2308.05667v1)|null|
+|**2023-08-14**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667v2](http://arxiv.org/abs/2308.05667v2)|null|
 |**2023-08-10**|**Exploring Deep Learning Approaches to Predict Person and Vehicle Trips: An Analysis of NHTS Data**|Kojo Adu-Gyamfi et.al.|[2308.05665v1](http://arxiv.org/abs/2308.05665v1)|null|
 |**2023-08-10**|**Automatic Extraction of Relevant Road Infrastructure using Connected vehicle data and Deep Learning Model**|Adu-Gyamfi Kojo et.al.|[2308.05658v1](http://arxiv.org/abs/2308.05658v1)|null|
 |**2023-08-10**|**ESBMC v7.3: Model Checking C++ Programs using Clang AST**|Kunjian Song et.al.|[2308.05649v1](http://arxiv.org/abs/2308.05649v1)|null|
