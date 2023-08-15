@@ -23,6 +23,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-13**|**TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution**|Baolin Liu et.al.|[2308.06743v1](http://arxiv.org/abs/2308.06743v1)|**[link](https://github.com/lenubolim/textdiff)**|
+|**2023-08-13**|**Neural Super-Resolution for Real-time Rendering with Radiance Demodulation**|Jia Li et.al.|[2308.06699v1](http://arxiv.org/abs/2308.06699v1)|null|
+|**2023-08-12**|**On Versatile Video Coding at UHD with Machine-Learning-Based Super-Resolution**|Kristian Fischer et.al.|[2308.06570v1](http://arxiv.org/abs/2308.06570v1)|null|
+|**2023-08-12**|**BigWavGAN: A Wave-To-Wave Generative Adversarial Network for Music Super-Resolution**|Yenan Zhang et.al.|[2308.06483v1](http://arxiv.org/abs/2308.06483v1)|null|
+|**2023-08-12**|**Tiny and Efficient Model for the Edge Detection Generalization**|Xavier Soria et.al.|[2308.06468v1](http://arxiv.org/abs/2308.06468v1)|null|
+|**2023-08-11**|**Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology**|Khondker Fariha Hossain et.al.|[2308.06332v1](http://arxiv.org/abs/2308.06332v1)|null|
 |**2023-08-10**|**Iterative Reweighted Least Squares Networks With Convergence Guarantees for Solving Inverse Imaging Problems**|Iaroslav Koshelev et.al.|[2308.05745v1](http://arxiv.org/abs/2308.05745v1)|null|
 |**2023-08-12**|**Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution**|Ao Li et.al.|[2308.05022v2](http://arxiv.org/abs/2308.05022v2)|**[link](https://github.com/avc2-uestc/craft-sr)**|
 |**2023-08-09**|**HSD-PAM: High Speed Super Resolution Deep Penetration Photoacoustic Microscopy Imaging Boosted by Dual Branch Fusion Network**|Zhengyuan Zhang et.al.|[2308.04922v1](http://arxiv.org/abs/2308.04922v1)|null|
@@ -502,6 +508,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-13**|**TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution**|Baolin Liu et.al.|[2308.06743v1](http://arxiv.org/abs/2308.06743v1)|**[link](https://github.com/lenubolim/textdiff)**|
+|**2023-08-12**|**On Versatile Video Coding at UHD with Machine-Learning-Based Super-Resolution**|Kristian Fischer et.al.|[2308.06570v1](http://arxiv.org/abs/2308.06570v1)|null|
+|**2023-08-11**|**Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology**|Khondker Fariha Hossain et.al.|[2308.06332v1](http://arxiv.org/abs/2308.06332v1)|null|
 |**2023-08-12**|**Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution**|Ao Li et.al.|[2308.05022v2](http://arxiv.org/abs/2308.05022v2)|**[link](https://github.com/avc2-uestc/craft-sr)**|
 |**2023-08-11**|**Dual Aggregation Transformer for Image Super-Resolution**|Zheng Chen et.al.|[2308.03364v2](http://arxiv.org/abs/2308.03364v2)|**[link](https://github.com/zhengchen1999/dat)**|
 |**2023-08-07**|**A Benchmark for Chinese-English Scene Text Image Super-resolution**|Jianqi Ma et.al.|[2308.03262v1](http://arxiv.org/abs/2308.03262v1)|**[link](https://github.com/mjq11302010044/real-ce)**|
@@ -837,6 +846,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation**|Huan Liu et.al.|[2308.07313v1](http://arxiv.org/abs/2308.07313v1)|**[link](https://github.com/michel-liu/grouppose-paddle)**|
+|**2023-08-14**|**Stability, mechanisms and kinetics of emergence of Au surface reconstructions using Bayesian force fields**|Cameron J. Owen et.al.|[2308.07311v1](http://arxiv.org/abs/2308.07311v1)|null|
+|**2023-08-14**|**A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**|Esteve Valls Mascaro et.al.|[2308.07301v1](http://arxiv.org/abs/2308.07301v1)|null|
+|**2023-08-14**|**DiffSED: Sound Event Detection with Denoising Diffusion**|Swapnil Bhosale et.al.|[2308.07293v1](http://arxiv.org/abs/2308.07293v1)|null|
+|**2023-08-14**|**Autonomous Point Cloud Segmentation for Power Lines Inspection in Smart Grid**|Alexander Kyuroson et.al.|[2308.07283v1](http://arxiv.org/abs/2308.07283v1)|null|
+|**2023-08-14**|**Distributed Governance: a Principal-Agent Approach to Data Governance -- Part 1 Background & Core Definitions**|Philippe Page et.al.|[2308.07280v1](http://arxiv.org/abs/2308.07280v1)|null|
+|**2023-08-14**|**A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer**|Manjary P Gangan et.al.|[2308.07279v1](http://arxiv.org/abs/2308.07279v1)|null|
+|**2023-08-14**|**Full Duplex Joint Communications and Sensing for 6G: Opportunities and Challenges**|Chandan Kumar Sheemar et.al.|[2308.07266v1](http://arxiv.org/abs/2308.07266v1)|null|
+|**2023-08-14**|**Large-kernel Attention for Efficient and Robust Brain Lesion Segmentation**|Liam Chalcroft et.al.|[2308.07251v1](http://arxiv.org/abs/2308.07251v1)|**[link](https://github.com/liamchalcroft/mdunet)**|
+|**2023-08-14**|**Age of Processing-Based Data Offloading for Autonomous Vehicles in Multi-RATs Open RAN**|Anselme Ndikumana et.al.|[2308.07242v1](http://arxiv.org/abs/2308.07242v1)|null|
+|**2023-08-14**|**Large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation**|Tao Liu et.al.|[2308.07231v1](http://arxiv.org/abs/2308.07231v1)|null|
+|**2023-08-14**|**Compositional nonlinear audio signal processing with Volterra series**|Jake Araujo-Simon et.al.|[2308.07229v1](http://arxiv.org/abs/2308.07229v1)|null|
+|**2023-08-14**|**RestoreFormer++: Towards Real-World Blind Face Restoration from Undegraded Key-Value Pairs**|Zhouxia Wang et.al.|[2308.07228v1](http://arxiv.org/abs/2308.07228v1)|null|
+|**2023-08-14**|**AudioFormer: Audio Transformer learns audio feature representations from discrete acoustic codes**|Zhaohui Li et.al.|[2308.07221v1](http://arxiv.org/abs/2308.07221v1)|**[link](https://github.com/LZH-0225/AudioFormer)**|
+|**2023-08-14**|**Automated Ensemble-Based Segmentation of Pediatric Brain Tumors: A Novel Approach Using the CBTN-CONNECT-ASNR-MICCAI BraTS-PEDs 2023 Challenge Data**|Shashidhar Reddy Javaji et.al.|[2308.07212v1](http://arxiv.org/abs/2308.07212v1)|null|
+|**2023-08-14**|**Pairing interacting protein sequences using masked language modeling**|Umberto Lupo et.al.|[2308.07136v1](http://arxiv.org/abs/2308.07136v1)|null|
+|**2023-08-14**|**Natural Language is All a Graph Needs**|Ruosong Ye et.al.|[2308.07134v1](http://arxiv.org/abs/2308.07134v1)|null|
+|**2023-08-14**|**Active Bird2Vec: Towards End-to-End Bird Sound Monitoring with Transformers**|Lukas Rauch et.al.|[2308.07121v1](http://arxiv.org/abs/2308.07121v1)|null|
+|**2023-08-14**|**On the Importance of Spatial Relations for Few-shot Action Recognition**|Yilun Zhang et.al.|[2308.07119v1](http://arxiv.org/abs/2308.07119v1)|null|
+|**2023-08-14**|**iSTFTNet2: Faster and More Lightweight iSTFT-Based Neural Vocoder Using 1D-2D CNN**|Takuhiro Kaneko et.al.|[2308.07117v1](http://arxiv.org/abs/2308.07117v1)|null|
+|**2023-08-14**|**SCSC: Spatial Cross-scale Convolution Module to Strengthen both CNNs and Transformers**|Xijun Wang et.al.|[2308.07110v1](http://arxiv.org/abs/2308.07110v1)|null|
+|**2023-08-14**|**Fan's lemma via bistellar moves**|Tomáš Kaiser et.al.|[2308.07103v1](http://arxiv.org/abs/2308.07103v1)|null|
+|**2023-08-14**|**Small sunflowers and the structure of slice rank decompositions**|Thomas Karam et.al.|[2308.07101v1](http://arxiv.org/abs/2308.07101v1)|null|
+|**2023-08-14**|**Masked Motion Predictors are Strong 3D Action Representation Learners**|Yunyao Mao et.al.|[2308.07092v1](http://arxiv.org/abs/2308.07092v1)|null|
+|**2023-08-14**|**Stochastic Galerkin method and port-Hamiltonian form for linear first-order ordinary differential equations**|Roland Pulch et.al.|[2308.07087v1](http://arxiv.org/abs/2308.07087v1)|null|
+|**2023-08-14**|**Wideband Spectrum Acquisition for UAV Swarm Using the Sparse Coding Fourier Transform**|Kaili Jiang et.al.|[2308.07079v1](http://arxiv.org/abs/2308.07079v1)|null|
+|**2023-08-14**|**Wideband Power Spectrum Sensing: a Fast Practical Solution for Nyquist Folding Receiver**|Kaili Jiang et.al.|[2308.07075v1](http://arxiv.org/abs/2308.07075v1)|null|
+|**2023-08-14**|**Teeth And Root Canals Segmentation Using ZXYFormer With Uncertainty Guidance And Weight Transfer**|Shangxuan Li et.al.|[2308.07072v1](http://arxiv.org/abs/2308.07072v1)|null|
+|**2023-08-14**|**Distinguishing Risk Preferences using Repeated Gambles**|James Price et.al.|[2308.07054v1](http://arxiv.org/abs/2308.07054v1)|null|
+|**2023-08-14**|**Expanding bipartite Bell inequalities for maximum multi-partite randomness**|Lewis Wooltorton et.al.|[2308.07030v1](http://arxiv.org/abs/2308.07030v1)|null|
+|**2023-08-14**|**The Legendre transform, the Laplace transform and valuations**|Jin Li et.al.|[2308.07022v1](http://arxiv.org/abs/2308.07022v1)|null|
+|**2023-08-14**|**HPFormer: Hyperspectral image prompt object tracking**|Yuedong Tan et.al.|[2308.07016v1](http://arxiv.org/abs/2308.07016v1)|null|
+|**2023-08-14**|**Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads**|Dingheng Mo et.al.|[2308.07013v1](http://arxiv.org/abs/2308.07013v1)|null|
+|**2023-08-14**|**Mutual Information-driven Triple Interaction Network for Efficient Image Dehazing**|Hao Shen et.al.|[2308.06998v1](http://arxiv.org/abs/2308.06998v1)|null|
+|**2023-08-14**|**pNNCLR: Stochastic Pseudo Neighborhoods for Contrastive Learning based Unsupervised Representation Learning Problems**|Momojit Biswas et.al.|[2308.06983v1](http://arxiv.org/abs/2308.06983v1)|null|
+|**2023-08-14**|**How inter-rater variability relates to aleatoric and epistemic uncertainty: a case study with deep learning-based paraspinal muscle segmentation**|Parinaz Roshanzamir et.al.|[2308.06964v1](http://arxiv.org/abs/2308.06964v1)|null|
+|**2023-08-14**|**Knowing Where to Focus: Event-aware Transformer for Video Grounding**|Jinhyun Jang et.al.|[2308.06947v1](http://arxiv.org/abs/2308.06947v1)|**[link](https://github.com/jinhyunj/eatr)**|
+|**2023-08-14**|**Semantic-aware Network for Aerial-to-Ground Image Synthesis**|Jinhyun Jang et.al.|[2308.06945v1](http://arxiv.org/abs/2308.06945v1)|**[link](https://github.com/jinhyunj/sanet)**|
+|**2023-08-14**|**Approximating Human-Like Few-shot Learning with GPT-based Compression**|Cynthia Huang et.al.|[2308.06942v1](http://arxiv.org/abs/2308.06942v1)|null|
+|**2023-08-14**|**A Frequency-Domain Path-Following Method for Discrete Data-Based Paths**|Zirui Chen et.al.|[2308.06937v1](http://arxiv.org/abs/2308.06937v1)|null|
+|**2023-08-14**|**Non-singular Cooperative Guiding Vector Field Under a Homotopy Equivalence Transformation**|Zirui Chen et.al.|[2308.06934v1](http://arxiv.org/abs/2308.06934v1)|null|
+|**2023-08-14**|**Chatbots in Drug Discovery: A Case Study on Anti-Cocaine Addiction Drug Development with ChatGPT**|Rui Wang et.al.|[2308.06920v1](http://arxiv.org/abs/2308.06920v1)|null|
+|**2023-08-14**|**CausalLM is not optimal for in-context learning**|Nan Ding et.al.|[2308.06912v1](http://arxiv.org/abs/2308.06912v1)|null|
+|**2023-08-14**|**Hierarchy Flow For High-Fidelity Image-to-Image Translation**|Weichen Fan et.al.|[2308.06909v1](http://arxiv.org/abs/2308.06909v1)|**[link](https://github.com/weichenfan/hierarchyflow)**|
+|**2023-08-14**|**Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking**|Ben Kang et.al.|[2308.06904v1](http://arxiv.org/abs/2308.06904v1)|**[link](https://github.com/kangben258/hit)**|
+|**2023-08-14**|**Investigation of Phonon Lifetimes and Magnon-Phonon Coupling in YIG/GGG Hybrid Magnonic Systems in the Diffraction Limited Regime**|Manoj Settipalli et.al.|[2308.06896v1](http://arxiv.org/abs/2308.06896v1)|null|
+|**2023-08-14**|**SpeechX: Neural Codec Language Model as a Versatile Speech Transformer**|Xiaofei Wang et.al.|[2308.06873v1](http://arxiv.org/abs/2308.06873v1)|null|
+|**2023-08-13**|**When Monte-Carlo Dropout Meets Multi-Exit: Optimizing Bayesian Neural Networks on FPGA**|Hongxiang Fan et.al.|[2308.06849v1](http://arxiv.org/abs/2308.06849v1)|**[link](https://github.com/os-hxfan/bayesnn_fpga)**|
+|**2023-08-13**|**An Ensemble Approach to Question Classification: Integrating Electra Transformer, GloVe, and LSTM**|Sanad Aburass et.al.|[2308.06828v1](http://arxiv.org/abs/2308.06828v1)|null|
+|**2023-08-13**|**A Mean Convection Finite Difference Method for Solving Black Scholes Model for Option Pricing**|An Ning et.al.|[2308.06808v1](http://arxiv.org/abs/2308.06808v1)|null|
 |**2023-08-11**|**Foundation Model is Efficient Multimodal Multitask Model Selector**|Fanqing Meng et.al.|[2308.06262v1](http://arxiv.org/abs/2308.06262v1)|**[link](https://github.com/opengvlab/multitask-model-selector)**|
 |**2023-08-11**|**ChatGPT-based Investment Portfolio Selection**|Oleksandr Romanko et.al.|[2308.06260v1](http://arxiv.org/abs/2308.06260v1)|null|
 |**2023-08-14**|**Conforming Finite Element Function Spaces in Four Dimensions, Part 1: Foundational Principles and the Tesseract**|Nilima Nigam et.al.|[2308.06243v2](http://arxiv.org/abs/2308.06243v2)|null|
