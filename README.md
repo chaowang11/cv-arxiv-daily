@@ -862,7 +862,7 @@
 |**2023-08-16**|**Quantum simulation of Maxwell's equations via Schrödingersation**|Shi Jin et.al.|[2308.08408v1](http://arxiv.org/abs/2308.08408v1)|null|
 |**2023-08-16**|**SIGMA: Scale-Invariant Global Sparse Shape Matching**|Maolin Gao et.al.|[2308.08393v1](http://arxiv.org/abs/2308.08393v1)|null|
 |**2023-08-16**|**Agglomerative Transformer for Human-Object Interaction Detection**|Danyang Tu et.al.|[2308.08370v1](http://arxiv.org/abs/2308.08370v1)|null|
-|**2023-08-16**|**Continuing WebAssembly with Effect Handlers**|Luna Phipps-Costin et.al.|[2308.08347v1](http://arxiv.org/abs/2308.08347v1)|null|
+|**2023-08-18**|**Continuing WebAssembly with Effect Handlers**|Luna Phipps-Costin et.al.|[2308.08347v2](http://arxiv.org/abs/2308.08347v2)|null|
 |**2023-08-16**|**Improving Depth Gradient Continuity in Transformers: A Comparative Study on Monocular Depth Estimation with CNN**|Jiawei Yao et.al.|[2308.08333v1](http://arxiv.org/abs/2308.08333v1)|null|
 |**2023-08-16**|**Incremental Collaborative Beam Alignment for Millimeter Wave Cell-Free MIMO Systems**|Cheng Zhang et.al.|[2308.08324v1](http://arxiv.org/abs/2308.08324v1)|null|
 |**2023-08-16**|**Stable and Causal Inference for Discriminative Self-supervised Deep Visual Representations**|Yuewei Yang et.al.|[2308.08321v1](http://arxiv.org/abs/2308.08321v1)|null|
