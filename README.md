@@ -865,7 +865,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-18**|**A Lightweight Transformer for Faster and Robust EBSD Data Collection**|Harry Dong et.al.|[2308.09693v1](http://arxiv.org/abs/2308.09693v1)|**[link](https://github.com/hdong920/ebsd_slice_recovery)**|
-|**2023-08-18**|**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**|Maciej Besta et.al.|[2308.09687v1](http://arxiv.org/abs/2308.09687v1)|**[link](https://github.com/spcl/graph-of-thoughts)**|
+|**2023-08-21**|**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**|Maciej Besta et.al.|[2308.09687v2](http://arxiv.org/abs/2308.09687v2)|**[link](https://github.com/spcl/graph-of-thoughts)**|
 |**2023-08-18**|**Using the GP2X framework for center-of-mass energy precision studies at  $e^+e^-$  Higgs factories**|Brendon Madison et.al.|[2308.09676v1](http://arxiv.org/abs/2308.09676v1)|null|
 |**2023-08-18**|**Learning Computational Efficient Bots with Costly Features**|Anthony Kobanda et.al.|[2308.09629v1](http://arxiv.org/abs/2308.09629v1)|null|
 |**2023-08-18**|**GeoDTR+: Toward generic cross-view geolocalization via geometric disentanglement**|Xiaohan Zhang et.al.|[2308.09624v1](http://arxiv.org/abs/2308.09624v1)|null|
@@ -893,7 +893,7 @@
 |**2023-08-18**|**Single Frame Semantic Segmentation Using Multi-Modal Spherical Images**|Suresh Guttikonda et.al.|[2308.09369v1](http://arxiv.org/abs/2308.09369v1)|**[link](https://github.com/sguttikon/SFSS-MMSI)**|
 |**2023-08-18**|**A tailored Handwritten-Text-Recognition System for Medieval Latin**|Philipp Koch et.al.|[2308.09368v1](http://arxiv.org/abs/2308.09368v1)|null|
 |**2023-08-18**|**SwinJSCC: Taming Swin Transformer for Deep Joint Source-Channel Coding**|Ke Yang et.al.|[2308.09361v1](http://arxiv.org/abs/2308.09361v1)|null|
-|**2023-08-18**|**Multi-scale Target-Aware Framework for Constrained Image Splicing Detection and Localization**|Yuxuan Tan et.al.|[2308.09357v1](http://arxiv.org/abs/2308.09357v1)|null|
+|**2023-08-21**|**Multi-scale Target-Aware Framework for Constrained Image Splicing Detection and Localization**|Yuxuan Tan et.al.|[2308.09357v2](http://arxiv.org/abs/2308.09357v2)|null|
 |**2023-08-18**|**Accelerated materials language processing enabled by GPT**|Jaewoong Choi et.al.|[2308.09354v1](http://arxiv.org/abs/2308.09354v1)|null|
 |**2023-08-18**|**Subshifts of finite symbolic rank**|Su Gao et.al.|[2308.09352v1](http://arxiv.org/abs/2308.09352v1)|null|
 |**2023-08-18**|**Intelligent Reflecting Surface Aided Multi-Tier Hybrid Computing**|Yapeng Zhao et.al.|[2308.09349v1](http://arxiv.org/abs/2308.09349v1)|null|
