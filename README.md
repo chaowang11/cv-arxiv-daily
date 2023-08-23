@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Towards Clip-Free Quantized Super-Resolution Networks: How to Tame Representative Images**|Alperen Kalay et.al.|[2308.11365v1](http://arxiv.org/abs/2308.11365v1)|null|
+|**2023-08-21**|**MRI Field-transfer Reconstruction with Limited Data: Regularization by Neural Style Transfer**|Guoyao Shen et.al.|[2308.10968v1](http://arxiv.org/abs/2308.10968v1)|null|
 |**2023-08-18**|**Deformable-Detection Transformer for Microbubble Localization in Ultrasound Localization Microscopy**|Sepideh K. Gharamaleki et.al.|[2308.09845v1](http://arxiv.org/abs/2308.09845v1)|null|
 |**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710v1](http://arxiv.org/abs/2308.09710v1)|null|
 |**2023-08-18**|**Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey**|Xin Li et.al.|[2308.09388v1](http://arxiv.org/abs/2308.09388v1)|null|
@@ -865,6 +867,54 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Zero and Finite Temperature Quantum Simulations Powered by Quantum Magic**|Andi Gu et.al.|[2308.11616v1](http://arxiv.org/abs/2308.11616v1)|null|
+|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|null|
+|**2023-08-22**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Model**|Surya Narayanan Hari et.al.|[2308.11601v1](http://arxiv.org/abs/2308.11601v1)|null|
+|**2023-08-22**|**NIPG-DG schemes for transformed master equations modeling open quantum systems**|Jose A. Morales Escalante et.al.|[2308.11580v1](http://arxiv.org/abs/2308.11580v1)|null|
+|**2023-08-22**|**G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model**|Zhijian Qiao et.al.|[2308.11573v1](http://arxiv.org/abs/2308.11573v1)|**[link](https://github.com/hkust-aerial-robotics/g3reg)**|
+|**2023-08-22**|**Target-Grounded Graph-Aware Transformer for Aerial Vision-and-Dialog Navigation**|Yifei Su et.al.|[2308.11561v1](http://arxiv.org/abs/2308.11561v1)|null|
+|**2023-08-22**|**Comment on "Modification of Lie's transform perturbation theory for charged particle motion in a magnetic field''**|Alain J. Brizard et.al.|[2308.11524v1](http://arxiv.org/abs/2308.11524v1)|null|
+|**2023-08-22**|**SwinFace: A Multi-task Transformer for Face Recognition, Expression Recognition, Age Estimation and Attribute Estimation**|Lixiong Qin et.al.|[2308.11509v1](http://arxiv.org/abs/2308.11509v1)|**[link](https://github.com/lxq1000/swinface)**|
+|**2023-08-22**|**Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding**|Jiantao Wu et.al.|[2308.11448v1](http://arxiv.org/abs/2308.11448v1)|null|
+|**2023-08-22**|**SAIPy: A Python Package for single station Earthquake Monitoring using Deep Learning**|Wei Li et.al.|[2308.11428v1](http://arxiv.org/abs/2308.11428v1)|null|
+|**2023-08-22**|**TurboViT: Generating Fast Vision Transformers via Generative Architecture Search**|Alexander Wong et.al.|[2308.11421v1](http://arxiv.org/abs/2308.11421v1)|null|
+|**2023-08-22**|**Extracting Relational Triples Based on Graph Recursive Neural Network via Dynamic Feedback Forest Algorithm**|Hongyin Zhu et.al.|[2308.11411v1](http://arxiv.org/abs/2308.11411v1)|null|
+|**2023-08-22**|**Critical transitions on route to chaos of natural convection on a heated horizontal circular surface**|Yuhan Jiang et.al.|[2308.11409v1](http://arxiv.org/abs/2308.11409v1)|null|
+|**2023-08-22**|**Counterfactual Causality for Reachability and Safety based on Distance Functions**|Julie Parreaux et.al.|[2308.11385v1](http://arxiv.org/abs/2308.11385v1)|null|
+|**2023-08-22**|**Bivariate Bernstein-gamma functions, potential measures, and asymptotics of exponential functionals of Lévy processes**|Martin Minchev et.al.|[2308.11363v1](http://arxiv.org/abs/2308.11363v1)|null|
+|**2023-08-22**|**How Much Temporal Long-Term Context is Needed for Action Segmentation?**|Emad Bahrami et.al.|[2308.11358v1](http://arxiv.org/abs/2308.11358v1)|**[link](https://github.com/ltcontext/ltcontext)**|
+|**2023-08-22**|**Exemplar-Free Continual Transformer with Convolutions**|Anurag Roy et.al.|[2308.11357v1](http://arxiv.org/abs/2308.11357v1)|null|
+|**2023-08-22**|**Laboratory Experiments to Understand Comets**|Olivier Poch et.al.|[2308.11338v1](http://arxiv.org/abs/2308.11338v1)|null|
+|**2023-08-22**|**MusicJam: Visualizing Music Insights via Generated Narrative Illustrations**|Chuer Chen et.al.|[2308.11329v1](http://arxiv.org/abs/2308.11329v1)|null|
+|**2023-08-22**|**On-chip spatiotemporal optical vortex generation using an integrated metal-dielectric resonator**|Artem I. Kashapov et.al.|[2308.11319v1](http://arxiv.org/abs/2308.11319v1)|null|
+|**2023-08-22**|**Quasi-periodic oscillation detected in  $γ$ -rays in blazar PKS 0346-27**|Raj Prince et.al.|[2308.11317v1](http://arxiv.org/abs/2308.11317v1)|null|
+|**2023-08-22**|**Uncertainty Estimation of Transformers' Predictions via Topological Analysis of the Attention Matrices**|Elizaveta Kostenok et.al.|[2308.11295v1](http://arxiv.org/abs/2308.11295v1)|null|
+|**2023-08-22**|**Quantum harmonic analysis for polyanalytic Fock spaces**|Robert Fulsche et.al.|[2308.11292v1](http://arxiv.org/abs/2308.11292v1)|null|
+|**2023-08-22**|**Efficient Last-iterate Convergence Algorithms in Solving Games**|Linjian Meng et.al.|[2308.11256v1](http://arxiv.org/abs/2308.11256v1)|null|
+|**2023-08-22**|**An Effective Transformer-based Contextual Model and Temporal Gate Pooling for Speaker Identification**|Harunori Kawano et.al.|[2308.11241v1](http://arxiv.org/abs/2308.11241v1)|**[link](https://github.com/harunorikawano/speaker-identification-with-tgp)**|
+|**2023-08-22**|**Computational Inference for Directions in Canonical Correlation Analysis**|Daniel Kessler et.al.|[2308.11218v1](http://arxiv.org/abs/2308.11218v1)|null|
+|**2023-08-22**|**Federated Learning in Big Model Era: Domain-Specific Multimodal Large Models**|Zengxiang Li et.al.|[2308.11217v1](http://arxiv.org/abs/2308.11217v1)|null|
+|**2023-08-22**|**SegRNN: Segment Recurrent Neural Network for Long-Term Time Series Forecasting**|Shengsheng Lin et.al.|[2308.11200v1](http://arxiv.org/abs/2308.11200v1)|null|
+|**2023-08-22**|**ConcatPlexer: Additional Dim1 Batching for Faster ViTs**|Donghoon Han et.al.|[2308.11199v1](http://arxiv.org/abs/2308.11199v1)|null|
+|**2023-08-22**|**MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation**|Jinpeng Wang et.al.|[2308.11175v1](http://arxiv.org/abs/2308.11175v1)|null|
+|**2023-08-22**|**Improving Misaligned Multi-modality Image Fusion with One-stage Progressive Dense Registration**|Di Wang et.al.|[2308.11165v1](http://arxiv.org/abs/2308.11165v1)|null|
+|**2023-08-22**|**Adversarial Attacks on Code Models with Discriminative Graph Patterns**|Thanh-Dat Nguyen et.al.|[2308.11161v1](http://arxiv.org/abs/2308.11161v1)|null|
+|**2023-08-22**|**SwinV2DNet: Pyramid and Self-Supervision Compounded Feature Learning for Remote Sensing Images Change Detection**|Dalong Zheng et.al.|[2308.11159v1](http://arxiv.org/abs/2308.11159v1)|null|
+|**2023-08-22**|**Exploring Unsupervised Cell Recognition with Prior Self-activation Maps**|Pingyi Chen et.al.|[2308.11144v1](http://arxiv.org/abs/2308.11144v1)|**[link](https://github.com/cpystan/psm)**|
+|**2023-08-22**|**Transformers for Capturing Multi-level Graph Structure using Hierarchical Distances**|Yuankai Luo et.al.|[2308.11129v1](http://arxiv.org/abs/2308.11129v1)|null|
+|**2023-08-22**|**Meta-Stock: Task-Difficulty-Adaptive Meta-learning for Sub-new Stock Price Prediction**|Linghao Wang et.al.|[2308.11117v1](http://arxiv.org/abs/2308.11117v1)|null|
+|**2023-08-22**|**Video OWL-ViT: Temporally-consistent open-world localization in video**|Georg Heigold et.al.|[2308.11093v1](http://arxiv.org/abs/2308.11093v1)|null|
+|**2023-08-21**|**An Unbiased Predictor for Skewed Response Variable with Measurement Error in Covariate**|Sepideh Mosaferi et.al.|[2308.11081v1](http://arxiv.org/abs/2308.11081v1)|null|
+|**2023-08-21**|**Temporal-Distributed Backdoor Attack Against Video Based Action Recognition**|Xi Li et.al.|[2308.11070v1](http://arxiv.org/abs/2308.11070v1)|null|
+|**2023-08-21**|**GSA to HDL: Towards principled generation of dynamically scheduled circuits**|Aditya Rajagopal et.al.|[2308.11048v1](http://arxiv.org/abs/2308.11048v1)|null|
+|**2023-08-21**|**Kink in dual dilaton-axion theories with potential**|Oleg V. Kechkin et.al.|[2308.11046v1](http://arxiv.org/abs/2308.11046v1)|null|
+|**2023-08-21**|**Computational Synthesis of Wearable Robot Mechanisms: Application to Hip-Joint Mechanisms**|Seok Won Kang et.al.|[2308.11018v1](http://arxiv.org/abs/2308.11018v1)|null|
+|**2023-08-21**|**Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images**|Tze Ho Elden Tse et.al.|[2308.11015v1](http://arxiv.org/abs/2308.11015v1)|null|
+|**2023-08-21**|**Smoothing of binary codes, uniform distributions, and applications**|Madhura Pathegama et.al.|[2308.11009v1](http://arxiv.org/abs/2308.11009v1)|null|
+|**2023-08-21**|**Switched auxiliary loss for robust training of transformer models for histopathological image segmentation**|Mustaffa Hussain et.al.|[2308.10994v1](http://arxiv.org/abs/2308.10994v1)|null|
+|**2023-08-21**|**Modularity of higher theta series I: cohomology of the generic fiber**|Tony Feng et.al.|[2308.10979v1](http://arxiv.org/abs/2308.10979v1)|null|
+|**2023-08-21**|**Generalized analysis of a dust collapse in effective loop quantum gravity: fate of shocks and covariance**|Kristina Giesel et.al.|[2308.10953v1](http://arxiv.org/abs/2308.10953v1)|null|
+|**2023-08-21**|**Towards an astronomical foundation model for stars with a Transformer-based model**|Henry W. Leung et.al.|[2308.10944v1](http://arxiv.org/abs/2308.10944v1)|null|
 |**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902v1](http://arxiv.org/abs/2308.10902v1)|null|
 |**2023-08-21**|**Can Language Models Learn to Listen?**|Evonne Ng et.al.|[2308.10897v1](http://arxiv.org/abs/2308.10897v1)|null|
 |**2023-08-21**|**Analyzing Transformer Dynamics as Movement through Embedding Space**|Sumeet S. Singh et.al.|[2308.10874v1](http://arxiv.org/abs/2308.10874v1)|null|
