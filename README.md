@@ -872,7 +872,7 @@
 |**2023-08-23**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models**|Surya Narayanan Hari et.al.|[2308.11601v2](http://arxiv.org/abs/2308.11601v2)|null|
 |**2023-08-22**|**NIPG-DG schemes for transformed master equations modeling open quantum systems**|Jose A. Morales Escalante et.al.|[2308.11580v1](http://arxiv.org/abs/2308.11580v1)|null|
 |**2023-08-22**|**G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model**|Zhijian Qiao et.al.|[2308.11573v1](http://arxiv.org/abs/2308.11573v1)|**[link](https://github.com/hkust-aerial-robotics/g3reg)**|
-|**2023-08-23**|**Target-Grounded Graph-Aware Transformer for Aerial Vision-and-Dialog Navigation**|Yifei Su et.al.|[2308.11561v2](http://arxiv.org/abs/2308.11561v2)|null|
+|**2023-08-23**|**Target-Grounded Graph-Aware Transformer for Aerial Vision-and-Dialog Navigation**|Yifei Su et.al.|[2308.11561v2](http://arxiv.org/abs/2308.11561v2)|**[link](https://github.com/yifeisu/avdn-challenge)**|
 |**2023-08-22**|**Comment on "Modification of Lie's transform perturbation theory for charged particle motion in a magnetic field''**|Alain J. Brizard et.al.|[2308.11524v1](http://arxiv.org/abs/2308.11524v1)|null|
 |**2023-08-22**|**SwinFace: A Multi-task Transformer for Face Recognition, Expression Recognition, Age Estimation and Attribute Estimation**|Lixiong Qin et.al.|[2308.11509v1](http://arxiv.org/abs/2308.11509v1)|**[link](https://github.com/lxq1000/swinface)**|
 |**2023-08-22**|**Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding**|Jiantao Wu et.al.|[2308.11448v1](http://arxiv.org/abs/2308.11448v1)|null|
