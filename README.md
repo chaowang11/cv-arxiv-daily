@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**DISGAN: Wavelet-informed Discriminator Guides GAN to MRI Super-resolution with Noise Cleaning**|Qi Wang et.al.|[2308.12084v1](http://arxiv.org/abs/2308.12084v1)|null|
+|**2023-08-23**|**StofNet: Super-resolution Time of Flight Network**|Christopher Hahne et.al.|[2308.12009v1](http://arxiv.org/abs/2308.12009v1)|null|
+|**2023-08-22**|**SuperCalo: Calorimeter shower super-resolution**|Ian Pang et.al.|[2308.11700v1](http://arxiv.org/abs/2308.11700v1)|**[link](https://github.com/ian-pang/supercalo)**|
 |**2023-08-22**|**Towards Clip-Free Quantized Super-Resolution Networks: How to Tame Representative Images**|Alperen Kalay et.al.|[2308.11365v1](http://arxiv.org/abs/2308.11365v1)|null|
 |**2023-08-21**|**MRI Field-transfer Reconstruction with Limited Data: Regularization by Neural Style Transfer**|Guoyao Shen et.al.|[2308.10968v1](http://arxiv.org/abs/2308.10968v1)|null|
 |**2023-08-18**|**Deformable-Detection Transformer for Microbubble Localization in Ultrasound Localization Microscopy**|Sepideh K. Gharamaleki et.al.|[2308.09845v1](http://arxiv.org/abs/2308.09845v1)|null|
@@ -867,8 +870,52 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**Observation of Nagaoka Polarons in a Fermi-Hubbard Quantum Simulator**|Martin Lebrat et.al.|[2308.12269v1](http://arxiv.org/abs/2308.12269v1)|null|
+|**2023-08-23**|**Transformer-based Nonlinear Equalization for DP-16QAM Coherent Optical Communication Systems**|Naveenta Gautam et.al.|[2308.12262v1](http://arxiv.org/abs/2308.12262v1)|null|
+|**2023-08-23**|**System Identification Using the Signed Cumulative Distribution Transform In Structural Health Monitoring Applications**|Abu Hasnat Mohammad Rubaiyat et.al.|[2308.12259v1](http://arxiv.org/abs/2308.12259v1)|null|
+|**2023-08-23**|**How to Protect Copyright Data in Optimization of Large Language Models?**|Timothy Chu et.al.|[2308.12247v1](http://arxiv.org/abs/2308.12247v1)|null|
+|**2023-08-23**|**SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation**|Qing Xu et.al.|[2308.12231v1](http://arxiv.org/abs/2308.12231v1)|**[link](https://github.com/xq141839/sppnet)**|
+|**2023-08-23**|**Analysis of transient and intermittent flows using a multidimensional empirical mode decomposition**|Lucas F. de Souza et.al.|[2308.12230v1](http://arxiv.org/abs/2308.12230v1)|null|
+|**2023-08-23**|**SG-Former: Self-guided Transformer with Evolving Token Reallocation**|Sucheng Ren et.al.|[2308.12216v1](http://arxiv.org/abs/2308.12216v1)|null|
+|**2023-08-23**|**CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No**|Hualiang Wang et.al.|[2308.12213v1](http://arxiv.org/abs/2308.12213v1)|null|
+|**2023-08-23**|**First passage percolation on Erdős-Rényi graphs with general weights**|Fraser Daly et.al.|[2308.12149v1](http://arxiv.org/abs/2308.12149v1)|null|
+|**2023-08-23**|**Fractional quantum Hall edge polaritons**|Lucas Winter et.al.|[2308.12146v1](http://arxiv.org/abs/2308.12146v1)|null|
+|**2023-08-23**|**Masking Strategies for Background Bias Removal in Computer Vision Models**|Ananthu Aniraj et.al.|[2308.12127v1](http://arxiv.org/abs/2308.12127v1)|**[link](https://github.com/ananthu-aniraj/masking_strategies_bias_removal)**|
+|**2023-08-23**|**DISGAN: Wavelet-informed Discriminator Guides GAN to MRI Super-resolution with Noise Cleaning**|Qi Wang et.al.|[2308.12084v1](http://arxiv.org/abs/2308.12084v1)|null|
+|**2023-08-23**|**Pre-gated MoE: An Algorithm-System Co-Design for Fast and Scalable Mixture-of-Expert Inference**|Ranggi Hwang et.al.|[2308.12066v1](http://arxiv.org/abs/2308.12066v1)|null|
+|**2023-08-23**|**Ensembling Uncertainty Measures to Improve Safety of Black-Box Classifiers**|Tommaso Zoppi et.al.|[2308.12065v1](http://arxiv.org/abs/2308.12065v1)|null|
+|**2023-08-23**|**Aligning Language Models with Offline Reinforcement Learning from Human Feedback**|Jian Hu et.al.|[2308.12050v1](http://arxiv.org/abs/2308.12050v1)|null|
+|**2023-08-23**|**From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning**|Ming Li et.al.|[2308.12032v1](http://arxiv.org/abs/2308.12032v1)|null|
+|**2023-08-23**|**A Scale-Invariant Task Balancing Approach for Multi-Task Learning**|Baijiong Lin et.al.|[2308.12029v1](http://arxiv.org/abs/2308.12029v1)|null|
+|**2023-08-23**|**From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Models**|Jing Yao et.al.|[2308.12014v1](http://arxiv.org/abs/2308.12014v1)|null|
+|**2023-08-23**|**Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition**|Yujun Ma et.al.|[2308.12006v1](http://arxiv.org/abs/2308.12006v1)|null|
+|**2023-08-23**|**Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment**|Kangmin Xu et.al.|[2308.12001v1](http://arxiv.org/abs/2308.12001v1)|null|
+|**2023-08-23**|**Irreducible momentum-space spin structure of Weyl semimetals and its signatures in Friedel oscillations**|Andy Knoll et.al.|[2308.11986v1](http://arxiv.org/abs/2308.11986v1)|null|
+|**2023-08-23**|**Rotation-Invariant Completion Network**|Yu Chen et.al.|[2308.11979v1](http://arxiv.org/abs/2308.11979v1)|null|
+|**2023-08-23**|**ESTA: An Efficient Spatial-Temporal Range Aggregation Query Processing Algorithm for UAV Networks**|Wenbin Zhai et.al.|[2308.11977v1](http://arxiv.org/abs/2308.11977v1)|null|
+|**2023-08-23**|**EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE**|Junyi Chen et.al.|[2308.11971v1](http://arxiv.org/abs/2308.11971v1)|null|
+|**2023-08-23**|**Understanding differences of the OA uptake within the Germany university landscape (2010-2020) -- Part 2: repository-provided OA**|Niels Taubert et.al.|[2308.11965v1](http://arxiv.org/abs/2308.11965v1)|null|
+|**2023-08-23**|**CED: Consistent ensemble distillation for audio tagging**|Heinrich Dinkel et.al.|[2308.11957v1](http://arxiv.org/abs/2308.11957v1)|null|
+|**2023-08-23**|**On the Local Regularity of the Hilbert Transform**|Yifei Pan et.al.|[2308.11947v1](http://arxiv.org/abs/2308.11947v1)|null|
+|**2023-08-23**|**Multi-scale Transformer Pyramid Networks for Multivariate Time Series Forecasting**|Yifan Zhang et.al.|[2308.11946v1](http://arxiv.org/abs/2308.11946v1)|null|
+|**2023-08-23**|**LongDanceDiff: Long-term Dance Generation with Conditional Diffusion Model**|Siqi Yang et.al.|[2308.11945v1](http://arxiv.org/abs/2308.11945v1)|null|
+|**2023-08-23**|**Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification**|Chengguo Yuan et.al.|[2308.11937v1](http://arxiv.org/abs/2308.11937v1)|null|
+|**2023-08-23**|**Audio Difference Captioning Utilizing Similarity-Discrepancy Disentanglement**|Daiki Takeuchi et.al.|[2308.11923v1](http://arxiv.org/abs/2308.11923v1)|null|
+|**2023-08-23**|**A Unified Framework for 3D Point Cloud Visual Grounding**|Haojia Lin et.al.|[2308.11887v1](http://arxiv.org/abs/2308.11887v1)|**[link](https://github.com/leon1207/3dreftr)**|
+|**2023-08-23**|**Cabrita: closing the gap for foreign languages**|Celio Larcher et.al.|[2308.11878v1](http://arxiv.org/abs/2308.11878v1)|null|
+|**2023-08-23**|**On a Divergence-Based Prior Analysis of Stick-Breaking Processes**|José A. Perusquía et.al.|[2308.11868v1](http://arxiv.org/abs/2308.11868v1)|null|
+|**2023-08-23**|**Enhanced Residual SwinV2 Transformer for Learned Image Compression**|Yongqiang Wang et.al.|[2308.11864v1](http://arxiv.org/abs/2308.11864v1)|null|
+|**2023-08-23**|**CoC-GAN: Employing Context Cluster for Unveiling a New Pathway in Image Generation**|Zihao Wang et.al.|[2308.11857v1](http://arxiv.org/abs/2308.11857v1)|null|
+|**2023-08-22**|**Exploring the Effectiveness of GPT Models in Test-Taking: A Case Study of the Driver's License Knowledge Test**|Saba Rahimi et.al.|[2308.11827v1](http://arxiv.org/abs/2308.11827v1)|null|
+|**2023-08-22**|**PatchBackdoor: Backdoor Attack against Deep Neural Networks without Model Modification**|Yizhen Yuan et.al.|[2308.11822v1](http://arxiv.org/abs/2308.11822v1)|**[link](https://github.com/xaiveryuan/patchbackdoor)**|
+|**2023-08-22**|**Celestial holography from Chiral strings**|Hare Krishna et.al.|[2308.11799v1](http://arxiv.org/abs/2308.11799v1)|null|
+|**2023-08-22**|**Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts**|Wenyan Cong et.al.|[2308.11793v1](http://arxiv.org/abs/2308.11793v1)|null|
+|**2023-08-22**|**Coarse-to-Fine Multi-Scene Pose Regression with Transformers**|Yoli Shavit et.al.|[2308.11783v1](http://arxiv.org/abs/2308.11783v1)|null|
+|**2023-08-22**|**Addressing Dynamic and Sparse Qualitative Data: A Hilbert Space Embedding of Categorical Variables**|Anirban Mukherjee et.al.|[2308.11781v1](http://arxiv.org/abs/2308.11781v1)|null|
+|**2023-08-22**|**Guiding center motion for particles in a ponderomotive magnetostatic end plug**|T. Rubin et.al.|[2308.11735v1](http://arxiv.org/abs/2308.11735v1)|null|
+|**2023-08-22**|**Invariant representation learning for sequential recommendation**|Xiaofan Zhou et.al.|[2308.11728v1](http://arxiv.org/abs/2308.11728v1)|null|
 |**2023-08-22**|**Zero and Finite Temperature Quantum Simulations Powered by Quantum Magic**|Andi Gu et.al.|[2308.11616v1](http://arxiv.org/abs/2308.11616v1)|null|
-|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|null|
+|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|**[link](https://github.com/kuanchihhuang/moma-m3t)**|
 |**2023-08-23**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models**|Surya Narayanan Hari et.al.|[2308.11601v2](http://arxiv.org/abs/2308.11601v2)|null|
 |**2023-08-22**|**NIPG-DG schemes for transformed master equations modeling open quantum systems**|Jose A. Morales Escalante et.al.|[2308.11580v1](http://arxiv.org/abs/2308.11580v1)|null|
 |**2023-08-22**|**G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model**|Zhijian Qiao et.al.|[2308.11573v1](http://arxiv.org/abs/2308.11573v1)|**[link](https://github.com/hkust-aerial-robotics/g3reg)**|
