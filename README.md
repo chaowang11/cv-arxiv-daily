@@ -885,7 +885,7 @@
 |**2023-08-24**|**EFormer: Enhanced Transformer towards Semantic-Contour Features of Foreground for Portraits Matting**|Zitao Wang et.al.|[2308.12831v1](http://arxiv.org/abs/2308.12831v1)|null|
 |**2023-08-24**|**Coherence manipulation in asymmetry and thermodynamics**|Tulja Varun Kondra et.al.|[2308.12814v1](http://arxiv.org/abs/2308.12814v1)|null|
 |**2023-08-24**|**Solid-state  $^3\mathrm{He}$  NMR of the superconducting rubidium endofulleride  $\mathrm{Rb_3(^3He@C_{60})}$ **|Murari Soundararajan et.al.|[2308.12812v1](http://arxiv.org/abs/2308.12812v1)|null|
-|**2023-08-24**|**Sparks of Large Audio Models: A Survey and Outlook**|Siddique Latif et.al.|[2308.12792v1](http://arxiv.org/abs/2308.12792v1)|null|
+|**2023-08-24**|**Sparks of Large Audio Models: A Survey and Outlook**|Siddique Latif et.al.|[2308.12792v1](http://arxiv.org/abs/2308.12792v1)|**[link](https://github.com/emulationai/awesome-large-audio-models)**|
 |**2023-08-24**|**Bankruptcy probabilities under non-Poisson inspection**|Florine Kuipers et.al.|[2308.12769v1](http://arxiv.org/abs/2308.12769v1)|null|
 |**2023-08-24**|**Theoretical designing of multiband Nickelate and Palladate superconductors with  $d^{8+δ}$  configuration**|Naoya Kitamine et.al.|[2308.12750v1](http://arxiv.org/abs/2308.12750v1)|null|
 |**2023-08-24**|**Learning Heavily-Degraded Prior for Underwater Object Detection**|Chenping Fu et.al.|[2308.12738v1](http://arxiv.org/abs/2308.12738v1)|**[link](https://github.com/xiaodetection/learning-heavily-degraed-prior)**|
