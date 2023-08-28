@@ -872,6 +872,42 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Robust Core-Periphery Constrained Transformer for Domain Adaptation**|Xiaowei Yu et.al.|[2308.13515v1](http://arxiv.org/abs/2308.13515v1)|null|
+|**2023-08-25**|**Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers**|Matthew Dutson et.al.|[2308.13494v1](http://arxiv.org/abs/2308.13494v1)|null|
+|**2023-08-25**|**TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs**|Phitchaya Mangpo Phothilimthana et.al.|[2308.13490v1](http://arxiv.org/abs/2308.13490v1)|**[link](https://github.com/google-research-datasets/tpu_graphs)**|
+|**2023-08-25**|**RestNet: Boosting Cross-Domain Few-Shot Segmentation with Residual Transformation Network**|Xinyang Huang et.al.|[2308.13469v1](http://arxiv.org/abs/2308.13469v1)|null|
+|**2023-08-25**|**Large-scale error-tolerant programmable interferometer fabricated by femtosecond laser writing**|Ilya V. Kondratyev et.al.|[2308.13452v1](http://arxiv.org/abs/2308.13452v1)|null|
+|**2023-08-25**|**Unlocking Fine-Grained Details with Wavelet-based High-Frequency Enhancement in Transformers**|Reza Azad et.al.|[2308.13442v1](http://arxiv.org/abs/2308.13442v1)|**[link](https://github.com/mindflow-institue/waveformer)**|
+|**2023-08-25**|**Nougat: Neural Optical Understanding for Academic Documents**|Lukas Blecher et.al.|[2308.13418v1](http://arxiv.org/abs/2308.13418v1)|**[link](https://github.com/facebookresearch/nougat)**|
+|**2023-08-25**|**An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation**|Tiarna Lee et.al.|[2308.13415v1](http://arxiv.org/abs/2308.13415v1)|null|
+|**2023-08-25**|**Harvard Glaucoma Detection and Progression: A Multimodal Multitask Dataset and Generalization-Reinforced Semi-Supervised Learning**|Yan Luo et.al.|[2308.13411v1](http://arxiv.org/abs/2308.13411v1)|null|
+|**2023-08-25**|**Direction-aware Video Demoireing with Temporal-guided Bilateral Learning**|Shuning Xu et.al.|[2308.13388v1](http://arxiv.org/abs/2308.13388v1)|null|
+|**2023-08-25**|**Prompting Visual-Language Models for Dynamic Facial Expression Recognition**|Zengqun Zhao et.al.|[2308.13382v1](http://arxiv.org/abs/2308.13382v1)|**[link](https://github.com/zengqunzhao/dfer-clip)**|
+|**2023-08-25**|**Deep Unfolding-Based Channel Estimation for Wideband TeraHertz Near-Field Massive MIMO Systems**|Jiabao Gao et.al.|[2308.13381v1](http://arxiv.org/abs/2308.13381v1)|null|
+|**2023-08-25**|**In-context learning for model-free system identification**|Marco Forgione et.al.|[2308.13380v1](http://arxiv.org/abs/2308.13380v1)|**[link](https://github.com/forgi86/sysid-neural-transformers)**|
+|**2023-08-25**|**CS-Mixer: A Cross-Scale Vision MLP Model with Spatial-Channel Mixing**|Jonathan Cui et.al.|[2308.13363v1](http://arxiv.org/abs/2308.13363v1)|null|
+|**2023-08-25**|**A topological model for partial equivariance in deep learning and data analysis**|Lucia Ferrari et.al.|[2308.13357v1](http://arxiv.org/abs/2308.13357v1)|null|
+|**2023-08-25**|**On the Impact of Language Selection for Training and Evaluating Programming Language Models**|Jonathan Katzy et.al.|[2308.13354v1](http://arxiv.org/abs/2308.13354v1)|null|
+|**2023-08-25**|**GARHCX-NoVaS: A Model-free Approach to Incorporate Exogenous Variables**|Kejin Wu et.al.|[2308.13346v1](http://arxiv.org/abs/2308.13346v1)|null|
+|**2023-08-25**|**A Re-Parameterized Vision Transformer (ReVT) for Domain-Generalized Semantic Segmentation**|Jan-Aike Termöhlen et.al.|[2308.13331v1](http://arxiv.org/abs/2308.13331v1)|null|
+|**2023-08-25**|**ConSlide: Asynchronous Hierarchical Interaction Transformer with Breakup-Reorganize Rehearsal for Continual Whole Slide Image Analysis**|Yanyan Huang et.al.|[2308.13324v1](http://arxiv.org/abs/2308.13324v1)|null|
+|**2023-08-25**|**Transforming the Output of Generative Pre-trained Transformer: The Influence of the PGI Framework on Attention Dynamics**|Aline Ioste et.al.|[2308.13317v1](http://arxiv.org/abs/2308.13317v1)|null|
+|**2023-08-25**|**Refine Neutrino Events Reconstruction with BEiT-3**|Chen Li et.al.|[2308.13285v1](http://arxiv.org/abs/2308.13285v1)|**[link](https://github.com/ChenLi2049/ISeeCube)**|
+|**2023-08-25**|**Integrating LLMs and Decision Transformers for Language Grounded Generative Quality-Diversity**|Achkan Salehi et.al.|[2308.13278v1](http://arxiv.org/abs/2308.13278v1)|null|
+|**2023-08-25**|**Approximation Algorithms to Enhance Social Sharing of Fresh Point-of-Interest Information**|Songhua Li et.al.|[2308.13260v1](http://arxiv.org/abs/2308.13260v1)|null|
+|**2023-08-25**|**Twisted shift preserving operators on  $L^{2}(\mathbb{R}^{2n})$ **|Rabeetha Velsamy et.al.|[2308.13238v1](http://arxiv.org/abs/2308.13238v1)|null|
+|**2023-08-25**|**GEMTrans: A General, Echocardiography-based, Multi-Level Transformer Framework for Cardiovascular Diagnosis**|Masoud Mokhtari et.al.|[2308.13217v1](http://arxiv.org/abs/2308.13217v1)|**[link](https://github.com/dsl-lab/gemtrans)**|
+|**2023-08-25**|**Chunk, Align, Select: A Simple Long-sequence Processing Method for Transformers**|Jiawen Xie et.al.|[2308.13191v1](http://arxiv.org/abs/2308.13191v1)|null|
+|**2023-08-25**|**Certainty Equivalence Control-Based Heuristics in Multi-Stage Convex Stochastic Optimization Problems**|Chen Yan et.al.|[2308.13166v1](http://arxiv.org/abs/2308.13166v1)|null|
+|**2023-08-25**|**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model**|Xunpeng Yi et.al.|[2308.13164v1](http://arxiv.org/abs/2308.13164v1)|null|
+|**2023-08-25**|**Perverse filtrations and Fourier transforms**|Davesh Maulik et.al.|[2308.13160v1](http://arxiv.org/abs/2308.13160v1)|null|
+|**2023-08-25**|**Enhancing Breast Cancer Classification Using Transfer ResNet with Lightweight Attention Mechanism**|Suxing Liu et.al.|[2308.13150v1](http://arxiv.org/abs/2308.13150v1)|null|
+|**2023-08-25**|**MatchXML: An Efficient Text-label Matching Framework for Extreme Multi-label Text Classification**|Hui Ye et.al.|[2308.13139v1](http://arxiv.org/abs/2308.13139v1)|**[link](https://github.com/huiyegit/matchxml)**|
+|**2023-08-25**|**OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models**|Wenqi Shao et.al.|[2308.13137v1](http://arxiv.org/abs/2308.13137v1)|**[link](https://github.com/opengvlab/omniquant)**|
+|**2023-08-24**|**Full-dose PET Synthesis from Low-dose PET Using High-efficiency Diffusion Denoising Probabilistic Model**|Shaoyan Pan et.al.|[2308.13072v1](http://arxiv.org/abs/2308.13072v1)|null|
+|**2023-08-24**|**Generalizable Zero-Shot Speaker Adaptive Speech Synthesis with Disentangled Representations**|Wenbin Wang et.al.|[2308.13007v1](http://arxiv.org/abs/2308.13007v1)|null|
+|**2023-08-24**|**Unraveling long-time quantum dynamics using flow equations**|S. J. Thomson et.al.|[2308.13005v1](http://arxiv.org/abs/2308.13005v1)|null|
+|**2023-08-24**|**Spherical Vision Transformer for 360-degree Video Saliency Prediction**|Mert Cokelek et.al.|[2308.13004v1](http://arxiv.org/abs/2308.13004v1)|null|
 |**2023-08-24**|**On the regularity problem for parabolic operators and the role of half-time derivative**|Martin Dindoš et.al.|[2308.12936v1](http://arxiv.org/abs/2308.12936v1)|null|
 |**2023-08-24**|**An Efficient Distributed Multi-Agent Reinforcement Learning for EV Charging Network Control**|Amin Shojaeighadikolaei et.al.|[2308.12921v1](http://arxiv.org/abs/2308.12921v1)|null|
 |**2023-08-24**|**Towards Realistic Unsupervised Fine-tuning with CLIP**|Jian Liang et.al.|[2308.12919v1](http://arxiv.org/abs/2308.12919v1)|null|
