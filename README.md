@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -528,7 +528,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -734,7 +734,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -814,7 +814,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -832,7 +832,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -873,7 +873,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## Transformer
 
@@ -881,7 +881,7 @@
 |---|---|---|---|---|
 |**2023-08-29**|**An Adaptive Tangent Feature Perspective of Neural Networks**|Daniel LeJeune et.al.|[2308.15478v1](http://arxiv.org/abs/2308.15478v1)|null|
 |**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472v1](http://arxiv.org/abs/2308.15472v1)|null|
-|**2023-08-29**|**Sharing proofs with predicative theories through universe polymorphic elaboration**|Thiago Felicissimo et.al.|[2308.15465v1](http://arxiv.org/abs/2308.15465v1)|null|
+|**2023-08-30**|**Sharing proofs with predicative theories through universe polymorphic elaboration**|Thiago Felicissimo et.al.|[2308.15465v2](http://arxiv.org/abs/2308.15465v2)|null|
 |**2023-08-29**|**Online Overexposed Pixels Hallucination in Videos with Adaptive Reference Frame Selection**|Yazhou Xing et.al.|[2308.15462v1](http://arxiv.org/abs/2308.15462v1)|null|
 |**2023-08-29**|**Canonical Factors for Hybrid Neural Fields**|Brent Yi et.al.|[2308.15461v1](http://arxiv.org/abs/2308.15461v1)|null|
 |**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459v1](http://arxiv.org/abs/2308.15459v1)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
@@ -903,13 +903,13 @@
 |**2023-08-29**|**TKwinFormer: Top k Window Attention in Vision Transformers for Feature Matching**|Yun Liao et.al.|[2308.15144v1](http://arxiv.org/abs/2308.15144v1)|null|
 |**2023-08-29**|**A Multimodal Visual Encoding Model Aided by Introducing Verbal Semantic Information**|Shuxiao Ma et.al.|[2308.15142v1](http://arxiv.org/abs/2308.15142v1)|null|
 |**2023-08-29**|**Robust Transceiver Design for Covert Integrated Sensing and Communications With Imperfect CSI**|Yuchen Zhang et.al.|[2308.15131v1](http://arxiv.org/abs/2308.15131v1)|null|
-|**2023-08-29**|**SpikeBERT: A Language Spikformer Trained with Two-Stage Knowledge Distillation from BERT**|Changze Lv et.al.|[2308.15122v1](http://arxiv.org/abs/2308.15122v1)|null|
+|**2023-08-30**|**SpikeBERT: A Language Spikformer Trained with Two-Stage Knowledge Distillation from BERT**|Changze Lv et.al.|[2308.15122v2](http://arxiv.org/abs/2308.15122v2)|null|
 |**2023-08-29**|**Killing two birds with one stone: Can an audio captioning system also be used for audio-text retrieval?**|Etienne Labbé et.al.|[2308.15090v1](http://arxiv.org/abs/2308.15090v1)|null|
 |**2023-08-29**|**Octant Degeneracy and Plots of Parameter Degeneracy in Neutrino Oscillations Revisited**|Sho Sugama et.al.|[2308.15071v1](http://arxiv.org/abs/2308.15071v1)|null|
 |**2023-08-29**|**STEC: See-Through Transformer-based Encoder for CTR Prediction**|Serdarcan Dilbaz et.al.|[2308.15033v1](http://arxiv.org/abs/2308.15033v1)|null|
 |**2023-08-29**|**Improving Neural Ranking Models with Traditional IR Methods**|Anik Saha et.al.|[2308.15027v1](http://arxiv.org/abs/2308.15027v1)|**[link](https://github.com/aniksh/dual_encoder)**|
 |**2023-08-29**|**Massively Parallel Continuous Local Search for Hybrid SAT Solving on GPUs**|Yunuo Cen et.al.|[2308.15020v1](http://arxiv.org/abs/2308.15020v1)|null|
-|**2023-08-29**|**Few-Shot Object Detection via Synthetic Features with Optimal Transport**|Anh-Khoa Nguyen Vu et.al.|[2308.15005v1](http://arxiv.org/abs/2308.15005v1)|null|
+|**2023-08-30**|**Few-Shot Object Detection via Synthetic Features with Optimal Transport**|Anh-Khoa Nguyen Vu et.al.|[2308.15005v2](http://arxiv.org/abs/2308.15005v2)|null|
 |**2023-08-29**|**PBFormer: Capturing Complex Scene Text Shape with Polynomial Band Transformer**|Ruijin Liu et.al.|[2308.15004v1](http://arxiv.org/abs/2308.15004v1)|null|
 |**2023-08-29**|**WSAM: Visual Explanations from Style Augmentation as Adversarial Attacker and Their Influence in Image Classification**|Felipe Moreno-Vera et.al.|[2308.14995v1](http://arxiv.org/abs/2308.14995v1)|**[link](https://github.com/fmorenovr/WSAM_Style)**|
 |**2023-08-29**|**Robot Manipulation Task Learning by Leveraging SE(3) Group Invariance and Equivariance**|Joohwan Seo et.al.|[2308.14984v1](http://arxiv.org/abs/2308.14984v1)|null|
@@ -8839,7 +8839,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -8973,7 +8973,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -9039,7 +9039,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
