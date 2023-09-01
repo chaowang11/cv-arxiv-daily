@@ -882,6 +882,49 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**Karhunen-Loève Data Imputation in High Contrast Imaging**|Bin B. Ren et.al.|[2308.16912v1](http://arxiv.org/abs/2308.16912v1)|null|
+|**2023-08-31**|**Fine-Grained Cross-View Geo-Localization Using a Correlation-Aware Homography Estimator**|Xiaolong Wang et.al.|[2308.16906v1](http://arxiv.org/abs/2308.16906v1)|**[link](https://github.com/xlwangdev/hc-net)**|
+|**2023-08-31**|**Eclectic flavor group  $Δ(27)\rtimes S_3$  and lepton model building**|Cai-Chang Li et.al.|[2308.16901v1](http://arxiv.org/abs/2308.16901v1)|null|
+|**2023-08-31**|**Transformers as Support Vector Machines**|Davoud Ataee Tarzanagh et.al.|[2308.16898v1](http://arxiv.org/abs/2308.16898v1)|null|
+|**2023-08-31**|**GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields**|Yanjie Ze et.al.|[2308.16891v1](http://arxiv.org/abs/2308.16891v1)|**[link](https://github.com/YanjieZe/GNFactor)**|
+|**2023-08-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890v1](http://arxiv.org/abs/2308.16890v1)|null|
+|**2023-08-31**|**Natural Quantum Monte Carlo Computation of Excited States**|David Pfau et.al.|[2308.16848v1](http://arxiv.org/abs/2308.16848v1)|null|
+|**2023-08-31**|**Weight 2 cohomology of graph complexes of cyclic operads and the handlebody group**|Michael Borinsky et.al.|[2308.16845v1](http://arxiv.org/abs/2308.16845v1)|null|
+|**2023-08-31**|**Towards Improving the Expressiveness of Singing Voice Synthesis with BERT Derived Semantic Information**|Shaohuan Zhou et.al.|[2308.16836v1](http://arxiv.org/abs/2308.16836v1)|null|
+|**2023-08-31**|**Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Network**|Weijia Zhang et.al.|[2308.16818v1](http://arxiv.org/abs/2308.16818v1)|null|
+|**2023-08-31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks**|Andreas Roth et.al.|[2308.16800v1](http://arxiv.org/abs/2308.16800v1)|null|
+|**2023-08-31**|**Toward Automatically Completing GitHub Workflows**|Antonio Mastropaolo et.al.|[2308.16774v1](http://arxiv.org/abs/2308.16774v1)|null|
+|**2023-08-31**|**US-SFNet: A Spatial-Frequency Domain-based Multi-branch Network for Cervical Lymph Node Lesions Diagnoses in Ultrasound Images**|Yubiao Yue et.al.|[2308.16738v1](http://arxiv.org/abs/2308.16738v1)|null|
+|**2023-08-31**|**On solving a rank regularized minimization problem via equivalent factorized column-sparse regularized models**|Wenjing Li et.al.|[2308.16690v1](http://arxiv.org/abs/2308.16690v1)|null|
+|**2023-08-31**|**ViLTA: Enhancing Vision-Language Pre-training through Textual Augmentation**|Weihan Wang et.al.|[2308.16689v1](http://arxiv.org/abs/2308.16689v1)|null|
+|**2023-08-31**|**Using Large Language Models to Automate Category and Trend Analysis of Scientific Articles: An Application in Ophthalmology**|Hina Raja et.al.|[2308.16688v1](http://arxiv.org/abs/2308.16688v1)|null|
+|**2023-08-31**|**Detecting Delamination via Nonlinear Wave Scattering in a Bonded Elastic Bar**|J. S. Tamber et.al.|[2308.16645v1](http://arxiv.org/abs/2308.16645v1)|null|
+|**2023-08-31**|**The Riemann-Hilbert approach for the integrable fractional Fokas--Lenells equation**|Ling An et.al.|[2308.16640v1](http://arxiv.org/abs/2308.16640v1)|null|
+|**2023-08-31**|**Canonically Jordan recoverable categories for modules over the path algebra of  $A_n$  type quivers**|Benjamin Dequêne et.al.|[2308.16626v1](http://arxiv.org/abs/2308.16626v1)|null|
+|**2023-08-31**|**The Brown-Halmos theorems on the Fock space**|Jie Qin et.al.|[2308.16613v1](http://arxiv.org/abs/2308.16613v1)|null|
+|**2023-08-31**|**Towards Optimal Patch Size in Vision Transformers for Tumor Segmentation**|Ramtin Mojtahedi et.al.|[2308.16598v1](http://arxiv.org/abs/2308.16598v1)|**[link](https://github.com/ramtin-mojtahedi/ovtps)**|
+|**2023-08-31**|**Learning to Represent Patches**|Xunzhu Tang et.al.|[2308.16586v1](http://arxiv.org/abs/2308.16586v1)|null|
+|**2023-08-31**|**Document Layout Analysis on BaDLAD Dataset: A Comprehensive MViTv2 Based Approach**|Ashrafur Rahman Khan et.al.|[2308.16571v1](http://arxiv.org/abs/2308.16571v1)|null|
+|**2023-08-31**|**Prompt-enhanced Hierarchical Transformer Elevating Cardiopulmonary Resuscitation Instruction via Temporal Action Segmentation**|Yang Liu et.al.|[2308.16552v1](http://arxiv.org/abs/2308.16552v1)|null|
+|**2023-08-31**|**The AI Revolution: Opportunities and Challenges for the Finance Sector**|Carsten Maple et.al.|[2308.16538v1](http://arxiv.org/abs/2308.16538v1)|null|
+|**2023-08-31**|**MS23D: A 3D Object Detection Method Using Multi-Scale Semantic Feature Points to Construct 3D Feature Layers**|Yongxin Shao et.al.|[2308.16518v1](http://arxiv.org/abs/2308.16518v1)|null|
+|**2023-08-31**|**Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations**|Xu Huang et.al.|[2308.16505v1](http://arxiv.org/abs/2308.16505v1)|null|
+|**2023-08-31**|**Individually Rational Collaborative Vehicle Routing through Give-And-Take Exchanges**|Paul Mingzheng Tang et.al.|[2308.16501v1](http://arxiv.org/abs/2308.16501v1)|null|
+|**2023-08-31**|**Global Synthesis of CNOT Circuits with Holes**|Ewan Murphy et.al.|[2308.16496v1](http://arxiv.org/abs/2308.16496v1)|null|
+|**2023-08-31**|**Transformer Compression via Subspace Projection**|Yuxuan Hu et.al.|[2308.16475v1](http://arxiv.org/abs/2308.16475v1)|null|
+|**2023-08-31**|**MaintainoMATE: A GitHub App for Intelligent Automation of Maintenance Activities**|Anas Nadeem et.al.|[2308.16464v1](http://arxiv.org/abs/2308.16464v1)|null|
+|**2023-08-31**|**Observation of Flat band and Van Hove Singularity in Nitrogen Doped Lutetium Hydride**|Xin Liang et.al.|[2308.16420v1](http://arxiv.org/abs/2308.16420v1)|null|
+|**2023-08-31**|**Multi-Objective Decision Transformers for Offline Reinforcement Learning**|Abdelghani Ghanem et.al.|[2308.16379v1](http://arxiv.org/abs/2308.16379v1)|null|
+|**2023-08-30**|**Recognition and constructive membership for purely hyperbolic groups acting on trees**|Ari Markowitz et.al.|[2308.16359v1](http://arxiv.org/abs/2308.16359v1)|null|
+|**2023-08-30**|**Catalog Phrase Grounding (CPG): Grounding of Product Textual Attributes in Product Images for e-commerce Vision-Language Applications**|Wenyi Wu et.al.|[2308.16354v1](http://arxiv.org/abs/2308.16354v1)|null|
+|**2023-08-30**|**Metrics-Based Evaluation and Comparison of Visualization Notations**|Nicolas Kruchten et.al.|[2308.16353v1](http://arxiv.org/abs/2308.16353v1)|null|
+|**2023-08-30**|**Symmetry Preservation in Hamiltonian Systems: Simulation and Learning**|Miguel Vaquero et.al.|[2308.16331v1](http://arxiv.org/abs/2308.16331v1)|null|
+|**2023-08-30**|**Ten Years of Generative Adversarial Nets (GANs): A survey of the state-of-the-art**|Tanujit Chakraborty et.al.|[2308.16316v1](http://arxiv.org/abs/2308.16316v1)|null|
+|**2023-08-30**|**Boundedness of Riesz transforms on  $\RCD(K, \infty)$  spaces**|Andrea Carbonaro et.al.|[2308.16294v1](http://arxiv.org/abs/2308.16294v1)|null|
+|**2023-08-30**|**Learning Diverse Features in Vision Transformers for Improved Generalization**|Armand Mihai Nicolicioiu et.al.|[2308.16274v1](http://arxiv.org/abs/2308.16274v1)|**[link](https://github.com/armandnm/diverse-vit)**|
+|**2023-08-30**|**Identifiable specializations for ODE models**|Alexey Ovchinnikov et.al.|[2308.16273v1](http://arxiv.org/abs/2308.16273v1)|null|
+|**2023-08-30**|**Emergence of Segmentation with Minimalistic White-Box Transformers**|Yaodong Yu et.al.|[2308.16271v1](http://arxiv.org/abs/2308.16271v1)|**[link](https://github.com/ma-lab-berkeley/crate)**|
+|**2023-08-30**|**Materials Informatics Transformer: A Language Model for Interpretable Materials Properties Prediction**|Hongshuo Huang et.al.|[2308.16259v1](http://arxiv.org/abs/2308.16259v1)|null|
 |**2023-08-30**|**Learning Vision-based Pursuit-Evasion Robot Policies**|Andrea Bajcsy et.al.|[2308.16185v1](http://arxiv.org/abs/2308.16185v1)|null|
 |**2023-08-30**|**Lepton-induced reactions on nuclei in a wide kinematical regime**|U. Mosel et.al.|[2308.16161v1](http://arxiv.org/abs/2308.16161v1)|null|
 |**2023-08-30**|**Rigorous noise reduction with quantum autoencoders**|Wai-Keong Mok et.al.|[2308.16153v1](http://arxiv.org/abs/2308.16153v1)|null|
