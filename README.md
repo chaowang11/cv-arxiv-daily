@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Robust Super-Resolution Imaging Based on a Ring Core Fiber with Orbital Angular Momentum**|Zheyu Wu et.al.|[2309.00371v1](http://arxiv.org/abs/2309.00371v1)|null|
 |**2023-08-31**|**Influence of adversarial training on super-resolution turbulence models**|Ludovico Nista et.al.|[2308.16015v2](http://arxiv.org/abs/2308.16015v2)|null|
 |**2023-08-30**|**Label-free image scanning microscopy for kHz super-resolution imaging and single particle tracking**|Duc-Minh Ta et.al.|[2308.15817v1](http://arxiv.org/abs/2308.15817v1)|null|
 |**2023-08-30**|**ACNPU: A 4.75TOPS/W 1080P@30FPS Super Resolution Accelerator with Decoupled Asymmetric Convolution**|Tun-Hao Yang et.al.|[2308.15807v1](http://arxiv.org/abs/2308.15807v1)|null|
@@ -882,6 +883,47 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Regular singular Volterra equations on complex domains**|Veronica Fantini et.al.|[2309.00603v1](http://arxiv.org/abs/2309.00603v1)|null|
+|**2023-09-01**|**PolyGET: Accelerating Polymer Simulations by Accurate and Generalizable Forcefield with Equivariant Transformer**|Rui Feng et.al.|[2309.00585v1](http://arxiv.org/abs/2309.00585v1)|null|
+|**2023-09-01**|**Geometry-Informed Neural Operator for Large-Scale 3D PDEs**|Zongyi Li et.al.|[2309.00583v1](http://arxiv.org/abs/2309.00583v1)|null|
+|**2023-09-01**|**Presentation of some elementary properties of Segal-Bargmann space and of unitary Segal-Bargmann transform with applications**|Abdelkader Intissar et.al.|[2309.00566v1](http://arxiv.org/abs/2309.00566v1)|null|
+|**2023-09-01**|**Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models**|Janghoon Ock et.al.|[2309.00563v1](http://arxiv.org/abs/2309.00563v1)|null|
+|**2023-09-01**|**Adaptive function approximation based on the Discrete Cosine Transform (DCT)**|Ana I. Pérez-Neira et.al.|[2309.00530v1](http://arxiv.org/abs/2309.00530v1)|null|
+|**2023-09-01**|**On the inversion of the momenta ray transform of symmetric tensors in the plane**|David Omogbhe et.al.|[2309.00499v1](http://arxiv.org/abs/2309.00499v1)|null|
+|**2023-09-01**|**Geometry-aware Line Graph Transformer Pre-training for Molecular Property Prediction**|Peizhen Bai et.al.|[2309.00483v1](http://arxiv.org/abs/2309.00483v1)|null|
+|**2023-09-01**|**The Nicolai-map approach to supersymmetry**|Olaf Lechtenfeld et.al.|[2309.00481v1](http://arxiv.org/abs/2309.00481v1)|null|
+|**2023-09-01**|**Learning-based NLOS Detection and Uncertainty Prediction of GNSS Observations with Transformer-Enhanced LSTM Network**|Haoming Zhang et.al.|[2309.00480v1](http://arxiv.org/abs/2309.00480v1)|**[link](https://github.com/rwth-irt/deepnlosdetection)**|
+|**2023-09-01**|**Deep Joint Source-Channel Coding for Adaptive Image Transmission over MIMO Channels**|Haotian Wu et.al.|[2309.00470v1](http://arxiv.org/abs/2309.00470v1)|null|
+|**2023-09-01**|**An Improved Encoder-Decoder Framework for Food EnergyEstimation**|Jack Ma et.al.|[2309.00468v1](http://arxiv.org/abs/2309.00468v1)|null|
+|**2023-09-01**|**CoNeTTE: An efficient Audio Captioning system leveraging multiple datasets with Task Embedding**|Étienne Labbé et.al.|[2309.00454v1](http://arxiv.org/abs/2309.00454v1)|null|
+|**2023-09-01**|**A Locality-based Neural Solver for Optical Motion Capture**|Xiaoyu Pan et.al.|[2309.00428v1](http://arxiv.org/abs/2309.00428v1)|**[link](https://github.com/non-void/localmocap)**|
+|**2023-09-01**|**Well-separated soliton-antisoliton pairs with an adjoint Higgs field in 4D space**|Liang Gong et.al.|[2309.00420v1](http://arxiv.org/abs/2309.00420v1)|null|
+|**2023-09-01**|**Optimal Scaling transformations to model non-linear relations in GLMs with ordered and unordered predictors**|S. J. W. Willems et.al.|[2309.00419v1](http://arxiv.org/abs/2309.00419v1)|null|
+|**2023-09-01**|**Selective Scene Text Removal**|Hayato Mitani et.al.|[2309.00410v1](http://arxiv.org/abs/2309.00410v1)|null|
+|**2023-09-01**|**A Hamiltonian for the Hilbert-Pólya Conjecture**|Enderalp Yakaboylu et.al.|[2309.00405v1](http://arxiv.org/abs/2309.00405v1)|null|
+|**2023-09-01**|**Cosmogenesis as symmetry transformation**|Adam Balcerzak et.al.|[2309.00375v1](http://arxiv.org/abs/2309.00375v1)|null|
+|**2023-09-01**|**Where Did the Gap Go? Reassessing the Long-Range Graph Benchmark**|Jan Tönshoff et.al.|[2309.00367v1](http://arxiv.org/abs/2309.00367v1)|null|
+|**2023-09-01**|** $^{16}$ O spectral function from coupled-cluster theory: applications to lepton-nucleus scattering**|Joanna E. Sobczyk et.al.|[2309.00355v1](http://arxiv.org/abs/2309.00355v1)|null|
+|**2023-09-01**|**Improving Dependency Tuples for Almost-Sure Innermost Termination of Probabilistic Term Rewriting**|Jan-Christoph Kassing et.al.|[2309.00344v1](http://arxiv.org/abs/2309.00344v1)|null|
+|**2023-09-01**|**Robust Point Cloud Processing through Positional Embedding**|Jianqiao Zheng et.al.|[2309.00339v1](http://arxiv.org/abs/2309.00339v1)|null|
+|**2023-09-01**|**Electric-Magnetic duality invariance of Galilean relativistic Born-Infeld theory**|Rabin Banerjee et.al.|[2309.00326v1](http://arxiv.org/abs/2309.00326v1)|null|
+|**2023-09-01**|**Message Passing Based Block Sparse Signal Recovery for DOA Estimation Using Large Arrays**|Yiwen Mao et.al.|[2309.00313v1](http://arxiv.org/abs/2309.00313v1)|null|
+|**2023-09-01**|**Fusing Monocular Images and Sparse IMU Signals for Real-time Human Motion Capture**|Shaohua Pan et.al.|[2309.00310v1](http://arxiv.org/abs/2309.00310v1)|**[link](https://github.com/shaohua-pan/RobustCap)**|
+|**2023-09-01**|**Quantum mechanics of composite fermions**|Junren Shi et.al.|[2309.00299v1](http://arxiv.org/abs/2309.00299v1)|null|
+|**2023-09-01**|**Phenomenological models of Cosmic Ray transport in Galaxies**|Carmelo Evoli et.al.|[2309.00298v1](http://arxiv.org/abs/2309.00298v1)|null|
+|**2023-09-01**|**End-to-end Lidar-Driven Reinforcement Learning for Autonomous Racing**|Meraj Mammadov et.al.|[2309.00296v1](http://arxiv.org/abs/2309.00296v1)|null|
+|**2023-09-01**|**Multichannel quantum defect theory with a frame transformation for ultracold molecular collisions in magnetic fields**|Masato Morita et.al.|[2309.00263v1](http://arxiv.org/abs/2309.00263v1)|null|
+|**2023-09-01**|**Laplace Sum Rules in Quantum ChromoDynamics**|Stephan Narison et.al.|[2309.00258v1](http://arxiv.org/abs/2309.00258v1)|null|
+|**2023-09-01**|**Why do universal adversarial attacks work on large language models?: Geometry might be the answer**|Varshini Subhash et.al.|[2309.00254v1](http://arxiv.org/abs/2309.00254v1)|null|
+|**2023-09-01**|**Interpretable Medical Imagery Diagnosis with Self-Attentive Transformers: A Review of Explainable AI for Health Care**|Tin Lai et.al.|[2309.00252v1](http://arxiv.org/abs/2309.00252v1)|null|
+|**2023-09-01**|**NeuroSurgeon: A Toolkit for Subnetwork Analysis**|Michael A. Lepori et.al.|[2309.00244v1](http://arxiv.org/abs/2309.00244v1)|**[link](https://github.com/mlepori1/neurosurgeon)**|
+|**2023-09-01**|**JoTR: A Joint Transformer and Reinforcement Learning Framework for Dialog Policy Learning**|Wai-Chung Kwan et.al.|[2309.00230v1](http://arxiv.org/abs/2309.00230v1)|**[link](https://github.com/kwanwaichung/jotr)**|
+|**2023-09-01**|**Chern Classes of Tropical Manifolds**|Lucía López de Medrano et.al.|[2309.00229v1](http://arxiv.org/abs/2309.00229v1)|null|
+|**2023-08-31**|**Self-supervised Semantic Segmentation: Consistency over Transformation**|Sanaz Karimijafarbigloo et.al.|[2309.00143v1](http://arxiv.org/abs/2309.00143v1)|**[link](https://github.com/mindflow-institue/ssct)**|
+|**2023-08-31**|**Beyond Self-Attention: Deformable Large Kernel Attention for Medical Image Segmentation**|Reza Azad et.al.|[2309.00121v1](http://arxiv.org/abs/2309.00121v1)|null|
+|**2023-08-31**|**Laplacian-Former: Overcoming the Limitations of Vision Transformers in Local Texture Detection**|Reza Azad et.al.|[2309.00108v1](http://arxiv.org/abs/2309.00108v1)|null|
+|**2023-08-31**|**YaRN: Efficient Context Window Extension of Large Language Models**|Bowen Peng et.al.|[2309.00071v1](http://arxiv.org/abs/2309.00071v1)|**[link](https://github.com/jquesnelle/yarn)**|
+|**2023-08-31**|**SoDaCam: Software-defined Cameras via Single-Photon Imaging**|Varun Sundar et.al.|[2309.00066v1](http://arxiv.org/abs/2309.00066v1)|null|
 |**2023-08-31**|**Karhunen-Loève Data Imputation in High Contrast Imaging**|Bin B. Ren et.al.|[2308.16912v1](http://arxiv.org/abs/2308.16912v1)|null|
 |**2023-08-31**|**Fine-Grained Cross-View Geo-Localization Using a Correlation-Aware Homography Estimator**|Xiaolong Wang et.al.|[2308.16906v1](http://arxiv.org/abs/2308.16906v1)|**[link](https://github.com/xlwangdev/hc-net)**|
 |**2023-08-31**|**Eclectic flavor group  $Δ(27)\rtimes S_3$  and lepton model building**|Cai-Chang Li et.al.|[2308.16901v1](http://arxiv.org/abs/2308.16901v1)|null|
