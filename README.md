@@ -896,15 +896,15 @@
 |**2023-09-01**|**Deep Joint Source-Channel Coding for Adaptive Image Transmission over MIMO Channels**|Haotian Wu et.al.|[2309.00470v1](http://arxiv.org/abs/2309.00470v1)|null|
 |**2023-09-04**|**An Improved Encoder-Decoder Framework for Food Energy Estimation**|Jack Ma et.al.|[2309.00468v2](http://arxiv.org/abs/2309.00468v2)|null|
 |**2023-09-01**|**CoNeTTE: An efficient Audio Captioning system leveraging multiple datasets with Task Embedding**|Étienne Labbé et.al.|[2309.00454v1](http://arxiv.org/abs/2309.00454v1)|**[link](https://github.com/topel/audioset-convnext-inf)**|
-|**2023-09-01**|**A Locality-based Neural Solver for Optical Motion Capture**|Xiaoyu Pan et.al.|[2309.00428v1](http://arxiv.org/abs/2309.00428v1)|**[link](https://github.com/non-void/localmocap)**|
+|**2023-09-04**|**A Locality-based Neural Solver for Optical Motion Capture**|Xiaoyu Pan et.al.|[2309.00428v2](http://arxiv.org/abs/2309.00428v2)|**[link](https://github.com/non-void/localmocap)**|
 |**2023-09-01**|**Well-separated soliton-antisoliton pairs with an adjoint Higgs field in 4D space**|Liang Gong et.al.|[2309.00420v1](http://arxiv.org/abs/2309.00420v1)|null|
 |**2023-09-01**|**Optimal Scaling transformations to model non-linear relations in GLMs with ordered and unordered predictors**|S. J. W. Willems et.al.|[2309.00419v1](http://arxiv.org/abs/2309.00419v1)|null|
 |**2023-09-01**|**Selective Scene Text Removal**|Hayato Mitani et.al.|[2309.00410v1](http://arxiv.org/abs/2309.00410v1)|null|
 |**2023-09-01**|**A Hamiltonian for the Hilbert-Pólya Conjecture**|Enderalp Yakaboylu et.al.|[2309.00405v1](http://arxiv.org/abs/2309.00405v1)|null|
 |**2023-09-01**|**Cosmogenesis as symmetry transformation**|Adam Balcerzak et.al.|[2309.00375v1](http://arxiv.org/abs/2309.00375v1)|null|
-|**2023-09-01**|**Where Did the Gap Go? Reassessing the Long-Range Graph Benchmark**|Jan Tönshoff et.al.|[2309.00367v1](http://arxiv.org/abs/2309.00367v1)|null|
+|**2023-09-05**|**Where Did the Gap Go? Reassessing the Long-Range Graph Benchmark**|Jan Tönshoff et.al.|[2309.00367v2](http://arxiv.org/abs/2309.00367v2)|null|
 |**2023-09-01**|** $^{16}$ O spectral function from coupled-cluster theory: applications to lepton-nucleus scattering**|Joanna E. Sobczyk et.al.|[2309.00355v1](http://arxiv.org/abs/2309.00355v1)|null|
-|**2023-09-01**|**Improving Dependency Tuples for Almost-Sure Innermost Termination of Probabilistic Term Rewriting**|Jan-Christoph Kassing et.al.|[2309.00344v1](http://arxiv.org/abs/2309.00344v1)|null|
+|**2023-09-04**|**Improving Dependency Tuples for Almost-Sure Innermost Termination of Probabilistic Term Rewriting**|Jan-Christoph Kassing et.al.|[2309.00344v2](http://arxiv.org/abs/2309.00344v2)|null|
 |**2023-09-01**|**Robust Point Cloud Processing through Positional Embedding**|Jianqiao Zheng et.al.|[2309.00339v1](http://arxiv.org/abs/2309.00339v1)|null|
 |**2023-09-01**|**Electric-Magnetic duality invariance of Galilean relativistic Born-Infeld theory**|Rabin Banerjee et.al.|[2309.00326v1](http://arxiv.org/abs/2309.00326v1)|null|
 |**2023-09-01**|**Message Passing Based Block Sparse Signal Recovery for DOA Estimation Using Large Arrays**|Yiwen Mao et.al.|[2309.00313v1](http://arxiv.org/abs/2309.00313v1)|null|
@@ -929,7 +929,7 @@
 |**2023-08-31**|**Eclectic flavor group  $Δ(27)\rtimes S_3$  and lepton model building**|Cai-Chang Li et.al.|[2308.16901v1](http://arxiv.org/abs/2308.16901v1)|null|
 |**2023-08-31**|**Transformers as Support Vector Machines**|Davoud Ataee Tarzanagh et.al.|[2308.16898v1](http://arxiv.org/abs/2308.16898v1)|null|
 |**2023-09-01**|**GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields**|Yanjie Ze et.al.|[2308.16891v2](http://arxiv.org/abs/2308.16891v2)|**[link](https://github.com/YanjieZe/GNFactor)**|
-|**2023-08-31**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890v1](http://arxiv.org/abs/2308.16890v1)|null|
+|**2023-09-04**|**TouchStone: Evaluating Vision-Language Models by Language Models**|Shuai Bai et.al.|[2308.16890v2](http://arxiv.org/abs/2308.16890v2)|**[link](https://github.com/ofa-sys/touchstone)**|
 |**2023-08-31**|**Natural Quantum Monte Carlo Computation of Excited States**|David Pfau et.al.|[2308.16848v1](http://arxiv.org/abs/2308.16848v1)|null|
 |**2023-08-31**|**Weight 2 cohomology of graph complexes of cyclic operads and the handlebody group**|Michael Borinsky et.al.|[2308.16845v1](http://arxiv.org/abs/2308.16845v1)|null|
 |**2023-08-31**|**Towards Improving the Expressiveness of Singing Voice Synthesis with BERT Derived Semantic Information**|Shaohuan Zhou et.al.|[2308.16836v1](http://arxiv.org/abs/2308.16836v1)|null|
