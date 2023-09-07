@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**NUV-DoA: NUV Prior-based Bayesian Sparse Reconstruction with Spatial Filtering for Super-Resolution DoA Estimation**|Mengyuan Zhao et.al.|[2309.03114v1](http://arxiv.org/abs/2309.03114v1)|null|
+|**2023-09-06**|**SEAL: A Framework for Systematic Evaluation of Real-World Super-Resolution**|Wenlong Zhang et.al.|[2309.03020v1](http://arxiv.org/abs/2309.03020v1)|null|
+|**2023-09-03**|**RSDiff: Remote Sensing Image Generation from Text Using Diffusion Model**|Ahmad Sebaq et.al.|[2309.02455v1](http://arxiv.org/abs/2309.02455v1)|null|
 |**2023-09-04**|**Direction-of-arrival estimation with conventional co-prime arrays using deep learning-based probablistic Bayesian neural networks**|Wael Elshennawy et.al.|[2309.01690v1](http://arxiv.org/abs/2309.01690v1)|null|
 |**2023-09-04**|**Building Footprint Extraction in Dense Areas using Super Resolution and Frame Field Learning**|Vuong Nguyen et.al.|[2309.01656v1](http://arxiv.org/abs/2309.01656v1)|null|
 |**2023-09-04**|**Implicit Neural Image Stitching With Enhanced and Blended Feature Reconstruction**|Minsu Kim et.al.|[2309.01409v1](http://arxiv.org/abs/2309.01409v1)|null|
@@ -887,6 +890,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**3D Transformer based on deformable patch location for differential diagnosis between Alzheimer's disease and Frontotemporal dementia**|Huy-Dung Nguyen et.al.|[2309.03183v1](http://arxiv.org/abs/2309.03183v1)|null|
+|**2023-09-06**|**PDiscoNet: Semantically consistent part discovery for fine-grained recognition**|Robert van der Klis et.al.|[2309.03173v1](http://arxiv.org/abs/2309.03173v1)|null|
+|**2023-09-06**|**Optical pulse induced ultrafast antiferrodistortive transition in SrTiO3**|Saqeeb Adnan et.al.|[2309.03172v1](http://arxiv.org/abs/2309.03172v1)|null|
+|**2023-09-06**|**Real-Time Non-Invasive Imaging and Detection of Spreading Depolarizations through EEG: An Ultra-Light Explainable Deep Learning Approach**|Yinzhe Wu et.al.|[2309.03147v1](http://arxiv.org/abs/2309.03147v1)|null|
+|**2023-09-06**|**Euler Characteristics and Homotopy Types of Definable Sublevel Sets**|Mattie Ji et.al.|[2309.03142v1](http://arxiv.org/abs/2309.03142v1)|null|
+|**2023-09-06**|**High Accuracy Quasi-Interpolation using a new class of generalized Multiquadrics**|Mathis Ortmann et.al.|[2309.03134v1](http://arxiv.org/abs/2309.03134v1)|null|
+|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
+|**2023-09-06**|**Information theoretic resource-breaking channels**|Abhishek Muhuri et.al.|[2309.03108v1](http://arxiv.org/abs/2309.03108v1)|null|
+|**2023-09-06**|**Character Queries: A Transformer-based Approach to On-Line Handwritten Character Segmentation**|Michael Jungo et.al.|[2309.03072v1](http://arxiv.org/abs/2309.03072v1)|null|
+|**2023-09-06**|**Prompt-based All-in-One Image Restoration using CNNs and Transformer**|Hu Gao et.al.|[2309.03063v1](http://arxiv.org/abs/2309.03063v1)|null|
+|**2023-09-06**|**Combining pre-trained Vision Transformers and CIDER for Out Of Domain Detection**|Grégor Jouet et.al.|[2309.03047v1](http://arxiv.org/abs/2309.03047v1)|null|
+|**2023-09-06**|**MCM: Multi-condition Motion Synthesis Framework for Multi-scenario**|Zeyu Ling et.al.|[2309.03031v1](http://arxiv.org/abs/2309.03031v1)|null|
+|**2023-09-06**|**Universal Preprocessing Operators for Embedding Knowledge Graphs with Literals**|Patryk Preisner et.al.|[2309.03023v1](http://arxiv.org/abs/2309.03023v1)|null|
+|**2023-09-06**|**Bell non-locality in two-mode Gaussian states revealed via local squeezing**|A. Lezama et.al.|[2309.03016v1](http://arxiv.org/abs/2309.03016v1)|null|
+|**2023-09-06**|**Theoretical Explanation of Activation Sparsity through Flat Minima and Adversarial Robustness**|Ze Peng et.al.|[2309.03004v1](http://arxiv.org/abs/2309.03004v1)|null|
+|**2023-09-06**|**Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning**|Sijin Chen et.al.|[2309.02999v1](http://arxiv.org/abs/2309.02999v1)|null|
+|**2023-09-06**|**Production of doubly charmed hadron  $Ξ_{cc}^{++}$  and  $T_{cc}^+$  in relativistic heavy ion collisions**|Baoyi Chen et.al.|[2309.02987v1](http://arxiv.org/abs/2309.02987v1)|null|
+|**2023-09-06**|**Blended learning: A data-literate science teacher is a better teacher**|Jozef Hanč et.al.|[2309.02953v1](http://arxiv.org/abs/2309.02953v1)|null|
+|**2023-09-06**|**Numerical Construction of initial data sets for inhomogeneous cosmological space-times with spatial topology of  $\mathbb{T}^3$ **|Alejandro Estrada et.al.|[2309.02946v1](http://arxiv.org/abs/2309.02946v1)|null|
+|**2023-09-06**|**Persona-aware Generative Model for Code-mixed Language**|Ayan Sengupta et.al.|[2309.02915v1](http://arxiv.org/abs/2309.02915v1)|null|
+|**2023-09-06**|**Atomistic insights into ultrafast SiGe nanoprocessing**|Gaetano Calogero et.al.|[2309.02909v1](http://arxiv.org/abs/2309.02909v1)|null|
+|**2023-09-06**|**Charging Kerr-Schild spacetimes in higher dimensions**|Marcello Ortaggio et.al.|[2309.02900v1](http://arxiv.org/abs/2309.02900v1)|null|
+|**2023-09-06**|**Input-output linearization and decoupling of mechanical control systems**|Marcin Nowicki et.al.|[2309.02872v1](http://arxiv.org/abs/2309.02872v1)|null|
+|**2023-09-06**|**New methods for quasi-interpolation approximations: resolution of odd-degree singularities**|Martin Buhmann et.al.|[2309.02867v1](http://arxiv.org/abs/2309.02867v1)|null|
+|**2023-09-06**|**Bandwidth-efficient Inference for Neural Image Compression**|Shanzhi Yin et.al.|[2309.02855v1](http://arxiv.org/abs/2309.02855v1)|null|
+|**2023-09-06**|**Knowledge Distillation Layer that Lets the Student Decide**|Ada Gorgun et.al.|[2309.02843v1](http://arxiv.org/abs/2309.02843v1)|null|
+|**2023-09-06**|**A Cole-Hopf transformation based fourth-order multiple-relaxation-time lattice Boltzmann model for the coupled Burgers' equations**|Ying Chen et.al.|[2309.02825v1](http://arxiv.org/abs/2309.02825v1)|null|
+|**2023-09-06**|**A simple construction of the Anderson operator via its quadratic form in dimensions two and three**|Antoine Mouzard et.al.|[2309.02821v1](http://arxiv.org/abs/2309.02821v1)|null|
+|**2023-09-06**|**Nonunitary projective transcorrelation theory inspired by the F12 ansatz**|Seiichiro L. Ten-no et.al.|[2309.02811v1](http://arxiv.org/abs/2309.02811v1)|null|
+|**2023-09-06**|**The dyadic Riesz vector II**|Komla Domelevo et.al.|[2309.02803v1](http://arxiv.org/abs/2309.02803v1)|null|
+|**2023-09-06**|**Nanocomposite membranes with Au nanoparticles for dialysis-based catalytic reduction-separation of nitroaromatic compounds**|Piotr Cyganowski et.al.|[2309.02798v1](http://arxiv.org/abs/2309.02798v1)|null|
+|**2023-09-06**|**Seismic Foundation Model (SFM): a new generation deep learning model in geophysics**|Hanlin Sheng et.al.|[2309.02791v1](http://arxiv.org/abs/2309.02791v1)|null|
+|**2023-09-06**|**Improving diagnosis and prognosis of lung cancer using vision transformers: A scoping review**|Hazrat Ali et.al.|[2309.02783v1](http://arxiv.org/abs/2309.02783v1)|null|
+|**2023-09-06**|**On magnetic field screening and trapping in hydrogen-rich high-temperature superconductors: unpulling the wool over readers' eyes**|J. E. Hirsch et.al.|[2309.02683v1](http://arxiv.org/abs/2309.02683v1)|null|
+|**2023-09-06**|**Efficient Training for Visual Tracking with Deformable Transformer**|Qingmao Wei et.al.|[2309.02676v1](http://arxiv.org/abs/2309.02676v1)|null|
+|**2023-09-06**|**Extension of all-optical reconstruction method for isolated attosecond pulses using high-harmonic generation streaking spectra**|Kan Wang et.al.|[2309.02647v1](http://arxiv.org/abs/2309.02647v1)|null|
+|**2023-09-06**|**Mean Field Game-based Waveform Precoding Design for Mobile Crowd Integrated Sensing, Communication, and Computation Systems**|Dezhi Wang et.al.|[2309.02645v1](http://arxiv.org/abs/2309.02645v1)|null|
+|**2023-09-06**|**TFBEST: Dual-Aspect Transformer with Learnable Positional Encoding for Failure Prediction**|Rohan Mohapatra et.al.|[2309.02641v1](http://arxiv.org/abs/2309.02641v1)|null|
+|**2023-09-06**|**Three new  $q$ -Abel transformations and their applications**|Jianan Xu et.al.|[2309.02630v1](http://arxiv.org/abs/2309.02630v1)|null|
+|**2023-09-05**|**Compressing Vision Transformers for Low-Resource Visual Learning**|Eric Youn et.al.|[2309.02617v1](http://arxiv.org/abs/2309.02617v1)|null|
+|**2023-09-05**|**Music Source Separation with Band-Split RoPE Transformer**|Wei-Tsung Lu et.al.|[2309.02612v1](http://arxiv.org/abs/2309.02612v1)|null|
+|**2023-09-05**|**Artificial General Intelligence for Radiation Oncology**|Chenbin Liu et.al.|[2309.02590v1](http://arxiv.org/abs/2309.02590v1)|null|
+|**2023-09-05**|**A Structurally Informed Data Assimilation Approach for Nonlinear Partial Differential Equations**|Tongtong Li et.al.|[2309.02585v1](http://arxiv.org/abs/2309.02585v1)|null|
+|**2023-09-05**|**Representation Learning for Sequential Volumetric Design Tasks**|Md Ferdous Alam et.al.|[2309.02583v1](http://arxiv.org/abs/2309.02583v1)|null|
+|**2023-09-05**|**Unveiling Intractable Epileptogenic Brain Networks with Deep Learning Algorithms: A Novel and Comprehensive Framework for Scalable Seizure Prediction with Unimodal Neuroimaging Data in Pediatric Patients**|Bliss Singhal et.al.|[2309.02580v1](http://arxiv.org/abs/2309.02580v1)|null|
+|**2023-09-05**|**Evaluation Kidney Layer Segmentation on Whole Slide Imaging using Convolutional Neural Networks and Transformers**|Muhao Liu et.al.|[2309.02563v1](http://arxiv.org/abs/2309.02563v1)|null|
+|**2023-09-05**|**Relativistic magnetic interactions from non-orthogonal basis sets**|Gabriel Martínez-Carracedo et.al.|[2309.02558v1](http://arxiv.org/abs/2309.02558v1)|null|
+|**2023-09-05**|**Domain Adaptation for Efficiently Fine-tuning Vision Transformer with Encrypted Images**|Teru Nagamori et.al.|[2309.02556v1](http://arxiv.org/abs/2309.02556v1)|null|
+|**2023-09-05**|**PulsarX: a new pulsar searching package -I. A high performance folding program for pulsar surveys**|Yunpeng Men et.al.|[2309.02544v1](http://arxiv.org/abs/2309.02544v1)|null|
+|**2023-09-05**|**oMEGACat I: MUSE spectroscopy of 300,000 stars within the half-light radius of  $ω$  Centauri**|M. S. Nitschai et.al.|[2309.02503v1](http://arxiv.org/abs/2309.02503v1)|null|
 |**2023-09-05**|**Maximum Mean Discrepancy Meets Neural Networks: The Radon-Kolmogorov-Smirnov Test**|Seunghoon Paik et.al.|[2309.02422v1](http://arxiv.org/abs/2309.02422v1)|null|
 |**2023-09-05**|**A family of integrable maps associated with the Volterra lattice**|A. N. W. Hone et.al.|[2309.02336v1](http://arxiv.org/abs/2309.02336v1)|null|
 |**2023-09-05**|**Revisiting File Context for Source Code Summarization**|Aakash Bansal et.al.|[2309.02326v1](http://arxiv.org/abs/2309.02326v1)|null|
