@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**Panoramas from Photons**|Sacha Jungerman et.al.|[2309.03811v1](http://arxiv.org/abs/2309.03811v1)|null|
+|**2023-09-07**|**Characterization of polarization dependence in super-resolution fluorescent microscopy via phase retrieval**|Rodrigo Gutiérrez-Cuevas et.al.|[2309.03611v1](http://arxiv.org/abs/2309.03611v1)|null|
 |**2023-09-06**|**NUV-DoA: NUV Prior-based Bayesian Sparse Reconstruction with Spatial Filtering for Super-Resolution DoA Estimation**|Mengyuan Zhao et.al.|[2309.03114v1](http://arxiv.org/abs/2309.03114v1)|null|
 |**2023-09-06**|**SEAL: A Framework for Systematic Evaluation of Real-World Super-Resolution**|Wenlong Zhang et.al.|[2309.03020v1](http://arxiv.org/abs/2309.03020v1)|null|
 |**2023-09-03**|**RSDiff: Remote Sensing Image Generation from Text Using Diffusion Model**|Ahmad Sebaq et.al.|[2309.02455v1](http://arxiv.org/abs/2309.02455v1)|null|
@@ -890,6 +892,46 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905v1](http://arxiv.org/abs/2309.03905v1)|null|
+|**2023-09-07**|**The Making and Breaking of Camouflage**|Hala Lamdouar et.al.|[2309.03899v1](http://arxiv.org/abs/2309.03899v1)|null|
+|**2023-09-07**|**ProPainter: Improving Propagation and Transformer for Video Inpainting**|Shangchen Zhou et.al.|[2309.03897v1](http://arxiv.org/abs/2309.03897v1)|null|
+|**2023-09-07**|**DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**|Yung-Sung Chuang et.al.|[2309.03883v1](http://arxiv.org/abs/2309.03883v1)|null|
+|**2023-09-07**|**General gravitational charges on null hypersurfaces**|Gloria Odak et.al.|[2309.03854v1](http://arxiv.org/abs/2309.03854v1)|null|
+|**2023-09-07**|**Training Acceleration of Low-Rank Decomposed Networks using Sequential Freezing and Rank Quantization**|Habib Hajimolahoseini et.al.|[2309.03824v1](http://arxiv.org/abs/2309.03824v1)|null|
+|**2023-09-07**|**FisheyePP4AV: A privacy-preserving method for autonomous vehicles on fisheye camera images**|Linh Trinh et.al.|[2309.03799v1](http://arxiv.org/abs/2309.03799v1)|null|
+|**2023-09-07**|**TradingGPT: Multi-Agent System with Layered Memory and Distinct Characters for Enhanced Financial Trading Performance**|Yang Li et.al.|[2309.03736v1](http://arxiv.org/abs/2309.03736v1)|null|
+|**2023-09-07**|**Interpretable Visual Question Answering via Reasoning Supervision**|Maria Parelli et.al.|[2309.03726v1](http://arxiv.org/abs/2309.03726v1)|null|
+|**2023-09-07**|**Generalized partial-slice monogenic functions**|Zhenghua Xu et.al.|[2309.03698v1](http://arxiv.org/abs/2309.03698v1)|null|
+|**2023-09-07**|**MS-UNet-v2: Adaptive Denoising Method and Training Strategy for Medical Image Segmentation with Small Training Data**|Haoyuan Chen et.al.|[2309.03686v1](http://arxiv.org/abs/2309.03686v1)|null|
+|**2023-09-07**|**Exploring an LM to generate Prolog Predicates from Mathematics Questions**|Xiaocheng Yang et.al.|[2309.03667v1](http://arxiv.org/abs/2309.03667v1)|null|
+|**2023-09-07**|**Anatomy-informed Data Augmentation for Enhanced Prostate Cancer Detection**|Balint Kovacs et.al.|[2309.03652v1](http://arxiv.org/abs/2309.03652v1)|null|
+|**2023-09-07**|**4D Spherically Symmetric Time-Dependent Quantum Gravity Amplitudes**|J. A. Rosabal et.al.|[2309.03639v1](http://arxiv.org/abs/2309.03639v1)|null|
+|**2023-09-07**|**Insights Into the Inner Workings of Transformer Models for Protein Function Prediction**|Markus Wenzel et.al.|[2309.03631v1](http://arxiv.org/abs/2309.03631v1)|null|
+|**2023-09-07**|**Quantum Graph-State Synthesis with SAT**|Sebastiaan Brand et.al.|[2309.03593v1](http://arxiv.org/abs/2309.03593v1)|null|
+|**2023-09-07**|**Zero Trust: Applications, Challenges, and Opportunities**|Saeid Ghasemshirazi et.al.|[2309.03582v1](http://arxiv.org/abs/2309.03582v1)|null|
+|**2023-09-07**|**DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions**|Haochen Wang et.al.|[2309.03576v1](http://arxiv.org/abs/2309.03576v1)|null|
+|**2023-09-07**|**Evaluating the Efficacy of Supervised Learning vs Large Language Models for Identifying Cognitive Distortions and Suicidal Risks in Chinese Social Media**|Hongzhi Qi et.al.|[2309.03564v1](http://arxiv.org/abs/2309.03564v1)|null|
+|**2023-09-07**|**Density-based in-orbit collision risk model extension to any impact geometry**|Lorenzo Giudici et.al.|[2309.03562v1](http://arxiv.org/abs/2309.03562v1)|null|
+|**2023-09-07**|**Trash to Treasure: Low-Light Object Detection via Decomposition-and-Aggregation**|Xiaohan Cui et.al.|[2309.03548v1](http://arxiv.org/abs/2309.03548v1)|null|
+|**2023-09-07**|**Lipschitz constants for a hyperbolic type metric under Möbius transformations**|Yinping Wu et.al.|[2309.03515v1](http://arxiv.org/abs/2309.03515v1)|null|
+|**2023-09-07**|**Stroke-based Neural Painting and Stylization with Dynamically Predicted Painting Region**|Teng Hu et.al.|[2309.03504v1](http://arxiv.org/abs/2309.03504v1)|null|
+|**2023-09-07**|**HOPPER: Interpretative Fuzzing for Libraries**|Peng Chen et.al.|[2309.03496v1](http://arxiv.org/abs/2309.03496v1)|null|
+|**2023-09-07**|**InteractionNet: Joint Planning and Prediction for Autonomous Driving with Transformers**|Jiawei Fu et.al.|[2309.03475v1](http://arxiv.org/abs/2309.03475v1)|null|
+|**2023-09-07**|**Perceptual Quality Assessment of 360 $^\circ$  Images Based on Generative Scanpath Representation**|Xiangjie Sui et.al.|[2309.03472v1](http://arxiv.org/abs/2309.03472v1)|null|
+|**2023-09-07**|**Autoregressive Omni-Aware Outpainting for Open-Vocabulary 360-Degree Image Generation**|Zhuqiang Lu et.al.|[2309.03467v1](http://arxiv.org/abs/2309.03467v1)|null|
+|**2023-09-07**|**XGen-7B Technical Report**|Erik Nijkamp et.al.|[2309.03450v1](http://arxiv.org/abs/2309.03450v1)|null|
+|**2023-09-07**|**Analyzing the Effects of Fifth and Seventh Order Terms in a Generalized Henon-Heiles Potential**|Nandana Madhukara et.al.|[2309.03449v1](http://arxiv.org/abs/2309.03449v1)|null|
+|**2023-09-07**|**Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy**|Yi Tang et.al.|[2309.03445v1](http://arxiv.org/abs/2309.03445v1)|null|
+|**2023-09-07**|**Calderón-Zygmund operators and endpoint spaces for Hermite expansions**|The Anh Bui et.al.|[2309.03424v1](http://arxiv.org/abs/2309.03424v1)|null|
+|**2023-09-07**|**Horizontal Fourier transform of the polyanalytic Fock kernel**|Erick Lee-Guzmán et.al.|[2309.03410v1](http://arxiv.org/abs/2309.03410v1)|null|
+|**2023-09-06**|**Stable determination of time-dependent collision kernel in the nonlinear Boltzmann equation**|Ru-Yu Lai et.al.|[2309.03368v1](http://arxiv.org/abs/2309.03368v1)|null|
+|**2023-09-06**|**Self-Supervised Masked Digital Elevation Models Encoding for Low-Resource Downstream Tasks**|Priyam Mazumdar et.al.|[2309.03367v1](http://arxiv.org/abs/2309.03367v1)|null|
+|**2023-09-06**|**Linear Optimization by Conical Projection**|Evgeni Nurminski et.al.|[2309.03361v1](http://arxiv.org/abs/2309.03361v1)|null|
+|**2023-09-06**|**Parameter Efficient Audio Captioning With Faithful Guidance Using Audio-text Shared Latent Representation**|Arvind Krishna Sridhar et.al.|[2309.03340v1](http://arxiv.org/abs/2309.03340v1)|null|
+|**2023-09-06**|**Nonrelativistic Dirac fermions on the torus**|Jeremías Aguilera-Damia et.al.|[2309.03302v1](http://arxiv.org/abs/2309.03302v1)|null|
+|**2023-09-06**|**Symmetry charges on reduced phase space and BMS algebra**|Muxin Han et.al.|[2309.03293v1](http://arxiv.org/abs/2309.03293v1)|null|
+|**2023-09-06**|**Privately-Owned versus Shared Automated Vehicle: The Roles of Utilitarian and Hedonic Beliefs**|Fatemeh Nazari et.al.|[2309.03283v1](http://arxiv.org/abs/2309.03283v1)|null|
+|**2023-09-06**|**ABJ anomaly as a U(1) symmetry and Noether's theorem**|Valentin Benedetti et.al.|[2309.03264v1](http://arxiv.org/abs/2309.03264v1)|null|
 |**2023-09-06**|**3D Transformer based on deformable patch location for differential diagnosis between Alzheimer's disease and Frontotemporal dementia**|Huy-Dung Nguyen et.al.|[2309.03183v1](http://arxiv.org/abs/2309.03183v1)|null|
 |**2023-09-06**|**PDiscoNet: Semantically consistent part discovery for fine-grained recognition**|Robert van der Klis et.al.|[2309.03173v1](http://arxiv.org/abs/2309.03173v1)|null|
 |**2023-09-06**|**Optical pulse induced ultrafast antiferrodistortive transition in SrTiO3**|Saqeeb Adnan et.al.|[2309.03172v1](http://arxiv.org/abs/2309.03172v1)|null|
@@ -9220,6 +9262,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**ProPainter: Improving Propagation and Transformer for Video Inpainting**|Shangchen Zhou et.al.|[2309.03897v1](http://arxiv.org/abs/2309.03897v1)|null|
 |**2023-08-28**|**UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization**|Rui Zhang et.al.|[2308.14395v1](http://arxiv.org/abs/2308.14395v1)|**[link](https://github.com/ymhzyj/UMMAFormer)**|
 |**2023-08-02**|**ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation**|Yasheng Sun et.al.|[2308.00906v1](http://arxiv.org/abs/2308.00906v1)|null|
 |**2023-07-17**|**Deficiency-Aware Masked Transformer for Video Inpainting**|Yongsheng Yu et.al.|[2307.08629v1](http://arxiv.org/abs/2307.08629v1)|**[link](https://github.com/yeates/dmt)**|
