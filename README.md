@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**SRN-SZ: Deep Leaning-Based Scientific Error-bounded Lossy Compression with Super-resolution Neural Networks**|Jinyang Liu et.al.|[2309.04037v1](http://arxiv.org/abs/2309.04037v1)|null|
 |**2023-09-07**|**Panoramas from Photons**|Sacha Jungerman et.al.|[2309.03811v1](http://arxiv.org/abs/2309.03811v1)|null|
 |**2023-09-07**|**Characterization of polarization dependence in super-resolution fluorescent microscopy via phase retrieval**|Rodrigo Gutiérrez-Cuevas et.al.|[2309.03611v1](http://arxiv.org/abs/2309.03611v1)|null|
 |**2023-09-06**|**NUV-DoA: NUV Prior-based Bayesian Sparse Reconstruction with Spatial Filtering for Super-Resolution DoA Estimation**|Mengyuan Zhao et.al.|[2309.03114v1](http://arxiv.org/abs/2309.03114v1)|null|
@@ -892,6 +893,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Two-point sum-rules in three-dimensional Yang-Mills theory**|Simon Caron-Huot et.al.|[2309.04472v1](http://arxiv.org/abs/2309.04472v1)|null|
+|**2023-09-08**|**Variations and Relaxations of Normalizing Flows**|Keegan Kelly et.al.|[2309.04433v1](http://arxiv.org/abs/2309.04433v1)|null|
+|**2023-09-08**|**Sequences of dislocation reactions and helicity transformations in tubular crystals**|Andrei Zakharov et.al.|[2309.04417v1](http://arxiv.org/abs/2309.04417v1)|null|
+|**2023-09-08**|**Emergent learning in physical systems as feedback-based aging in a glassy landscape**|Vidyesh Rao Anisetti et.al.|[2309.04382v1](http://arxiv.org/abs/2309.04382v1)|null|
+|**2023-09-08**|**Language Prompt for Autonomous Driving**|Dongming Wu et.al.|[2309.04379v1](http://arxiv.org/abs/2309.04379v1)|null|
+|**2023-09-08**|**CNN Injected Transformer for Image Exposure Correction**|Shuning Xu et.al.|[2309.04366v1](http://arxiv.org/abs/2309.04366v1)|null|
+|**2023-09-08**|**Learning from Power Signals: An Automated Approach to Electrical Disturbance Identification Within a Power Transmission System**|Jonathan D. Boyd et.al.|[2309.04361v1](http://arxiv.org/abs/2309.04361v1)|null|
+|**2023-09-08**|**Mobile V-MoEs: Scaling Down Vision Transformers via Sparse Mixture-of-Experts**|Erik Daxberger et.al.|[2309.04354v1](http://arxiv.org/abs/2309.04354v1)|null|
+|**2023-09-08**|**Encoding Multi-Domain Scientific Papers by Ensembling Multiple CLS Tokens**|Ronald Seoh et.al.|[2309.04333v1](http://arxiv.org/abs/2309.04333v1)|**[link](https://github.com/ronaldseoh/multi2spe)**|
+|**2023-09-08**|**Trade-Offs in Decentralized Multi-Antenna Architectures: Sparse Combining Modules for WAX Decomposition**|Juan Vidal Alegría et.al.|[2309.04297v1](http://arxiv.org/abs/2309.04297v1)|null|
+|**2023-09-08**|**Fuzzy Fingerprinting Transformer Language-Models for Emotion Recognition in Conversations**|Patrícia Pereira et.al.|[2309.04292v1](http://arxiv.org/abs/2309.04292v1)|null|
+|**2023-09-08**|**Sequential Semantic Generative Communication for Progressive Text-to-Image Generation**|Hyelin Nam et.al.|[2309.04287v1](http://arxiv.org/abs/2309.04287v1)|null|
+|**2023-09-08**|**Provider Fairness and Beyond-Accuracy Trade-offs in Recommender Systems**|Saeedeh Karimi et.al.|[2309.04250v1](http://arxiv.org/abs/2309.04250v1)|null|
+|**2023-09-08**|**Long-Range Correlation Supervision for Land-Cover Classification from Remote Sensing Images**|Dawen Yu et.al.|[2309.04225v1](http://arxiv.org/abs/2309.04225v1)|null|
+|**2023-09-08**|**The geometric constraints on Filippov algebroids**|Yanhui Bi et.al.|[2309.04180v1](http://arxiv.org/abs/2309.04180v1)|null|
+|**2023-09-08**|**PRISTA-Net: Deep Iterative Shrinkage Thresholding Network for Coded Diffraction Patterns Phase Retrieval**|Aoxu Liu et.al.|[2309.04171v1](http://arxiv.org/abs/2309.04171v1)|null|
+|**2023-09-08**|**Sparse-DFT and WHT Precoding with Iterative Detection for Highly Frequency-Selective Channels**|Roberto Bomfin et.al.|[2309.04149v1](http://arxiv.org/abs/2309.04149v1)|null|
+|**2023-09-08**|**Weakly Supervised Point Clouds Transformer for 3D Object Detection**|Zuojin Tang et.al.|[2309.04105v1](http://arxiv.org/abs/2309.04105v1)|null|
+|**2023-09-08**|**Towards Efficient SDRTV-to-HDRTV by Learning from Image Formation**|Xiangyu Chen et.al.|[2309.04084v1](http://arxiv.org/abs/2309.04084v1)|null|
+|**2023-09-08**|**Curve Your Attention: Mixed-Curvature Transformers for Graph Representation Learning**|Sungjun Cho et.al.|[2309.04082v1](http://arxiv.org/abs/2309.04082v1)|null|
+|**2023-09-08**|**Enabling the Evaluation of Driver Physiology Via Vehicle Dynamics**|Rodrigo Ordonez-Hurtado et.al.|[2309.04078v1](http://arxiv.org/abs/2309.04078v1)|null|
+|**2023-09-08**|**Enhancing Hierarchical Transformers for Whole Brain Segmentation with Intracranial Measurements Integration**|Xin Yu et.al.|[2309.04071v1](http://arxiv.org/abs/2309.04071v1)|null|
+|**2023-09-08**|**Thermodynamic Origins of Structural Metastability in Two-Dimensional Black Arsenic**|Guoshuai Du et.al.|[2309.04065v1](http://arxiv.org/abs/2309.04065v1)|null|
+|**2023-09-07**|**S-Adapter: Generalizing Vision Transformer for Face Anti-Spoofing with Statistical Tokens**|Rizhao Cai et.al.|[2309.04038v1](http://arxiv.org/abs/2309.04038v1)|null|
+|**2023-09-07**|**The DECam Ecliptic Exploration Project (DEEP) IV: Constraints on the shape distribution of bright TNOs**|R. Strauss et.al.|[2309.04034v1](http://arxiv.org/abs/2309.04034v1)|null|
+|**2023-09-07**|**Fine structure of the isoscalar giant monopole resonance in  $^{58}$ Ni,  $^{90}$ Zr,  $^{120}$ Sn and  $^{208}$ Pb**|A. Bahini et.al.|[2309.04016v1](http://arxiv.org/abs/2309.04016v1)|null|
+|**2023-09-07**|**Sums of products of binomial coefficients mod 2 and 2-regular sequences**|Narad Rampersad et.al.|[2309.04012v1](http://arxiv.org/abs/2309.04012v1)|null|
+|**2023-09-07**|**Multimodal Transformer for Material Segmentation**|Md Kaykobad Reza et.al.|[2309.04001v1](http://arxiv.org/abs/2309.04001v1)|null|
+|**2023-09-07**|**Separable Self and Mixed Attention Transformers for Efficient Object Tracking**|Goutam Yelluru Gopal et.al.|[2309.03979v1](http://arxiv.org/abs/2309.03979v1)|null|
+|**2023-09-07**|**Fourier Neural Network Approximation of Transition Densities in Finance**|Rong Du et.al.|[2309.03966v1](http://arxiv.org/abs/2309.03966v1)|null|
 |**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905v1](http://arxiv.org/abs/2309.03905v1)|**[link](https://github.com/opengvlab/llama-adapter)**|
 |**2023-09-07**|**The Making and Breaking of Camouflage**|Hala Lamdouar et.al.|[2309.03899v1](http://arxiv.org/abs/2309.03899v1)|null|
 |**2023-09-07**|**ProPainter: Improving Propagation and Transformer for Video Inpainting**|Shangchen Zhou et.al.|[2309.03897v1](http://arxiv.org/abs/2309.03897v1)|null|
