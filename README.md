@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Deep Learning-based Synthetic High-Resolution In-Depth Imaging Using an Attachable Dual-element Endoscopic Ultrasound Probe**|Hah Min Lew et.al.|[2309.06770v1](http://arxiv.org/abs/2309.06770v1)|null|
+|**2023-09-13**|**Deep Nonparametric Convexified Filtering for Computational Photography, Image Synthesis and Adversarial Defense**|Jianqiao Wangni et.al.|[2309.06724v1](http://arxiv.org/abs/2309.06724v1)|null|
 |**2023-09-12**|**Padding-free Convolution based on Preservation of Differential Characteristics of Kernels**|Kuangdai Leng et.al.|[2309.06370v1](http://arxiv.org/abs/2309.06370v1)|null|
 |**2023-09-12**|**Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration**|Gang Wu et.al.|[2309.06023v1](http://arxiv.org/abs/2309.06023v1)|**[link](https://github.com/aitical/task-agnostic_model_contrastive_learning_image_restoration)**|
 |**2023-09-12**|**RGB-Guided Resolution Enhancement of IR Images**|Marcel Trammer et.al.|[2309.05996v1](http://arxiv.org/abs/2309.05996v1)|null|
@@ -905,6 +907,42 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Data Pipeline Quality: Influencing Factors, Root Causes of Data-related Issues, and Processing Problem Areas for Developers**|Harald Foidl et.al.|[2309.07067v1](http://arxiv.org/abs/2309.07067v1)|null|
+|**2023-09-13**|**A Comprehensive Analysis of the Role of Artificial Intelligence and Machine Learning in Modern Digital Forensics and Incident Response**|Dipo Dunsin et.al.|[2309.07064v1](http://arxiv.org/abs/2309.07064v1)|null|
+|**2023-09-13**|**Aggregating Long-term Sharp Features via Hybrid Transformers for Video Deblurring**|Dongwei Ren et.al.|[2309.07054v1](http://arxiv.org/abs/2309.07054v1)|**[link](https://github.com/shangwei5/stgtn)**|
+|**2023-09-13**|**The Fourier transform on valuations is the Fourier transform**|Dmitry Faifman et.al.|[2309.07048v1](http://arxiv.org/abs/2309.07048v1)|null|
+|**2023-09-13**|**OYXOY: A Modern NLP Test Suite for Modern Greek**|Konstantinos Kogkalidis et.al.|[2309.07009v1](http://arxiv.org/abs/2309.07009v1)|null|
+|**2023-09-13**|**Linear stability analysis in inhomogeneous equilibrium configurations**|Masoud Shokri et.al.|[2309.07003v1](http://arxiv.org/abs/2309.07003v1)|null|
+|**2023-09-13**|**Neural network-based coronary dominance classification of RCA angiograms**|Ivan Kruzhilov et.al.|[2309.06958v1](http://arxiv.org/abs/2309.06958v1)|null|
+|**2023-09-13**|**DEFormer: DCT-driven Enhancement Transformer for Low-light Image and Dark Vision**|Xiangchen Yin et.al.|[2309.06941v1](http://arxiv.org/abs/2309.06941v1)|null|
+|**2023-09-13**|**Native Language Identification with Big Bird Embeddings**|Sergey Kramp et.al.|[2309.06923v1](http://arxiv.org/abs/2309.06923v1)|**[link](https://github.com/sergeykramp/mthesis-bigbird-embeddings)**|
+|**2023-09-13**|**On the existence of a parent theory for General Relativity and Unimodular Gravity**|Gerardo García-Moreno et.al.|[2309.06903v1](http://arxiv.org/abs/2309.06903v1)|null|
+|**2023-09-13**|**CCSPNet-Joint: Efficient Joint Training Method for Traffic Sihn Detection Under Extreme Conditions**|Haoqin Hong et.al.|[2309.06902v1](http://arxiv.org/abs/2309.06902v1)|**[link](https://github.com/haoqinhong/ccspnet-joint)**|
+|**2023-09-13**|**Keep It SimPool: Who Said Supervised Transformers Suffer from Attention Deficit?**|Bill Psomas et.al.|[2309.06891v1](http://arxiv.org/abs/2309.06891v1)|null|
+|**2023-09-13**|**Loading loss-cone distributions in particle simulations**|Seiji Zenitani et.al.|[2309.06879v1](http://arxiv.org/abs/2309.06879v1)|null|
+|**2023-09-13**|**Domain decomposition method for Poisson--Boltzmann equations based on Solvent Excluded Surface**|Abhinav Jha et.al.|[2309.06862v1](http://arxiv.org/abs/2309.06862v1)|null|
+|**2023-09-13**|**Gpachov at CheckThat! 2023: A Diverse Multi-Approach Ensemble for Subjectivity Detection in News Articles**|Georgi Pachov et.al.|[2309.06844v1](http://arxiv.org/abs/2309.06844v1)|null|
+|**2023-09-13**|**Handwritten Digit Recognition by Spin Waves in a Skyrmion Reservoir**|Mu-Kun Lee et.al.|[2309.06815v1](http://arxiv.org/abs/2309.06815v1)|null|
+|**2023-09-13**|**Gauge dependence of spontaneous radiation spectrum of relativistic atomic beam under non-uniform electrostatic field**|Xue-Nan Chen et.al.|[2309.06811v1](http://arxiv.org/abs/2309.06811v1)|null|
+|**2023-09-13**|**Scalable neural network models and terascale datasets for particle-flow reconstruction**|Joosep Pata et.al.|[2309.06782v1](http://arxiv.org/abs/2309.06782v1)|null|
+|**2023-09-13**|**Symmetry transformation of nonlinear optical current of tilted Weyl nodes and application to ferromagnetic MnBi2Te4**|Zhuocheng Lu et.al.|[2309.06760v1](http://arxiv.org/abs/2309.06760v1)|null|
+|**2023-09-13**|**GelFlow: Self-supervised Learning of Optical Flow for Vision-Based Tactile Sensor Displacement Measurement**|Zhiyuan Zhang et.al.|[2309.06735v1](http://arxiv.org/abs/2309.06735v1)|null|
+|**2023-09-13**|**Asymptotic expansion of the hard-to-soft edge transition**|Luming Yao et.al.|[2309.06733v1](http://arxiv.org/abs/2309.06733v1)|null|
+|**2023-09-13**|**Dynamic Spectrum Mixer for Visual Recognition**|Zhiqiang Hu et.al.|[2309.06721v1](http://arxiv.org/abs/2309.06721v1)|null|
+|**2023-09-13**|**On correlation distribution of Niho-type decimation  $d=3(p^m-1)+1$ **|Maosheng Xiong et.al.|[2309.06715v1](http://arxiv.org/abs/2309.06715v1)|null|
+|**2023-09-13**|**High throughput sampling of phase space with deep learning potentials:  $δ$ -AlOOH at geophysical conditions**|Chenxing Luo et.al.|[2309.06712v1](http://arxiv.org/abs/2309.06712v1)|null|
+|**2023-09-13**|**Transparent Object Tracking with Enhanced Fusion Module**|Kalyan Garigapati et.al.|[2309.06701v1](http://arxiv.org/abs/2309.06701v1)|**[link](https://github.com/kalyan0510/totem)**|
+|**2023-09-13**|**Attention-based Encoder-Decoder End-to-End Neural Diarization with Embedding Enhancer**|Zhengyang Chen et.al.|[2309.06672v1](http://arxiv.org/abs/2309.06672v1)|null|
+|**2023-09-13**|**ShaDocFormer: A Shadow-attentive Threshold Detector with Cascaded Fusion Refiner for document shadow removal' to the ICASSP 2024 online submission system**|Weiwen Chen et.al.|[2309.06670v1](http://arxiv.org/abs/2309.06670v1)|null|
+|**2023-09-13**|**A fixed-parameter tractable algorithm for combinatorial filter reduction**|Yulin Zhang et.al.|[2309.06664v1](http://arxiv.org/abs/2309.06664v1)|null|
+|**2023-09-13**|**Event-Driven Imaging in Turbid Media: A Confluence of Optoelectronics and Neuromorphic Computation**|Ning Zhang et.al.|[2309.06652v1](http://arxiv.org/abs/2309.06652v1)|null|
+|**2023-09-12**|**Accelerating model evaluations in uncertainty propagation on tensor grids using computational graph transformations**|Bingran Wang et.al.|[2309.06617v1](http://arxiv.org/abs/2309.06617v1)|null|
+|**2023-09-12**|**Commands as AI Conversations**|Diomidis Spinellis et.al.|[2309.06551v1](http://arxiv.org/abs/2309.06551v1)|**[link](https://github.com/dspinellis/ai-cli)**|
+|**2023-09-12**|**Forecasts on interacting dark energy with standard sirens**|Elsa M. Teixeira et.al.|[2309.06544v1](http://arxiv.org/abs/2309.06544v1)|null|
+|**2023-09-12**|**Hierarchical Multi-Task Learning Framework for Session-based Recommendations**|Sejoon Oh et.al.|[2309.06533v1](http://arxiv.org/abs/2309.06533v1)|null|
+|**2023-09-12**|**Exploring the Benefits of Differentially Private Pre-training and Parameter-Efficient Fine-tuning for Table Transformers**|Xilong Wang et.al.|[2309.06526v1](http://arxiv.org/abs/2309.06526v1)|**[link](https://github.com/ibm/dp-tabtransformer)**|
+|**2023-09-12**|**DF-TransFusion: Multimodal Deepfake Detection via Lip-Audio Cross-Attention and Facial Self-Attention**|Aaditya Kharel et.al.|[2309.06511v1](http://arxiv.org/abs/2309.06511v1)|null|
+|**2023-09-12**|**General  $d$ -level quantum multi-secret sharing scheme with cheating identification**|Deepa Rathi et.al.|[2309.06458v1](http://arxiv.org/abs/2309.06458v1)|null|
 |**2023-09-12**|**Exploring Non-additive Randomness on ViT against Query-Based Black-Box Attacks**|Jindong Gu et.al.|[2309.06438v1](http://arxiv.org/abs/2309.06438v1)|null|
 |**2023-09-12**|**AGMDT: Virtual Staining of Renal Histology Images with Adjacency-Guided Multi-Domain Transfer**|Tao Ma et.al.|[2309.06421v1](http://arxiv.org/abs/2309.06421v1)|null|
 |**2023-09-12**|**C4CAM: A Compiler for CAM-based In-memory Accelerators**|Hamid Farzaneh et.al.|[2309.06418v1](http://arxiv.org/abs/2309.06418v1)|null|
