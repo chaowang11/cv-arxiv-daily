@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|null|
+|**2023-09-15**|**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**|Zhicun Yin et.al.|[2309.08113v1](http://arxiv.org/abs/2309.08113v1)|null|
 |**2023-09-14**|**Dual-angle interferometric scattering microscopy for optical multiparametric particle characterization**|Erik Olsén et.al.|[2309.07572v1](http://arxiv.org/abs/2309.07572v1)|null|
 |**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495v1](http://arxiv.org/abs/2309.07495v1)|**[link](https://github.com/yylgoodlucky/hdtr)**|
 |**2023-09-13**|**AudioSR: Versatile Audio Super-resolution at Scale**|Haohe Liu et.al.|[2309.07314v1](http://arxiv.org/abs/2309.07314v1)|null|
@@ -562,6 +564,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|null|
+|**2023-09-15**|**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**|Zhicun Yin et.al.|[2309.08113v1](http://arxiv.org/abs/2309.08113v1)|null|
 |**2023-09-12**|**RGB-Guided Resolution Enhancement of IR Images**|Marcel Trammer et.al.|[2309.05996v1](http://arxiv.org/abs/2309.05996v1)|null|
 |**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239v1](http://arxiv.org/abs/2309.05239v1)|**[link](https://github.com/xpixelgroup/hat)**|
 |**2023-09-09**|**Towards Real-World Burst Image Super-Resolution: Benchmark and Method**|Pengxu Wei et.al.|[2309.04803v1](http://arxiv.org/abs/2309.04803v1)|**[link](https://github.com/yjsunnn/fbanet)**|
@@ -910,6 +914,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Attention-Only Transformers and Implementing MLPs with Attention Heads**|Robert Huben et.al.|[2309.08593v1](http://arxiv.org/abs/2309.08593v1)|null|
+|**2023-09-15**|**Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**|Fabien Delattre et.al.|[2309.08588v1](http://arxiv.org/abs/2309.08588v1)|null|
+|**2023-09-15**|**Replacing softmax with ReLU in Vision Transformers**|Mitchell Wortsman et.al.|[2309.08586v1](http://arxiv.org/abs/2309.08586v1)|null|
+|**2023-09-15**|**Cutting corners to suppress high-order modes in Mie resonator arrays**|Zaid Haddadin et.al.|[2309.08578v1](http://arxiv.org/abs/2309.08578v1)|null|
+|**2023-09-15**|**Denoising Diffusion Probabilistic Models for Hardware-Impaired Communications**|Mehdi Letafati et.al.|[2309.08568v1](http://arxiv.org/abs/2309.08568v1)|null|
+|**2023-09-15**|**Deep Reinforcement Learning for Efficient and Fair Allocation of Health Care Resources**|Yikuan Li et.al.|[2309.08560v1](http://arxiv.org/abs/2309.08560v1)|null|
+|**2023-09-15**|**Scaling Laws for Sparsely-Connected Foundation Models**|Elias Frantar et.al.|[2309.08520v1](http://arxiv.org/abs/2309.08520v1)|null|
+|**2023-09-15**|**SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels**|Henry Hengyuan Zhao et.al.|[2309.08513v1](http://arxiv.org/abs/2309.08513v1)|**[link](https://github.com/zhaohengyuan1/sct)**|
+|**2023-09-15**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474v1](http://arxiv.org/abs/2309.08474v1)|null|
+|**2023-09-15**|**Exploring Meta Information for Audio-based Zero-shot Bird Classification**|Alexander Gebhard et.al.|[2309.08398v1](http://arxiv.org/abs/2309.08398v1)|null|
+|**2023-09-15**|**Phase Transformations and Energy Gap Variations in Uniaxial and Biaxial Strained Monolayer VS $_2$  TMDs: A Comprehensive DFT and Beyond-DFT Study**|Oguzhan Orhan et.al.|[2309.08393v1](http://arxiv.org/abs/2309.08393v1)|null|
+|**2023-09-15**|**DiaCorrect: Error Correction Back-end For Speaker Diarization**|Jiangyu Han et.al.|[2309.08377v1](http://arxiv.org/abs/2309.08377v1)|**[link](https://github.com/butspeechfit/diacorrect)**|
+|**2023-09-15**|**M $^3$ Net: Multilevel, Mixed and Multistage Attention Network for Salient Object Detection**|Yao Yuan et.al.|[2309.08365v1](http://arxiv.org/abs/2309.08365v1)|**[link](https://github.com/I2-Multimedia-Lab/M3Net)**|
+|**2023-09-15**|**Forbidden Tournaments and the Orientation Completion Problem**|Manuel Bodirsky et.al.|[2309.08327v1](http://arxiv.org/abs/2309.08327v1)|null|
+|**2023-09-15**|**Reset thresholds of transformation monoids**|Igor Rystsov et.al.|[2309.08321v1](http://arxiv.org/abs/2309.08321v1)|null|
+|**2023-09-15**|**On Sparse Grid Interpolation for American Option Pricing with Multiple Underlying Assets**|Jiefei Yang et.al.|[2309.08287v1](http://arxiv.org/abs/2309.08287v1)|null|
+|**2023-09-15**|**Structural Self-Supervised Objectives for Transformers**|Luca Di Liello et.al.|[2309.08272v1](http://arxiv.org/abs/2309.08272v1)|null|
+|**2023-09-15**|**Leveraging the Power of Data Augmentation for Transformer-based Tracking**|Jie Zhao et.al.|[2309.08264v1](http://arxiv.org/abs/2309.08264v1)|null|
+|**2023-09-15**|**BROW: Better featuRes fOr Whole slide image based on self-distillation**|Yuanfeng Wu et.al.|[2309.08259v1](http://arxiv.org/abs/2309.08259v1)|null|
+|**2023-09-15**|**Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models**|Feihong He et.al.|[2309.08251v1](http://arxiv.org/abs/2309.08251v1)|null|
+|**2023-09-15**|**UniST: Towards Unifying Saliency Transformer for Video Saliency Prediction and Detection**|Junwen Xiong et.al.|[2309.08220v1](http://arxiv.org/abs/2309.08220v1)|null|
+|**2023-09-15**|**Broadband spectroscopy and interferometry with undetected photons at strong parametric amplification**|Kazuki Hashimoto et.al.|[2309.08218v1](http://arxiv.org/abs/2309.08218v1)|null|
+|**2023-09-15**|**HM-Conformer: A Conformer-based audio deepfake detection system with hierarchical pooling and multi-level classification token aggregation methods**|Hyun-seo Shin et.al.|[2309.08208v1](http://arxiv.org/abs/2309.08208v1)|null|
+|**2023-09-15**|**Salient Object Detection in Optical Remote Sensing Images Driven by Transformer**|Gongyang Li et.al.|[2309.08206v1](http://arxiv.org/abs/2309.08206v1)|**[link](https://github.com/mathlee/gelenet)**|
+|**2023-09-15**|**Hyperspectral Image Denoising via Self-Modulating Convolutional Neural Networks**|Orhan Torun et.al.|[2309.08197v1](http://arxiv.org/abs/2309.08197v1)|**[link](https://github.com/orhan-t/sm-cnn)**|
+|**2023-09-15**|**Multilingual Sentence-Level Semantic Search using Meta-Distillation Learning**|Meryem M'hamdi et.al.|[2309.08185v1](http://arxiv.org/abs/2309.08185v1)|null|
+|**2023-09-15**|**TransMUSIC: A Transformer-Aided Subspace Method for DOA Estimation with Low-Resolution ADCs**|Junkai Ji et.al.|[2309.08174v1](http://arxiv.org/abs/2309.08174v1)|null|
+|**2023-09-15**|**Unveiling Invariances via Neural Network Pruning**|Derek Xu et.al.|[2309.08171v1](http://arxiv.org/abs/2309.08171v1)|null|
+|**2023-09-15**|**Differentiable Resolution Compression and Alignment for Efficient Video Classification and Retrieval**|Rui Deng et.al.|[2309.08167v1](http://arxiv.org/abs/2309.08167v1)|**[link](https://github.com/dun-research/drca)**|
+|**2023-09-15**|**Cross-Modal Synthesis of Structural MRI and Functional Connectivity Networks via Conditional ViT-GANs**|Yuda Bi et.al.|[2309.08160v1](http://arxiv.org/abs/2309.08160v1)|null|
+|**2023-09-15**|**Syn-Att: Synthetic Speech Attribution via Semi-Supervised Unknown Multi-Class Ensemble of CNNs**|Md Awsafur Rahman et.al.|[2309.08146v1](http://arxiv.org/abs/2309.08146v1)|**[link](https://github.com/awsaf49/synatt)**|
+|**2023-09-15**|**Dimensions of a class of self-affine Moran sets and measures in  $\R^2$ **|Yifei Gu et.al.|[2309.08145v1](http://arxiv.org/abs/2309.08145v1)|null|
+|**2023-09-15**|**Audio Difference Learning for Audio Captioning**|Tatsuya Komatsu et.al.|[2309.08141v1](http://arxiv.org/abs/2309.08141v1)|null|
+|**2023-09-15**|**AnyOKP: One-Shot and Instance-Aware Object Keypoint Extraction with Pretrained ViT**|Fangbo Qin et.al.|[2309.08134v1](http://arxiv.org/abs/2309.08134v1)|null|
+|**2023-09-15**|**Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain**|Katherine Lee et.al.|[2309.08133v1](http://arxiv.org/abs/2309.08133v1)|null|
+|**2023-09-15**|**Increasing diversity of omni-directional images generated from single image using cGAN based on MLPMixer**|Atsuya Nakata et.al.|[2309.08129v1](http://arxiv.org/abs/2309.08129v1)|**[link](https://github.com/islab-sophia/odigen-mlpmixer)**|
+|**2023-09-15**|**Post-processing variational quantum algorithm for constrained combinatorial optimization problems**|Tatsuhiko Shirai et.al.|[2309.08120v1](http://arxiv.org/abs/2309.08120v1)|null|
+|**2023-09-15**|**Data-Driven Goal Recognition in Transhumeral Prostheses Using Process Mining Techniques**|Zihang Su et.al.|[2309.08106v1](http://arxiv.org/abs/2309.08106v1)|null|
+|**2023-09-15**|**Low-rank Tensor Train Decomposition Using TensorSketch**|Zhongming Chen et.al.|[2309.08093v1](http://arxiv.org/abs/2309.08093v1)|null|
+|**2023-09-15**|**The Road to the Ideal Stent: A Review of Coronary Stent Design Optimisation Methods, Findings, and Opportunities**|Ankush Kapoor et.al.|[2309.08092v1](http://arxiv.org/abs/2309.08092v1)|null|
+|**2023-09-15**|**Interactive Model Fusion-Based GM-PHD Filter**|Jiacheng He et.al.|[2309.08088v1](http://arxiv.org/abs/2309.08088v1)|null|
+|**2023-09-15**|**Stochastic representations and probabilistic characteristics of multivariate skew-elliptical distributions**|Chuancun Yin et.al.|[2309.08085v1](http://arxiv.org/abs/2309.08085v1)|null|
+|**2023-09-15**|**Social media polarization reflects shifting political alliances in Pakistan**|Anees Baqir et.al.|[2309.08075v1](http://arxiv.org/abs/2309.08075v1)|null|
+|**2023-09-14**|**Exact Foldy-Wouthuysen transformation for a Dirac equation describing the interaction of spin-1/2 relativistic particles with an external electromagnetic field**|Bruno Gonçalves et.al.|[2309.08056v1](http://arxiv.org/abs/2309.08056v1)|null|
+|**2023-09-14**|**Interpretability-Aware Vision Transformer**|Yao Qiang et.al.|[2309.08035v1](http://arxiv.org/abs/2309.08035v1)|**[link](https://github.com/qiangyao1988/ia-vit)**|
+|**2023-09-14**|**All-dielectric high-Q dynamically tunable transmissive metasurfaces**|Ruzan Sokhoyan et.al.|[2309.08031v1](http://arxiv.org/abs/2309.08031v1)|null|
+|**2023-09-14**|**On the dual representations of Laplace transforms of Markov processes**|Alexey Kuznetsov et.al.|[2309.08024v1](http://arxiv.org/abs/2309.08024v1)|null|
+|**2023-09-14**|**Folding Attention: Memory and Power Optimization for On-Device Transformer-based Streaming Speech Recognition**|Yang Li et.al.|[2309.07988v1](http://arxiv.org/abs/2309.07988v1)|null|
+|**2023-09-14**|**A Data Source for Reasoning Embodied Agents**|Jack Lanchantin et.al.|[2309.07974v1](http://arxiv.org/abs/2309.07974v1)|**[link](https://github.com/facebookresearch/neuralmemory)**|
+|**2023-09-14**|**Classifying fermionic states via many-body correlation measures**|Mykola Semenyakin et.al.|[2309.07956v1](http://arxiv.org/abs/2309.07956v1)|null|
 |**2023-09-15**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920v2](http://arxiv.org/abs/2309.07920v2)|null|
 |**2023-09-14**|**Laser-pump-resistive-probe technique to study nanosecond-scale relaxation processes**|M. I. Blumenau et.al.|[2309.07883v1](http://arxiv.org/abs/2309.07883v1)|null|
 |**2023-09-14**|**Identifying the Group-Theoretic Structure of Machine-Learned Symmetries**|Roy T. Forestano et.al.|[2309.07860v1](http://arxiv.org/abs/2309.07860v1)|null|
