@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-17**|**Frequency Estimation Using Complex-Valued Shifted Window Transformer**|Josiah W. Smith et.al.|[2309.09352v1](http://arxiv.org/abs/2309.09352v1)|null|
+|**2023-09-16**|**Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution**|Wenyu Zhang et.al.|[2309.08919v1](http://arxiv.org/abs/2309.08919v1)|**[link](https://github.com/wenyu1009/rtsrn)**|
+|**2023-09-16**|**Emerging Approaches for THz Array Imaging: A Tutorial Review and Software Tool**|Josiah W. Smith et.al.|[2309.08844v1](http://arxiv.org/abs/2309.08844v1)|null|
 |**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|**[link](https://github.com/xingyuaudio/HRTF-SCNN)**|
 |**2023-09-15**|**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**|Zhicun Yin et.al.|[2309.08113v1](http://arxiv.org/abs/2309.08113v1)|**[link](https://github.com/yinzhicun/metaf2n)**|
 |**2023-09-14**|**Dual-angle interferometric scattering microscopy for optical multiparametric particle characterization**|Erik Olsén et.al.|[2309.07572v1](http://arxiv.org/abs/2309.07572v1)|null|
@@ -564,6 +567,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-17**|**Frequency Estimation Using Complex-Valued Shifted Window Transformer**|Josiah W. Smith et.al.|[2309.09352v1](http://arxiv.org/abs/2309.09352v1)|null|
+|**2023-09-16**|**Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution**|Wenyu Zhang et.al.|[2309.08919v1](http://arxiv.org/abs/2309.08919v1)|**[link](https://github.com/wenyu1009/rtsrn)**|
+|**2023-09-16**|**Emerging Approaches for THz Array Imaging: A Tutorial Review and Software Tool**|Josiah W. Smith et.al.|[2309.08844v1](http://arxiv.org/abs/2309.08844v1)|null|
 |**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|**[link](https://github.com/xingyuaudio/HRTF-SCNN)**|
 |**2023-09-15**|**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**|Zhicun Yin et.al.|[2309.08113v1](http://arxiv.org/abs/2309.08113v1)|**[link](https://github.com/yinzhicun/metaf2n)**|
 |**2023-09-12**|**RGB-Guided Resolution Enhancement of IR Images**|Marcel Trammer et.al.|[2309.05996v1](http://arxiv.org/abs/2309.05996v1)|null|
@@ -914,6 +920,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**General In-Hand Object Rotation with Vision and Touch**|Haozhi Qi et.al.|[2309.09979v1](http://arxiv.org/abs/2309.09979v1)|null|
+|**2023-09-18**|**Quantum Circuit Optimization through Iteratively Pre-Conditioned Gradient Descent**|Dhruv Srinivasan et.al.|[2309.09957v1](http://arxiv.org/abs/2309.09957v1)|null|
+|**2023-09-18**|**Small  $k$ -pairable states**|Nathan Claudet et.al.|[2309.09956v1](http://arxiv.org/abs/2309.09956v1)|null|
+|**2023-09-18**|**How to Generate Popular Post Headlines on Social Media?**|Zhouxiang Fang et.al.|[2309.09949v1](http://arxiv.org/abs/2309.09949v1)|null|
+|**2023-09-18**|**Property Graphs in Arachne**|Oliver Alvarado Rodriguez et.al.|[2309.09943v1](http://arxiv.org/abs/2309.09943v1)|null|
+|**2023-09-18**|**Model-Based Generation of Attack-Fault Trees**|Raffaela Groner et.al.|[2309.09941v1](http://arxiv.org/abs/2309.09941v1)|null|
+|**2023-09-18**|**TransientViT: A novel CNN - Vision Transformer hybrid real/bogus transient classifier for the Kilodegree Automatic Transient Survey**|Zhuoyang Chen et.al.|[2309.09937v1](http://arxiv.org/abs/2309.09937v1)|null|
+|**2023-09-18**|**Distilling HuBERT with LSTMs via Decoupled Knowledge Distillation**|Danilo de Oliveira et.al.|[2309.09920v1](http://arxiv.org/abs/2309.09920v1)|null|
+|**2023-09-18**|**An Exact, Coordinate Independent Classical Firewall Transformation**|Nathaniel A. Strauss et.al.|[2309.09905v1](http://arxiv.org/abs/2309.09905v1)|null|
+|**2023-09-18**|**Charge Density Wave bending observed by Xfel source acting as a tunable electronic lens for hard x-rays**|E. Bellec et.al.|[2309.09899v1](http://arxiv.org/abs/2309.09899v1)|null|
+|**2023-09-18**|**Walking fingerprinting**|Lily Koffman et.al.|[2309.09897v1](http://arxiv.org/abs/2309.09897v1)|**[link](https://github.com/lilykoff/ml_walking_fingerprint)**|
+|**2023-09-18**|**A Classical Firewall Transformation as a Canonical Transformation**|Nathaniel A. Strauss et.al.|[2309.09891v1](http://arxiv.org/abs/2309.09891v1)|null|
+|**2023-09-18**|**RaLF: Flow-based Global and Metric Radar Localization in LiDAR Maps**|Abhijeet Nayak et.al.|[2309.09875v1](http://arxiv.org/abs/2309.09875v1)|null|
+|**2023-09-18**|**EGFE: End-to-end Grouping of Fragmented Elements in UI Designs with Multimodal Learning**|Liuqing Chen et.al.|[2309.09867v1](http://arxiv.org/abs/2309.09867v1)|null|
+|**2023-09-18**|**Domain Generalization with Fourier Transform and Soft Thresholding**|Hongyi Pan et.al.|[2309.09866v1](http://arxiv.org/abs/2309.09866v1)|null|
+|**2023-09-18**|**Recovery of a time-dependent potential in hyperbolic equations on conformally transversally anisotropic manifolds**|Boya Liu et.al.|[2309.09845v1](http://arxiv.org/abs/2309.09845v1)|null|
+|**2023-09-18**|**CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs**|George Drayson et.al.|[2309.09844v1](http://arxiv.org/abs/2309.09844v1)|null|
+|**2023-09-18**|**CMB constraints on inflection-point inflation with a pseudo-scalar dark matter**|Jamerson G. Rodrigues et.al.|[2309.09842v1](http://arxiv.org/abs/2309.09842v1)|null|
+|**2023-09-18**|**Non-Linear Transformations of Quantum Amplitudes: Exponential Improvement, Generalization, and Applications**|Arthur G. Rattew et.al.|[2309.09839v1](http://arxiv.org/abs/2309.09839v1)|null|
+|**2023-09-18**|**Schrieffer-Wolff transformation for non-Hermitian systems: application for  $\mathcal{PT}$ -symmetric circuit QED**|Grigory A. Starkov et.al.|[2309.09829v1](http://arxiv.org/abs/2309.09829v1)|null|
+|**2023-09-18**|**Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract Code Using Vulnerability-constrained Decoding**|André Storhaug et.al.|[2309.09826v1](http://arxiv.org/abs/2309.09826v1)|null|
+|**2023-09-18**|**Bias of AI-Generated Content: An Examination of News Produced by Large Language Models**|Xiao Fang et.al.|[2309.09825v1](http://arxiv.org/abs/2309.09825v1)|null|
+|**2023-09-18**|**On The Stabilizer Formalism And Its Generalization**|Éloi Descamps et.al.|[2309.09815v1](http://arxiv.org/abs/2309.09815v1)|null|
+|**2023-09-18**|**DFL-TORO: A One-Shot Demonstration Framework for Learning Time-Optimal Robotic Manufacturing Tasks**|Alireza Barekatain et.al.|[2309.09802v1](http://arxiv.org/abs/2309.09802v1)|null|
+|**2023-09-18**|**On Random Tree Structures, Their Entropy, and Compression**|Amirmohammad Farzaneh et.al.|[2309.09779v1](http://arxiv.org/abs/2309.09779v1)|null|
+|**2023-09-18**|**Significant improvement of lossy compression rate and speed of HPC data using perceptron parallelized compression**|Xinzhe Chen et.al.|[2309.09778v1](http://arxiv.org/abs/2309.09778v1)|null|
+|**2023-09-18**|**Drawing the Same Bounding Box Twice? Coping Noisy Annotations in Object Detection with Repeated Labels**|David Tschirschwitz et.al.|[2309.09742v1](http://arxiv.org/abs/2309.09742v1)|**[link](https://github.com/madave94/gtiod)**|
+|**2023-09-18**|**Asymptotic Performance of the GSVD-Based MIMO-NOMA Communications with Rician Fading**|Chenguang Rao et.al.|[2309.09711v1](http://arxiv.org/abs/2309.09711v1)|null|
+|**2023-09-18**|**CATR: Combinatorial-Dependence Audio-Queried Transformer for Audio-Visual Video Segmentation**|Kexin Li et.al.|[2309.09709v1](http://arxiv.org/abs/2309.09709v1)|**[link](https://github.com/aspirinone/catr.github.io)**|
+|**2023-09-18**|**Minimal representations of the metaplectic Lie supergroup and the super Segal-Bargmann transform**|Sam Claerebout et.al.|[2309.09693v1](http://arxiv.org/abs/2309.09693v1)|null|
+|**2023-09-18**|**Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation**|Huan Liu et.al.|[2309.09667v1](http://arxiv.org/abs/2309.09667v1)|null|
+|**2023-09-18**|**A Novel Method of Fuzzy Topic Modeling based on Transformer Processing**|Ching-Hsun Tseng et.al.|[2309.09658v1](http://arxiv.org/abs/2309.09658v1)|null|
+|**2023-09-18**|**Towards Model Co-evolution Across Self-Adaptation Steps for Combined Safety and Security Analysis**|Thomas Witte et.al.|[2309.09653v1](http://arxiv.org/abs/2309.09653v1)|null|
+|**2023-09-18**|**Scaling the time and Fourier domains to align periodically and their convolution**|Matthew R. Flax et.al.|[2309.09645v1](http://arxiv.org/abs/2309.09645v1)|null|
+|**2023-09-18**|**HiT: Building Mapping with Hierarchical Transformers**|Mingming Zhang et.al.|[2309.09643v1](http://arxiv.org/abs/2309.09643v1)|null|
+|**2023-09-18**|**Neural Network-Based Rule Models With Truth Tables**|Adrien Benamira et.al.|[2309.09638v1](http://arxiv.org/abs/2309.09638v1)|null|
+|**2023-09-18**|**Turbo Coded OFDM-OQAM Using Hilbert Transform**|Kasturi Vasudevan et.al.|[2309.09620v1](http://arxiv.org/abs/2309.09620v1)|null|
+|**2023-09-18**|**Collaborative Three-Stream Transformers for Video Captioning**|Hao Wang et.al.|[2309.09611v1](http://arxiv.org/abs/2309.09611v1)|null|
+|**2023-09-18**|**Heterogeneous Generative Knowledge Distillation with Masked Image Modeling**|Ziming Wang et.al.|[2309.09571v1](http://arxiv.org/abs/2309.09571v1)|null|
+|**2023-09-18**|**A moment-based approach for the analysis of the infinitesimal model in the regime of small variance**|J Guerand et.al.|[2309.09567v1](http://arxiv.org/abs/2309.09567v1)|null|
+|**2023-09-18**|**Selective Volume Mixup for Video Action Recognition**|Yi Tan et.al.|[2309.09534v1](http://arxiv.org/abs/2309.09534v1)|null|
+|**2023-09-18**|**Adapting Large Language Models via Reading Comprehension**|Daixuan Cheng et.al.|[2309.09530v1](http://arxiv.org/abs/2309.09530v1)|**[link](https://github.com/microsoft/lmops)**|
+|**2023-09-18**|**Gesture Recognition in Millimeter-Wave Radar Based on Spatio-Temporal Feature Sequences**|Qun Fang et.al.|[2309.09528v1](http://arxiv.org/abs/2309.09528v1)|null|
+|**2023-09-18**|**LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models**|Zecheng Tang et.al.|[2309.09506v1](http://arxiv.org/abs/2309.09506v1)|**[link](https://github.com/projectnuwa/layoutnuwa)**|
+|**2023-09-18**|**Discovering Sounding Objects by Audio Queries for Audio Visual Segmentation**|Shaofei Huang et.al.|[2309.09501v1](http://arxiv.org/abs/2309.09501v1)|null|
+|**2023-09-18**|**PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction**|Zijian Zhang et.al.|[2309.09500v1](http://arxiv.org/abs/2309.09500v1)|null|
+|**2023-09-18**|**PwR: Exploring the Role of Representations in Conversational Programming**|Pradyumna YM et.al.|[2309.09495v1](http://arxiv.org/abs/2309.09495v1)|null|
+|**2023-09-18**|**HiFTNet: A Fast High-Quality Neural Vocoder with Harmonic-plus-Noise Filter and Inverse Short Time Fourier Transform**|Yinghao Aaron Li et.al.|[2309.09493v1](http://arxiv.org/abs/2309.09493v1)|null|
+|**2023-09-18**|**Target-aware Bi-Transformer for Few-shot Segmentation**|Xianglin Wang et.al.|[2309.09492v1](http://arxiv.org/abs/2309.09492v1)|null|
+|**2023-09-18**|**Epileptic seizure forecasting with long short-term memory (LSTM) neural networks**|Daniel E. Payne et.al.|[2309.09471v1](http://arxiv.org/abs/2309.09471v1)|null|
 |**2023-09-15**|**Attention-Only Transformers and Implementing MLPs with Attention Heads**|Robert Huben et.al.|[2309.08593v1](http://arxiv.org/abs/2309.08593v1)|null|
 |**2023-09-15**|**Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**|Fabien Delattre et.al.|[2309.08588v1](http://arxiv.org/abs/2309.08588v1)|null|
 |**2023-09-15**|**Replacing softmax with ReLU in Vision Transformers**|Mitchell Wortsman et.al.|[2309.08586v1](http://arxiv.org/abs/2309.08586v1)|null|
@@ -9399,6 +9455,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614v1](http://arxiv.org/abs/2309.09614v1)|null|
+|**2023-09-18**|**Reconstructing Existing Levels through Level Inpainting**|Johor Jara Gonzalez et.al.|[2309.09472v1](http://arxiv.org/abs/2309.09472v1)|null|
 |**2023-09-13**|**GAN-based Algorithm for Efficient Image Inpainting**|Zhengyang Han et.al.|[2309.07293v1](http://arxiv.org/abs/2309.07293v1)|null|
 |**2023-09-12**|**Learning Energy-Based Models by Cooperative Diffusion Recovery Likelihood**|Yaxuan Zhu et.al.|[2309.05153v2](http://arxiv.org/abs/2309.05153v2)|null|
 |**2023-09-07**|**Learning Residual Elastic Warps for Image Stitching under Dirichlet Boundary Condition**|Minsu Kim et.al.|[2309.01406v2](http://arxiv.org/abs/2309.01406v2)|null|
