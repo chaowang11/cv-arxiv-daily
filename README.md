@@ -799,7 +799,7 @@
 |**2023-04-18**|**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**|Andreas Blattmann et.al.|[2304.08818v1](http://arxiv.org/abs/2304.08818v1)|null|
 |**2023-04-10**|**Local-Global Temporal Difference Learning for Satellite Video Super-Resolution**|Yi Xiao et.al.|[2304.04421v1](http://arxiv.org/abs/2304.04421v1)|**[link](https://github.com/xy-boy/tdmvsr)**|
 |**2023-03-29**|**Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution**|Yunfan Lu et.al.|[2303.13767v2](http://arxiv.org/abs/2303.13767v2)|**[link](https://github.com/yunfanLu/INR-Event-VSR)**|
-|**2023-09-20**|**Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**|Zixi Tuo et.al.|[2303.09826v2](http://arxiv.org/abs/2303.09826v2)|null|
+|**2023-09-20**|**Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**|Zixi Tuo et.al.|[2303.09826v2](http://arxiv.org/abs/2303.09826v2)|**[link](https://github.com/researchmm/vqd-sr)**|
 |**2023-03-15**|**DeblurSR: Event-Based Motion Deblurring Under the Spiking Representation**|Chen Song et.al.|[2303.08977v1](http://arxiv.org/abs/2303.08977v1)|**[link](https://github.com/chensong1995/deblursr)**|
 |**2023-06-18**|**Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting**|Gen Li et.al.|[2303.08331v2](http://arxiv.org/abs/2303.08331v2)|**[link](https://github.com/coulsonlee/stdo-cvpr2023)**|
 |**2023-07-25**|**Online Streaming Video Super-Resolution with Convolutional Look-Up Table**|Guanghao Yin et.al.|[2303.00334v4](http://arxiv.org/abs/2303.00334v4)|null|
@@ -934,7 +934,7 @@
 |**2023-09-21**|**Adaptive Input-image Normalization for Solving Mode Collapse Problem in GAN-based X-ray Images**|Muhammad Muneeb Saad et.al.|[2309.12245v1](http://arxiv.org/abs/2309.12245v1)|null|
 |**2023-09-21**|**Unitary Coupled-Cluster for Quantum Computation of Molecular Properties in a Strong Magnetic Field**|Tanner Culpitt et.al.|[2309.12240v1](http://arxiv.org/abs/2309.12240v1)|null|
 |**2023-09-21**|**Towards Answering Health-related Questions from Medical Videos: Datasets and Approaches**|Deepak Gupta et.al.|[2309.12224v1](http://arxiv.org/abs/2309.12224v1)|null|
-|**2023-09-21**|**Boolformer: Symbolic Regression of Logic Functions with Transformers**|Stéphane d'Ascoli et.al.|[2309.12207v1](http://arxiv.org/abs/2309.12207v1)|null|
+|**2023-09-21**|**Boolformer: Symbolic Regression of Logic Functions with Transformers**|Stéphane d'Ascoli et.al.|[2309.12207v1](http://arxiv.org/abs/2309.12207v1)|**[link](https://github.com/sdascoli/boolformer)**|
 |**2023-09-21**|**Dynamically Assisted Tunneling in the Floquet Picture**|Daniil Ryndyk et.al.|[2309.12205v1](http://arxiv.org/abs/2309.12205v1)|null|
 |**2023-09-21**|**Empowering People with Intellectual and Developmental Disabilities through Cognitively Accessible Visualizations**|Keke Wu et.al.|[2309.12194v1](http://arxiv.org/abs/2309.12194v1)|null|
 |**2023-09-21**|**Explainable Artificial Intelligence for Drug Discovery and Development -- A Comprehensive Survey**|Roohallah Alizadehsani et.al.|[2309.12177v1](http://arxiv.org/abs/2309.12177v1)|null|
