@@ -964,8 +964,8 @@
 |**2023-09-21**|**OSNet & MNetO: Two Types of General Reconstruction Architectures for Linear Computed Tomography in Multi-Scenarios**|Zhisheng Wang et.al.|[2309.11858v1](http://arxiv.org/abs/2309.11858v1)|null|
 |**2023-09-21**|**Design of Reversible Computing Systems; Large Logic, Languages, and Circuits**|Michael Kirkedal Thomsen et.al.|[2309.11832v1](http://arxiv.org/abs/2309.11832v1)|null|
 |**2023-09-21**|**Multimodal Transformers for Wireless Communications: A Case Study in Beam Prediction**|Yu Tian et.al.|[2309.11811v1](http://arxiv.org/abs/2309.11811v1)|**[link](https://github.com/itu-ai-ml-in-5g-challenge/deepsense6g_tii)**|
-|**2023-09-21**|**Unlocking massively parallel spectral proper orthogonal decompositions in the PySPOD package**|Marcin Rogowski et.al.|[2309.11808v1](http://arxiv.org/abs/2309.11808v1)|null|
-|**2023-09-21**|**CoMFLP: Correlation Measure based Fast Search on ASR Layer Pruning**|Wei Liu et.al.|[2309.11768v1](http://arxiv.org/abs/2309.11768v1)|null|
+|**2023-09-21**|**Unlocking massively parallel spectral proper orthogonal decompositions in the PySPOD package**|Marcin Rogowski et.al.|[2309.11808v1](http://arxiv.org/abs/2309.11808v1)|**[link](https://github.com/mathexlab/pyspod)**|
+|**2023-09-21**|**CoMFLP: Correlation Measure based Fast Search on ASR Layer Pruning**|Wei Liu et.al.|[2309.11768v1](http://arxiv.org/abs/2309.11768v1)|**[link](https://github.com/louislau1129/comflp)**|
 |**2023-09-21**|**Resource Allocation for Semantic-Aware Mobile Edge Computing Systems**|Yihan Cang et.al.|[2309.11736v1](http://arxiv.org/abs/2309.11736v1)|null|
 |**2023-09-21**|**Large  $N$  and large representations of Schur line defect correlators**|Yasuyuki Hatsuda et.al.|[2309.11712v1](http://arxiv.org/abs/2309.11712v1)|null|
 |**2023-09-20**|**RAI4IoE: Responsible AI for Enabling the Internet of Energy**|Minhui Xue et.al.|[2309.11691v1](http://arxiv.org/abs/2309.11691v1)|null|
@@ -974,7 +974,7 @@
 |**2023-09-20**|**Leveraging Negative Signals with Self-Attention for Sequential Music Recommendation**|Pavan Seshadri et.al.|[2309.11623v1](http://arxiv.org/abs/2309.11623v1)|null|
 |**2023-09-20**|**Almost-Poisson brackets for nonholonomic systems with gyroscopic terms and Hamiltonisation**|L. C. García-Naranjo et.al.|[2309.11597v1](http://arxiv.org/abs/2309.11597v1)|null|
 |**2023-09-20**|**The Role of Groups in Galaxy Evolution: compelling evidence of pre-processing out to the turnaround radius of clusters**|P. A. A. Lopes et.al.|[2309.11578v1](http://arxiv.org/abs/2309.11578v1)|null|
-|**2023-09-20**|**Large Synthetic Data from the arXiv for OCR Post Correction of Historic Scientific Articles**|Jill P. Naiman et.al.|[2309.11549v1](http://arxiv.org/abs/2309.11549v1)|null|
+|**2023-09-20**|**Large Synthetic Data from the arXiv for OCR Post Correction of Historic Scientific Articles**|Jill P. Naiman et.al.|[2309.11549v1](http://arxiv.org/abs/2309.11549v1)|**[link](https://github.com/readingtimemachine/ocr_post_correction)**|
 |**2023-09-20**|**Notes on crossing transformations of Virasoro conformal blocks**|Lorenz Eberhardt et.al.|[2309.11540v1](http://arxiv.org/abs/2309.11540v1)|null|
 |**2023-09-20**|**Robustly Stable Accelerated Momentum Methods With A Near-Optimal L2 Gain and  $H_\infty$  Performance**|Mert Gurbuzbalaban et.al.|[2309.11481v1](http://arxiv.org/abs/2309.11481v1)|null|
 |**2023-09-20**|**Fictional Worlds, Real Connections: Developing Community Storytelling Social Chatbots through LLMs**|Yuqian Sun et.al.|[2309.11478v1](http://arxiv.org/abs/2309.11478v1)|null|
