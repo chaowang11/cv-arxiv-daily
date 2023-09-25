@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-21**|**Super-resolution and super-sensitivity of quantum LiDAR with multi-photonic state and binary outcome photon counting measurement**|Priyanka Sharma et.al.|[2309.12076v1](http://arxiv.org/abs/2309.12076v1)|null|
 |**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v2](http://arxiv.org/abs/2309.10808v2)|null|
 |**2023-09-19**|**Self-Supervised Super-Resolution Approach for Isotropic Reconstruction of 3D Electron Microscopy Images from Anisotropic Acquisition**|Mohammad Khateri et.al.|[2309.10646v1](http://arxiv.org/abs/2309.10646v1)|null|
@@ -573,6 +574,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-17**|**Frequency Estimation Using Complex-Valued Shifted Window Transformer**|Josiah W. Smith et.al.|[2309.09352v1](http://arxiv.org/abs/2309.09352v1)|**[link](https://github.com/josiahwsmith10/spectral-super-resolution-swin)**|
 |**2023-09-16**|**Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution**|Wenyu Zhang et.al.|[2309.08919v1](http://arxiv.org/abs/2309.08919v1)|**[link](https://github.com/wenyu1009/rtsrn)**|
 |**2023-09-16**|**Emerging Approaches for THz Array Imaging: A Tutorial Review and Software Tool**|Josiah W. Smith et.al.|[2309.08844v1](http://arxiv.org/abs/2309.08844v1)|null|
@@ -926,6 +928,52 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**E(2)-Equivariant Graph Planning for Navigation**|Linfeng Zhao et.al.|[2309.13043v1](http://arxiv.org/abs/2309.13043v1)|null|
+|**2023-09-22**|**Memory-augmented conformer for improved end-to-end long-form ASR**|Carlos Carvalho et.al.|[2309.13029v1](http://arxiv.org/abs/2309.13029v1)|**[link](https://github.com/miamoto/conformer-ntm)**|
+|**2023-09-22**|**Holomorphic discs of negative Maslov index and extended deformations in mirror symmetry**|Denis Auroux et.al.|[2309.13010v1](http://arxiv.org/abs/2309.13010v1)|null|
+|**2023-09-22**|**Fourier inequalities in Morrey and Campanato spaces**|Alberto Debernardi Pinos et.al.|[2309.12993v1](http://arxiv.org/abs/2309.12993v1)|null|
+|**2023-09-22**|**Deep learning probability flows and entropy production rates in active matter**|Nicholas M. Boffi et.al.|[2309.12991v1](http://arxiv.org/abs/2309.12991v1)|null|
+|**2023-09-22**|**Detect Every Thing with Few Examples**|Xinyu Zhang et.al.|[2309.12969v1](http://arxiv.org/abs/2309.12969v1)|**[link](https://github.com/mlzxy/devit)**|
+|**2023-09-22**|**Laser-induced real-space topology control of spin wave resonances**|Tim Titze et.al.|[2309.12956v1](http://arxiv.org/abs/2309.12956v1)|null|
+|**2023-09-22**|**On Separate Normalization in Self-supervised Transformers**|Xiaohui Chen et.al.|[2309.12931v1](http://arxiv.org/abs/2309.12931v1)|null|
+|**2023-09-22**|**BayesDLL: Bayesian Deep Learning Library**|Minyoung Kim et.al.|[2309.12928v1](http://arxiv.org/abs/2309.12928v1)|**[link](https://github.com/minyoungkim21/bayesdll)**|
+|**2023-09-22**|**Platform-Aware FPGA System Architecture Generation based on MLIR**|Stephanie Soldavini et.al.|[2309.12917v1](http://arxiv.org/abs/2309.12917v1)|null|
+|**2023-09-22**|**Accurate and Fast Compressed Video Captioning**|Yaojie Shen et.al.|[2309.12867v1](http://arxiv.org/abs/2309.12867v1)|**[link](https://github.com/acherstyx/CoCap)**|
+|**2023-09-22**|**Bridging Sensor Gaps via Single-Direction Tuning for Hyperspectral Image Classification**|Xizhe Xue et.al.|[2309.12865v1](http://arxiv.org/abs/2309.12865v1)|null|
+|**2023-09-22**|**Associative Transformer Is A Sparse Representation Learner**|Yuwei Sun et.al.|[2309.12862v1](http://arxiv.org/abs/2309.12862v1)|null|
+|**2023-09-22**|**Corona theorem for the Dirichlet-type space**|Shuaibing Luo et.al.|[2309.12850v1](http://arxiv.org/abs/2309.12850v1)|null|
+|**2023-09-22**|**Pré-feuilletages de co-degré  $1$  sur  $\mathbb{P}^{2}_{\mathbb{C}}$  ayant une transformée de Legendre plate**|Samir Bedrouni et.al.|[2309.12837v1](http://arxiv.org/abs/2309.12837v1)|null|
+|**2023-09-22**|**Model-based causal feature selection for general response types**|Lucas Kook et.al.|[2309.12833v1](http://arxiv.org/abs/2309.12833v1)|null|
+|**2023-09-22**|**StyloMetrix: An Open-Source Multilingual Tool for Representing Stylometric Vectors**|Inez Okulska et.al.|[2309.12810v1](http://arxiv.org/abs/2309.12810v1)|null|
+|**2023-09-22**|**DurIAN-E: Duration Informed Attention Network For Expressive Text-to-Speech Synthesis**|Yu Gu et.al.|[2309.12792v1](http://arxiv.org/abs/2309.12792v1)|null|
+|**2023-09-22**|**Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency Tells You Where**|Zhi-Yi Chin et.al.|[2309.12757v1](http://arxiv.org/abs/2309.12757v1)|null|
+|**2023-09-22**|**Transformer-based Image Compression with Variable Image Quality Objectives**|Chia-Hao Kao et.al.|[2309.12717v1](http://arxiv.org/abs/2309.12717v1)|null|
+|**2023-09-22**|**PointSSC: A Cooperative Vehicle-Infrastructure Point Cloud Benchmark for Semantic Scene Completion**|Yuxiang Yan et.al.|[2309.12708v1](http://arxiv.org/abs/2309.12708v1)|null|
+|**2023-09-22**|**Microlocal analysis of the X-ray transform in non-smooth geometry**|Joonas Ilmavirta et.al.|[2309.12702v1](http://arxiv.org/abs/2309.12702v1)|null|
+|**2023-09-22**|**AMPLIFY:Attention-based Mixup for Performance Improvement and Label Smoothing in Transformer**|Leixin Yang et.al.|[2309.12689v1](http://arxiv.org/abs/2309.12689v1)|**[link](https://github.com/kiwi-lilo/amplify)**|
+|**2023-09-22**|**Accelerating the laser-induced phase transition in nanostructured FeRh via plasmonic absorption**|Maximilian Mattern et.al.|[2309.12683v1](http://arxiv.org/abs/2309.12683v1)|null|
+|**2023-09-22**|**TrTr: A Versatile Pre-Trained Large Traffic Model based on Transformer for Capturing Trajectory Diversity in Vehicle Population**|Ruyi Feng et.al.|[2309.12677v1](http://arxiv.org/abs/2309.12677v1)|null|
+|**2023-09-22**|**Vision Transformers for Computer Go**|Amani Sagri et.al.|[2309.12675v1](http://arxiv.org/abs/2309.12675v1)|null|
+|**2023-09-22**|**Exploiting Modality-Specific Features For Multi-Modal Manipulation Detection And Grounding**|Jiazhen Wang et.al.|[2309.12657v1](http://arxiv.org/abs/2309.12657v1)|null|
+|**2023-09-22**|**Decoding Affect in Dyadic Conversations: Leveraging Semantic Similarity through Sentence Embedding**|Chen-Wei Yu et.al.|[2309.12646v1](http://arxiv.org/abs/2309.12646v1)|null|
+|**2023-09-22**|**Global Context Aggregation Network for Lightweight Saliency Detection of Surface Defects**|Feng Yan et.al.|[2309.12641v1](http://arxiv.org/abs/2309.12641v1)|null|
+|**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639v1](http://arxiv.org/abs/2309.12639v1)|null|
+|**2023-09-22**|**Population synthesis of exoplanets accounting for orbital variations due to stellar evolution**|A. S. Andriushin et.al.|[2309.12635v1](http://arxiv.org/abs/2309.12635v1)|null|
+|**2023-09-22**|**SPGM: Prioritizing Local Features for enhanced speech separation performance**|Jia Qi Yip et.al.|[2309.12608v1](http://arxiv.org/abs/2309.12608v1)|null|
+|**2023-09-22**|**DeFormer: Integrating Transformers with Deformable Models for 3D Shape Abstraction from a Single Image**|Di Liu et.al.|[2309.12594v1](http://arxiv.org/abs/2309.12594v1)|null|
+|**2023-09-22**|**SPION: Layer-Wise Sparse Training of Transformer via Convolutional Flood Filling**|Bokyeong Yoon et.al.|[2309.12578v1](http://arxiv.org/abs/2309.12578v1)|null|
+|**2023-09-22**|**Modeling Spatiotemporal Periodicity and Collaborative Signal for Local-Life Service Recommendation**|Huixuan Chi et.al.|[2309.12565v1](http://arxiv.org/abs/2309.12565v1)|null|
+|**2023-09-21**|**Exceptional points in optical systems: A resonant-state expansion study**|Kyle S Netherwood et.al.|[2309.12536v1](http://arxiv.org/abs/2309.12536v1)|null|
+|**2023-09-21**|**Non-locality of conjugation symmetry: characterization and examples in quantum network sensing**|Jisho Miyazaki et.al.|[2309.12523v1](http://arxiv.org/abs/2309.12523v1)|null|
+|**2023-09-21**|**Profile-Error-Tolerant Target-Speaker Voice Activity Detection**|Dongmei Wang et.al.|[2309.12521v1](http://arxiv.org/abs/2309.12521v1)|null|
+|**2023-09-21**|**User-Level Differential Privacy With Few Examples Per User**|Badih Ghazi et.al.|[2309.12500v1](http://arxiv.org/abs/2309.12500v1)|null|
+|**2023-09-21**|**Post deposition interfacial Néel temperature tuning in magnetoelectric B:Cr2O3**|Ather Mahmood et.al.|[2309.12493v1](http://arxiv.org/abs/2309.12493v1)|null|
+|**2023-09-21**|**Foundation Metrics: Quantifying Effectiveness of Healthcare Conversations powered by Generative AI**|Mahyar Abbasian et.al.|[2309.12444v1](http://arxiv.org/abs/2309.12444v1)|null|
+|**2023-09-21**|**Decomposing large unitaries into multimode devices of arbitrary size**|Christian Arends et.al.|[2309.12440v1](http://arxiv.org/abs/2309.12440v1)|null|
+|**2023-09-21**|** $\texttt{nectarchain}$ , the scientific software for the Cherenkov Telescope Array -- NectarCAM**|Guillaume Grolleron et.al.|[2309.12438v1](http://arxiv.org/abs/2309.12438v1)|null|
+|**2023-09-21**|**Quantum Dicke battery supercharging in the "bound luminocity" state**|S. S. Seidov et.al.|[2309.12433v1](http://arxiv.org/abs/2309.12433v1)|null|
+|**2023-09-21**|**DualToken-ViT: Position-aware Efficient Vision Transformer with Dual Token Fusion**|Zhenzhen Chu et.al.|[2309.12424v1](http://arxiv.org/abs/2309.12424v1)|null|
+|**2023-09-21**|**Understanding the language of molecules: Predicting pure component parameters for the PC-SAFT equation of state from SMILES**|Benedikt Winter et.al.|[2309.12404v1](http://arxiv.org/abs/2309.12404v1)|null|
 |**2023-09-22**|**PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation**|Shilin Yan et.al.|[2309.12303v2](http://arxiv.org/abs/2309.12303v2)|**[link](https://github.com/shilinyan99/panovos)**|
 |**2023-09-21**|**Text-Guided Vector Graphics Customization**|Peiying Zhang et.al.|[2309.12302v1](http://arxiv.org/abs/2309.12302v1)|null|
 |**2023-09-21**|**A generalization of the Witten conjecture through spectral curve**|Shuai Guo et.al.|[2309.12271v1](http://arxiv.org/abs/2309.12271v1)|null|
