@@ -945,6 +945,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Learning to Transform for Generalizable Instance-wise Invariance**|Utkarsh Singhal et.al.|[2309.16672v1](http://arxiv.org/abs/2309.16672v1)|**[link](https://github.com/sutkarsh/flow_inv)**|
+|**2023-09-28**|**Modular quantum signal processing in many variables**|Zane M. Rossi et.al.|[2309.16665v1](http://arxiv.org/abs/2309.16665v1)|null|
+|**2023-09-28**|**SA2-Net: Scale-aware Attention Network for Microscopic Image Segmentation**|Mustansar Fiaz et.al.|[2309.16661v1](http://arxiv.org/abs/2309.16661v1)|**[link](https://github.com/mustansarfiaz/sa2-net)**|
+|**2023-09-28**|**Visual In-Context Learning for Few-Shot Eczema Segmentation**|Neelesh Kumar et.al.|[2309.16656v1](http://arxiv.org/abs/2309.16656v1)|null|
+|**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649v1](http://arxiv.org/abs/2309.16649v1)|null|
+|**2023-09-28**|**Improving Equivariance in State-of-the-Art Supervised Depth and Normal Predictors**|Yuanyi Zhong et.al.|[2309.16646v1](http://arxiv.org/abs/2309.16646v1)|**[link](https://github.com/mikuhatsune/equivariance)**|
+|**2023-09-28**|**Deep Geometrized Cartoon Line Inbetweening**|Li Siyao et.al.|[2309.16643v1](http://arxiv.org/abs/2309.16643v1)|**[link](https://github.com/lisiyao21/animeinbet)**|
+|**2023-09-28**|**Depthwise Hyperparameter Transfer in Residual Networks: Dynamics and Scaling Limit**|Blake Bordelon et.al.|[2309.16620v1](http://arxiv.org/abs/2309.16620v1)|null|
+|**2023-09-28**|**Cubical Approximation for Directed Topology II**|Sanjeevi Krishnan et.al.|[2309.16619v1](http://arxiv.org/abs/2309.16619v1)|null|
+|**2023-09-28**|**Vision Transformers Need Registers**|Timothée Darcet et.al.|[2309.16588v1](http://arxiv.org/abs/2309.16588v1)|null|
+|**2023-09-28**|**Quantization of Weyl invariant unimodular gravity with antisymmetric ghost fields**|David Garcia-Lopez et.al.|[2309.16559v1](http://arxiv.org/abs/2309.16559v1)|null|
+|**2023-09-28**|**Nonlinear Anisotropic Viscoelasticity**|Souhayl Sadik et.al.|[2309.16555v1](http://arxiv.org/abs/2309.16555v1)|null|
+|**2023-09-28**|**HOI4ABOT: Human-Object Interaction Anticipation for Human Intention Reading Collaborative roBOTs**|Esteve Valls Mascaro et.al.|[2309.16524v1](http://arxiv.org/abs/2309.16524v1)|null|
+|**2023-09-28**|**Improving Potential Energy Surfaces Using Experimental Feshbach Resonance Tomography**|Karl P. Horn et.al.|[2309.16491v1](http://arxiv.org/abs/2309.16491v1)|null|
+|**2023-09-28**|**HTC-DC Net: Monocular Height Estimation from Single Remote Sensing Images**|Sining Chen et.al.|[2309.16486v1](http://arxiv.org/abs/2309.16486v1)|**[link](https://github.com/zhu-xlab/htc-dc-net)**|
+|**2023-09-28**|**Chiral photonic super-crystals based on helical van der Waals homostructures**|Kirill V. Voronin et.al.|[2309.16479v1](http://arxiv.org/abs/2309.16479v1)|null|
+|**2023-09-28**|**Compositional Program Generation for Systematic Generalization**|Tim Klinger et.al.|[2309.16467v1](http://arxiv.org/abs/2309.16467v1)|null|
+|**2023-09-28**|**A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces**|Dominic Boutet et.al.|[2309.16465v1](http://arxiv.org/abs/2309.16465v1)|null|
+|**2023-09-28**|**Modular symmetry in magnetized  $T^{2g}$  torus and orbifold models**|Shota Kikuchi et.al.|[2309.16447v1](http://arxiv.org/abs/2309.16447v1)|null|
+|**2023-09-28**|**Radar Instance Transformer: Reliable Moving Instance Segmentation in Sparse Radar Point Clouds**|Matthias Zeller et.al.|[2309.16435v1](http://arxiv.org/abs/2309.16435v1)|null|
+|**2023-09-28**|**Efficient Supervised Training of Audio Transformers for Music Representation Learning**|Pablo Alonso-Jiménez et.al.|[2309.16418v1](http://arxiv.org/abs/2309.16418v1)|null|
+|**2023-09-28**|**Uncertainty-Aware Decision Transformer for Stochastic Driving Environments**|Zenan Li et.al.|[2309.16397v1](http://arxiv.org/abs/2309.16397v1)|null|
+|**2023-09-28**|**Differential 2D Copula Approximating Transforms via Sobolev Training: 2-Cats Networks**|Flavio Figueiredo et.al.|[2309.16391v1](http://arxiv.org/abs/2309.16391v1)|null|
+|**2023-09-28**|**Transformer-VQ: Linear-Time Transformers via Vector Quantization**|Lucas D. Lingle et.al.|[2309.16354v1](http://arxiv.org/abs/2309.16354v1)|**[link](https://github.com/transformer-vq/transformer_vq)**|
+|**2023-09-28**|**Symmetric matrices with banded heavy tail noise: local law and eigenvector delocalization**|Yi Han et.al.|[2309.16346v1](http://arxiv.org/abs/2309.16346v1)|null|
+|**2023-09-28**|**A central limit theorem for the Euler method for SDEs with irregular drifts**|Konstantinos Dareiotis et.al.|[2309.16339v1](http://arxiv.org/abs/2309.16339v1)|null|
+|**2023-09-28**|**Logarithm-transform aided Gaussian Sampling for Few-Shot Learning**|Vaibhav Ganatra et.al.|[2309.16337v1](http://arxiv.org/abs/2309.16337v1)|**[link](https://github.com/ganatra-v/gaussian-sampling-fsl)**|
+|**2023-09-28**|**Decoding the Workplace & EOR: An Employee Survey Analysis by Data Science Techniques and Visualization**|Kishankumar Bhimani et.al.|[2309.16329v1](http://arxiv.org/abs/2309.16329v1)|**[link](https://github.com/mrbhimani/employee_survey_analysis)**|
+|**2023-09-28**|**Augmenting transformers with recursively composed multi-grained representations**|Xiang Hu et.al.|[2309.16319v1](http://arxiv.org/abs/2309.16319v1)|null|
+|**2023-09-28**|**Astroconformer: The Prospects of Analyzing Stellar Light Curves with Transformer-Based Deep Learning Models**|Jia-Shu Pan et.al.|[2309.16316v1](http://arxiv.org/abs/2309.16316v1)|null|
+|**2023-09-28**|**Audio Visual Speaker Localization from EgoCentric Views**|Jinzheng Zhao et.al.|[2309.16308v1](http://arxiv.org/abs/2309.16308v1)|null|
+|**2023-09-28**|**Multi-scale Recurrent LSTM and Transformer Network for Depth Completion**|Xiaogang Jia et.al.|[2309.16301v1](http://arxiv.org/abs/2309.16301v1)|null|
+|**2023-09-28**|**Predicting performance difficulty from piano sheet music images**|Pedro Ramoneda et.al.|[2309.16287v1](http://arxiv.org/abs/2309.16287v1)|null|
+|**2023-09-28**|**UPB @ ACTI: Detecting Conspiracies using fine tuned Sentence Transformers**|Andrei Paraschiv et.al.|[2309.16275v1](http://arxiv.org/abs/2309.16275v1)|null|
+|**2023-09-28**|**Social Media Fashion Knowledge Extraction as Captioning**|Yifei Yuan et.al.|[2309.16270v1](http://arxiv.org/abs/2309.16270v1)|null|
+|**2023-09-28**|**On the Challenges of Fully Incremental Neural Dependency Parsing**|Ana Ezquerro et.al.|[2309.16254v1](http://arxiv.org/abs/2309.16254v1)|**[link](https://github.com/anaezquerro/incpar)**|
+|**2023-09-28**|**Basis transformation properties of anomalous dimensions for hard exclusive processes**|S. Van Thurenhout et.al.|[2309.16236v1](http://arxiv.org/abs/2309.16236v1)|null|
+|**2023-09-28**|**Language models in molecular discovery**|Nikita Janakarajan et.al.|[2309.16235v1](http://arxiv.org/abs/2309.16235v1)|null|
+|**2023-09-28**|**Controllable Text Generation with Residual Memory Transformer**|Hanqing Zhang et.al.|[2309.16231v1](http://arxiv.org/abs/2309.16231v1)|**[link](https://github.com/littlehacker26/residual_memory_transformer)**|
+|**2023-09-28**|**Irreversible vierbein postulate: Emergence of spacetime from quantum phase transition**|Yadikaer Maitiniyazi et.al.|[2309.16230v1](http://arxiv.org/abs/2309.16230v1)|null|
+|**2023-09-28**|**Unmasking the Chameleons: A Benchmark for Out-of-Distribution Detection in Medical Tabular Data**|Mohammad Azizmalayeri et.al.|[2309.16220v1](http://arxiv.org/abs/2309.16220v1)|**[link](https://github.com/mazizmalayeri/tabmedood)**|
+|**2023-09-28**|**GAFlow: Incorporating Gaussian Attention into Optical Flow**|Ao Luo et.al.|[2309.16217v1](http://arxiv.org/abs/2309.16217v1)|**[link](https://github.com/la30/gaflow)**|
+|**2023-09-28**|**Cut a Numeric String into Required Pieces**|Yinqi Cai et.al.|[2309.16212v1](http://arxiv.org/abs/2309.16212v1)|null|
+|**2023-09-28**|**Abdominal multi-organ segmentation in CT using Swinunter**|Mingjin Chen et.al.|[2309.16210v1](http://arxiv.org/abs/2309.16210v1)|null|
+|**2023-09-28**|**Cross-Modal Transformer GAN: Brain Structural-Functional Deep Fusing Network for Alzheimer's Disease Analysis**|Qiankun Zuo et.al.|[2309.16206v1](http://arxiv.org/abs/2309.16206v1)|null|
+|**2023-09-28**|**Stock Volatility Prediction Based on Transformer Model Using Mixed-Frequency Data**|Wenting Liu et.al.|[2309.16196v1](http://arxiv.org/abs/2309.16196v1)|null|
+|**2023-09-28**|**Semi-device-independent certification of quantum non-Markovianity using sequential Random Access Codes**|Abhinash Kumar Roy et.al.|[2309.16190v1](http://arxiv.org/abs/2309.16190v1)|null|
+|**2023-09-28**|**On inverse problems for a strongly damped wave equation on compact manifolds**|Li Li et.al.|[2309.16182v1](http://arxiv.org/abs/2309.16182v1)|null|
+|**2023-09-28**|**Systematic Sampling and Validation of Machine Learning-Parameterizations in Climate Models**|Jerry Lin et.al.|[2309.16177v1](http://arxiv.org/abs/2309.16177v1)|null|
+|**2023-09-28**|**Tight conic approximation of testing regions for quantum statistical models and measurements**|Michele Dall'Arno et.al.|[2309.16153v1](http://arxiv.org/abs/2309.16153v1)|null|
 |**2023-09-27**|**Fractal-like star-mesh transformations using graphene quantum Hall arrays**|Dominick S. Scaletta et.al.|[2309.15813v1](http://arxiv.org/abs/2309.15813v1)|null|
 |**2023-09-27**|**Enabling multi-messenger astronomy with continuous gravitational waves: early warning and sky localization of binary neutron stars in Einstein Telescope**|Andrew L. Miller et.al.|[2309.15808v1](http://arxiv.org/abs/2309.15808v1)|null|
 |**2023-09-27**|**Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack**|Xiaoliang Dai et.al.|[2309.15807v1](http://arxiv.org/abs/2309.15807v1)|null|
@@ -9964,6 +10014,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**UVL: A Unified Framework for Video Tampering Localization**|Pengfei Pei et.al.|[2309.16126v1](http://arxiv.org/abs/2309.16126v1)|null|
 |**2023-09-26**|**Bitstream-Corrupted Video Recovery: A Novel Benchmark Dataset and Method**|Tianyi Liu et.al.|[2309.13890v2](http://arxiv.org/abs/2309.13890v2)|**[link](https://github.com/liutighe/bscv-dataset)**|
 |**2023-09-07**|**ProPainter: Improving Propagation and Transformer for Video Inpainting**|Shangchen Zhou et.al.|[2309.03897v1](http://arxiv.org/abs/2309.03897v1)|**[link](https://github.com/sczhou/propainter)**|
 |**2023-08-28**|**UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization**|Rui Zhang et.al.|[2308.14395v1](http://arxiv.org/abs/2308.14395v1)|**[link](https://github.com/ymhzyj/UMMAFormer)**|
