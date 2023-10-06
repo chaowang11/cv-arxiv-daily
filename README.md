@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.05
+## Updated on 2023.10.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -26,7 +26,7 @@
 |**2023-10-03**|**Relaxed Octahedral Group Convolution for Learning Symmetry Breaking in 3D Physical Systems**|Rui Wang et.al.|[2310.02299v1](http://arxiv.org/abs/2310.02299v1)|null|
 |**2023-10-03**|**Deep learning-based image super-resolution of a novel end-expandable optical fiber probe for application in esophageal cancer diagnostics**|Xiaohui Zhang et.al.|[2310.02171v1](http://arxiv.org/abs/2310.02171v1)|null|
 |**2023-10-04**|**CoNO: Complex Neural Operator for Continuous Dynamical Systems**|Karn Tiwari et.al.|[2310.02094v2](http://arxiv.org/abs/2310.02094v2)|null|
-|**2023-10-02**|**Forecasting Tropical Cyclones with Cascaded Diffusion Models**|Pritthijit Nath et.al.|[2310.01690v1](http://arxiv.org/abs/2310.01690v1)|**[link](https://github.com/nathzi1505/forecast-diffmodels)**|
+|**2023-10-04**|**Forecasting Tropical Cyclones with Cascaded Diffusion Models**|Pritthijit Nath et.al.|[2310.01690v2](http://arxiv.org/abs/2310.01690v2)|**[link](https://github.com/nathzi1505/forecast-diffmodels)**|
 |**2023-10-02**|**CoDBench: A Critical Evaluation of Data-driven Models for Continuous Dynamical Systems**|Priyanshu Burark et.al.|[2310.01650v1](http://arxiv.org/abs/2310.01650v1)|null|
 |**2023-10-02**|**RF-ULM: Deep Learning for Radio-Frequency Ultrasound Localization Microscopy**|Christopher Hahne et.al.|[2310.01545v1](http://arxiv.org/abs/2310.01545v1)|**[link](https://github.com/hahnec/rf-ulm)**|
 |**2023-10-02**|**Conditional Diffusion Distillation**|Kangfu Mei et.al.|[2310.01407v1](http://arxiv.org/abs/2310.01407v1)|null|
@@ -46,7 +46,7 @@
 |**2023-09-27**|**Guided Frequency Loss for Image Restoration**|Bilel Benjdiraa et.al.|[2309.15563v1](http://arxiv.org/abs/2309.15563v1)|null|
 |**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533v1](http://arxiv.org/abs/2309.15533v1)|null|
 |**2023-09-27**|**Style Transfer and Self-Supervised Learning Powered Myocardium Infarction Super-Resolution Segmentation**|Lichao Wang et.al.|[2309.15485v1](http://arxiv.org/abs/2309.15485v1)|null|
-|**2023-09-27**|**Neural Operators for Accelerating Scientific Simulations and Design**|Kamyar Azzizadenesheli et.al.|[2309.15325v1](http://arxiv.org/abs/2309.15325v1)|null|
+|**2023-10-05**|**Neural Operators for Accelerating Scientific Simulations and Design**|Kamyar Azzizadenesheli et.al.|[2309.15325v2](http://arxiv.org/abs/2309.15325v2)|null|
 |**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v2](http://arxiv.org/abs/2309.15103v2)|null|
 |**2023-09-26**|**An Ensemble Model for Distorted Images in Real Scenarios**|Boyuan Ji et.al.|[2309.14998v1](http://arxiv.org/abs/2309.14998v1)|null|
 |**2023-09-26**|**DONNAv2 -- Lightweight Neural Architecture Search for Vision tasks**|Sweta Priyadarshi et.al.|[2309.14670v1](http://arxiv.org/abs/2309.14670v1)|null|
@@ -600,7 +600,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -824,7 +824,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -906,7 +906,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -924,7 +924,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -965,7 +965,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
 
 ## Transformer
 
@@ -1002,7 +1002,7 @@
 |**2023-10-04**|**MedPrompt: Cross-Modal Prompting for Multi-Task Medical Image Translation**|Xuhang Chen et.al.|[2310.02663v1](http://arxiv.org/abs/2310.02663v1)|null|
 |**2023-10-04**|**AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation**|Filippo Perrina et.al.|[2310.02655v1](http://arxiv.org/abs/2310.02655v1)|null|
 |**2023-10-04**|**A Study of Quantisation-aware Training on Time Series Transformer Models for Resource-constrained FPGAs**|Tianheng Ling et.al.|[2310.02654v1](http://arxiv.org/abs/2310.02654v1)|null|
-|**2023-10-04**|**GET: Group Event Transformer for Event-Based Vision**|Yansong Peng et.al.|[2310.02642v1](http://arxiv.org/abs/2310.02642v1)|null|
+|**2023-10-04**|**GET: Group Event Transformer for Event-Based Vision**|Yansong Peng et.al.|[2310.02642v1](http://arxiv.org/abs/2310.02642v1)|**[link](https://github.com/peterande/get-group-event-transformer)**|
 |**2023-10-04**|**Deformation-Invariant Neural Network and Its Applications in Distorted Image Restoration and Analysis**|Han Zhang et.al.|[2310.02641v1](http://arxiv.org/abs/2310.02641v1)|null|
 |**2023-10-04**|**P2CADNet: An End-to-End Reconstruction Network for Parametric 3D CAD Model from Point Clouds**|Zhihao Zong et.al.|[2310.02638v1](http://arxiv.org/abs/2310.02638v1)|null|
 |**2023-10-04**|**Quantum Algorithm Cards: Streamlining the development of hybrid classical-quantum applications**|Vlad Stirbu et.al.|[2310.02598v1](http://arxiv.org/abs/2310.02598v1)|null|
@@ -10035,7 +10035,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -10045,7 +10045,7 @@
 |**2023-09-28**|**On the Contractivity of Plug-and-Play Operators**|Chirayu D. Athalye et.al.|[2309.16899v1](http://arxiv.org/abs/2309.16899v1)|**[link](https://github.com/bhartendu-kumar/pnp-conv)**|
 |**2023-09-19**|**ReShader: View-Dependent Highlights for Single Image View-Synthesis**|Avinash Paliwal et.al.|[2309.10689v1](http://arxiv.org/abs/2309.10689v1)|null|
 |**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614v1](http://arxiv.org/abs/2309.09614v1)|null|
-|**2023-09-29**|**Reconstructing Existing Levels through Level Inpainting**|Johor Jara Gonzalez et.al.|[2309.09472v2](http://arxiv.org/abs/2309.09472v2)|null|
+|**2023-10-05**|**Reconstructing Existing Levels through Level Inpainting**|Johor Jara Gonzalez et.al.|[2309.09472v3](http://arxiv.org/abs/2309.09472v3)|null|
 |**2023-09-13**|**GAN-based Algorithm for Efficient Image Inpainting**|Zhengyang Han et.al.|[2309.07293v1](http://arxiv.org/abs/2309.07293v1)|null|
 |**2023-09-12**|**Learning Energy-Based Models by Cooperative Diffusion Recovery Likelihood**|Yaxuan Zhu et.al.|[2309.05153v2](http://arxiv.org/abs/2309.05153v2)|null|
 |**2023-09-07**|**Learning Residual Elastic Warps for Image Stitching under Dirichlet Boundary Condition**|Minsu Kim et.al.|[2309.01406v2](http://arxiv.org/abs/2309.01406v2)|null|
@@ -10178,7 +10178,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -10247,7 +10247,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
