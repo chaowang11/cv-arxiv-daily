@@ -1006,7 +1006,7 @@
 |**2023-10-05**|**Complex-valued universal linear transformations and image encryption using spatially incoherent diffractive networks**|Xilin Yang et.al.|[2310.03384v1](http://arxiv.org/abs/2310.03384v1)|null|
 |**2023-10-05**|**Learning Trivializing Flows in a  $φ^4$  theory from coarser lattices**|David Albandea et.al.|[2310.03381v1](http://arxiv.org/abs/2310.03381v1)|null|
 |**2023-10-05**|**StegGuard: Fingerprinting Self-supervised Pre-trained Encoders via Secrets Embeder and Extractor**|Xingdong Ren et.al.|[2310.03380v1](http://arxiv.org/abs/2310.03380v1)|null|
-|**2023-10-05**|**Procedural Text Mining with Large Language Models**|Anisa Rula et.al.|[2310.03376v1](http://arxiv.org/abs/2310.03376v1)|null|
+|**2023-10-05**|**Procedural Text Mining with Large Language Models**|Anisa Rula et.al.|[2310.03376v1](http://arxiv.org/abs/2310.03376v1)|**[link](https://github.com/jd-coderepos/proc-tm)**|
 |**2023-10-05**|**Design Optimizer for Planar Soft-Growing Robot Manipulators**|Fabio Stroppa et.al.|[2310.03374v1](http://arxiv.org/abs/2310.03374v1)|null|
 |**2023-10-05**|**Swin-Tempo: Temporal-Aware Lung Nodule Detection in CT Scans as Video Sequences Using Swin Transformer-Enhanced UNet**|Hossein Jafari et.al.|[2310.03365v1](http://arxiv.org/abs/2310.03365v1)|null|
 |**2023-10-05**|**Time-Optimal Trajectory Planning in Highway Scenarios using Basis-Spline Parameterization**|Philip Dorpmüller et.al.|[2310.03359v1](http://arxiv.org/abs/2310.03359v1)|null|
@@ -10092,7 +10092,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848v1](http://arxiv.org/abs/2310.02848v1)|**[link](https://github.com/exisas/Magicremover)**|
+|**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848v1](http://arxiv.org/abs/2310.02848v1)|null|
 |**2023-09-28**|**On the Contractivity of Plug-and-Play Operators**|Chirayu D. Athalye et.al.|[2309.16899v1](http://arxiv.org/abs/2309.16899v1)|**[link](https://github.com/bhartendu-kumar/pnp-conv)**|
 |**2023-09-19**|**ReShader: View-Dependent Highlights for Single Image View-Synthesis**|Avinash Paliwal et.al.|[2309.10689v1](http://arxiv.org/abs/2309.10689v1)|null|
 |**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614v1](http://arxiv.org/abs/2309.09614v1)|null|
