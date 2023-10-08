@@ -1014,7 +1014,7 @@
 |**2023-10-05**|**Wavelet transforms of microlensing data: Denoising, extracting intrinsic pulsations, and planetary signals**|Sedighe Sajadian et.al.|[2310.03338v1](http://arxiv.org/abs/2310.03338v1)|null|
 |**2023-10-05**|**BioBridge: Bridging Biomedical Foundation Models via Knowledge Graph**|Zifeng Wang et.al.|[2310.03320v1](http://arxiv.org/abs/2310.03320v1)|null|
 |**2023-10-05**|**The effects of imaginary and real rotations on QCD matters**|Gaoqing Cao et.al.|[2310.03310v1](http://arxiv.org/abs/2310.03310v1)|null|
-|**2023-10-05**|**LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers**|Dacheng Li et.al.|[2310.03294v1](http://arxiv.org/abs/2310.03294v1)|null|
+|**2023-10-05**|**LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers**|Dacheng Li et.al.|[2310.03294v1](http://arxiv.org/abs/2310.03294v1)|**[link](https://github.com/rulinshao/lightseq)**|
 |**2023-10-05**|**Molecule Design by Latent Prompt Transformer**|Deqian Kong et.al.|[2310.03253v1](http://arxiv.org/abs/2310.03253v1)|null|
 |**2023-10-05**|**Efficient Video and Audio processing with Loihi 2**|Sumit Bam Shrestha et.al.|[2310.03251v1](http://arxiv.org/abs/2310.03251v1)|null|
 |**2023-10-05**|**Relational Convolutional Networks: A framework for learning representations of hierarchical relations**|Awni Altabaa et.al.|[2310.03240v1](http://arxiv.org/abs/2310.03240v1)|**[link](https://github.com/awni00/relational-neural-networks)**|
