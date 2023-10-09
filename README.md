@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
+|**2023-10-05**|**FNOSeg3D: Resolution-Robust 3D Image Segmentation with Fourier Neural Operator**|Ken C. L. Wong et.al.|[2310.03872v1](http://arxiv.org/abs/2310.03872v1)|**[link](https://github.com/ibm/multimodal-3d-image-segmentation)**|
 |**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725v1](http://arxiv.org/abs/2310.03725v1)|null|
 |**2023-10-03**|**Relaxed Octahedral Group Convolution for Learning Symmetry Breaking in 3D Physical Systems**|Rui Wang et.al.|[2310.02299v1](http://arxiv.org/abs/2310.02299v1)|null|
 |**2023-10-03**|**Deep learning-based image super-resolution of a novel end-expandable optical fiber probe for application in esophageal cancer diagnostics**|Xiaohui Zhang et.al.|[2310.02171v1](http://arxiv.org/abs/2310.02171v1)|null|
@@ -607,6 +609,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-03**|**Deep learning-based image super-resolution of a novel end-expandable optical fiber probe for application in esophageal cancer diagnostics**|Xiaohui Zhang et.al.|[2310.02171v1](http://arxiv.org/abs/2310.02171v1)|null|
 |**2023-10-02**|**EXTRACTER: Efficient Texture Matching with Attention and Gradient Enhancing for Large Scale Image Super Resolution**|Esteban Reyes-Saldana et.al.|[2310.01379v1](http://arxiv.org/abs/2310.01379v1)|**[link](https://github.com/esteban-rs/extracter)**|
 |**2023-09-30**|**Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis**|Nithin Gopalakrishnan Nair et.al.|[2310.00224v1](http://arxiv.org/abs/2310.00224v1)|null|
@@ -972,6 +975,49 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Functional Interpolation for Relative Positions Improves Long Context Transformers**|Shanda Li et.al.|[2310.04418v1](http://arxiv.org/abs/2310.04418v1)|null|
+|**2023-10-06**|**FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning**|Peiran Xu et.al.|[2310.04412v1](http://arxiv.org/abs/2310.04412v1)|**[link](https://github.com/ucsc-vlaa/fedconv)**|
+|**2023-10-06**|**Rapid transform optimisation strategy for decoherence-protected quantum register in diamond**|Jiazhao Tian et.al.|[2310.04371v1](http://arxiv.org/abs/2310.04371v1)|null|
+|**2023-10-06**|**Exploiting Transformer Activation Sparsity with Dynamic Inference**|Mikołaj Piórczyński et.al.|[2310.04361v1](http://arxiv.org/abs/2310.04361v1)|null|
+|**2023-10-06**|**Asymptotically free sketched ridge ensembles: Risks, cross-validation, and tuning**|Pratik Patil et.al.|[2310.04357v1](http://arxiv.org/abs/2310.04357v1)|**[link](https://github.com/dlej/sketched-ridge)**|
+|**2023-10-06**|**Integrating Transformations in Probabilistic Circuits**|Tom Schierenbeck et.al.|[2310.04354v1](http://arxiv.org/abs/2310.04354v1)|null|
+|**2023-10-06**|**Learning to Grasp: from Somewhere to Anywhere**|François Hélénon et.al.|[2310.04349v1](http://arxiv.org/abs/2310.04349v1)|null|
+|**2023-10-06**|**Exploring Transition from Stability to Chaos through Random Matrices**|Roberto da Silva et.al.|[2310.04344v1](http://arxiv.org/abs/2310.04344v1)|null|
+|**2023-10-06**|**Lagrangian modeling of a non-homogeneous turbulent shear flow: Molding homogeneous and isotropic trajectories into a jet**|Bianca Viggiano et.al.|[2310.04330v1](http://arxiv.org/abs/2310.04330v1)|null|
+|**2023-10-06**|**INVALS: An Efficient Forward Looking Inventory Allocation System**|Shiv Krishna Jaiswal et.al.|[2310.04305v1](http://arxiv.org/abs/2310.04305v1)|null|
+|**2023-10-06**|**Identifying Representations for Intervention Extrapolation**|Sorawit Saengkyongam et.al.|[2310.04295v1](http://arxiv.org/abs/2310.04295v1)|null|
+|**2023-10-06**|**Assessing Robustness via Score-Based Adversarial Image Generation**|Marcel Kollovieh et.al.|[2310.04285v1](http://arxiv.org/abs/2310.04285v1)|null|
+|**2023-10-06**|**Indirect Meltdown: Building Novel Side-Channel Attacks from Transient-Execution Attacks**|Daniel Weber et.al.|[2310.04183v1](http://arxiv.org/abs/2310.04183v1)|null|
+|**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
+|**2023-10-06**|**Entropic Score metric: Decoupling Topology and Size in Training-free NAS**|Niccolò Cavagnero et.al.|[2310.04179v1](http://arxiv.org/abs/2310.04179v1)|null|
+|**2023-10-06**|**Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching**|Shiquan Yi et.al.|[2310.04162v1](http://arxiv.org/abs/2310.04162v1)|null|
+|**2023-10-06**|**TiC: Exploring Vision Transformer in Convolution**|Song Zhang et.al.|[2310.04134v1](http://arxiv.org/abs/2310.04134v1)|**[link](https://github.com/zs670980918/msa-conv)**|
+|**2023-10-06**|**Continuous-discrete unscented Kalman filtering framework by MATLAB ODE solvers and square-root methods**|Maria Kulikova et.al.|[2310.04126v1](http://arxiv.org/abs/2310.04126v1)|null|
+|**2023-10-06**|**ClusVPR: Efficient Visual Place Recognition with Clustering-based Weighted Transformer**|Yifan Xu et.al.|[2310.04099v1](http://arxiv.org/abs/2310.04099v1)|null|
+|**2023-10-06**|**Scale limited fields and the Casimir effect**|Šimon Vedl et.al.|[2310.04089v1](http://arxiv.org/abs/2310.04089v1)|null|
+|**2023-10-06**|**How to Capture Higher-order Correlations? Generalizing Matrix Softmax Attention to Kronecker Computation**|Josh Alman et.al.|[2310.04064v1](http://arxiv.org/abs/2310.04064v1)|null|
+|**2023-10-06**|**Globally Optimal Resource Allocation Design for Discrete Phase Shift IRS-Assisted Multiuser Networks with Perfect and Imperfect CSI**|Yifei Wu et.al.|[2310.04063v1](http://arxiv.org/abs/2310.04063v1)|null|
+|**2023-10-06**|**Accretion disk around Reissner-Nordström black hole coupled with a nonlinear electrodynamics field**|G. Abbas et.al.|[2310.04053v1](http://arxiv.org/abs/2310.04053v1)|null|
+|**2023-10-06**|**Analysis of the Reasoning with Redundant Information Provided Ability of Large Language Models**|Wenbei Xie et.al.|[2310.04039v1](http://arxiv.org/abs/2310.04039v1)|null|
+|**2023-10-06**|**Joint Projection Learning and Tensor Decomposition Based Incomplete Multi-view Clustering**|Wei Lv et.al.|[2310.04038v1](http://arxiv.org/abs/2310.04038v1)|**[link](https://github.com/weilvnju/jpltd)**|
+|**2023-10-06**|**A privacy-preserving method using secret key for convolutional neural network-based speech classification**|Shoko Niwa et.al.|[2310.04035v1](http://arxiv.org/abs/2310.04035v1)|null|
+|**2023-10-06**|**XLO-II, a high-repetition rate X-ray laser oscillator**|Claudio Pellegrini et.al.|[2310.04019v1](http://arxiv.org/abs/2310.04019v1)|null|
+|**2023-10-06**|**Efficient Quantum Circuit Simulation by Tensor Network Methods on Modern GPUs**|Feng Pan et.al.|[2310.03978v1](http://arxiv.org/abs/2310.03978v1)|null|
+|**2023-10-06**|**Quantized Transformer Language Model Implementations on Edge Devices**|Mohammad Wali Ur Rahman et.al.|[2310.03971v1](http://arxiv.org/abs/2310.03971v1)|null|
+|**2023-10-06**|**Sub-token ViT Embedding via Stochastic Resonance Transformers**|Dong Lao et.al.|[2310.03967v1](http://arxiv.org/abs/2310.03967v1)|null|
+|**2023-10-06**|**Parametrizing Clifford Algebras' Matrix Generators with Euler Angles**|Manuel Beato Vásquez et.al.|[2310.03962v1](http://arxiv.org/abs/2310.03962v1)|null|
+|**2023-10-06**|**Gradient Descent Provably Solves Nonlinear Tomographic Reconstruction**|Sara Fridovich-Keil et.al.|[2310.03956v1](http://arxiv.org/abs/2310.03956v1)|null|
+|**2023-10-05**|**On Wasserstein distances for affine transformations of random vectors**|Keaton Hamm et.al.|[2310.03945v1](http://arxiv.org/abs/2310.03945v1)|null|
+|**2023-10-05**|**Toward a Foundation Model for Time Series Data**|Chin-Chia Michael Yeh et.al.|[2310.03916v1](http://arxiv.org/abs/2310.03916v1)|null|
+|**2023-10-05**|**RTDK-BO: High Dimensional Bayesian Optimization with Reinforced Transformer Deep kernels**|Alexander Shmakov et.al.|[2310.03912v1](http://arxiv.org/abs/2310.03912v1)|null|
+|**2023-10-05**|**CrysFormer: Protein Structure Prediction via 3d Patterson Maps and Partial Structure Attention**|Chen Dun et.al.|[2310.03899v1](http://arxiv.org/abs/2310.03899v1)|null|
+|**2023-10-05**|**Accelerated Neural Network Training with Rooted Logistic Objectives**|Zhu Wang et.al.|[2310.03890v1](http://arxiv.org/abs/2310.03890v1)|null|
+|**2023-10-05**|**Automatic and Human-AI Interactive Text Generation**|Yao Dou et.al.|[2310.03878v1](http://arxiv.org/abs/2310.03878v1)|null|
+|**2023-10-05**|**Benchmarking a foundation LLM on its ability to re-label structure names in accordance with the AAPM TG-263 report**|Jason Holmes et.al.|[2310.03874v1](http://arxiv.org/abs/2310.03874v1)|null|
+|**2023-10-05**|**Consistency Regularization Improves Placenta Segmentation in Fetal EPI MRI Time Series**|Yingcheng Liu et.al.|[2310.03870v1](http://arxiv.org/abs/2310.03870v1)|**[link](https://github.com/firstmover/cr-seg)**|
+|**2023-10-05**|**ALBERTA: ALgorithm-Based Error Resilience in Transformer Architectures**|Haoxuan Liu et.al.|[2310.03841v1](http://arxiv.org/abs/2310.03841v1)|null|
+|**2023-10-05**|**Contextualized Structural Self-supervised Learning for Ontology Matching**|Zhu Wang et.al.|[2310.03840v1](http://arxiv.org/abs/2310.03840v1)|**[link](https://github.com/ellenzhuwang/lakermap)**|
+|**2023-10-05**|**Logical Languages Accepted by Transformer Encoders with Hard Attention**|Pablo Barcelo et.al.|[2310.03817v1](http://arxiv.org/abs/2310.03817v1)|null|
 |**2023-10-05**|**An Uncertainty Principle for the Curvelet Transform, and the Infeasibility of Quantum Algorithms for Finding Short Lattice Vectors**|Yi-Kai Liu et.al.|[2310.03735v1](http://arxiv.org/abs/2310.03735v1)|null|
 |**2023-10-05**|**Role of plasticity in the universal scaling of shear thickening dense suspensions**|Sachidananda Barik et.al.|[2310.03730v1](http://arxiv.org/abs/2310.03730v1)|null|
 |**2023-10-05**|**DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**|Omar Khattab et.al.|[2310.03714v1](http://arxiv.org/abs/2310.03714v1)|**[link](https://github.com/stanfordnlp/dspy)**|
