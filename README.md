@@ -23,6 +23,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Dipole-Spread Function Engineering for 6D Super-Resolution Microscopy**|Tingting Wu et.al.|[2310.05810v1](http://arxiv.org/abs/2310.05810v1)|null|
+|**2023-10-09**|**Super Denoise Net: Speech Super Resolution with Noise Cancellation in Low Sampling Rate Noisy Environments**|Junkang Yang et.al.|[2310.05629v1](http://arxiv.org/abs/2310.05629v1)|null|
+|**2023-10-09**|**Super-resolution diamond magnetic microscopy of superparamagnetic nanoparticles**|Nazanin Mosavian et.al.|[2310.05436v1](http://arxiv.org/abs/2310.05436v1)|null|
+|**2023-10-08**|**Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling**|Wanjie Sun et.al.|[2310.04964v1](http://arxiv.org/abs/2310.04964v1)|null|
+|**2023-10-05**|**HartleyMHA: Self-Attention in Frequency Domain for Resolution-Robust and Parameter-Efficient 3D Image Segmentation**|Ken C. L. Wong et.al.|[2310.04466v1](http://arxiv.org/abs/2310.04466v1)|null|
 |**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-05**|**FNOSeg3D: Resolution-Robust 3D Image Segmentation with Fourier Neural Operator**|Ken C. L. Wong et.al.|[2310.03872v1](http://arxiv.org/abs/2310.03872v1)|**[link](https://github.com/ibm/multimodal-3d-image-segmentation)**|
 |**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725v1](http://arxiv.org/abs/2310.03725v1)|null|
@@ -609,6 +614,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-08**|**Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling**|Wanjie Sun et.al.|[2310.04964v1](http://arxiv.org/abs/2310.04964v1)|null|
 |**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-03**|**Deep learning-based image super-resolution of a novel end-expandable optical fiber probe for application in esophageal cancer diagnostics**|Xiaohui Zhang et.al.|[2310.02171v1](http://arxiv.org/abs/2310.02171v1)|null|
 |**2023-10-02**|**EXTRACTER: Efficient Texture Matching with Attention and Gradient Enhancing for Large Scale Image Super Resolution**|Esteban Reyes-Saldana et.al.|[2310.01379v1](http://arxiv.org/abs/2310.01379v1)|**[link](https://github.com/esteban-rs/extracter)**|
@@ -975,6 +981,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**SimPLR: A Simple and Plain Transformer for Object Detection and Segmentation**|Duy-Kien Nguyen et.al.|[2310.05920v1](http://arxiv.org/abs/2310.05920v1)|null|
+|**2023-10-09**|**Interpreting CLIP's Image Representation via Text-Based Decomposition**|Yossi Gandelsman et.al.|[2310.05916v1](http://arxiv.org/abs/2310.05916v1)|null|
+|**2023-10-09**|**Enumerating Calabi-Yau Manifolds: Placing bounds on the number of diffeomorphism classes in the Kreuzer-Skarke list**|Aditi Chandra et.al.|[2310.05909v1](http://arxiv.org/abs/2310.05909v1)|null|
+|**2023-10-09**|**Learning to Decode the Surface Code with a Recurrent, Transformer-Based Neural Network**|Johannes Bausch et.al.|[2310.05900v1](http://arxiv.org/abs/2310.05900v1)|null|
+|**2023-10-09**|**DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving**|Zhiyu Huang et.al.|[2310.05885v1](http://arxiv.org/abs/2310.05885v1)|null|
+|**2023-10-09**|**A Meta-Learning Perspective on Transformers for Causal Language Modeling**|Xinbo Wu et.al.|[2310.05884v1](http://arxiv.org/abs/2310.05884v1)|null|
+|**2023-10-09**|**The M-Theory Three-Form and Singular Geometries**|R. Donagi et.al.|[2310.05838v1](http://arxiv.org/abs/2310.05838v1)|null|
+|**2023-10-09**|**Decomposition Based Interference Management Framework for Local 6G Networks**|Samitha Gunarathne et.al.|[2310.05809v1](http://arxiv.org/abs/2310.05809v1)|null|
+|**2023-10-09**|**Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis**|Haoyu Zhang et.al.|[2310.05804v1](http://arxiv.org/abs/2310.05804v1)|null|
+|**2023-10-09**|**Lie symmetries for the cosmological field equations in brane-world gravity with bulk scalar field**|Andronikos Paliathanasis et.al.|[2310.05780v1](http://arxiv.org/abs/2310.05780v1)|null|
+|**2023-10-09**|**Transformer Fusion with Optimal Transport**|Moritz Imfeld et.al.|[2310.05719v1](http://arxiv.org/abs/2310.05719v1)|null|
+|**2023-10-09**|**A simple linear algebra identity to optimize Large-Scale Neural Network Quantum States**|Riccardo Rende et.al.|[2310.05715v1](http://arxiv.org/abs/2310.05715v1)|null|
+|**2023-10-09**|**An Attribution Method for Siamese Encoders**|Lucas Möller et.al.|[2310.05703v1](http://arxiv.org/abs/2310.05703v1)|null|
+|**2023-10-09**|**Uni3DETR: Unified 3D Detection Transformer**|Zhenyu Wang et.al.|[2310.05699v1](http://arxiv.org/abs/2310.05699v1)|**[link](https://github.com/zhenyuw16/uni3detr)**|
+|**2023-10-09**|**Larth: Dataset and Machine Translation for Etruscan**|Gianluca Vico et.al.|[2310.05688v1](http://arxiv.org/abs/2310.05688v1)|**[link](https://github.com/gianlucavico/larth-etruscan-nlp)**|
+|**2023-10-09**|**Unusual layer-by-layer phase reconstruction in Ti $_3$ O $_5$ **|Mingfeng Liu et.al.|[2310.05683v1](http://arxiv.org/abs/2310.05683v1)|null|
+|**2023-10-09**|**ViTs are Everywhere: A Comprehensive Study Showcasing Vision Transformers in Different Domain**|Md Sohag Mia et.al.|[2310.05664v1](http://arxiv.org/abs/2310.05664v1)|null|
+|**2023-10-09**|**No Token Left Behind: Efficient Vision Transformer via Dynamic Token Idling**|Xuwei Xu et.al.|[2310.05654v1](http://arxiv.org/abs/2310.05654v1)|null|
+|**2023-10-09**|**Plug n' Play: Channel Shuffle Module for Enhancing Tiny Vision Transformers**|Xuwei Xu et.al.|[2310.05642v1](http://arxiv.org/abs/2310.05642v1)|null|
+|**2023-10-09**|** $β$ -ensembles and higher genera Catalan numbers**|Luca Cassia et.al.|[2310.05626v1](http://arxiv.org/abs/2310.05626v1)|null|
+|**2023-10-09**|**Locality-Aware Generalizable Implicit Neural Representation}**|Doyup Lee et.al.|[2310.05624v1](http://arxiv.org/abs/2310.05624v1)|null|
+|**2023-10-09**|**ODEFormer: Symbolic Regression of Dynamical Systems with Transformers**|Stéphane d'Ascoli et.al.|[2310.05573v1](http://arxiv.org/abs/2310.05573v1)|null|
+|**2023-10-09**|**A Simple and Robust Framework for Cross-Modality Medical Image Segmentation applied to Vision Transformers**|Matteo Bastico et.al.|[2310.05572v1](http://arxiv.org/abs/2310.05572v1)|**[link](https://github.com/matteo-bastico/mi-seg)**|
+|**2023-10-09**|**Stability of the persistence transformation**|Gideon Klaila et.al.|[2310.05559v1](http://arxiv.org/abs/2310.05559v1)|null|
+|**2023-10-09**|**A New Transformation Approach for Uplift Modeling with Binary Outcome**|Kun Li et.al.|[2310.05549v1](http://arxiv.org/abs/2310.05549v1)|null|
+|**2023-10-09**|**AdaFuse: Adaptive Medical Image Fusion Based on Spatial-Frequential Cross Attention**|Xianming Gu et.al.|[2310.05462v1](http://arxiv.org/abs/2310.05462v1)|null|
+|**2023-10-09**|**RetSeg: Retention-based Colorectal Polyps Segmentation Network**|Khaled ELKarazle et.al.|[2310.05446v1](http://arxiv.org/abs/2310.05446v1)|null|
+|**2023-10-09**|**Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers**|Shiyue Cao et.al.|[2310.05400v1](http://arxiv.org/abs/2310.05400v1)|null|
+|**2023-10-09**|**Hierarchical Side-Tuning for Vision Transformers**|Weifeng Lin et.al.|[2310.05393v1](http://arxiv.org/abs/2310.05393v1)|null|
+|**2023-10-09**|**Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation**|Ruiyang Liu et.al.|[2310.05391v1](http://arxiv.org/abs/2310.05391v1)|null|
+|**2023-10-09**|**Cartesian double theories: A double-categorical framework for categorical doctrines**|Michael Lambert et.al.|[2310.05384v1](http://arxiv.org/abs/2310.05384v1)|null|
+|**2023-10-09**|**Three-Stage Cascade Framework for Blurry Video Frame Interpolation**|Pengcheng Lei et.al.|[2310.05383v1](http://arxiv.org/abs/2310.05383v1)|null|
+|**2023-10-09**|**Augmented Embeddings for Custom Retrievals**|Anirudh Khatry et.al.|[2310.05380v1](http://arxiv.org/abs/2310.05380v1)|null|
+|**2023-10-09**|**Transcending the Attention Paradigm: Implicit Learning from Geospatial Social Media Data**|Nick DiSanto et.al.|[2310.05378v1](http://arxiv.org/abs/2310.05378v1)|null|
+|**2023-10-09**|**Molecular De Novo Design through Transformer-based Reinforcement Learning**|Tao Feng et.al.|[2310.05365v1](http://arxiv.org/abs/2310.05365v1)|null|
+|**2023-10-09**|**A Glance is Enough: Extract Target Sentence By Looking at A keyword**|Ying Shi et.al.|[2310.05352v1](http://arxiv.org/abs/2310.05352v1)|null|
+|**2023-10-09**|**Scaling Studies for Efficient Parameter Search and Parallelism for Large Language Model Pre-training**|Michael Benington et.al.|[2310.05350v1](http://arxiv.org/abs/2310.05350v1)|null|
+|**2023-10-09**|**Quantum bounce in the black hole singularity due to a deformed algebra inspired by GUP**|Brayan Melchor et.al.|[2310.05332v1](http://arxiv.org/abs/2310.05332v1)|null|
+|**2023-10-08**|**Tailoring Self-Attention for Graph via Rooted Subtrees**|Siyuan Huang et.al.|[2310.05296v1](http://arxiv.org/abs/2310.05296v1)|**[link](https://github.com/lumia-group/subtree-attention)**|
+|**2023-10-08**|**Transforming Pixels into a Masterpiece: AI-Powered Art Restoration using a Novel Distributed Denoising CNN (DDCNN)**|Sankar B. et.al.|[2310.05270v1](http://arxiv.org/abs/2310.05270v1)|null|
+|**2023-10-08**|**The Emergence of Reproducibility and Consistency in Diffusion Models**|Huijie Zhang et.al.|[2310.05264v1](http://arxiv.org/abs/2310.05264v1)|null|
+|**2023-10-08**|**Structure-Preserving Instance Segmentation via Skeleton-Aware Distance Transform**|Zudi Lin et.al.|[2310.05262v1](http://arxiv.org/abs/2310.05262v1)|null|
+|**2023-10-08**|**In-Context Convergence of Transformers**|Yu Huang et.al.|[2310.05249v1](http://arxiv.org/abs/2310.05249v1)|null|
+|**2023-10-08**|**Latent Diffusion Model for Medical Image Standardization and Enhancement**|Md Selim et.al.|[2310.05237v1](http://arxiv.org/abs/2310.05237v1)|null|
+|**2023-10-08**|**Realization of multiple topological states and topological phase transitions in (4,0) carbon nanotube derivatives**|Yan Gao et.al.|[2310.05233v1](http://arxiv.org/abs/2310.05233v1)|null|
+|**2023-10-08**|**Physics-aware Machine Learning Revolutionizes Scientific Paradigm for Machine Learning and Process-based Hydrology**|Qingsong Xu et.al.|[2310.05227v1](http://arxiv.org/abs/2310.05227v1)|null|
+|**2023-10-08**|**GEAR: A GPU-Centric Experience Replay System for Large Reinforcement Learning Models**|Hanjing Wang et.al.|[2310.05205v1](http://arxiv.org/abs/2310.05205v1)|**[link](https://github.com/bigrl-team/gear)**|
+|**2023-10-08**|**GMMFormer: Gaussian-Mixture-Model based Transformer for Efficient Partially Relevant Video Retrieval**|Yuting Wang et.al.|[2310.05195v1](http://arxiv.org/abs/2310.05195v1)|null|
+|**2023-10-08**|**Hieros: Hierarchical Imagination on Structured State Space Sequence World Models**|Paul Mattes et.al.|[2310.05167v1](http://arxiv.org/abs/2310.05167v1)|**[link](https://github.com/snagnar/hieros)**|
+|**2023-10-08**|**Geometry Aware Field-to-field Transformations for 3D Semantic Segmentation**|Dominik Hollidt et.al.|[2310.05133v1](http://arxiv.org/abs/2310.05133v1)|null|
 |**2023-10-06**|**Functional Interpolation for Relative Positions Improves Long Context Transformers**|Shanda Li et.al.|[2310.04418v1](http://arxiv.org/abs/2310.04418v1)|null|
 |**2023-10-06**|**FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning**|Peiran Xu et.al.|[2310.04412v1](http://arxiv.org/abs/2310.04412v1)|**[link](https://github.com/ucsc-vlaa/fedconv)**|
 |**2023-10-06**|**Rapid transform optimisation strategy for decoherence-protected quantum register in diamond**|Jiazhao Tian et.al.|[2310.04371v1](http://arxiv.org/abs/2310.04371v1)|null|
