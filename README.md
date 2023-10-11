@@ -981,6 +981,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Advancing Transformer's Capabilities in Commonsense Reasoning**|Yu Zhou et.al.|[2310.06803v1](http://arxiv.org/abs/2310.06803v1)|null|
+|**2023-10-10**|**Emergent modified gravity: Covariance regained**|Martin Bojowald et.al.|[2310.06798v1](http://arxiv.org/abs/2310.06798v1)|null|
+|**2023-10-10**|**How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries**|Allison Woodruff et.al.|[2310.06778v1](http://arxiv.org/abs/2310.06778v1)|null|
+|**2023-10-10**|**The cubo-cubic transformation of the smooth quadric fourfold is very special**|Jordi Hernández et.al.|[2310.06766v1](http://arxiv.org/abs/2310.06766v1)|null|
+|**2023-10-10**|**Going Beyond Neural Network Feature Similarity: The Network Feature Complexity and Its Interpretation Using Category Theory**|Yiting Chen et.al.|[2310.06756v1](http://arxiv.org/abs/2310.06756v1)|null|
+|**2023-10-10**|**Adaptive Preconditioned Gradient Descent with Energy**|Hailiang Liu et.al.|[2310.06733v1](http://arxiv.org/abs/2310.06733v1)|null|
+|**2023-10-10**|**Domain Generalization by Rejecting Extreme Augmentations**|Masih Aminbeidokhti et.al.|[2310.06670v1](http://arxiv.org/abs/2310.06670v1)|null|
+|**2023-10-10**|**Yangians, mirabolic subalgebras, and Whittaker vectors**|Artem Kalmykov et.al.|[2310.06669v1](http://arxiv.org/abs/2310.06669v1)|null|
+|**2023-10-10**|**The conservative Camassa-Holm flow with step-like irregular initial data**|Jonathan Eckhardt et.al.|[2310.06658v1](http://arxiv.org/abs/2310.06658v1)|null|
+|**2023-10-10**|**EViT: An Eagle Vision Transformer with Bi-Fovea Self-Attention**|Yulong Shi et.al.|[2310.06629v1](http://arxiv.org/abs/2310.06629v1)|null|
+|**2023-10-10**|**iTransformer: Inverted Transformers Are Effective for Time Series Forecasting**|Yong Liu et.al.|[2310.06625v1](http://arxiv.org/abs/2310.06625v1)|null|
+|**2023-10-10**|**Hierarchical Mask2Former: Panoptic Segmentation of Crops, Weeds and Leaves**|Madeleine Darbyshire et.al.|[2310.06582v1](http://arxiv.org/abs/2310.06582v1)|**[link](https://github.com/madeleinedarbyshire/hierarchicalmask2former)**|
+|**2023-10-10**|**Finite groups of symplectic birational transformations of IHS manifolds of  $OG10$  type**|Lisa Marquand et.al.|[2310.06580v1](http://arxiv.org/abs/2310.06580v1)|null|
+|**2023-10-10**|**Efficient Retrieval of Images with Irregular Patterns using Morphological Image Analysis: Applications to Industrial and Healthcare datasets**|Jiajun Zhang et.al.|[2310.06566v1](http://arxiv.org/abs/2310.06566v1)|null|
+|**2023-10-10**|**A Novel Contrastive Learning Method for Clickbait Detection on RoCliCo: A Romanian Clickbait Corpus of News Articles**|Daria-Mihaela Broscoteanu et.al.|[2310.06540v1](http://arxiv.org/abs/2310.06540v1)|**[link](https://github.com/dariabroscoteanu/roclico)**|
+|**2023-10-10**|**Topological data analysis of human vowels: Persistent homologies across representation spaces**|Guillem Bonafos et.al.|[2310.06508v1](http://arxiv.org/abs/2310.06508v1)|null|
+|**2023-10-10**|**Evaluation of ChatGPT Feedback on ELL Writers' Coherence and Cohesion**|Su-Youn Yoon et.al.|[2310.06505v1](http://arxiv.org/abs/2310.06505v1)|null|
+|**2023-10-10**|**Sinh-Gordon type equations and Bäcklund transformations**|G. Polychrou et.al.|[2310.06503v1](http://arxiv.org/abs/2310.06503v1)|null|
+|**2023-10-10**|**Newton-Okounkov polytopes of type  $A$  flag varieties of small ranks arising from cluster structures**|Yunhyung Cho et.al.|[2310.06477v1](http://arxiv.org/abs/2310.06477v1)|null|
+|**2023-10-10**|**Focus on Local Regions for Query-based Object Detection**|Hongbin Xu et.al.|[2310.06470v1](http://arxiv.org/abs/2310.06470v1)|null|
+|**2023-10-10**|**Retromorphic Testing: A New Approach to the Test Oracle Problem**|Boxi Yu et.al.|[2310.06433v1](http://arxiv.org/abs/2310.06433v1)|**[link](https://github.com/cuhk-shenzhen-se/retromorphictesting)**|
+|**2023-10-10**|**Advective Diffusion Transformers for Topological Generalization in Graph Learning**|Qitian Wu et.al.|[2310.06417v1](http://arxiv.org/abs/2310.06417v1)|null|
+|**2023-10-10**|**Encoder-Decoder-Based Intra-Frame Block Partitioning Decision**|Yucheng Jiang et.al.|[2310.06412v1](http://arxiv.org/abs/2310.06412v1)|null|
+|**2023-10-10**|**Machine Eye for Defects: Machine Learning-Based Solution to Identify and Characterize Topological Defects in Textured Images of Nematic Materials**|Haijie Ren et.al.|[2310.06406v1](http://arxiv.org/abs/2310.06406v1)|null|
+|**2023-10-10**|**ISAC 4D Imaging System Based on 5G Downlink Millimeter Wave Signal**|Bohao Lu et.al.|[2310.06401v1](http://arxiv.org/abs/2310.06401v1)|null|
+|**2023-10-10**|**Learning Stackable and Skippable LEGO Bricks for Efficient, Reconfigurable, and Variable-Resolution Diffusion Modeling**|Huangjie Zheng et.al.|[2310.06389v1](http://arxiv.org/abs/2310.06389v1)|null|
+|**2023-10-10**|**3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**|Ghanta Sai Krishna et.al.|[2310.06385v1](http://arxiv.org/abs/2310.06385v1)|null|
+|**2023-10-10**|**Rethinking Model Selection and Decoding for Keyphrase Generation with Pre-trained Sequence-to-Sequence Models**|Di Wu et.al.|[2310.06374v1](http://arxiv.org/abs/2310.06374v1)|null|
+|**2023-10-10**|**Multi-Modal Knowledge Graph Transformer Framework for Multi-Modal Entity Alignment**|Qian Li et.al.|[2310.06365v1](http://arxiv.org/abs/2310.06365v1)|**[link](https://github.com/xiaoqian19940510/moalign)**|
+|**2023-10-10**|**A Semantic Invariant Robust Watermark for Large Language Models**|Aiwei Liu et.al.|[2310.06356v1](http://arxiv.org/abs/2310.06356v1)|null|
+|**2023-10-10**|**Predicting Three Types of Freezing of Gait Events Using Deep Learning Models**|Wen Tao Mo et.al.|[2310.06322v1](http://arxiv.org/abs/2310.06322v1)|null|
+|**2023-10-10**|**The Functional Equations of Langlands Eisenstein Series for  $SL(n,\mathbb Z)$ **|Dorian Goldfeld et.al.|[2310.06284v1](http://arxiv.org/abs/2310.06284v1)|null|
+|**2023-10-10**|**Let Models Speak Ciphers: Multiagent Debate through Embeddings**|Chau Pham et.al.|[2310.06272v1](http://arxiv.org/abs/2310.06272v1)|null|
+|**2023-10-10**|**An experiment on an automated literature survey of data-driven speech enhancement methods**|Arthur dos Santos et.al.|[2310.06260v1](http://arxiv.org/abs/2310.06260v1)|null|
+|**2023-10-10**|**SCAR: Power Side-Channel Analysis at RTL-Level**|Amisha Srivastava et.al.|[2310.06257v1](http://arxiv.org/abs/2310.06257v1)|null|
+|**2023-10-10**|**Deep Learning: A Tutorial**|Nick Polson et.al.|[2310.06251v1](http://arxiv.org/abs/2310.06251v1)|null|
+|**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
+|**2023-10-10**|**Treatment Choice, Mean Square Regret and Partial Identification**|Toru Kitagawa et.al.|[2310.06242v1](http://arxiv.org/abs/2310.06242v1)|null|
+|**2023-10-10**|**A Bayesian framework for discovering interpretable Lagrangian of dynamical systems from data**|Tapas Tripura et.al.|[2310.06241v1](http://arxiv.org/abs/2310.06241v1)|null|
+|**2023-10-10**|**Efficient Adaptation of Large Vision Transformer via Adapter Re-Composing**|Wei Dong et.al.|[2310.06234v1](http://arxiv.org/abs/2310.06234v1)|**[link](https://github.com/davidyanande/arc)**|
+|**2023-10-09**|**DiPS: Discriminative Pseudo-Label Sampling with Self-Supervised Transformers for Weakly Supervised Object Localization**|Shakeeb Murtaza et.al.|[2310.06196v1](http://arxiv.org/abs/2310.06196v1)|null|
+|**2023-10-09**|**Memory-Consistent Neural Networks for Imitation Learning**|Kaustubh Sridhar et.al.|[2310.06171v1](http://arxiv.org/abs/2310.06171v1)|null|
+|**2023-10-09**|**Toward More Accurate and Robust Optimal Power Flow for Distribution Systems**|Dakota Hamilton et.al.|[2310.06170v1](http://arxiv.org/abs/2310.06170v1)|null|
+|**2023-10-09**|**HydraViT: Adaptive Multi-Branch Transformer for Multi-Label Disease Classification from Chest X-ray Images**|Şaban Öztürk et.al.|[2310.06143v1](http://arxiv.org/abs/2310.06143v1)|null|
+|**2023-10-09**|**On Time Domain Conformer Models for Monaural Speech Separation in Noisy Reverberant Acoustic Environments**|William Ravenscroft et.al.|[2310.06125v1](http://arxiv.org/abs/2310.06125v1)|null|
+|**2023-10-09**|**Factorized Tensor Networks for Multi-Task and Multi-Domain Learning**|Yash Garg et.al.|[2310.06124v1](http://arxiv.org/abs/2310.06124v1)|null|
+|**2023-10-09**|**Grokking as the Transition from Lazy to Rich Training Dynamics**|Tanishq Kumar et.al.|[2310.06110v1](http://arxiv.org/abs/2310.06110v1)|null|
+|**2023-10-09**|**Theory and modeling of molecular modes in the NMR relaxation of fluids**|Thiago J. Pinheiro dos Santos et.al.|[2310.06106v1](http://arxiv.org/abs/2310.06106v1)|null|
+|**2023-10-09**|**Transformers and Large Language Models for Chemistry and Drug Discovery**|Andres M Bran et.al.|[2310.06083v1](http://arxiv.org/abs/2310.06083v1)|null|
+|**2023-10-09**|**Equivariant Topological T-Duality**|Tom Dove et.al.|[2310.06064v1](http://arxiv.org/abs/2310.06064v1)|null|
 |**2023-10-09**|**SimPLR: A Simple and Plain Transformer for Object Detection and Segmentation**|Duy-Kien Nguyen et.al.|[2310.05920v1](http://arxiv.org/abs/2310.05920v1)|null|
 |**2023-10-10**|**Interpreting CLIP's Image Representation via Text-Based Decomposition**|Yossi Gandelsman et.al.|[2310.05916v2](http://arxiv.org/abs/2310.05916v2)|null|
 |**2023-10-09**|**Enumerating Calabi-Yau Manifolds: Placing bounds on the number of diffeomorphism classes in the Kreuzer-Skarke list**|Aditi Chandra et.al.|[2310.05909v1](http://arxiv.org/abs/2310.05909v1)|null|
@@ -10194,6 +10244,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Adversarial Masked Image Inpainting for Robust Detection of Mpox and Non-Mpox**|Yubiao Yue et.al.|[2310.06318v1](http://arxiv.org/abs/2310.06318v1)|null|
 |**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848v1](http://arxiv.org/abs/2310.02848v1)|null|
 |**2023-09-28**|**On the Contractivity of Plug-and-Play Operators**|Chirayu D. Athalye et.al.|[2309.16899v1](http://arxiv.org/abs/2309.16899v1)|**[link](https://github.com/bhartendu-kumar/pnp-conv)**|
 |**2023-09-19**|**ReShader: View-Dependent Highlights for Single Image View-Synthesis**|Avinash Paliwal et.al.|[2309.10689v1](http://arxiv.org/abs/2309.10689v1)|null|
