@@ -994,7 +994,7 @@
 |**2023-10-11**|**Low-lying zeros of a large orthogonal family of automorphic  $L$ -functions**|Siegfred Baluyot et.al.|[2310.07606v1](http://arxiv.org/abs/2310.07606v1)|null|
 |**2023-10-11**|**Split Knockoffs for Multiple Comparisons: Controlling the Directional False Discovery Rate**|Yang Cao et.al.|[2310.07605v1](http://arxiv.org/abs/2310.07605v1)|null|
 |**2023-10-11**|**Modular transform of free fermion generalised Gibbs ensembles and generalised power partitions**|Max Downing et.al.|[2310.07601v1](http://arxiv.org/abs/2310.07601v1)|null|
-|**2023-10-11**|**Transformers for Green Semantic Communication: Less Energy, More Semantics**|Shubhabrata Mukherjee et.al.|[2310.07592v1](http://arxiv.org/abs/2310.07592v1)|**[link](https://github.com/shubha07m/Energy-optimized-semantic-loss)**|
+|**2023-10-11**|**Transformers for Green Semantic Communication: Less Energy, More Semantics**|Shubhabrata Mukherjee et.al.|[2310.07592v1](http://arxiv.org/abs/2310.07592v1)|null|
 |**2023-10-11**|**Linear Latent World Models in Simple Transformers: A Case Study on Othello-GPT**|Dean S. Hazineh et.al.|[2310.07582v1](http://arxiv.org/abs/2310.07582v1)|**[link](https://github.com/deanhazineh/emergent-world-representations-othello)**|
 |**2023-10-11**|**Analyzing Trendy Twitter Hashtags in the 2022 French Election**|Aamir Mandviwalla et.al.|[2310.07576v1](http://arxiv.org/abs/2310.07576v1)|null|
 |**2023-10-11**|**Relational Prior Knowledge Graphs for Detection and Instance Segmentation**|Osman Ülger et.al.|[2310.07573v1](http://arxiv.org/abs/2310.07573v1)|null|
