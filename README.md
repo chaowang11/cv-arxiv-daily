@@ -989,7 +989,7 @@
 |**2023-10-11**|**On the diameter of semigroups of transformations and partitions**|James East et.al.|[2310.07655v1](http://arxiv.org/abs/2310.07655v1)|null|
 |**2023-10-11**|**Automated Layout Design and Control of Robust Cooperative Grasped-Load Aerial Transportation Systems**|Carlo Bosio et.al.|[2310.07649v1](http://arxiv.org/abs/2310.07649v1)|null|
 |**2023-10-11**|**Graph Transformer Network for Flood Forecasting with Heterogeneous Covariates**|Jimeng Shi et.al.|[2310.07631v1](http://arxiv.org/abs/2310.07631v1)|null|
-|**2023-10-11**|**Differentiable Euler Characteristic Transforms for Shape Classification**|Ernst Roell et.al.|[2310.07630v1](http://arxiv.org/abs/2310.07630v1)|null|
+|**2023-10-11**|**Differentiable Euler Characteristic Transforms for Shape Classification**|Ernst Roell et.al.|[2310.07630v1](http://arxiv.org/abs/2310.07630v1)|**[link](https://github.com/aidos-lab/dect)**|
 |**2023-10-11**|**PHYDI: Initializing Parameterized Hypercomplex Neural Networks as Identity Functions**|Matteo Mancanelli et.al.|[2310.07612v1](http://arxiv.org/abs/2310.07612v1)|**[link](https://github.com/ispamm/phydi)**|
 |**2023-10-11**|**Low-lying zeros of a large orthogonal family of automorphic  $L$ -functions**|Siegfred Baluyot et.al.|[2310.07606v1](http://arxiv.org/abs/2310.07606v1)|null|
 |**2023-10-11**|**Split Knockoffs for Multiple Comparisons: Controlling the Directional False Discovery Rate**|Yang Cao et.al.|[2310.07605v1](http://arxiv.org/abs/2310.07605v1)|null|
@@ -1024,13 +1024,13 @@
 |**2023-10-11**|**Generalized Neural Sorting Networks with Error-Free Differentiable Swap Functions**|Jungtaek Kim et.al.|[2310.07174v1](http://arxiv.org/abs/2310.07174v1)|null|
 |**2023-10-11**|**PHALM: Building a Knowledge Graph from Scratch by Prompting Humans and a Language Model**|Tatsuya Ide et.al.|[2310.07170v1](http://arxiv.org/abs/2310.07170v1)|**[link](https://github.com/nlp-waseda/comet-atomic-ja)**|
 |**2023-10-11**|**Psychoacoustic Challenges Of Speech Enhancement On VoIP Platforms**|Joseph Konan et.al.|[2310.07161v1](http://arxiv.org/abs/2310.07161v1)|null|
-|**2023-10-11**|**An Optically Thin View of the Flaring Chromosphere: Nonthermal widths in a chromospheric condensation during an X-class solar flare**|Graham S. Kerr et.al.|[2310.07111v1](http://arxiv.org/abs/2310.07111v1)|null|
+|**2023-10-11**|**An Optically Thin View of the Flaring Chromosphere: Nonthermal widths in a chromospheric condensation during an X-class solar flare**|Graham S. Kerr et.al.|[2310.07111v1](http://arxiv.org/abs/2310.07111v1)|**[link](https://github.com/solarFP/FP)**|
 |**2023-10-11**|**SparseCoder: Advancing Source Code Analysis with Sparse Attention and Learned Token Pruning**|Xueqi Yang et.al.|[2310.07109v1](http://arxiv.org/abs/2310.07109v1)|null|
 |**2023-10-11**|**Sparse Universal Transformer**|Shawn Tan et.al.|[2310.07096v1](http://arxiv.org/abs/2310.07096v1)|null|
 |**2023-10-11**|**Jaeger: A Concatenation-Based Multi-Transformer VQA Model**|Jieting Long et.al.|[2310.07091v1](http://arxiv.org/abs/2310.07091v1)|null|
 |**2023-10-11**|**Machine Learning Methods for Background Potential Estimation in 2DEGs**|Carlo da Cunha et.al.|[2310.07089v1](http://arxiv.org/abs/2310.07089v1)|null|
 |**2023-10-10**|**Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting**|Emmy Liu et.al.|[2310.07081v1](http://arxiv.org/abs/2310.07081v1)|**[link](https://github.com/nightingal3/idiom-translation)**|
-|**2023-10-10**|**QualiGPT: GPT as an easy-to-use tool for qualitative coding**|He Zhang et.al.|[2310.07061v1](http://arxiv.org/abs/2310.07061v1)|null|
+|**2023-10-10**|**QualiGPT: GPT as an easy-to-use tool for qualitative coding**|He Zhang et.al.|[2310.07061v1](http://arxiv.org/abs/2310.07061v1)|**[link](https://github.com/kindopstar/qualigpt)**|
 |**2023-10-10**|**BeSt-LeS: Benchmarking Stroke Lesion Segmentation using Deep Supervision**|Prantik Deb et.al.|[2310.07060v1](http://arxiv.org/abs/2310.07060v1)|**[link](https://github.com/prantik-pdeb/best-les)**|
 |**2023-10-10**|**Robust Machine Learning Inference from X-ray Absorption Near Edge Spectra through Featurization**|Yiming Chen et.al.|[2310.07049v1](http://arxiv.org/abs/2310.07049v1)|null|
 |**2023-10-10**|**Advancing Transformer's Capabilities in Commonsense Reasoning**|Yu Zhou et.al.|[2310.06803v1](http://arxiv.org/abs/2310.06803v1)|**[link](https://github.com/bryanzhou008/advancing-commonsense-reasoning)**|
