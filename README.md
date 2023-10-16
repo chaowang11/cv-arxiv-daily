@@ -984,6 +984,49 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Transformer-based Multimodal Change Detection with Multitask Consistency Constraints**|Biyuan Liu et.al.|[2310.09276v1](http://arxiv.org/abs/2310.09276v1)|null|
+|**2023-10-13**|**BanglaNLP at BLP-2023 Task 2: Benchmarking different Transformer Models for Sentiment Analysis of Bangla Social Media Posts**|Saumajit Saha et.al.|[2310.09238v1](http://arxiv.org/abs/2310.09238v1)|null|
+|**2023-10-13**|**Bounds on Guessing Numbers and Secret Sharing Combining Information Theory Methods**|Emirhan Gürpınar et.al.|[2310.09232v1](http://arxiv.org/abs/2310.09232v1)|null|
+|**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223v1](http://arxiv.org/abs/2310.09223v1)|null|
+|**2023-10-13**|**PaLI-3 Vision Language Models: Smaller, Faster, Stronger**|Xi Chen et.al.|[2310.09199v1](http://arxiv.org/abs/2310.09199v1)|null|
+|**2023-10-13**|**Weighted isoperimetric ratios and extension problems for conformal fractional Laplacians**|Sangdon Jin et.al.|[2310.09160v1](http://arxiv.org/abs/2310.09160v1)|null|
+|**2023-10-13**|**An Intrinsic Integrity-Driven Rating Model for a Sustainable Reputation System**|H. Wen et.al.|[2310.09143v1](http://arxiv.org/abs/2310.09143v1)|null|
+|**2023-10-13**|**Equirectangular image construction method for standard CNNs for Semantic Segmentation**|Haoqian Chen et.al.|[2310.09122v1](http://arxiv.org/abs/2310.09122v1)|null|
+|**2023-10-13**|**Measurement of the small-scale 3D Lyman- $α$  forest power spectrum**|Marie Lynn Abdul Karim et.al.|[2310.09116v1](http://arxiv.org/abs/2310.09116v1)|null|
+|**2023-10-13**|**Riesz transform and spectral multipliers for the flow Laplacian on nonhomogeneous trees**|Alessio Martini et.al.|[2310.09113v1](http://arxiv.org/abs/2310.09113v1)|null|
+|**2023-10-13**|**Flow of temporal network properties under local aggregation and time shuffling: a tool for characterizing, comparing and classifying temporal networks**|Didier Le Bail et.al.|[2310.09112v1](http://arxiv.org/abs/2310.09112v1)|null|
+|**2023-10-13**|**Enhancing the excitation gap of a quantum-dot-based Kitaev chain**|Chun-Xiao Liu et.al.|[2310.09106v1](http://arxiv.org/abs/2310.09106v1)|null|
+|**2023-10-13**|**Privacy-Preserving Encrypted Low-Dose CT Denoising**|Ziyuan Yang et.al.|[2310.09101v1](http://arxiv.org/abs/2310.09101v1)|null|
+|**2023-10-13**|**Faster 3D cardiac CT segmentation with Vision Transformers**|Lee Jollans et.al.|[2310.09099v1](http://arxiv.org/abs/2310.09099v1)|**[link](https://github.com/ljollans/trunet)**|
+|**2023-10-13**|**Conformal gravitational theories in the Barthel-Kropina type Finslerian geometry, and their cosmological implications**|Rattanasak Hama et.al.|[2310.09067v1](http://arxiv.org/abs/2310.09067v1)|null|
+|**2023-10-13**|**Federated Meta-Learning for Few-Shot Fault Diagnosis with Representation Encoding**|Jixuan Cui et.al.|[2310.09002v1](http://arxiv.org/abs/2310.09002v1)|null|
+|**2023-10-13**|**Comparison of theory and experiment for radiative characteristics in neutral thulium**|Andrey I. Bondarev et.al.|[2310.08999v1](http://arxiv.org/abs/2310.08999v1)|null|
+|**2023-10-13**|**Towards Example-Based NMT with Multi-Levenshtein Transformers**|Maxime Bouthors et.al.|[2310.08967v1](http://arxiv.org/abs/2310.08967v1)|**[link](https://github.com/maxwell1447/fairseq)**|
+|**2023-10-13**|**A unified framework for STAR-RIS coefficients optimization**|Hancheng Zhu et.al.|[2310.08960v1](http://arxiv.org/abs/2310.08960v1)|null|
+|**2023-10-13**|**Transformer-based Autoencoder with ID Constraint for Unsupervised Anomalous Sound Detection**|Jian Guan et.al.|[2310.08950v1](http://arxiv.org/abs/2310.08950v1)|null|
+|**2023-10-13**|**Singular integrals in uniformly convex spaces**|Tuomas Hytönen et.al.|[2310.08926v1](http://arxiv.org/abs/2310.08926v1)|null|
+|**2023-10-13**|**Exploration with Principles for Diverse AI Supervision**|Hao Liu et.al.|[2310.08899v1](http://arxiv.org/abs/2310.08899v1)|null|
+|**2023-10-13**|**Adaptivity and Modularity for Efficient Generalization Over Task Complexity**|Samira Abnar et.al.|[2310.08866v1](http://arxiv.org/abs/2310.08866v1)|null|
+|**2023-10-13**|**Re-initialization-free Level Set Method via Molecular Beam Epitaxy Equation Regularization for Image Segmentation**|Fanghui Song et.al.|[2310.08861v1](http://arxiv.org/abs/2310.08861v1)|null|
+|**2023-10-13**|**Rank-DETR for High Quality Object Detection**|Yifan Pu et.al.|[2310.08854v1](http://arxiv.org/abs/2310.08854v1)|null|
+|**2023-10-13**|**HybridChain: Fast, Accurate, and Secure Transaction Processing with Distributed Learning**|Amirhossein Taherpour et.al.|[2310.08839v1](http://arxiv.org/abs/2310.08839v1)|null|
+|**2023-10-13**|**Disappearing galaxies: the orientation dependence of JWST-bright, HST-dark, star-forming galaxy selection**|R. K. Cochrane et.al.|[2310.08829v1](http://arxiv.org/abs/2310.08829v1)|null|
+|**2023-10-13**|**Confounding-Robust Policy Improvement with Human-AI Teams**|Ruijiang Gao et.al.|[2310.08824v1](http://arxiv.org/abs/2310.08824v1)|null|
+|**2023-10-13**|**Distance-rank Aware Sequential Reward Learning for Inverse Reinforcement Learning with Sub-optimal Demonstrations**|Lu Li et.al.|[2310.08823v1](http://arxiv.org/abs/2310.08823v1)|null|
+|**2023-10-13**|**DDMT: Denoising Diffusion Mask Transformer Models for Multivariate Time Series Anomaly Detection**|Chaocheng Yang et.al.|[2310.08800v1](http://arxiv.org/abs/2310.08800v1)|null|
+|**2023-10-13**|**Optical ladder operators in the Glauber-Fock oscillator array**|I. Bocanegra et.al.|[2310.08799v1](http://arxiv.org/abs/2310.08799v1)|null|
+|**2023-10-13**|**A Comparative Analysis of Task-Agnostic Distillation Methods for Compressing Transformer Language Models**|Takuma Udagawa et.al.|[2310.08797v1](http://arxiv.org/abs/2310.08797v1)|null|
+|**2023-10-12**|**Investigating the Robustness and Properties of Detection Transformers (DETR) Toward Difficult Images**|Zhao Ning Zou et.al.|[2310.08772v1](http://arxiv.org/abs/2310.08772v1)|null|
+|**2023-10-12**|**Detection and prediction of clopidogrel treatment failures using longitudinal structured electronic health records**|Samuel Kim et.al.|[2310.08757v1](http://arxiv.org/abs/2310.08757v1)|null|
+|**2023-10-12**|**Circuit Component Reuse Across Tasks in Transformer Language Models**|Jack Merullo et.al.|[2310.08744v1](http://arxiv.org/abs/2310.08744v1)|null|
+|**2023-10-12**|**Provably Robust Cost-Sensitive Learning via Randomized Smoothing**|Yuan Xin et.al.|[2310.08732v1](http://arxiv.org/abs/2310.08732v1)|**[link](https://github.com/trustmlrg/cs-rs)**|
+|**2023-10-12**|**Transformer Choice Net: A Transformer Neural Network for Choice Prediction**|Hanzhao Wang et.al.|[2310.08716v1](http://arxiv.org/abs/2310.08716v1)|null|
+|**2023-10-12**|**Toward Joint Language Modeling for Speech Units and Text**|Ju-Chieh Chou et.al.|[2310.08715v1](http://arxiv.org/abs/2310.08715v1)|null|
+|**2023-10-12**|**A Geometric Picture of Peturbative QFT**|Rory O'Dwyer et.al.|[2310.08695v1](http://arxiv.org/abs/2310.08695v1)|null|
+|**2023-10-12**|**Kernel-Elastic Autoencoder for Molecular Design**|Haote Li et.al.|[2310.08685v1](http://arxiv.org/abs/2310.08685v1)|null|
+|**2023-10-12**|**Pay Attention to How You Drive: Safe and Adaptive Model-Based Reinforcement Learning for Off-Road Driving**|Sean J. Wang et.al.|[2310.08674v1](http://arxiv.org/abs/2310.08674v1)|null|
+|**2023-10-12**|**Counting and Algorithmic Generalization with Transformers**|Simon Ouellette et.al.|[2310.08661v1](http://arxiv.org/abs/2310.08661v1)|**[link](https://github.com/simonouellette35/countingwithtransformers)**|
+|**2023-10-12**|**Analyzing Textual Data for Fatality Classification in Afghanistan's Armed Conflicts: A BERT Approach**|Hikmatullah Mohammadi et.al.|[2310.08653v1](http://arxiv.org/abs/2310.08653v1)|null|
 |**2023-10-12**|**Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video**|Shashanka Venkataramanan et.al.|[2310.08584v1](http://arxiv.org/abs/2310.08584v1)|null|
 |**2023-10-12**|**Bucks for Buckets (B4B): Active Defenses Against Stealing Encoders**|Jan Dubiński et.al.|[2310.08571v1](http://arxiv.org/abs/2310.08571v1)|null|
 |**2023-10-12**|**Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining**|Licong Lin et.al.|[2310.08566v1](http://arxiv.org/abs/2310.08566v1)|null|
@@ -10347,6 +10390,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**SAIR: Learning Semantic-aware Implicit Representation**|Canyu Zhang et.al.|[2310.09285v1](http://arxiv.org/abs/2310.09285v1)|null|
 |**2023-10-11**|**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model**|Shiyuan Yang et.al.|[2310.07222v1](http://arxiv.org/abs/2310.07222v1)|**[link](https://github.com/ysy31415/unipaint)**|
 |**2023-10-10**|**Adversarial Masked Image Inpainting for Robust Detection of Mpox and Non-Mpox**|Yubiao Yue et.al.|[2310.06318v1](http://arxiv.org/abs/2310.06318v1)|null|
 |**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848v1](http://arxiv.org/abs/2310.02848v1)|null|
