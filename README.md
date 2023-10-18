@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.17
+## Updated on 2023.10.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,7 +24,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624v1](http://arxiv.org/abs/2310.10624v1)|null|
-|**2023-10-16**|**Image super-resolution via dynamic network**|Chunwei Tian et.al.|[2310.10413v1](http://arxiv.org/abs/2310.10413v1)|null|
+|**2023-10-16**|**Image super-resolution via dynamic network**|Chunwei Tian et.al.|[2310.10413v1](http://arxiv.org/abs/2310.10413v1)|**[link](https://github.com/hellloxiaotian/dsrnet)**|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209v1](http://arxiv.org/abs/2310.10209v1)|null|
 |**2023-10-16**|**An Empirical Study of Super-resolution on Low-resolution Micro-expression Recognition**|Ling Zhou et.al.|[2310.10022v1](http://arxiv.org/abs/2310.10022v1)|null|
 |**2023-10-15**|**FuseSR: Super Resolution for Real-time Rendering through Efficient Multi-resolution Fusion**|Zhihua Zhong et.al.|[2310.09726v1](http://arxiv.org/abs/2310.09726v1)|null|
@@ -616,13 +616,13 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-16**|**Image super-resolution via dynamic network**|Chunwei Tian et.al.|[2310.10413v1](http://arxiv.org/abs/2310.10413v1)|null|
+|**2023-10-16**|**Image super-resolution via dynamic network**|Chunwei Tian et.al.|[2310.10413v1](http://arxiv.org/abs/2310.10413v1)|**[link](https://github.com/hellloxiaotian/dsrnet)**|
 |**2023-10-08**|**Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling**|Wanjie Sun et.al.|[2310.04964v1](http://arxiv.org/abs/2310.04964v1)|null|
 |**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-03**|**Deep learning-based image super-resolution of a novel end-expandable optical fiber probe for application in esophageal cancer diagnostics**|Xiaohui Zhang et.al.|[2310.02171v1](http://arxiv.org/abs/2310.02171v1)|null|
@@ -843,7 +843,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -925,14 +925,14 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Text Erasing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-21**|**ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining**|Dezhi Peng et.al.|[2306.12106v1](http://arxiv.org/abs/2306.12106v1)|**[link](https://github.com/shannanyinxiang/viteraser)**|
-|**2022-09-06**|**A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data**|Zhengmi Tang et.al.|[2209.02397v1](http://arxiv.org/abs/2209.02397v1)|**[link](https://github.com/iiclab/decompst)**|
+|**2023-10-17**|**A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data**|Zhengmi Tang et.al.|[2209.02397v2](http://arxiv.org/abs/2209.02397v2)|**[link](https://github.com/iiclab/decompst)**|
 |**2023-04-28**|**Progressive Scene Text Erasing with Self-Supervision**|Xiangcheng Du et.al.|[2207.11469v2](http://arxiv.org/abs/2207.11469v2)|null|
 |**2022-04-27**|**Self-Supervised Text Erasing with Controllable Image Synthesis**|Gangwei Jiang et.al.|[2204.12743v1](http://arxiv.org/abs/2204.12743v1)|null|
 |**2021-09-12**|**PERT: A Progressively Region-based Network for Scene Text Removal**|Yuxin Wang et.al.|[2106.13029v2](http://arxiv.org/abs/2106.13029v2)|**[link](https://github.com/wangyuxin87/PERT)**|
@@ -943,7 +943,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -984,16 +984,16 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647v1](http://arxiv.org/abs/2310.10647v1)|null|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647v1](http://arxiv.org/abs/2310.10647v1)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 |**2023-10-16**|**How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations**|Tianyu Guo et.al.|[2310.10616v1](http://arxiv.org/abs/2310.10616v1)|null|
-|**2023-10-16**|**Interpreting and Controlling Vision Foundation Models via Text Explanations**|Haozhe Chen et.al.|[2310.10591v1](http://arxiv.org/abs/2310.10591v1)|null|
-|**2023-10-16**|**RefConv: Re-parameterized Refocusing Convolution for Powerful ConvNets**|Zhicheng Cai et.al.|[2310.10563v1](http://arxiv.org/abs/2310.10563v1)|null|
+|**2023-10-16**|**Interpreting and Controlling Vision Foundation Models via Text Explanations**|Haozhe Chen et.al.|[2310.10591v1](http://arxiv.org/abs/2310.10591v1)|**[link](https://github.com/tonychenxyz/vit-interpret)**|
+|**2023-10-16**|**RefConv: Re-parameterized Refocusing Convolution for Powerful ConvNets**|Zhicheng Cai et.al.|[2310.10563v1](http://arxiv.org/abs/2310.10563v1)|**[link](https://github.com/Aiolus-X/RefConv)**|
 |**2023-10-16**|**Deep learning applied to EEG data with different montages using spatial attention**|Dung Truong et.al.|[2310.10550v1](http://arxiv.org/abs/2310.10550v1)|null|
 |**2023-10-16**|**Efficient Quantum Circuits based on the Quantum Natural Gradient**|Ananda Roy et.al.|[2310.10538v1](http://arxiv.org/abs/2310.10538v1)|null|
 |**2023-10-16**|**From Spectral Theorem to Statistical Independence with Application to System Identification**|Muhammad Abdullah Naeem et.al.|[2310.10523v1](http://arxiv.org/abs/2310.10523v1)|null|
@@ -1002,28 +1002,28 @@
 |**2023-10-16**|**DemoSG: Demonstration-enhanced Schema-guided Generation for Low-resource Event Extraction**|Gang Zhao et.al.|[2310.10481v1](http://arxiv.org/abs/2310.10481v1)|null|
 |**2023-10-16**|**Gaining Wisdom from Setbacks: Aligning Large Language Models via Mistake Analysis**|Kai Chen et.al.|[2310.10477v1](http://arxiv.org/abs/2310.10477v1)|null|
 |**2023-10-16**|**Text Summarization Using Large Language Models: A Comparative Study of MPT-7b-instruct, Falcon-7b-instruct, and OpenAI Chat-GPT Models**|Lochan Basyal et.al.|[2310.10449v1](http://arxiv.org/abs/2310.10449v1)|null|
-|**2023-10-16**|**Taming the Sigmoid Bottleneck: Provably Argmaxable Sparse Multi-Label Classification**|Andreas Grivas et.al.|[2310.10443v1](http://arxiv.org/abs/2310.10443v1)|null|
+|**2023-10-16**|**Taming the Sigmoid Bottleneck: Provably Argmaxable Sparse Multi-Label Classification**|Andreas Grivas et.al.|[2310.10443v1](http://arxiv.org/abs/2310.10443v1)|**[link](https://github.com/andreasgrv/sigmoid-bottleneck)**|
 |**2023-10-16**|**Equivariant Matrix Function Neural Networks**|Ilyes Batatia et.al.|[2310.10434v1](http://arxiv.org/abs/2310.10434v1)|null|
-|**2023-10-16**|**A cross Transformer for image denoising**|Chunwei Tian et.al.|[2310.10408v1](http://arxiv.org/abs/2310.10408v1)|null|
+|**2023-10-16**|**A cross Transformer for image denoising**|Chunwei Tian et.al.|[2310.10408v1](http://arxiv.org/abs/2310.10408v1)|**[link](https://github.com/hellloxiaotian/ctnet)**|
 |**2023-10-16**|**An Invitation to the Euler Characteristic Transform**|Elizabeth Munch et.al.|[2310.10395v1](http://arxiv.org/abs/2310.10395v1)|null|
-|**2023-10-16**|**GTA: A Geometry-Aware Attention Mechanism for Multi-View Transformers**|Takeru Miyato et.al.|[2310.10375v1](http://arxiv.org/abs/2310.10375v1)|null|
+|**2023-10-16**|**GTA: A Geometry-Aware Attention Mechanism for Multi-View Transformers**|Takeru Miyato et.al.|[2310.10375v1](http://arxiv.org/abs/2310.10375v1)|**[link](https://github.com/autonomousvision/gta)**|
 |**2023-10-16**|**Camera-LiDAR Fusion with Latent Contact for Place Recognition in Challenging Cross-Scenes**|Yan Pan et.al.|[2310.10371v1](http://arxiv.org/abs/2310.10371v1)|null|
 |**2023-10-16**|**Generalized rigidity, spectrum and tensor roots of measure-preserving transfomations**|Valery V. Ryzhikov et.al.|[2310.10370v1](http://arxiv.org/abs/2310.10370v1)|null|
 |**2023-10-16**|**Multimodal Object Query Initialization for 3D Object Detection**|Mathijs R. van Geerenstein et.al.|[2310.10353v1](http://arxiv.org/abs/2310.10353v1)|null|
 |**2023-10-16**|**B-rep Boolean Resulting Model Repair by Correcting Intersection Edges Based on Inference Procedure**|Haomian Huang et.al.|[2310.10351v1](http://arxiv.org/abs/2310.10351v1)|null|
 |**2023-10-16**|**Work fluctuations in ergotropic heat engines**|Giovanni Chesi et.al.|[2310.10344v1](http://arxiv.org/abs/2310.10344v1)|null|
-|**2023-10-16**|**Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning**|Chong Li et.al.|[2310.10318v1](http://arxiv.org/abs/2310.10318v1)|null|
+|**2023-10-16**|**Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning**|Chong Li et.al.|[2310.10318v1](http://arxiv.org/abs/2310.10318v1)|**[link](https://github.com/znlp/functionalspecializationinmha)**|
 |**2023-10-16**|**Soft Demodulator for Symbol-Level Precoding in Coded Multiuser MISO Systems**|Yafei Wang et.al.|[2310.10296v1](http://arxiv.org/abs/2310.10296v1)|null|
 |**2023-10-16**|**Towards Open-World Co-Salient Object Detection with Generative Uncertainty-aware Group Selective Exchange-Masking**|Yang Wu et.al.|[2310.10264v1](http://arxiv.org/abs/2310.10264v1)|null|
 |**2023-10-16**|**A Hermitian bypass to the non-Hermitian quantum theory**|Priyanshi Bhasin et.al.|[2310.10263v1](http://arxiv.org/abs/2310.10263v1)|null|
 |**2023-10-16**|**Minimal surfaces over harmonic shears**|Simran Bedi et.al.|[2310.10258v1](http://arxiv.org/abs/2310.10258v1)|null|
 |**2023-10-16**|**In-Situ Single Particle Reconstruction Reveals 3D Evolution of PtNi Nanocatalysts During Heating**|Yi-Chi Wang et.al.|[2310.10253v1](http://arxiv.org/abs/2310.10253v1)|null|
-|**2023-10-16**|**Long-term Dependency for 3D Reconstruction of Freehand Ultrasound Without External Tracker**|Qi Li et.al.|[2310.10248v1](http://arxiv.org/abs/2310.10248v1)|null|
+|**2023-10-16**|**Long-term Dependency for 3D Reconstruction of Freehand Ultrasound Without External Tracker**|Qi Li et.al.|[2310.10248v1](http://arxiv.org/abs/2310.10248v1)|**[link](https://github.com/ucl-candi/freehand)**|
 |**2023-10-16**|**Mask wearing object detection algorithm based on improved YOLOv5**|Peng Wen et.al.|[2310.10245v1](http://arxiv.org/abs/2310.10245v1)|null|
 |**2023-10-16**|**Creation of flexible spin-caloritronic material with giant transverse thermoelectric conversion by nanostructure engineering**|Ravi Gautam et.al.|[2310.10233v1](http://arxiv.org/abs/2310.10233v1)|null|
 |**2023-10-16**|**Majorana Fermion Mean-Field Theories of Kitaev Quantum Spin Liquids**|Shahnam Ghanbari Saheli et.al.|[2310.10230v1](http://arxiv.org/abs/2310.10230v1)|null|
 |**2023-10-16**|**The finite Hilbert transform on  $(-1,1)$ **|Guillermo P. Curbera et.al.|[2310.10228v1](http://arxiv.org/abs/2310.10228v1)|null|
-|**2023-10-16**|**Generalizing Medical Image Representations via Quaternion Wavelet Networks**|Luigi Sigillo et.al.|[2310.10224v1](http://arxiv.org/abs/2310.10224v1)|null|
+|**2023-10-16**|**Generalizing Medical Image Representations via Quaternion Wavelet Networks**|Luigi Sigillo et.al.|[2310.10224v1](http://arxiv.org/abs/2310.10224v1)|**[link](https://github.com/ispamm/QWT)**|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209v1](http://arxiv.org/abs/2310.10209v1)|null|
 |**2023-10-16**|**A proposal for realizing Majorana fermions without magnetic field in strongly correlated nanowires**|Kaushal Kumar Kesharpu et.al.|[2310.10201v1](http://arxiv.org/abs/2310.10201v1)|null|
 |**2023-10-16**|**DaPPA: A Data-Parallel Framework for Processing-in-Memory Architectures**|Geraldo F. Oliveira et.al.|[2310.10168v1](http://arxiv.org/abs/2310.10168v1)|null|
@@ -10440,7 +10440,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -10586,7 +10586,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -10656,7 +10656,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
