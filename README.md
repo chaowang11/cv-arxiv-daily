@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**HSTR-Net: Reference Based Video Super-resolution for Aerial Surveillance with Dual Cameras**|H. Umut Suluhan et.al.|[2310.12092v1](http://arxiv.org/abs/2310.12092v1)|null|
+|**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004v1](http://arxiv.org/abs/2310.12004v1)|null|
+|**2023-10-18**|**Denoising total scattering data using Compressed Sensing**|James Weng et.al.|[2310.11887v1](http://arxiv.org/abs/2310.11887v1)|null|
 |**2023-10-17**|**Video Super-Resolution Using a Grouped Residual in Residual Network**|MohammadHossein Ashoori et.al.|[2310.11276v1](http://arxiv.org/abs/2310.11276v1)|null|
 |**2023-10-17**|**Super resolution of histopathological frozen sections via deep learning preserving tissue structure**|Elad Yoshai et.al.|[2310.11112v1](http://arxiv.org/abs/2310.11112v1)|null|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624v1](http://arxiv.org/abs/2310.10624v1)|null|
@@ -624,6 +627,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004v1](http://arxiv.org/abs/2310.12004v1)|null|
 |**2023-10-17**|**Video Super-Resolution Using a Grouped Residual in Residual Network**|MohammadHossein Ashoori et.al.|[2310.11276v1](http://arxiv.org/abs/2310.11276v1)|null|
 |**2023-10-16**|**Image super-resolution via dynamic network**|Chunwei Tian et.al.|[2310.10413v1](http://arxiv.org/abs/2310.10413v1)|**[link](https://github.com/hellloxiaotian/dsrnet)**|
 |**2023-10-08**|**Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling**|Wanjie Sun et.al.|[2310.04964v1](http://arxiv.org/abs/2310.04964v1)|null|
@@ -852,6 +856,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**HSTR-Net: Reference Based Video Super-resolution for Aerial Surveillance with Dual Cameras**|H. Umut Suluhan et.al.|[2310.12092v1](http://arxiv.org/abs/2310.12092v1)|null|
 |**2023-10-17**|**Video Super-Resolution Using a Grouped Residual in Residual Network**|MohammadHossein Ashoori et.al.|[2310.11276v1](http://arxiv.org/abs/2310.11276v1)|null|
 |**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v2](http://arxiv.org/abs/2309.15103v2)|null|
 |**2023-09-25**|**A Lightweight Recurrent Grouping Attention Network for Video Super-Resolution**|Yonggui Zhu et.al.|[2309.13940v1](http://arxiv.org/abs/2309.13940v1)|**[link](https://github.com/karlygzhu/rgan)**|
@@ -994,6 +999,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Learning from Rich Semantics and Coarse Locations for Long-tailed Object Detection**|Lingchen Meng et.al.|[2310.12152v1](http://arxiv.org/abs/2310.12152v1)|null|
+|**2023-10-18**|**Fairer and More Accurate Tabular Models Through NAS**|Richeek Das et.al.|[2310.12145v1](http://arxiv.org/abs/2310.12145v1)|null|
+|**2023-10-18**|**SHARCS: Efficient Transformers through Routing with Dynamic Width Sub-networks**|Mohammadreza Salehi et.al.|[2310.12126v1](http://arxiv.org/abs/2310.12126v1)|null|
+|**2023-10-18**|**Harnessing Dataset Cartography for Improved Compositional Generalization in Transformers**|Osman Batur İnce et.al.|[2310.12118v1](http://arxiv.org/abs/2310.12118v1)|**[link](https://github.com/cyberiada/cartography-for-compositionality)**|
+|**2023-10-18**|**Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture**|Daniel Y. Fu et.al.|[2310.12109v1](http://arxiv.org/abs/2310.12109v1)|null|
+|**2023-10-18**|**Classical-Nonclassical Polarity of Gaussian States**|Jiru Liu et.al.|[2310.12104v1](http://arxiv.org/abs/2310.12104v1)|null|
+|**2023-10-18**|**Deformation Mechanisms in High Entropy Alloys: A Minireview of Short-Range Order Effects**|Novin Rasooli et.al.|[2310.12078v1](http://arxiv.org/abs/2310.12078v1)|null|
+|**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076v1](http://arxiv.org/abs/2310.12076v1)|null|
+|**2023-10-18**|**SPEED: Speculative Pipelined Execution for Efficient Decoding**|Coleman Hooper et.al.|[2310.12072v1](http://arxiv.org/abs/2310.12072v1)|null|
+|**2023-10-18**|**Transformers for scientific data: a pedagogical review for astronomers**|Dimitrios Tanoglidis et.al.|[2310.12069v1](http://arxiv.org/abs/2310.12069v1)|null|
+|**2023-10-18**|**Tuning the supercurrent distribution in parallel ballistic graphene Josephson junctions**|Philipp Schmidt et.al.|[2310.12040v1](http://arxiv.org/abs/2310.12040v1)|null|
+|**2023-10-18**|**SegmATRon: Embodied Adaptive Semantic Segmentation for Indoor Environment**|Tatiana Zemskova et.al.|[2310.12031v1](http://arxiv.org/abs/2310.12031v1)|null|
+|**2023-10-18**|**Total variation regularization for recovering the spatial source term in a time-fractional diffusion equation**|Bin Fan et.al.|[2310.12029v1](http://arxiv.org/abs/2310.12029v1)|null|
+|**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004v1](http://arxiv.org/abs/2310.12004v1)|null|
+|**2023-10-18**|**From Interpolation to Extrapolation: Complete Length Generalization for Arithmetic Transformers**|Shaoxiong Duan et.al.|[2310.11984v1](http://arxiv.org/abs/2310.11984v1)|null|
+|**2023-10-18**|**Out-of-equilibrium simulations to fight topological freezing**|Claudio Bonanno et.al.|[2310.11979v1](http://arxiv.org/abs/2310.11979v1)|null|
+|**2023-10-18**|**Filling in the Gaps: Efficient Event Coreference Resolution using Graph Autoencoder Networks**|Loic De Langhe et.al.|[2310.11965v1](http://arxiv.org/abs/2310.11965v1)|null|
+|**2023-10-18**|**AMR Parsing with Causal Hierarchical Attention and Pointers**|Chao Lou et.al.|[2310.11964v1](http://arxiv.org/abs/2310.11964v1)|null|
+|**2023-10-18**|**Fast Multipole Attention: A Divide-and-Conquer Attention Mechanism for Long Sequences**|Yanming Kang et.al.|[2310.11960v1](http://arxiv.org/abs/2310.11960v1)|null|
+|**2023-10-18**|**Recasting Continual Learning as Sequence Modeling**|Soochan Lee et.al.|[2310.11952v1](http://arxiv.org/abs/2310.11952v1)|**[link](https://github.com/soochan-lee/cl-as-seq)**|
+|**2023-10-18**|**Robustness of the projected squeezed state protocol**|B. J. Alexander et.al.|[2310.11948v1](http://arxiv.org/abs/2310.11948v1)|null|
+|**2023-10-18**|**Investigating semantic subspaces of Transformer sentence embeddings through linear structural probing**|Dmitry Nikolaev et.al.|[2310.11923v1](http://arxiv.org/abs/2310.11923v1)|**[link](https://github.com/macleginn/semantic-subspaces-code)**|
+|**2023-10-18**|**Interferometric sorting of temporal Hermite-Gauss modes via temporal Gouy phase**|Dmitri B. Horoshko et.al.|[2310.11918v1](http://arxiv.org/abs/2310.11918v1)|null|
+|**2023-10-18**|**Deterministic Sparse Pattern Matching via the Baur-Strassen Theorem**|Nick Fischer et.al.|[2310.11913v1](http://arxiv.org/abs/2310.11913v1)|null|
+|**2023-10-18**|**IRAD: Implicit Representation-driven Image Resampling against Adversarial Attacks**|Yue Cao et.al.|[2310.11890v1](http://arxiv.org/abs/2310.11890v1)|null|
+|**2023-10-18**|**Analyze Mass Spectrometry data with Artificial Intelligence to assist the understanding of past habitability of Mars and provide insights for future missions**|Ioannis Nasios et.al.|[2310.11888v1](http://arxiv.org/abs/2310.11888v1)|**[link](https://github.com/ioannisnasios/marsspectrometry2_gaschromatography)**|
+|**2023-10-18**|**Structural transformations driven by local disorder at interfaces**|Yanyan Liang et.al.|[2310.11863v1](http://arxiv.org/abs/2310.11863v1)|null|
+|**2023-10-18**|**Representation of Distribution Grid Expansion Costs in Power System Planning**|Luis Böttcher et.al.|[2310.11853v1](http://arxiv.org/abs/2310.11853v1)|null|
+|**2023-10-18**|**Masked Pretraining for Multi-Agent Decision Making**|Jie Liu et.al.|[2310.11846v1](http://arxiv.org/abs/2310.11846v1)|null|
+|**2023-10-18**|**Towards Graph Foundation Models: A Survey and Beyond**|Jiawei Liu et.al.|[2310.11829v1](http://arxiv.org/abs/2310.11829v1)|null|
+|**2023-10-18**|**A Multivariate Skew-Normal-Tukey-h Distribution**|Sagnik Mondal et.al.|[2310.11779v1](http://arxiv.org/abs/2310.11779v1)|null|
+|**2023-10-18**|**Telecom AI Native Systems in the Age of Generative AI -- An Engineering Perspective**|Ricardo Britto et.al.|[2310.11770v1](http://arxiv.org/abs/2310.11770v1)|null|
+|**2023-10-18**|**Perceptual Measurements, Distances and Metrics**|Jonathan Vacher et.al.|[2310.11759v1](http://arxiv.org/abs/2310.11759v1)|**[link](https://github.com/jonathanvacher/perceptual_metric)**|
+|**2023-10-18**|**Domain-Generalized Face Anti-Spoofing with Unknown Attacks**|Zong-Wei Hong et.al.|[2310.11758v1](http://arxiv.org/abs/2310.11758v1)|**[link](https://github.com/ai-application-and-integration-lab/dgua_fas)**|
+|**2023-10-18**|**Engineering band structures and topological invariants by transformation optics**|Xianghong Kong et.al.|[2310.11746v1](http://arxiv.org/abs/2310.11746v1)|null|
+|**2023-10-18**|**A fast normal splitting preconditioner for attractive coupled nonlinear Schrödinger equations with fractional Laplacian**|Yan Cheng et.al.|[2310.11740v1](http://arxiv.org/abs/2310.11740v1)|null|
+|**2023-10-18**|**VST++: Efficient and Stronger Visual Saliency Transformer**|Nian Liu et.al.|[2310.11725v1](http://arxiv.org/abs/2310.11725v1)|null|
+|**2023-10-18**|**Deep learning based on Transformer architecture for power system short-term voltage stability assessment with class imbalance**|Yang Li et.al.|[2310.11690v1](http://arxiv.org/abs/2310.11690v1)|null|
+|**2023-10-18**|**Superiority of Softmax: Unveiling the Performance Edge Over Linear Attention**|Yichuan Deng et.al.|[2310.11685v1](http://arxiv.org/abs/2310.11685v1)|null|
+|**2023-10-18**|**Solutions to the KP hierarchy with an elliptic background**|Saburo Kakei et.al.|[2310.11679v1](http://arxiv.org/abs/2310.11679v1)|null|
+|**2023-10-18**|**Magnetic eight-fold nodal-point and nodal-network fermions in MnB2**|Yongheng Ge et.al.|[2310.11669v1](http://arxiv.org/abs/2310.11669v1)|null|
+|**2023-10-18**|**Field-testing items using artificial intelligence: Natural language processing with transformers**|Hotaka Maeda et.al.|[2310.11655v1](http://arxiv.org/abs/2310.11655v1)|null|
+|**2023-10-18**|**Cloud-Magnetic Resonance Imaging System: In the Era of 6G and Artificial Intelligence**|Yirong Zhou et.al.|[2310.11641v1](http://arxiv.org/abs/2310.11641v1)|null|
+|**2023-10-18**|**Free-text Keystroke Authentication using Transformers: A Comparative Study of Architectures and Loss Functions**|Saleh Momeni et.al.|[2310.11640v1](http://arxiv.org/abs/2310.11640v1)|null|
+|**2023-10-17**|**DIAR: Deep Image Alignment and Reconstruction using Swin Transformers**|Monika Kwiatkowski et.al.|[2310.11605v1](http://arxiv.org/abs/2310.11605v1)|null|
+|**2023-10-17**|**The Efficacy of Transformer-based Adversarial Attacks in Security Domains**|Kunyang Li et.al.|[2310.11597v1](http://arxiv.org/abs/2310.11597v1)|null|
+|**2023-10-17**|**WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks**|Jun Xia et.al.|[2310.11595v1](http://arxiv.org/abs/2310.11595v1)|null|
+|**2023-10-17**|**Thin and Deep Gaussian Processes**|Daniel Augusto de Souza et.al.|[2310.11527v1](http://arxiv.org/abs/2310.11527v1)|null|
+|**2023-10-17**|**Group Preference Optimization: Few-Shot Alignment of Large Language Models**|Siyan Zhao et.al.|[2310.11523v1](http://arxiv.org/abs/2310.11523v1)|null|
+|**2023-10-17**|**Trade-off between Noise and Banding in a Quantum Adder with Qudits**|Gaurang Agrawal et.al.|[2310.11514v1](http://arxiv.org/abs/2310.11514v1)|null|
 |**2023-10-17**|**BitNet: Scaling 1-bit Transformers for Large Language Models**|Hongyu Wang et.al.|[2310.11453v1](http://arxiv.org/abs/2310.11453v1)|null|
 |**2023-10-17**|**Functional Invariants to Watermark Large Transformers**|Fernandez Pierre et.al.|[2310.11446v1](http://arxiv.org/abs/2310.11446v1)|null|
 |**2023-10-17**|**Predicting polymerization reactions via transfer learning using chemical language models**|Brenda S. Ferrari et.al.|[2310.11423v1](http://arxiv.org/abs/2310.11423v1)|null|
