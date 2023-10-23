@@ -23,9 +23,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Auxiliary Features-Guided Super Resolution for Monte Carlo Rendering**|Qiqi Hou et.al.|[2310.13235v1](http://arxiv.org/abs/2310.13235v1)|null|
+|**2023-10-20**|**PTSR: Patch Translator for Image Super-Resolution**|Neeraj Baghel et.al.|[2310.13216v1](http://arxiv.org/abs/2310.13216v1)|null|
 |**2023-10-19**|**Multi-granularity Backprojection Transformer for Remote Sensing Image Super-Resolution**|Jinglei Hao et.al.|[2310.12507v1](http://arxiv.org/abs/2310.12507v1)|null|
 |**2023-10-18**|**HSTR-Net: Reference Based Video Super-resolution for Aerial Surveillance with Dual Cameras**|H. Umut Suluhan et.al.|[2310.12092v1](http://arxiv.org/abs/2310.12092v1)|null|
-|**2023-10-20**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004v2](http://arxiv.org/abs/2310.12004v2)|null|
+|**2023-10-20**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004v2](http://arxiv.org/abs/2310.12004v2)|**[link](https://github.com/tencent-ailab/frequency_aug_vae_moesr)**|
 |**2023-10-19**|**Denoising total scattering data using Compressed Sensing**|James Weng et.al.|[2310.11887v2](http://arxiv.org/abs/2310.11887v2)|null|
 |**2023-10-17**|**Video Super-Resolution Using a Grouped Residual in Residual Network**|MohammadHossein Ashoori et.al.|[2310.11276v1](http://arxiv.org/abs/2310.11276v1)|null|
 |**2023-10-17**|**Super resolution of histopathological frozen sections via deep learning preserving tissue structure**|Elad Yoshai et.al.|[2310.11112v1](http://arxiv.org/abs/2310.11112v1)|null|
@@ -628,8 +630,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**PTSR: Patch Translator for Image Super-Resolution**|Neeraj Baghel et.al.|[2310.13216v1](http://arxiv.org/abs/2310.13216v1)|null|
 |**2023-10-19**|**Multi-granularity Backprojection Transformer for Remote Sensing Image Super-Resolution**|Jinglei Hao et.al.|[2310.12507v1](http://arxiv.org/abs/2310.12507v1)|null|
-|**2023-10-20**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004v2](http://arxiv.org/abs/2310.12004v2)|null|
+|**2023-10-20**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004v2](http://arxiv.org/abs/2310.12004v2)|**[link](https://github.com/tencent-ailab/frequency_aug_vae_moesr)**|
 |**2023-10-17**|**Video Super-Resolution Using a Grouped Residual in Residual Network**|MohammadHossein Ashoori et.al.|[2310.11276v1](http://arxiv.org/abs/2310.11276v1)|null|
 |**2023-10-16**|**Image super-resolution via dynamic network**|Chunwei Tian et.al.|[2310.10413v1](http://arxiv.org/abs/2310.10413v1)|**[link](https://github.com/hellloxiaotian/dsrnet)**|
 |**2023-10-08**|**Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling**|Wanjie Sun et.al.|[2310.04964v1](http://arxiv.org/abs/2310.04964v1)|null|
@@ -1001,6 +1004,48 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v1](http://arxiv.org/abs/2310.13668v1)|null|
+|**2023-10-20**|**EXPLORA: AI/ML EXPLainability for the Open RAN**|Claudio Fiandrino et.al.|[2310.13667v1](http://arxiv.org/abs/2310.13667v1)|**[link](https://github.com/wineslab/explora)**|
+|**2023-10-20**|**Modular Golden Gate Assembly of Linear DNA Templates for Cell-free Prototyping**|François-Xavier Lehr et.al.|[2310.13665v1](http://arxiv.org/abs/2310.13665v1)|null|
+|**2023-10-20**|**Explainability, Interpretability, Depression detection, Social Media**|Eliseo Bao Souto et.al.|[2310.13664v1](http://arxiv.org/abs/2310.13664v1)|null|
+|**2023-10-20**|**Hunayn: Elevating Translation Beyond the Literal**|Nasser Almousa et.al.|[2310.13613v1](http://arxiv.org/abs/2310.13613v1)|null|
+|**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605v1](http://arxiv.org/abs/2310.13605v1)|null|
+|**2023-10-20**|**Skin Lesion Segmentation Improved by Transformer-based Networks with Inter-scale Dependency Modeling**|Sania Eskandari et.al.|[2310.13604v1](http://arxiv.org/abs/2310.13604v1)|**[link](https://github.com/saniaesk/skin-lesion-segmentation)**|
+|**2023-10-20**|**POTLoc: Pseudo-Label Oriented Transformer for Point-Supervised Temporal Action Localization**|Elahe Vahdani et.al.|[2310.13585v1](http://arxiv.org/abs/2310.13585v1)|null|
+|**2023-10-20**|**Mapping properties of Fourier transforms, revisited**|Dorothee D. Haroske et.al.|[2310.13567v1](http://arxiv.org/abs/2310.13567v1)|null|
+|**2023-10-20**|**Shedding Light on Low Surface Brightness Galaxies in Dark Energy Survey with Transformers**|H. Thuruthipilly et.al.|[2310.13543v1](http://arxiv.org/abs/2310.13543v1)|null|
+|**2023-10-20**|**Controlled Randomness Improves the Performance of Transformer Models**|Tobias Deußer et.al.|[2310.13526v1](http://arxiv.org/abs/2310.13526v1)|null|
+|**2023-10-20**|**RaceLens: A Machine Intelligence-Based Application for Racing Photo Analysis**|Andrei Boiarov et.al.|[2310.13515v1](http://arxiv.org/abs/2310.13515v1)|null|
+|**2023-10-20**|**Improving Question Generation with Multi-level Content Planning**|Zehua Xia et.al.|[2310.13512v1](http://arxiv.org/abs/2310.13512v1)|**[link](https://github.com/zeaver/multifactor)**|
+|**2023-10-20**|**Ask Language Model to Clean Your Noisy Translation Data**|Quinten Bolding et.al.|[2310.13469v1](http://arxiv.org/abs/2310.13469v1)|null|
+|**2023-10-20**|**Completely mixed linear games corresponding to Z-transformations over self-dual cones**|Muddappa Seetharama Gowda et.al.|[2310.13464v1](http://arxiv.org/abs/2310.13464v1)|null|
+|**2023-10-20**|**A magnetic clock for a harmonic oscillator**|Alessandro Coppo et.al.|[2310.13386v1](http://arxiv.org/abs/2310.13386v1)|null|
+|**2023-10-20**|**Accelerated sparse Kernel Spectral Clustering for large scale data clustering problems**|Mihaly Novak et.al.|[2310.13381v1](http://arxiv.org/abs/2310.13381v1)|null|
+|**2023-10-20**|**SigFormer: Signature Transformers for Deep Hedging**|Anh Tong et.al.|[2310.13369v1](http://arxiv.org/abs/2310.13369v1)|null|
+|**2023-10-20**|**Bridging the Gap between Synthetic and Authentic Images for Multimodal Machine Translation**|Wenyu Guo et.al.|[2310.13361v1](http://arxiv.org/abs/2310.13361v1)|null|
+|**2023-10-20**|**DeepFracture: A Generative Approach for Predicting Brittle Fractures**|Yuhang Huang et.al.|[2310.13344v1](http://arxiv.org/abs/2310.13344v1)|null|
+|**2023-10-20**|**A Data-Centric Multi-Objective Learning Framework for Responsible Recommendation Systems**|Xu Huang et.al.|[2310.13260v1](http://arxiv.org/abs/2310.13260v1)|null|
+|**2023-10-20**|**Anomaly Detection of Command Shell Sessions based on DistilBERT: Unsupervised and Supervised Approaches**|Zefang Liu et.al.|[2310.13247v1](http://arxiv.org/abs/2310.13247v1)|null|
+|**2023-10-20**|**Auxiliary Features-Guided Super Resolution for Monte Carlo Rendering**|Qiqi Hou et.al.|[2310.13235v1](http://arxiv.org/abs/2310.13235v1)|null|
+|**2023-10-20**|**Scalable Neural Network Kernels**|Arijit Sehanobish et.al.|[2310.13225v1](http://arxiv.org/abs/2310.13225v1)|null|
+|**2023-10-20**|**Equivariant Transformer is all you need**|Akio Tomiya et.al.|[2310.13222v1](http://arxiv.org/abs/2310.13222v1)|null|
+|**2023-10-20**|**In-context Learning with Transformer Is Really Equivalent to a Contrastive Learning Pattern**|Ruifeng Ren et.al.|[2310.13220v1](http://arxiv.org/abs/2310.13220v1)|null|
+|**2023-10-20**|**PTSR: Patch Translator for Image Super-Resolution**|Neeraj Baghel et.al.|[2310.13216v1](http://arxiv.org/abs/2310.13216v1)|null|
+|**2023-10-19**|**A Car Model Identification System for Streamlining the Automobile Sales Process**|Said Togru et.al.|[2310.13198v1](http://arxiv.org/abs/2310.13198v1)|null|
+|**2023-10-19**|**RMap: Millimeter-Wave Radar Mapping Through Volumetric Upsampling**|Ajay Narasimha Mopidevi et.al.|[2310.13188v1](http://arxiv.org/abs/2310.13188v1)|**[link](https://github.com/arpg/RMap)**|
+|**2023-10-19**|**Dynamic STEM-EELS for single atom and defect measurement during electron beam transformations**|Kevin M. Roccapriore et.al.|[2310.13187v1](http://arxiv.org/abs/2310.13187v1)|null|
+|**2023-10-19**|**Approximated Modeling and Optimal Design for a Soft Pneumatic Actuator Considering the Force/Torque and System Controllability**|Wu-Te Yang et.al.|[2310.13168v1](http://arxiv.org/abs/2310.13168v1)|null|
+|**2023-10-19**|**Almost Equivariance via Lie Algebra Convolutions**|Daniel McNeela et.al.|[2310.13164v1](http://arxiv.org/abs/2310.13164v1)|null|
+|**2023-10-19**|**Conditional Generative Modeling for Images, 3D Animations, and Video**|Vikram Voleti et.al.|[2310.13157v1](http://arxiv.org/abs/2310.13157v1)|null|
+|**2023-10-19**|**LeTFuser: Light-weight End-to-end Transformer-Based Sensor Fusion for Autonomous Driving with Multi-Task Learning**|Pedram Agand et.al.|[2310.13135v1](http://arxiv.org/abs/2310.13135v1)|**[link](https://github.com/pagand/e2etransfuser)**|
+|**2023-10-19**|**Ask Me in English Instead: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries**|Jin et.al.|[2310.13132v1](http://arxiv.org/abs/2310.13132v1)|**[link](https://github.com/claws-lab/XLingEval)**|
+|**2023-10-19**|**Understanding Addition in Transformers**|Philip Quirke et.al.|[2310.13121v1](http://arxiv.org/abs/2310.13121v1)|null|
+|**2023-10-19**|**RSAdapter: Adapting Multimodal Models for Remote Sensing Visual Question Answering**|Yuduo Wang et.al.|[2310.13120v1](http://arxiv.org/abs/2310.13120v1)|null|
+|**2023-10-19**|**AVTENet: Audio-Visual Transformer-based Ensemble Network Exploiting Multiple Experts for Video Deepfake Detection**|Ammarah Hashmi et.al.|[2310.13103v1](http://arxiv.org/abs/2310.13103v1)|null|
+|**2023-10-19**|**Closed-Loop Motion Planning for Differentially Flat Systems: A Time-Varying Optimization Framework**|Tianqi Zheng et.al.|[2310.13090v1](http://arxiv.org/abs/2310.13090v1)|null|
+|**2023-10-19**|**Sequence Length Independent Norm-Based Generalization Bounds for Transformers**|Jacob Trauger et.al.|[2310.13088v1](http://arxiv.org/abs/2310.13088v1)|null|
+|**2023-10-19**|**Variational Lang-Firsov approach plus Møller-Plesset perturbation theory with applications to ab initio polariton chemistry**|Zhi-Hao Cui et.al.|[2310.13084v1](http://arxiv.org/abs/2310.13084v1)|null|
+|**2023-10-19**|**Anomaly Detection in Presence of Irrelevant Features**|Marat Freytsis et.al.|[2310.13057v1](http://arxiv.org/abs/2310.13057v1)|null|
 |**2023-10-19**|**Putting the Object Back into Video Object Segmentation**|Ho Kei Cheng et.al.|[2310.12982v1](http://arxiv.org/abs/2310.12982v1)|**[link](https://github.com/hkchengrex/Cutie)**|
 |**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973v1](http://arxiv.org/abs/2310.12973v1)|**[link](https://github.com/ziqipang/lm4visualencoding)**|
 |**2023-10-19**|**Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding**|Zhejun Zhang et.al.|[2310.12970v1](http://arxiv.org/abs/2310.12970v1)|**[link](https://github.com/zhejz/hptr)**|
