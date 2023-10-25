@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767v1](http://arxiv.org/abs/2310.15767v1)|null|
+|**2023-10-24**|**Spectral-based detection of chromatin loops in multiplexed super-resolution FISH data**|Michaël Liefsoens et.al.|[2310.15701v1](http://arxiv.org/abs/2310.15701v1)|null|
 |**2023-10-20**|**Parallel compressive super-resolution imaging with wide field-of-view based on physics enhanced network**|Xiao-Peng Jin et.al.|[2310.14965v1](http://arxiv.org/abs/2310.14965v1)|null|
 |**2023-10-22**|**A Coordinate Descent Approach to Atomic Norm Minimization**|Ruifu Li et.al.|[2310.14182v1](http://arxiv.org/abs/2310.14182v1)|null|
 |**2023-10-20**|**Auxiliary Features-Guided Super Resolution for Monte Carlo Rendering**|Qiqi Hou et.al.|[2310.13235v1](http://arxiv.org/abs/2310.13235v1)|null|
@@ -632,6 +634,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767v1](http://arxiv.org/abs/2310.15767v1)|null|
 |**2023-10-20**|**PTSR: Patch Translator for Image Super-Resolution**|Neeraj Baghel et.al.|[2310.13216v1](http://arxiv.org/abs/2310.13216v1)|null|
 |**2023-10-19**|**Multi-granularity Backprojection Transformer for Remote Sensing Image Super-Resolution**|Jinglei Hao et.al.|[2310.12507v1](http://arxiv.org/abs/2310.12507v1)|null|
 |**2023-10-20**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004v2](http://arxiv.org/abs/2310.12004v2)|**[link](https://github.com/tencent-ailab/frequency_aug_vae_moesr)**|
@@ -1006,6 +1009,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**The Photon Sphere and Response Functions in Holography**|Marcos Riojas et.al.|[2310.16034v1](http://arxiv.org/abs/2310.16034v1)|null|
+|**2023-10-24**|**The Physics of (good) LDPC Codes I. Gauging and dualities**|Tibor Rakovszky et.al.|[2310.16032v1](http://arxiv.org/abs/2310.16032v1)|null|
+|**2023-10-24**|**What Algorithms can Transformers Learn? A Study in Length Generalization**|Hattie Zhou et.al.|[2310.16028v1](http://arxiv.org/abs/2310.16028v1)|null|
+|**2023-10-24**|**Regularization estimates of the Landau-Coulomb diffusion**|Rene Cabrera et.al.|[2310.16012v1](http://arxiv.org/abs/2310.16012v1)|null|
+|**2023-10-24**|**An Efficient Method for Realizing Contractions of Access Structures in Cloud Storage**|Shuai Feng et.al.|[2310.15972v1](http://arxiv.org/abs/2310.15972v1)|null|
+|**2023-10-24**|**Mixture of Tokens: Efficient LLMs through Cross-Example Aggregation**|Szymon Antoniak et.al.|[2310.15961v1](http://arxiv.org/abs/2310.15961v1)|null|
+|**2023-10-24**|**Likelihood-Based Inference for Semi-Parametric Transformation Cure Models with Interval Censored Data**|Suvra Pal et.al.|[2310.15956v1](http://arxiv.org/abs/2310.15956v1)|null|
+|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v1](http://arxiv.org/abs/2310.15952v1)|null|
+|**2023-10-24**|**In-Context Learning Creates Task Vectors**|Roee Hendel et.al.|[2310.15916v1](http://arxiv.org/abs/2310.15916v1)|null|
+|**2023-10-24**|**State Sequences Prediction via Fourier Transform for Representation Learning**|Mingxuan Ye et.al.|[2310.15888v1](http://arxiv.org/abs/2310.15888v1)|**[link](https://github.com/miralab-ustc/rl-spf)**|
+|**2023-10-24**|**Using Artificial French Data to Understand the Emergence of Gender Bias in Transformer Language Models**|Lina Conti et.al.|[2310.15852v1](http://arxiv.org/abs/2310.15852v1)|null|
+|**2023-10-24**|**Decay Estimates of High Dimensional Adjoint Radon Transforms**|Ruipeng Shen et.al.|[2310.15843v1](http://arxiv.org/abs/2310.15843v1)|null|
+|**2023-10-24**|**Introduction to Infinite Dimensional Statistics and Applications**|Jan Mandel et.al.|[2310.15818v1](http://arxiv.org/abs/2310.15818v1)|null|
+|**2023-10-24**|**A presentation for a submonoid of the symmetric inverse monoid**|Apatsara Sareeto et.al.|[2310.15809v1](http://arxiv.org/abs/2310.15809v1)|null|
+|**2023-10-24**|**Improving generalization in large language models by learning prefix subspaces**|Louis Falissard et.al.|[2310.15793v1](http://arxiv.org/abs/2310.15793v1)|null|
+|**2023-10-24**|**Nonequilibrium thermodynamics perspectives for the monotonicity of the renormalization group flow**|Ki-Seok Kim et.al.|[2310.15763v1](http://arxiv.org/abs/2310.15763v1)|null|
+|**2023-10-24**|**Query-adaptive DETR for Crowded Pedestrian Detection**|Feng Gao et.al.|[2310.15725v1](http://arxiv.org/abs/2310.15725v1)|null|
+|**2023-10-24**|**Recurrent Linear Transformers**|Subhojeet Pramanik et.al.|[2310.15719v1](http://arxiv.org/abs/2310.15719v1)|**[link](https://github.com/subho406/Recurrent-Linear-Transformers)**|
+|**2023-10-24**|**Visible Lagrangians for Hitchin systems and pillowcase covers**|Johannes Horn et.al.|[2310.15716v1](http://arxiv.org/abs/2310.15716v1)|null|
+|**2023-10-24**|**How Much Context Does My Attention-Based ASR System Need?**|Robert Flynn et.al.|[2310.15672v1](http://arxiv.org/abs/2310.15672v1)|**[link](https://github.com/robflynnyh/long-context-asr)**|
+|**2023-10-24**|**FOLEY-VAE: Generación de efectos de audio para cine con inteligencia artificial**|Mateo Cámara et.al.|[2310.15663v1](http://arxiv.org/abs/2310.15663v1)|null|
+|**2023-10-24**|**Region-controlled Style Transfer**|Junjie Kang et.al.|[2310.15658v1](http://arxiv.org/abs/2310.15658v1)|null|
+|**2023-10-24**|**Dynamic Convolutional Neural Networks as Efficient Pre-trained Audio Models**|Florian Schmid et.al.|[2310.15648v1](http://arxiv.org/abs/2310.15648v1)|**[link](https://github.com/fschmid56/efficientat)**|
+|**2023-10-24**|**Mean Teacher DETR with Masked Feature Alignment: A Robust Domain Adaptive Detection Transformer Framework**|Weixi Weng et.al.|[2310.15646v1](http://arxiv.org/abs/2310.15646v1)|null|
+|**2023-10-24**|**Light up that Droid! On the Effectiveness of Static Analysis Features against App Obfuscation for Android Malware Detection**|Borja Molina-Coronado et.al.|[2310.15645v1](http://arxiv.org/abs/2310.15645v1)|null|
+|**2023-10-24**|**Exact solutions for radiative transfer with partial frequency redistribution**|Hélène Frisch et.al.|[2310.15621v1](http://arxiv.org/abs/2310.15621v1)|null|
+|**2023-10-24**|**Facial Data Minimization: Shallow Model as Your Privacy Filter**|Yuwen Pu et.al.|[2310.15590v1](http://arxiv.org/abs/2310.15590v1)|null|
+|**2023-10-24**|**Detecting Intentional AIS Shutdown in Open Sea Maritime Surveillance Using Self-Supervised Deep Learning**|Pierre Bernabé et.al.|[2310.15586v1](http://arxiv.org/abs/2310.15586v1)|null|
+|**2023-10-24**|**Uniform ergodicity and the one-sided ergodic Hilbert transform**|Guy Cohen et.al.|[2310.15561v1](http://arxiv.org/abs/2310.15561v1)|null|
+|**2023-10-24**|**Quantum speed limit of a single atom in a squeezed optical cavity mode**|Ya-Jie Ma et.al.|[2310.15554v1](http://arxiv.org/abs/2310.15554v1)|null|
+|**2023-10-24**|**Unveiling Multilinguality in Transformer Models: Exploring Language Specificity in Feed-Forward Networks**|Sunit Bhattacharya et.al.|[2310.15552v1](http://arxiv.org/abs/2310.15552v1)|null|
+|**2023-10-24**|**Algorithmic Regularization in Tensor Optimization: Towards a Lifted Approach in Matrix Sensing**|Ziye Ma et.al.|[2310.15549v1](http://arxiv.org/abs/2310.15549v1)|null|
+|**2023-10-24**|**Large-Time Behavior of the 2D Compressible Navier-Stokes System in Bounded Domains with Large Data and Vacuum**|Xinyu Fan et.al.|[2310.15520v1](http://arxiv.org/abs/2310.15520v1)|null|
+|**2023-10-24**|**The Quantum Tortoise and the Classical Hare: A simple framework for understanding which problems quantum computing will accelerate (and which it will not)**|Sukwoong Choi et.al.|[2310.15505v1](http://arxiv.org/abs/2310.15505v1)|null|
+|**2023-10-24**|**Is hydrogen diffusion in amorphous metals non-Arrhenian?**|Chunguang Tang et.al.|[2310.15498v1](http://arxiv.org/abs/2310.15498v1)|null|
+|**2023-10-24**|**Generalized Box-Cox method to estimate sample mean and standard deviation for Meta-analysis**|Olivia Xiao et.al.|[2310.15497v1](http://arxiv.org/abs/2310.15497v1)|null|
+|**2023-10-24**|**TRAMS: Training-free Memory Selection for Long-range Language Modeling**|Haofei Yu et.al.|[2310.15494v1](http://arxiv.org/abs/2310.15494v1)|null|
+|**2023-10-24**|**CRaSh: Clustering, Removing, and Sharing Enhance Fine-tuning without Full Large Language Model**|Kaiyan Zhang et.al.|[2310.15477v1](http://arxiv.org/abs/2310.15477v1)|null|
+|**2023-10-24**|**Interpretable Survival Analysis for Heart Failure Risk Prediction**|Mike Van Ness et.al.|[2310.15472v1](http://arxiv.org/abs/2310.15472v1)|null|
+|**2023-10-24**|**An Unconditionally Stable Iterative Decoupled Algorithm for Multiple-Network Poroelasticity Model**|Meng Lei et.al.|[2310.15457v1](http://arxiv.org/abs/2310.15457v1)|null|
+|**2023-10-24**|**General Identifiability and Achievability for Causal Representation Learning**|Burak Varıcı et.al.|[2310.15450v1](http://arxiv.org/abs/2310.15450v1)|**[link](https://github.com/bvarici/score-general-id-crl)**|
+|**2023-10-24**|**DeepIron: Predicting Unwarped Garment Texture from a Single Image**|Hyun-Song Kwon et.al.|[2310.15447v1](http://arxiv.org/abs/2310.15447v1)|null|
+|**2023-10-24**|**Ultrabroadband, high color purity multispectral color filter arrays**|Jiewei Xiang et.al.|[2310.15437v1](http://arxiv.org/abs/2310.15437v1)|null|
+|**2023-10-24**|**VGX: Large-Scale Sample Generation for Boosting Learning-Based Software Vulnerability Analyses**|Yu Nong et.al.|[2310.15436v1](http://arxiv.org/abs/2310.15436v1)|null|
+|**2023-10-24**|**A Semantic-driven Approach for Maintenance Digitalization in the Pharmaceutical Industry**|Ju Wu et.al.|[2310.15417v1](http://arxiv.org/abs/2310.15417v1)|null|
+|**2023-10-23**|**Finite-Time Adaptive Fuzzy Tracking Control for Nonlinear State Constrained Pure-Feedback Systems**|Ju Wu et.al.|[2310.15407v1](http://arxiv.org/abs/2310.15407v1)|null|
+|**2023-10-23**|**Curved Space-Filling Tiles Using Voronoi Decomposition with Line, and Curve Segments Closed Under Wallpaper Symmetries**|Haard Panchal et.al.|[2310.15361v1](http://arxiv.org/abs/2310.15361v1)|null|
+|**2023-10-23**|**Calculational Design of [In]Correctness Transformational Program Logics by Abstract Interpretation**|Patrick Cousot et.al.|[2310.15340v1](http://arxiv.org/abs/2310.15340v1)|null|
+|**2023-10-23**|**Specialist or Generalist? Instruction Tuning for Specific NLP Tasks**|Chufan Shi et.al.|[2310.15326v1](http://arxiv.org/abs/2310.15326v1)|null|
+|**2023-10-23**|**Hallucination Detection for Grounded Instruction Generation**|Lingjun Zhao et.al.|[2310.15319v1](http://arxiv.org/abs/2310.15319v1)|null|
 |**2023-10-23**|**Handling Data Heterogeneity via Architectural Design for Federated Visual Recognition**|Sara Pieri et.al.|[2310.15165v1](http://arxiv.org/abs/2310.15165v1)|**[link](https://github.com/sarapieri/fed_het)**|
 |**2023-10-23**|**Verb Conjugation in Transformers Is Determined by Linear Encodings of Subject Number**|Sophie Hao et.al.|[2310.15151v1](http://arxiv.org/abs/2310.15151v1)|null|
 |**2023-10-23**|**Unlocking the Transferability of Tokens in Deep Models for Tabular Data**|Qi-Le Zhou et.al.|[2310.15149v1](http://arxiv.org/abs/2310.15149v1)|null|
