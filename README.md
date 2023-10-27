@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution**|Zhewei Huang et.al.|[2310.17294v1](http://arxiv.org/abs/2310.17294v1)|**[link](https://github.com/megvii-research/wacv2024-safa)**|
+|**2023-10-26**|**Blind Image Super-resolution with Rich Texture-Aware Codebooks**|Rui Qin et.al.|[2310.17188v1](http://arxiv.org/abs/2310.17188v1)|null|
+|**2023-10-25**|**Single-pixel imaging based on deep learning**|Kai Song et.al.|[2310.16869v1](http://arxiv.org/abs/2310.16869v1)|null|
 |**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684v1](http://arxiv.org/abs/2310.16684v1)|null|
 |**2023-10-25**|**Super-resolution imaging reveals resistance to mass transfer in functionalized stationary phases**|Ricardo Monge Neria et.al.|[2310.16266v1](http://arxiv.org/abs/2310.16266v1)|null|
 |**2023-10-24**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767v1](http://arxiv.org/abs/2310.15767v1)|null|
@@ -636,6 +639,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Blind Image Super-resolution with Rich Texture-Aware Codebooks**|Rui Qin et.al.|[2310.17188v1](http://arxiv.org/abs/2310.17188v1)|null|
 |**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684v1](http://arxiv.org/abs/2310.16684v1)|null|
 |**2023-10-24**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767v1](http://arxiv.org/abs/2310.15767v1)|null|
 |**2023-10-20**|**PTSR: Patch Translator for Image Super-Resolution**|Neeraj Baghel et.al.|[2310.13216v1](http://arxiv.org/abs/2310.13216v1)|null|
@@ -869,6 +873,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution**|Zhewei Huang et.al.|[2310.17294v1](http://arxiv.org/abs/2310.17294v1)|**[link](https://github.com/megvii-research/wacv2024-safa)**|
 |**2023-10-18**|**HSTR-Net: Reference Based Video Super-resolution for Aerial Surveillance with Dual Cameras**|H. Umut Suluhan et.al.|[2310.12092v1](http://arxiv.org/abs/2310.12092v1)|null|
 |**2023-10-17**|**Video Super-Resolution Using a Grouped Residual in Residual Network**|MohammadHossein Ashoori et.al.|[2310.11276v1](http://arxiv.org/abs/2310.11276v1)|null|
 |**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v2](http://arxiv.org/abs/2309.15103v2)|null|
@@ -1012,6 +1017,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models**|Tsun-Hsuan Wang et.al.|[2310.17642v1](http://arxiv.org/abs/2310.17642v1)|null|
+|**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638v1](http://arxiv.org/abs/2310.17638v1)|null|
+|**2023-10-26**|**Simulation-based Inference of Reionization Parameters from 3D Tomographic 21 cm Light-cone Images -- II: Application of Solid Harmonic Wavelet Scattering Transform**|Xiaosheng Zhao et.al.|[2310.17602v1](http://arxiv.org/abs/2310.17602v1)|null|
+|**2023-10-26**|**Gravitational Spin Hall Effect of Dirac Particle and the Weak Equivalence Principle**|Zhen-Lai Wang et.al.|[2310.17581v1](http://arxiv.org/abs/2310.17581v1)|null|
+|**2023-10-26**|**BLIS-Net: Classifying and Analyzing Signals on Graphs**|Charles Xu et.al.|[2310.17579v1](http://arxiv.org/abs/2310.17579v1)|null|
+|**2023-10-26**|**Wave transformations near a coronal magnetic null-point**|Nitin Yadav et.al.|[2310.17573v1](http://arxiv.org/abs/2310.17573v1)|null|
+|**2023-10-26**|**A flow-type scaling limit for random growth with memory**|Amir Dembo et.al.|[2310.17572v1](http://arxiv.org/abs/2310.17572v1)|null|
+|**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu et.al.|[2310.17570v1](http://arxiv.org/abs/2310.17570v1)|null|
+|**2023-10-26**|**Harmonic Berezin transform on half-space with vertical weights**|Jaroslav Bradík et.al.|[2310.17562v1](http://arxiv.org/abs/2310.17562v1)|null|
+|**2023-10-26**|**Dark Energy Survey Year 3 results: simulation-based cosmological inference with wavelet harmonics, scattering transforms, and moments of weak lensing mass maps I: validation on simulations**|M. Gatti et.al.|[2310.17557v1](http://arxiv.org/abs/2310.17557v1)|null|
+|**2023-10-26**|**EqDrive: Efficient Equivariant Motion Forecasting with Multi-Modality for Autonomous Driving**|Yuping Wang et.al.|[2310.17540v1](http://arxiv.org/abs/2310.17540v1)|null|
+|**2023-10-26**|**Decoding The Digital Fukú: Deciphering Colonial Legacies to Critically Assess ChatGPT in Dominican Education**|Anaelia Ovalle et.al.|[2310.17533v1](http://arxiv.org/abs/2310.17533v1)|null|
+|**2023-10-26**|**The Expressive Power of Low-Rank Adaptation**|Yuchen Zeng et.al.|[2310.17513v1](http://arxiv.org/abs/2310.17513v1)|**[link](https://github.com/uw-madison-lee-lab/expressive_power_of_lora)**|
+|**2023-10-26**|**CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents**|Qinlin Zhao et.al.|[2310.17512v1](http://arxiv.org/abs/2310.17512v1)|null|
+|**2023-10-26**|**The IMS Toucan System for the Blizzard Challenge 2023**|Florian Lux et.al.|[2310.17499v1](http://arxiv.org/abs/2310.17499v1)|**[link](https://github.com/digitalphonetics/ims-toucan)**|
+|**2023-10-26**|**Bias in Evaluation Processes: An Optimization-Based Model**|L. Elisa Celis et.al.|[2310.17489v1](http://arxiv.org/abs/2310.17489v1)|**[link](https://github.com/anaymehrotra/bias-in-evaluation-processes)**|
+|**2023-10-26**|**LightLM: A Lightweight Deep and Narrow Language Model for Generative Recommendation**|Kai Mei et.al.|[2310.17488v1](http://arxiv.org/abs/2310.17488v1)|**[link](https://github.com/dongyuanjushi/lightlm)**|
+|**2023-10-26**|**Secure short-term load forecasting for smart grids with transformer-based federated learning**|Jonas Sievers et.al.|[2310.17477v1](http://arxiv.org/abs/2310.17477v1)|null|
+|**2023-10-26**|**A hidden 2d CFT for self-dual Yang-Mills on the celestial sphere**|Wei Bu et.al.|[2310.17457v1](http://arxiv.org/abs/2310.17457v1)|null|
+|**2023-10-26**|**A Marstrand projection theorem for lines**|Shengwen Gan et.al.|[2310.17454v1](http://arxiv.org/abs/2310.17454v1)|null|
+|**2023-10-26**|**Circuit as Set of Points**|Jialv Zou et.al.|[2310.17418v1](http://arxiv.org/abs/2310.17418v1)|**[link](https://github.com/hustvl/circuitformer)**|
+|**2023-10-26**|**Harnessing GPT-3.5-turbo for Rhetorical Role Prediction in Legal Cases**|Anas Belfathi et.al.|[2310.17413v1](http://arxiv.org/abs/2310.17413v1)|null|
+|**2023-10-26**|**Invariance Measures for Neural Networks**|Facundo Manuel Quiroga et.al.|[2310.17404v1](http://arxiv.org/abs/2310.17404v1)|null|
+|**2023-10-26**|**Energy Efficient Robust Beamforming for Vehicular ISAC with Imperfect Channel Estimation**|Hanwen Zhang et.al.|[2310.17401v1](http://arxiv.org/abs/2310.17401v1)|null|
+|**2023-10-26**|**A Risk Management Perspective on Statistical Estimation and Generalized Variational Inference**|Aurya S. Javeed et.al.|[2310.17376v1](http://arxiv.org/abs/2310.17376v1)|null|
+|**2023-10-26**|**SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation**|Haobo Jiang et.al.|[2310.17359v1](http://arxiv.org/abs/2310.17359v1)|null|
+|**2023-10-26**|**Correlators on the Wilson Line Defect CFT**|Giulia Peveri et.al.|[2310.17358v1](http://arxiv.org/abs/2310.17358v1)|null|
+|**2023-10-26**|**A multi-artifact EEG denoising by frequency-based deep learning**|Matteo Gabardi et.al.|[2310.17335v1](http://arxiv.org/abs/2310.17335v1)|null|
+|**2023-10-26**|**Shadow tomography with noisy readouts**|Hai-Chau Nguyen et.al.|[2310.17328v1](http://arxiv.org/abs/2310.17328v1)|null|
+|**2023-10-26**|**An Ensemble Method Based on the Combination of Transformers with Convolutional Neural Networks to Detect Artificially Generated Text**|Vijini Liyanage et.al.|[2310.17312v1](http://arxiv.org/abs/2310.17312v1)|null|
+|**2023-10-26**|**FormaT5: Abstention and Examples for Conditional Table Formatting with Natural Language**|Mukul Singh et.al.|[2310.17306v1](http://arxiv.org/abs/2310.17306v1)|null|
+|**2023-10-26**|**Boolean Abstractions for Realizability Modulo Theories (Extended version)**|Andoni Rodriguez et.al.|[2310.17292v1](http://arxiv.org/abs/2310.17292v1)|null|
+|**2023-10-26**|**Learning to Abstract with Nonparametric Variational Information Bottleneck**|Melika Behjati et.al.|[2310.17284v1](http://arxiv.org/abs/2310.17284v1)|null|
+|**2023-10-26**|**Wave fronts and caustics in the tropical plane**|Grigory Mikhalkin et.al.|[2310.17269v1](http://arxiv.org/abs/2310.17269v1)|null|
+|**2023-10-26**|**Socially Beneficial Metaverse: Framework, Technologies, Applications, and Challenges**|Xiaolong Xu et.al.|[2310.17260v1](http://arxiv.org/abs/2310.17260v1)|null|
+|**2023-10-26**|**Generalizing to Unseen Domains in Diabetic Retinopathy Classification**|Chamuditha Jayanga Galappaththige et.al.|[2310.17255v1](http://arxiv.org/abs/2310.17255v1)|**[link](https://github.com/chumsy0725/spsd-vit)**|
+|**2023-10-26**|**Codebook Features: Sparse and Discrete Interpretability for Neural Networks**|Alex Tamkin et.al.|[2310.17230v1](http://arxiv.org/abs/2310.17230v1)|**[link](https://github.com/taufeeque9/codebook-features)**|
+|**2023-10-26**|**TST $^\mathrm{R}$ : Target Similarity Tuning Meets the Real World**|Anirudh Khatry et.al.|[2310.17228v1](http://arxiv.org/abs/2310.17228v1)|null|
+|**2023-10-26**|**Validating Digital Traces with Survey Data: The Use Case of Religiosity**|M. Fuat Kına et.al.|[2310.17220v1](http://arxiv.org/abs/2310.17220v1)|null|
+|**2023-10-26**|**miditok: A Python package for MIDI file tokenization**|Nathan Fradet et.al.|[2310.17202v1](http://arxiv.org/abs/2310.17202v1)|**[link](https://github.com/Natooz/MidiTok)**|
+|**2023-10-26**|**Privacy-preserving Representation Learning for Speech Understanding**|Minh Tran et.al.|[2310.17194v1](http://arxiv.org/abs/2310.17194v1)|null|
+|**2023-10-26**|**Multi-level Gated Bayesian Recurrent Neural Network for State Estimation**|Shi Yan et.al.|[2310.17187v1](http://arxiv.org/abs/2310.17187v1)|null|
+|**2023-10-26**|**Understanding the Effects of Projectors in Knowledge Distillation**|Yudong Chen et.al.|[2310.17183v1](http://arxiv.org/abs/2310.17183v1)|**[link](https://github.com/chenyd7/pefd)**|
+|**2023-10-26**|**Graphical Object-Centric Actor-Critic**|Leonid Ugadiarov et.al.|[2310.17178v1](http://arxiv.org/abs/2310.17178v1)|null|
+|**2023-10-26**|**Bridging The Gaps Between Token Pruning and Full Pre-training via Masked Fine-tuning**|Fengyuan Shi et.al.|[2310.17177v1](http://arxiv.org/abs/2310.17177v1)|null|
+|**2023-10-26**|**Integrating Subsystem Embedding Subalgebras and Coupled Cluster Green's Function: A Theoretical Foundation for Quantum Embedding in Excitation Manifold**|Bo Peng et.al.|[2310.17172v1](http://arxiv.org/abs/2310.17172v1)|null|
+|**2023-10-26**|**MO-YOLO: End-to-End Multiple-Object Tracking Method with YOLO and MOTR**|Liao Pan et.al.|[2310.17170v1](http://arxiv.org/abs/2310.17170v1)|null|
+|**2023-10-26**|**Content-based Controls For Music Large Language Modeling**|Liwei Lin et.al.|[2310.17162v1](http://arxiv.org/abs/2310.17162v1)|null|
+|**2023-10-26**|**Generating a 4-photon Tetrahedron State: Towards Simultaneous Super-sensitivity to Non-commuting Rotations**|Hugo Ferretti et.al.|[2310.17150v1](http://arxiv.org/abs/2310.17150v1)|null|
+|**2023-10-26**|**Single channel speech enhancement by colored spectrograms**|Sania Gul et.al.|[2310.17142v1](http://arxiv.org/abs/2310.17142v1)|null|
 |**2023-10-25**|**LLM-FP4: 4-Bit Floating-Point Quantized Transformers**|Shih-yang Liu et.al.|[2310.16836v1](http://arxiv.org/abs/2310.16836v1)|**[link](https://github.com/nbasyl/llm-fp4)**|
 |**2023-10-25**|**Proposal-Contrastive Pretraining for Object Detection from Fewer Data**|Quentin Bouniot et.al.|[2310.16835v1](http://arxiv.org/abs/2310.16835v1)|null|
 |**2023-10-25**|**From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction**|Nima Shoghi et.al.|[2310.16802v1](http://arxiv.org/abs/2310.16802v1)|null|
