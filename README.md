@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Deep Learning Enables Large Depth-of-Field Images for Sub-Diffraction-Limit Scanning Superlens Microscopy**|Hui Sun et.al.|[2310.17997v1](http://arxiv.org/abs/2310.17997v1)|null|
+|**2023-10-27**|**SCAN-MUSIC: An Efficient Super-resolution Algorithm for Single Snapshot Wide-band Line Spectral Estimation**|Zetao Fei et.al.|[2310.17988v1](http://arxiv.org/abs/2310.17988v1)|null|
+|**2023-10-26**|**BERT-PIN: A BERT-based Framework for Recovering Missing Data Segments in Time-series Load Profiles**|Yi Hu et.al.|[2310.17742v1](http://arxiv.org/abs/2310.17742v1)|null|
 |**2023-10-26**|**Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution**|Zhewei Huang et.al.|[2310.17294v1](http://arxiv.org/abs/2310.17294v1)|**[link](https://github.com/megvii-research/wacv2024-safa)**|
 |**2023-10-26**|**Blind Image Super-resolution with Rich Texture-Aware Codebooks**|Rui Qin et.al.|[2310.17188v1](http://arxiv.org/abs/2310.17188v1)|null|
 |**2023-10-25**|**Single-pixel imaging based on deep learning**|Kai Song et.al.|[2310.16869v1](http://arxiv.org/abs/2310.16869v1)|null|
@@ -1017,6 +1020,51 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**FP8-LM: Training FP8 Large Language Models**|Houwen Peng et.al.|[2310.18313v1](http://arxiv.org/abs/2310.18313v1)|**[link](https://github.com/azure/ms-amp)**|
+|**2023-10-27**|**FLPR Model: Supervariable approach and a model for Hodge theory**|Ansha S. Nair et.al.|[2310.18295v1](http://arxiv.org/abs/2310.18295v1)|null|
+|**2023-10-27**|**Heterogeneous Federated Learning with Group-Aware Prompt Tuning**|Wenlong Deng et.al.|[2310.18285v1](http://arxiv.org/abs/2310.18285v1)|null|
+|**2023-10-27**|**Origin of flat bands and non-trivial topology in coupled kagome lattices**|Anumita Bose et.al.|[2310.18276v1](http://arxiv.org/abs/2310.18276v1)|null|
+|**2023-10-27**|**Moments for Perceptive Narration Analysis Through the Emotional Attachment of Audience to Discourse and Story**|Gary Bruins et.al.|[2310.18273v1](http://arxiv.org/abs/2310.18273v1)|null|
+|**2023-10-27**|**A Gauge-Invariant Massive 2-form Model and its Quantization**|Kumar Abhinav et.al.|[2310.18272v1](http://arxiv.org/abs/2310.18272v1)|null|
+|**2023-10-27**|**Deep Transformed Gaussian Processes**|Sáez-Maldonado Francisco Javier et.al.|[2310.18230v1](http://arxiv.org/abs/2310.18230v1)|null|
+|**2023-10-27**|**Revising with a Backward Glance: Regressions and Skips during Reading as Cognitive Signals for Revision Policies in Incremental Processing**|Brielen Madureira et.al.|[2310.18229v1](http://arxiv.org/abs/2310.18229v1)|**[link](https://github.com/briemadu/revreg)**|
+|**2023-10-27**|**First-principles molecular quantum electrodynamics theory at all coupling strengths**|Xinyang Li et.al.|[2310.18228v1](http://arxiv.org/abs/2310.18228v1)|null|
+|**2023-10-27**|**3D atomic structure from a single XFEL pulse**|G. Bortel et.al.|[2310.18203v1](http://arxiv.org/abs/2310.18203v1)|null|
+|**2023-10-27**|**Artifact-Robust Graph-Based Learning in Digital Pathology**|Saba Heidari Gheshlaghi et.al.|[2310.18192v1](http://arxiv.org/abs/2310.18192v1)|null|
+|**2023-10-27**|**Time evolution of entanglement entropy after quenches in two-dimensional free fermion systems: a dimensional reduction treatment**|Shion Yamashika et.al.|[2310.18160v1](http://arxiv.org/abs/2310.18160v1)|null|
+|**2023-10-27**|**Superconductivity in Luttinger semimetals near the SU(4) limit**|Majid Kheirkhah et.al.|[2310.18157v1](http://arxiv.org/abs/2310.18157v1)|null|
+|**2023-10-27**|**Improving Intrinsic Exploration by Creating Stationary Objectives**|Roger Creus Castanyer et.al.|[2310.18144v1](http://arxiv.org/abs/2310.18144v1)|null|
+|**2023-10-27**|**Extra Time Dimension: Deriving Five-Dimensional Relativistic Space-Time Transformations, Kinematics, and Time-Dependent Non-Relativistic Quantum Mechanics Compactification**|Sajjad Zahir et.al.|[2310.18120v1](http://arxiv.org/abs/2310.18120v1)|null|
+|**2023-10-27**|**Supporting Better Insights of Data Science Pipelines with Fine-grained Provenance**|Adriane Chapman et.al.|[2310.18079v1](http://arxiv.org/abs/2310.18079v1)|null|
+|**2023-10-27**|**New Fast Transform for Orthogonal Frequency Division Multiplexing**|Said Boussakta et.al.|[2310.18064v1](http://arxiv.org/abs/2310.18064v1)|null|
+|**2023-10-27**|**ViCLEVR: A Visual Reasoning Dataset and Hybrid Multimodal Fusion Model for Visual Question Answering in Vietnamese**|Khiem Vinh Tran et.al.|[2310.18046v1](http://arxiv.org/abs/2310.18046v1)|**[link](https://github.com/kvt0012/viclevr)**|
+|**2023-10-27**|**Negativity-preserving transforms of tuples of symmetric matrices**|Alexander Belton et.al.|[2310.18041v1](http://arxiv.org/abs/2310.18041v1)|null|
+|**2023-10-27**|**A contribution to the mathematical theory of diffraction. Part II: Recovering the far-field asymptotics of the quarter-plane problem**|Raphael C. Assier et.al.|[2310.18031v1](http://arxiv.org/abs/2310.18031v1)|null|
+|**2023-10-27**|**Symmetry-Based Quantum Circuit Mapping**|Di Yu et.al.|[2310.18026v1](http://arxiv.org/abs/2310.18026v1)|null|
+|**2023-10-27**|**SentMix-3L: A Bangla-English-Hindi Code-Mixed Dataset for Sentiment Analysis**|Md Nishat Raihan et.al.|[2310.18023v1](http://arxiv.org/abs/2310.18023v1)|null|
+|**2023-10-27**|**Matrix positivity preservers in fixed dimension. II: positive definiteness and strict monotonicity of Schur function ratios**|Alexander Belton et.al.|[2310.18020v1](http://arxiv.org/abs/2310.18020v1)|null|
+|**2023-10-27**|**Deep Learning Enables Large Depth-of-Field Images for Sub-Diffraction-Limit Scanning Superlens Microscopy**|Hui Sun et.al.|[2310.17997v1](http://arxiv.org/abs/2310.17997v1)|null|
+|**2023-10-27**|**Sketching and Streaming for Dictionary Compression**|Ruben Becker et.al.|[2310.17980v1](http://arxiv.org/abs/2310.17980v1)|null|
+|**2023-10-27**|**FaultSeg Swin-UNETR: Transformer-Based Self-Supervised Pretraining Model for Fault Recognition**|Zeren Zhang et.al.|[2310.17974v1](http://arxiv.org/abs/2310.17974v1)|null|
+|**2023-10-27**|**Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare**|Junling Liu et.al.|[2310.17956v1](http://arxiv.org/abs/2310.17956v1)|**[link](https://github.com/williamliujl/qilin-med-vl)**|
+|**2023-10-27**|**Transformers as Graph-to-Graph Models**|James Henderson et.al.|[2310.17936v1](http://arxiv.org/abs/2310.17936v1)|**[link](https://github.com/idiap/g2g-transformer)**|
+|**2023-10-27**|**Estimating quantile treatment effect on the original scale of the outcome variable: a case study of common cold treatments**|Harri Hemilä et.al.|[2310.17917v1](http://arxiv.org/abs/2310.17917v1)|null|
+|**2023-10-27**|**DocStormer: Revitalizing Multi-Degraded Colored Document Images to Pristine PDF**|Chaowei Liu et.al.|[2310.17910v1](http://arxiv.org/abs/2310.17910v1)|null|
+|**2023-10-27**|**The Innovation-to-Occupations Ontology: Linking Business Transformation Initiatives to Occupations and Skills**|Daniela Elia et.al.|[2310.17909v1](http://arxiv.org/abs/2310.17909v1)|null|
+|**2023-10-27**|**Event Generation and Consistence Test for Physics with Sliced Wasserstein Distance**|Chu-Cheng Pan et.al.|[2310.17897v1](http://arxiv.org/abs/2310.17897v1)|null|
+|**2023-10-27**|**User Association and Resource Allocation in Large Language Model Based Mobile Edge Computing System over Wireless Communications**|Liangxin Qian et.al.|[2310.17872v1](http://arxiv.org/abs/2310.17872v1)|null|
+|**2023-10-27**|**Boosting Data Analytics With Synthetic Volume Expansion**|Xiaotong Shen et.al.|[2310.17848v1](http://arxiv.org/abs/2310.17848v1)|null|
+|**2023-10-27**|**A Unified and Optimal Multiple Testing Framework based on rho-values**|Bowen Gang et.al.|[2310.17845v1](http://arxiv.org/abs/2310.17845v1)|null|
+|**2023-10-27**|**A Data-Centric Online Market for Machine Learning: From Discovery to Pricing**|Minbiao Han et.al.|[2310.17843v1](http://arxiv.org/abs/2310.17843v1)|null|
+|**2023-10-27**|**What You See Is What You Detect: Towards better Object Densification in 3D detection**|Tianran Liu et.al.|[2310.17842v1](http://arxiv.org/abs/2310.17842v1)|**[link](https://github.com/orbis36/wysiwyd)**|
+|**2023-10-27**|**Positional Encoding-based Resident Identification in Multi-resident Smart Homes**|Zhiyi Song et.al.|[2310.17836v1](http://arxiv.org/abs/2310.17836v1)|null|
+|**2023-10-26**|**DIVI: Dynamically Interactive Visualization**|Luke S. Snyder et.al.|[2310.17814v1](http://arxiv.org/abs/2310.17814v1)|null|
+|**2023-10-26**|**Probabilistic Multi-product Trading in Sequential Intraday and Frequency-Regulation Markets**|Saeed Nordin et.al.|[2310.17799v1](http://arxiv.org/abs/2310.17799v1)|null|
+|**2023-10-26**|**AutoCT: Automated CT registration, segmentation, and quantification**|Zhe Bai et.al.|[2310.17780v1](http://arxiv.org/abs/2310.17780v1)|null|
+|**2023-10-26**|**PockEngine: Sparse and Efficient Fine-tuning in a Pocket**|Ligeng Zhu et.al.|[2310.17752v1](http://arxiv.org/abs/2310.17752v1)|null|
+|**2023-10-26**|**BERT-PIN: A BERT-based Framework for Recovering Missing Data Segments in Time-series Load Profiles**|Yi Hu et.al.|[2310.17742v1](http://arxiv.org/abs/2310.17742v1)|null|
+|**2023-10-26**|**Measuring Topological Field Theories: Lattice Models and Field-Theoretic Description**|Yabo Li et.al.|[2310.17740v1](http://arxiv.org/abs/2310.17740v1)|null|
+|**2023-10-26**|**ZeroQuant-HERO: Hardware-Enhanced Robust Optimized Post-Training Quantization Framework for W8A8 Transformers**|Zhewei Yao et.al.|[2310.17723v1](http://arxiv.org/abs/2310.17723v1)|null|
 |**2023-10-26**|**Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models**|Tsun-Hsuan Wang et.al.|[2310.17642v1](http://arxiv.org/abs/2310.17642v1)|null|
 |**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638v1](http://arxiv.org/abs/2310.17638v1)|null|
 |**2023-10-26**|**Simulation-based Inference of Reionization Parameters from 3D Tomographic 21 cm Light-cone Images -- II: Application of Solid Harmonic Wavelet Scattering Transform**|Xiaosheng Zhao et.al.|[2310.17602v1](http://arxiv.org/abs/2310.17602v1)|**[link](https://github.com/xiaosheng-zhao/21cmdelfi)**|
