@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**A Colour-Encoded Nanometric Ruler for Axial Super-Resolution Microscopies**|Ilya Olevsko et.al.|[2311.00590v1](http://arxiv.org/abs/2311.00590v1)|null|
 |**2023-10-31**|**High-Resolution Reference Image Assisted Volumetric Super-Resolution of Cardiac Diffusion Weighted Imaging**|Yinzhe Wu et.al.|[2310.20389v1](http://arxiv.org/abs/2310.20389v1)|null|
 |**2023-10-31**|**An Implementation of Multimodal Fusion System for Intelligent Digital Human Generation**|Yingjie Zhou et.al.|[2310.20251v1](http://arxiv.org/abs/2310.20251v1)|null|
 |**2023-10-30**|**IterInv: Iterative Inversion for Pixel-Level T2I Models**|Chuanming Tang et.al.|[2310.19540v1](http://arxiv.org/abs/2310.19540v1)|null|
@@ -1028,6 +1029,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**Dark Matter in A Mirror Solution to the Strong CP Problem**|Quentin Bonnefoy et.al.|[2311.00702v1](http://arxiv.org/abs/2311.00702v1)|null|
+|**2023-11-01**|**Attention Alignment and Flexible Positional Embeddings Improve Transformer Length Extrapolation**|Ta-Chung Chi et.al.|[2311.00684v1](http://arxiv.org/abs/2311.00684v1)|null|
+|**2023-11-01**|**Components of curvature-squared invariants of minimal supergravity in five dimensions**|Gregory Gold et.al.|[2311.00679v1](http://arxiv.org/abs/2311.00679v1)|null|
+|**2023-11-01**|**Surface Geometry of Some Meaningful Extreme Kerr-Newman Black Holes**|Giorgio Sonnino et.al.|[2311.00665v1](http://arxiv.org/abs/2311.00665v1)|null|
+|**2023-11-01**|**Latent Space Translation via Semantic Alignment**|Valentino Maiorca et.al.|[2311.00664v1](http://arxiv.org/abs/2311.00664v1)|**[link](https://github.com/flegyas/latent-translation)**|
+|**2023-11-01**|**Variational Gaussian Processes For Linear Inverse Problems**|Thibault Randrianarisoa et.al.|[2311.00663v1](http://arxiv.org/abs/2311.00663v1)|null|
+|**2023-11-01**|**Propagation of light and retarded time of radiation in a strong gravitational wave**|Konstantin E. Osetrin et.al.|[2311.00659v1](http://arxiv.org/abs/2311.00659v1)|null|
+|**2023-11-01**|**Online Signal Estimation on the Graph Edges via Line Graph Transformation**|Yi Yan et.al.|[2311.00656v1](http://arxiv.org/abs/2311.00656v1)|null|
+|**2023-11-01**|**Kronecker-Factored Approximate Curvature for Modern Neural Network Architectures**|Runa Eschenhagen et.al.|[2311.00636v1](http://arxiv.org/abs/2311.00636v1)|null|
+|**2023-11-01**|**Formal Translation from Reversing Petri Nets to Coloured Petri Nets**|Kamila Barylska et.al.|[2311.00629v1](http://arxiv.org/abs/2311.00629v1)|null|
+|**2023-11-01**|**Eigenfunctions of the Laplacian satisfying Hardy-type estimates on homogeneous trees**|Sumit Kumar Rano et.al.|[2311.00623v1](http://arxiv.org/abs/2311.00623v1)|null|
+|**2023-11-01**|**De-Diffusion Makes Text a Strong Cross-Modal Interface**|Chen Wei et.al.|[2311.00618v1](http://arxiv.org/abs/2311.00618v1)|null|
+|**2023-11-01**|**Regularized Shannon sampling formulas related to the special affine Fourier transform**|Frank Filbir et.al.|[2311.00610v1](http://arxiv.org/abs/2311.00610v1)|null|
+|**2023-11-01**|**Spacetime is Right-handed**|Peter Woit et.al.|[2311.00608v1](http://arxiv.org/abs/2311.00608v1)|null|
+|**2023-11-01**|**Boosting Summarization with Normalizing Flows and Aggressive Training**|Yu Yang et.al.|[2311.00588v1](http://arxiv.org/abs/2311.00588v1)|**[link](https://github.com/yuyangstat/flowsum)**|
+|**2023-11-01**|**PAUMER: Patch Pausing Transformer for Semantic Segmentation**|Evann Courdier et.al.|[2311.00586v1](http://arxiv.org/abs/2311.00586v1)|null|
+|**2023-11-01**|**Fourier transforms and iterated function systems**|Tuomas Sahlsten et.al.|[2311.00585v1](http://arxiv.org/abs/2311.00585v1)|null|
+|**2023-11-01**|**Flexible Tails for Normalising Flows, with Application to the Modelling of Financial Return Data**|Tennessee Hickling et.al.|[2311.00580v1](http://arxiv.org/abs/2311.00580v1)|null|
+|**2023-11-01**|**Detecting Visual Cues in the Intensive Care Unit and Association with Patient Clinical Status**|Subhash Nerella et.al.|[2311.00565v1](http://arxiv.org/abs/2311.00565v1)|null|
+|**2023-11-01**|**Polynomial Chaos Surrogate Construction for Random Fields with Parametric Uncertainty**|Joy N. Mueller et.al.|[2311.00553v1](http://arxiv.org/abs/2311.00553v1)|null|
+|**2023-11-01**|**Tackling the Abstraction and Reasoning Corpus (ARC) with Object-centric Models and the MDL Principle**|Sébastien Ferré et.al.|[2311.00545v1](http://arxiv.org/abs/2311.00545v1)|null|
+|**2023-11-01**|**The Development of LLMs for Embodied Navigation**|Jinzhou Lin et.al.|[2311.00530v1](http://arxiv.org/abs/2311.00530v1)|null|
+|**2023-11-01**|**See SIFT in a Rain**|Wei Wu et.al.|[2311.00518v1](http://arxiv.org/abs/2311.00518v1)|null|
+|**2023-11-01**|**Efficient LLM Inference on CPUs**|Haihao Shen et.al.|[2311.00502v1](http://arxiv.org/abs/2311.00502v1)|**[link](https://github.com/intel/intel-extension-for-transformers)**|
+|**2023-11-01**|**Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model**|Xuan Liu et.al.|[2311.00496v1](http://arxiv.org/abs/2311.00496v1)|null|
+|**2023-11-01**|**Improving Robustness for Vision Transformer with a Simple Dynamic Scanning Augmentation**|Shashank Kotyan et.al.|[2311.00441v1](http://arxiv.org/abs/2311.00441v1)|null|
+|**2023-11-01**|**Crop Disease Classification using Support Vector Machines with Green Chromatic Coordinate (GCC) and Attention based feature extraction for IoT based Smart Agricultural Applications**|Shashwat Jha et.al.|[2311.00429v1](http://arxiv.org/abs/2311.00429v1)|null|
+|**2023-11-01**|**Polyander visualization of quantum walks**|Steven Duplij et.al.|[2311.00409v1](http://arxiv.org/abs/2311.00409v1)|null|
+|**2023-11-01**|**Black Hole in Discrete Gravity**|Ali H. Chamseddine et.al.|[2311.00406v1](http://arxiv.org/abs/2311.00406v1)|null|
+|**2023-11-01**|**A Spatial-Temporal Transformer based Framework For Human Pose Assessment And Correction in Education Scenarios**|Wenyang Hu et.al.|[2311.00401v1](http://arxiv.org/abs/2311.00401v1)|null|
+|**2023-11-01**|**Towards Omni-supervised Referring Expression Segmentation**|Minglang Huang et.al.|[2311.00397v1](http://arxiv.org/abs/2311.00397v1)|null|
+|**2023-11-01**|**Direct System Identification of Dynamical Networks with Partial Measurements: a Maximum Likelihood Approach**|João Victor Galvão da Mata et.al.|[2311.00369v1](http://arxiv.org/abs/2311.00369v1)|null|
+|**2023-11-01**|**fMRI-PTE: A Large-scale fMRI Pretrained Transformer Encoder for Multi-Subject Brain Activity Decoding**|Xuelin Qian et.al.|[2311.00342v1](http://arxiv.org/abs/2311.00342v1)|null|
+|**2023-11-01**|**Space Narrative: Generating Images and 3D Scenes of Chinese Garden from Text using Deep Learning**|Jiaxi Shi1 et.al.|[2311.00339v1](http://arxiv.org/abs/2311.00339v1)|null|
+|**2023-11-01**|**Semantic Hearing: Programming Acoustic Scenes with Binaural Hearables**|Bandhav Veluri et.al.|[2311.00320v1](http://arxiv.org/abs/2311.00320v1)|null|
+|**2023-11-01**|**Variational non-Bayesian inference of the Probability Density Function in the Wiener Algebra**|U Jin Choi et.al.|[2311.00312v1](http://arxiv.org/abs/2311.00312v1)|null|
+|**2023-11-01**|**Graph Representation Learning for Infrared and Visible Image Fusion**|Jing Li et.al.|[2311.00291v1](http://arxiv.org/abs/2311.00291v1)|null|
+|**2023-11-01**|**JADE: A Linguistic-based Safety Evaluation Platform for LLM**|Mi Zhang et.al.|[2311.00286v1](http://arxiv.org/abs/2311.00286v1)|null|
+|**2023-11-01**|**Model-driven Engineering for Machine Learning Components: A Systematic Literature Review**|Hira Naveed et.al.|[2311.00284v1](http://arxiv.org/abs/2311.00284v1)|null|
+|**2023-11-01**|**RF-Enhanced Road Infrastructure for Intelligent Transportation**|Dajiang Suo et.al.|[2311.00280v1](http://arxiv.org/abs/2311.00280v1)|null|
+|**2023-11-01**|**Syntactic Inductive Bias in Transformer Language Models: Especially Helpful for Low-Resource Languages?**|Luke Gessler et.al.|[2311.00268v1](http://arxiv.org/abs/2311.00268v1)|null|
+|**2023-11-01**|**Rethinking Decision Transformer via Hierarchical Reinforcement Learning**|Yi Ma et.al.|[2311.00267v1](http://arxiv.org/abs/2311.00267v1)|null|
+|**2023-11-01**|**Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study**|Jonghun Kim et.al.|[2311.00265v1](http://arxiv.org/abs/2311.00265v1)|**[link](https://github.com/jongdory/aldm)**|
+|**2023-11-01**|**1DFormer: Learning 1D Landmark Representations via Transformer for Facial Landmark Tracking**|Shi Yin et.al.|[2311.00241v1](http://arxiv.org/abs/2311.00241v1)|null|
+|**2023-11-01**|**Transformers are Efficient In-Context Estimators for Wireless Communication**|Vicram Rajagopalan et.al.|[2311.00226v1](http://arxiv.org/abs/2311.00226v1)|null|
+|**2023-11-01**|**Domain decomposition-based coupling of physics-informed neural networks via the Schwarz alternating method**|Will Snyder et.al.|[2311.00224v1](http://arxiv.org/abs/2311.00224v1)|null|
+|**2023-11-01**|**WinNet:time series forecasting with a window-enhanced period extracting and interacting**|Wenjie Ou et.al.|[2311.00214v1](http://arxiv.org/abs/2311.00214v1)|null|
+|**2023-11-01**|**Transformers as Recognizers of Formal Languages: A Survey on Expressivity**|Lena Strobl et.al.|[2311.00208v1](http://arxiv.org/abs/2311.00208v1)|null|
+|**2023-10-31**|**Object-centric Video Representation for Long-term Action Anticipation**|Ce Zhang et.al.|[2311.00180v1](http://arxiv.org/abs/2311.00180v1)|**[link](https://github.com/brown-palm/objectprompt)**|
+|**2023-10-31**|**General covariance for quantum states over time**|James Fullwood et.al.|[2311.00162v1](http://arxiv.org/abs/2311.00162v1)|null|
 |**2023-10-31**|**Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders**|Srijan Das et.al.|[2310.20704v1](http://arxiv.org/abs/2310.20704v1)|null|
 |**2023-10-31**|**A simple range characterization for spherical mean transform in odd dimensions and its applications**|Divyansh Agrawal et.al.|[2310.20702v1](http://arxiv.org/abs/2310.20702v1)|null|
 |**2023-10-31**|**Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving**|Luca Cultrera et.al.|[2310.20650v1](http://arxiv.org/abs/2310.20650v1)|null|
