@@ -23,6 +23,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Exploring Deep Learning Image Super-Resolution for Iris Recognition**|Eduardo Ribeiro et.al.|[2311.01241v1](http://arxiv.org/abs/2311.01241v1)|null|
+|**2023-11-02**|**Optimal Transport-Guided Conditional Score-Based Diffusion Models**|Xiang Gu et.al.|[2311.01226v1](http://arxiv.org/abs/2311.01226v1)|**[link](https://github.com/xjtu-xgu/otcs)**|
+|**2023-11-02**|**Convergent plug-and-play with proximal denoiser and unconstrained regularization parameter**|Samuel Hurault et.al.|[2311.01216v1](http://arxiv.org/abs/2311.01216v1)|null|
+|**2023-11-02**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996v1](http://arxiv.org/abs/2311.00996v1)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
+|**2023-11-02**|**Lightweight super resolution network for point cloud geometry compression**|Wei Zhang et.al.|[2311.00970v1](http://arxiv.org/abs/2311.00970v1)|**[link](https://github.com/lidq92/lsrn-pcgc)**|
 |**2023-11-01**|**A Colour-Encoded Nanometric Ruler for Axial Super-Resolution Microscopies**|Ilya Olevsko et.al.|[2311.00590v1](http://arxiv.org/abs/2311.00590v1)|null|
 |**2023-10-31**|**High-Resolution Reference Image Assisted Volumetric Super-Resolution of Cardiac Diffusion Weighted Imaging**|Yinzhe Wu et.al.|[2310.20389v1](http://arxiv.org/abs/2310.20389v1)|null|
 |**2023-10-31**|**An Implementation of Multimodal Fusion System for Intelligent Digital Human Generation**|Yingjie Zhou et.al.|[2310.20251v1](http://arxiv.org/abs/2310.20251v1)|null|
@@ -649,6 +654,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Exploring Deep Learning Image Super-Resolution for Iris Recognition**|Eduardo Ribeiro et.al.|[2311.01241v1](http://arxiv.org/abs/2311.01241v1)|null|
+|**2023-11-02**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996v1](http://arxiv.org/abs/2311.00996v1)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
 |**2023-10-30**|**EDiffSR: An Efficient Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2310.19288v1](http://arxiv.org/abs/2310.19288v1)|**[link](https://github.com/xy-boy/ediffsr)**|
 |**2023-10-29**|**Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction**|Zeshuai Deng et.al.|[2310.19011v1](http://arxiv.org/abs/2310.19011v1)|**[link](https://github.com/dengzeshuai/srtta)**|
 |**2023-10-26**|**Blind Image Super-resolution with Rich Texture-Aware Codebooks**|Rui Qin et.al.|[2310.17188v1](http://arxiv.org/abs/2310.17188v1)|null|
@@ -885,6 +892,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996v1](http://arxiv.org/abs/2311.00996v1)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
 |**2023-10-26**|**Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution**|Zhewei Huang et.al.|[2310.17294v1](http://arxiv.org/abs/2310.17294v1)|**[link](https://github.com/megvii-research/wacv2024-safa)**|
 |**2023-10-18**|**HSTR-Net: Reference Based Video Super-resolution for Aerial Surveillance with Dual Cameras**|H. Umut Suluhan et.al.|[2310.12092v1](http://arxiv.org/abs/2310.12092v1)|null|
 |**2023-10-17**|**Video Super-Resolution Using a Grouped Residual in Residual Network**|MohammadHossein Ashoori et.al.|[2310.11276v1](http://arxiv.org/abs/2310.11276v1)|null|
@@ -1029,6 +1037,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Deep Double Descent for Time Series Forecasting: Avoiding Undertrained Models**|Valentino Assandri et.al.|[2311.01442v1](http://arxiv.org/abs/2311.01442v1)|null|
+|**2023-11-02**|**Contrastive Moments: Unsupervised Halfspace Learning in Polynomial Time**|Xinyuan Cao et.al.|[2311.01435v1](http://arxiv.org/abs/2311.01435v1)|null|
+|**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432v1](http://arxiv.org/abs/2311.01432v1)|null|
+|**2023-11-02**|**Efficient Vision Transformer for Accurate Traffic Sign Detection**|Javad Mirzapour Kaleybar et.al.|[2311.01429v1](http://arxiv.org/abs/2311.01429v1)|null|
+|**2023-11-02**|**High-Spectral Resolution Dark Holes: Concept, Results, and Promise**|William Thompson et.al.|[2311.01421v1](http://arxiv.org/abs/2311.01421v1)|null|
+|**2023-11-02**|**Securing Wireless Communication in Critical Infrastructure: Challenges and Opportunities**|Jörn Bodenhausen et.al.|[2311.01338v1](http://arxiv.org/abs/2311.01338v1)|null|
+|**2023-11-02**|**Look at Robot Base Once: Hand-Eye Calibration with Point Clouds of Robot Base Leveraging Learning-Based 3D Vision**|Leihui Li et.al.|[2311.01335v1](http://arxiv.org/abs/2311.01335v1)|null|
+|**2023-11-02**|**Better Together: Enhancing Generative Knowledge Graph Completion with Language Models and Neighborhood Information**|Alla Chepurova et.al.|[2311.01326v1](http://arxiv.org/abs/2311.01326v1)|null|
+|**2023-11-02**|**Recommendations by Concise User Profiles from Review Text**|Ghazaleh Haratinezhad Torbati et.al.|[2311.01314v1](http://arxiv.org/abs/2311.01314v1)|null|
+|**2023-11-02**|**Scattering Vision Transformer: Spectral Mixing Matters**|Badri N. Patro et.al.|[2311.01310v1](http://arxiv.org/abs/2311.01310v1)|null|
+|**2023-11-02**|**Hybrid-Fusion Transformer for Multisequence MRI**|Jihoon Cho et.al.|[2311.01308v1](http://arxiv.org/abs/2311.01308v1)|null|
+|**2023-11-02**|**Petrification: Software Model Checking for Programs with Dynamic Thread Management (Extended Version)**|Matthias Heizmann et.al.|[2311.01302v1](http://arxiv.org/abs/2311.01302v1)|null|
+|**2023-11-02**|**DP-Mix: Mixup-based Data Augmentation for Differentially Private Learning**|Wenxuan Bao et.al.|[2311.01295v1](http://arxiv.org/abs/2311.01295v1)|**[link](https://github.com/wenxuan-bao/dp-mix)**|
+|**2023-11-02**|**Needlet Karhunen-Loève (NKL): A Method For Cleaning Foregrounds From 21cm Intensity Maps**|John Podczerwinski et.al.|[2311.01290v1](http://arxiv.org/abs/2311.01290v1)|null|
+|**2023-11-02**|**Distilling Knowledge from CNN-Transformer Models for Enhanced Human Action Recognition**|Hamid Ahmadabadi et.al.|[2311.01283v1](http://arxiv.org/abs/2311.01283v1)|null|
+|**2023-11-02**|**Classification of measurable functions of several variables and matrix distributions**|A. Vershik et.al.|[2311.01281v1](http://arxiv.org/abs/2311.01281v1)|null|
+|**2023-11-02**|**Biases from spectral leakage in remote sensing of near-surface currents**|Stefan Weichert et.al.|[2311.01265v1](http://arxiv.org/abs/2311.01265v1)|null|
+|**2023-11-02**|**Efficient Neural Ranking using Forward Indexes and Lightweight Encoders**|Jurek Leonhardt et.al.|[2311.01263v1](http://arxiv.org/abs/2311.01263v1)|null|
+|**2023-11-02**|**Expressive TTS Driven by Natural Language Prompts Using Few Human Annotations**|Hanglei Zhang et.al.|[2311.01260v1](http://arxiv.org/abs/2311.01260v1)|null|
+|**2023-11-02**|**FacadeNet: Conditional Facade Synthesis via Selective Editing**|Yiangos Georgiou et.al.|[2311.01240v1](http://arxiv.org/abs/2311.01240v1)|null|
+|**2023-11-02**|**Third-order relativistic fluid dynamics at finite density in a general hydrodynamic frame**|Saulo M. Diles et.al.|[2311.01232v1](http://arxiv.org/abs/2311.01232v1)|null|
+|**2023-11-02**|**Multi-Operational Mathematical Derivations in Latent Space**|Marco Valentino et.al.|[2311.01230v1](http://arxiv.org/abs/2311.01230v1)|**[link](https://github.com/neuro-symbolic-ai/latent_mathematical_reasoning)**|
+|**2023-11-02**|**Image Reflection on LLEE Charts -- Another Proof for the Completeness of an Axiomatization of 1-Free Regular Expressions Modulo Bisimilarity**|Yuanrui Zhang et.al.|[2311.01222v1](http://arxiv.org/abs/2311.01222v1)|null|
+|**2023-11-02**|**Multi-view Relation Learning for Cross-domain Few-shot Hyperspectral Image Classification**|Chun Liu et.al.|[2311.01212v1](http://arxiv.org/abs/2311.01212v1)|null|
+|**2023-11-02**|**AiluRus: A Scalable ViT Framework for Dense Prediction**|Jin Li et.al.|[2311.01197v1](http://arxiv.org/abs/2311.01197v1)|**[link](https://github.com/caddyless/ailurus)**|
+|**2023-11-02**|**Trace formulas and inverse spectral theory for generalized indefinite strings**|Jonathan Eckhardt et.al.|[2311.01189v1](http://arxiv.org/abs/2311.01189v1)|null|
+|**2023-11-02**|**Resource-aware Research on Universe and Matter: Call-to-Action in Digital Transformation**|Ben Bruers et.al.|[2311.01169v1](http://arxiv.org/abs/2311.01169v1)|null|
+|**2023-11-02**|**Transformable Super-Isostatic Crystals Self-Assembled from Segment Colloidal Rods**|Ji-Dong Hu et.al.|[2311.01160v1](http://arxiv.org/abs/2311.01160v1)|null|
+|**2023-11-02**|**Auxiliary master equation approach to the Anderson-Holstein impurity problem out of equilibrium**|D. Werner et.al.|[2311.01095v1](http://arxiv.org/abs/2311.01095v1)|null|
+|**2023-11-02**|**Learning A Multi-Task Transformer Via Unified And Customized Instruction Tuning For Chest Radiograph Interpretation**|Lijian Xu et.al.|[2311.01092v1](http://arxiv.org/abs/2311.01092v1)|null|
+|**2023-11-02**|**Enriching Phrases with Coupled Pixel and Object Contexts for Panoptic Narrative Grounding**|Tianrui Hui et.al.|[2311.01091v1](http://arxiv.org/abs/2311.01091v1)|null|
+|**2023-11-02**|**AI-assisted Learning for Electronic Engineering Courses in High Education**|Thanh Nguyen Ngoc et.al.|[2311.01048v1](http://arxiv.org/abs/2311.01048v1)|null|
+|**2023-11-02**|**Mathematical Properties of the Zadoff-Chu Sequences**|David Gregoratti et.al.|[2311.01035v1](http://arxiv.org/abs/2311.01035v1)|null|
+|**2023-11-02**|**Augmentation is AUtO-Net: Augmentation-Driven Contrastive Multiview Learning for Medical Image Segmentation**|Yanming Guo et.al.|[2311.01023v1](http://arxiv.org/abs/2311.01023v1)|null|
+|**2023-11-02**|**Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion**|Lunjun Zhang et.al.|[2311.01017v1](http://arxiv.org/abs/2311.01017v1)|null|
+|**2023-11-02**|**Act As You Wish: Fine-Grained Control of Motion Diffusion Model with Hierarchical Semantic Graphs**|Peng Jin et.al.|[2311.01015v1](http://arxiv.org/abs/2311.01015v1)|**[link](https://github.com/jpthu17/graphmotion)**|
+|**2023-11-02**|**Exploring Unified Perspective For Fast Shapley Value Estimation**|Borui Zhang et.al.|[2311.01010v1](http://arxiv.org/abs/2311.01010v1)|**[link](https://github.com/user-tian/simshap)**|
+|**2023-11-02**|**M&M3D: Multi-Dataset Training and Efficient Network for Multi-view 3D Object Detection**|Hang Zhang et.al.|[2311.00986v1](http://arxiv.org/abs/2311.00986v1)|null|
+|**2023-11-02**|**Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model**|Jaeyong Kang et.al.|[2311.00968v1](http://arxiv.org/abs/2311.00968v1)|**[link](https://github.com/amaai-lab/video2music)**|
+|**2023-11-02**|**Dynamic Fair Federated Learning Based on Reinforcement Learning**|Weikang Chen et.al.|[2311.00959v1](http://arxiv.org/abs/2311.00959v1)|null|
+|**2023-11-02**|**Accelerated Data-Driven Discovery and Screening of Two-Dimensional Magnets Using Graph Neural Networks**|Ahmed Elrashidy et.al.|[2311.00939v1](http://arxiv.org/abs/2311.00939v1)|null|
+|**2023-11-02**|**Towards High-quality HDR Deghosting with Conditional Diffusion Models**|Qingsen Yan et.al.|[2311.00932v1](http://arxiv.org/abs/2311.00932v1)|null|
+|**2023-11-02**|**M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place**|Wentao Yuan et.al.|[2311.00926v1](http://arxiv.org/abs/2311.00926v1)|null|
+|**2023-11-02**|**RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection**|Fengyi Wu et.al.|[2311.00917v1](http://arxiv.org/abs/2311.00917v1)|null|
+|**2023-11-02**|**Two novel vector transports for generalized Stiefel manifold with non-standard metrics and its application to Riemannian conjugate gradient method**|Xuejie Wang et.al.|[2311.00907v1](http://arxiv.org/abs/2311.00907v1)|null|
+|**2023-11-01**|**COSTAR: Improved Temporal Counterfactual Estimation with Self-Supervised Learning**|Chuizheng Meng et.al.|[2311.00886v1](http://arxiv.org/abs/2311.00886v1)|null|
+|**2023-11-01**|**Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models**|Steve Yadlowsky et.al.|[2311.00871v1](http://arxiv.org/abs/2311.00871v1)|null|
+|**2023-11-01**|**EMPOT: partial alignment of density maps and rigid body fitting using unbalanced Gromov-Wasserstein divergence**|Aryan Tajmir Riahi et.al.|[2311.00850v1](http://arxiv.org/abs/2311.00850v1)|null|
+|**2023-11-01**|**Floquet engineering with spatially non-uniform driving fields**|Stella Tallula Schindler et.al.|[2311.00845v1](http://arxiv.org/abs/2311.00845v1)|null|
+|**2023-11-01**|**Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing**|Yanlin Feng et.al.|[2311.00835v1](http://arxiv.org/abs/2311.00835v1)|**[link](https://github.com/yanlinf/casent)**|
 |**2023-11-01**|**Dark Matter in A Mirror Solution to the Strong CP Problem**|Quentin Bonnefoy et.al.|[2311.00702v1](http://arxiv.org/abs/2311.00702v1)|null|
 |**2023-11-01**|**Attention Alignment and Flexible Positional Embeddings Improve Transformer Length Extrapolation**|Ta-Chung Chi et.al.|[2311.00684v1](http://arxiv.org/abs/2311.00684v1)|null|
 |**2023-11-01**|**Components of curvature-squared invariants of minimal supergravity in five dimensions**|Gregory Gold et.al.|[2311.00679v1](http://arxiv.org/abs/2311.00679v1)|null|
@@ -11220,6 +11278,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Infusion: Internal Diffusion for Video Inpainting**|Nicolas Cherel et.al.|[2311.01090v1](http://arxiv.org/abs/2311.01090v1)|null|
 |**2023-10-11**|**Deep Video Inpainting Guided by Audio-Visual Self-Supervision**|Kyuyeon Kim et.al.|[2310.07663v1](http://arxiv.org/abs/2310.07663v1)|**[link](https://github.com/kyuyeonpooh/Audio-Visual-Deep-Video-Inpainting)**|
 |**2023-09-28**|**UVL: A Unified Framework for Video Tampering Localization**|Pengfei Pei et.al.|[2309.16126v1](http://arxiv.org/abs/2309.16126v1)|null|
 |**2023-09-26**|**Bitstream-Corrupted Video Recovery: A Novel Benchmark Dataset and Method**|Tianyi Liu et.al.|[2309.13890v2](http://arxiv.org/abs/2309.13890v2)|**[link](https://github.com/liutighe/bscv-dataset)**|
