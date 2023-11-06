@@ -1056,7 +1056,7 @@
 |**2023-11-02**|**Biases from spectral leakage in remote sensing of near-surface currents**|Stefan Weichert et.al.|[2311.01265v1](http://arxiv.org/abs/2311.01265v1)|null|
 |**2023-11-02**|**Efficient Neural Ranking using Forward Indexes and Lightweight Encoders**|Jurek Leonhardt et.al.|[2311.01263v1](http://arxiv.org/abs/2311.01263v1)|null|
 |**2023-11-02**|**Expressive TTS Driven by Natural Language Prompts Using Few Human Annotations**|Hanglei Zhang et.al.|[2311.01260v1](http://arxiv.org/abs/2311.01260v1)|null|
-|**2023-11-02**|**FacadeNet: Conditional Facade Synthesis via Selective Editing**|Yiangos Georgiou et.al.|[2311.01240v1](http://arxiv.org/abs/2311.01240v1)|null|
+|**2023-11-03**|**FacadeNet: Conditional Facade Synthesis via Selective Editing**|Yiangos Georgiou et.al.|[2311.01240v2](http://arxiv.org/abs/2311.01240v2)|null|
 |**2023-11-02**|**Third-order relativistic fluid dynamics at finite density in a general hydrodynamic frame**|Saulo M. Diles et.al.|[2311.01232v1](http://arxiv.org/abs/2311.01232v1)|null|
 |**2023-11-02**|**Multi-Operational Mathematical Derivations in Latent Space**|Marco Valentino et.al.|[2311.01230v1](http://arxiv.org/abs/2311.01230v1)|**[link](https://github.com/neuro-symbolic-ai/latent_mathematical_reasoning)**|
 |**2023-11-02**|**Image Reflection on LLEE Charts -- Another Proof for the Completeness of an Axiomatization of 1-Free Regular Expressions Modulo Bisimilarity**|Yuanrui Zhang et.al.|[2311.01222v1](http://arxiv.org/abs/2311.01222v1)|null|
