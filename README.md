@@ -11218,7 +11218,7 @@
 |**2023-06-29**|**Guided Deep Generative Model-based Spatial Regularization for Multiband Imaging Inverse Problems**|Min Zhao et.al.|[2306.17197v1](http://arxiv.org/abs/2306.17197v1)|null|
 |**2023-06-28**|**The forward-backward-forward algorithm with extrapolation from the past and penalty scheme for solving monotone inclusion problems and applications**|Buris Tongnoi et.al.|[2306.16592v1](http://arxiv.org/abs/2306.16592v1)|null|
 |**2023-06-21**|**TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting**|Liang Liao et.al.|[2306.11528v2](http://arxiv.org/abs/2306.11528v2)|**[link](https://github.com/cameltr/transref)**|
-|**2023-06-26**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869v2](http://arxiv.org/abs/2306.09869v2)|**[link](https://github.com/energyattention/energy-based-crossattention)**|
+|**2023-11-04**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869v3](http://arxiv.org/abs/2306.09869v3)|**[link](https://github.com/energyattention/energy-based-crossattention)**|
 |**2023-07-08**|**Deep Generative Models for Decision-Making and Control**|Michael Janner et.al.|[2306.08810v2](http://arxiv.org/abs/2306.08810v2)|null|
 |**2023-06-13**|**Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**|Ricong Huang et.al.|[2306.07579v1](http://arxiv.org/abs/2306.07579v1)|null|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632v1](http://arxiv.org/abs/2306.04632v1)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
