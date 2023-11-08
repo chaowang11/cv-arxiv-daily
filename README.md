@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Learning Super-Resolution Ultrasound Localization Microscopy from Radio-Frequency Data**|Christopher Hahne et.al.|[2311.04081v1](http://arxiv.org/abs/2311.04081v1)|null|
+|**2023-11-07**|**Predictive Sampling for Efficient Pairwise Subjective Image Quality Assessment**|Shima Mohammadi et.al.|[2311.03850v1](http://arxiv.org/abs/2311.03850v1)|null|
 |**2023-11-06**|**Analysis of the sparse super resolution limit using the Cramér-Rao lower bound**|Mathias Hockmann et.al.|[2311.03178v1](http://arxiv.org/abs/2311.03178v1)|null|
 |**2023-11-05**|**Super-resolved snapshot hyperspectral imaging of solid-state quantum emitters for high-throughput integrated quantum technologies**|Shunfa Liu et.al.|[2311.02626v1](http://arxiv.org/abs/2311.02626v1)|null|
 |**2023-11-04**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v1](http://arxiv.org/abs/2311.02358v1)|null|
@@ -1046,6 +1048,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Towards Garment Sewing Pattern Reconstruction from a Single Image**|Lijuan Liu et.al.|[2311.04218v1](http://arxiv.org/abs/2311.04218v1)|null|
+|**2023-11-07**|**Wearable data from subjects playing Super Mario, sitting university exams, or performing physical exercise help detect acute mood episodes via self-supervised learning**|Filippo Corponi et.al.|[2311.04215v1](http://arxiv.org/abs/2311.04215v1)|null|
+|**2023-11-07**|**Deep Hashing via Householder Quantization**|Lucas R. Schwengber et.al.|[2311.04207v1](http://arxiv.org/abs/2311.04207v1)|null|
+|**2023-11-07**|**Analytic theory of Legendre-type transformations for a Frobenius manifold**|Di Yang et.al.|[2311.04200v1](http://arxiv.org/abs/2311.04200v1)|null|
+|**2023-11-07**|**A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis**|Dipanjyoti Paul et.al.|[2311.04157v1](http://arxiv.org/abs/2311.04157v1)|**[link](https://github.com/imageomics/intr)**|
+|**2023-11-07**|**Multi-resolution Time-Series Transformer for Long-term Forecasting**|Yitian Zhang et.al.|[2311.04147v1](http://arxiv.org/abs/2311.04147v1)|null|
+|**2023-11-07**|**Locating Cross-Task Sequence Continuation Circuits in Transformers**|Michael Lan et.al.|[2311.04131v1](http://arxiv.org/abs/2311.04131v1)|null|
+|**2023-11-07**|**The Baker-Coon-Romans  $N$ -point amplitude and an exact field theory limit of the Coon amplitude**|Nicholas Geiser et.al.|[2311.04130v1](http://arxiv.org/abs/2311.04130v1)|null|
+|**2023-11-07**|**Elliptic units for complex cubic fields**|Nicolas Bergeron et.al.|[2311.04110v1](http://arxiv.org/abs/2311.04110v1)|null|
+|**2023-11-07**|**Do Language Models Learn Semantics of Code? A Case Study in Vulnerability Detection**|Benjamin Steenhoek et.al.|[2311.04109v1](http://arxiv.org/abs/2311.04109v1)|null|
+|**2023-11-07**|**Quantum correction to a new Wilson line-based action for Gluodynamics**|Hiren Kakkad et.al.|[2311.04101v1](http://arxiv.org/abs/2311.04101v1)|null|
+|**2023-11-07**|**Personality Style Recognition via Machine Learning: Identifying Anaclitic and Introjective Personality Styles from Patients' Speech**|Semere Kiros Bitew et.al.|[2311.04088v1](http://arxiv.org/abs/2311.04088v1)|null|
+|**2023-11-07**|**Learning Super-Resolution Ultrasound Localization Microscopy from Radio-Frequency Data**|Christopher Hahne et.al.|[2311.04081v1](http://arxiv.org/abs/2311.04081v1)|null|
+|**2023-11-07**|**Augmenting Lane Perception and Topology Understanding with Standard Definition Navigation Maps**|Katie Z Luo et.al.|[2311.04079v1](http://arxiv.org/abs/2311.04079v1)|null|
+|**2023-11-07**|**On the Post-Lie Structure in SISO Affine Feedback Control Systems**|Kurusch Ebrahimi--Fard et.al.|[2311.04070v1](http://arxiv.org/abs/2311.04070v1)|null|
+|**2023-11-07**|**LISBET: a self-supervised Transformer model for the automatic segmentation of social behavior motifs**|Giuseppe Chindemi et.al.|[2311.04069v1](http://arxiv.org/abs/2311.04069v1)|null|
+|**2023-11-07**|**Multivariate quantile-based permutation tests with application to functional data**|Zdeněk Hlávka et.al.|[2311.04017v1](http://arxiv.org/abs/2311.04017v1)|null|
+|**2023-11-07**|**A Method to Improve the Performance of Reinforcement Learning Based on the Y Operator for a Class of Stochastic Differential Equation-Based Child-Mother Systems**|Cheng Yin et.al.|[2311.04014v1](http://arxiv.org/abs/2311.04014v1)|null|
+|**2023-11-07**|**Linear-quadratic extended mean field games with common noises**|Tianjiao Hua et.al.|[2311.04001v1](http://arxiv.org/abs/2311.04001v1)|null|
+|**2023-11-07**|**Stability of chiral crystal phase and breakdown of cholesteric phase in mixtures of active-passive chiral rods**|Jayeeta Chattopadhyay et.al.|[2311.03994v1](http://arxiv.org/abs/2311.03994v1)|null|
+|**2023-11-07**|**Quadrotor Experimental Dynamic Identification with Comprehensive NARX Neural Networks**|Khaled Telli et.al.|[2311.03985v1](http://arxiv.org/abs/2311.03985v1)|null|
+|**2023-11-07**|**Spectral functions of the strongly interacting 3D Fermi gas**|Christian H. Johansen et.al.|[2311.03953v1](http://arxiv.org/abs/2311.03953v1)|null|
+|**2023-11-07**|**An Analysis of Dialogue Repair in Voice Assistants**|Matthew Galbraith et.al.|[2311.03952v1](http://arxiv.org/abs/2311.03952v1)|null|
+|**2023-11-07**|**Quantum signal processing over SU(N): exponential speed-up for polynomial transformations under Shor-like assumptions**|Lorenzo Laneve et.al.|[2311.03949v1](http://arxiv.org/abs/2311.03949v1)|null|
+|**2023-11-07**|**The Music Meta Ontology: a flexible semantic model for the interoperability of music metadata**|Jacopo de Berardinis et.al.|[2311.03942v1](http://arxiv.org/abs/2311.03942v1)|null|
+|**2023-11-07**|**On singular foliations tangent to a given hypersurface**|Michael Francis et.al.|[2311.03940v1](http://arxiv.org/abs/2311.03940v1)|null|
+|**2023-11-07**|**Computation of the Distribution of the Absorption Time of the Drifted Diffusion with Stochastic Resetting and Mixed Boundary Conditions**|Riccardo Turin et.al.|[2311.03939v1](http://arxiv.org/abs/2311.03939v1)|null|
+|**2023-11-07**|**FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer**|Chi-Chih Chang et.al.|[2311.03912v1](http://arxiv.org/abs/2311.03912v1)|**[link](https://github.com/shadowpa0327/flora)**|
+|**2023-11-07**|**Distributed Parameter Estimation with Gaussian Observation Noises in Time-varying Digraphs**|Jiaqi Yan et.al.|[2311.03911v1](http://arxiv.org/abs/2311.03911v1)|null|
+|**2023-11-07**|**Mini but Mighty: Finetuning ViTs with Mini Adapters**|Imad Eddine Marouf et.al.|[2311.03873v1](http://arxiv.org/abs/2311.03873v1)|**[link](https://github.com/iemprog/mimi)**|
+|**2023-11-07**|**Non-perturbative Symmetries of Little Strings and Affine Quiver Algebras**|Baptiste Filoche et.al.|[2311.03858v1](http://arxiv.org/abs/2311.03858v1)|null|
+|**2023-11-07**|**Accelerating Unstructured SpGEMM using Structured In-situ Computing**|Huize Li et.al.|[2311.03826v1](http://arxiv.org/abs/2311.03826v1)|null|
+|**2023-11-07**|**Exploring the transformation of user interactions to Adaptive Human-Machine Interfaces**|Angela Carrera-Rivera et.al.|[2311.03806v1](http://arxiv.org/abs/2311.03806v1)|null|
+|**2023-11-07**|**Character-Level Bangla Text-to-IPA Transcription Using Transformer Architecture with Sequence Alignment**|Jakir Hasan et.al.|[2311.03792v1](http://arxiv.org/abs/2311.03792v1)|null|
+|**2023-11-07**|**Asymptotically Steerable Finite Fourier-Bessel Transforms and Closure under Convolution**|Arash Ghaani Farashahi et.al.|[2311.03772v1](http://arxiv.org/abs/2311.03772v1)|null|
+|**2023-11-07**|**Lightweight Portrait Matting via Regional Attention and Refinement**|Yatao Zhong et.al.|[2311.03770v1](http://arxiv.org/abs/2311.03770v1)|null|
+|**2023-11-07**|**Augmenting Radio Signals with Wavelet Transform for Deep Learning-Based Modulation Recognition**|Tao Chen et.al.|[2311.03761v1](http://arxiv.org/abs/2311.03761v1)|null|
+|**2023-11-07**|**Multiclass Segmentation using Teeth Attention Modules for Dental X-ray Images**|Afnan Ghafoor et.al.|[2311.03749v1](http://arxiv.org/abs/2311.03749v1)|null|
+|**2023-11-07**|**SBCFormer: Lightweight Network Capable of Full-size ImageNet Classification at 1 FPS on Single Board Computers**|Xiangyong Lu et.al.|[2311.03747v1](http://arxiv.org/abs/2311.03747v1)|**[link](https://github.com/xyonglu/sbcformer)**|
+|**2023-11-07**|**Scattering matrix for chiral harmonic generation and frequency mixing in nonlinear metasurfaces**|Kirill Koshelev et.al.|[2311.03686v1](http://arxiv.org/abs/2311.03686v1)|null|
+|**2023-11-07**|**Unsupervised convolutional neural network fusion approach for change detection in remote sensing images**|Weidong Yan et.al.|[2311.03679v1](http://arxiv.org/abs/2311.03679v1)|null|
+|**2023-11-07**|**Stable Modular Control via Contraction Theory for Reinforcement Learning**|Bing Song et.al.|[2311.03669v1](http://arxiv.org/abs/2311.03669v1)|null|
+|**2023-11-07**|**Sampling via Föllmer Flow**|Zhao Ding et.al.|[2311.03660v1](http://arxiv.org/abs/2311.03660v1)|**[link](https://github.com/burning489/SamplingFollmerFlow)**|
+|**2023-11-07**|**Analysis of the User Perception of Chatbots in Education Using A Partial Least Squares Structural Equation Modeling Approach**|Md Rabiul Hasan et.al.|[2311.03636v1](http://arxiv.org/abs/2311.03636v1)|null|
+|**2023-11-07**|**A Phase-resolved View of the Low-frequency Quasiperiodic Oscillations from the Black Hole Binary MAXI J1820+070**|Shui et.al.|[2311.03635v1](http://arxiv.org/abs/2311.03635v1)|null|
+|**2023-11-07**|**Random Field Augmentations for Self-Supervised Representation Learning**|Philip Andrew Mansfield et.al.|[2311.03629v1](http://arxiv.org/abs/2311.03629v1)|null|
+|**2023-11-07**|**FusionViT: Hierarchical 3D Object Detection via LiDAR-Camera Vision Transformer Fusion**|Xinhao Xiang et.al.|[2311.03620v1](http://arxiv.org/abs/2311.03620v1)|null|
+|**2023-11-06**|**Identifying Markov chain models from time-to-event data: an algebraic approach**|Ovidiu Radulescu et.al.|[2311.03593v1](http://arxiv.org/abs/2311.03593v1)|null|
+|**2023-11-06**|**Dimensions of Online Conflict: Towards Modeling Agonism**|Matt Canute et.al.|[2311.03584v1](http://arxiv.org/abs/2311.03584v1)|null|
+|**2023-11-06**|**Cal-DETR: Calibrated Detection Transformer**|Muhammad Akhtar Munir et.al.|[2311.03570v1](http://arxiv.org/abs/2311.03570v1)|**[link](https://github.com/akhtarvision/cal-detr)**|
 |**2023-11-06**|**Non-convex potential game approach to global solution in sensor network localization**|Gehui Xu et.al.|[2311.03326v1](http://arxiv.org/abs/2311.03326v1)|null|
 |**2023-11-06**|**FATE: Feature-Agnostic Transformer-based Encoder for learning generalized embedding spaces in flow cytometry data**|Lisa Weijler et.al.|[2311.03314v1](http://arxiv.org/abs/2311.03314v1)|**[link](https://github.com/lisaweijler/fate)**|
 |**2023-11-06**|**Exploiting Latent Attribute Interaction with Transformer on Heterogeneous Information Networks**|Zeyuan Zhao et.al.|[2311.03275v1](http://arxiv.org/abs/2311.03275v1)|null|
