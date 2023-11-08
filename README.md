@@ -698,7 +698,7 @@
 |**2023-08-29**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070v1](http://arxiv.org/abs/2308.15070v1)|**[link](https://github.com/xpixelgroup/diffbir)**|
 |**2023-09-07**|**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization**|Tao Yang et.al.|[2308.14469v2](http://arxiv.org/abs/2308.14469v2)|**[link](https://github.com/yangxy/pasd)**|
 |**2023-08-18**|**Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey**|Xin Li et.al.|[2308.09388v1](http://arxiv.org/abs/2308.09388v1)|**[link](https://github.com/lixinustc/awesome-diffusion-model-for-image-processing)**|
-|**2023-08-17**|**SR-GAN for SR-gamma: photon super resolution at collider experiments**|Johannes Erdmann et.al.|[2308.09025v1](http://arxiv.org/abs/2308.09025v1)|null|
+|**2023-11-07**|**SR-GAN for SR-gamma: super resolution of photon calorimeter images at collider experiments**|Johannes Erdmann et.al.|[2308.09025v2](http://arxiv.org/abs/2308.09025v2)|null|
 |**2023-08-15**|**CMISR: Circular Medical Image Super-Resolution**|Honggui Li et.al.|[2308.08567v1](http://arxiv.org/abs/2308.08567v1)|null|
 |**2023-08-15**|**YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution**|Brian B. Moser et.al.|[2308.07977v1](http://arxiv.org/abs/2308.07977v1)|null|
 |**2023-08-13**|**TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution**|Baolin Liu et.al.|[2308.06743v1](http://arxiv.org/abs/2308.06743v1)|**[link](https://github.com/lenubolim/textdiff)**|
@@ -1065,11 +1065,11 @@
 |**2023-11-06**|**Asymmetric Masked Distillation for Pre-Training Small Foundation Models**|Zhiyu Zhao et.al.|[2311.03149v1](http://arxiv.org/abs/2311.03149v1)|null|
 |**2023-11-06**|**Fully nonlinear transformations of the Weyl-Bondi-Metzner-Sachs asymptotic symmetry group**|Eanna E. Flanagan et.al.|[2311.03130v1](http://arxiv.org/abs/2311.03130v1)|null|
 |**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124v1](http://arxiv.org/abs/2311.03124v1)|null|
-|**2023-11-06**|**Grain-level effects on in-situ deformation-induced phase transformations in a complex-phase steel using 3DXRD and EBSD**|James A. D. Ball et.al.|[2311.03088v1](http://arxiv.org/abs/2311.03088v1)|null|
+|**2023-11-07**|**Grain-level effects on in-situ deformation-induced phase transformations in a complex-phase steel using 3DXRD and EBSD**|James A. D. Ball et.al.|[2311.03088v2](http://arxiv.org/abs/2311.03088v2)|null|
 |**2023-11-06**|**Mathematical modeling of heat process in a cylindrical domain with nonlinear thermal coefficients and a heat source on the axis**|Julieta Bollati et.al.|[2311.03086v1](http://arxiv.org/abs/2311.03086v1)|null|
 |**2023-11-06**|**A Simple yet Efficient Ensemble Approach for AI-generated Text Detection**|Harika Abburi et.al.|[2311.03084v1](http://arxiv.org/abs/2311.03084v1)|null|
-|**2023-11-06**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076v1](http://arxiv.org/abs/2311.03076v1)|null|
-|**2023-11-06**|**OrthoNets: Orthogonal Channel Attention Networks**|Hadi Salman et.al.|[2311.03071v1](http://arxiv.org/abs/2311.03071v1)|null|
+|**2023-11-07**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076v2](http://arxiv.org/abs/2311.03076v2)|null|
+|**2023-11-07**|**OrthoNets: Orthogonal Channel Attention Networks**|Hadi Salman et.al.|[2311.03071v2](http://arxiv.org/abs/2311.03071v2)|null|
 |**2023-11-06**|**GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation**|Xuwei Xu et.al.|[2311.03035v1](http://arxiv.org/abs/2311.03035v1)|**[link](https://github.com/ackesnal/gtp-vit)**|
 |**2023-11-06**|**Reconfigurable, Transformable Soft Pneumatic Actuator with Tunable 3D Deformations for Dexterous Soft Robotics Applications**|Dickson Chiu Yu Wong et.al.|[2311.03032v1](http://arxiv.org/abs/2311.03032v1)|null|
 |**2023-11-06**|**Generalizations of Koga's version of the Wiener-Ikehara theorem**|Bin Chen et.al.|[2311.03013v1](http://arxiv.org/abs/2311.03013v1)|null|
@@ -11282,7 +11282,7 @@
 |**2023-06-19**|**Towards Interactive Image Inpainting via Sketch Refinement**|Chang Liu et.al.|[2306.00407v3](http://arxiv.org/abs/2306.00407v3)|**[link](https://github.com/alonzoleeeooo/sketchrefiner)**|
 |**2023-10-27**|**Diffusion Brush: A Latent Diffusion Model-based Editing Tool for AI-generated Images**|Peyman Gholami et.al.|[2306.00219v2](http://arxiv.org/abs/2306.00219v2)|null|
 |**2023-05-30**|**Scene restoration from scaffold occlusion using deep learning-based methods**|Yuexiong Ding et.al.|[2305.18810v1](http://arxiv.org/abs/2305.18810v1)|null|
-|**2023-07-15**|**Real-World Image Variation by Aligning Diffusion Inversion Chain**|Yuechen Zhang et.al.|[2305.18729v2](http://arxiv.org/abs/2305.18729v2)|**[link](https://github.com/julianjuaner/rival)**|
+|**2023-11-07**|**Real-World Image Variation by Aligning Diffusion Inversion Chain**|Yuechen Zhang et.al.|[2305.18729v3](http://arxiv.org/abs/2305.18729v3)|**[link](https://github.com/julianjuaner/rival)**|
 |**2023-10-08**|**Harnessing Text-to-Image Attention Prior for Reference-based Multi-view Image Synthesis**|Chenjie Cao et.al.|[2305.11577v2](http://arxiv.org/abs/2305.11577v2)|**[link](https://github.com/ewrfcas/pgic_inpainting)**|
 |**2023-05-17**|**INCLG: Inpainting for Non-Cleft Lip Generation with a Multi-Task Image Processing Network**|Shuang Chen et.al.|[2305.10589v1](http://arxiv.org/abs/2305.10589v1)|null|
 |**2023-05-13**|**Nonnegative Low-Rank Tensor Completion via Dual Formulation with Applications to Image and Video Completion**|Tanmay Kumar Sinha et.al.|[2305.07976v1](http://arxiv.org/abs/2305.07976v1)|null|
