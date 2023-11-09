@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**An End-Cloud Computing Enabled Surveillance Video Transmission System**|Dingxi Yang et.al.|[2311.04685v1](http://arxiv.org/abs/2311.04685v1)|null|
 |**2023-11-07**|**Learning Super-Resolution Ultrasound Localization Microscopy from Radio-Frequency Data**|Christopher Hahne et.al.|[2311.04081v1](http://arxiv.org/abs/2311.04081v1)|null|
 |**2023-11-07**|**Predictive Sampling for Efficient Pairwise Subjective Image Quality Assessment**|Shima Mohammadi et.al.|[2311.03850v1](http://arxiv.org/abs/2311.03850v1)|null|
 |**2023-11-06**|**Analysis of the sparse super resolution limit using the Cramér-Rao lower bound**|Mathias Hockmann et.al.|[2311.03178v1](http://arxiv.org/abs/2311.03178v1)|null|
@@ -903,6 +904,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**An End-Cloud Computing Enabled Surveillance Video Transmission System**|Dingxi Yang et.al.|[2311.04685v1](http://arxiv.org/abs/2311.04685v1)|null|
 |**2023-11-02**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996v1](http://arxiv.org/abs/2311.00996v1)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
 |**2023-10-26**|**Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution**|Zhewei Huang et.al.|[2310.17294v1](http://arxiv.org/abs/2310.17294v1)|**[link](https://github.com/megvii-research/wacv2024-safa)**|
 |**2023-10-18**|**HSTR-Net: Reference Based Video Super-resolution for Aerial Surveillance with Dual Cameras**|H. Umut Suluhan et.al.|[2310.12092v1](http://arxiv.org/abs/2310.12092v1)|null|
@@ -1048,6 +1050,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**How Abstract Is Linguistic Generalization in Large Language Models? Experiments with Argument Structure**|Michael Wilson et.al.|[2311.04900v1](http://arxiv.org/abs/2311.04900v1)|**[link](https://github.com/clay-lab/structural-alternations)**|
+|**2023-11-08**|**Floquet engineering of binding in doped and photo-doped Mott insulators**|Madhumita Sarkar et.al.|[2311.04899v1](http://arxiv.org/abs/2311.04899v1)|null|
+|**2023-11-08**|**Future Lens: Anticipating Subsequent Tokens from a Single Hidden State**|Koyena Pal et.al.|[2311.04897v1](http://arxiv.org/abs/2311.04897v1)|null|
+|**2023-11-08**|**Towards Few-Annotation Learning in Computer Vision: Application to Image Classification and Object Detection tasks**|Quentin Bouniot et.al.|[2311.04888v1](http://arxiv.org/abs/2311.04888v1)|null|
+|**2023-11-08**|**Asymptotic zeros' distribution of orthogonal polynomials with unbounded recurrence coefficients**|Grzegorz Świderski et.al.|[2311.04853v1](http://arxiv.org/abs/2311.04853v1)|null|
+|**2023-11-08**|**Bilevel Relations and Their Applications to Data Insights**|Xi Wu et.al.|[2311.04824v1](http://arxiv.org/abs/2311.04824v1)|null|
+|**2023-11-08**|**Hierarchically Gated Recurrent Neural Network for Sequence Modeling**|Zhen Qin et.al.|[2311.04823v1](http://arxiv.org/abs/2311.04823v1)|**[link](https://github.com/opennlplab/hgrn)**|
+|**2023-11-08**|**Phosphorescence by trapping defects in boric acid induced by thermal processing**|Luigi Stagi et.al.|[2311.04821v1](http://arxiv.org/abs/2311.04821v1)|null|
+|**2023-11-08**|**Be Careful When Evaluating Explanations Regarding Ground Truth**|Hubert Baniecki et.al.|[2311.04813v1](http://arxiv.org/abs/2311.04813v1)|null|
+|**2023-11-08**|**Determination of toxic comments and unintended model bias minimization using Deep learning approach**|Md Azim Khan et.al.|[2311.04789v1](http://arxiv.org/abs/2311.04789v1)|null|
+|**2023-11-08**|**Lidar Annotation Is All You Need**|Dinar Sharafutdinov et.al.|[2311.04777v1](http://arxiv.org/abs/2311.04777v1)|**[link](https://github.com/evocargo/lidar-annotation-is-all-you-need)**|
+|**2023-11-08**|**GCS-ICHNet: Assessment of Intracerebral Hemorrhage Prognosis using Self-Attention with Domain Knowledge Integration**|Xuhao Shan et.al.|[2311.04772v1](http://arxiv.org/abs/2311.04772v1)|**[link](https://github.com/Windbelll/Prognosis-analysis-of-cerebral-hemorrhage)**|
+|**2023-11-08**|**Vital Sign Forecasting for Sepsis Patients in ICUs**|Anubhav Bhatti et.al.|[2311.04770v1](http://arxiv.org/abs/2311.04770v1)|null|
+|**2023-11-08**|**Euclidean, Projective, Conformal: Choosing a Geometric Algebra for Equivariant Transformers**|Pim de Haan et.al.|[2311.04744v1](http://arxiv.org/abs/2311.04744v1)|null|
+|**2023-11-08**|**CONCERTO: instrument and status**|Alessandro Fasano et.al.|[2311.04704v1](http://arxiv.org/abs/2311.04704v1)|null|
+|**2023-11-08**|**Generative causality: using Shannon's information theory to infer underlying asymmetry in causal relations**|Soumik Purkayastha et.al.|[2311.04696v1](http://arxiv.org/abs/2311.04696v1)|null|
+|**2023-11-08**|**Learning Quantum Phase Estimation by Variational Quantum Circuits**|Chen-Yu Liu et.al.|[2311.04690v1](http://arxiv.org/abs/2311.04690v1)|null|
+|**2023-11-08**|**Analytical investigation of time-dependent two-dimensional non-Newtonian boundary layer equations**|Imre F. Barna et.al.|[2311.04676v1](http://arxiv.org/abs/2311.04676v1)|null|
+|**2023-11-08**|**A Complex Network Analysis on The Eigenvalue Spectra of Random Spin Systems**|Qiaomu Xue et.al.|[2311.04665v1](http://arxiv.org/abs/2311.04665v1)|null|
+|**2023-11-08**|**Reconstruction of Type II Supergravities via  $O(d) \times O(d)$  Duality Invariants**|Yoshifumi Hyakutake et.al.|[2311.04660v1](http://arxiv.org/abs/2311.04660v1)|null|
+|**2023-11-08**|**Hybrid Focal and Full-Range Attention Based Graph Transformers**|Minhong Zhu et.al.|[2311.04653v1](http://arxiv.org/abs/2311.04653v1)|null|
+|**2023-11-08**|**SKU-Patch: Towards Efficient Instance Segmentation for Unseen Objects in Auto-Store**|Biqi Yang et.al.|[2311.04645v1](http://arxiv.org/abs/2311.04645v1)|null|
+|**2023-11-08**|**LuminanceL1Loss: A loss function which measures percieved brightness and colour differences**|Dominic De Jonge et.al.|[2311.04614v1](http://arxiv.org/abs/2311.04614v1)|null|
+|**2023-11-08**|**On Characterizing the Evolution of Embedding Space of Neural Networks using Algebraic Topology**|Suryaka Suresh et.al.|[2311.04592v1](http://arxiv.org/abs/2311.04592v1)|**[link](https://github.com/cross-caps/dnntopology)**|
+|**2023-11-08**|**KiD: A Hardware Design Framework Targeting Unified NTT Multiplication for CRYSTALS-Kyber and CRYSTALS-Dilithium on FPGA**|Suraj Mandal et.al.|[2311.04581v1](http://arxiv.org/abs/2311.04581v1)|null|
+|**2023-11-08**|**Structure and polymerization of liquid sulfur across the  $λ$ -transition**|Manyi Yang et.al.|[2311.04572v1](http://arxiv.org/abs/2311.04572v1)|null|
+|**2023-11-08**|**Free fermions, KdV charges, generalised Gibbs ensembles, modular transforms and line defects**|Max Downing et.al.|[2311.04564v1](http://arxiv.org/abs/2311.04564v1)|null|
+|**2023-11-08**|**Discerning and Enhancing the Weighted Sum-Rate Maximization Algorithms in Communications**|Zepeng Zhang et.al.|[2311.04546v1](http://arxiv.org/abs/2311.04546v1)|null|
+|**2023-11-08**|**Loss Masking Is Not Needed in Decoder-only Transformer for Discrete-token Based ASR**|Qian Chen et.al.|[2311.04534v1](http://arxiv.org/abs/2311.04534v1)|null|
+|**2023-11-08**|**Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction**|Sungmin Kang et.al.|[2311.04532v1](http://arxiv.org/abs/2311.04532v1)|null|
+|**2023-11-08**|**Long-term Time Series Forecasting based on Decomposition and Neural Ordinary Differential Equations**|Seonkyu Lim et.al.|[2311.04522v1](http://arxiv.org/abs/2311.04522v1)|null|
+|**2023-11-08**|**Tannaka duality and 1-affineness**|Germán Stefanich et.al.|[2311.04515v1](http://arxiv.org/abs/2311.04515v1)|null|
+|**2023-11-08**|**Optimizing Distributed Networking with Big Data Scheduling and Cloud Computing**|Wenbo Zhu et.al.|[2311.04482v1](http://arxiv.org/abs/2311.04482v1)|null|
+|**2023-11-08**|**CLearViD: Curriculum Learning for Video Description**|Cheng-Yu Chuang et.al.|[2311.04480v1](http://arxiv.org/abs/2311.04480v1)|null|
+|**2023-11-08**|**Solving High Frequency and Multi-Scale PDEs with Gaussian Processes**|Shikai Fang et.al.|[2311.04465v1](http://arxiv.org/abs/2311.04465v1)|null|
+|**2023-11-08**|**Recursion in Recursion: Two-Level Nested Recursion for Length Generalization with Scalability**|Jishnu Ray Chowdhury et.al.|[2311.04449v1](http://arxiv.org/abs/2311.04449v1)|**[link](https://github.com/jrc1995/beamrecursionfamily)**|
+|**2023-11-08**|**Maximal  $L_1$ -regularity of the Navier-Stokes equations with free boundary conditions via a generalized semigroup theory**|Yoshihiro Shibata et.al.|[2311.04444v1](http://arxiv.org/abs/2311.04444v1)|null|
+|**2023-11-08**|**SS-MAE: Spatial-Spectral Masked Auto-Encoder for Multi-Source Remote Sensing Image Classification**|Junyan Lin et.al.|[2311.04442v1](http://arxiv.org/abs/2311.04442v1)|null|
+|**2023-11-08**|**A Hierarchical Spatial Transformer for Massive Point Samples in Continuous Space**|Wenchong He et.al.|[2311.04434v1](http://arxiv.org/abs/2311.04434v1)|**[link](https://github.com/spatialdatasciencegroup/hst)**|
+|**2023-11-08**|**Data Factors for Better Compositional Generalization**|Xiang Zhou et.al.|[2311.04420v1](http://arxiv.org/abs/2311.04420v1)|**[link](https://github.com/owenzx/data4comp)**|
+|**2023-11-08**|**PepLand: a large-scale pre-trained peptide representation model for a comprehensive landscape of both canonical and non-canonical amino acids**|Ruochi Zhang et.al.|[2311.04419v1](http://arxiv.org/abs/2311.04419v1)|null|
+|**2023-11-08**|**An Efficient Probabilistic Solution to Mapping Errors in LiDAR-Camera Fusion for Autonomous Vehicles**|Dan Shen et.al.|[2311.04410v1](http://arxiv.org/abs/2311.04410v1)|null|
+|**2023-11-08**|**CompactTag: Minimizing Computation Overheads in Actively-Secure MPC for Deep Neural Networks**|Yongqin Wang et.al.|[2311.04406v1](http://arxiv.org/abs/2311.04406v1)|null|
+|**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400v1](http://arxiv.org/abs/2311.04400v1)|null|
+|**2023-11-07**|**Harnessing Manycore Processors with Distributed Memory for Accelerated Training of Sparse and Recurrent Models**|Jan Finkbeiner et.al.|[2311.04386v1](http://arxiv.org/abs/2311.04386v1)|null|
+|**2023-11-07**|**Partial fraction expansions and zeros of Hankel transforms**|Yong-Kum Cho et.al.|[2311.04385v1](http://arxiv.org/abs/2311.04385v1)|null|
+|**2023-11-07**|**Basis restricted elastic shape analysis on the space of unregistered surfaces**|Emmanuel Hartman et.al.|[2311.04382v1](http://arxiv.org/abs/2311.04382v1)|null|
+|**2023-11-07**|**Positivity of oscillatory integrals and Hankel transforms**|Yong-Kum Cho et.al.|[2311.04381v1](http://arxiv.org/abs/2311.04381v1)|null|
+|**2023-11-07**|**Syntax-Guided Transformers: Elevating Compositional Generalization and Grounding in Multimodal Environments**|Danial Kamali et.al.|[2311.04364v1](http://arxiv.org/abs/2311.04364v1)|null|
+|**2023-11-07**|**Uncovering Causal Variables in Transformers using Circuit Probing**|Michael A. Lepori et.al.|[2311.04354v1](http://arxiv.org/abs/2311.04354v1)|**[link](https://github.com/mlepori1/circuit_probing)**|
 |**2023-11-07**|**Towards Garment Sewing Pattern Reconstruction from a Single Image**|Lijuan Liu et.al.|[2311.04218v1](http://arxiv.org/abs/2311.04218v1)|null|
 |**2023-11-07**|**Wearable data from subjects playing Super Mario, sitting university exams, or performing physical exercise help detect acute mood episodes via self-supervised learning**|Filippo Corponi et.al.|[2311.04215v1](http://arxiv.org/abs/2311.04215v1)|null|
 |**2023-11-07**|**Deep Hashing via Householder Quantization**|Lucas R. Schwengber et.al.|[2311.04207v1](http://arxiv.org/abs/2311.04207v1)|null|
@@ -11291,6 +11343,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**VioLA: Aligning Videos to 2D LiDAR Scans**|Jun-Jee Chao et.al.|[2311.04783v1](http://arxiv.org/abs/2311.04783v1)|null|
 |**2023-11-06**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008v1](http://arxiv.org/abs/2311.03008v1)|null|
 |**2023-10-31**|**Navigating the Complex Landscape of Shock Filter Cahn-Hilliard Equation: From Regularized to Young Measure Solutions**|Darko Mitrovic et.al.|[2310.20383v1](http://arxiv.org/abs/2310.20383v1)|null|
 |**2023-10-23**|**Online Detection of AI-Generated Images**|David C. Epstein et.al.|[2310.15150v1](http://arxiv.org/abs/2310.15150v1)|null|
