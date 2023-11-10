@@ -53,7 +53,7 @@
 |**2023-10-25**|**Single-pixel imaging based on deep learning**|Kai Song et.al.|[2310.16869v1](http://arxiv.org/abs/2310.16869v1)|null|
 |**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684v1](http://arxiv.org/abs/2310.16684v1)|null|
 |**2023-10-25**|**Super-resolution imaging reveals resistance to mass transfer in functionalized stationary phases**|Ricardo Monge Neria et.al.|[2310.16266v1](http://arxiv.org/abs/2310.16266v1)|null|
-|**2023-10-24**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767v1](http://arxiv.org/abs/2310.15767v1)|null|
+|**2023-11-09**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767v2](http://arxiv.org/abs/2310.15767v2)|null|
 |**2023-10-24**|**Spectral-based detection of chromatin loops in multiplexed super-resolution FISH data**|Michaël Liefsoens et.al.|[2310.15701v1](http://arxiv.org/abs/2310.15701v1)|null|
 |**2023-10-20**|**Parallel compressive super-resolution imaging with wide field-of-view based on physics enhanced network**|Xiao-Peng Jin et.al.|[2310.14965v1](http://arxiv.org/abs/2310.14965v1)|null|
 |**2023-10-22**|**A Coordinate Descent Approach to Atomic Norm Minimization**|Ruifu Li et.al.|[2310.14182v1](http://arxiv.org/abs/2310.14182v1)|null|
@@ -672,7 +672,7 @@
 |**2023-10-29**|**Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction**|Zeshuai Deng et.al.|[2310.19011v1](http://arxiv.org/abs/2310.19011v1)|**[link](https://github.com/dengzeshuai/srtta)**|
 |**2023-10-26**|**Blind Image Super-resolution with Rich Texture-Aware Codebooks**|Rui Qin et.al.|[2310.17188v1](http://arxiv.org/abs/2310.17188v1)|null|
 |**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684v1](http://arxiv.org/abs/2310.16684v1)|null|
-|**2023-10-24**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767v1](http://arxiv.org/abs/2310.15767v1)|null|
+|**2023-11-09**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767v2](http://arxiv.org/abs/2310.15767v2)|null|
 |**2023-10-20**|**PTSR: Patch Translator for Image Super-Resolution**|Neeraj Baghel et.al.|[2310.13216v1](http://arxiv.org/abs/2310.13216v1)|null|
 |**2023-10-19**|**Multi-granularity Backprojection Transformer for Remote Sensing Image Super-Resolution**|Jinglei Hao et.al.|[2310.12507v1](http://arxiv.org/abs/2310.12507v1)|null|
 |**2023-10-20**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004v2](http://arxiv.org/abs/2310.12004v2)|**[link](https://github.com/tencent-ailab/frequency_aug_vae_moesr)**|
@@ -1073,13 +1073,13 @@
 |**2023-11-08**|**Hybrid Focal and Full-Range Attention Based Graph Transformers**|Minhong Zhu et.al.|[2311.04653v1](http://arxiv.org/abs/2311.04653v1)|null|
 |**2023-11-08**|**SKU-Patch: Towards Efficient Instance Segmentation for Unseen Objects in Auto-Store**|Biqi Yang et.al.|[2311.04645v1](http://arxiv.org/abs/2311.04645v1)|null|
 |**2023-11-08**|**LuminanceL1Loss: A loss function which measures percieved brightness and colour differences**|Dominic De Jonge et.al.|[2311.04614v1](http://arxiv.org/abs/2311.04614v1)|null|
-|**2023-11-08**|**On Characterizing the Evolution of Embedding Space of Neural Networks using Algebraic Topology**|Suryaka Suresh et.al.|[2311.04592v1](http://arxiv.org/abs/2311.04592v1)|**[link](https://github.com/cross-caps/dnntopology)**|
+|**2023-11-09**|**On Characterizing the Evolution of Embedding Space of Neural Networks using Algebraic Topology**|Suryaka Suresh et.al.|[2311.04592v2](http://arxiv.org/abs/2311.04592v2)|**[link](https://github.com/cross-caps/dnntopology)**|
 |**2023-11-08**|**KiD: A Hardware Design Framework Targeting Unified NTT Multiplication for CRYSTALS-Kyber and CRYSTALS-Dilithium on FPGA**|Suraj Mandal et.al.|[2311.04581v1](http://arxiv.org/abs/2311.04581v1)|null|
 |**2023-11-08**|**Structure and polymerization of liquid sulfur across the  $λ$ -transition**|Manyi Yang et.al.|[2311.04572v1](http://arxiv.org/abs/2311.04572v1)|null|
 |**2023-11-08**|**Free fermions, KdV charges, generalised Gibbs ensembles, modular transforms and line defects**|Max Downing et.al.|[2311.04564v1](http://arxiv.org/abs/2311.04564v1)|null|
 |**2023-11-08**|**Discerning and Enhancing the Weighted Sum-Rate Maximization Algorithms in Communications**|Zepeng Zhang et.al.|[2311.04546v1](http://arxiv.org/abs/2311.04546v1)|null|
 |**2023-11-08**|**Loss Masking Is Not Needed in Decoder-only Transformer for Discrete-token Based ASR**|Qian Chen et.al.|[2311.04534v1](http://arxiv.org/abs/2311.04534v1)|null|
-|**2023-11-08**|**Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction**|Sungmin Kang et.al.|[2311.04532v1](http://arxiv.org/abs/2311.04532v1)|null|
+|**2023-11-09**|**Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction**|Sungmin Kang et.al.|[2311.04532v2](http://arxiv.org/abs/2311.04532v2)|null|
 |**2023-11-08**|**Long-term Time Series Forecasting based on Decomposition and Neural Ordinary Differential Equations**|Seonkyu Lim et.al.|[2311.04522v1](http://arxiv.org/abs/2311.04522v1)|null|
 |**2023-11-08**|**Tannaka duality and 1-affineness**|Germán Stefanich et.al.|[2311.04515v1](http://arxiv.org/abs/2311.04515v1)|null|
 |**2023-11-08**|**Optimizing Distributed Networking with Big Data Scheduling and Cloud Computing**|Wenbo Zhu et.al.|[2311.04482v1](http://arxiv.org/abs/2311.04482v1)|null|
