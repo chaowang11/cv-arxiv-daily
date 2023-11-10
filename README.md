@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Super-Resolution Emulation of Large Cosmological Fields with a 3D Conditional Diffusion Model**|Adam Rouhiainen et.al.|[2311.05217v1](http://arxiv.org/abs/2311.05217v1)|null|
+|**2023-11-09**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146v1](http://arxiv.org/abs/2311.05146v1)|null|
 |**2023-11-08**|**An End-Cloud Computing Enabled Surveillance Video Transmission System**|Dingxi Yang et.al.|[2311.04685v1](http://arxiv.org/abs/2311.04685v1)|null|
 |**2023-11-07**|**Learning Super-Resolution Ultrasound Localization Microscopy from Radio-Frequency Data**|Christopher Hahne et.al.|[2311.04081v1](http://arxiv.org/abs/2311.04081v1)|null|
 |**2023-11-07**|**Predictive Sampling for Efficient Pairwise Subjective Image Quality Assessment**|Shima Mohammadi et.al.|[2311.03850v1](http://arxiv.org/abs/2311.03850v1)|null|
@@ -664,6 +666,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146v1](http://arxiv.org/abs/2311.05146v1)|null|
 |**2023-11-04**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v1](http://arxiv.org/abs/2311.02358v1)|null|
 |**2023-11-03**|**A Structured Pruning Algorithm for Model-based Deep Learning**|Chicago Park et.al.|[2311.02003v1](http://arxiv.org/abs/2311.02003v1)|null|
 |**2023-11-02**|**Exploring Deep Learning Image Super-Resolution for Iris Recognition**|Eduardo Ribeiro et.al.|[2311.01241v1](http://arxiv.org/abs/2311.01241v1)|null|
@@ -1050,6 +1053,37 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Window Attention is Bugged: How not to Interpolate Position Embeddings**|Daniel Bolya et.al.|[2311.05613v1](http://arxiv.org/abs/2311.05613v1)|null|
+|**2023-11-09**|**Gauge-invariant cosmological perturbations in general teleparallel gravity**|Lavinia Heisenberg et.al.|[2311.05597v1](http://arxiv.org/abs/2311.05597v1)|null|
+|**2023-11-09**|**Accuracy of a Vision-Language Model on Challenging Medical Cases**|Thomas Buckley et.al.|[2311.05591v1](http://arxiv.org/abs/2311.05591v1)|**[link](https://github.com/2v/gpt4v-image-challenge)**|
+|**2023-11-09**|**High-Performance Transformers for Table Structure Recognition Need Early Convolutions**|ShengYun Peng et.al.|[2311.05565v1](http://arxiv.org/abs/2311.05565v1)|**[link](https://github.com/poloclub/tsr-convstem)**|
+|**2023-11-09**|**L-WaveBlock: A Novel Feature Extractor Leveraging Wavelets for Generative Adversarial Networks**|Mirat Shah et.al.|[2311.05548v1](http://arxiv.org/abs/2311.05548v1)|null|
+|**2023-11-09**|**Towards 10 cm/s radial velocity accuracy on the Sun using a Fourier transform spectrometer**|Michael Debus et.al.|[2311.05520v1](http://arxiv.org/abs/2311.05520v1)|null|
+|**2023-11-09**|**News and Misinformation Consumption in Europe: A Longitudinal Cross-Country Perspective**|Anees Baqir et.al.|[2311.05487v1](http://arxiv.org/abs/2311.05487v1)|null|
+|**2023-11-09**|**Transformer-based Model for Oral Epithelial Dysplasia Segmentation**|Adam J Shephard et.al.|[2311.05452v1](http://arxiv.org/abs/2311.05452v1)|null|
+|**2023-11-09**|**Linear Gaussian Bounding Box Representation and Ring-Shaped Rotated Convolution for Oriented Object Detection**|Zhen Zhou et.al.|[2311.05410v1](http://arxiv.org/abs/2311.05410v1)|null|
+|**2023-11-09**|**Data Distillation for Neural Network Potentials toward Foundational Dataset**|Gang Seob Jung et.al.|[2311.05407v1](http://arxiv.org/abs/2311.05407v1)|null|
+|**2023-11-09**|**Improving Hand Recognition in Uncontrolled and Uncooperative Environments using Multiple Spatial Transformers and Loss Functions**|Wojciech Michal Matkowski et.al.|[2311.05383v1](http://arxiv.org/abs/2311.05383v1)|null|
+|**2023-11-09**|**A quantum dot coupled to a suspended-beam mechanical resonator: from the unresolved- to the resolved-sideband regime**|Clemens Spinnler et.al.|[2311.05353v1](http://arxiv.org/abs/2311.05353v1)|null|
+|**2023-11-09**|**Fourier Transform-Based Post-Processing Drift Compensation and Calibration Method for Scanning Probe Microscopy**|Maxime Le Ster et.al.|[2311.05345v1](http://arxiv.org/abs/2311.05345v1)|null|
+|**2023-11-09**|**Towards a Taxonomy of Large Language Model based Business Model Transformations**|Jochen Wulf et.al.|[2311.05288v1](http://arxiv.org/abs/2311.05288v1)|null|
+|**2023-11-09**|**deform: An R Package for Nonstationary Spatial Gaussian Process Models by Deformations and Dimension Expansion**|Benjamin D. Youngman et.al.|[2311.05272v1](http://arxiv.org/abs/2311.05272v1)|null|
+|**2023-11-09**|**A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems**|Tim Kräuter et.al.|[2311.05243v1](http://arxiv.org/abs/2311.05243v1)|**[link](https://github.com/timKraeuter/LMCS-2024)**|
+|**2023-11-09**|**Delay Doppler Transform**|Xiang-Gen Xia et.al.|[2311.05236v1](http://arxiv.org/abs/2311.05236v1)|null|
+|**2023-11-09**|**On the security of randomly transformed quadratic programs for privacy-preserving cloud-based control**|Philipp Binfet et.al.|[2311.05215v1](http://arxiv.org/abs/2311.05215v1)|null|
+|**2023-11-09**|**BrainNetDiff: Generative AI Empowers Brain Network Generation via Multimodal Diffusion Model**|Yongcheng Zong et.al.|[2311.05199v1](http://arxiv.org/abs/2311.05199v1)|null|
+|**2023-11-09**|**TransReg: Cross-transformer as auto-registration module for multi-view mammogram mass detection**|Hoang C. Nguyen et.al.|[2311.05192v1](http://arxiv.org/abs/2311.05192v1)|null|
+|**2023-11-09**|**Improving Whispered Speech Recognition Performance using Pseudo-whispered based Data Augmentation**|Zhaofeng Lin et.al.|[2311.05179v1](http://arxiv.org/abs/2311.05179v1)|null|
+|**2023-11-09**|**The High Energy X-ray Probe (HEX-P): The Future of Hard X-ray Dual AGN Science**|Ryan W. Pfeifle et.al.|[2311.05154v1](http://arxiv.org/abs/2311.05154v1)|null|
+|**2023-11-09**|**Dynamic Association Learning of Self-Attention and Convolution in Image Restoration**|Kui Jiang et.al.|[2311.05147v1](http://arxiv.org/abs/2311.05147v1)|null|
+|**2023-11-09**|**Unusual quasiparticles and tunneling conductance in quantum point contacts in  $ν=2/3$  fractional quantum Hall systems**|Vadim Ponomarenko et.al.|[2311.05142v1](http://arxiv.org/abs/2311.05142v1)|null|
+|**2023-11-09**|**Improving Computational Efficiency for Powered Descent Guidance via Transformer-based Tight Constraint Prediction**|Julia Briden et.al.|[2311.05135v1](http://arxiv.org/abs/2311.05135v1)|null|
+|**2023-11-09**|**ScribblePolyp: Scribble-Supervised Polyp Segmentation through Dual Consistency Alignment**|Zixun Zhang et.al.|[2311.05122v1](http://arxiv.org/abs/2311.05122v1)|null|
+|**2023-11-09**|**GeoFormer: Predicting Human Mobility using Generative Pre-trained Transformer (GPT)**|Aivin V. Solatorio et.al.|[2311.05092v1](http://arxiv.org/abs/2311.05092v1)|null|
+|**2023-11-09**|**Legal-HNet: Mixing Legal Long-Context Tokens with Hartley Transform**|Daniele Giofré et.al.|[2311.05089v1](http://arxiv.org/abs/2311.05089v1)|null|
+|**2023-11-08**|**Deep Learning Brasil at ABSAPT 2022: Portuguese Transformer Ensemble Approaches**|Juliana Resplande Santanna Gomes et.al.|[2311.05051v1](http://arxiv.org/abs/2311.05051v1)|**[link](https://github.com/ju-resplande/dlb_absapt2022)**|
+|**2023-11-08**|**Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**|Leonard Salewski et.al.|[2311.05043v1](http://arxiv.org/abs/2311.05043v1)|**[link](https://github.com/explainableml/zs-a2t)**|
+|**2023-11-08**|**Reinforcement Learning Generalization for Nonlinear Systems Through Dual-Scale Homogeneity Transformations**|Abdel Gafoor Haddad et.al.|[2311.05013v1](http://arxiv.org/abs/2311.05013v1)|null|
 |**2023-11-08**|**How Abstract Is Linguistic Generalization in Large Language Models? Experiments with Argument Structure**|Michael Wilson et.al.|[2311.04900v1](http://arxiv.org/abs/2311.04900v1)|**[link](https://github.com/clay-lab/structural-alternations)**|
 |**2023-11-08**|**Floquet engineering of binding in doped and photo-doped Mott insulators**|Madhumita Sarkar et.al.|[2311.04899v1](http://arxiv.org/abs/2311.04899v1)|null|
 |**2023-11-08**|**Future Lens: Anticipating Subsequent Tokens from a Single Hidden State**|Koyena Pal et.al.|[2311.04897v1](http://arxiv.org/abs/2311.04897v1)|null|
