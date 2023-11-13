@@ -1059,7 +1059,7 @@
 |**2023-11-09**|**High-Performance Transformers for Table Structure Recognition Need Early Convolutions**|ShengYun Peng et.al.|[2311.05565v1](http://arxiv.org/abs/2311.05565v1)|**[link](https://github.com/poloclub/tsr-convstem)**|
 |**2023-11-09**|**L-WaveBlock: A Novel Feature Extractor Leveraging Wavelets for Generative Adversarial Networks**|Mirat Shah et.al.|[2311.05548v1](http://arxiv.org/abs/2311.05548v1)|null|
 |**2023-11-09**|**Towards 10 cm/s radial velocity accuracy on the Sun using a Fourier transform spectrometer**|Michael Debus et.al.|[2311.05520v1](http://arxiv.org/abs/2311.05520v1)|null|
-|**2023-11-09**|**News and Misinformation Consumption in Europe: A Longitudinal Cross-Country Perspective**|Anees Baqir et.al.|[2311.05487v1](http://arxiv.org/abs/2311.05487v1)|null|
+|**2023-11-10**|**News and Misinformation Consumption in Europe: A Longitudinal Cross-Country Perspective**|Anees Baqir et.al.|[2311.05487v2](http://arxiv.org/abs/2311.05487v2)|null|
 |**2023-11-09**|**Transformer-based Model for Oral Epithelial Dysplasia Segmentation**|Adam J Shephard et.al.|[2311.05452v1](http://arxiv.org/abs/2311.05452v1)|null|
 |**2023-11-09**|**Linear Gaussian Bounding Box Representation and Ring-Shaped Rotated Convolution for Oriented Object Detection**|Zhen Zhou et.al.|[2311.05410v1](http://arxiv.org/abs/2311.05410v1)|**[link](https://github.com/zhen6618/rotayolo)**|
 |**2023-11-09**|**Data Distillation for Neural Network Potentials toward Foundational Dataset**|Gang Seob Jung et.al.|[2311.05407v1](http://arxiv.org/abs/2311.05407v1)|null|
@@ -1068,7 +1068,7 @@
 |**2023-11-09**|**Fourier Transform-Based Post-Processing Drift Compensation and Calibration Method for Scanning Probe Microscopy**|Maxime Le Ster et.al.|[2311.05345v1](http://arxiv.org/abs/2311.05345v1)|null|
 |**2023-11-09**|**Towards a Taxonomy of Large Language Model based Business Model Transformations**|Jochen Wulf et.al.|[2311.05288v1](http://arxiv.org/abs/2311.05288v1)|null|
 |**2023-11-09**|**deform: An R Package for Nonstationary Spatial Gaussian Process Models by Deformations and Dimension Expansion**|Benjamin D. Youngman et.al.|[2311.05272v1](http://arxiv.org/abs/2311.05272v1)|null|
-|**2023-11-09**|**A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems**|Tim Kräuter et.al.|[2311.05243v1](http://arxiv.org/abs/2311.05243v1)|**[link](https://github.com/timKraeuter/LMCS-2024)**|
+|**2023-11-10**|**A higher-order transformation approach to the formalization and analysis of BPMN using graph transformation systems**|Tim Kräuter et.al.|[2311.05243v2](http://arxiv.org/abs/2311.05243v2)|**[link](https://github.com/timKraeuter/LMCS-2024)**|
 |**2023-11-09**|**Delay Doppler Transform**|Xiang-Gen Xia et.al.|[2311.05236v1](http://arxiv.org/abs/2311.05236v1)|null|
 |**2023-11-09**|**On the security of randomly transformed quadratic programs for privacy-preserving cloud-based control**|Philipp Binfet et.al.|[2311.05215v1](http://arxiv.org/abs/2311.05215v1)|null|
 |**2023-11-09**|**BrainNetDiff: Generative AI Empowers Brain Network Generation via Multimodal Diffusion Model**|Yongcheng Zong et.al.|[2311.05199v1](http://arxiv.org/abs/2311.05199v1)|null|
@@ -1076,7 +1076,7 @@
 |**2023-11-09**|**Improving Whispered Speech Recognition Performance using Pseudo-whispered based Data Augmentation**|Zhaofeng Lin et.al.|[2311.05179v1](http://arxiv.org/abs/2311.05179v1)|null|
 |**2023-11-09**|**The High Energy X-ray Probe (HEX-P): The Future of Hard X-ray Dual AGN Science**|Ryan W. Pfeifle et.al.|[2311.05154v1](http://arxiv.org/abs/2311.05154v1)|null|
 |**2023-11-09**|**Dynamic Association Learning of Self-Attention and Convolution in Image Restoration**|Kui Jiang et.al.|[2311.05147v1](http://arxiv.org/abs/2311.05147v1)|null|
-|**2023-11-09**|**Unusual quasiparticles and tunneling conductance in quantum point contacts in  $ν=2/3$  fractional quantum Hall systems**|Vadim Ponomarenko et.al.|[2311.05142v1](http://arxiv.org/abs/2311.05142v1)|null|
+|**2023-11-10**|**Unusual quasiparticles and tunneling conductance in quantum point contacts in  $ν=2/3$  fractional quantum Hall systems**|Vadim Ponomarenko et.al.|[2311.05142v2](http://arxiv.org/abs/2311.05142v2)|null|
 |**2023-11-09**|**Improving Computational Efficiency for Powered Descent Guidance via Transformer-based Tight Constraint Prediction**|Julia Briden et.al.|[2311.05135v1](http://arxiv.org/abs/2311.05135v1)|null|
 |**2023-11-09**|**ScribblePolyp: Scribble-Supervised Polyp Segmentation through Dual Consistency Alignment**|Zixun Zhang et.al.|[2311.05122v1](http://arxiv.org/abs/2311.05122v1)|null|
 |**2023-11-09**|**GeoFormer: Predicting Human Mobility using Generative Pre-trained Transformer (GPT)**|Aivin V. Solatorio et.al.|[2311.05092v1](http://arxiv.org/abs/2311.05092v1)|null|
@@ -1099,7 +1099,7 @@
 |**2023-11-08**|**Vital Sign Forecasting for Sepsis Patients in ICUs**|Anubhav Bhatti et.al.|[2311.04770v1](http://arxiv.org/abs/2311.04770v1)|null|
 |**2023-11-08**|**Euclidean, Projective, Conformal: Choosing a Geometric Algebra for Equivariant Transformers**|Pim de Haan et.al.|[2311.04744v1](http://arxiv.org/abs/2311.04744v1)|null|
 |**2023-11-08**|**CONCERTO: instrument and status**|Alessandro Fasano et.al.|[2311.04704v1](http://arxiv.org/abs/2311.04704v1)|null|
-|**2023-11-08**|**Generative causality: using Shannon's information theory to infer underlying asymmetry in causal relations**|Soumik Purkayastha et.al.|[2311.04696v1](http://arxiv.org/abs/2311.04696v1)|null|
+|**2023-11-10**|**Generative causality: using Shannon's information theory to infer underlying asymmetry in causal relations**|Soumik Purkayastha et.al.|[2311.04696v2](http://arxiv.org/abs/2311.04696v2)|null|
 |**2023-11-08**|**Learning Quantum Phase Estimation by Variational Quantum Circuits**|Chen-Yu Liu et.al.|[2311.04690v1](http://arxiv.org/abs/2311.04690v1)|**[link](https://github.com/abeeekoala/learnqpe)**|
 |**2023-11-08**|**Analytical investigation of time-dependent two-dimensional non-Newtonian boundary layer equations**|Imre F. Barna et.al.|[2311.04676v1](http://arxiv.org/abs/2311.04676v1)|null|
 |**2023-11-08**|**A Complex Network Analysis on The Eigenvalue Spectra of Random Spin Systems**|Qiaomu Xue et.al.|[2311.04665v1](http://arxiv.org/abs/2311.04665v1)|null|
