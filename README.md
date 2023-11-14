@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-11**|**FiND: Few-shot three-dimensional image-free confocal focusing on point-like emitters**|Swetapadma Sahoo et.al.|[2311.06479v1](http://arxiv.org/abs/2311.06479v1)|null|
 |**2023-11-10**|**Evaluation of Sampling Algorithms for a Pairwise Subjective Assessment Methodology**|Shima Mohammadi et.al.|[2311.06093v1](http://arxiv.org/abs/2311.06093v1)|null|
 |**2023-11-10**|**Plasma Surrogate Modelling using Fourier Neural Operators**|Vignesh Gopakumar et.al.|[2311.05967v1](http://arxiv.org/abs/2311.05967v1)|null|
 |**2023-11-10**|**Quantum light microscopy**|W. P. Bowen et.al.|[2311.05807v1](http://arxiv.org/abs/2311.05807v1)|null|
@@ -1056,6 +1057,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**An Extensive Study on Adversarial Attack against Pre-trained Models of Code**|Xiaohu Du et.al.|[2311.07553v1](http://arxiv.org/abs/2311.07553v1)|**[link](https://github.com/cgcl-codes/attack_ptmc)**|
+|**2023-11-13**|**Tabdoor: Backdoor Vulnerabilities in Transformer-based Neural Networks for Tabular Data**|Bart Pleiter et.al.|[2311.07550v1](http://arxiv.org/abs/2311.07550v1)|null|
+|**2023-11-13**|**Liouville theorems for conformally invariant fully nonlinear equations. I**|BaoZhi Chu et.al.|[2311.07542v1](http://arxiv.org/abs/2311.07542v1)|null|
+|**2023-11-13**|**Grounding Neuroscience in Behavioral Changes using Artificial Neural Networks**|Grace W. Lindsay et.al.|[2311.07526v1](http://arxiv.org/abs/2311.07526v1)|null|
+|**2023-11-13**|**Explicit Foundation Model Optimization with Self-Attentive Feed-Forward Neural Units**|Jake Ryland Williams et.al.|[2311.07510v1](http://arxiv.org/abs/2311.07510v1)|null|
+|**2023-11-13**|**Finding and Editing Multi-Modal Neurons in Pre-Trained Transformer**|Haowen Pan et.al.|[2311.07470v1](http://arxiv.org/abs/2311.07470v1)|null|
+|**2023-11-13**|**Computerized Tomography and Reproducing Kernels**|Ho Yun et.al.|[2311.07465v1](http://arxiv.org/abs/2311.07465v1)|null|
+|**2023-11-13**|**Language Grounded QFormer for Efficient Vision Language Understanding**|Moulik Choraria et.al.|[2311.07449v1](http://arxiv.org/abs/2311.07449v1)|null|
+|**2023-11-13**|**Story-to-Motion: Synthesizing Infinite and Controllable Character Animation from Long Text**|Zhongfei Qing et.al.|[2311.07446v1](http://arxiv.org/abs/2311.07446v1)|null|
+|**2023-11-13**|**Boundedness and Decay for the Teukolsky System in Kerr-Newman Spacetime I: The Case  $|a|, |Q| \ll M$ **|Elena Giorgi et.al.|[2311.07408v1](http://arxiv.org/abs/2311.07408v1)|null|
+|**2023-11-13**|**Optical Darboux Transformer**|Auro M. Perego et.al.|[2311.07373v1](http://arxiv.org/abs/2311.07373v1)|null|
+|**2023-11-13**|**Goal-oriented Estimation of Multiple Markov Sources in Resource-constrained Systems**|Jiping Luo et.al.|[2311.07346v1](http://arxiv.org/abs/2311.07346v1)|null|
+|**2023-11-13**|**An Extension of the Kadomtsev-Petviashvili Hierarchy via Operators with Two Derivations**|Lumin Geng et.al.|[2311.07341v1](http://arxiv.org/abs/2311.07341v1)|null|
+|**2023-11-13**|**Generation of ultrashort light pulses carrying orbital angular momentum using a vortex plate retarder-based approach**|Tlek Tapani et.al.|[2311.07327v1](http://arxiv.org/abs/2311.07327v1)|null|
+|**2023-11-13**|**Connecting the Dots: Graph Neural Network Powered Ensemble and Classification of Medical Images**|Aryan Singh et.al.|[2311.07321v1](http://arxiv.org/abs/2311.07321v1)|**[link](https://github.com/aryan-at-ul/aics_2023_submission)**|
+|**2023-11-13**|**Soliton confinement in the double sine-Gordon model**|S. B. Rutkevich et.al.|[2311.07303v1](http://arxiv.org/abs/2311.07303v1)|null|
+|**2023-11-13**|**Danish Foundation Models**|Kenneth Enevoldsen et.al.|[2311.07264v1](http://arxiv.org/abs/2311.07264v1)|null|
+|**2023-11-13**|**LT-ViT: A Vision Transformer for multi-label Chest X-ray classification**|Umar Marikkar et.al.|[2311.07263v1](http://arxiv.org/abs/2311.07263v1)|null|
+|**2023-11-13**|**DeepMetricEye: Metric Depth Estimation in Periocular VR Imagery**|Yitong Sun et.al.|[2311.07235v1](http://arxiv.org/abs/2311.07235v1)|null|
+|**2023-11-13**|**The  $\bar{\partial}$ -dressing Method for Two (2+1)-dimensional Equations and Combinatorics**|Xuedong Chai et.al.|[2311.07196v1](http://arxiv.org/abs/2311.07196v1)|null|
+|**2023-11-13**|**Cross-Axis Transformer with 2D Rotary Embeddings**|Lily Erickson et.al.|[2311.07184v1](http://arxiv.org/abs/2311.07184v1)|null|
+|**2023-11-13**|**Research and experimental verification on low-frequency long-range sound propagation characteristics under ice-covered and range-dependent marine environment in the Arctic**|Jinbao Weng et.al.|[2311.07175v1](http://arxiv.org/abs/2311.07175v1)|null|
+|**2023-11-13**|**NDDepth: Normal-Distance Assisted Monocular Depth Estimation and Completion**|Shuwei Shao et.al.|[2311.07166v1](http://arxiv.org/abs/2311.07166v1)|**[link](https://github.com/ShuweiShao/NDDepth)**|
+|**2023-11-13**|**Interaction is all You Need? A Study of Robots Ability to Understand and Execute**|Kushal Koshti et.al.|[2311.07150v1](http://arxiv.org/abs/2311.07150v1)|null|
+|**2023-11-13**|**Reconfiguration of basis pairs in regular matroids**|Kristóf Bérczi et.al.|[2311.07130v1](http://arxiv.org/abs/2311.07130v1)|null|
+|**2023-11-13**|**SpectralGPT: Spectral Foundation Model**|Danfeng Hong et.al.|[2311.07113v1](http://arxiv.org/abs/2311.07113v1)|null|
+|**2023-11-13**|**Fovea Transformer: Efficient Long-Context Modeling with Structured Fine-to-Coarse Attention**|Ziwei He et.al.|[2311.07102v1](http://arxiv.org/abs/2311.07102v1)|null|
+|**2023-11-13**|**New aspects of Bargmann transform using Touchard polynomials and hypergeometric functions**|Daniel Alpay et.al.|[2311.07080v1](http://arxiv.org/abs/2311.07080v1)|null|
+|**2023-11-13**|**Symmetry, topology, duality, chirality, and criticality in a spin-1/2 XXZ ladder with a four-spin interaction**|Mateo Fontaine et.al.|[2311.07053v1](http://arxiv.org/abs/2311.07053v1)|null|
+|**2023-11-13**|**An Event-Based Synchronization Framework for Controller Hardware-in-the-loop Simulation of Electric Railway Power Electronics Systems**|Jialin Zheng et.al.|[2311.07036v1](http://arxiv.org/abs/2311.07036v1)|null|
+|**2023-11-13**|**TTMFN: Two-stream Transformer-based Multimodal Fusion Network for Survival Prediction**|Ruiquan Ge et.al.|[2311.07033v1](http://arxiv.org/abs/2311.07033v1)|null|
+|**2023-11-13**|**Quantum and classical query complexities of functions of matrices**|Ashley Montanaro et.al.|[2311.06999v1](http://arxiv.org/abs/2311.06999v1)|null|
+|**2023-11-13**|**The Privacy Pillar -- A Conceptual Framework for Foundation Model-based Systems**|Tingting Bi et.al.|[2311.06998v1](http://arxiv.org/abs/2311.06998v1)|null|
+|**2023-11-13**|**Free-energy estimates from nonequilibrium trajectories under varying-temperature protocols**|Stephen Whitelam et.al.|[2311.06997v1](http://arxiv.org/abs/2311.06997v1)|null|
+|**2023-11-13**|**State-of-the-Art Review and Synthesis: A Requirement-based Roadmap for Standardized Predictive Maintenance Automation Using Digital Twin Technologies**|Sizhe Ma et.al.|[2311.06993v1](http://arxiv.org/abs/2311.06993v1)|null|
+|**2023-11-12**|**Empowering Learning: Standalone, Browser-Only Courses for Seamless Education**|Babak Moghadas et.al.|[2311.06961v1](http://arxiv.org/abs/2311.06961v1)|null|
+|**2023-11-12**|**An Efficient Approach for Identifying Important Biomarkers for Biomedical Diagnosis**|Jing-Wen Huang et.al.|[2311.06945v1](http://arxiv.org/abs/2311.06945v1)|null|
+|**2023-11-12**|**Attention for Causal Relationship Discovery from Biological Neural Dynamics**|Ziyu Lu et.al.|[2311.06928v1](http://arxiv.org/abs/2311.06928v1)|null|
+|**2023-11-12**|**Evolution from quartz (qtz) to diamond (dia) carbon allotropes: Crystal engineering and DFT investigations**|Samir F. Matar et.al.|[2311.06924v1](http://arxiv.org/abs/2311.06924v1)|null|
+|**2023-11-12**|**TSViT: A Time Series Vision Transformer for Fault Diagnosis**|Shouhua Zhang et.al.|[2311.06916v1](http://arxiv.org/abs/2311.06916v1)|null|
+|**2023-11-12**|**Retrieval and Generative Approaches for a Pregnancy Chatbot in Nepali with Stemmed and Non-Stemmed Data : A Comparative Study**|Sujan Poudel et.al.|[2311.06898v1](http://arxiv.org/abs/2311.06898v1)|null|
+|**2023-11-12**|**Three young planets around the K-dwarf K2-198: High-energy environment, evaporation history and expected future**|Laura Ketzer et.al.|[2311.06897v1](http://arxiv.org/abs/2311.06897v1)|null|
+|**2023-11-12**|**On Maxwell-Bloch systems with inhomogeneous broadening and one-sided nonzero background**|Asela Abeya et.al.|[2311.06867v1](http://arxiv.org/abs/2311.06867v1)|null|
+|**2023-11-12**|**DialMAT: Dialogue-Enabled Transformer with Moment-Based Adversarial Training**|Kanta Kaneda et.al.|[2311.06855v1](http://arxiv.org/abs/2311.06855v1)|**[link](https://github.com/keio-smilab23/dialmat)**|
+|**2023-11-12**|**MANSY: Generalizing Neural Adaptive Immersive Video Streaming With Ensemble and Representation Learning**|Duo Wu et.al.|[2311.06812v1](http://arxiv.org/abs/2311.06812v1)|null|
+|**2023-11-12**|**Deep Perspective Transformation Based Vehicle Localization on Bird's Eye View**|Abtin Mahyar et.al.|[2311.06796v1](http://arxiv.org/abs/2311.06796v1)|**[link](https://github.com/ipm-hpc/perspective-bev-transformer)**|
+|**2023-11-12**|**Explainability of Vision Transformers: A Comprehensive Review and New Perspectives**|Rojina Kashefi et.al.|[2311.06786v1](http://arxiv.org/abs/2311.06786v1)|null|
+|**2023-11-12**|**Aggregate, Decompose, and Fine-Tune: A Simple Yet Effective Factor-Tuning Method for Vision Transformer**|Dongping Chen et.al.|[2311.06749v1](http://arxiv.org/abs/2311.06749v1)|null|
+|**2023-11-12**|**Graph Signal Processing For Cancer Gene Co-Expression Network Analysis**|Radwa Adel et.al.|[2311.06747v1](http://arxiv.org/abs/2311.06747v1)|null|
+|**2023-11-12**|**Two Stream Scene Understanding on Graph Embedding**|Wenkai Yang et.al.|[2311.06746v1](http://arxiv.org/abs/2311.06746v1)|null|
 |**2023-11-10**|**Left-handed string and CHY amplitude at one loop**|Yuqi Li et.al.|[2311.06244v1](http://arxiv.org/abs/2311.06244v1)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|
 |**2023-11-10**|**Argumentation Element Annotation Modeling using XLNet**|Christopher Ormerod et.al.|[2311.06239v1](http://arxiv.org/abs/2311.06239v1)|null|
