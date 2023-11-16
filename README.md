@@ -1064,7 +1064,7 @@
 |**2023-11-14**|**Aid Nexus : A Blockchain Based Financial Distribution System**|Md. Raisul Hasan Shahrukh et.al.|[2311.08372v1](http://arxiv.org/abs/2311.08372v1)|null|
 |**2023-11-14**|**USLR: an open-source tool for unbiased and smooth longitudinal registration of brain MR**|Adrià Casamitjana et.al.|[2311.08371v1](http://arxiv.org/abs/2311.08371v1)|**[link](https://github.com/acasamitjana/uslr)**|
 |**2023-11-14**|**Transformers can optimally learn regression mixture models**|Reese Pathak et.al.|[2311.08362v1](http://arxiv.org/abs/2311.08362v1)|null|
-|**2023-11-14**|**The Transient Nature of Emergent In-Context Learning in Transformers**|Aaditya K. Singh et.al.|[2311.08360v1](http://arxiv.org/abs/2311.08360v1)|null|
+|**2023-11-15**|**The Transient Nature of Emergent In-Context Learning in Transformers**|Aaditya K. Singh et.al.|[2311.08360v2](http://arxiv.org/abs/2311.08360v2)|null|
 |**2023-11-14**|**Rotation-Agnostic Image Representation Learning for Digital Pathology**|Saghir Alfasly et.al.|[2311.08359v1](http://arxiv.org/abs/2311.08359v1)|null|
 |**2023-11-14**|**VERVE: Template-based ReflectiVE Rewriting for MotiVational IntErviewing**|Do June Min et.al.|[2311.08299v1](http://arxiv.org/abs/2311.08299v1)|null|
 |**2023-11-14**|**Fast Chain-of-Thought: A Glance of Future from Parallel Decoding Leads to Answers Faster**|Hongxuan Zhang et.al.|[2311.08263v1](http://arxiv.org/abs/2311.08263v1)|null|
@@ -1075,7 +1075,7 @@
 |**2023-11-14**|**The Hyperdimensional Transform for Distributional Modelling, Regression and Classification**|Pieter Dewulf et.al.|[2311.08150v1](http://arxiv.org/abs/2311.08150v1)|**[link](https://github.com/padwulf/chap6_transform_applications)**|
 |**2023-11-14**|**Sinkhorn Transformations for Single-Query Postprocessing in Text-Video Retrieval**|Konstantin Yakovlev et.al.|[2311.08143v1](http://arxiv.org/abs/2311.08143v1)|null|
 |**2023-11-14**|**GMTR: Graph Matching Transformers**|Jinpei Guo et.al.|[2311.08141v1](http://arxiv.org/abs/2311.08141v1)|null|
-|**2023-11-14**|**Exogenous-endogenous surfactant interaction yields heterogeneous spreading in complex branching networks**|Richard Mcnair et.al.|[2311.08133v1](http://arxiv.org/abs/2311.08133v1)|null|
+|**2023-11-15**|**Exogenous-endogenous surfactant interaction yields heterogeneous spreading in complex branching networks**|Richard Mcnair et.al.|[2311.08133v2](http://arxiv.org/abs/2311.08133v2)|null|
 |**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129v1](http://arxiv.org/abs/2311.08129v1)|null|
 |**2023-11-14**|**Lite it fly: An All-Deformable-Butterfly Network**|Rui Lin et.al.|[2311.08125v1](http://arxiv.org/abs/2311.08125v1)|null|
 |**2023-11-14**|**Memory-efficient Stochastic methods for Memory-based Transformers**|Vishwajit Kumar Vishnu et.al.|[2311.08123v1](http://arxiv.org/abs/2311.08123v1)|**[link](https://github.com/vishwajit-vishnu/memory-efficient-stochastic-methods-for-memory-based-transformers)**|
