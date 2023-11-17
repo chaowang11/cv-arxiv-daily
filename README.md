@@ -1100,7 +1100,7 @@
 |**2023-11-15**|**Frequency Domain-based Dataset Distillation**|Donghyeok Shin et.al.|[2311.08819v1](http://arxiv.org/abs/2311.08819v1)|**[link](https://github.com/sdh0818/fred)**|
 |**2023-11-15**|**Degradation Estimation Recurrent Neural Network with Local and Non-Local Priors for Compressive Spectral Imaging**|Yubo Dong et.al.|[2311.08808v1](http://arxiv.org/abs/2311.08808v1)|null|
 |**2023-11-15**|**SparseSpikformer: A Co-Design Framework for Token and Weight Pruning in Spiking Transformer**|Yue Liu et.al.|[2311.08806v1](http://arxiv.org/abs/2311.08806v1)|null|
-|**2023-11-15**|**Factorization of derivatives of Bloch mappings through a Hilbert space**|M. G. Cabrera-Padilla et.al.|[2311.08800v1](http://arxiv.org/abs/2311.08800v1)|null|
+|**2023-11-16**|**Factorization of derivatives of Bloch mappings through a Hilbert space**|M. G. Cabrera-Padilla et.al.|[2311.08800v2](http://arxiv.org/abs/2311.08800v2)|null|
 |**2023-11-15**|**4K-Resolution Photo Exposure Correction at 125 FPS with ~8K Parameters**|Yijie Zhou et.al.|[2311.08759v1](http://arxiv.org/abs/2311.08759v1)|**[link](https://github.com/zhou-yijie/msltnet)**|
 |**2023-11-15**|**Accelerating Toeplitz Neural Network with Constant-time Inference Complexity**|Zhen Qin et.al.|[2311.08756v1](http://arxiv.org/abs/2311.08756v1)|**[link](https://github.com/opennlplab/etsc-exact-toeplitz-to-ssm-conversion)**|
 |**2023-11-15**|**On the area between a Lévy process with secondary jump inputs and its reflected version**|Offer Kella et.al.|[2311.08753v1](http://arxiv.org/abs/2311.08753v1)|null|
@@ -1108,7 +1108,7 @@
 |**2023-11-15**|**Towards Graph-Aware Diffusion Modeling for Collaborative Filtering**|Yunqin Zhu et.al.|[2311.08744v1](http://arxiv.org/abs/2311.08744v1)|null|
 |**2023-11-15**|**Hölder regularity for the trajectories of generalized charged particles in 1D**|Thomas Geert de Jong et.al.|[2311.08739v1](http://arxiv.org/abs/2311.08739v1)|null|
 |**2023-11-15**|**Thread of Thought Unraveling Chaotic Contexts**|Yucheng Zhou et.al.|[2311.08734v1](http://arxiv.org/abs/2311.08734v1)|null|
-|**2023-11-15**|**Optimal Placement of Capacitor in Distribution System using Particle Swarm Optimization**|Izhar Ul Haq et.al.|[2311.08728v1](http://arxiv.org/abs/2311.08728v1)|null|
+|**2023-11-16**|**Optimal Placement of Capacitor in Distribution System using Particle Swarm Optimization**|Izhar Ul Haq et.al.|[2311.08728v2](http://arxiv.org/abs/2311.08728v2)|null|
 |**2023-11-15**|**The Hierarchy of Hereditary Sorting Operators**|Vít Jelínek et.al.|[2311.08727v1](http://arxiv.org/abs/2311.08727v1)|null|
 |**2023-11-15**|**Token Prediction as Implicit Classification to Identify LLM-Generated Text**|Yutian Chen et.al.|[2311.08723v1](http://arxiv.org/abs/2311.08723v1)|**[link](https://github.com/markchenyutian/t5-sentinel-public)**|
 |**2023-11-15**|**High-Precision Fruit Localization Using Active Laser-Camera Scanning: Robust Laser Line Extraction for 2D-3D Transformation**|Pengyu Chu et.al.|[2311.08674v1](http://arxiv.org/abs/2311.08674v1)|null|
