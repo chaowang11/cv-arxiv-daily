@@ -1156,7 +1156,7 @@
 |**2023-11-15**|**FCS-HGNN: Flexible Multi-type Community Search in Heterogeneous Information Networks**|Guoxin Chen et.al.|[2311.08919v1](http://arxiv.org/abs/2311.08919v1)|null|
 |**2023-11-15**|**Concave Toric Domains in Stark-type Mechanical Systems**|Airi Takeuchi et.al.|[2311.08912v1](http://arxiv.org/abs/2311.08912v1)|null|
 |**2023-11-15**|**Progressive Feedback-Enhanced Transformer for Image Forgery Localization**|Haochen Zhu et.al.|[2311.08910v1](http://arxiv.org/abs/2311.08910v1)|null|
-|**2023-11-15**|**Correlation-guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding**|WonJun Moon et.al.|[2311.08835v1](http://arxiv.org/abs/2311.08835v1)|null|
+|**2023-11-15**|**Correlation-guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding**|WonJun Moon et.al.|[2311.08835v1](http://arxiv.org/abs/2311.08835v1)|**[link](https://github.com/wjun0830/cgdetr)**|
 |**2023-11-15**|**Frequency Domain-based Dataset Distillation**|Donghyeok Shin et.al.|[2311.08819v1](http://arxiv.org/abs/2311.08819v1)|**[link](https://github.com/sdh0818/fred)**|
 |**2023-11-15**|**Degradation Estimation Recurrent Neural Network with Local and Non-Local Priors for Compressive Spectral Imaging**|Yubo Dong et.al.|[2311.08808v1](http://arxiv.org/abs/2311.08808v1)|null|
 |**2023-11-15**|**SparseSpikformer: A Co-Design Framework for Token and Weight Pruning in Spiking Transformer**|Yue Liu et.al.|[2311.08806v1](http://arxiv.org/abs/2311.08806v1)|null|
