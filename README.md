@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-16**|**K-space Cold Diffusion: Learning to Reconstruct Accelerated MRI without Noise**|Guoyao Shen et.al.|[2311.10162v1](http://arxiv.org/abs/2311.10162v1)|null|
+|**2023-11-16**|**Combined Channel and Spatial Attention-based Stereo Endoscopic Image Super-Resolution**|Mansoor Hayat et.al.|[2311.10115v1](http://arxiv.org/abs/2311.10115v1)|null|
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089v1](http://arxiv.org/abs/2311.10089v1)|null|
 |**2023-11-16**|**Super-resolved Lasso**|Clarice Poon et.al.|[2311.09928v1](http://arxiv.org/abs/2311.09928v1)|**[link](https://github.com/gpeyre/superresolvedlasso)**|
 |**2023-11-16**|**DSR-Diff: Depth Map Super-Resolution with Diffusion Model**|Yuan Shi et.al.|[2311.09919v1](http://arxiv.org/abs/2311.09919v1)|null|
@@ -683,6 +685,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-16**|**Combined Channel and Spatial Attention-based Stereo Endoscopic Image Super-Resolution**|Mansoor Hayat et.al.|[2311.10115v1](http://arxiv.org/abs/2311.10115v1)|null|
 |**2023-11-16**|**Scene Text Image Super-resolution based on Text-conditional Diffusion Models**|Chihiro Noguchi et.al.|[2311.09759v1](http://arxiv.org/abs/2311.09759v1)|null|
 |**2023-11-16**|**DIFFNAT: Improving Diffusion Image Quality Using Natural Image Statistics**|Aniket Roy et.al.|[2311.09753v1](http://arxiv.org/abs/2311.09753v1)|null|
 |**2023-11-14**|**The Perception-Robustness Tradeoff in Deterministic Image Restoration**|Guy Ohayon et.al.|[2311.09253v1](http://arxiv.org/abs/2311.09253v1)|null|
@@ -1076,6 +1079,50 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Multimodal Representation Learning by Alternating Unimodal Adaptation**|Xiaohui Zhang et.al.|[2311.10707v1](http://arxiv.org/abs/2311.10707v1)|null|
+|**2023-11-17**|**PEFT-MedAware: Large Language Model for Medical Awareness**|Keivalya Pandya et.al.|[2311.10697v1](http://arxiv.org/abs/2311.10697v1)|null|
+|**2023-11-17**|**GhostVec: A New Threat to Speaker Privacy of End-to-End Speech Recognition System**|Xiaojiao Chen et.al.|[2311.10689v1](http://arxiv.org/abs/2311.10689v1)|null|
+|**2023-11-17**|**A sliding window-based algorithm for faster transformation of time series into complex networks**|R. Carmona-Cabezas et.al.|[2311.10688v1](http://arxiv.org/abs/2311.10688v1)|null|
+|**2023-11-17**|**An efficient quantum parallel repetition theorem and applications**|John Bostanci et.al.|[2311.10681v1](http://arxiv.org/abs/2311.10681v1)|null|
+|**2023-11-17**|**3D-TexSeg: Unsupervised Segmentation of 3D Texture using Mutual Transformer Learning**|Iyyakutti Iyappan Ganapathi et.al.|[2311.10651v1](http://arxiv.org/abs/2311.10651v1)|null|
+|**2023-11-17**|**Self-trained Panoptic Segmentation**|Shourya Verma et.al.|[2311.10648v1](http://arxiv.org/abs/2311.10648v1)|null|
+|**2023-11-17**|**Rethinking Attention: Exploring Shallow Feed-Forward Neural Networks as an Alternative to Attention Layers in Transformers**|Vukasin Bozic et.al.|[2311.10642v1](http://arxiv.org/abs/2311.10642v1)|null|
+|**2023-11-17**|**On the nature of screening in charge regulated macroion solutions**|Sunita Kumari et.al.|[2311.10602v1](http://arxiv.org/abs/2311.10602v1)|null|
+|**2023-11-17**|**Designing Reconfigurable Intelligent Systems with Markov Blankets**|Boris Sedlak et.al.|[2311.10597v1](http://arxiv.org/abs/2311.10597v1)|null|
+|**2023-11-17**|**Hashing it Out: Predicting Unhealthy Conversations on Twitter**|Steven Leung et.al.|[2311.10596v1](http://arxiv.org/abs/2311.10596v1)|null|
+|**2023-11-17**|**On CCGG, the De Donder-Weyl Hamiltonian formulation of canonical gauge gravity**|D. Vasak et.al.|[2311.10589v1](http://arxiv.org/abs/2311.10589v1)|null|
+|**2023-11-17**|**SSB: Simple but Strong Baseline for Boosting Performance of Open-Set Semi-Supervised Learning**|Yue Fan et.al.|[2311.10572v1](http://arxiv.org/abs/2311.10572v1)|null|
+|**2023-11-17**|**Worldsheet Formalism for Decoupling Limits in String Theory**|Joaquim Gomis et.al.|[2311.10565v1](http://arxiv.org/abs/2311.10565v1)|null|
+|**2023-11-17**|**Random pure Gaussian states and Hawking radiation**|Erik Aurell et.al.|[2311.10562v1](http://arxiv.org/abs/2311.10562v1)|null|
+|**2023-11-17**|**First-principles investigation of the magnetoelectric properties of Ba $_7$ Mn $_4$ O $_{15}$ **|Urmimala Dey et.al.|[2311.10555v1](http://arxiv.org/abs/2311.10555v1)|null|
+|**2023-11-17**|**Joint covariance property under geometric image transformations for spatio-temporal receptive fields according to generalized Gaussian model for receptive fields**|Tony Lindeberg et.al.|[2311.10543v1](http://arxiv.org/abs/2311.10543v1)|null|
+|**2023-11-17**|**Utilizing VQ-VAE for End-to-End Health Indicator Generation in Predicting Rolling Bearing RUL**|Junliang Wang et.al.|[2311.10525v1](http://arxiv.org/abs/2311.10525v1)|null|
+|**2023-11-17**|**A Formalisation of Core Erlang, a Concurrent Actor Language**|Péter Bereczky et.al.|[2311.10482v1](http://arxiv.org/abs/2311.10482v1)|null|
+|**2023-11-17**|**Hermitian Pseudospectral Shattering, Cholesky, Hermitian Eigenvalues, and Density Functional Theory in Nearly Matrix Multiplication Time**|Aleksandros Sobczyk et.al.|[2311.10459v1](http://arxiv.org/abs/2311.10459v1)|null|
+|**2023-11-17**|**Accurate and Fast Fischer-Tropsch Reaction Microkinetics using PINNs**|Harshil Patel et.al.|[2311.10456v1](http://arxiv.org/abs/2311.10456v1)|null|
+|**2023-11-17**|**Square-Root Higher-Order Unscented Estimators for Robust Orbit Determination**|Yang Yang et.al.|[2311.10452v1](http://arxiv.org/abs/2311.10452v1)|null|
+|**2023-11-17**|**Bound on annealing performance from stochastic thermodynamics, with application to simulated annealing**|Yutong Luo et.al.|[2311.10424v1](http://arxiv.org/abs/2311.10424v1)|null|
+|**2023-11-17**|**Wellposedness of the cubic Gross-Pitaevskii equation with spatial white noise on  $\mathbb{R}^2$ **|Pierre Mackowiak et.al.|[2311.10405v1](http://arxiv.org/abs/2311.10405v1)|null|
+|**2023-11-17**|**Bias A-head? Analyzing Bias in Transformer-Based Language Model Attention Heads**|Yi Yang et.al.|[2311.10395v1](http://arxiv.org/abs/2311.10395v1)|null|
+|**2023-11-17**|**A Bridge between Dynamical Systems and Machine Learning: Engineered Ordinary Differential Equations as Classification Algorithm (EODECA)**|Raffaele Marino et.al.|[2311.10387v1](http://arxiv.org/abs/2311.10387v1)|null|
+|**2023-11-17**|**Dates Fruit Disease Recognition using Machine Learning**|Ghassen Ben Brahim et.al.|[2311.10365v1](http://arxiv.org/abs/2311.10365v1)|null|
+|**2023-11-17**|**Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**|Paul J. Claasen et.al.|[2311.10361v1](http://arxiv.org/abs/2311.10361v1)|null|
+|**2023-11-17**|**Mirrored Transformation Optics**|Junke Liao et.al.|[2311.10334v1](http://arxiv.org/abs/2311.10334v1)|null|
+|**2023-11-17**|**Learning transformer-based heterogeneously salient graph representation for multimodal fusion classification of hyperspectral image and LiDAR data**|Jiaqi Yang et.al.|[2311.10320v1](http://arxiv.org/abs/2311.10320v1)|null|
+|**2023-11-17**|**Semi-supervised ViT knowledge distillation network with style transfer normalization for colorectal liver metastases survival prediction**|Mohamed El Amine Elforaici et.al.|[2311.10305v1](http://arxiv.org/abs/2311.10305v1)|null|
+|**2023-11-17**|**How Much Time is Required for Phase Shift Delivery in RIS-Aided Wireless Systems?**|Hao Xie et.al.|[2311.10295v1](http://arxiv.org/abs/2311.10295v1)|null|
+|**2023-11-17**|**Multiscale Hodge Scattering Networks for Data Analysis**|Naoki Saito et.al.|[2311.10270v1](http://arxiv.org/abs/2311.10270v1)|null|
+|**2023-11-17**|**Diagnosing and Debiasing Corpus-Based Political Bias and Insults in GPT2**|Ambri Ma et.al.|[2311.10266v1](http://arxiv.org/abs/2311.10266v1)|null|
+|**2023-11-17**|**JediCode -- A Gamefied Approach to Competitive Coding**|Ayush Mishra et.al.|[2311.10244v1](http://arxiv.org/abs/2311.10244v1)|null|
+|**2023-11-17**|**Advancements in Generative AI: A Comprehensive Review of GANs, GPT, Autoencoders, Diffusion Model, and Transformers**|Staphord Bengesi et.al.|[2311.10242v1](http://arxiv.org/abs/2311.10242v1)|null|
+|**2023-11-16**|**A case study of multi-modal, multi-institutional data management for the combinatorial materials science community**|Sarah I. Allec et.al.|[2311.10205v1](http://arxiv.org/abs/2311.10205v1)|null|
+|**2023-11-16**|**Generative AI in Undergraduate Information Technology Education -- Insights from nine courses**|Anh Nguyen Duc et.al.|[2311.10199v1](http://arxiv.org/abs/2311.10199v1)|null|
+|**2023-11-16**|**On the numerical solution of a hyperbolic initial boundary value problem by hypersingular boundary integral equations**|Roman Chapko et.al.|[2311.10192v1](http://arxiv.org/abs/2311.10192v1)|null|
+|**2023-11-16**|**Closed-Form Information-Theoretic Roughness Measures for Mixture Densities**|Uwe D. Hanebeck et.al.|[2311.10190v1](http://arxiv.org/abs/2311.10190v1)|null|
+|**2023-11-16**|**Visibility graphs of ground-level ozone time series: A multifractal analysis**|R. Carmona-Cabezas et.al.|[2311.10172v1](http://arxiv.org/abs/2311.10172v1)|null|
+|**2023-11-16**|**Improving Unimodal Inference with Multimodal Transformers**|Kateryna Chumachenko et.al.|[2311.10170v1](http://arxiv.org/abs/2311.10170v1)|null|
+|**2023-11-16**|**K-space Cold Diffusion: Learning to Reconstruct Accelerated MRI without Noise**|Guoyao Shen et.al.|[2311.10162v1](http://arxiv.org/abs/2311.10162v1)|null|
+|**2023-11-16**|**Exploring Emotions in EEG: Deep Learning Approach with Feature Fusion**|Danastan Tasaouf Mridula et.al.|[2311.10155v1](http://arxiv.org/abs/2311.10155v1)|null|
 |**2023-11-16**|**The fractional chromatic number of the plane is at least 4**|Máté Matolcsi et.al.|[2311.10069v1](http://arxiv.org/abs/2311.10069v1)|null|
 |**2023-11-16**|**Analyzing Deviations of Dyadic Lines in Fast Hough Transform**|Gleb Smirnov et.al.|[2311.10064v1](http://arxiv.org/abs/2311.10064v1)|null|
 |**2023-11-16**|**Unconventional conformal invariance of maximal depth partially massless fields on  $dS_{4}$  and its relation to complex partially massless SUSY**|Vasileios A. Letsios et.al.|[2311.10060v1](http://arxiv.org/abs/2311.10060v1)|null|
