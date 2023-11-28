@@ -23,13 +23,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908v1](http://arxiv.org/abs/2311.15908v1)|**[link](https://github.com/claudiom4sir/stablevsr)**|
+|**2023-11-26**|**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration**|Zihao Zou et.al.|[2311.15445v1](http://arxiv.org/abs/2311.15445v1)|null|
+|**2023-11-26**|**Ultra-Range Gesture Recognition using an RGB Camera in Human-Robot Interaction**|Eran Bamani et.al.|[2311.15361v1](http://arxiv.org/abs/2311.15361v1)|null|
+|**2023-11-25**|**Resolution- and Stimulus-agnostic Super-Resolution of Ultra-High-Field Functional MRI: Application to Visual Studies**|Hongwei Bran Li et.al.|[2311.14918v1](http://arxiv.org/abs/2311.14918v1)|null|
+|**2023-11-23**|**SinSR: Diffusion-Based Image Super-Resolution in a Single Step**|Yufei Wang et.al.|[2311.14760v1](http://arxiv.org/abs/2311.14760v1)|**[link](https://github.com/wyf0912/sinsr)**|
 |**2023-11-24**|**Deep Learning for Automatic Strain Quantification in Arrhythmogenic Right Ventricular Cardiomyopathy**|Laura Alvarez-Florez et.al.|[2311.14448v1](http://arxiv.org/abs/2311.14448v1)|null|
 |**2023-11-24**|**Image Super-Resolution with Text Prompt Diffusion**|Zheng Chen et.al.|[2311.14282v1](http://arxiv.org/abs/2311.14282v1)|**[link](https://github.com/zhengchen1999/promptsr)**|
 |**2023-11-23**|**Super-resolution capacity of variance-based stochastic fluorescence microscopy**|Simon Labouesse et.al.|[2311.13897v1](http://arxiv.org/abs/2311.13897v1)|null|
 |**2023-11-22**|**Recognition-Guided Diffusion Model for Scene Text Image Super-Resolution**|Yuxuan Zhou et.al.|[2311.13317v1](http://arxiv.org/abs/2311.13317v1)|null|
 |**2023-11-21**|**Swift Parameter-free Attention Network for Efficient Super-Resolution**|Cheng Wan et.al.|[2311.12770v1](http://arxiv.org/abs/2311.12770v1)|**[link](https://github.com/hongyuanyu/span)**|
 |**2023-11-21**|**Optimal quantum metrology for two-photon absorption**|Athena Karsa et.al.|[2311.12555v1](http://arxiv.org/abs/2311.12555v1)|null|
-|**2023-11-21**|**HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis**|Sang-Hoon Lee et.al.|[2311.12454v1](http://arxiv.org/abs/2311.12454v1)|**[link](https://github.com/sh-lee-prml/hierspeechpp)**|
+|**2023-11-27**|**HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis**|Sang-Hoon Lee et.al.|[2311.12454v2](http://arxiv.org/abs/2311.12454v2)|**[link](https://github.com/sh-lee-prml/hierspeechpp)**|
 |**2023-11-20**|**Efficient Model Agnostic Approach for Implicit Neural Representation Based Arbitrary-Scale Image Super-Resolution**|Young Jae Oh et.al.|[2311.12077v1](http://arxiv.org/abs/2311.12077v1)|null|
 |**2023-11-18**|**LATIS: Lambda Abstraction-based Thermal Image Super-resolution**|Gargi Panda et.al.|[2311.12046v1](http://arxiv.org/abs/2311.12046v1)|null|
 |**2023-11-21**|**Generalized super-resolution 4D Flow MRI  $\unicode{x2013}$  using ensemble learning to extend across the cardiovascular system**|Leon Ericsson et.al.|[2311.11819v2](http://arxiv.org/abs/2311.11819v2)|null|
@@ -695,6 +700,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908v1](http://arxiv.org/abs/2311.15908v1)|**[link](https://github.com/claudiom4sir/stablevsr)**|
+|**2023-11-23**|**SinSR: Diffusion-Based Image Super-Resolution in a Single Step**|Yufei Wang et.al.|[2311.14760v1](http://arxiv.org/abs/2311.14760v1)|**[link](https://github.com/wyf0912/sinsr)**|
 |**2023-11-24**|**Image Super-Resolution with Text Prompt Diffusion**|Zheng Chen et.al.|[2311.14282v1](http://arxiv.org/abs/2311.14282v1)|**[link](https://github.com/zhengchen1999/promptsr)**|
 |**2023-11-22**|**Recognition-Guided Diffusion Model for Scene Text Image Super-Resolution**|Yuxuan Zhou et.al.|[2311.13317v1](http://arxiv.org/abs/2311.13317v1)|null|
 |**2023-11-21**|**Swift Parameter-free Attention Network for Efficient Super-Resolution**|Cheng Wan et.al.|[2311.12770v1](http://arxiv.org/abs/2311.12770v1)|**[link](https://github.com/hongyuanyu/span)**|
@@ -947,6 +954,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908v1](http://arxiv.org/abs/2311.15908v1)|**[link](https://github.com/claudiom4sir/stablevsr)**|
+|**2023-11-26**|**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration**|Zihao Zou et.al.|[2311.15445v1](http://arxiv.org/abs/2311.15445v1)|null|
 |**2023-11-24**|**RBPGAN: Recurrent Back-Projection GAN for Video Super Resolution**|Marwah Sulaiman et.al.|[2311.09178v3](http://arxiv.org/abs/2311.09178v3)|null|
 |**2023-11-08**|**An End-Cloud Computing Enabled Surveillance Video Transmission System**|Dingxi Yang et.al.|[2311.04685v1](http://arxiv.org/abs/2311.04685v1)|null|
 |**2023-11-23**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996v2](http://arxiv.org/abs/2311.00996v2)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
@@ -1094,6 +1103,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Transformer-QEC: Quantum Error Correction Code Decoding with Transferable Transformers**|Hanrui Wang et.al.|[2311.16082v1](http://arxiv.org/abs/2311.16082v1)|null|
+|**2023-11-27**|**OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving**|Wenzhao Zheng et.al.|[2311.16038v1](http://arxiv.org/abs/2311.16038v1)|**[link](https://github.com/wzzheng/occworld)**|
+|**2023-11-27**|**Bifurcation diagrams for spacetime singularities and black holes**|Spiros Cotsakis et.al.|[2311.16000v1](http://arxiv.org/abs/2311.16000v1)|null|
+|**2023-11-27**|**Adversaral Doodles: Interpretable and Human-drawable Attacks Provide Describable Insights**|Ryoya Nara et.al.|[2311.15994v1](http://arxiv.org/abs/2311.15994v1)|null|
+|**2023-11-27**|**Unified Batch Normalization: Identifying and Alleviating the Feature Condensation in Batch Normalization and a Unified Framework**|Shaobo Wang et.al.|[2311.15993v1](http://arxiv.org/abs/2311.15993v1)|null|
+|**2023-11-27**|**Text2Loc: 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2311.15977v1](http://arxiv.org/abs/2311.15977v1)|null|
+|**2023-11-27**|**Efficient Pre-training for Localized Instruction Generation of Videos**|Anil Batra et.al.|[2311.15964v1](http://arxiv.org/abs/2311.15964v1)|null|
+|**2023-11-27**|**Physics-informed neural networks for transformed geometries and manifolds**|Samuel Burbulla et.al.|[2311.15940v1](http://arxiv.org/abs/2311.15940v1)|**[link](https://github.com/samuelburbulla/trafo-pinn)**|
+|**2023-11-27**|**Data Generation for Post-OCR correction of Cyrillic handwriting**|Evgenii Davydkin et.al.|[2311.15896v1](http://arxiv.org/abs/2311.15896v1)|**[link](https://github.com/dbrainio/cyrillichandwritingpoc)**|
+|**2023-11-27**|**RO-LLaMA: Generalist LLM for Radiation Oncology via Noise Augmentation and Consistency Regularization**|Kwanyoung Kim et.al.|[2311.15876v1](http://arxiv.org/abs/2311.15876v1)|null|
+|**2023-11-27**|**Single-Model and Any-Modality for Video Object Tracking**|Zongwei Wu et.al.|[2311.15851v1](http://arxiv.org/abs/2311.15851v1)|null|
+|**2023-11-27**|**Attacking at non-harmonic frequencies in screaming-channel attacks**|Jeremy Guillaume et.al.|[2311.15832v1](http://arxiv.org/abs/2311.15832v1)|null|
+|**2023-11-27**|**A-JEPA: Joint-Embedding Predictive Architecture Can Listen**|Zhengcong Fei et.al.|[2311.15830v1](http://arxiv.org/abs/2311.15830v1)|null|
+|**2023-11-27**|**Spin order dependent skyrmion stabilization in MnFeCoGe hexagonal magnets**|Dola Chakrabartty et.al.|[2311.15823v1](http://arxiv.org/abs/2311.15823v1)|null|
+|**2023-11-27**|**PIPE : Parallelized Inference Through Post-Training Quantization Ensembling of Residual Expansions**|Edouard Yvinec et.al.|[2311.15806v1](http://arxiv.org/abs/2311.15806v1)|null|
+|**2023-11-27**|**Impact of coordinate frames on mode formation in twisted waveguides**|Johannes Bürger et.al.|[2311.15770v1](http://arxiv.org/abs/2311.15770v1)|null|
+|**2023-11-27**|**Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges**|Nianwen Si et.al.|[2311.15766v1](http://arxiv.org/abs/2311.15766v1)|null|
+|**2023-11-27**|**Machine Learning-Based Jamun Leaf Disease Detection: A Comprehensive Review**|Auvick Chandra Bhowmik et.al.|[2311.15741v1](http://arxiv.org/abs/2311.15741v1)|null|
+|**2023-11-27**|**SceneDM: Scene-level Multi-agent Trajectory Generation with Consistent Diffusion Models**|Zhiming Guo et.al.|[2311.15736v1](http://arxiv.org/abs/2311.15736v1)|null|
+|**2023-11-27**|**Small mass graviton propagator via finite-field-dependent BRST transformations in the critical dimension Siegel-Zwiebach action from string theory**|Vipul Kumar Pandey et.al.|[2311.15731v1](http://arxiv.org/abs/2311.15731v1)|null|
+|**2023-11-27**|**Adinkra Symbol Recognition using Classical Machine Learning and Deep Learning**|Michael Adjeisah et.al.|[2311.15728v1](http://arxiv.org/abs/2311.15728v1)|null|
+|**2023-11-27**|**An atom-doped photon engine: Extracting mechanical work from a quantum system via radiation pressure**|Álvaro Tejero et.al.|[2311.15712v1](http://arxiv.org/abs/2311.15712v1)|null|
+|**2023-11-27**|**Cyber risk modeling using a two-phase Hawkes process with external excitation**|Alexandre Boumezoued et.al.|[2311.15701v1](http://arxiv.org/abs/2311.15701v1)|null|
+|**2023-11-27**|**Cerbero-7B: A Leap Forward in Language-Specific LLMs Through Enhanced Chat Corpus Generation and Evaluation**|Federico A. Galatolo et.al.|[2311.15698v1](http://arxiv.org/abs/2311.15698v1)|null|
+|**2023-11-27**|**MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots**|David Rapado-Rincon et.al.|[2311.15674v1](http://arxiv.org/abs/2311.15674v1)|null|
+|**2023-11-27**|**Align before Adapt: Leveraging Entity-to-Region Alignments for Generalizable Video Action Recognition**|Yifei Chen et.al.|[2311.15619v1](http://arxiv.org/abs/2311.15619v1)|null|
+|**2023-11-27**|**Heisenberg Uniqueness Pairs and the wave equation**|Shanlin Huang et.al.|[2311.15601v1](http://arxiv.org/abs/2311.15601v1)|null|
+|**2023-11-27**|**UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition**|Xiaohan Ding et.al.|[2311.15599v1](http://arxiv.org/abs/2311.15599v1)|**[link](https://github.com/ailab-cvc/unireplknet)**|
+|**2023-11-27**|**Versatile non-diffracting beams generator based on free lens modulation**|Xue Yun et.al.|[2311.15589v1](http://arxiv.org/abs/2311.15589v1)|null|
+|**2023-11-27**|**Dawning of a New Era in Gravitational Wave Data Analysis: Unveiling Cosmic Mysteries via Artificial Intelligence -- A Systematic Review**|Tianyu Zhao et.al.|[2311.15585v1](http://arxiv.org/abs/2311.15585v1)|null|
+|**2023-11-27**|**Effects of a rotating periodic lattice on coherent quantum states in a ring topology: The case of positive nonlinearity**|Hongyi Huang et.al.|[2311.15567v1](http://arxiv.org/abs/2311.15567v1)|null|
+|**2023-11-27**|**Beyond Pixels: Exploring Human-Readable SVG Generation for Simple Images with Vision Language Models**|Tong Zhang et.al.|[2311.15543v1](http://arxiv.org/abs/2311.15543v1)|null|
+|**2023-11-27**|**EAFP-Med: An Efficient Adaptive Feature Processing Module Based on Prompts for Medical Image Detection**|Xiang Li et.al.|[2311.15540v1](http://arxiv.org/abs/2311.15540v1)|null|
+|**2023-11-27**|**SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation**|Bin Xie et.al.|[2311.15537v1](http://arxiv.org/abs/2311.15537v1)|**[link](https://github.com/xb534/sed)**|
+|**2023-11-27**|**SVRDA: A Web-based Dataset Annotation Tool for Slice-to-Volume Registration**|Weixun Luo et.al.|[2311.15536v1](http://arxiv.org/abs/2311.15536v1)|**[link](https://github.com/roldbach/svrda)**|
+|**2023-11-27**|**SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation**|Jia Li et.al.|[2311.15530v1](http://arxiv.org/abs/2311.15530v1)|**[link](https://github.com/jlidw/ssin)**|
+|**2023-11-27**|**Active Foundational Models for Fault Diagnosis of Electrical Motors**|Sriram Anbalagan et.al.|[2311.15516v1](http://arxiv.org/abs/2311.15516v1)|null|
+|**2023-11-27**|**Adaptive Image Registration: A Hybrid Approach Integrating Deep Learning and Optimization Functions for Enhanced Precision**|Gabriel De Araujo et.al.|[2311.15497v1](http://arxiv.org/abs/2311.15497v1)|null|
+|**2023-11-27**|**Enhancement of non-Stabilizerness within Indefinite Causal Order**|Yin Mo et.al.|[2311.15494v1](http://arxiv.org/abs/2311.15494v1)|null|
+|**2023-11-27**|**Effects of a rotating periodic lattice on coherent quantum states in a ring topology: The case of negative nonlinearity**|Jonathan Tekverk et.al.|[2311.15479v1](http://arxiv.org/abs/2311.15479v1)|null|
+|**2023-11-27**|**MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers**|Yawar Siddiqui et.al.|[2311.15475v1](http://arxiv.org/abs/2311.15475v1)|null|
+|**2023-11-26**|**Efficient Encoding of Graphics Primitives with Simplex-based Structures**|Yibo Wen et.al.|[2311.15439v1](http://arxiv.org/abs/2311.15439v1)|null|
+|**2023-11-26**|**Functional Diffusion**|Biao Zhang et.al.|[2311.15435v1](http://arxiv.org/abs/2311.15435v1)|null|
+|**2023-11-26**|**Fast calculation of retarded potentials in multi-domain TDDFT**|Matan Shapira et.al.|[2311.15429v1](http://arxiv.org/abs/2311.15429v1)|null|
+|**2023-11-26**|**Automated ring-diagram framework for classifying CP invariants**|Neda Darvishi et.al.|[2311.15422v1](http://arxiv.org/abs/2311.15422v1)|null|
+|**2023-11-26**|**How to Optimize the Environmental Impact of Transformed NoSQL Schemas through a Multidimensional Cost Model?**|Jihane Mali et.al.|[2311.15406v1](http://arxiv.org/abs/2311.15406v1)|null|
+|**2023-11-26**|**Local Convergence of Approximate Newton Method for Two Layer Nonlinear Regression**|Zhihang Li et.al.|[2311.15390v1](http://arxiv.org/abs/2311.15390v1)|null|
+|**2023-11-26**|**Spectro-ViT: A Vision Transformer Model for GABA-edited MRS Reconstruction Using Spectrograms**|Gabriel Dias et.al.|[2311.15386v1](http://arxiv.org/abs/2311.15386v1)|null|
+|**2023-11-26**|**Untargeted Code Authorship Evasion with Seq2Seq Transformation**|Soohyeon Choi et.al.|[2311.15366v1](http://arxiv.org/abs/2311.15366v1)|null|
+|**2023-11-26**|**Ultra-Range Gesture Recognition using an RGB Camera in Human-Robot Interaction**|Eran Bamani et.al.|[2311.15361v1](http://arxiv.org/abs/2311.15361v1)|null|
 |**2023-11-24**|**Differentiable and accelerated spherical harmonic and Wigner transforms**|Matthew A. Price et.al.|[2311.14670v1](http://arxiv.org/abs/2311.14670v1)|**[link](https://github.com/astro-informatics/s2fft)**|
 |**2023-11-24**|**Lattice investigations of the chimera baryon spectrum in the Sp(4) gauge theory**|Ed Bennett et.al.|[2311.14663v1](http://arxiv.org/abs/2311.14663v1)|null|
 |**2023-11-24**|**Calibrated Language Models Must Hallucinate**|Adam Tauman Kalai et.al.|[2311.14648v1](http://arxiv.org/abs/2311.14648v1)|null|
@@ -12063,6 +12122,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-26**|**Flow-Guided Diffusion for Video Inpainting**|Bohai Gu et.al.|[2311.15368v1](http://arxiv.org/abs/2311.15368v1)|**[link](https://github.com/nevsnev/fgdvi)**|
 |**2023-11-02**|**Infusion: Internal Diffusion for Video Inpainting**|Nicolas Cherel et.al.|[2311.01090v1](http://arxiv.org/abs/2311.01090v1)|null|
 |**2023-10-11**|**Deep Video Inpainting Guided by Audio-Visual Self-Supervision**|Kyuyeon Kim et.al.|[2310.07663v1](http://arxiv.org/abs/2310.07663v1)|**[link](https://github.com/kyuyeonpooh/Audio-Visual-Deep-Video-Inpainting)**|
 |**2023-09-28**|**UVL: A Unified Framework for Video Tampering Localization**|Pengfei Pei et.al.|[2309.16126v1](http://arxiv.org/abs/2309.16126v1)|null|
