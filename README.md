@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Neural Fields with Thermal Activations for Arbitrary-Scale Super-Resolution**|Alexander Becker et.al.|[2311.17643v1](http://arxiv.org/abs/2311.17643v1)|null|
+|**2023-11-29**|**Cross-Scope Spatial-Spectral Information Aggregation for Hyperspectral Image Super-Resolution**|Shi Chen et.al.|[2311.17340v1](http://arxiv.org/abs/2311.17340v1)|**[link](https://github.com/tomchenshi/cst)**|
 |**2023-11-28**|**Super-Resolution through StyleGAN Regularized Latent Search: A Realism-Fidelity Trade-off**|Marzieh Gheisari et.al.|[2311.16923v1](http://arxiv.org/abs/2311.16923v1)|null|
 |**2023-11-28**|**Brain-ID: Learning Robust Feature Representations for Brain Imaging**|Peirong Liu et.al.|[2311.16914v1](http://arxiv.org/abs/2311.16914v1)|**[link](https://github.com/peirong26/Brain-ID)**|
 |**2023-11-28**|**Precision Enhancement in Spatial Measurement by Introducing Squeezed Light into Weak Value Amplification**|Chaoxia Zhang et.al.|[2311.16622v1](http://arxiv.org/abs/2311.16622v1)|null|
@@ -707,6 +709,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Neural Fields with Thermal Activations for Arbitrary-Scale Super-Resolution**|Alexander Becker et.al.|[2311.17643v1](http://arxiv.org/abs/2311.17643v1)|null|
+|**2023-11-29**|**Cross-Scope Spatial-Spectral Information Aggregation for Hyperspectral Image Super-Resolution**|Shi Chen et.al.|[2311.17340v1](http://arxiv.org/abs/2311.17340v1)|**[link](https://github.com/tomchenshi/cst)**|
 |**2023-11-27**|**SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2311.16518v1](http://arxiv.org/abs/2311.16518v1)|**[link](https://github.com/cswry/seesr)**|
 |**2023-11-27**|**LFSRDiff: Light Field Image Super-Resolution via Diffusion Models**|Wentao Chao et.al.|[2311.16517v1](http://arxiv.org/abs/2311.16517v1)|**[link](https://github.com/chaowentao/lfsrdiff)**|
 |**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908v1](http://arxiv.org/abs/2311.15908v1)|**[link](https://github.com/claudiom4sir/stablevsr)**|
@@ -1112,6 +1116,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v1](http://arxiv.org/abs/2311.17921v1)|null|
+|**2023-11-29**|**Autoencoder-based analytic continuation method for strongly correlated quantum systems**|Maksymilian Kliczkowski et.al.|[2311.17920v1](http://arxiv.org/abs/2311.17920v1)|null|
+|**2023-11-29**|**Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models**|Daniel Geng et.al.|[2311.17919v1](http://arxiv.org/abs/2311.17919v1)|null|
+|**2023-11-29**|**Language-conditioned Detection Transformer**|Jang Hyun Cho et.al.|[2311.17902v1](http://arxiv.org/abs/2311.17902v1)|**[link](https://github.com/janghyuncho/decola)**|
+|**2023-11-29**|**Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation**|Shuangrui Ding et.al.|[2311.17893v1](http://arxiv.org/abs/2311.17893v1)|null|
+|**2023-11-29**|**Pose Anything: A Graph-Based Approach for Category-Agnostic Pose Estimation**|Or Hirschorn et.al.|[2311.17891v1](http://arxiv.org/abs/2311.17891v1)|**[link](https://github.com/orhir/PoseAnything)**|
+|**2023-11-29**|**Direct Fabrication of Atomically Defined Pores in MXenes**|Matthew G. Boebinger et.al.|[2311.17864v1](http://arxiv.org/abs/2311.17864v1)|null|
+|**2023-11-29**|**SPiC-E : Structural Priors in 3D Diffusion Models using Cross Entity Attention**|Etai Sella et.al.|[2311.17834v1](http://arxiv.org/abs/2311.17834v1)|null|
+|**2023-11-29**|**Fixed point actions from convolutional neural networks**|Kieran Holland et.al.|[2311.17816v1](http://arxiv.org/abs/2311.17816v1)|null|
+|**2023-11-29**|**A Bayesian model for dynamic mass reconstruction from PET listmode data**|Marco Mauritz et.al.|[2311.17784v1](http://arxiv.org/abs/2311.17784v1)|null|
+|**2023-11-29**|**Propagate & Distill: Towards Effective Graph Learners Using Propagation-Embracing MLPs**|Yong-Min Shin et.al.|[2311.17781v1](http://arxiv.org/abs/2311.17781v1)|null|
+|**2023-11-29**|** $Q_{bias}$  -- A Dataset on Media Bias in Search Queries and Query Suggestions**|Fabian Haak et.al.|[2311.17780v1](http://arxiv.org/abs/2311.17780v1)|null|
+|**2023-11-29**|**Enumeration of Minimum Weight Codewords of Pre-Transformed Polar Codes by Tree Intersection**|Andreas Zunker et.al.|[2311.17774v1](http://arxiv.org/abs/2311.17774v1)|null|
+|**2023-11-29**|**Baryonic Screening Masses in High Temperature QCD**|Pietro Rescigno et.al.|[2311.17761v1](http://arxiv.org/abs/2311.17761v1)|null|
+|**2023-11-29**|**SenTest: Evaluating Robustness of Sentence Encoders**|Tanmay Chavan et.al.|[2311.17722v1](http://arxiv.org/abs/2311.17722v1)|null|
+|**2023-11-29**|** $Ab-intio$  tensile tests applied to BCC refractory alloys**|Vishnu Raghuraman et.al.|[2311.17713v1](http://arxiv.org/abs/2311.17713v1)|null|
+|**2023-11-29**|**How to Build an AI Tutor that Can Adapt to Any Course and Provide Accurate Answers Using Large Language Model and Retrieval-Augmented Generation**|Chenxi Dong et.al.|[2311.17696v1](http://arxiv.org/abs/2311.17696v1)|null|
+|**2023-11-29**|**AviationGPT: A Large Language Model for the Aviation Domain**|Liya Wang et.al.|[2311.17686v1](http://arxiv.org/abs/2311.17686v1)|null|
+|**2023-11-29**|**Melting curve of black phosphorus: evidence for a solid-liquid-liquid triple point**|Hermann Muhammad et.al.|[2311.17683v1](http://arxiv.org/abs/2311.17683v1)|null|
+|**2023-11-29**|**Potentials and fields of a charge set suddenly from rest into uniform motion**|V. Hnizdo et.al.|[2311.17652v1](http://arxiv.org/abs/2311.17652v1)|null|
+|**2023-11-29**|**Resurgence of refined topological strings and dual partition functions**|Sergey Alexandrov et.al.|[2311.17638v1](http://arxiv.org/abs/2311.17638v1)|null|
+|**2023-11-29**|**Introduction to Transformers: an NLP Perspective**|Tong Xiao et.al.|[2311.17633v1](http://arxiv.org/abs/2311.17633v1)|null|
+|**2023-11-29**|**Focus on Query: Adversarial Mining Transformer for Few-Shot Segmentation**|Yuan Wang et.al.|[2311.17626v1](http://arxiv.org/abs/2311.17626v1)|**[link](https://github.com/wyxdm/amnet)**|
+|**2023-11-29**|**Linear Matching of JavaScript Regular Expressions**|Aurèle Barrière et.al.|[2311.17620v1](http://arxiv.org/abs/2311.17620v1)|null|
+|**2023-11-29**|**Integrable symplectic maps with a polygon tessellation**|Timofey Zolkin et.al.|[2311.17616v1](http://arxiv.org/abs/2311.17616v1)|null|
+|**2023-11-29**|**Continual Learning with Low Rank Adaptation**|Martin Wistuba et.al.|[2311.17601v1](http://arxiv.org/abs/2311.17601v1)|null|
+|**2023-11-29**|**Scale Invariant Correspondence Analysis**|Vartan Choulakian et.al.|[2311.17594v1](http://arxiv.org/abs/2311.17594v1)|null|
+|**2023-11-29**|**LanGWM: Language Grounded World Model**|Rudra P. K. Poudel et.al.|[2311.17593v1](http://arxiv.org/abs/2311.17593v1)|null|
+|**2023-11-29**|**LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**|Wenhao Zhong et.al.|[2311.17571v1](http://arxiv.org/abs/2311.17571v1)|null|
+|**2023-11-29**|**VINNA for Neonates -- Orientation Independence through Latent Augmentations**|Leonie Henschel et.al.|[2311.17546v1](http://arxiv.org/abs/2311.17546v1)|null|
+|**2023-11-29**|**Active Encoding of Flexural Wave with Non-Diffractive Talbot Effect**|Zhiqiang Li et.al.|[2311.17535v1](http://arxiv.org/abs/2311.17535v1)|null|
+|**2023-11-29**|**Reinforcement Replaces Supervision: Query focused Summarization using Deep Reinforcement Learning**|Swaroop Nath et.al.|[2311.17514v1](http://arxiv.org/abs/2311.17514v1)|null|
+|**2023-11-29**|**PViT-6D: Overclocking Vision Transformers for 6D Pose Estimation with Confidence-Level Prediction and Pose Tokens**|Sebastian Stapf et.al.|[2311.17504v1](http://arxiv.org/abs/2311.17504v1)|null|
+|**2023-11-29**|**Spherical Frustum Sparse Convolution Network for LiDAR Point Cloud Semantic Segmentation**|Yu Zheng et.al.|[2311.17491v1](http://arxiv.org/abs/2311.17491v1)|null|
+|**2023-11-29**|**CLiSA: A Hierarchical Hybrid Transformer Model using Orthogonal Cross Attention for Satellite Image Cloud Segmentation**|Subhajit Paul et.al.|[2311.17475v1](http://arxiv.org/abs/2311.17475v1)|null|
+|**2023-11-29**|**Distributed AI in Zero-touch Provisioning for Edge Networks: Challenges and Research Directions**|Abhishek Hazra et.al.|[2311.17471v1](http://arxiv.org/abs/2311.17471v1)|null|
+|**2023-11-29**|**Réductions d'un système bidimensionnel de sine-Gordon à la sixième équation de Painlevé**|Robert Conte et.al.|[2311.17469v1](http://arxiv.org/abs/2311.17469v1)|null|
+|**2023-11-29**|**Wireless Network Digital Twin for 6G: Generative AI as A Key Enabler**|Zhenyu Tao et.al.|[2311.17451v1](http://arxiv.org/abs/2311.17451v1)|null|
+|**2023-11-29**|**SigFormer: Sparse Signal-Guided Transformer for Multi-Modal Human Action Segmentation**|Qi Liu et.al.|[2311.17428v1](http://arxiv.org/abs/2311.17428v1)|**[link](https://github.com/liuqi-creat/sigformer)**|
+|**2023-11-29**|**SpeechAct: Towards Generating Whole-body Motion from Speech**|Jinsong Zhang et.al.|[2311.17425v1](http://arxiv.org/abs/2311.17425v1)|null|
+|**2023-11-29**|**Sewing skyrmion and antiskyrmion by quadrupole of Bloch points**|Jin Tang et.al.|[2311.17422v1](http://arxiv.org/abs/2311.17422v1)|null|
+|**2023-11-29**|**Observation of Hybrid Magnetic Skyrmion Bubbles in Fe3Sn2 Nanodisks**|Lingyao Kong et.al.|[2311.17413v1](http://arxiv.org/abs/2311.17413v1)|null|
+|**2023-11-29**|**Current-Controlled Skyrmion Number in Confined Ferromagnetic Nanostripes**|Jialiang Jiang et.al.|[2311.17411v1](http://arxiv.org/abs/2311.17411v1)|null|
+|**2023-11-29**|**Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention**|Lujia Shen et.al.|[2311.17400v1](http://arxiv.org/abs/2311.17400v1)|null|
+|**2023-11-29**|**A Morse theoretical approach to Fourier transforms of holonomic D-modules in dimension one**|Kazuki Kudomi et.al.|[2311.17395v1](http://arxiv.org/abs/2311.17395v1)|null|
+|**2023-11-29**|**Attribute Simulation for Item Embedding Enhancement in Multi-interest Recommendation**|Yaokun Liu et.al.|[2311.17374v1](http://arxiv.org/abs/2311.17374v1)|null|
+|**2023-11-29**|**Generative Hierarchical Temporal Transformer for Hand Action Recognition and Motion Prediction**|Yilin Wen et.al.|[2311.17366v1](http://arxiv.org/abs/2311.17366v1)|null|
+|**2023-11-29**|**Exploring Large Language Models for Human Mobility Prediction under Public Events**|Yuebing Liang et.al.|[2311.17351v1](http://arxiv.org/abs/2311.17351v1)|null|
+|**2023-11-29**|**Cross-Scope Spatial-Spectral Information Aggregation for Hyperspectral Image Super-Resolution**|Shi Chen et.al.|[2311.17340v1](http://arxiv.org/abs/2311.17340v1)|**[link](https://github.com/tomchenshi/cst)**|
+|**2023-11-29**|**eMotions: A Large-Scale Dataset for Emotion Recognition in Short Videos**|Xuecheng Wu et.al.|[2311.17335v1](http://arxiv.org/abs/2311.17335v1)|**[link](https://github.com/xuecwu/emotions)**|
 |**2023-11-28**|**MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training**|Pavan Kumar Anasosalu Vasu et.al.|[2311.17049v1](http://arxiv.org/abs/2311.17049v1)|null|
 |**2023-11-28**|**An Investigation of Time Reversal Symmetry in Reinforcement Learning**|Brett Barkley et.al.|[2311.17008v1](http://arxiv.org/abs/2311.17008v1)|null|
 |**2023-11-28**|**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**|Kunchang Li et.al.|[2311.17005v1](http://arxiv.org/abs/2311.17005v1)|**[link](https://github.com/opengvlab/ask-anything)**|
@@ -12061,11 +12115,11 @@
 |**2023-07-13**|**Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation**|Chun Fu et.al.|[2307.05926v2](http://arxiv.org/abs/2307.05926v2)|**[link](https://github.com/buds-lab/filling-time-series-gaps-using-image-techniques)**|
 |**2023-07-12**|**DiffuseGAE: Controllable and High-fidelity Image Manipulation from Disentangled Representation**|Yipeng Leng et.al.|[2307.05899v1](http://arxiv.org/abs/2307.05899v1)|null|
 |**2023-07-01**|**WavePaint: Resource-efficient Token-mixer for Self-supervised Inpainting**|Pranav Jeevan et.al.|[2307.00407v1](http://arxiv.org/abs/2307.00407v1)|**[link](https://github.com/pranavphoenix/WavePaint)**|
-|**2023-06-30**|**Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**|Luhuan Wu et.al.|[2306.17775v1](http://arxiv.org/abs/2306.17775v1)|**[link](https://github.com/blt2114/twisted_diffusion_sampler)**|
+|**2023-06-30**|**Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**|Luhuan Wu et.al.|[2306.17775v1](http://arxiv.org/abs/2306.17775v1)|null|
 |**2023-06-29**|**Guided Deep Generative Model-based Spatial Regularization for Multiband Imaging Inverse Problems**|Min Zhao et.al.|[2306.17197v1](http://arxiv.org/abs/2306.17197v1)|null|
 |**2023-06-28**|**The forward-backward-forward algorithm with extrapolation from the past and penalty scheme for solving monotone inclusion problems and applications**|Buris Tongnoi et.al.|[2306.16592v1](http://arxiv.org/abs/2306.16592v1)|null|
 |**2023-06-21**|**TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting**|Liang Liao et.al.|[2306.11528v2](http://arxiv.org/abs/2306.11528v2)|**[link](https://github.com/cameltr/transref)**|
-|**2023-11-04**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869v3](http://arxiv.org/abs/2306.09869v3)|**[link](https://github.com/energyattention/energy-based-crossattention)**|
+|**2023-11-04**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869v3](http://arxiv.org/abs/2306.09869v3)|null|
 |**2023-07-08**|**Deep Generative Models for Decision-Making and Control**|Michael Janner et.al.|[2306.08810v2](http://arxiv.org/abs/2306.08810v2)|null|
 |**2023-06-13**|**Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**|Ricong Huang et.al.|[2306.07579v1](http://arxiv.org/abs/2306.07579v1)|null|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632v1](http://arxiv.org/abs/2306.04632v1)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
@@ -12182,7 +12236,7 @@
 |**2023-11-02**|**Infusion: Internal Diffusion for Video Inpainting**|Nicolas Cherel et.al.|[2311.01090v1](http://arxiv.org/abs/2311.01090v1)|null|
 |**2023-10-11**|**Deep Video Inpainting Guided by Audio-Visual Self-Supervision**|Kyuyeon Kim et.al.|[2310.07663v1](http://arxiv.org/abs/2310.07663v1)|**[link](https://github.com/kyuyeonpooh/Audio-Visual-Deep-Video-Inpainting)**|
 |**2023-09-28**|**UVL: A Unified Framework for Video Tampering Localization**|Pengfei Pei et.al.|[2309.16126v1](http://arxiv.org/abs/2309.16126v1)|null|
-|**2023-09-26**|**Bitstream-Corrupted Video Recovery: A Novel Benchmark Dataset and Method**|Tianyi Liu et.al.|[2309.13890v2](http://arxiv.org/abs/2309.13890v2)|**[link](https://github.com/liutighe/bscv-dataset)**|
+|**2023-09-26**|**Bitstream-Corrupted Video Recovery: A Novel Benchmark Dataset and Method**|Tianyi Liu et.al.|[2309.13890v2](http://arxiv.org/abs/2309.13890v2)|null|
 |**2023-09-07**|**ProPainter: Improving Propagation and Transformer for Video Inpainting**|Shangchen Zhou et.al.|[2309.03897v1](http://arxiv.org/abs/2309.03897v1)|**[link](https://github.com/sczhou/propainter)**|
 |**2023-08-28**|**UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization**|Rui Zhang et.al.|[2308.14395v1](http://arxiv.org/abs/2308.14395v1)|**[link](https://github.com/ymhzyj/UMMAFormer)**|
 |**2023-08-02**|**ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation**|Yasheng Sun et.al.|[2308.00906v1](http://arxiv.org/abs/2308.00906v1)|null|
