@@ -1117,7 +1117,7 @@
 |**2023-11-28**|**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**|Kunchang Li et.al.|[2311.17005v1](http://arxiv.org/abs/2311.17005v1)|**[link](https://github.com/opengvlab/ask-anything)**|
 |**2023-11-28**|**Nested Integrals and Rationalizing Transformations**|Clemens G. Raab et.al.|[2311.16992v1](http://arxiv.org/abs/2311.16992v1)|null|
 |**2023-11-28**|**COLE: A Hierarchical Generation Framework for Graphic Design**|Peidong Jia et.al.|[2311.16974v1](http://arxiv.org/abs/2311.16974v1)|null|
-|**2023-11-28**|**Deriving the one-electron Spectral Function for the 1D Hubbard Model**|D. Bozi et.al.|[2311.16954v1](http://arxiv.org/abs/2311.16954v1)|null|
+|**2023-11-29**|**Deriving the one-electron Spectral Function for the 1D Hubbard Model**|D. Bozi et.al.|[2311.16954v2](http://arxiv.org/abs/2311.16954v2)|null|
 |**2023-11-28**|**Multiallelic Walsh transforms**|Devin Greene et.al.|[2311.16925v1](http://arxiv.org/abs/2311.16925v1)|null|
 |**2023-11-28**|**UGG: Unified Generative Grasping**|Jiaxin Lu et.al.|[2311.16917v1](http://arxiv.org/abs/2311.16917v1)|null|
 |**2023-11-28**|**65 GOPS/neuron Photonic Tensor Core with Thin-film Lithium Niobate Photonics**|Zhongjin Lin et.al.|[2311.16896v1](http://arxiv.org/abs/2311.16896v1)|null|
@@ -1160,7 +1160,7 @@
 |**2023-11-27**|**Transformer-QEC: Quantum Error Correction Code Decoding with Transferable Transformers**|Hanrui Wang et.al.|[2311.16082v1](http://arxiv.org/abs/2311.16082v1)|null|
 |**2023-11-27**|**OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving**|Wenzhao Zheng et.al.|[2311.16038v1](http://arxiv.org/abs/2311.16038v1)|**[link](https://github.com/wzzheng/occworld)**|
 |**2023-11-27**|**Bifurcation diagrams for spacetime singularities and black holes**|Spiros Cotsakis et.al.|[2311.16000v1](http://arxiv.org/abs/2311.16000v1)|null|
-|**2023-11-27**|**Adversaral Doodles: Interpretable and Human-drawable Attacks Provide Describable Insights**|Ryoya Nara et.al.|[2311.15994v1](http://arxiv.org/abs/2311.15994v1)|null|
+|**2023-11-28**|**Adversarial Doodles: Interpretable and Human-drawable Attacks Provide Describable Insights**|Ryoya Nara et.al.|[2311.15994v2](http://arxiv.org/abs/2311.15994v2)|null|
 |**2023-11-27**|**Unified Batch Normalization: Identifying and Alleviating the Feature Condensation in Batch Normalization and a Unified Framework**|Shaobo Wang et.al.|[2311.15993v1](http://arxiv.org/abs/2311.15993v1)|null|
 |**2023-11-27**|**Text2Loc: 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2311.15977v1](http://arxiv.org/abs/2311.15977v1)|null|
 |**2023-11-27**|**Efficient Pre-training for Localized Instruction Generation of Videos**|Anil Batra et.al.|[2311.15964v1](http://arxiv.org/abs/2311.15964v1)|null|
