@@ -1137,7 +1137,7 @@
 |**2023-11-30**|**Learning One-Shot 4D Head Avatar Synthesis using Synthetic Data**|Yu Deng et.al.|[2311.18729v1](http://arxiv.org/abs/2311.18729v1)|null|
 |**2023-11-30**|**AI in Pharma for Personalized Sequential Decision-Making: Methods, Applications and Opportunities**|Yuhan Li et.al.|[2311.18725v1](http://arxiv.org/abs/2311.18725v1)|null|
 |**2023-11-30**|**RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance**|Chantal Pellegrini et.al.|[2311.18681v1](http://arxiv.org/abs/2311.18681v1)|**[link](https://github.com/chantalmp/radialog)**|
-|**2023-11-30**|**Solving the Team Orienteering Problem with Transformers**|Daniel Fuertes et.al.|[2311.18662v1](http://arxiv.org/abs/2311.18662v1)|**[link](https://github.com/danifuertes/top_transformer)**|
+|**2023-12-01**|**Solving the Team Orienteering Problem with Transformers**|Daniel Fuertes et.al.|[2311.18662v2](http://arxiv.org/abs/2311.18662v2)|**[link](https://github.com/danifuertes/top_transformer)**|
 |**2023-11-30**|**Simple Semantic-Aided Few-Shot Learning**|Hai Zhang et.al.|[2311.18649v1](http://arxiv.org/abs/2311.18649v1)|null|
 |**2023-11-30**|**Stochastic Vision Transformers with Wasserstein Distance-Aware Attention**|Franciskus Xaverius Erick et.al.|[2311.18645v1](http://arxiv.org/abs/2311.18645v1)|null|
 |**2023-11-30**|**A Lightweight Clustering Framework for Unsupervised Semantic Segmentation**|Yau Shing Jonathan Cheung et.al.|[2311.18628v1](http://arxiv.org/abs/2311.18628v1)|null|
