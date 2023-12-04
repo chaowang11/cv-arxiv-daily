@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Infrared Image Super-Resolution via GAN**|Yongsong Huang et.al.|[2312.00689v1](http://arxiv.org/abs/2312.00689v1)|null|
+|**2023-11-30**|**DREAM: Diffusion Rectification and Estimation-Adaptive Models**|Jinxin Zhou et.al.|[2312.00210v1](http://arxiv.org/abs/2312.00210v1)|null|
 |**2023-11-30**|**DifAugGAN: A Practical Diffusion-style Data Augmentation for GAN-based Single Image Super-resolution**|Axi Niu et.al.|[2311.18508v1](http://arxiv.org/abs/2311.18508v1)|null|
 |**2023-11-30**|**HiPA: Enabling One-Step Text-to-Image Diffusion Models via High-Frequency-Promoting Adaptation**|Yifan Zhang et.al.|[2311.18158v1](http://arxiv.org/abs/2311.18158v1)|null|
 |**2023-11-29**|**Zooming Out on Zooming In: Advancing Super-Resolution for Remote Sensing**|Piper Wolters et.al.|[2311.18082v1](http://arxiv.org/abs/2311.18082v1)|**[link](https://github.com/allenai/satlas-super-resolution)**|
@@ -713,6 +715,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Infrared Image Super-Resolution via GAN**|Yongsong Huang et.al.|[2312.00689v1](http://arxiv.org/abs/2312.00689v1)|null|
+|**2023-11-30**|**DREAM: Diffusion Rectification and Estimation-Adaptive Models**|Jinxin Zhou et.al.|[2312.00210v1](http://arxiv.org/abs/2312.00210v1)|null|
 |**2023-11-30**|**DifAugGAN: A Practical Diffusion-style Data Augmentation for GAN-based Single Image Super-resolution**|Axi Niu et.al.|[2311.18508v1](http://arxiv.org/abs/2311.18508v1)|null|
 |**2023-11-29**|**PEAN: A Diffusion-based Prior-Enhanced Attention Network for Scene Text Image Super-Resolution**|Zuoyan Zhao et.al.|[2311.17955v1](http://arxiv.org/abs/2311.17955v1)|null|
 |**2023-11-29**|**Neural Fields with Thermal Activations for Arbitrary-Scale Super-Resolution**|Alexander Becker et.al.|[2311.17643v1](http://arxiv.org/abs/2311.17643v1)|null|
@@ -1122,6 +1126,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**The U.S. CMS HL-LHC R&D Strategic Plan**|Oliver Gutsche et.al.|[2312.00772v1](http://arxiv.org/abs/2312.00772v1)|null|
+|**2023-12-01**|**New polyconvolution product for Fourier-cosine and Laplace integral operators and their applications**|Trinh Tuan et.al.|[2312.00764v1](http://arxiv.org/abs/2312.00764v1)|null|
+|**2023-12-01**|**Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting**|Sangamesh Kodge et.al.|[2312.00761v1](http://arxiv.org/abs/2312.00761v1)|null|
+|**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752v1](http://arxiv.org/abs/2312.00752v1)|null|
+|**2023-12-01**|**Mitigating Over-smoothing in Transformers via Regularized Nonlocal Functionals**|Tam Nguyen et.al.|[2312.00751v1](http://arxiv.org/abs/2312.00751v1)|null|
+|**2023-12-01**|**Carroll Fermions**|Eric A. Bergshoeff et.al.|[2312.00745v1](http://arxiv.org/abs/2312.00745v1)|null|
+|**2023-12-01**|**Generalized Quantum Singular Value Transformation**|Christoph Sünderhauf et.al.|[2312.00723v1](http://arxiv.org/abs/2312.00723v1)|null|
+|**2023-12-01**|**Efficiently Processing Large Relational Joins on GPUs**|Bowen Wu et.al.|[2312.00720v1](http://arxiv.org/abs/2312.00720v1)|null|
+|**2023-12-01**|**GIFT: Generative Interpretable Fine-Tuning Transformers**|Chinmay Savadikar et.al.|[2312.00700v1](http://arxiv.org/abs/2312.00700v1)|**[link](https://github.com/savadikarc/gift)**|
+|**2023-12-01**|**Rethinking Detection Based Table Structure Recognition for Visually Rich Documents**|Bin Xiao et.al.|[2312.00699v1](http://arxiv.org/abs/2312.00699v1)|null|
+|**2023-12-01**|**Contextualized word senses: from attention to compositionality**|Pablo Gamallo et.al.|[2312.00680v1](http://arxiv.org/abs/2312.00680v1)|null|
+|**2023-12-01**|**The Efficiency Spectrum of Large Language Models: An Algorithmic Survey**|Tianyu Ding et.al.|[2312.00678v1](http://arxiv.org/abs/2312.00678v1)|**[link](https://github.com/tding1/efficient-llm-survey)**|
+|**2023-12-01**|**The Automatic Identification and Tracking of Coronal Flux Ropes -- Part II: New Mathematical Morphology-based Flux Rope Extraction Method and Deflection Analysis**|Andreas Wagner et.al.|[2312.00673v1](http://arxiv.org/abs/2312.00673v1)|null|
+|**2023-12-01**|**A transform pair for bounded convex planar domains**|Jesse Hulse et.al.|[2312.00668v1](http://arxiv.org/abs/2312.00668v1)|null|
+|**2023-12-01**|**Nonparametric Variational Regularisation of Pretrained Transformers**|Fabio Fehr et.al.|[2312.00662v1](http://arxiv.org/abs/2312.00662v1)|null|
+|**2023-12-01**|**SPOT: Self-Training with Patch-Order Permutation for Object-Centric Learning with Autoregressive Transformers**|Ioannis Kakogeorgiou et.al.|[2312.00648v1](http://arxiv.org/abs/2312.00648v1)|**[link](https://github.com/gkakogeorgiou/spot)**|
+|**2023-12-01**|**A Recent Survey of Vision Transformers for Medical Image Segmentation**|Asifullah Khan et.al.|[2312.00634v1](http://arxiv.org/abs/2312.00634v1)|null|
+|**2023-12-01**|**Towards Efficient 3D Object Detection in Bird's-Eye-View Space for Autonomous Driving: A Convolutional-Only Approach**|Yuxin Li et.al.|[2312.00633v1](http://arxiv.org/abs/2312.00633v1)|null|
+|**2023-12-01**|**The Ecosystem of Trust (EoT): Enabling effective deployment of autonomous systems through collaborative and trusted ecosystems**|Jon Arne Glomsrud et.al.|[2312.00629v1](http://arxiv.org/abs/2312.00629v1)|null|
+|**2023-12-01**|**Wehrl Entropy and Entanglement Complexity of Quantum Spin Systems**|Chen Xu et.al.|[2312.00611v1](http://arxiv.org/abs/2312.00611v1)|null|
+|**2023-12-01**|**BCN: Batch Channel Normalization for Image Classification**|Afifa Khaled et.al.|[2312.00596v1](http://arxiv.org/abs/2312.00596v1)|**[link](https://github.com/AfifaKhaled/Batch-Channel-Normalization)**|
+|**2023-12-01**|**The sub-Riemannian X-ray Transform on H-type groups: Fourier-Slice Theorems and Injectivity sets**|Steven Flynn et.al.|[2312.00594v1](http://arxiv.org/abs/2312.00594v1)|null|
+|**2023-12-01**|**Event Recognition in Laparoscopic Gynecology Videos with Hybrid Transformers**|Sahar Nasirihaghighi et.al.|[2312.00593v1](http://arxiv.org/abs/2312.00593v1)|null|
+|**2023-12-01**|**Pathway to a fully data-driven geotechnics: lessons from materials informatics**|Stephen Wu et.al.|[2312.00581v1](http://arxiv.org/abs/2312.00581v1)|null|
+|**2023-12-01**|**Questioning Biases in Case Judgment Summaries: Legal Datasets or Large Language Models?**|Aniket Deroy et.al.|[2312.00554v1](http://arxiv.org/abs/2312.00554v1)|null|
+|**2023-12-01**|**Causal propensity as an antecedent of entrepreneurial intentions in tourism students**|Alicia Martin-Navarro et.al.|[2312.00517v1](http://arxiv.org/abs/2312.00517v1)|null|
+|**2023-12-01**|**PyraTrans: Learning Attention-Enriched Multi-Scale Pyramid Network from Pre-Trained Transformers for Effective Malicious URL Detection**|Ruitong Liu et.al.|[2312.00508v1](http://arxiv.org/abs/2312.00508v1)|null|
+|**2023-12-01**|**Absolute separability witnesses for symmetric multiqubit states**|Eduardo Serrano-Ensástiga et.al.|[2312.00497v1](http://arxiv.org/abs/2312.00497v1)|null|
+|**2023-12-01**|**Atiyah sequences of braided Lie algebras and their splittings**|Paolo Aschieri et.al.|[2312.00495v1](http://arxiv.org/abs/2312.00495v1)|null|
+|**2023-12-01**|**Suppression of the Talbot effect in Fourier transform acousto-optic imaging**|Maïmouna Bocoum et.al.|[2312.00432v1](http://arxiv.org/abs/2312.00432v1)|null|
+|**2023-12-01**|**SCHEME: Scalable Channer Mixer for Vision Transformers**|Deepak Sridhar et.al.|[2312.00412v1](http://arxiv.org/abs/2312.00412v1)|null|
+|**2023-12-01**|**A framework for mining lifestyle profiles through multi-dimensional and high-order mobility feature clustering**|Yeshuo Shu et.al.|[2312.00411v1](http://arxiv.org/abs/2312.00411v1)|null|
+|**2023-12-01**|**GMM-lev estimation and individual heterogeneity: Monte Carlo evidence and empirical applications**|Maria Elena Bontempi et.al.|[2312.00399v1](http://arxiv.org/abs/2312.00399v1)|null|
+|**2023-12-01**|**Learning to Estimate Critical Gait Parameters from Single-View RGB Videos with Transformer-Based Attention Network**|Quoc Hung T. Le et.al.|[2312.00398v1](http://arxiv.org/abs/2312.00398v1)|null|
+|**2023-12-01**|**The effective potential of composite operator in the first order region of QCD phase transition**|Hui-wen Zheng et.al.|[2312.00382v1](http://arxiv.org/abs/2312.00382v1)|null|
+|**2023-12-01**|**Unleashing Cheapfakes through Trojan Plugins of Large Language Models**|Tian Dong et.al.|[2312.00374v1](http://arxiv.org/abs/2312.00374v1)|null|
+|**2023-12-01**|**Matrix representations of linear transformations on bicomplex space**|Anjali et.al.|[2312.00361v1](http://arxiv.org/abs/2312.00361v1)|null|
+|**2023-12-01**|**Hypergraph Node Representation Learning with One-Stage Message Passing**|Shilin Qu et.al.|[2312.00336v1](http://arxiv.org/abs/2312.00336v1)|null|
+|**2023-12-01**|**Green Edge AI: A Contemporary Survey**|Yuyi Mao et.al.|[2312.00333v1](http://arxiv.org/abs/2312.00333v1)|null|
+|**2023-12-01**|**3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation**|Zidu Wang et.al.|[2312.00311v1](http://arxiv.org/abs/2312.00311v1)|null|
+|**2023-11-30**|**Short Review of the main achievements of the Scalar Field, Fuzzy, Ultralight, Wave, BEC Dark Matter model**|Tonatiuh Matos et.al.|[2312.00254v1](http://arxiv.org/abs/2312.00254v1)|null|
+|**2023-11-30**|**Brainformer: Modeling MRI Brain Functions to Machine Vision**|Xuan-Bac Nguyen et.al.|[2312.00236v1](http://arxiv.org/abs/2312.00236v1)|null|
+|**2023-11-30**|**Relevance-guided Neural Machine Translation**|Isidora Chara Tourni et.al.|[2312.00214v1](http://arxiv.org/abs/2312.00214v1)|null|
+|**2023-11-30**|**EpiTESTER: Testing Autonomous Vehicles with Epigenetic Algorithm and Attention Mechanism**|Chengjie Lu et.al.|[2312.00207v1](http://arxiv.org/abs/2312.00207v1)|**[link](https://github.com/simula-complex/epitester)**|
+|**2023-11-30**|**Robust Concept Erasure via Kernelized Rate-Distortion Maximization**|Somnath Basu Roy Chowdhury et.al.|[2312.00194v1](http://arxiv.org/abs/2312.00194v1)|**[link](https://github.com/brcsomnath/kram)**|
+|**2023-11-30**|**Planning Reliability Assurance Tests for Autonomous Vehicles**|Simin Zheng et.al.|[2312.00186v1](http://arxiv.org/abs/2312.00186v1)|null|
+|**2023-11-30**|**Subspace methods for electronic structure simulations on quantum computers**|Mario Motta et.al.|[2312.00178v1](http://arxiv.org/abs/2312.00178v1)|null|
+|**2023-11-30**|**Ellora: Exploring Low-Power OFDM-based Radar Processors using Approximate Computing**|Rajat Bhattacharjya et.al.|[2312.00176v1](http://arxiv.org/abs/2312.00176v1)|null|
+|**2023-11-30**|**Compression of end-to-end non-autoregressive image-to-speech system for low-resourced devices**|Gokul Srinivasagan et.al.|[2312.00174v1](http://arxiv.org/abs/2312.00174v1)|null|
+|**2023-11-30**|**Fool the Hydra: Adversarial Attacks against Multi-view Object Detection Systems**|Bilel Tarchoun et.al.|[2312.00173v1](http://arxiv.org/abs/2312.00173v1)|null|
 |**2023-11-30**|**Just Add  $π$ ! Pose Induced Video Transformers for Understanding Activities of Daily Living**|Dominick Reilly et.al.|[2311.18840v1](http://arxiv.org/abs/2311.18840v1)|null|
 |**2023-11-30**|**InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation**|Rongyao Fang et.al.|[2311.18835v1](http://arxiv.org/abs/2311.18835v1)|**[link](https://github.com/rongyaofang/instructseq)**|
 |**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v1](http://arxiv.org/abs/2311.18828v1)|null|
