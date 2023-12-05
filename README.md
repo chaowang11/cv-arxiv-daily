@@ -1128,7 +1128,7 @@
 |---|---|---|---|---|
 |**2023-12-01**|**The U.S. CMS HL-LHC R&D Strategic Plan**|Oliver Gutsche et.al.|[2312.00772v1](http://arxiv.org/abs/2312.00772v1)|null|
 |**2023-12-01**|**New polyconvolution product for Fourier-cosine and Laplace integral operators and their applications**|Trinh Tuan et.al.|[2312.00764v1](http://arxiv.org/abs/2312.00764v1)|null|
-|**2023-12-01**|**Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting**|Sangamesh Kodge et.al.|[2312.00761v1](http://arxiv.org/abs/2312.00761v1)|null|
+|**2023-12-04**|**Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting**|Sangamesh Kodge et.al.|[2312.00761v2](http://arxiv.org/abs/2312.00761v2)|null|
 |**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752v1](http://arxiv.org/abs/2312.00752v1)|null|
 |**2023-12-01**|**Mitigating Over-smoothing in Transformers via Regularized Nonlocal Functionals**|Tam Nguyen et.al.|[2312.00751v1](http://arxiv.org/abs/2312.00751v1)|null|
 |**2023-12-01**|**Carroll Fermions**|Eric A. Bergshoeff et.al.|[2312.00745v1](http://arxiv.org/abs/2312.00745v1)|null|
@@ -1165,7 +1165,7 @@
 |**2023-12-01**|**Matrix representations of linear transformations on bicomplex space**|Anjali et.al.|[2312.00361v1](http://arxiv.org/abs/2312.00361v1)|null|
 |**2023-12-01**|**Hypergraph Node Representation Learning with One-Stage Message Passing**|Shilin Qu et.al.|[2312.00336v1](http://arxiv.org/abs/2312.00336v1)|null|
 |**2023-12-01**|**Green Edge AI: A Contemporary Survey**|Yuyi Mao et.al.|[2312.00333v1](http://arxiv.org/abs/2312.00333v1)|null|
-|**2023-12-01**|**3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation**|Zidu Wang et.al.|[2312.00311v1](http://arxiv.org/abs/2312.00311v1)|null|
+|**2023-12-04**|**3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation**|Zidu Wang et.al.|[2312.00311v2](http://arxiv.org/abs/2312.00311v2)|null|
 |**2023-11-30**|**Short Review of the main achievements of the Scalar Field, Fuzzy, Ultralight, Wave, BEC Dark Matter model**|Tonatiuh Matos et.al.|[2312.00254v1](http://arxiv.org/abs/2312.00254v1)|null|
 |**2023-11-30**|**Brainformer: Modeling MRI Brain Functions to Machine Vision**|Xuan-Bac Nguyen et.al.|[2312.00236v1](http://arxiv.org/abs/2312.00236v1)|null|
 |**2023-11-30**|**Relevance-guided Neural Machine Translation**|Isidora Chara Tourni et.al.|[2312.00214v1](http://arxiv.org/abs/2312.00214v1)|null|
@@ -12212,7 +12212,7 @@
 |**2023-11-17**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v3](http://arxiv.org/abs/2308.10436v3)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
 |**2023-08-15**|**Geometry of the Visual Cortex with Applications to Image Inpainting and Enhancement**|Francesco Ballerin et.al.|[2308.07652v1](http://arxiv.org/abs/2308.07652v1)|**[link](https://github.com/ballerin/v1diffusion)**|
-|**2023-08-09**|**Boosting Data-Driven Mirror Descent with Randomization, Equivariance, and Acceleration**|Hong Ye Tan et.al.|[2308.05045v1](http://arxiv.org/abs/2308.05045v1)|null|
+|**2023-12-02**|**Boosting Data-Driven Mirror Descent with Randomization, Equivariance, and Acceleration**|Hong Ye Tan et.al.|[2308.05045v2](http://arxiv.org/abs/2308.05045v2)|null|
 |**2023-08-03**|**Erase and Repair: An Efficient Box-Free Removal Attack on High-Capacity Deep Hiding**|Hangcheng Liu et.al.|[2308.01512v1](http://arxiv.org/abs/2308.01512v1)|null|
 |**2023-08-01**|**Seeing Behind Dynamic Occlusions with Event Cameras**|Rong Zou et.al.|[2307.15829v2](http://arxiv.org/abs/2307.15829v2)|null|
 |**2023-07-26**|**SuperInpaint: Learning Detail-Enhanced Attentional Implicit Representation for Super-resolutional Image Inpainting**|Canyu Zhang et.al.|[2307.14489v1](http://arxiv.org/abs/2307.14489v1)|null|
