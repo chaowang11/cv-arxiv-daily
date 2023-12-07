@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Training Neural Networks on RAW and HDR Images for Restoration Tasks**|Lei Luo et.al.|[2312.03640v1](http://arxiv.org/abs/2312.03640v1)|**[link](https://github.com/gfxdisp/colorvideovdp)**|
+|**2023-12-06**|**Observations of super-resolution using phase-controlled coherent photons in a delayed-choice quantum eraser scheme**|Sangbae Kim et.al.|[2312.03343v1](http://arxiv.org/abs/2312.03343v1)|null|
 |**2023-12-04**|**Conditional Variational Diffusion Models**|Gabriel della Maggiora et.al.|[2312.02246v1](http://arxiv.org/abs/2312.02246v1)|null|
 |**2023-12-04**|**Generative Powers of Ten**|Xiaojuan Wang et.al.|[2312.02149v1](http://arxiv.org/abs/2312.02149v1)|null|
 |**2023-12-04**|**SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network**|Neeraj Baghel et.al.|[2312.01999v1](http://arxiv.org/abs/2312.01999v1)|null|
@@ -31,7 +33,7 @@
 |**2023-12-05**|**Joint Multiple FMCW Chirp Sequence Processing for Velocity Estimation and Ambiguity Resolving**|Tarik Kazaz et.al.|[2312.01123v2](http://arxiv.org/abs/2312.01123v2)|null|
 |**2023-12-02**|**High-speed image reconstruction for nonlinear structured illumination microscopy**|Jingxiang Zhang et.al.|[2312.01073v1](http://arxiv.org/abs/2312.01073v1)|null|
 |**2023-12-02**|**Spectral-wise Implicit Neural Representation for Hyperspectral Image Reconstruction**|Huan Chen et.al.|[2312.01061v1](http://arxiv.org/abs/2312.01061v1)|null|
-|**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853v1](http://arxiv.org/abs/2312.00853v1)|null|
+|**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853v1](http://arxiv.org/abs/2312.00853v1)|**[link](https://github.com/ianyeung/mgld-vsr)**|
 |**2023-12-01**|**Infrared Image Super-Resolution via GAN**|Yongsong Huang et.al.|[2312.00689v1](http://arxiv.org/abs/2312.00689v1)|null|
 |**2023-11-30**|**DREAM: Diffusion Rectification and Estimation-Adaptive Models**|Jinxin Zhou et.al.|[2312.00210v1](http://arxiv.org/abs/2312.00210v1)|null|
 |**2023-11-30**|**DifAugGAN: A Practical Diffusion-style Data Augmentation for GAN-based Single Image Super-resolution**|Axi Niu et.al.|[2311.18508v1](http://arxiv.org/abs/2311.18508v1)|null|
@@ -45,7 +47,7 @@
 |**2023-11-28**|**Precision Enhancement in Spatial Measurement by Introducing Squeezed Light into Weak Value Amplification**|Chaoxia Zhang et.al.|[2311.16622v1](http://arxiv.org/abs/2311.16622v1)|null|
 |**2023-11-27**|**SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2311.16518v1](http://arxiv.org/abs/2311.16518v1)|**[link](https://github.com/cswry/seesr)**|
 |**2023-11-27**|**LFSRDiff: Light Field Image Super-Resolution via Diffusion Models**|Wentao Chao et.al.|[2311.16517v1](http://arxiv.org/abs/2311.16517v1)|**[link](https://github.com/chaowentao/lfsrdiff)**|
-|**2023-12-02**|**CoSeR: Bridging Image and Language for Cognitive Super-Resolution**|Haoze Sun et.al.|[2311.16512v3](http://arxiv.org/abs/2311.16512v3)|null|
+|**2023-12-02**|**CoSeR: Bridging Image and Language for Cognitive Super-Resolution**|Haoze Sun et.al.|[2311.16512v3](http://arxiv.org/abs/2311.16512v3)|**[link](https://github.com/vinhyu/coser)**|
 |**2023-11-27**|**SIRAN: Sinkhorn Distance Regularized Adversarial Network for DEM Super-resolution using Discriminative Spatial Self-attention**|Subhajit Paul et.al.|[2311.16490v1](http://arxiv.org/abs/2311.16490v1)|null|
 |**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908v1](http://arxiv.org/abs/2311.15908v1)|**[link](https://github.com/claudiom4sir/stablevsr)**|
 |**2023-11-26**|**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration**|Zihao Zou et.al.|[2311.15445v1](http://arxiv.org/abs/2311.15445v1)|null|
@@ -724,6 +726,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Training Neural Networks on RAW and HDR Images for Restoration Tasks**|Lei Luo et.al.|[2312.03640v1](http://arxiv.org/abs/2312.03640v1)|**[link](https://github.com/gfxdisp/colorvideovdp)**|
 |**2023-12-04**|**Generative Powers of Ten**|Xiaojuan Wang et.al.|[2312.02149v1](http://arxiv.org/abs/2312.02149v1)|null|
 |**2023-12-04**|**SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network**|Neeraj Baghel et.al.|[2312.01999v1](http://arxiv.org/abs/2312.01999v1)|null|
 |**2023-12-04**|**J-Net: Improved U-Net for Terahertz Image Super-Resolution**|Woon-Ha Yeo et.al.|[2312.01638v1](http://arxiv.org/abs/2312.01638v1)|null|
@@ -989,7 +992,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853v1](http://arxiv.org/abs/2312.00853v1)|null|
+|**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853v1](http://arxiv.org/abs/2312.00853v1)|**[link](https://github.com/ianyeung/mgld-vsr)**|
 |**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908v1](http://arxiv.org/abs/2311.15908v1)|**[link](https://github.com/claudiom4sir/stablevsr)**|
 |**2023-11-26**|**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration**|Zihao Zou et.al.|[2311.15445v1](http://arxiv.org/abs/2311.15445v1)|null|
 |**2023-11-24**|**RBPGAN: Recurrent Back-Projection GAN for Video Super Resolution**|Marwah Sulaiman et.al.|[2311.09178v3](http://arxiv.org/abs/2311.09178v3)|null|
@@ -1139,6 +1142,45 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Parameter-Efficient Transfer Learning of Audio Spectrogram Transformers**|Umberto Cappellazzo et.al.|[2312.03694v1](http://arxiv.org/abs/2312.03694v1)|null|
+|**2023-12-06**|**What Planning Problems Can A Relational Neural Network Solve?**|Jiayuan Mao et.al.|[2312.03682v1](http://arxiv.org/abs/2312.03682v1)|**[link](https://github.com/concepts-ai/goal-regression-width)**|
+|**2023-12-06**|**Interpretability Illusions in the Generalization of Simplified Models**|Dan Friedman et.al.|[2312.03656v1](http://arxiv.org/abs/2312.03656v1)|null|
+|**2023-12-06**|**Editable Stain Transformation Of Histological Images Using Unpaired GANs**|Tibor Sloboda et.al.|[2312.03647v1](http://arxiv.org/abs/2312.03647v1)|**[link](https://github.com/slobodaapl/xai-cyclegan-2)**|
+|**2023-12-06**|**Transformer-Powered Surrogates Close the ICF Simulation-Experiment Gap with Extremely Limited Data**|Matthew L. Olson et.al.|[2312.03642v1](http://arxiv.org/abs/2312.03642v1)|null|
+|**2023-12-06**|**Fed-urlBERT: Client-side Lightweight Federated Transformers for URL Threat Analysis**|Yujie Li et.al.|[2312.03636v1](http://arxiv.org/abs/2312.03636v1)|null|
+|**2023-12-06**|**Towards Time Sensitive Networking on Smart Cities: Techniques, Challenges, and Solutions**|Rui Lopes et.al.|[2312.03635v1](http://arxiv.org/abs/2312.03635v1)|null|
+|**2023-12-06**|**On the Obtaining Solutions of Nonlinear Differential Equations by Means of the Solutions of Simpler Linear or Nonlinear Differential Equations**|Nikolay K. Vitanov et.al.|[2312.03621v1](http://arxiv.org/abs/2312.03621v1)|null|
+|**2023-12-06**|**MMM: Generative Masked Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2312.03596v1](http://arxiv.org/abs/2312.03596v1)|null|
+|**2023-12-06**|**DocBinFormer: A Two-Level Transformer Network for Effective Document Image Binarization**|Risab Biswas et.al.|[2312.03568v1](http://arxiv.org/abs/2312.03568v1)|null|
+|**2023-12-06**|**XAIQA: Explainer-Based Data Augmentation for Extractive Question Answering**|Joel Stremmel et.al.|[2312.03567v1](http://arxiv.org/abs/2312.03567v1)|null|
+|**2023-12-06**|**Blueprinting the Future: Automatic Item Categorization using Hierarchical Zero-Shot and Few-Shot Classifiers**|Ting Wang et.al.|[2312.03561v1](http://arxiv.org/abs/2312.03561v1)|null|
+|**2023-12-06**|**When an Image is Worth 1,024 x 1,024 Words: A Case Study in Computational Pathology**|Wenhui Wang et.al.|[2312.03558v1](http://arxiv.org/abs/2312.03558v1)|null|
+|**2023-12-06**|**Cutoff brane vs the Karch-Randall brane: the fluctuating case**|Jiong Lin et.al.|[2312.03531v1](http://arxiv.org/abs/2312.03531v1)|null|
+|**2023-12-06**|**Exploring Answer Information Methods for Question Generation with Transformers**|Talha Chafekar et.al.|[2312.03483v1](http://arxiv.org/abs/2312.03483v1)|null|
+|**2023-12-06**|**The Onsager-Machlup action functional for degenerate McKean-Vlasov Stochastic Differential Equations**|Shanqi Liu et.al.|[2312.03472v1](http://arxiv.org/abs/2312.03472v1)|null|
+|**2023-12-06**|**F3-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis**|Sitong Su et.al.|[2312.03459v1](http://arxiv.org/abs/2312.03459v1)|null|
+|**2023-12-06**|**The recursive structure of Baikov representations II: the top-down reduction with intersection theory**|Xuhang Jiang et.al.|[2312.03453v1](http://arxiv.org/abs/2312.03453v1)|null|
+|**2023-12-06**|**Synthesizing Physical Backdoor Datasets: An Automated Framework Leveraging Deep Generative Models**|Sze Jue Yang et.al.|[2312.03419v1](http://arxiv.org/abs/2312.03419v1)|null|
+|**2023-12-06**|**Compressed Context Memory For Online Language Model Interaction**|Jang-Hyun Kim et.al.|[2312.03414v1](http://arxiv.org/abs/2312.03414v1)|**[link](https://github.com/snu-mllab/context-memory)**|
+|**2023-12-06**|**A Text-to-Text Model for Multilingual Offensive Language Identification**|Tharindu Ranasinghe et.al.|[2312.03379v1](http://arxiv.org/abs/2312.03379v1)|null|
+|**2023-12-06**|**Understanding Concepts in Graph Signal Processing for Neurophysiological Signal Analysis**|Stephan Goerttler et.al.|[2312.03371v1](http://arxiv.org/abs/2312.03371v1)|null|
+|**2023-12-06**|**Darboux transformations of spacelike curves in the Lorentz-Minkowski plane**|Masaya Hara et.al.|[2312.03363v1](http://arxiv.org/abs/2312.03363v1)|null|
+|**2023-12-06**|**KhabarChin: Automatic Detection of Important News in the Persian Language**|Hamed Hematian Hemati et.al.|[2312.03361v1](http://arxiv.org/abs/2312.03361v1)|null|
+|**2023-12-06**|**Online Vectorized HD Map Construction using Geometry**|Zhixin Zhang et.al.|[2312.03341v1](http://arxiv.org/abs/2312.03341v1)|**[link](https://github.com/cnzzx/gemap)**|
+|**2023-12-06**|**Analysis of Generalized Iteratively Regularized Landweber Iterations driven by data**|Andrea Aspri et.al.|[2312.03337v1](http://arxiv.org/abs/2312.03337v1)|null|
+|**2023-12-06**|**Lightweight Speaker Verification Using Transformation Module with Feature Partition and Fusion**|Yanxiong Li et.al.|[2312.03324v1](http://arxiv.org/abs/2312.03324v1)|null|
+|**2023-12-06**|**Channel-Transferable Semantic Communications for Multi-User OFDM-NOMA Systems**|Lan Lin et.al.|[2312.03299v1](http://arxiv.org/abs/2312.03299v1)|null|
+|**2023-12-06**|**STEP CATFormer: Spatial-Temporal Effective Body-Part Cross Attention Transformer for Skeleton-based Action Recognition**|Nguyen Huu Bao Long et.al.|[2312.03288v1](http://arxiv.org/abs/2312.03288v1)|**[link](https://github.com/maclong01/STEP-CATFormer)**|
+|**2023-12-06**|**An inverter-chain link implementation of quantum teleportation and superdense coding**|Felix A. Buot et.al.|[2312.03276v1](http://arxiv.org/abs/2312.03276v1)|null|
+|**2023-12-06**|**Impact of Charge on Complexity Analysis and Isotropic Decoupled Solutions in  $f(\mathbb{R},\mathbb{T})$  Gravity**|M. Sharif et.al.|[2312.03242v1](http://arxiv.org/abs/2312.03242v1)|null|
+|**2023-12-05**|**Efficient quantum circuits for port-based teleportation**|Dmitry Grinko et.al.|[2312.03188v1](http://arxiv.org/abs/2312.03188v1)|null|
+|**2023-12-05**|**Adaptive spectral graph wavelets for collaborative filtering**|Osama Alshareet et.al.|[2312.03167v1](http://arxiv.org/abs/2312.03167v1)|null|
+|**2023-12-05**|**Predicting Bone Degradation Using Vision Transformer and Synthetic Cellular Microstructures Dataset**|Mohammad Saber Hashemi et.al.|[2312.03133v1](http://arxiv.org/abs/2312.03133v1)|null|
+|**2023-12-05**|**Semi-visible jets, energy-based models, and self-supervision**|Luigi Favaro et.al.|[2312.03067v1](http://arxiv.org/abs/2312.03067v1)|null|
+|**2023-12-05**|**A Foray on SCFT $_3$  via Super Spinor-Helicity and Grassmann Twistor Variables**|Sachin Jain et.al.|[2312.03059v1](http://arxiv.org/abs/2312.03059v1)|null|
+|**2023-12-05**|**DiffusionPCR: Diffusion Models for Robust Multi-Step Point Cloud Registration**|Zhi Chen et.al.|[2312.03053v1](http://arxiv.org/abs/2312.03053v1)|null|
+|**2023-12-05**|**MagicStick: Controllable Video Editing via Control Handle Transformations**|Yue Ma et.al.|[2312.03047v1](http://arxiv.org/abs/2312.03047v1)|**[link](https://github.com/mayuelala/magicstick)**|
+|**2023-12-05**|**Transformer-Based Deep Learning Model for Bored Pile Load-Deformation Prediction in Bangkok Subsoil**|Sompote Youwai et.al.|[2312.03041v1](http://arxiv.org/abs/2312.03041v1)|null|
 |**2023-12-05**|**Exploring the nonclassical dynamics of the "classical'' Schrödinger equation**|David Navia et.al.|[2312.02977v1](http://arxiv.org/abs/2312.02977v1)|null|
 |**2023-12-05**|**Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World**|Kiana Ehsani et.al.|[2312.02976v1](http://arxiv.org/abs/2312.02976v1)|null|
 |**2023-12-05**|**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**|Shoukang Hu et.al.|[2312.02973v1](http://arxiv.org/abs/2312.02973v1)|**[link](https://github.com/skhu101/gauhuman)**|
@@ -12300,6 +12342,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting**|Junhao Zhuang et.al.|[2312.03594v1](http://arxiv.org/abs/2312.03594v1)|null|
 |**2023-12-03**|**CalliPaint: Chinese Calligraphy Inpainting with Diffusion Model**|Qisheng Liao et.al.|[2312.01536v1](http://arxiv.org/abs/2312.01536v1)|null|
 |**2023-11-28**|**Denoising Diffusion Probabilistic Models for Image Inpainting of Cell Distributions in the Human Brain**|Jan-Oliver Kropp et.al.|[2311.16821v1](http://arxiv.org/abs/2311.16821v1)|null|
 |**2023-11-28**|**Efficient Multimodal Diffusion Models Using Joint Data Infilling with Partially Shared U-Net**|Zizhao Hu et.al.|[2311.16488v1](http://arxiv.org/abs/2311.16488v1)|null|
