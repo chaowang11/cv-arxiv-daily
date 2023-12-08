@@ -1142,7 +1142,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-06**|**Parameter-Efficient Transfer Learning of Audio Spectrogram Transformers**|Umberto Cappellazzo et.al.|[2312.03694v1](http://arxiv.org/abs/2312.03694v1)|null|
+|**2023-12-07**|**Parameter-Efficient Transfer Learning of Audio Spectrogram Transformers**|Umberto Cappellazzo et.al.|[2312.03694v2](http://arxiv.org/abs/2312.03694v2)|null|
 |**2023-12-06**|**What Planning Problems Can A Relational Neural Network Solve?**|Jiayuan Mao et.al.|[2312.03682v1](http://arxiv.org/abs/2312.03682v1)|**[link](https://github.com/concepts-ai/goal-regression-width)**|
 |**2023-12-06**|**Interpretability Illusions in the Generalization of Simplified Models**|Dan Friedman et.al.|[2312.03656v1](http://arxiv.org/abs/2312.03656v1)|null|
 |**2023-12-06**|**Editable Stain Transformation Of Histological Images Using Unpaired GANs**|Tibor Sloboda et.al.|[2312.03647v1](http://arxiv.org/abs/2312.03647v1)|**[link](https://github.com/slobodaapl/xai-cyclegan-2)**|
@@ -1176,7 +1176,7 @@
 |**2023-12-05**|**Efficient quantum circuits for port-based teleportation**|Dmitry Grinko et.al.|[2312.03188v1](http://arxiv.org/abs/2312.03188v1)|null|
 |**2023-12-05**|**Adaptive spectral graph wavelets for collaborative filtering**|Osama Alshareet et.al.|[2312.03167v1](http://arxiv.org/abs/2312.03167v1)|null|
 |**2023-12-05**|**Predicting Bone Degradation Using Vision Transformer and Synthetic Cellular Microstructures Dataset**|Mohammad Saber Hashemi et.al.|[2312.03133v1](http://arxiv.org/abs/2312.03133v1)|null|
-|**2023-12-05**|**Semi-visible jets, energy-based models, and self-supervision**|Luigi Favaro et.al.|[2312.03067v1](http://arxiv.org/abs/2312.03067v1)|null|
+|**2023-12-07**|**Semi-visible jets, energy-based models, and self-supervision**|Luigi Favaro et.al.|[2312.03067v2](http://arxiv.org/abs/2312.03067v2)|null|
 |**2023-12-05**|**A Foray on SCFT $_3$  via Super Spinor-Helicity and Grassmann Twistor Variables**|Sachin Jain et.al.|[2312.03059v1](http://arxiv.org/abs/2312.03059v1)|null|
 |**2023-12-05**|**DiffusionPCR: Diffusion Models for Robust Multi-Step Point Cloud Registration**|Zhi Chen et.al.|[2312.03053v1](http://arxiv.org/abs/2312.03053v1)|null|
 |**2023-12-05**|**MagicStick: Controllable Video Editing via Control Handle Transformations**|Yue Ma et.al.|[2312.03047v1](http://arxiv.org/abs/2312.03047v1)|**[link](https://github.com/mayuelala/magicstick)**|
@@ -12342,7 +12342,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-06**|**A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting**|Junhao Zhuang et.al.|[2312.03594v1](http://arxiv.org/abs/2312.03594v1)|null|
+|**2023-12-07**|**A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting**|Junhao Zhuang et.al.|[2312.03594v2](http://arxiv.org/abs/2312.03594v2)|null|
 |**2023-12-03**|**CalliPaint: Chinese Calligraphy Inpainting with Diffusion Model**|Qisheng Liao et.al.|[2312.01536v1](http://arxiv.org/abs/2312.01536v1)|null|
 |**2023-11-28**|**Denoising Diffusion Probabilistic Models for Image Inpainting of Cell Distributions in the Human Brain**|Jan-Oliver Kropp et.al.|[2311.16821v1](http://arxiv.org/abs/2311.16821v1)|null|
 |**2023-11-28**|**Efficient Multimodal Diffusion Models Using Joint Data Infilling with Partially Shared U-Net**|Zizhao Hu et.al.|[2311.16488v1](http://arxiv.org/abs/2311.16488v1)|null|
