@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.10
+## Updated on 2023.12.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -721,7 +721,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231211>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -987,7 +987,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231211>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -1078,7 +1078,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231211>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -1096,7 +1096,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231211>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -1137,7 +1137,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231211>back to top</a>)</p>
 
 ## Transformer
 
@@ -1151,12 +1151,12 @@
 |**2023-12-07**|**On  $L^p$  semigroup to Stokes equation with dynamic boundary condition in the half-space**|Dalibor Pražák et.al.|[2312.04478v1](http://arxiv.org/abs/2312.04478v1)|null|
 |**2023-12-07**|**Electromagnetic radiation from ultrafast-light-driven spintronic THz emitters: A time-dependent density functional theory plus Jefimenko equations approach**|Ali Kefayati et.al.|[2312.04476v1](http://arxiv.org/abs/2312.04476v1)|null|
 |**2023-12-07**|**Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment**|Amrit Poudel et.al.|[2312.04463v1](http://arxiv.org/abs/2312.04463v1)|null|
-|**2023-12-07**|**Generalized Alchemical Integral Transform and the multi-electron atom energy**|Simon León Krug et.al.|[2312.04458v1](http://arxiv.org/abs/2312.04458v1)|null|
+|**2023-12-07**|**Generalized Alchemical Integral Transform and the multi-electron atom energy**|Simon León Krug et.al.|[2312.04458v1](http://arxiv.org/abs/2312.04458v1)|**[link](https://github.com/SimonLeonKrug/pyalchemy)**|
 |**2023-12-07**|**Reversible Entanglement Beyond Quantum Operations**|Xin Wang et.al.|[2312.04456v1](http://arxiv.org/abs/2312.04456v1)|null|
 |**2023-12-07**|**Subsystem Complexity and Measurements in Holography**|Shao-Kai Jian et.al.|[2312.04437v1](http://arxiv.org/abs/2312.04437v1)|null|
 |**2023-12-07**|**FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning Attacks in Federated Learning**|Hossein Fereidooni et.al.|[2312.04432v1](http://arxiv.org/abs/2312.04432v1)|null|
 |**2023-12-07**|**Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning**|Yongqi Dong et.al.|[2312.04398v1](http://arxiv.org/abs/2312.04398v1)|null|
-|**2023-12-07**|**Parametric Amplification of a Quantum Pulse**|Offek Tziperman et.al.|[2312.04394v1](http://arxiv.org/abs/2312.04394v1)|null|
+|**2023-12-07**|**Parametric Amplification of a Quantum Pulse**|Offek Tziperman et.al.|[2312.04394v1](http://arxiv.org/abs/2312.04394v1)|**[link](https://github.com/offektziperman/Amplifying-a-quantum-pulse)**|
 |**2023-12-07**|**HARQ-IR Aided Short Packet Communications: BLER Analysis and Throughput Maximization**|Fuchao He et.al.|[2312.04377v1](http://arxiv.org/abs/2312.04377v1)|null|
 |**2023-12-07**|**Investigating the Design Space of Diffusion Models for Speech Enhancement**|Philippe Gonzalez et.al.|[2312.04370v1](http://arxiv.org/abs/2312.04370v1)|null|
 |**2023-12-07**|**Topics of Measure Theory on Infinite Dimensional Spaces**|José Velhinho et.al.|[2312.04365v1](http://arxiv.org/abs/2312.04365v1)|null|
@@ -1191,7 +1191,7 @@
 |**2023-12-07**|**Specific star formation rates in the  $M_{\rm bh}$ - $M_{\rm *,sph}$  diagram and the evolutionary pathways of galaxies across the sSFR- $M_{\rm *}$  diagram**|Alister W. Graham et.al.|[2312.03999v1](http://arxiv.org/abs/2312.03999v1)|null|
 |**2023-12-07**|**Rapid detection of rare events from in situ X-ray diffraction data using machine learning**|Weijian Zheng et.al.|[2312.03989v1](http://arxiv.org/abs/2312.03989v1)|null|
 |**2023-12-07**|**RIS-Aided Interference Cancellation for Joint Device-to-Device and Cellular Communications**|Ly V. Nguyen et.al.|[2312.03977v1](http://arxiv.org/abs/2312.03977v1)|null|
-|**2023-12-06**|**A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement**|Risab Biswas et.al.|[2312.03946v1](http://arxiv.org/abs/2312.03946v1)|null|
+|**2023-12-06**|**A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement**|Risab Biswas et.al.|[2312.03946v1](http://arxiv.org/abs/2312.03946v1)|**[link](https://github.com/RisabBiswas/T2T-BinFormer)**|
 |**2023-12-06**|**Adapting HouseDiffusion for conditional Floor Plan generation on Modified Swiss Dwellings dataset**|Emanuel Kuhn et.al.|[2312.03938v1](http://arxiv.org/abs/2312.03938v1)|null|
 |**2023-12-07**|**Parameter-Efficient Transfer Learning of Audio Spectrogram Transformers**|Umberto Cappellazzo et.al.|[2312.03694v2](http://arxiv.org/abs/2312.03694v2)|null|
 |**2023-12-06**|**What Planning Problems Can A Relational Neural Network Solve?**|Jiayuan Mao et.al.|[2312.03682v1](http://arxiv.org/abs/2312.03682v1)|**[link](https://github.com/concepts-ai/goal-regression-width)**|
@@ -12387,13 +12387,13 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231211>back to top</a>)</p>
 
 ## Image Inpainting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-06**|**AVID: Any-Length Video Inpainting with Diffusion Model**|Zhixing Zhang et.al.|[2312.03816v1](http://arxiv.org/abs/2312.03816v1)|null|
+|**2023-12-06**|**AVID: Any-Length Video Inpainting with Diffusion Model**|Zhixing Zhang et.al.|[2312.03816v1](http://arxiv.org/abs/2312.03816v1)|**[link](https://github.com/zhang-zx/AVID)**|
 |**2023-12-05**|**DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models**|Shaoan Xie et.al.|[2312.03771v1](http://arxiv.org/abs/2312.03771v1)|null|
 |**2023-12-07**|**A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting**|Junhao Zhuang et.al.|[2312.03594v2](http://arxiv.org/abs/2312.03594v2)|**[link](https://github.com/open-mmlab/mmagic/tree/main/projects/powerpaint)**|
 |**2023-12-03**|**CalliPaint: Chinese Calligraphy Inpainting with Diffusion Model**|Qisheng Liao et.al.|[2312.01536v1](http://arxiv.org/abs/2312.01536v1)|null|
@@ -12546,13 +12546,13 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231211>back to top</a>)</p>
 
 ## Video Inpainting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-06**|**AVID: Any-Length Video Inpainting with Diffusion Model**|Zhixing Zhang et.al.|[2312.03816v1](http://arxiv.org/abs/2312.03816v1)|null|
+|**2023-12-06**|**AVID: Any-Length Video Inpainting with Diffusion Model**|Zhixing Zhang et.al.|[2312.03816v1](http://arxiv.org/abs/2312.03816v1)|**[link](https://github.com/zhang-zx/AVID)**|
 |**2023-12-05**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813v1](http://arxiv.org/abs/2312.02813v1)|null|
 |**2023-11-26**|**Flow-Guided Diffusion for Video Inpainting**|Bohai Gu et.al.|[2311.15368v1](http://arxiv.org/abs/2311.15368v1)|**[link](https://github.com/nevsnev/fgdvi)**|
 |**2023-11-02**|**Infusion: Internal Diffusion for Video Inpainting**|Nicolas Cherel et.al.|[2311.01090v1](http://arxiv.org/abs/2311.01090v1)|null|
@@ -12620,7 +12620,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
