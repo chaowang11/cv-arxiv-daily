@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**Super-Resolution on Rotationally Scanned Photoacoustic Microscopy Images Incorporating Scanning Prior**|Kai Pan et.al.|[2312.07226v1](http://arxiv.org/abs/2312.07226v1)|**[link](https://github.com/11710615/pamsr)**|
+|**2023-12-12**|**Hyper-Restormer: A General Hyperspectral Image Restoration Transformer for Remote Sensing Imaging**|Yo-Yu Lai et.al.|[2312.07016v1](http://arxiv.org/abs/2312.07016v1)|null|
+|**2023-12-11**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v1](http://arxiv.org/abs/2312.06733v1)|null|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|null|
 |**2023-12-11**|**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**|Shangchen Zhou et.al.|[2312.06640v1](http://arxiv.org/abs/2312.06640v1)|null|
 |**2023-12-11**|**Non-iterative Methods in Inhomogeneous Background Inverse Scattering Imaging Problem Assisted by Swin Transformer Network**|Naike Du et.al.|[2312.06302v1](http://arxiv.org/abs/2312.06302v1)|null|
@@ -735,6 +738,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v1](http://arxiv.org/abs/2312.06733v1)|null|
 |**2023-12-11**|**Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution**|Binxiao Huang et.al.|[2312.06101v1](http://arxiv.org/abs/2312.06101v1)|null|
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616v1](http://arxiv.org/abs/2312.05616v1)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-06**|**Training Neural Networks on RAW and HDR Images for Restoration Tasks**|Lei Luo et.al.|[2312.03640v1](http://arxiv.org/abs/2312.03640v1)|**[link](https://github.com/gfxdisp/colorvideovdp)**|
@@ -1155,6 +1159,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**Interfacing Foundation Models' Embeddings**|Xueyan Zou et.al.|[2312.07532v1](http://arxiv.org/abs/2312.07532v1)|**[link](https://github.com/ux-decoder/find)**|
+|**2023-12-12**|**A Hitchhiker's Guide to Geometric GNNs for 3D Atomic Systems**|Alexandre Duval et.al.|[2312.07511v1](http://arxiv.org/abs/2312.07511v1)|null|
+|**2023-12-12**|**NAC-TCN: Temporal Convolutional Networks with Causal Dilated Neighborhood Attention for Emotion Understanding**|Alexander Mehta et.al.|[2312.07507v1](http://arxiv.org/abs/2312.07507v1)|**[link](https://github.com/alexmehta/nac-tcn-tcns-with-causal-na)**|
+|**2023-12-12**|**Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection**|Jiangning Zhang et.al.|[2312.07495v1](http://arxiv.org/abs/2312.07495v1)|null|
+|**2023-12-12**|**MinD-3D: Reconstruct High-quality 3D objects in Human Brain**|Jianxiong Gao et.al.|[2312.07485v1](http://arxiv.org/abs/2312.07485v1)|null|
+|**2023-12-12**|**Classification of retail products: From probabilistic ranking to neural networks**|Manar Mohamed Hafez et.al.|[2312.07482v1](http://arxiv.org/abs/2312.07482v1)|null|
+|**2023-12-12**|**Microscale stress-geometry interactions in an additively manufactured NiTi cardiovascular stent: A synchrotron dual imaging tomography and diffraction study**|Himanshu Vashishtha et.al.|[2312.07480v1](http://arxiv.org/abs/2312.07480v1)|null|
+|**2023-12-12**|**Transformation rules for the decentralization of a blockchain-extended global process model**|Julius Köpke et.al.|[2312.07388v1](http://arxiv.org/abs/2312.07388v1)|null|
+|**2023-12-12**|**GSmoothFace: Generalized Smooth Talking Face Generation via Fine Grained 3D Face Guidance**|Haiming Zhang et.al.|[2312.07385v1](http://arxiv.org/abs/2312.07385v1)|null|
+|**2023-12-12**|**Optical time-harmonic elastography for multiscale stiffness mapping across the phylogenetic tree**|Jakob Jordan et.al.|[2312.07380v1](http://arxiv.org/abs/2312.07380v1)|null|
+|**2023-12-12**|**X4D-SceneFormer: Enhanced Scene Understanding on 4D Point Cloud Videos through Cross-modal Knowledge Transfer**|Linglin Jing et.al.|[2312.07378v1](http://arxiv.org/abs/2312.07378v1)|null|
+|**2023-12-12**|**Self-supervised Adaptive Pre-training of Multilingual Speech Models for Language and Dialect Identification**|Mohammed Maqsood Shaik et.al.|[2312.07338v1](http://arxiv.org/abs/2312.07338v1)|null|
+|**2023-12-12**|**GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos**|Tomáš Souček et.al.|[2312.07322v1](http://arxiv.org/abs/2312.07322v1)|**[link](https://github.com/soCzech/GenHowto)**|
+|**2023-12-12**|**Accurate Fourier-space statistics for line intensity mapping: Cartesian grid sampling without aliased power**|Steven Cunnington et.al.|[2312.07289v1](http://arxiv.org/abs/2312.07289v1)|null|
+|**2023-12-12**|**Towards Equipping Transformer with the Ability of Systematic Compositionality**|Chen Huang et.al.|[2312.07280v1](http://arxiv.org/abs/2312.07280v1)|null|
+|**2023-12-12**|**SSTA: Salient Spatially Transformed Attack**|Renyang Liu et.al.|[2312.07258v1](http://arxiv.org/abs/2312.07258v1)|null|
+|**2023-12-12**|**The GUA-Speech System Description for CNVSRC Challenge 2023**|Shengqiang Li et.al.|[2312.07254v1](http://arxiv.org/abs/2312.07254v1)|null|
+|**2023-12-12**|**Neural Machine Translation of Clinical Text: An Empirical Investigation into Multilingual Pre-Trained Language Models and Transfer-Learning**|Lifeng Han et.al.|[2312.07250v1](http://arxiv.org/abs/2312.07250v1)|null|
+|**2023-12-12**|**Multi-Granularity Framework for Unsupervised Representation Learning of Time Series**|Chengyang Ye et.al.|[2312.07248v1](http://arxiv.org/abs/2312.07248v1)|null|
+|**2023-12-12**|**Unlocking Novel Quantum States: Virasoro-Bogoliubov Transformations in Two Modes**|So Katagiri et.al.|[2312.07247v1](http://arxiv.org/abs/2312.07247v1)|null|
+|**2023-12-12**|**DTA: Distribution Transform-based Attack for Query-Limited Scenario**|Renyang Liu et.al.|[2312.07245v1](http://arxiv.org/abs/2312.07245v1)|null|
+|**2023-12-12**|**Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation**|Shentong Mo et.al.|[2312.07231v1](http://arxiv.org/abs/2312.07231v1)|null|
+|**2023-12-12**|**Operadic structure of boundary conditions for two-dimensional Markovian Gaussian random fields**|Emilien Bodiot et.al.|[2312.07230v1](http://arxiv.org/abs/2312.07230v1)|null|
+|**2023-12-12**|**Super-Resolution on Rotationally Scanned Photoacoustic Microscopy Images Incorporating Scanning Prior**|Kai Pan et.al.|[2312.07226v1](http://arxiv.org/abs/2312.07226v1)|**[link](https://github.com/11710615/pamsr)**|
+|**2023-12-12**|**Exploring Large Language Models to Facilitate Variable Autonomy for Human-Robot Teaming**|Younes Lakhnati et.al.|[2312.07214v1](http://arxiv.org/abs/2312.07214v1)|null|
+|**2023-12-12**|** $(σ,δ)$ -polycyclic codes in Ore extensions over rings**|Maryam Bajalan et.al.|[2312.07193v1](http://arxiv.org/abs/2312.07193v1)|null|
+|**2023-12-12**|**Language-Guided Transformer for Federated Multi-Label Classification**|I-Jieh Liu et.al.|[2312.07165v1](http://arxiv.org/abs/2312.07165v1)|**[link](https://github.com/jack24658735/fedlgt)**|
+|**2023-12-12**|**Divide-and-Conquer Attack: Harnessing the Power of LLM to Bypass the Censorship of Text-to-Image Generation Model**|Yimo Deng et.al.|[2312.07130v1](http://arxiv.org/abs/2312.07130v1)|**[link](https://github.com/researchcode001/divide-and-conquer-attack)**|
+|**2023-12-12**|**MS-Twins: Multi-Scale Deep Self-Attention Networks for Medical Image Segmentation**|Jing Xu et.al.|[2312.07128v1](http://arxiv.org/abs/2312.07128v1)|null|
+|**2023-12-12**|**Neural Reasoning About Agents' Goals, Preferences, and Actions**|Matteo Bortoletto et.al.|[2312.07122v1](http://arxiv.org/abs/2312.07122v1)|null|
+|**2023-12-12**|**Quantum topological data analysis via the estimation of the density of states**|Stefano Scali et.al.|[2312.07115v1](http://arxiv.org/abs/2312.07115v1)|null|
+|**2023-12-12**|**Navigating the generative AI era: Introducing the AI assessment scale for ethical GenAI assessment**|Mike Perkins et.al.|[2312.07086v1](http://arxiv.org/abs/2312.07086v1)|null|
+|**2023-12-12**|**GNBG: A Generalized and Configurable Benchmark Generator for Continuous Numerical Optimization**|Danial Yazdani et.al.|[2312.07083v1](http://arxiv.org/abs/2312.07083v1)|**[link](https://github.com/Danial-Yazdani/GNBG-Generator)**|
+|**2023-12-12**|**Spatial-Contextual Discrepancy Information Compensation for GAN Inversion**|Ziqiang Zhang et.al.|[2312.07079v1](http://arxiv.org/abs/2312.07079v1)|**[link](https://github.com/zzqlked/sdic)**|
+|**2023-12-12**|**Celestial two-point functions and rectified dictionary**|Hideo Furugori et.al.|[2312.07057v1](http://arxiv.org/abs/2312.07057v1)|null|
+|**2023-12-12**|**Relational Quantum Mechanics with Cross-Perspective Links Postulate: an Internally Inconsistent Scheme**|Marcin Markiewicz et.al.|[2312.07056v1](http://arxiv.org/abs/2312.07056v1)|null|
+|**2023-12-12**|**Adjustable Robust Transformer for High Myopia Screening in Optical Coherence Tomography**|Xiao Ma et.al.|[2312.07052v1](http://arxiv.org/abs/2312.07052v1)|**[link](https://github.com/maxiao0234/artran)**|
+|**2023-12-12**|**Patch-MI: Enhancing Model Inversion Attacks via Patch-Based Reconstruction**|Jonggyu Jang et.al.|[2312.07040v1](http://arxiv.org/abs/2312.07040v1)|**[link](https://github.com/jonggyujang0123/patch-attack)**|
+|**2023-12-12**|**Hyper-Restormer: A General Hyperspectral Image Restoration Transformer for Remote Sensing Imaging**|Yo-Yu Lai et.al.|[2312.07016v1](http://arxiv.org/abs/2312.07016v1)|null|
+|**2023-12-12**|**Transformer-based No-Reference Image Quality Assessment via Supervised Contrastive Learning**|Jinsong Shi et.al.|[2312.06995v1](http://arxiv.org/abs/2312.06995v1)|null|
+|**2023-12-12**|**Residual Stress-Driven Non-Euclidean Morphing in Origami Structures**|Zihe Liang et.al.|[2312.06982v1](http://arxiv.org/abs/2312.06982v1)|null|
+|**2023-12-12**|**Channel Estimation for Movable Antenna Communication Systems: A Framework Based on Compressed Sensing**|Zhenyu Xiao et.al.|[2312.06969v1](http://arxiv.org/abs/2312.06969v1)|null|
+|**2023-12-12**|**Strictly Monotone Brouwer Trees for Well-founded Recursion Over Multiple Arguments**|Joseph Eremondi et.al.|[2312.06962v1](http://arxiv.org/abs/2312.06962v1)|null|
+|**2023-12-12**|**PatchMorph: A Stochastic Deep Learning Approach for Unsupervised 3D Brain Image Registration with Small Patches**|Henrik Skibbe et.al.|[2312.06958v1](http://arxiv.org/abs/2312.06958v1)|null|
+|**2023-12-12**|**Robotics Applications in Neurology: A Review of Recent Advancements and Future Directions**|Retnaningsih Retnaningsih et.al.|[2312.06956v1](http://arxiv.org/abs/2312.06956v1)|null|
+|**2023-12-12**|**IA2U: A Transfer Plugin with Multi-Prior for In-Air Model to Underwater**|Jingchun Zhou et.al.|[2312.06955v1](http://arxiv.org/abs/2312.06955v1)|null|
+|**2023-12-12**|**Feature Norm Regularized Federated Learning: Transforming Skewed Distributions into Global Insights**|Ke Hu et.al.|[2312.06951v1](http://arxiv.org/abs/2312.06951v1)|null|
+|**2023-12-12**|**READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling**|Thong Nguyen et.al.|[2312.06950v1](http://arxiv.org/abs/2312.06950v1)|null|
+|**2023-12-12**|**Alternative Characterization of Entanglers and Some Applications**|Isaac Dobes et.al.|[2312.06944v1](http://arxiv.org/abs/2312.06944v1)|null|
+|**2023-12-12**|**Benchmarking Deep Learning Classifiers for SAR Automatic Target Recognition**|Jacob Fein-Ashley et.al.|[2312.06940v1](http://arxiv.org/abs/2312.06940v1)|null|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|null|
 |**2023-12-11**|**UpFusion: Novel View Diffusion from Unposed Sparse View Observations**|Bharath Raj Nagoor Kani et.al.|[2312.06661v1](http://arxiv.org/abs/2312.06661v1)|null|
 |**2023-12-11**|**4M: Massively Multimodal Masked Modeling**|David Mizrahi et.al.|[2312.06647v1](http://arxiv.org/abs/2312.06647v1)|null|
