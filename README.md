@@ -29,7 +29,7 @@
 |**2023-12-11**|**Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution**|Binxiao Huang et.al.|[2312.06101v1](http://arxiv.org/abs/2312.06101v1)|null|
 |**2023-12-10**|**Study of Multiuser Multiple-Antenna Wireless Communications Systems Based on Super-Resolution Arrays**|S. Pinto et.al.|[2312.06033v1](http://arxiv.org/abs/2312.06033v1)|null|
 |**2023-12-10**|**Transformer-based Selective Super-Resolution for Efficient Image Refinement**|Tianyi Zhang et.al.|[2312.05803v1](http://arxiv.org/abs/2312.05803v1)|null|
-|**2023-12-10**|**SGNet: Structure Guided Network via Gradient-Frequency Awareness for Depth Map Super-Resolution**|Zhengxu Wang et.al.|[2312.05799v1](http://arxiv.org/abs/2312.05799v1)|**[link](https://github.com/yanzq95/sgnet)**|
+|**2023-12-12**|**SGNet: Structure Guided Network via Gradient-Frequency Awareness for Depth Map Super-Resolution**|Zhengxue Wang et.al.|[2312.05799v2](http://arxiv.org/abs/2312.05799v2)|**[link](https://github.com/yanzq95/sgnet)**|
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616v1](http://arxiv.org/abs/2312.05616v1)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385v1](http://arxiv.org/abs/2312.04385v1)|null|
 |**2023-12-06**|**Training Neural Networks on RAW and HDR Images for Restoration Tasks**|Lei Luo et.al.|[2312.03640v1](http://arxiv.org/abs/2312.03640v1)|**[link](https://github.com/gfxdisp/colorvideovdp)**|
@@ -1158,9 +1158,9 @@
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|null|
 |**2023-12-11**|**UpFusion: Novel View Diffusion from Unposed Sparse View Observations**|Bharath Raj Nagoor Kani et.al.|[2312.06661v1](http://arxiv.org/abs/2312.06661v1)|null|
 |**2023-12-11**|**4M: Massively Multimodal Masked Modeling**|David Mizrahi et.al.|[2312.06647v1](http://arxiv.org/abs/2312.06647v1)|null|
-|**2023-12-11**|**Gated Linear Attention Transformers with Hardware-Efficient Training**|Songlin Yang et.al.|[2312.06635v1](http://arxiv.org/abs/2312.06635v1)|null|
+|**2023-12-12**|**Gated Linear Attention Transformers with Hardware-Efficient Training**|Songlin Yang et.al.|[2312.06635v2](http://arxiv.org/abs/2312.06635v2)|null|
 |**2023-12-11**|**Data-Driven Bifurcation Analysis via Learning of Homeomorphism**|Wentao Tang et.al.|[2312.06634v1](http://arxiv.org/abs/2312.06634v1)|null|
-|**2023-12-11**|**TMT-VIS: Taxonomy-aware Multi-dataset Joint Training for Video Instance Segmentation**|Rongkun Zheng et.al.|[2312.06630v1](http://arxiv.org/abs/2312.06630v1)|**[link](https://github.com/rkzheng99/tmt-vis)**|
+|**2023-12-12**|**TMT-VIS: Taxonomy-aware Multi-dataset Joint Training for Video Instance Segmentation**|Rongkun Zheng et.al.|[2312.06630v2](http://arxiv.org/abs/2312.06630v2)|**[link](https://github.com/rkzheng99/tmt-vis)**|
 |**2023-12-11**|**AttenScribble: Attentive Similarity Learning for Scribble-Supervised Medical Image Segmentation**|Mu Tian et.al.|[2312.06614v1](http://arxiv.org/abs/2312.06614v1)|null|
 |**2023-12-11**|**Neural Text to Articulate Talk: Deep Text to Audiovisual Speech Synthesis achieving both Auditory and Photo-realism**|Georgios Milis et.al.|[2312.06613v1](http://arxiv.org/abs/2312.06613v1)|**[link](https://github.com/g-milis/NEUTART)**|
 |**2023-12-11**|**The simplicial substructure of jets**|Tejes Gaertner et.al.|[2312.06596v1](http://arxiv.org/abs/2312.06596v1)|null|
@@ -12499,7 +12499,7 @@
 |**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039v1](http://arxiv.org/abs/2312.05039v1)|null|
 |**2023-12-06**|**AVID: Any-Length Video Inpainting with Diffusion Model**|Zhixing Zhang et.al.|[2312.03816v1](http://arxiv.org/abs/2312.03816v1)|**[link](https://github.com/zhang-zx/AVID)**|
 |**2023-12-05**|**DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models**|Shaoan Xie et.al.|[2312.03771v1](http://arxiv.org/abs/2312.03771v1)|null|
-|**2023-12-07**|**A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting**|Junhao Zhuang et.al.|[2312.03594v2](http://arxiv.org/abs/2312.03594v2)|**[link](https://github.com/open-mmlab/mmagic/tree/main/projects/powerpaint)**|
+|**2023-12-12**|**A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting**|Junhao Zhuang et.al.|[2312.03594v3](http://arxiv.org/abs/2312.03594v3)|**[link](https://github.com/open-mmlab/mmagic/tree/main/projects/powerpaint)**|
 |**2023-12-03**|**CalliPaint: Chinese Calligraphy Inpainting with Diffusion Model**|Qisheng Liao et.al.|[2312.01536v1](http://arxiv.org/abs/2312.01536v1)|null|
 |**2023-11-28**|**Denoising Diffusion Probabilistic Models for Image Inpainting of Cell Distributions in the Human Brain**|Jan-Oliver Kropp et.al.|[2311.16821v1](http://arxiv.org/abs/2311.16821v1)|null|
 |**2023-11-28**|**Efficient Multimodal Diffusion Models Using Joint Data Infilling with Partially Shared U-Net**|Zizhao Hu et.al.|[2311.16488v1](http://arxiv.org/abs/2311.16488v1)|null|
