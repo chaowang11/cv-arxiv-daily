@@ -23,6 +23,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
+|**2023-12-13**|**Toward Real World Stereo Image Super-Resolution via Hybrid Degradation Model and Discriminator for Implied Stereo Image Information**|Yuanbo Zhou et.al.|[2312.07934v1](http://arxiv.org/abs/2312.07934v1)|**[link](https://github.com/fzuzyb/scglanet)**|
+|**2023-12-13**|**CoIE: Chain-of-Instruct Editing for Multi-Attribute Face Manipulation**|Zhenduo Zhang et.al.|[2312.07879v1](http://arxiv.org/abs/2312.07879v1)|null|
+|**2023-12-13**|**Video Dynamics Prior: An Internal Learning Approach for Robust Video Enhancements**|Gaurav Shrivastava et.al.|[2312.07835v1](http://arxiv.org/abs/2312.07835v1)|null|
+|**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v1](http://arxiv.org/abs/2312.07823v1)|null|
 |**2023-12-12**|**Super-Resolution on Rotationally Scanned Photoacoustic Microscopy Images Incorporating Scanning Prior**|Kai Pan et.al.|[2312.07226v1](http://arxiv.org/abs/2312.07226v1)|**[link](https://github.com/11710615/pamsr)**|
 |**2023-12-12**|**Hyper-Restormer: A General Hyperspectral Image Restoration Transformer for Remote Sensing Imaging**|Yo-Yu Lai et.al.|[2312.07016v1](http://arxiv.org/abs/2312.07016v1)|null|
 |**2023-12-11**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v1](http://arxiv.org/abs/2312.06733v1)|null|
@@ -738,6 +743,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
+|**2023-12-13**|**Toward Real World Stereo Image Super-Resolution via Hybrid Degradation Model and Discriminator for Implied Stereo Image Information**|Yuanbo Zhou et.al.|[2312.07934v1](http://arxiv.org/abs/2312.07934v1)|**[link](https://github.com/fzuzyb/scglanet)**|
 |**2023-12-11**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v1](http://arxiv.org/abs/2312.06733v1)|null|
 |**2023-12-11**|**Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution**|Binxiao Huang et.al.|[2312.06101v1](http://arxiv.org/abs/2312.06101v1)|null|
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616v1](http://arxiv.org/abs/2312.05616v1)|**[link](https://github.com/chaofengc/iter)**|
@@ -1007,6 +1014,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v1](http://arxiv.org/abs/2312.07823v1)|null|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|null|
 |**2023-12-11**|**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**|Shangchen Zhou et.al.|[2312.06640v1](http://arxiv.org/abs/2312.06640v1)|null|
 |**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853v1](http://arxiv.org/abs/2312.00853v1)|**[link](https://github.com/ianyeung/mgld-vsr)**|
@@ -1159,6 +1167,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection**|Kuan-Chih Huang et.al.|[2312.08371v1](http://arxiv.org/abs/2312.08371v1)|null|
+|**2023-12-13**|**Topological entanglement entropy for torus knot bipartitions and the Verlinde-like formulas**|Chih-Yu Lo et.al.|[2312.08348v1](http://arxiv.org/abs/2312.08348v1)|null|
+|**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344v1](http://arxiv.org/abs/2312.08344v1)|null|
+|**2023-12-13**|**Ehancing CT Image synthesis from multi-modal MRI data based on a multi-task neural network framework**|Zhuoyao Xin et.al.|[2312.08343v1](http://arxiv.org/abs/2312.08343v1)|null|
+|**2023-12-13**|**Polarization dynamics of trapped polariton condensates with  $\mathcal{PT}$ -symmetry**|I. Jesán Velázquez-Reséndiz et.al.|[2312.08313v1](http://arxiv.org/abs/2312.08313v1)|null|
+|**2023-12-13**|**VQ-HPS: Human Pose and Shape Estimation in a Vector-Quantized Latent Space**|Guénolé Fiche et.al.|[2312.08291v1](http://arxiv.org/abs/2312.08291v1)|null|
+|**2023-12-13**|**Non-linear realizations and invariant action principles in higher gauge theory**|S. Salgado et.al.|[2312.08285v1](http://arxiv.org/abs/2312.08285v1)|null|
+|**2023-12-13**|**Phase Pattern Formation in Grain Boundaries**|Ian S. Winter et.al.|[2312.08272v1](http://arxiv.org/abs/2312.08272v1)|null|
+|**2023-12-13**|**Efficient Multi-Object Pose Estimation using Multi-Resolution Deformable Attention and Query Aggregation**|Arul Selvam Periyasamy et.al.|[2312.08268v1](http://arxiv.org/abs/2312.08268v1)|null|
+|**2023-12-13**|**TABSurfer: a Hybrid Deep Learning Architecture for Subcortical Segmentation**|Aaron Cao et.al.|[2312.08267v1](http://arxiv.org/abs/2312.08267v1)|null|
+|**2023-12-13**|**Analysis of reconstruction of functions with rough edges from discrete Radon data in  $\mathbb R^2$ **|Alexander Katsevich et.al.|[2312.08259v1](http://arxiv.org/abs/2312.08259v1)|null|
+|**2023-12-13**|**Room-Temperature Silicon Carbide Maser: Unveiling Quantum Amplification and Cooling**|Andreas Gottscholl et.al.|[2312.08251v1](http://arxiv.org/abs/2312.08251v1)|null|
+|**2023-12-13**|**The Derivation of the Boltzmann Equation from Quantum Many-body Dynamics**|Xuwen Chen et.al.|[2312.08239v1](http://arxiv.org/abs/2312.08239v1)|null|
+|**2023-12-13**|**PAD: Self-Supervised Pre-Training with Patchwise-Scale Adapter for Infrared Images**|Tao Zhang et.al.|[2312.08192v1](http://arxiv.org/abs/2312.08192v1)|null|
+|**2023-12-13**|**Geometrical Interpretation of Neutrino Oscillation with decay**|Rajrupa Banerjee et.al.|[2312.08178v1](http://arxiv.org/abs/2312.08178v1)|null|
+|**2023-12-13**|**The Kepler Cone, Maclaurin Duality and Jacobi-Maupertuis metrics**|Richard Montgomery et.al.|[2312.08173v1](http://arxiv.org/abs/2312.08173v1)|null|
+|**2023-12-13**|**Tensor Network Representation and Entanglement Spreading in Many-Body Localized Systems: A Novel Approach**|Z. Gholami et.al.|[2312.08170v1](http://arxiv.org/abs/2312.08170v1)|null|
+|**2023-12-13**|**Towards P $\ne$ NP from Extended Frege lower bounds**|Jan Pich et.al.|[2312.08163v1](http://arxiv.org/abs/2312.08163v1)|null|
+|**2023-12-13**|**CIDR: A Cooperative Integrated Dynamic Refining Method for Minimal Feature Removal Problem**|Qian Chen et.al.|[2312.08157v1](http://arxiv.org/abs/2312.08157v1)|null|
+|**2023-12-13**|**Some applications of a new approach to factorization**|Laura Cossu et.al.|[2312.08145v1](http://arxiv.org/abs/2312.08145v1)|null|
+|**2023-12-13**|**On geometric inverse problems and microlocal analysis**|Mikko Salo et.al.|[2312.08123v1](http://arxiv.org/abs/2312.08123v1)|null|
+|**2023-12-13**|**Red shift effect of the zero filed splitting for NV- centers in diamond based temperature sensors**|Wang Zheng et.al.|[2312.08026v1](http://arxiv.org/abs/2312.08026v1)|null|
+|**2023-12-13**|**Mono3DVG: 3D Visual Grounding in Monocular Images**|Yang Zhan et.al.|[2312.08022v1](http://arxiv.org/abs/2312.08022v1)|**[link](https://github.com/zhanyang-nwpu/mono3dvg)**|
+|**2023-12-13**|**SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention**|Róbert Csordás et.al.|[2312.07987v1](http://arxiv.org/abs/2312.07987v1)|**[link](https://github.com/robertcsordas/moe_attention)**|
+|**2023-12-13**|**Inverse Problems For Third-Order Nonlinear Perturbations Of Biharmonic Operators**|Sombuddha Bhattacharyya et.al.|[2312.07985v1](http://arxiv.org/abs/2312.07985v1)|null|
+|**2023-12-13**|**SLJP: Semantic Extraction based Legal Judgment Prediction**|Prameela Madambakam et.al.|[2312.07979v1](http://arxiv.org/abs/2312.07979v1)|null|
+|**2023-12-13**|**Unsupervised linear component analysis for a class of probability mixture models**|Marc Castella et.al.|[2312.07975v1](http://arxiv.org/abs/2312.07975v1)|null|
+|**2023-12-13**|**Pneumonia Detection on chest X-ray images Using Ensemble of Deep Convolutional Neural Networks**|Alhassan Mabrouk et.al.|[2312.07965v1](http://arxiv.org/abs/2312.07965v1)|null|
+|**2023-12-13**|**Meta-learning to Calibrate Gaussian Processes with Deep Kernels for Regression Uncertainty Estimation**|Tomoharu Iwata et.al.|[2312.07952v1](http://arxiv.org/abs/2312.07952v1)|null|
+|**2023-12-13**|**BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics**|Wenqian Zhang et.al.|[2312.07937v1](http://arxiv.org/abs/2312.07937v1)|null|
+|**2023-12-13**|**Memory-Efficient Reversible Spiking Neural Networks**|Hong Zhang et.al.|[2312.07922v1](http://arxiv.org/abs/2312.07922v1)|**[link](https://github.com/mi804/revsnn)**|
+|**2023-12-13**|**Partition functions for non-commutative harmonic oscillators and related divergent series**|Kazufumi Kimoto et.al.|[2312.07912v1](http://arxiv.org/abs/2312.07912v1)|null|
+|**2023-12-13**|**Quantum computing of reacting flows via Hamiltonian simulation**|Zhen Lu et.al.|[2312.07893v1](http://arxiv.org/abs/2312.07893v1)|null|
+|**2023-12-13**|**Information Manipulation in Partially Observable Markov Decision Processes**|Shutian Liu et.al.|[2312.07862v1](http://arxiv.org/abs/2312.07862v1)|null|
+|**2023-12-13**|**Invariant Graph Transformer**|Zhe Xu et.al.|[2312.07859v1](http://arxiv.org/abs/2312.07859v1)|null|
+|**2023-12-13**|**Universal Incomplete-View CT Reconstruction with Prompted Contextual Transformer**|Chenglong Ma et.al.|[2312.07846v1](http://arxiv.org/abs/2312.07846v1)|**[link](https://github.com/Masaaki-75/proct)**|
+|**2023-12-13**|**Conflict Transformation and Management. From Cognitive Maps to Value Trees**|Berkay H. Tosunlu et.al.|[2312.07838v1](http://arxiv.org/abs/2312.07838v1)|null|
+|**2023-12-13**|**Denoising diffusion-based synthetic generation of three-dimensional (3D) anisotropic microstructures from two-dimensional (2D) micrographs**|Kang-Hyun Lee et.al.|[2312.07832v1](http://arxiv.org/abs/2312.07832v1)|null|
+|**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v1](http://arxiv.org/abs/2312.07823v1)|null|
+|**2023-12-13**|**Celestial Leaf Amplitudes**|Walker Melton et.al.|[2312.07820v1](http://arxiv.org/abs/2312.07820v1)|null|
+|**2023-12-12**|**Purcell enhanced emission and saturable absorption of cavity-coupled CsPbBr $_3$  quantum dots**|Purbita Purkayastha et.al.|[2312.07800v1](http://arxiv.org/abs/2312.07800v1)|null|
+|**2023-12-12**|**Sentiment analysis in Tourism: Fine-tuning BERT or sentence embeddings concatenation?**|Ibrahim Bouabdallaoui et.al.|[2312.07797v1](http://arxiv.org/abs/2312.07797v1)|null|
+|**2023-12-12**|**Traffic Signal Control Using Lightweight Transformers: An Offline-to-Online RL Approach**|Xingshuai Huang et.al.|[2312.07795v1](http://arxiv.org/abs/2312.07795v1)|**[link](https://github.com/xingshuaihuang/dtlight)**|
+|**2023-12-12**|**Combining propensity score methods with variational autoencoders for generating synthetic data in presence of latent sub-groups**|Kiana Farhadyar et.al.|[2312.07781v1](http://arxiv.org/abs/2312.07781v1)|**[link](https://github.com/kianaf/latentsubgroups)**|
+|**2023-12-12**|**Polynomial-based Self-Attention for Table Representation learning**|Jayoung Kim et.al.|[2312.07753v1](http://arxiv.org/abs/2312.07753v1)|null|
+|**2023-12-12**|**Hierarchical Classification of Financial Transactions Through Context-Fusion of Transformer-based Embeddings and Taxonomy-aware Attention Layer**|Antonio J. G. Busson et.al.|[2312.07730v1](http://arxiv.org/abs/2312.07730v1)|null|
+|**2023-12-12**|**Real-time Network Intrusion Detection via Decision Transformers**|Jingdi Chen et.al.|[2312.07696v1](http://arxiv.org/abs/2312.07696v1)|null|
+|**2023-12-12**|**Scaling Culture in Blockchain Gaming: Generative AI and Pseudonymous Engagement**|Henrik Axelsen et.al.|[2312.07693v1](http://arxiv.org/abs/2312.07693v1)|null|
+|**2023-12-12**|**Unleashed from Constrained Optimization: Quantum Computing for Quantum Chemistry Employing Generator Coordinate Method**|Muqing Zheng et.al.|[2312.07691v1](http://arxiv.org/abs/2312.07691v1)|null|
+|**2023-12-12**|**Topological Signal Processing on Quantum Computers for Higher-Order Network Analysis**|Caesnan M. G. Leditto et.al.|[2312.07672v1](http://arxiv.org/abs/2312.07672v1)|null|
 |**2023-12-12**|**Interfacing Foundation Models' Embeddings**|Xueyan Zou et.al.|[2312.07532v1](http://arxiv.org/abs/2312.07532v1)|**[link](https://github.com/ux-decoder/find)**|
 |**2023-12-12**|**A Hitchhiker's Guide to Geometric GNNs for 3D Atomic Systems**|Alexandre Duval et.al.|[2312.07511v1](http://arxiv.org/abs/2312.07511v1)|null|
 |**2023-12-12**|**NAC-TCN: Temporal Convolutional Networks with Causal Dilated Neighborhood Attention for Emotion Understanding**|Alexander Mehta et.al.|[2312.07507v1](http://arxiv.org/abs/2312.07507v1)|**[link](https://github.com/alexmehta/nac-tcn-tcns-with-causal-na)**|
