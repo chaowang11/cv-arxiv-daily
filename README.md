@@ -23,11 +23,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Diffusion-based Blind Text Image Super-Resolution**|Yuzhe Zhang et.al.|[2312.08886v1](http://arxiv.org/abs/2312.08886v1)|null|
+|**2023-12-14**|**Guided Image Restoration via Simultaneous Feature and Image Guided Fusion**|Xinyi Liu et.al.|[2312.08853v1](http://arxiv.org/abs/2312.08853v1)|null|
+|**2023-12-14**|**CartoMark: a benchmark dataset for map pattern recognition and 1 map content retrieval with machine intelligence**|Xiran Zhou et.al.|[2312.08600v1](http://arxiv.org/abs/2312.08600v1)|null|
 |**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
 |**2023-12-13**|**Toward Real World Stereo Image Super-Resolution via Hybrid Degradation Model and Discriminator for Implied Stereo Image Information**|Yuanbo Zhou et.al.|[2312.07934v1](http://arxiv.org/abs/2312.07934v1)|**[link](https://github.com/fzuzyb/scglanet)**|
 |**2023-12-13**|**CoIE: Chain-of-Instruct Editing for Multi-Attribute Face Manipulation**|Zhenduo Zhang et.al.|[2312.07879v1](http://arxiv.org/abs/2312.07879v1)|null|
 |**2023-12-13**|**Video Dynamics Prior: An Internal Learning Approach for Robust Video Enhancements**|Gaurav Shrivastava et.al.|[2312.07835v1](http://arxiv.org/abs/2312.07835v1)|null|
-|**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v1](http://arxiv.org/abs/2312.07823v1)|null|
+|**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v1](http://arxiv.org/abs/2312.07823v1)|**[link](https://github.com/Tang1705/Semantic-Lens-AAAI24)**|
 |**2023-12-12**|**Super-Resolution on Rotationally Scanned Photoacoustic Microscopy Images Incorporating Scanning Prior**|Kai Pan et.al.|[2312.07226v1](http://arxiv.org/abs/2312.07226v1)|**[link](https://github.com/11710615/pamsr)**|
 |**2023-12-12**|**Hyper-Restormer: A General Hyperspectral Image Restoration Transformer for Remote Sensing Imaging**|Yo-Yu Lai et.al.|[2312.07016v1](http://arxiv.org/abs/2312.07016v1)|null|
 |**2023-12-14**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v2](http://arxiv.org/abs/2312.06733v2)|null|
@@ -743,6 +746,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Diffusion-based Blind Text Image Super-Resolution**|Yuzhe Zhang et.al.|[2312.08886v1](http://arxiv.org/abs/2312.08886v1)|null|
 |**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
 |**2023-12-13**|**Toward Real World Stereo Image Super-Resolution via Hybrid Degradation Model and Discriminator for Implied Stereo Image Information**|Yuanbo Zhou et.al.|[2312.07934v1](http://arxiv.org/abs/2312.07934v1)|**[link](https://github.com/fzuzyb/scglanet)**|
 |**2023-12-14**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v2](http://arxiv.org/abs/2312.06733v2)|null|
@@ -1014,7 +1018,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v1](http://arxiv.org/abs/2312.07823v1)|null|
+|**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v1](http://arxiv.org/abs/2312.07823v1)|**[link](https://github.com/Tang1705/Semantic-Lens-AAAI24)**|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|null|
 |**2023-12-11**|**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**|Shangchen Zhou et.al.|[2312.06640v1](http://arxiv.org/abs/2312.06640v1)|null|
 |**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853v1](http://arxiv.org/abs/2312.00853v1)|**[link](https://github.com/ianyeung/mgld-vsr)**|
@@ -1167,6 +1171,51 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**|Jinguo Zhu et.al.|[2312.09251v1](http://arxiv.org/abs/2312.09251v1)|**[link](https://github.com/ailab-cvc/vl-gpt)**|
+|**2023-12-14**|**Mosaic-SDF for 3D Generative Models**|Lior Yariv et.al.|[2312.09222v1](http://arxiv.org/abs/2312.09222v1)|null|
+|**2023-12-14**|**Memlumor: a luminescent memory device for photonic neuromorphic computing**|Alexandr Marunchenko et.al.|[2312.09170v1](http://arxiv.org/abs/2312.09170v1)|null|
+|**2023-12-14**|**Preserving large-scale features in simulations of elastic turbulence**|Sumithra R. Yerasi et.al.|[2312.09165v1](http://arxiv.org/abs/2312.09165v1)|null|
+|**2023-12-14**|**Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers**|Zi-Xin Zou et.al.|[2312.09147v1](http://arxiv.org/abs/2312.09147v1)|null|
+|**2023-12-14**|**Living Scenes: Multi-object Relocalization and Reconstruction in Changing 3D Environments**|Liyuan Zhu et.al.|[2312.09138v1](http://arxiv.org/abs/2312.09138v1)|null|
+|**2023-12-14**|**Edge Laplacians and Edge Poisson Transforms for Graphs**|Christian Arends et.al.|[2312.09101v1](http://arxiv.org/abs/2312.09101v1)|null|
+|**2023-12-14**|**Learned Fusion: 3D Object Detection using Calibration-Free Transformer Feature Fusion**|Michael Fürst et.al.|[2312.09082v1](http://arxiv.org/abs/2312.09082v1)|null|
+|**2023-12-14**|**Auto-Prox: Training-Free Vision Transformer Architecture Search via Automatic Proxy Discovery**|Zimian Wei et.al.|[2312.09059v1](http://arxiv.org/abs/2312.09059v1)|null|
+|**2023-12-14**|**STaR: Distilling Speech Temporal Relation for Lightweight Speech Self-Supervised Learning Models**|Kangwook Jang et.al.|[2312.09040v1](http://arxiv.org/abs/2312.09040v1)|null|
+|**2023-12-14**|**Dual Branch Network Towards Accurate Printed Mathematical Expression Recognition**|Yuqing Wang et.al.|[2312.09030v1](http://arxiv.org/abs/2312.09030v1)|null|
+|**2023-12-14**|**Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis**|Qiankun Zuo et.al.|[2312.09022v1](http://arxiv.org/abs/2312.09022v1)|null|
+|**2023-12-14**|**LLMind: Orchestrating AI and IoT with LLMs for Complex Task Execution**|Hongwei Cui et.al.|[2312.09007v1](http://arxiv.org/abs/2312.09007v1)|null|
+|**2023-12-14**|**Dark breathers on a snoidal wave background in the defocusing MKDV equation**|Ana Mucalica et.al.|[2312.08969v1](http://arxiv.org/abs/2312.08969v1)|null|
+|**2023-12-14**|**Color Agnostic Cross-Spectral Disparity Estimation**|Frank Sippel et.al.|[2312.08946v1](http://arxiv.org/abs/2312.08946v1)|null|
+|**2023-12-14**|**BiPFT: Binary Pre-trained Foundation Transformer with Low-rank Estimation of Binarization Residual Polynomials**|Xingrun Xing et.al.|[2312.08937v1](http://arxiv.org/abs/2312.08937v1)|**[link](https://github.com/xingrun-xing/bipft)**|
+|**2023-12-14**|**An Incremental Unified Framework for Small Defect Inspection**|Jiaqi Tang et.al.|[2312.08917v1](http://arxiv.org/abs/2312.08917v1)|**[link](https://github.com/jqtangust/IUF)**|
+|**2023-12-14**|**Symbiotic Blockchain Consensus: Cognitive Backscatter Communications-enabled Wireless Blockchain Consensus**|Haoxiang Luo et.al.|[2312.08899v1](http://arxiv.org/abs/2312.08899v1)|null|
+|**2023-12-14**|**Spectral Moments of the real Ginibre ensemble**|Sung-Soo Byun et.al.|[2312.08896v1](http://arxiv.org/abs/2312.08896v1)|null|
+|**2023-12-14**|**Agent Attention: On the Integration of Softmax and Linear Attention**|Dongchen Han et.al.|[2312.08874v1](http://arxiv.org/abs/2312.08874v1)|**[link](https://github.com/leaplabthu/agent-attention)**|
+|**2023-12-14**|**Responses of Small and Large Ads Black Holes to the Collective Influence of Quintessence and String Cloud**|Hayat Laassiri et.al.|[2312.08868v1](http://arxiv.org/abs/2312.08868v1)|null|
+|**2023-12-14**|**MCANet: Medical Image Segmentation with Multi-Scale Cross-Axis Attention**|Hao Shao et.al.|[2312.08866v1](http://arxiv.org/abs/2312.08866v1)|null|
+|**2023-12-14**|**HeadRecon: High-Fidelity 3D Head Reconstruction from Monocular Video**|Xueying Wang et.al.|[2312.08863v1](http://arxiv.org/abs/2312.08863v1)|null|
+|**2023-12-14**|**Block encoding of matrix product operators**|Martina Nibbi et.al.|[2312.08861v1](http://arxiv.org/abs/2312.08861v1)|null|
+|**2023-12-14**|**Universal algorithm for transforming Hamiltonian eigenvalues**|Tatsuki Odake et.al.|[2312.08848v1](http://arxiv.org/abs/2312.08848v1)|null|
+|**2023-12-14**|**VSFormer: Visual-Spatial Fusion Transformer for Correspondence Pruning**|Tangfei Liao et.al.|[2312.08774v1](http://arxiv.org/abs/2312.08774v1)|**[link](https://github.com/sugar-fly/vsformer)**|
+|**2023-12-14**|**Polyper: Boundary Sensitive Polyp Segmentation**|Hao Shao et.al.|[2312.08735v1](http://arxiv.org/abs/2312.08735v1)|null|
+|**2023-12-14**|**VASP2KP: kp models and Lande g-factors from ab initio calculations**|Sheng Zhang et.al.|[2312.08729v1](http://arxiv.org/abs/2312.08729v1)|null|
+|**2023-12-14**|**StemGen: A music generation model that listens**|Julian D. Parker et.al.|[2312.08723v1](http://arxiv.org/abs/2312.08723v1)|null|
+|**2023-12-14**|**Motion Planning and Control of Hybrid Flying-Crawling Quadrotors**|Dongnan Hu et.al.|[2312.08718v1](http://arxiv.org/abs/2312.08718v1)|null|
+|**2023-12-14**|**PairingNet: A Learning-based Pair-searching and -matching Network for Image Fragments**|Rixin Zhou et.al.|[2312.08704v1](http://arxiv.org/abs/2312.08704v1)|null|
+|**2023-12-14**|**Electric-Field-Induced Domain Walls in Wurtzite Ferroelectrics**|Ding Wang et.al.|[2312.08645v1](http://arxiv.org/abs/2312.08645v1)|null|
+|**2023-12-14**|**Graph Network Surrogate Model for Subsurface Flow Optimization**|Haoyu Tang et.al.|[2312.08625v1](http://arxiv.org/abs/2312.08625v1)|null|
+|**2023-12-14**|**Zebra: Extending Context Window with Layerwise Grouped Local-Global Attention**|Kaiqiang Song et.al.|[2312.08618v1](http://arxiv.org/abs/2312.08618v1)|null|
+|**2023-12-14**|**Factorization Vision Transformer: Modeling Long Range Dependency with Local Window Cost**|Haolin Qin et.al.|[2312.08614v1](http://arxiv.org/abs/2312.08614v1)|**[link](https://github.com/q2479036243/favit)**|
+|**2023-12-14**|**NeXt-TDNN: Modernizing Multi-Scale Temporal Convolution Backbone for Speaker Verification**|Hyun-Jun Heo et.al.|[2312.08603v1](http://arxiv.org/abs/2312.08603v1)|null|
+|**2023-12-14**|**Confinement and Kink Entanglement Asymmetry on a Quantum Ising Chain**|Brian J. J. Khor et.al.|[2312.08601v1](http://arxiv.org/abs/2312.08601v1)|null|
+|**2023-12-14**|**MotherNet: A Foundational Hypernetwork for Tabular Classification**|Andreas Müller et.al.|[2312.08598v1](http://arxiv.org/abs/2312.08598v1)|null|
+|**2023-12-14**|**CT-MVSNet: Efficient Multi-View Stereo with Cross-scale Transformer**|Sicheng Wang et.al.|[2312.08594v1](http://arxiv.org/abs/2312.08594v1)|**[link](https://github.com/wscstrive/ct-mvsnet)**|
+|**2023-12-14**|**Dietary Assessment with Multimodal ChatGPT: A Systematic Analysis**|Frank P. -W. Lo et.al.|[2312.08592v1](http://arxiv.org/abs/2312.08592v1)|null|
+|**2023-12-13**|**NViST: In the Wild New View Synthesis from a Single Image with Transformers**|Wonbong Jang et.al.|[2312.08568v1](http://arxiv.org/abs/2312.08568v1)|null|
+|**2023-12-13**|**Harmonics of Learning: Universal Fourier Features Emerge in Invariant Networks**|Giovanni Luca Marchetti et.al.|[2312.08550v1](http://arxiv.org/abs/2312.08550v1)|null|
+|**2023-12-13**|**A FUNQUE Approach to the Quality Assessment of Compressed HDR Videos**|Abhinau K. Venkataramanan et.al.|[2312.08524v1](http://arxiv.org/abs/2312.08524v1)|null|
+|**2023-12-13**|**Vision Transformer-Based Deep Learning for Histologic Classification of Endometrial Cancer**|Manu Goyal et.al.|[2312.08479v1](http://arxiv.org/abs/2312.08479v1)|null|
+|**2023-12-13**|**On the spectrum of mesons in quenched  $Sp(2N)$  gauge theories**|Ed Bennett et.al.|[2312.08465v1](http://arxiv.org/abs/2312.08465v1)|null|
 |**2023-12-13**|**PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection**|Kuan-Chih Huang et.al.|[2312.08371v1](http://arxiv.org/abs/2312.08371v1)|null|
 |**2023-12-13**|**Topological entanglement entropy for torus knot bipartitions and the Verlinde-like formulas**|Chih-Yu Lo et.al.|[2312.08348v1](http://arxiv.org/abs/2312.08348v1)|null|
 |**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344v1](http://arxiv.org/abs/2312.08344v1)|null|
@@ -12608,6 +12657,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**Planning and Rendering: Towards End-to-End Product Poster Generation**|Zhaochen Li et.al.|[2312.08822v1](http://arxiv.org/abs/2312.08822v1)|null|
 |**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039v1](http://arxiv.org/abs/2312.05039v1)|null|
 |**2023-12-06**|**AVID: Any-Length Video Inpainting with Diffusion Model**|Zhixing Zhang et.al.|[2312.03816v1](http://arxiv.org/abs/2312.03816v1)|**[link](https://github.com/zhang-zx/AVID)**|
 |**2023-12-05**|**DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models**|Shaoan Xie et.al.|[2312.03771v1](http://arxiv.org/abs/2312.03771v1)|null|
