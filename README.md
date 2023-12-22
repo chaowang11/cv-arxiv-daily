@@ -793,7 +793,7 @@
 |**2023-11-15**|**A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**|Jianjun Liu et.al.|[2311.08955v1](http://arxiv.org/abs/2311.08955v1)|null|
 |**2023-11-15**|**Target-oriented Domain Adaptation for Infrared Image Super-Resolution**|Yongsong Huang et.al.|[2311.08816v1](http://arxiv.org/abs/2311.08816v1)|**[link](https://github.com/yongsongh/dasrgan)**|
 |**2023-11-16**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146v2](http://arxiv.org/abs/2311.05146v2)|**[link](https://github.com/rishavbb/owslr)**|
-|**2023-11-20**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v3](http://arxiv.org/abs/2311.02358v3)|**[link](https://github.com/GreyCC/DTLS)**|
+|**2023-12-21**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v4](http://arxiv.org/abs/2311.02358v4)|**[link](https://github.com/GreyCC/DTLS)**|
 |**2023-11-03**|**A Structured Pruning Algorithm for Model-based Deep Learning**|Chicago Park et.al.|[2311.02003v1](http://arxiv.org/abs/2311.02003v1)|null|
 |**2023-11-02**|**Exploring Deep Learning Image Super-Resolution for Iris Recognition**|Eduardo Ribeiro et.al.|[2311.01241v1](http://arxiv.org/abs/2311.01241v1)|null|
 |**2023-11-23**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996v2](http://arxiv.org/abs/2311.00996v2)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
@@ -1196,7 +1196,7 @@
 |**2023-12-20**|**Berezin quantization and representation theory**|V. F. Molchanov et.al.|[2312.13176v1](http://arxiv.org/abs/2312.13176v1)|null|
 |**2023-12-20**|**Ergodic measures for periodic type  $\mathbb{Z}^m$ -skew-products over Interval Exchange Transformations**|Yuriy Tumarkin et.al.|[2312.13165v1](http://arxiv.org/abs/2312.13165v1)|null|
 |**2023-12-20**|**Local space-preserving decompositions for the bubble transform**|Richard S. Falk et.al.|[2312.13161v1](http://arxiv.org/abs/2312.13161v1)|null|
-|**2023-12-20**|**Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**|Hongtao Wu et.al.|[2312.13139v1](http://arxiv.org/abs/2312.13139v1)|null|
+|**2023-12-21**|**Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**|Hongtao Wu et.al.|[2312.13139v2](http://arxiv.org/abs/2312.13139v2)|null|
 |**2023-12-20**|**On the complexity of sabotage games for network security**|Dhananjay Raju et.al.|[2312.13132v1](http://arxiv.org/abs/2312.13132v1)|null|
 |**2023-12-20**|**Pixel-to-Abundance Translation: Conditional Generative Adversarial Networks Based on Patch Transformer for Hyperspectral Unmixing**|Li Wang et.al.|[2312.13127v1](http://arxiv.org/abs/2312.13127v1)|null|
 |**2023-12-20**|**LRS: Enhancing Adversarial Transferability through Lipschitz Regularized Surrogate**|Tao Wu et.al.|[2312.13118v1](http://arxiv.org/abs/2312.13118v1)|**[link](https://github.com/trustaiot/lrs)**|
@@ -1225,12 +1225,12 @@
 |**2023-12-20**|**Operando real-space imaging of a structural phase transformation in a high-voltage electrode**|Yifei Sun et.al.|[2312.12765v1](http://arxiv.org/abs/2312.12765v1)|null|
 |**2023-12-20**|**Lattice Rescoring Based on Large Ensemble of Complementary Neural Language Models**|Atsunori Ogawa et.al.|[2312.12764v1](http://arxiv.org/abs/2312.12764v1)|null|
 |**2023-12-20**|**Local momentum balance in electromagnetic gyrokinetic systems**|H. Sugama et.al.|[2312.12757v1](http://arxiv.org/abs/2312.12757v1)|null|
-|**2023-12-20**|**Nematic charge-density-wave correlations in FeSe $_{1-x}$ S $_{x}$ **|Ruixian Liu et.al.|[2312.12749v1](http://arxiv.org/abs/2312.12749v1)|null|
+|**2023-12-21**|**Nematic charge-density-wave correlations in FeSe $_{1-x}$ S $_{x}$ **|Ruixian Liu et.al.|[2312.12749v2](http://arxiv.org/abs/2312.12749v2)|null|
 |**2023-12-20**|**Cached Transformers: Improving Transformers with Differentiable Memory Cache**|Zhaoyang Zhang et.al.|[2312.12742v1](http://arxiv.org/abs/2312.12742v1)|null|
 |**2023-12-20**|**MetaSegNet: Metadata-collaborative Vision-Language Representation Learning for Semantic Segmentation of Remote Sensing Images**|Libo Wang et.al.|[2312.12735v1](http://arxiv.org/abs/2312.12735v1)|null|
 |**2023-12-20**|**AdvST: Revisiting Data Augmentations for Single Domain Generalization**|Guangtao Zheng et.al.|[2312.12720v1](http://arxiv.org/abs/2312.12720v1)|**[link](https://github.com/gtzheng/advst)**|
 |**2023-12-19**|**A new light at the end of the tunnel: fiber gas discharge lasers**|A. L. Love et.al.|[2312.12665v1](http://arxiv.org/abs/2312.12665v1)|null|
-|**2023-12-19**|**Can Transformers Learn Sequential Function Classes In Context?**|Ryan Campbell et.al.|[2312.12655v1](http://arxiv.org/abs/2312.12655v1)|null|
+|**2023-12-21**|**Can Transformers Learn Sequential Function Classes In Context?**|Ryan Campbell et.al.|[2312.12655v2](http://arxiv.org/abs/2312.12655v2)|**[link](https://github.com/emmaguo13/in-context-learning)**|
 |**2023-12-19**|**Rotational Augmented Noise2Inverse for Low-dose Computed Tomography Reconstruction**|Hang Xu et.al.|[2312.12644v1](http://arxiv.org/abs/2312.12644v1)|null|
 |**2023-12-19**|**The BMS group in  $D= 6$  spacetime dimensions**|Oscar Fuentealba et.al.|[2312.12627v1](http://arxiv.org/abs/2312.12627v1)|null|
 |**2023-12-19**|**Hierarchical Vision Transformers for Context-Aware Prostate Cancer Grading in Whole Slide Images**|Clément Grisi et.al.|[2312.12619v1](http://arxiv.org/abs/2312.12619v1)|**[link](https://github.com/computationalpathologygroup/hvit)**|
