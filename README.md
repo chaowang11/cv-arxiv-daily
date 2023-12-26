@@ -807,7 +807,7 @@
 |**2023-11-02**|**Exploring Deep Learning Image Super-Resolution for Iris Recognition**|Eduardo Ribeiro et.al.|[2311.01241v1](http://arxiv.org/abs/2311.01241v1)|null|
 |**2023-11-23**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996v2](http://arxiv.org/abs/2311.00996v2)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
 |**2023-10-30**|**EDiffSR: An Efficient Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2310.19288v1](http://arxiv.org/abs/2310.19288v1)|**[link](https://github.com/xy-boy/ediffsr)**|
-|**2023-10-29**|**Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction**|Zeshuai Deng et.al.|[2310.19011v1](http://arxiv.org/abs/2310.19011v1)|null|
+|**2023-10-29**|**Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction**|Zeshuai Deng et.al.|[2310.19011v1](http://arxiv.org/abs/2310.19011v1)|**[link](https://github.com/dengzeshuai/srtta)**|
 |**2023-10-26**|**Blind Image Super-resolution with Rich Texture-Aware Codebooks**|Rui Qin et.al.|[2310.17188v1](http://arxiv.org/abs/2310.17188v1)|null|
 |**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684v1](http://arxiv.org/abs/2310.16684v1)|null|
 |**2023-11-09**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767v2](http://arxiv.org/abs/2310.15767v2)|null|
@@ -1222,7 +1222,7 @@
 |**2023-12-22**|**Non-classicality of Primordial Gravitational Waves in Three-mode Representation Through Quantum Poincare Sphere**|Anom Trenggana et.al.|[2312.14516v1](http://arxiv.org/abs/2312.14516v1)|null|
 |**2023-12-22**|**Wave operator for the generalized derivative nonlinear Schrödinger equation**|Ruobing Bai et.al.|[2312.14505v1](http://arxiv.org/abs/2312.14505v1)|null|
 |**2023-12-22**|**Theory of Hallucinations based on Equivariance**|Hisaichi Shibata et.al.|[2312.14504v1](http://arxiv.org/abs/2312.14504v1)|null|
-|**2023-12-22**|**ViStripformer: A Token-Efficient Transformer for Versatile Video Restoration**|Fu-Jen Tsai et.al.|[2312.14502v1](http://arxiv.org/abs/2312.14502v1)|null|
+|**2023-12-22**|**ViStripformer: A Token-Efficient Transformer for Versatile Video Restoration**|Fu-Jen Tsai et.al.|[2312.14502v1](http://arxiv.org/abs/2312.14502v1)|**[link](https://github.com/pp00704831/video-stripformer)**|
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499v1](http://arxiv.org/abs/2312.14499v1)|null|
 |**2023-12-22**|**Context Enhanced Transformer for Single Image Object Detection**|Seungjun An et.al.|[2312.14492v1](http://arxiv.org/abs/2312.14492v1)|null|
 |**2023-12-22**|**Navigating the Concurrency Landscape: A Survey of Race Condition Vulnerability Detectors**|Aishwarya Upadhyay et.al.|[2312.14479v1](http://arxiv.org/abs/2312.14479v1)|null|
