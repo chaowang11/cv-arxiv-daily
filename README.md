@@ -1202,7 +1202,7 @@
 |---|---|---|---|---|
 |**2023-12-26**|**Social-Transmotion: Promptable Human Trajectory Prediction**|Saeed Saadatnejad et.al.|[2312.16168v1](http://arxiv.org/abs/2312.16168v1)|**[link](https://github.com/vita-epfl/social-transmotion)**|
 |**2023-12-26**|**SymmPI: Predictive Inference for Data with Group Symmetries**|Edgar Dobriban et.al.|[2312.16160v1](http://arxiv.org/abs/2312.16160v1)|null|
-|**2023-12-26**|**The Media Bias Taxonomy: A Systematic Literature Review on the Forms and Automated Detection of Media Bias**|Timo Spinde et.al.|[2312.16148v1](http://arxiv.org/abs/2312.16148v1)|**[link](https://github.com/media-bias-group/media-bias-taxonomy)**|
+|**2023-12-27**|**The Media Bias Taxonomy: A Systematic Literature Review on the Forms and Automated Detection of Media Bias**|Timo Spinde et.al.|[2312.16148v2](http://arxiv.org/abs/2312.16148v2)|**[link](https://github.com/media-bias-group/media-bias-taxonomy)**|
 |**2023-12-26**|**Does PML exponentially absorb outgoing waves scattering from a periodic surface?**|Wangtao Lu et.al.|[2312.16134v1](http://arxiv.org/abs/2312.16134v1)|null|
 |**2023-12-26**|**Far-field Petahertz Sampling of Plasmonic Fields**|Kai-Fu Wong et.al.|[2312.16121v1](http://arxiv.org/abs/2312.16121v1)|null|
 |**2023-12-26**|**On the best convergence rate of lightning plus polynomial approximation for  $x^α$ **|Shuhuang Xiang et.al.|[2312.16116v1](http://arxiv.org/abs/2312.16116v1)|null|
@@ -1237,7 +1237,7 @@
 |**2023-12-25**|**Word length-aware text spotting: Enhancing detection and recognition in dense text image**|Hao Wang et.al.|[2312.15690v1](http://arxiv.org/abs/2312.15690v1)|null|
 |**2023-12-25**|**Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers**|Peng Ye et.al.|[2312.15681v1](http://arxiv.org/abs/2312.15681v1)|null|
 |**2023-12-25**|**Generalization of Legendre functions applied to Rosen-Morse scattering states**|F. L. Freitas et.al.|[2312.15652v1](http://arxiv.org/abs/2312.15652v1)|null|
-|**2023-12-25**|**A graph-based multimodal framework to predict gentrification**|Javad Eshtiyagh et.al.|[2312.15646v1](http://arxiv.org/abs/2312.15646v1)|null|
+|**2023-12-27**|**A graph-based multimodal framework to predict gentrification**|Javad Eshtiyagh et.al.|[2312.15646v2](http://arxiv.org/abs/2312.15646v2)|null|
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**Formalising the Double-Pushout Approach to Graph Transformation**|Robert Söldner et.al.|[2312.15641v1](http://arxiv.org/abs/2312.15641v1)|null|
 |**2023-12-25**|**Lifting by Image -- Leveraging Image Cues for Accurate 3D Human Pose Estimation**|Feng Zhou et.al.|[2312.15636v1](http://arxiv.org/abs/2312.15636v1)|null|
