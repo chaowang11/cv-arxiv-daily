@@ -1257,7 +1257,7 @@
 |**2023-12-27**|**Exploiting hidden structures in non-convex games for convergence to Nash equilibrium**|Iosif Sakos et.al.|[2312.16609v1](http://arxiv.org/abs/2312.16609v1)|null|
 |**2023-12-27**|**scRNA-seq Data Clustering by Cluster-aware Iterative Contrastive Learning**|Weikang Jiang et.al.|[2312.16600v1](http://arxiv.org/abs/2312.16600v1)|**[link](https://github.com/alunethy/cicl)**|
 |**2023-12-27**|**T cell receptor binding prediction: A machine learning revolution**|Anna Weber et.al.|[2312.16594v1](http://arxiv.org/abs/2312.16594v1)|null|
-|**2023-12-27**|**VLCounter: Text-aware VIsual Representation for Zero-Shot Object Counting**|Seunggu Kang et.al.|[2312.16580v1](http://arxiv.org/abs/2312.16580v1)|null|
+|**2023-12-27**|**VLCounter: Text-aware VIsual Representation for Zero-Shot Object Counting**|Seunggu Kang et.al.|[2312.16580v1](http://arxiv.org/abs/2312.16580v1)|**[link](https://github.com/seunggu0305/vlcounter)**|
 |**2023-12-27**|**Weighted norm inequalities for integral transforms with splitting kernels**|Alberto Debernardi Pinos et.al.|[2312.16536v1](http://arxiv.org/abs/2312.16536v1)|null|
 |**2023-12-26**|**Social-Transmotion: Promptable Human Trajectory Prediction**|Saeed Saadatnejad et.al.|[2312.16168v1](http://arxiv.org/abs/2312.16168v1)|**[link](https://github.com/vita-epfl/social-transmotion)**|
 |**2023-12-26**|**SymmPI: Predictive Inference for Data with Group Symmetries**|Edgar Dobriban et.al.|[2312.16160v1](http://arxiv.org/abs/2312.16160v1)|null|
