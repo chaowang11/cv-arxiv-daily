@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Noise-free Optimization in Early Training Steps for Image Super-Resolution**|MinKyu Lee et.al.|[2312.17526v1](http://arxiv.org/abs/2312.17526v1)|**[link](https://github.com/2minkyulee/eco)**|
 |**2023-12-28**|**Single particle algorithms to reveal cellular nanodomain organization**|Pierre Parutto et.al.|[2312.17191v1](http://arxiv.org/abs/2312.17191v1)|null|
 |**2023-12-28**|**KeDuSR: Real-World Dual-Lens Super-Resolution via Kernel-Free Matching**|Huanjing Yue et.al.|[2312.17050v1](http://arxiv.org/abs/2312.17050v1)|**[link](https://github.com/craigie-hill/kedusr)**|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
@@ -776,6 +777,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Noise-free Optimization in Early Training Steps for Image Super-Resolution**|MinKyu Lee et.al.|[2312.17526v1](http://arxiv.org/abs/2312.17526v1)|**[link](https://github.com/2minkyulee/eco)**|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
 |**2023-12-27**|**Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer**|Yongsong Huang et.al.|[2312.16455v1](http://arxiv.org/abs/2312.16455v1)|null|
 |**2023-12-24**|**BSRAW: Improving Blind RAW Image Super-Resolution**|Marcos V. Conde et.al.|[2312.15487v1](http://arxiv.org/abs/2312.15487v1)|null|
@@ -1209,6 +1211,40 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Generalization of conformal Hamada operators**|Lesław Rachwał et.al.|[2312.17725v1](http://arxiv.org/abs/2312.17725v1)|null|
+|**2023-12-29**|**Contrastive learning through non-equilibrium memory**|Martin Falk et.al.|[2312.17723v1](http://arxiv.org/abs/2312.17723v1)|null|
+|**2023-12-29**|**The six ways to build trust and reduce privacy concern in a Central Bank Digital Currency (CBDC)**|Alex Zarifis et.al.|[2312.17708v1](http://arxiv.org/abs/2312.17708v1)|null|
+|**2023-12-29**|**Fermi and Luttinger arcs: two concepts, one surface**|Paul Worm et.al.|[2312.17700v1](http://arxiv.org/abs/2312.17700v1)|null|
+|**2023-12-29**|**Multiscale Vision Transformers meet Bipartite Matching for efficient single-stage Action Localization**|Ioanna Ntinou et.al.|[2312.17686v1](http://arxiv.org/abs/2312.17686v1)|null|
+|**2023-12-29**|**FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis**|Feng Liang et.al.|[2312.17681v1](http://arxiv.org/abs/2312.17681v1)|null|
+|**2023-12-29**|**Visual Point Cloud Forecasting enables Scalable Autonomous Driving**|Zetong Yang et.al.|[2312.17655v1](http://arxiv.org/abs/2312.17655v1)|**[link](https://github.com/opendrivelab/vidar)**|
+|**2023-12-29**|**XAI for In-hospital Mortality Prediction via Multimodal ICU Data**|Xingqiao Li et.al.|[2312.17624v1](http://arxiv.org/abs/2312.17624v1)|null|
+|**2023-12-29**|**P2M2-Net: Part-Aware Prompt-Guided Multimodal Point Cloud Completion**|Linlian Jiang et.al.|[2312.17611v1](http://arxiv.org/abs/2312.17611v1)|null|
+|**2023-12-29**|**Field transformations and invariant quantities in scalar-teleparallel theories of gravity**|Manuel Hohmann et.al.|[2312.17609v1](http://arxiv.org/abs/2312.17609v1)|null|
+|**2023-12-29**|**Adaptive Control Strategy for Quadruped Robots in Actuator Degradation Scenarios**|Xinyuan Wu et.al.|[2312.17606v1](http://arxiv.org/abs/2312.17606v1)|null|
+|**2023-12-29**|**Unified Task and Motion Planning using Object-centric Abstractions of Motion Constraints**|Alejandro Agostini et.al.|[2312.17605v1](http://arxiv.org/abs/2312.17605v1)|null|
+|**2023-12-29**|**An accurate machine learning interatomic potential for FCC and HCP nickel**|Xiaoguo Gong et.al.|[2312.17596v1](http://arxiv.org/abs/2312.17596v1)|null|
+|**2023-12-29**|**Exploring the current applications and potential of extended reality for environmental sustainability in manufacturing**|Huizhong Cao et.al.|[2312.17595v1](http://arxiv.org/abs/2312.17595v1)|null|
+|**2023-12-29**|**Action-Item-Driven Summarization of Long Meeting Transcripts**|Logan Golia et.al.|[2312.17581v1](http://arxiv.org/abs/2312.17581v1)|**[link](https://github.com/logangolia/meeting-summarization)**|
+|**2023-12-29**|**Exact Controllability of Discrete-Time Stochastic System with Multiplicative Noise**|Juanjuan Xu et.al.|[2312.17577v1](http://arxiv.org/abs/2312.17577v1)|null|
+|**2023-12-29**|**A Fully Automated Pipeline Using Swin Transformers for Deep Learning-Based Blood Segmentation on Head CT Scans After Aneurysmal Subarachnoid Hemorrhage**|Sergio Garcia Garcia et.al.|[2312.17553v1](http://arxiv.org/abs/2312.17553v1)|null|
+|**2023-12-29**|**Consumer Participation in Community-Supported Agriculture: Modeling Decision-Making Dynamics through a Scoping Review and the KJ Method**|Sota Takagi et.al.|[2312.17529v1](http://arxiv.org/abs/2312.17529v1)|null|
+|**2023-12-29**|**Integrating Chemical Language and Molecular Graph in Multimodal Fused Deep Learning for Drug Property Prediction**|Xiaohua Lu et.al.|[2312.17495v1](http://arxiv.org/abs/2312.17495v1)|null|
+|**2023-12-29**|**HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping**|Xin Zhang et.al.|[2312.17492v1](http://arxiv.org/abs/2312.17492v1)|null|
+|**2023-12-29**|**MosaicBERT: A Bidirectional Encoder Optimized for Fast Pretraining**|Jacob Portes et.al.|[2312.17482v1](http://arxiv.org/abs/2312.17482v1)|null|
+|**2023-12-29**|**FerKD: Surgical Label Adaptation for Efficient Distillation**|Zhiqiang Shen et.al.|[2312.17473v1](http://arxiv.org/abs/2312.17473v1)|**[link](https://github.com/szq0214/fkd)**|
+|**2023-12-29**|**Gaussian radial basis functions collocation for fractional PDEs: methodology and error analysis**|Xiaochuan Tian et.al.|[2312.17461v1](http://arxiv.org/abs/2312.17461v1)|null|
+|**2023-12-29**|**ClST: A Convolutional Transformer Framework for Automatic Modulation Recognition by Knowledge Distillation**|Dongbin Hou et.al.|[2312.17446v1](http://arxiv.org/abs/2312.17446v1)|null|
+|**2023-12-29**|**On Wigdersons' approach to the uncertainty principle**|Nuno Costa Dias et.al.|[2312.17438v1](http://arxiv.org/abs/2312.17438v1)|null|
+|**2023-12-29**|**Construction of invariant curves for some planar Piecewise Isometries**|Noah Cockram et.al.|[2312.17412v1](http://arxiv.org/abs/2312.17412v1)|null|
+|**2023-12-29**|**Renormalization of Translated Cone Exchange Transformations**|Noah Cockram et.al.|[2312.17405v1](http://arxiv.org/abs/2312.17405v1)|null|
+|**2023-12-29**|**Mathematical Analysis Volume II**|Lee-Peng Teo et.al.|[2312.17402v1](http://arxiv.org/abs/2312.17402v1)|null|
+|**2023-12-28**|**A model for studying the detectability of X-ray images using the representation of images in the primary visual cortex**|Antonio González-López et.al.|[2312.17368v1](http://arxiv.org/abs/2312.17368v1)|null|
+|**2023-12-28**|**The Duck's Brain: Training and Inference of Neural Networks in Modern Database Engines**|Maximilian E. Schüle et.al.|[2312.17355v1](http://arxiv.org/abs/2312.17355v1)|null|
+|**2023-12-28**|**Towards Auto-Modeling of Formal Verification for NextG Protocols: A Multimodal cross- and self-attention Large Language Model Approach**|Jingda Yang et.al.|[2312.17353v1](http://arxiv.org/abs/2312.17353v1)|null|
+|**2023-12-28**|**SentinelLMs: Encrypted Input Adaptation and Fine-tuning of Language Models for Private and Secure Inference**|Abhijit Mishra et.al.|[2312.17342v1](http://arxiv.org/abs/2312.17342v1)|null|
+|**2023-12-28**|**Count What You Want: Exemplar Identification and Few-shot Counting of Human Actions in the Wild**|Yifeng Huang et.al.|[2312.17330v1](http://arxiv.org/abs/2312.17330v1)|**[link](https://github.com/cvlab-stonybrook/exrac)**|
+|**2023-12-28**|**The Club Sandwich: Gapless Phases and Phase Transitions with Non-Invertible Symmetries**|Lakshya Bhardwaj et.al.|[2312.17322v1](http://arxiv.org/abs/2312.17322v1)|null|
 |**2023-12-28**|**Do Androids Know They're Only Dreaming of Electric Sheep?**|Sky CH-Wang et.al.|[2312.17249v1](http://arxiv.org/abs/2312.17249v1)|null|
 |**2023-12-28**|**The LLM Surgeon**|Tycho F. A. van der Ouderaa et.al.|[2312.17244v1](http://arxiv.org/abs/2312.17244v1)|null|
 |**2023-12-28**|**Gravitational Wave Signatures of a Chiral Fermion Dark Matter Model**|Tomohiro Abe et.al.|[2312.17203v1](http://arxiv.org/abs/2312.17203v1)|null|
