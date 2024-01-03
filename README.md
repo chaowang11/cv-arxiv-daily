@@ -25,7 +25,7 @@
 |---|---|---|---|---|
 |**2023-12-29**|**Noise-free Optimization in Early Training Steps for Image Super-Resolution**|MinKyu Lee et.al.|[2312.17526v1](http://arxiv.org/abs/2312.17526v1)|**[link](https://github.com/2minkyulee/eco)**|
 |**2023-12-28**|**Single particle algorithms to reveal cellular nanodomain organization**|Pierre Parutto et.al.|[2312.17191v1](http://arxiv.org/abs/2312.17191v1)|null|
-|**2023-12-28**|**KeDuSR: Real-World Dual-Lens Super-Resolution via Kernel-Free Matching**|Huanjing Yue et.al.|[2312.17050v1](http://arxiv.org/abs/2312.17050v1)|**[link](https://github.com/craigie-hill/kedusr)**|
+|**2024-01-02**|**KeDuSR: Real-World Dual-Lens Super-Resolution via Kernel-Free Matching**|Huanjing Yue et.al.|[2312.17050v2](http://arxiv.org/abs/2312.17050v2)|**[link](https://github.com/craigie-hill/kedusr)**|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
 |**2023-12-27**|**Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance**|Tomer Garber et.al.|[2312.16519v1](http://arxiv.org/abs/2312.16519v1)|null|
 |**2023-12-30**|**A Survey on Super Resolution for video Enhancement Using GAN**|Ankush Maity et.al.|[2312.16471v2](http://arxiv.org/abs/2312.16471v2)|null|
@@ -1241,7 +1241,7 @@
 |**2023-12-29**|**Mathematical Analysis Volume II**|Lee-Peng Teo et.al.|[2312.17402v1](http://arxiv.org/abs/2312.17402v1)|null|
 |**2023-12-28**|**A model for studying the detectability of X-ray images using the representation of images in the primary visual cortex**|Antonio González-López et.al.|[2312.17368v1](http://arxiv.org/abs/2312.17368v1)|null|
 |**2023-12-28**|**The Duck's Brain: Training and Inference of Neural Networks in Modern Database Engines**|Maximilian E. Schüle et.al.|[2312.17355v1](http://arxiv.org/abs/2312.17355v1)|null|
-|**2023-12-28**|**Towards Auto-Modeling of Formal Verification for NextG Protocols: A Multimodal cross- and self-attention Large Language Model Approach**|Jingda Yang et.al.|[2312.17353v1](http://arxiv.org/abs/2312.17353v1)|null|
+|**2024-01-02**|**Towards Auto-Modeling of Formal Verification for NextG Protocols: A Multimodal cross- and self-attention Large Language Model Approach**|Jingda Yang et.al.|[2312.17353v2](http://arxiv.org/abs/2312.17353v2)|null|
 |**2023-12-28**|**SentinelLMs: Encrypted Input Adaptation and Fine-tuning of Language Models for Private and Secure Inference**|Abhijit Mishra et.al.|[2312.17342v1](http://arxiv.org/abs/2312.17342v1)|null|
 |**2023-12-28**|**Count What You Want: Exemplar Identification and Few-shot Counting of Human Actions in the Wild**|Yifeng Huang et.al.|[2312.17330v1](http://arxiv.org/abs/2312.17330v1)|**[link](https://github.com/cvlab-stonybrook/exrac)**|
 |**2023-12-28**|**The Club Sandwich: Gapless Phases and Phase Transitions with Non-Invertible Symmetries**|Lakshya Bhardwaj et.al.|[2312.17322v1](http://arxiv.org/abs/2312.17322v1)|null|
