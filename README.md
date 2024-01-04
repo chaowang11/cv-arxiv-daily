@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Efficient Hybrid Zoom using Camera Fusion on Mobile Phones**|Xiaotong Wu et.al.|[2401.01461v1](http://arxiv.org/abs/2401.01461v1)|null|
 |**2024-01-02**|**Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable Noise**|Qinglong Huang et.al.|[2401.01216v1](http://arxiv.org/abs/2401.01216v1)|null|
 |**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877v1](http://arxiv.org/abs/2401.00877v1)|**[link](https://github.com/csslc/ccsr)**|
 |**2024-01-01**|**Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images**|Zhilu Zhang et.al.|[2401.00766v1](http://arxiv.org/abs/2401.00766v1)|**[link](https://github.com/cszhilu1998/bracketire)**|
@@ -1225,6 +1226,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Transformer Neural Autoregressive Flows**|Massimiliano Patacchiola et.al.|[2401.01855v1](http://arxiv.org/abs/2401.01855v1)|null|
+|**2024-01-03**|**Iterative Mask Filling: An Effective Text Augmentation Method Using Masked Language Modeling**|Himmet Toprak Kesgin et.al.|[2401.01830v1](http://arxiv.org/abs/2401.01830v1)|null|
+|**2024-01-03**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822v1](http://arxiv.org/abs/2401.01822v1)|null|
+|**2024-01-03**|**Legendre-Moment Transform for Linear Ensemble Control and Computation**|Xin Ning et.al.|[2401.01770v1](http://arxiv.org/abs/2401.01770v1)|null|
+|**2024-01-03**|**Incremental FastPitch: Chunk-based High Quality Text to Speech**|Muyang Du et.al.|[2401.01755v1](http://arxiv.org/abs/2401.01755v1)|null|
+|**2024-01-03**|**FullLoRA-AT: Efficiently Boosting the Robustness of Pretrained Vision Transformers**|Zheng Yuan et.al.|[2401.01752v1](http://arxiv.org/abs/2401.01752v1)|null|
+|**2024-01-03**|**Towards Robust Semantic Segmentation against Patch-based Attack via Attention Refinement**|Zheng Yuan et.al.|[2401.01750v1](http://arxiv.org/abs/2401.01750v1)|null|
+|**2024-01-03**|**Development Of Impedance and Capacitance based Sensors for the Estimation of Adulterant Ingredients in Different Bio-Consumables**|Chirantan Das et.al.|[2401.01729v1](http://arxiv.org/abs/2401.01729v1)|null|
+|**2024-01-03**|**Limited Feedback on Measurements: Sharing a Codebook or a Generative Model?**|Nurettin Turan et.al.|[2401.01721v1](http://arxiv.org/abs/2401.01721v1)|null|
+|**2024-01-03**|**Relativistically invariant encoding of quantum information revisited**|Konrad Schlichtholz et.al.|[2401.01712v1](http://arxiv.org/abs/2401.01712v1)|null|
+|**2024-01-03**|**Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs**|Phillip Schneider et.al.|[2401.01711v1](http://arxiv.org/abs/2401.01711v1)|**[link](https://github.com/sebischair/llm-sp-cqa)**|
+|**2024-01-03**|**Von Neumann entropy of the angle operator between a pair of intermediate subalgebras**|Keshab Chandra Bakshi et.al.|[2401.01696v1](http://arxiv.org/abs/2401.01696v1)|null|
+|**2024-01-03**|**Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens**|Dengdi Sun et.al.|[2401.01674v1](http://arxiv.org/abs/2401.01674v1)|null|
+|**2024-01-03**|**MLPs Compass: What is learned when MLPs are combined with PLMs?**|Li Zhou et.al.|[2401.01667v1](http://arxiv.org/abs/2401.01667v1)|null|
+|**2024-01-03**|**Can AI Be as Creative as Humans?**|Haonan Wang et.al.|[2401.01623v1](http://arxiv.org/abs/2401.01623v1)|null|
+|**2024-01-03**|**A leaf as a convex domain containing eigenvalues of a linear transformation on a real inner product space**|Hiroyuki Ogawa et.al.|[2401.01612v1](http://arxiv.org/abs/2401.01612v1)|null|
+|**2024-01-03**|**Entropy-based Probing Beam Selection and Beam Prediction via Deep Learning**|Fan Meng et.al.|[2401.01609v1](http://arxiv.org/abs/2401.01609v1)|null|
+|**2024-01-03**|**Context-Guided Spatio-Temporal Video Grounding**|Xin Gu et.al.|[2401.01578v1](http://arxiv.org/abs/2401.01578v1)|**[link](https://github.com/henglan/cgstvg)**|
+|**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574v1](http://arxiv.org/abs/2401.01574v1)|null|
+|**2024-01-03**|**CodeFuse-Query: A Data-Centric Static Code Analysis System for Large-Scale Organizations**|Xiaoheng Xie et.al.|[2401.01571v1](http://arxiv.org/abs/2401.01571v1)|null|
+|**2024-01-03**|**Towards Multi-Objective High-Dimensional Feature Selection via Evolutionary Multitasking**|Yinglan Feng et.al.|[2401.01563v1](http://arxiv.org/abs/2401.01563v1)|null|
+|**2024-01-03**|**CRA-PCN: Point Cloud Completion with Intra- and Inter-level Cross-Resolution Transformers**|Yi Rong et.al.|[2401.01552v1](http://arxiv.org/abs/2401.01552v1)|**[link](https://github.com/easyry/cra-pcn)**|
+|**2024-01-03**|**Generating New Spacetimes through Zermelo Navigation**|Zonghai Li et.al.|[2401.01532v1](http://arxiv.org/abs/2401.01532v1)|null|
+|**2024-01-03**|**GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse**|Hongzhan Lin et.al.|[2401.01523v1](http://arxiv.org/abs/2401.01523v1)|null|
+|**2024-01-03**|**Exploring the Frontiers of LLMs in Psychological Applications: A Comprehensive Review**|Luoma Ke et.al.|[2401.01519v1](http://arxiv.org/abs/2401.01519v1)|null|
+|**2024-01-03**|**Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports**|Haopeng Li et.al.|[2401.01505v1](http://arxiv.org/abs/2401.01505v1)|null|
+|**2024-01-03**|**Log-concave Density Estimation with Independent Components**|Sharvaj Kubal et.al.|[2401.01500v1](http://arxiv.org/abs/2401.01500v1)|null|
+|**2024-01-03**|**The Lyapunov spectrum as the Newton-Raphson method for countable Markov interval maps**|Nicolás Arévalo H et.al.|[2401.01499v1](http://arxiv.org/abs/2401.01499v1)|null|
+|**2024-01-03**|**Kernel-U-Net: Hierarchical and Symmetrical Framework for Multivariate Time Series Forecasting**|Jiang You et.al.|[2401.01479v1](http://arxiv.org/abs/2401.01479v1)|null|
+|**2024-01-03**|**Token Propagation Controller for Efficient Vision Transformer**|Wentao Zhu et.al.|[2401.01470v1](http://arxiv.org/abs/2401.01470v1)|null|
+|**2024-01-02**|**ProbMCL: Simple Probabilistic Contrastive Learning for Multi-label Visual Classification**|Ahmad Sajedi et.al.|[2401.01448v1](http://arxiv.org/abs/2401.01448v1)|null|
+|**2024-01-02**|**Hadamard integrators for wave equations in time and frequency domain: Eulerian formulations via butterfly algorithms**|Yuxiao Wei et.al.|[2401.01423v1](http://arxiv.org/abs/2401.01423v1)|null|
+|**2024-01-02**|**Proposal for many-body quantum chaos detection**|Adway Kumar Das et.al.|[2401.01401v1](http://arxiv.org/abs/2401.01401v1)|null|
 |**2024-01-02**|**Lattice realization of the axial  $U(1)$  non-invertible symmetry**|Yamato Honda et.al.|[2401.01331v1](http://arxiv.org/abs/2401.01331v1)|null|
 |**2024-01-02**|**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**|Zaratiana Urchade et.al.|[2401.01326v1](http://arxiv.org/abs/2401.01326v1)|null|
 |**2024-01-02**|**Mixed QCD-EW corrections to  $W$ -pair production at electron-positron colliders**|Zhe Li et.al.|[2401.01323v1](http://arxiv.org/abs/2401.01323v1)|null|
@@ -13186,6 +13220,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Deep autoregressive modeling for land use land cover**|Christopher Krapu et.al.|[2401.01395v1](http://arxiv.org/abs/2401.01395v1)|null|
 |**2024-01-01**|**Revisiting Nonlocal Self-Similarity from Continuous Representation**|Yisi Luo et.al.|[2401.00708v1](http://arxiv.org/abs/2401.00708v1)|null|
 |**2023-12-25**|**Robust Stochastically-Descending Unrolled Networks**|Samar Hadou et.al.|[2312.15788v1](http://arxiv.org/abs/2312.15788v1)|**[link](https://github.com/smrhadou/unrolledglow)**|
 |**2023-12-25**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091v2](http://arxiv.org/abs/2312.14091v2)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
