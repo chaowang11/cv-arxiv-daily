@@ -1240,7 +1240,7 @@
 |**2024-01-02**|**HAAQI-Net: A non-intrusive neural music quality assessment model for hearing aids**|Dyah A. M. G. Wisnu et.al.|[2401.01145v1](http://arxiv.org/abs/2401.01145v1)|null|
 |**2024-01-02**|**Joint Generative Modeling of Scene Graphs and Images via Diffusion Models**|Bicheng Xu et.al.|[2401.01130v1](http://arxiv.org/abs/2401.01130v1)|null|
 |**2024-01-02**|**CRB Minimization for RIS-aided mmWave Integrated Sensing and Communications**|Wanting Lyu et.al.|[2401.01113v1](http://arxiv.org/abs/2401.01113v1)|null|
-|**2024-01-02**|**CityPulse: Fine-Grained Assessment of Urban Change with Street View Time Series**|Tianyuan Huang et.al.|[2401.01107v1](http://arxiv.org/abs/2401.01107v1)|null|
+|**2024-01-03**|**CityPulse: Fine-Grained Assessment of Urban Change with Street View Time Series**|Tianyuan Huang et.al.|[2401.01107v2](http://arxiv.org/abs/2401.01107v2)|null|
 |**2024-01-02**|**Imperio: Language-Guided Backdoor Attacks for Arbitrary Model Control**|Ka-Ho Chow et.al.|[2401.01085v1](http://arxiv.org/abs/2401.01085v1)|null|
 |**2024-01-02**|**AliFuse: Aligning and Fusing Multi-modal Medical Data for Computer-Aided Diagnosis**|Qiuhui Chen et.al.|[2401.01074v1](http://arxiv.org/abs/2401.01074v1)|null|
 |**2024-01-02**|**Accelerating Discovery of Novel and Bioactive Ligands With Pharmacophore-Informed Generative Models**|Weixin Xie et.al.|[2401.01059v1](http://arxiv.org/abs/2401.01059v1)|null|
@@ -1264,7 +1264,7 @@
 |**2024-01-01**|**Temporal Validity Change Prediction**|Georg Wenzel et.al.|[2401.00779v1](http://arxiv.org/abs/2401.00779v1)|null|
 |**2024-01-01**|**MPRE: Multi-perspective Patient Representation Extractor for Disease Prediction**|Ziyue Yu et.al.|[2401.00756v1](http://arxiv.org/abs/2401.00756v1)|null|
 |**2024-01-01**|**Radon-type transforms for holomorphic and Hermitian monogenic functions**|Ren Hu et.al.|[2401.00745v1](http://arxiv.org/abs/2401.00745v1)|null|
-|**2024-01-02**|**Harmonizing Covariance and Expressiveness for Deep Hamiltonian Regression in Crystalline Material Research: a Hybrid Cascaded Regression Framework**|Shi Yin et.al.|[2401.00744v2](http://arxiv.org/abs/2401.00744v2)|null|
+|**2024-01-03**|**Harmonizing Covariance and Expressiveness for Deep Hamiltonian Regression in Crystalline Material Research: a Hybrid Cascaded Regression Framework**|Shi Yin et.al.|[2401.00744v3](http://arxiv.org/abs/2401.00744v3)|null|
 |**2024-01-01**|**Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2401.00740v1](http://arxiv.org/abs/2401.00740v1)|null|
 |**2024-01-01**|**The PML-Method for a Scattering Problem for a Local Perturbation of an Open Periodic Waveguide**|Andreas Kirsch et.al.|[2401.00730v1](http://arxiv.org/abs/2401.00730v1)|null|
 |**2024-01-01**|**BRAU-Net++: U-Shaped Hybrid CNN-Transformer Network for Medical Image Segmentation**|Libin Lan et.al.|[2401.00722v1](http://arxiv.org/abs/2401.00722v1)|**[link](https://github.com/caipengzhou/brau-netplusplus)**|
