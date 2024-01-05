@@ -1228,7 +1228,7 @@
 |---|---|---|---|---|
 |**2024-01-03**|**Transformer Neural Autoregressive Flows**|Massimiliano Patacchiola et.al.|[2401.01855v1](http://arxiv.org/abs/2401.01855v1)|null|
 |**2024-01-03**|**Iterative Mask Filling: An Effective Text Augmentation Method Using Masked Language Modeling**|Himmet Toprak Kesgin et.al.|[2401.01830v1](http://arxiv.org/abs/2401.01830v1)|null|
-|**2024-01-03**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822v1](http://arxiv.org/abs/2401.01822v1)|null|
+|**2024-01-04**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822v2](http://arxiv.org/abs/2401.01822v2)|null|
 |**2024-01-03**|**Legendre-Moment Transform for Linear Ensemble Control and Computation**|Xin Ning et.al.|[2401.01770v1](http://arxiv.org/abs/2401.01770v1)|null|
 |**2024-01-03**|**Incremental FastPitch: Chunk-based High Quality Text to Speech**|Muyang Du et.al.|[2401.01755v1](http://arxiv.org/abs/2401.01755v1)|null|
 |**2024-01-03**|**FullLoRA-AT: Efficiently Boosting the Robustness of Pretrained Vision Transformers**|Zheng Yuan et.al.|[2401.01752v1](http://arxiv.org/abs/2401.01752v1)|null|
@@ -1260,7 +1260,7 @@
 |**2024-01-02**|**Hadamard integrators for wave equations in time and frequency domain: Eulerian formulations via butterfly algorithms**|Yuxiao Wei et.al.|[2401.01423v1](http://arxiv.org/abs/2401.01423v1)|null|
 |**2024-01-02**|**Proposal for many-body quantum chaos detection**|Adway Kumar Das et.al.|[2401.01401v1](http://arxiv.org/abs/2401.01401v1)|null|
 |**2024-01-02**|**Lattice realization of the axial  $U(1)$  non-invertible symmetry**|Yamato Honda et.al.|[2401.01331v1](http://arxiv.org/abs/2401.01331v1)|null|
-|**2024-01-02**|**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**|Zaratiana Urchade et.al.|[2401.01326v1](http://arxiv.org/abs/2401.01326v1)|null|
+|**2024-01-02**|**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**|Zaratiana Urchade et.al.|[2401.01326v1](http://arxiv.org/abs/2401.01326v1)|**[link](https://github.com/urchade/atg)**|
 |**2024-01-02**|**Mixed QCD-EW corrections to  $W$ -pair production at electron-positron colliders**|Zhe Li et.al.|[2401.01323v1](http://arxiv.org/abs/2401.01323v1)|null|
 |**2024-01-02**|**Classifying Words with 3-sort Automata**|Tomasz Jastrząb et.al.|[2401.01314v1](http://arxiv.org/abs/2401.01314v1)|null|
 |**2024-01-02**|**Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**|Matthew Dahl et.al.|[2401.01301v1](http://arxiv.org/abs/2401.01301v1)|null|
