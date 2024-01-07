@@ -1236,7 +1236,7 @@
 |**2024-01-04**|**Multi-Source Domain Adaptation with Transformer-based Feature Generation for Subject-Independent EEG-based Emotion Recognition**|Shadi Sartipi et.al.|[2401.02344v1](http://arxiv.org/abs/2401.02344v1)|null|
 |**2024-01-04**|**ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation**|Xinyang Pu et.al.|[2401.02326v1](http://arxiv.org/abs/2401.02326v1)|**[link](https://github.com/xypu98/cwsam)**|
 |**2024-01-04**|**Applying the Viterbi Algorithm to Planetary-Mass Black Hole Searches**|George Alestas et.al.|[2401.02314v1](http://arxiv.org/abs/2401.02314v1)|null|
-|**2024-01-04**|**TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection**|Hao Sun et.al.|[2401.02309v1](http://arxiv.org/abs/2401.02309v1)|null|
+|**2024-01-04**|**TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection**|Hao Sun et.al.|[2401.02309v1](http://arxiv.org/abs/2401.02309v1)|**[link](https://github.com/mingyao1120/tr-detr)**|
 |**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292v1](http://arxiv.org/abs/2401.02292v1)|**[link](https://github.com/list17/gridformer)**|
 |**2024-01-04**|**Uncertainty-Aware Deep Attention Recurrent Neural Network for Heterogeneous Time Series Imputation**|Linglong Qian et.al.|[2401.02258v1](http://arxiv.org/abs/2401.02258v1)|null|
 |**2024-01-04**|**Slot-guided Volumetric Object Radiance Fields**|Di Qi et.al.|[2401.02241v1](http://arxiv.org/abs/2401.02241v1)|null|
@@ -13432,7 +13432,7 @@
 |**2023-11-02**|**Infusion: Internal Diffusion for Video Inpainting**|Nicolas Cherel et.al.|[2311.01090v1](http://arxiv.org/abs/2311.01090v1)|null|
 |**2023-10-11**|**Deep Video Inpainting Guided by Audio-Visual Self-Supervision**|Kyuyeon Kim et.al.|[2310.07663v1](http://arxiv.org/abs/2310.07663v1)|**[link](https://github.com/kyuyeonpooh/Audio-Visual-Deep-Video-Inpainting)**|
 |**2023-09-28**|**UVL: A Unified Framework for Video Tampering Localization**|Pengfei Pei et.al.|[2309.16126v1](http://arxiv.org/abs/2309.16126v1)|null|
-|**2023-09-26**|**Bitstream-Corrupted Video Recovery: A Novel Benchmark Dataset and Method**|Tianyi Liu et.al.|[2309.13890v2](http://arxiv.org/abs/2309.13890v2)|null|
+|**2023-09-26**|**Bitstream-Corrupted Video Recovery: A Novel Benchmark Dataset and Method**|Tianyi Liu et.al.|[2309.13890v2](http://arxiv.org/abs/2309.13890v2)|**[link](https://github.com/liutighe/bscv-dataset)**|
 |**2023-09-07**|**ProPainter: Improving Propagation and Transformer for Video Inpainting**|Shangchen Zhou et.al.|[2309.03897v1](http://arxiv.org/abs/2309.03897v1)|**[link](https://github.com/sczhou/propainter)**|
 |**2023-08-28**|**UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization**|Rui Zhang et.al.|[2308.14395v1](http://arxiv.org/abs/2308.14395v1)|**[link](https://github.com/ymhzyj/UMMAFormer)**|
 |**2023-08-02**|**ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation**|Yasheng Sun et.al.|[2308.00906v1](http://arxiv.org/abs/2308.00906v1)|null|
