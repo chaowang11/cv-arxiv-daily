@@ -1230,13 +1230,13 @@
 |**2024-01-04**|**ODIN: A Single Model for 2D and 3D Perception**|Ayush Jain et.al.|[2401.02416v1](http://arxiv.org/abs/2401.02416v1)|null|
 |**2024-01-04**|**LLaMA Pro: Progressive LLaMA with Block Expansion**|Chengyue Wu et.al.|[2401.02415v1](http://arxiv.org/abs/2401.02415v1)|**[link](https://github.com/tencentarc/llama-pro)**|
 |**2024-01-04**|**A PDE approach for solving the characteristic function of the generalised signature process**|Terry Lyons et.al.|[2401.02393v1](http://arxiv.org/abs/2401.02393v1)|null|
-|**2024-01-04**|**Byzantine-Resilient Gradient Coding through Local Gradient Computations**|Christoph Hofmeister et.al.|[2401.02380v1](http://arxiv.org/abs/2401.02380v1)|null|
+|**2024-01-05**|**Byzantine-Resilient Gradient Coding through Local Gradient Computations**|Christoph Hofmeister et.al.|[2401.02380v2](http://arxiv.org/abs/2401.02380v2)|null|
 |**2024-01-04**|**Wave theory of lattice dynamics**|Paul Tangney et.al.|[2401.02375v1](http://arxiv.org/abs/2401.02375v1)|null|
 |**2024-01-04**|**A novel method to enhance pneumonia detection via a model-level ensembling of CNN and vision transformer**|Sandeep Angara et.al.|[2401.02358v1](http://arxiv.org/abs/2401.02358v1)|null|
 |**2024-01-04**|**Multi-Source Domain Adaptation with Transformer-based Feature Generation for Subject-Independent EEG-based Emotion Recognition**|Shadi Sartipi et.al.|[2401.02344v1](http://arxiv.org/abs/2401.02344v1)|null|
 |**2024-01-04**|**ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation**|Xinyang Pu et.al.|[2401.02326v1](http://arxiv.org/abs/2401.02326v1)|**[link](https://github.com/xypu98/cwsam)**|
 |**2024-01-04**|**Applying the Viterbi Algorithm to Planetary-Mass Black Hole Searches**|George Alestas et.al.|[2401.02314v1](http://arxiv.org/abs/2401.02314v1)|null|
-|**2024-01-04**|**TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection**|Hao Sun et.al.|[2401.02309v1](http://arxiv.org/abs/2401.02309v1)|**[link](https://github.com/mingyao1120/tr-detr)**|
+|**2024-01-05**|**TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection**|Hao Sun et.al.|[2401.02309v2](http://arxiv.org/abs/2401.02309v2)|**[link](https://github.com/mingyao1120/tr-detr)**|
 |**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292v1](http://arxiv.org/abs/2401.02292v1)|**[link](https://github.com/list17/gridformer)**|
 |**2024-01-04**|**Uncertainty-Aware Deep Attention Recurrent Neural Network for Heterogeneous Time Series Imputation**|Linglong Qian et.al.|[2401.02258v1](http://arxiv.org/abs/2401.02258v1)|null|
 |**2024-01-04**|**Slot-guided Volumetric Object Radiance Fields**|Di Qi et.al.|[2401.02241v1](http://arxiv.org/abs/2401.02241v1)|null|
