@@ -1252,7 +1252,7 @@
 |**2024-01-05**|**MalModel: Hiding Malicious Payload in Mobile Deep Learning Models with Black-box Backdoor Attack**|Jiayi Hua et.al.|[2401.02659v1](http://arxiv.org/abs/2401.02659v1)|**[link](https://github.com/hjygh/malmodel)**|
 |**2024-01-05**|**The Fate of Simple Organics on Titan's Surface: A Theoretical Perspective**|Xinting Yu et.al.|[2401.02640v1](http://arxiv.org/abs/2401.02640v1)|null|
 |**2024-01-05**|**A Random Ensemble of Encrypted models for Enhancing Robustness against Adversarial Examples**|Ryota Iijima et.al.|[2401.02633v1](http://arxiv.org/abs/2401.02633v1)|null|
-|**2024-01-05**|**AdvSQLi: Generating Adversarial SQL Injections against Real-world WAF-as-a-service**|Zhenqing Qu et.al.|[2401.02615v1](http://arxiv.org/abs/2401.02615v1)|null|
+|**2024-01-08**|**AdvSQLi: Generating Adversarial SQL Injections against Real-world WAF-as-a-service**|Zhenqing Qu et.al.|[2401.02615v2](http://arxiv.org/abs/2401.02615v2)|null|
 |**2024-01-05**|**Identification of 4FGL uncertain sources at Higher Resolutions with Inverse Discrete Wavelet Transform**|Haitao Cao et.al.|[2401.02589v1](http://arxiv.org/abs/2401.02589v1)|**[link](https://github.com/chtfrank/astro_fdidwt)**|
 |**2024-01-04**|**Large Language Models for Social Networks: Applications, Challenges, and Solutions**|Jingying Zeng et.al.|[2401.02575v1](http://arxiv.org/abs/2401.02575v1)|null|
 |**2024-01-04**|**Multivariate Functional Clustering with Variable Selection and Application to Sensor Data from Engineering Systems**|Zhongnan Jin et.al.|[2401.02557v1](http://arxiv.org/abs/2401.02557v1)|null|
@@ -13312,7 +13312,7 @@
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089v1](http://arxiv.org/abs/2311.10089v1)|null|
 |**2023-11-08**|**VioLA: Aligning Videos to 2D LiDAR Scans**|Jun-Jee Chao et.al.|[2311.04783v1](http://arxiv.org/abs/2311.04783v1)|null|
 |**2023-11-06**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008v1](http://arxiv.org/abs/2311.03008v1)|null|
-|**2023-10-31**|**Navigating the Complex Landscape of Shock Filter Cahn-Hilliard Equation: From Regularized to Young Measure Solutions**|Darko Mitrovic et.al.|[2310.20383v1](http://arxiv.org/abs/2310.20383v1)|null|
+|**2024-01-06**|**Navigating the Complex Landscape of Shock Filter Cahn-Hilliard Equation: From Regularized to Young Measure Solutions**|Darko Mitrovic et.al.|[2310.20383v2](http://arxiv.org/abs/2310.20383v2)|null|
 |**2023-10-23**|**Online Detection of AI-Generated Images**|David C. Epstein et.al.|[2310.15150v1](http://arxiv.org/abs/2310.15150v1)|null|
 |**2023-10-13**|**SAIR: Learning Semantic-aware Implicit Representation**|Canyu Zhang et.al.|[2310.09285v1](http://arxiv.org/abs/2310.09285v1)|null|
 |**2023-10-11**|**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model**|Shiyuan Yang et.al.|[2310.07222v1](http://arxiv.org/abs/2310.07222v1)|**[link](https://github.com/ysy31415/unipaint)**|
