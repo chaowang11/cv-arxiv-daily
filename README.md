@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Quantum Inspired Microwave Phase Super-Resolution at Room Temperature**|Leonid Vidro et.al.|[2401.05026v1](http://arxiv.org/abs/2401.05026v1)|null|
 |**2024-01-08**|**AGG: Amortized Generative 3D Gaussians for Single Image to 3D**|Dejia Xu et.al.|[2401.04099v1](http://arxiv.org/abs/2401.04099v1)|null|
 |**2024-01-08**|**Sub-Rayleigh ghost imaging via structured illumination**|Liming Li et.al.|[2401.03829v1](http://arxiv.org/abs/2401.03829v1)|null|
 |**2024-01-08**|**FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring**|Geunhyuk Youk et.al.|[2401.03707v1](http://arxiv.org/abs/2401.03707v1)|null|
@@ -1234,6 +1235,54 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
+|**2024-01-10**|**Some aspects of resistive-to-normal state transition by direct and microwave currents in superconducting thin films with phase slip lines**|O. G. Turutanov et.al.|[2401.05333v1](http://arxiv.org/abs/2401.05333v1)|null|
+|**2024-01-10**|**Arrival Time Prediction for Autonomous Shuttle Services in the Real World: Evidence from Five Cities**|Carolin Schmidt et.al.|[2401.05322v1](http://arxiv.org/abs/2401.05322v1)|null|
+|**2024-01-10**|**Quantum Time-Space Tradeoffs for Matrix Problems**|Paul Beame et.al.|[2401.05321v1](http://arxiv.org/abs/2401.05321v1)|null|
+|**2024-01-10**|**Geometric embeddings of spaces of persistence diagrams with explicit distortions**|Atish Mitra et.al.|[2401.05298v1](http://arxiv.org/abs/2401.05298v1)|null|
+|**2024-01-10**|**The Rise of Data-Driven Microscopy powered by Machine Learning**|Leonor Morgado et.al.|[2401.05282v1](http://arxiv.org/abs/2401.05282v1)|null|
+|**2024-01-10**|**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**|Junsong Chen et.al.|[2401.05252v1](http://arxiv.org/abs/2401.05252v1)|null|
+|**2024-01-10**|**Ray transform on Sobolev spaces of symmetric tensor fields, II: Range characterization**|Venky P. Krishnan et.al.|[2401.05230v1](http://arxiv.org/abs/2401.05230v1)|null|
+|**2024-01-10**|**Chaos and quantization of the three-particle generic Fermi-Pasta-Ulam-Tsingou model I: Density of states and spectral statistics**|Hua Yan et.al.|[2401.05188v1](http://arxiv.org/abs/2401.05188v1)|null|
+|**2024-01-10**|**Non-inertial motion dependent entangled Bell-state**|Julius Arthur Bittermann et.al.|[2401.05186v1](http://arxiv.org/abs/2401.05186v1)|null|
+|**2024-01-10**|**Non-Numerical Weakly Relational Domains**|Helmut Seidl et.al.|[2401.05165v1](http://arxiv.org/abs/2401.05165v1)|null|
+|**2024-01-10**|**Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models for Enhanced Skin Disease Classification using ViT and CNN**|Muhammad Ali Farooq et.al.|[2401.05159v1](http://arxiv.org/abs/2401.05159v1)|null|
+|**2024-01-10**|**An Optimizing Framework on MLIR for Efficient FPGA-based Accelerator Generation**|Weichuang Zhang et.al.|[2401.05154v1](http://arxiv.org/abs/2401.05154v1)|null|
+|**2024-01-10**|**Machine Learning to Promote Translational Research: Predicting Patent and Clinical Trial Inclusion in Dementia Research**|Matilda Beinat et.al.|[2401.05145v1](http://arxiv.org/abs/2401.05145v1)|null|
+|**2024-01-10**|**All-optical nonlinear activation function based on stimulated Brillouin scattering**|Grigorii Slinkov et.al.|[2401.05135v1](http://arxiv.org/abs/2401.05135v1)|null|
+|**2024-01-10**|**Yes, this is what I was looking for! Towards Multi-modal Medical Consultation Concern Summary Generation**|Abhisek Tiwari et.al.|[2401.05134v1](http://arxiv.org/abs/2401.05134v1)|**[link](https://github.com/nlp-rl/mmcsg)**|
+|**2024-01-10**|**Complete vectorial optical mode converter using multi-layer metasurface**|Go Soma et.al.|[2401.05127v1](http://arxiv.org/abs/2401.05127v1)|null|
+|**2024-01-10**|**Efficient Fine-Tuning with Domain Adaptation for Privacy-Preserving Vision Transformer**|Teru Nagamori et.al.|[2401.05126v1](http://arxiv.org/abs/2401.05126v1)|null|
+|**2024-01-10**|**Multifractal emergent processes: Multiplicative interactions override nonlinear component properties**|Madhur Mangalam et.al.|[2401.05105v1](http://arxiv.org/abs/2401.05105v1)|null|
+|**2024-01-10**|**A Mathematical Theory for Studying and Controlling the Disinformation System Dynamics**|Arindam Kumar Paul et.al.|[2401.05078v1](http://arxiv.org/abs/2401.05078v1)|null|
+|**2024-01-10**|**MISS: Multiclass Interpretable Scoring Systems**|Michal K. Grzeszczyk et.al.|[2401.05069v1](http://arxiv.org/abs/2401.05069v1)|**[link](https://github.com/sanoscience/miss)**|
+|**2024-01-10**|**Application of Deep Learning in Blind Motion Deblurring: Current Status and Future Prospects**|Yawen Xiang et.al.|[2401.05055v1](http://arxiv.org/abs/2401.05055v1)|**[link](https://github.com/visionverse/blind-motion-deblurring-survey)**|
+|**2024-01-10**|**OTAS: An Elastic Transformer Serving System via Token Adaptation**|Jinyu Chen et.al.|[2401.05031v1](http://arxiv.org/abs/2401.05031v1)|null|
+|**2024-01-10**|**AdvMT: Adversarial Motion Transformer for Long-term Human Motion Prediction**|Sarmad Idrees et.al.|[2401.05018v1](http://arxiv.org/abs/2401.05018v1)|null|
+|**2024-01-10**|**HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling for Long-Term Forecasting**|Shubao Zhao et.al.|[2401.05012v1](http://arxiv.org/abs/2401.05012v1)|null|
+|**2024-01-10**|**Numerical computation of high-order expansions of invariant manifolds of high-dimensional tori**|Joan Gimeno et.al.|[2401.05003v1](http://arxiv.org/abs/2401.05003v1)|null|
+|**2024-01-10**|**Mapping Information in Feature Extraction Transformation for Chirp Signal**|Shuyi Gu et.al.|[2401.05000v1](http://arxiv.org/abs/2401.05000v1)|null|
+|**2024-01-10**|**Lax pairs informed neural networks solving integrable systems**|Juncai Pu et.al.|[2401.04982v1](http://arxiv.org/abs/2401.04982v1)|null|
+|**2024-01-10**|**Invertible Solution of Neural Differential Equations for Analysis of Irregularly-Sampled Time Series**|YongKyung Oh et.al.|[2401.04979v1](http://arxiv.org/abs/2401.04979v1)|null|
+|**2024-01-10**|**HaltingVT: Adaptive Token Halting Transformer for Efficient Video Recognition**|Qian Wu et.al.|[2401.04975v1](http://arxiv.org/abs/2401.04975v1)|**[link](https://github.com/dun-research/haltingvt)**|
+|**2024-01-10**|**Electrical Non-Hermitian Control of Topological Magnon Spin Transport**|Pieter M. Gunnink et.al.|[2401.04967v1](http://arxiv.org/abs/2401.04967v1)|null|
+|**2024-01-10**|**EmMixformer: Mix transformer for eye movement recognition**|Huafeng Qin et.al.|[2401.04956v1](http://arxiv.org/abs/2401.04956v1)|null|
+|**2024-01-10**|**Adaptive-avg-pooling based Attention Vision Transformer for Face Anti-spoofing**|Jichen Yang et.al.|[2401.04953v1](http://arxiv.org/abs/2401.04953v1)|null|
+|**2024-01-10**|**Diffusion-based Pose Refinement and Muti-hypothesis Generation for 3D Human Pose Estimaiton**|Hongbo Kang et.al.|[2401.04921v1](http://arxiv.org/abs/2401.04921v1)|null|
+|**2024-01-10**|**SPT: Spectral Transformer for Red Giant Stars Age and Mass Estimation**|Mengmeng Zhang et.al.|[2401.04900v1](http://arxiv.org/abs/2401.04900v1)|null|
+|**2024-01-10**|**Resolving non-equilibrium shape variations amongst millions of gold nanoparticles**|Zhou Shen et.al.|[2401.04896v1](http://arxiv.org/abs/2401.04896v1)|null|
+|**2024-01-10**|**Nonparametric Partial Disentanglement via Mechanism Sparsity: Sparse Actions, Interventions and Sparse Temporal Dependencies**|Sébastien Lachapelle et.al.|[2401.04890v1](http://arxiv.org/abs/2401.04890v1)|null|
+|**2024-01-10**|**Attendre: Wait To Attend By Retrieval With Evicted Queries in Memory-Based Transformers for Long Context Processing**|Zi Yang et.al.|[2401.04881v1](http://arxiv.org/abs/2401.04881v1)|null|
+|**2024-01-10**|**Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction**|Yu Liu et.al.|[2401.04872v1](http://arxiv.org/abs/2401.04872v1)|null|
+|**2024-01-10**|**Real-time and Continuous Turn-taking Prediction Using Voice Activity Projection**|Koji Inoue et.al.|[2401.04868v1](http://arxiv.org/abs/2401.04868v1)|null|
+|**2024-01-10**|**Estimands and cumulative incidence function regression in clinical trials: some new results on interpretability and robustness**|Alexandra Bühler et.al.|[2401.04863v1](http://arxiv.org/abs/2401.04863v1)|null|
+|**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861v1](http://arxiv.org/abs/2401.04861v1)|null|
+|**2024-01-10**|**Transportation Market Rate Forecast Using Signature Transform**|Haotian Gu et.al.|[2401.04857v1](http://arxiv.org/abs/2401.04857v1)|null|
+|**2024-01-09**|**Graph Learning-based Fleet Scheduling for Urban Air Mobility under Operational Constraints, Varying Demand & Uncertainties**|Steve Paul et.al.|[2401.04851v1](http://arxiv.org/abs/2401.04851v1)|null|
+|**2024-01-09**|**T-PRIME: Transformer-based Protocol Identification for Machine-learning at the Edge**|Mauro Belgiovine et.al.|[2401.04837v1](http://arxiv.org/abs/2401.04837v1)|**[link](https://github.com/genesys-neu/t-prime)**|
+|**2024-01-09**|**CoNST: Code Generator for Sparse Tensor Networks**|Saurabh Raje et.al.|[2401.04836v1](http://arxiv.org/abs/2401.04836v1)|null|
+|**2024-01-09**|**MoSECroT: Model Stitching with Static Word Embeddings for Crosslingual Zero-shot Transfer**|Haotian Ye et.al.|[2401.04821v1](http://arxiv.org/abs/2401.04821v1)|null|
+|**2024-01-09**|** ${\cal N}=4$  Supergravity with Local Scaling Symmetry in Four Dimensions**|Nikolaos Liatsos et.al.|[2401.04813v1](http://arxiv.org/abs/2401.04813v1)|null|
 |**2024-01-09**|**Revisiting Adversarial Training at Scale**|Zeyu Wang et.al.|[2401.04727v1](http://arxiv.org/abs/2401.04727v1)|**[link](https://github.com/ucsc-vlaa/advxl)**|
 |**2024-01-09**|**U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation**|Jun Ma et.al.|[2401.04722v1](http://arxiv.org/abs/2401.04722v1)|null|
 |**2024-01-09**|**RNA-TransCrypt: Image Encryption Using Chaotic RNA Encoding, Novel Transformative Substitution, and Tailored Cryptographic Operations**|Muhammad Shahbaz Khan et.al.|[2401.04707v1](http://arxiv.org/abs/2401.04707v1)|null|
