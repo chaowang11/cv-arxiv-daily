@@ -1240,10 +1240,10 @@
 |**2024-01-09**|**EV-EcoSim: A grid-aware co-simulation platform for the design and optimization of electric vehicle charging infrastructure**|Emmanuel Balogun et.al.|[2401.04705v1](http://arxiv.org/abs/2401.04705v1)|null|
 |**2024-01-09**|**Microwave magnetic excitations in U-type hexaferrite Sr $_4$ CoZnFe $_{36}$ O $_{60}$  ceramics**|M. Kempa et.al.|[2401.04678v1](http://arxiv.org/abs/2401.04678v1)|null|
 |**2024-01-09**|**Algebraic curves as a source of separable multi-Hamiltonian systems**|Maciej Blaszak et.al.|[2401.04673v1](http://arxiv.org/abs/2401.04673v1)|null|
-|**2024-01-09**|**Polynomial rates via deconvolution for nonparametric estimation in McKean-Vlasov SDEs**|Chiara Amorino et.al.|[2401.04667v1](http://arxiv.org/abs/2401.04667v1)|null|
+|**2024-01-10**|**Polynomial rates via deconvolution for nonparametric estimation in McKean-Vlasov SDEs**|Chiara Amorino et.al.|[2401.04667v2](http://arxiv.org/abs/2401.04667v2)|null|
 |**2024-01-09**|**From axial C-hedra to general P-nets**|Georg Nawratil et.al.|[2401.04649v1](http://arxiv.org/abs/2401.04649v1)|null|
 |**2024-01-09**|**Applying Large Language Models API to Issue Classification Problem**|Gabriel Aracena et.al.|[2401.04637v1](http://arxiv.org/abs/2401.04637v1)|null|
-|**2024-01-09**|**Agent Alignment in Evolving Social Norms**|Shimin Li et.al.|[2401.04620v1](http://arxiv.org/abs/2401.04620v1)|null|
+|**2024-01-10**|**Agent Alignment in Evolving Social Norms**|Shimin Li et.al.|[2401.04620v2](http://arxiv.org/abs/2401.04620v2)|null|
 |**2024-01-09**|**Skewed Pivot-Blend Modeling with Applications to Semicontinuous Outcomes**|Yiyuan She et.al.|[2401.04603v1](http://arxiv.org/abs/2401.04603v1)|null|
 |**2024-01-09**|**An Assessment on Comprehending Mental Health through Large Language Models**|Mihael Arcan et.al.|[2401.04592v1](http://arxiv.org/abs/2401.04592v1)|null|
 |**2024-01-09**|**When Do Two Distributions Yield the Same Expected Euler Characteristic Curve in the Thermodynamic Limit?**|Tobias Fleckenstein et.al.|[2401.04580v1](http://arxiv.org/abs/2401.04580v1)|null|
