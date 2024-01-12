@@ -1310,7 +1310,7 @@
 |**2024-01-10**|**Nonparametric Partial Disentanglement via Mechanism Sparsity: Sparse Actions, Interventions and Sparse Temporal Dependencies**|Sébastien Lachapelle et.al.|[2401.04890v1](http://arxiv.org/abs/2401.04890v1)|null|
 |**2024-01-10**|**Attendre: Wait To Attend By Retrieval With Evicted Queries in Memory-Based Transformers for Long Context Processing**|Zi Yang et.al.|[2401.04881v1](http://arxiv.org/abs/2401.04881v1)|null|
 |**2024-01-10**|**Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction**|Yu Liu et.al.|[2401.04872v1](http://arxiv.org/abs/2401.04872v1)|null|
-|**2024-01-10**|**Real-time and Continuous Turn-taking Prediction Using Voice Activity Projection**|Koji Inoue et.al.|[2401.04868v1](http://arxiv.org/abs/2401.04868v1)|null|
+|**2024-01-10**|**Real-time and Continuous Turn-taking Prediction Using Voice Activity Projection**|Koji Inoue et.al.|[2401.04868v1](http://arxiv.org/abs/2401.04868v1)|**[link](https://github.com/ErikEkstedt/VoiceActivityProjection)**|
 |**2024-01-10**|**Estimands and cumulative incidence function regression in clinical trials: some new results on interpretability and robustness**|Alexandra Bühler et.al.|[2401.04863v1](http://arxiv.org/abs/2401.04863v1)|null|
 |**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861v1](http://arxiv.org/abs/2401.04861v1)|null|
 |**2024-01-10**|**Transportation Market Rate Forecast Using Signature Transform**|Haotian Gu et.al.|[2401.04857v1](http://arxiv.org/abs/2401.04857v1)|null|
