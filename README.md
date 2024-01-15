@@ -1258,7 +1258,7 @@
 |**2024-01-11**|**Object-Centric Diffusion for Efficient Video Editing**|Kumara Kahatapitiya et.al.|[2401.05735v1](http://arxiv.org/abs/2401.05735v1)|null|
 |**2024-01-11**|**FeReX: A Reconfigurable Design of Multi-bit Ferroelectric Compute-in-Memory for Nearest Neighbor Search**|Zhicheng Xu et.al.|[2401.05708v1](http://arxiv.org/abs/2401.05708v1)|null|
 |**2024-01-11**|**The Decay Process of an α-configuration Sunspot**|Yang Peng et.al.|[2401.05688v1](http://arxiv.org/abs/2401.05688v1)|null|
-|**2024-01-11**|**Masked Attribute Description Embedding for Cloth-Changing Person Re-identification**|Chunlei Peng et.al.|[2401.05646v1](http://arxiv.org/abs/2401.05646v1)|null|
+|**2024-01-12**|**Masked Attribute Description Embedding for Cloth-Changing Person Re-identification**|Chunlei Peng et.al.|[2401.05646v2](http://arxiv.org/abs/2401.05646v2)|null|
 |**2024-01-11**|**Full-State Prescribed Performance-Based Consensus of Double-Integrator Multi-Agent Systems with Jointly Connected Topologies**|Yahui Hou et.al.|[2401.05639v1](http://arxiv.org/abs/2401.05639v1)|null|
 |**2024-01-11**|**Chimera baryon spectrum in the Sp(4) completion of composite Higgs models**|Ho Hsiao et.al.|[2401.05637v1](http://arxiv.org/abs/2401.05637v1)|null|
 |**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v1](http://arxiv.org/abs/2401.05633v1)|**[link](https://github.com/aitical/cfsr)**|
