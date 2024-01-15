@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention**|Xingyu Zhou et.al.|[2401.06312v1](http://arxiv.org/abs/2401.06312v1)|null|
+|**2024-01-11**|**Frequency-Time Diffusion with Neural Cellular Automata**|John Kalkhof et.al.|[2401.06291v1](http://arxiv.org/abs/2401.06291v1)|null|
+|**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191v1](http://arxiv.org/abs/2401.06191v1)|null|
 |**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v1](http://arxiv.org/abs/2401.05633v1)|**[link](https://github.com/aitical/cfsr)**|
 |**2024-01-10**|**Quantum Inspired Microwave Phase Super-Resolution at Room Temperature**|Leonid Vidro et.al.|[2401.05026v1](http://arxiv.org/abs/2401.05026v1)|null|
 |**2024-01-08**|**AGG: Amortized Generative 3D Gaussians for Single Image to 3D**|Dejia Xu et.al.|[2401.04099v1](http://arxiv.org/abs/2401.04099v1)|null|
@@ -1081,6 +1084,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention**|Xingyu Zhou et.al.|[2401.06312v1](http://arxiv.org/abs/2401.06312v1)|null|
 |**2024-01-08**|**FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring**|Geunhyuk Youk et.al.|[2401.03707v1](http://arxiv.org/abs/2401.03707v1)|null|
 |**2023-12-30**|**A Survey on Super Resolution for video Enhancement Using GAN**|Ankush Maity et.al.|[2312.16471v2](http://arxiv.org/abs/2312.16471v2)|null|
 |**2023-12-18**|**TMP: Temporal Motion Propagation for Online Video Super-Resolution**|Zhengqiang Zhang et.al.|[2312.09909v2](http://arxiv.org/abs/2312.09909v2)|**[link](https://github.com/xtudbxk/tmp)**|
@@ -1237,6 +1241,51 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part II: Spatial and Tonal Data Optimization**|Niklas Kämper et.al.|[2401.06747v1](http://arxiv.org/abs/2401.06747v1)|null|
+|**2024-01-12**|**Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part I: Homogeneous Diffusion Inpainting**|Niklas Kämper et.al.|[2401.06744v1](http://arxiv.org/abs/2401.06744v1)|null|
+|**2024-01-12**|**A fundamental solution for a subelliptic operator in Finsler geometry**|Federica Dragoni et.al.|[2401.06736v1](http://arxiv.org/abs/2401.06736v1)|null|
+|**2024-01-12**|**On the existence of charged electrostatic black holes in arbitrary topology**|Martin Reiris et.al.|[2401.06702v1](http://arxiv.org/abs/2401.06702v1)|null|
+|**2024-01-12**|**Free generators and Hoffman's isomorphism for the two-parameter shuffle algebra**|Leonard Schmitz et.al.|[2401.06691v1](http://arxiv.org/abs/2401.06691v1)|null|
+|**2024-01-12**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v1](http://arxiv.org/abs/2401.06637v1)|null|
+|**2024-01-12**|**Ada-Retrieval: An Adaptive Multi-Round Retrieval Paradigm for Sequential Recommendations**|Lei Li et.al.|[2401.06633v1](http://arxiv.org/abs/2401.06633v1)|**[link](https://github.com/ll0ruc/ada-retrieval)**|
+|**2024-01-12**|**Device-independent certification of desirable properties with a confidence interval**|Wan-Guan Chang et.al.|[2401.06627v1](http://arxiv.org/abs/2401.06627v1)|null|
+|**2024-01-12**|**Mapping Transformer Leveraged Embeddings for Cross-Lingual Document Representation**|Tsegaye Misikir Tashu et.al.|[2401.06583v1](http://arxiv.org/abs/2401.06583v1)|null|
+|**2024-01-12**|**Enhancing Throughput for TTEthernet via Co-optimizing Routing and Scheduling: An Online Time-Varying Graph-based Method**|Yaoxu He et.al.|[2401.06579v1](http://arxiv.org/abs/2401.06579v1)|null|
+|**2024-01-12**|**360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model**|Qian Wang et.al.|[2401.06578v1](http://arxiv.org/abs/2401.06578v1)|null|
+|**2024-01-12**|**Discrete constant mean curvature cylinders and isothermic tori**|Joseph Cho et.al.|[2401.06570v1](http://arxiv.org/abs/2401.06570v1)|null|
+|**2024-01-12**|**A complex for the Dirac operator in several variables in dimension  $4$ **|Lukáš Krump et.al.|[2401.06554v1](http://arxiv.org/abs/2401.06554v1)|null|
+|**2024-01-12**|**Multimodal Learning for detecting urban functional zones using remote sensing image and multi-semantic information**|Chuanji Shi et.al.|[2401.06550v1](http://arxiv.org/abs/2401.06550v1)|null|
+|**2024-01-12**|**Surface charge induced  $sp^3$ - $sp^2$  transformation: new energy optimization universal mechanism of (4x4) reconstruction of stoichiometric GaN(0001) surface**|Paweł Strak et.al.|[2401.06531v1](http://arxiv.org/abs/2401.06531v1)|null|
+|**2024-01-12**|**Domain Adaptation for Time series Transformers using One-step fine-tuning**|Subina Khanal et.al.|[2401.06524v1](http://arxiv.org/abs/2401.06524v1)|null|
+|**2024-01-12**|**LiDAR Depth Map Guided Image Compression Model**|Alessandro Gnutti et.al.|[2401.06517v1](http://arxiv.org/abs/2401.06517v1)|null|
+|**2024-01-12**|**ML-On-Rails: Safeguarding Machine Learning Models in Software Systems A Case Study**|Hala Abdelkader et.al.|[2401.06513v1](http://arxiv.org/abs/2401.06513v1)|null|
+|**2024-01-12**|**An investigation of structures responsible for gender bias in BERT and DistilBERT**|Thibaud Leteno et.al.|[2401.06495v1](http://arxiv.org/abs/2401.06495v1)|null|
+|**2024-01-12**|**Generalized Distribution Function of Relaxation Times with the Davidson-Cole Model as a Kernel**|Anis Allagui et.al.|[2401.06490v1](http://arxiv.org/abs/2401.06490v1)|null|
+|**2024-01-12**|**Small scale creation of the Lagrangian flow in 2d perfect fluids**|Ayman Rimah Said et.al.|[2401.06476v1](http://arxiv.org/abs/2401.06476v1)|null|
+|**2024-01-12**|**Improving Graph Convolutional Networks with Transformer Layer in social-based items recommendation**|Thi Linh Hoang et.al.|[2401.06436v1](http://arxiv.org/abs/2401.06436v1)|null|
+|**2024-01-12**|**Swin Transformer-Based CSI Feedback for Massive MIMO**|Jiaming Cheng et.al.|[2401.06435v1](http://arxiv.org/abs/2401.06435v1)|null|
+|**2024-01-12**|**From Automation to Augmentation: Large Language Models Elevating Essay Scoring Landscape**|Changrong Xiao et.al.|[2401.06431v1](http://arxiv.org/abs/2401.06431v1)|**[link](https://github.com/xiaochr/llm-aes)**|
+|**2024-01-12**|**A note on higher structures on the complexes associated to quiver algebras with applications to toupie algebras**|Yuming Liu et.al.|[2401.06429v1](http://arxiv.org/abs/2401.06429v1)|null|
+|**2024-01-12**|**UPDP: A Unified Progressive Depth Pruner for CNN and Vision Transformer**|Ji Liu et.al.|[2401.06426v1](http://arxiv.org/abs/2401.06426v1)|null|
+|**2024-01-12**|**Energy-Efficient Data Offloading for Earth Observation Satellite Networks**|Lijun He et.al.|[2401.06419v1](http://arxiv.org/abs/2401.06419v1)|null|
+|**2024-01-12**|**Fourier analysis of spatial point processes**|Junho Yang et.al.|[2401.06403v1](http://arxiv.org/abs/2401.06403v1)|null|
+|**2024-01-12**|**ModaVerse: Efficiently Transforming Modalities with LLMs**|Xinyu Wang et.al.|[2401.06395v1](http://arxiv.org/abs/2401.06395v1)|null|
+|**2024-01-12**|**Procedure for Obtaining the Analytical Distribution Function of Relaxation Times for the Analysis of Impedance Spectra using the Fox  $H$ -function**|Anis Allagui et.al.|[2401.06388v1](http://arxiv.org/abs/2401.06388v1)|null|
+|**2024-01-12**|**Proper maps of ball complements & differences and rational sphere maps**|Abdullah Al Helal et.al.|[2401.06364v1](http://arxiv.org/abs/2401.06364v1)|null|
+|**2024-01-12**|**MedTransformer: Accurate AD Diagnosis for 3D MRI Images through 2D Vision Transformers**|Yifeng Wang et.al.|[2401.06349v1](http://arxiv.org/abs/2401.06349v1)|null|
+|**2024-01-12**|**Hyper-STTN: Social Group-aware Spatial-Temporal Transformer Network for Human Trajectory Prediction with Hypergraph Reasoning**|Weizheng Wang et.al.|[2401.06344v1](http://arxiv.org/abs/2401.06344v1)|null|
+|**2024-01-12**|**A Temporal-Spectral Fusion Transformer with Subject-specific Adapter for Enhancing RSVP-BCI Decoding**|Xujin Li et.al.|[2401.06340v1](http://arxiv.org/abs/2401.06340v1)|null|
+|**2024-01-12**|**Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo**|Xunpeng Huang et.al.|[2401.06325v1](http://arxiv.org/abs/2401.06325v1)|null|
+|**2024-01-12**|**Stochastic modelling of the instantaneous velocity profile in rough-wall turbulent boundary layers**|Roozbeh Ehsani et.al.|[2401.06315v1](http://arxiv.org/abs/2401.06315v1)|null|
+|**2024-01-12**|**Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention**|Xingyu Zhou et.al.|[2401.06312v1](http://arxiv.org/abs/2401.06312v1)|null|
+|**2024-01-11**|**Derivation of renormalized Hartree-Fock-Bogoliubov and quantum Boltzmann equations in an interacting Bose gas**|Thomas Chen et.al.|[2401.06298v1](http://arxiv.org/abs/2401.06298v1)|null|
+|**2024-01-11**|**The Pulse of Mood Online: Unveiling Emotional Reactions in a Dynamic Social Media Landscape**|Siyi Guo et.al.|[2401.06275v1](http://arxiv.org/abs/2401.06275v1)|null|
+|**2024-01-11**|**Transformer Masked Autoencoders for Next-Generation Wireless Communications: Architecture and Opportunities**|Abdullah Zayat et.al.|[2401.06274v1](http://arxiv.org/abs/2401.06274v1)|null|
+|**2024-01-11**|**Supervised Gromov-Wasserstein Optimal Transport**|Zixuan Cang et.al.|[2401.06266v1](http://arxiv.org/abs/2401.06266v1)|null|
+|**2024-01-11**|**Semantic-Preserving Feature Partitioning for Multi-View Ensemble Learning**|Mohammad Sadegh Khorshidi et.al.|[2401.06251v1](http://arxiv.org/abs/2401.06251v1)|null|
+|**2024-01-11**|**YOLO-Former: YOLO Shakes Hand With ViT**|Javad Khoramdel et.al.|[2401.06244v1](http://arxiv.org/abs/2401.06244v1)|null|
+|**2024-01-11**|**Quantum eigenvalue processing**|Guang Hao Low et.al.|[2401.06240v1](http://arxiv.org/abs/2401.06240v1)|null|
+|**2024-01-11**|**Leveraging Frequency Domain Learning in 3D Vessel Segmentation**|Xinyuan Wang et.al.|[2401.06224v1](http://arxiv.org/abs/2401.06224v1)|null|
 |**2024-01-11**|**Axis Tour: Word Tour Determines the Order of Axes in ICA-transformed Embeddings**|Hiroaki Yamagiwa et.al.|[2401.06112v1](http://arxiv.org/abs/2401.06112v1)|null|
 |**2024-01-11**|**Transformers are Multi-State RNNs**|Matanel Oren et.al.|[2401.06104v1](http://arxiv.org/abs/2401.06104v1)|null|
 |**2024-01-11**|**Anomalous dispersion, superluminality and instabilities in two-flavour theories with local non-Hermitian mass mixing**|Maxim N. Chernodub et.al.|[2401.06097v1](http://arxiv.org/abs/2401.06097v1)|null|
@@ -13474,6 +13523,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v1](http://arxiv.org/abs/2401.06637v1)|null|
 |**2024-01-07**|**The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline**|Haonan Wang et.al.|[2401.04136v1](http://arxiv.org/abs/2401.04136v1)|null|
 |**2023-11-28**|**Image Inpainting via Tractable Steering of Diffusion Models**|Anji Liu et.al.|[2401.03349v1](http://arxiv.org/abs/2401.03349v1)|null|
 |**2024-01-04**|**Improving Diffusion-Based Image Synthesis with Context Prediction**|Ling Yang et.al.|[2401.02015v1](http://arxiv.org/abs/2401.02015v1)|null|
