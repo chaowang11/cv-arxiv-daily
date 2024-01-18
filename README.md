@@ -1256,7 +1256,7 @@
 |**2024-01-16**|**Rings, shells, and arc structures around B[e] supergiants: I. Classical tools of non-linear hydrodynamics**|Dieter H. Nickeler et.al.|[2401.08416v1](http://arxiv.org/abs/2401.08416v1)|null|
 |**2024-01-16**|**From Coarse to Fine: Efficient Training for Audio Spectrogram Transformers**|Jiu Feng et.al.|[2401.08415v1](http://arxiv.org/abs/2401.08415v1)|null|
 |**2024-01-16**|**Hidden Flaws Behind Expert-Level Accuracy of GPT-4 Vision in Medicine**|Qiao Jin et.al.|[2401.08396v1](http://arxiv.org/abs/2401.08396v1)|null|
-|**2024-01-16**|**Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference**|Jinghan Yao et.al.|[2401.08383v1](http://arxiv.org/abs/2401.08383v1)|**[link](https://github.com/yjhmitweb/exflow)**|
+|**2024-01-17**|**Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference**|Jinghan Yao et.al.|[2401.08383v2](http://arxiv.org/abs/2401.08383v2)|**[link](https://github.com/yjhmitweb/exflow)**|
 |**2024-01-16**|**Boundary behaviour of the solution of the heat equation on the half line via the Fokas unified transform method**|Andreas Chatziafratis et.al.|[2401.08331v1](http://arxiv.org/abs/2401.08331v1)|null|
 |**2024-01-16**|**Application of LLM Agents in Recruitment: A Novel Framework for Resume Screening**|Chengguang Gan et.al.|[2401.08315v1](http://arxiv.org/abs/2401.08315v1)|null|
 |**2024-01-16**|**Applications of multiple orthogonal polynomials with hypergeometric moment generating functions**|Thomas Wolfs et.al.|[2401.08312v1](http://arxiv.org/abs/2401.08312v1)|null|
@@ -1283,7 +1283,7 @@
 |**2024-01-16**|**Enhancing Robustness of LLM-Synthetic Text Detectors for Academic Writing: A Comprehensive Analysis**|Zhicheng Dou et.al.|[2401.08046v1](http://arxiv.org/abs/2401.08046v1)|null|
 |**2024-01-16**|**Operator Spreading and Many-Body Localization**|A. Weisse et.al.|[2401.08031v1](http://arxiv.org/abs/2401.08031v1)|null|
 |**2024-01-16**|**Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion**|Ji Huang et.al.|[2401.08017v1](http://arxiv.org/abs/2401.08017v1)|null|
-|**2024-01-15**|**Carrying over algorithm in transformers**|Jorrit Kruthoff et.al.|[2401.07993v1](http://arxiv.org/abs/2401.07993v1)|**[link](https://github.com/carryingtransformers/carryingtransformers)**|
+|**2024-01-17**|**Carrying over algorithm in transformers**|Jorrit Kruthoff et.al.|[2401.07993v2](http://arxiv.org/abs/2401.07993v2)|**[link](https://github.com/carryingtransformers/carryingtransformers)**|
 |**2024-01-15**|**Estimation of the electric field in atom probe tomography experiments using charge state ratios**|Levi Tegg et.al.|[2401.07989v1](http://arxiv.org/abs/2401.07989v1)|null|
 |**2024-01-15**|**From Digital Twins to Digital Twin Prototypes: Concepts, Formalization, and Applications**|Alexander Barbie et.al.|[2401.07985v1](http://arxiv.org/abs/2401.07985v1)|null|
 |**2024-01-15**|**Leveraging External Knowledge Resources to Enable Domain-Specific Comprehension**|Saptarshi Sengupta et.al.|[2401.07977v1](http://arxiv.org/abs/2401.07977v1)|null|
@@ -1295,7 +1295,7 @@
 |**2024-01-15**|**Taking the Road Less Traveled: Solving the One-Dimensional Quantum Oscillator using the Parabolic-Cylinder Equation**|Mate Garai et.al.|[2401.07913v1](http://arxiv.org/abs/2401.07913v1)|null|
 |**2024-01-15**|**CY in the Sky**|Albrecht Klemm et.al.|[2401.07899v1](http://arxiv.org/abs/2401.07899v1)|null|
 |**2024-01-15**|**On the Importance of Neural Wiener Filter for Resource Efficient Multichannel Speech Enhancement**|Tsun-An Hsieh et.al.|[2401.07882v1](http://arxiv.org/abs/2401.07882v1)|null|
-|**2024-01-15**|**Programming bistability in geometrically perturbed mechanical metamaterials**|Yingchao Peng et.al.|[2401.07881v1](http://arxiv.org/abs/2401.07881v1)|null|
+|**2024-01-17**|**Programming bistability in geometrically perturbed mechanical metamaterials**|Yingchao Peng et.al.|[2401.07881v2](http://arxiv.org/abs/2401.07881v2)|null|
 |**2024-01-15**|**The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey**|Saurav Pawar et.al.|[2401.07872v1](http://arxiv.org/abs/2401.07872v1)|null|
 |**2024-01-15**|**Information hiding cameras: optical concealment of object information into ordinary images**|Bijie Bai et.al.|[2401.07856v1](http://arxiv.org/abs/2401.07856v1)|null|
 |**2024-01-15**|** $M^{2}$ Fusion: Bayesian-based Multimodal Multi-level Fusion on Colorectal Cancer Microsatellite Instability Prediction**|Quan Liu et.al.|[2401.07854v1](http://arxiv.org/abs/2401.07854v1)|null|
@@ -13590,7 +13590,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-16**|**Inpainting Normal Maps for Lightstage data**|Hancheng Zuo et.al.|[2401.08099v1](http://arxiv.org/abs/2401.08099v1)|null|
-|**2024-01-15**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v2](http://arxiv.org/abs/2401.06637v2)|null|
+|**2024-01-17**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v3](http://arxiv.org/abs/2401.06637v3)|null|
 |**2024-01-07**|**The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline**|Haonan Wang et.al.|[2401.04136v1](http://arxiv.org/abs/2401.04136v1)|null|
 |**2023-11-28**|**Image Inpainting via Tractable Steering of Diffusion Models**|Anji Liu et.al.|[2401.03349v1](http://arxiv.org/abs/2401.03349v1)|null|
 |**2024-01-04**|**Improving Diffusion-Based Image Synthesis with Context Prediction**|Ling Yang et.al.|[2401.02015v1](http://arxiv.org/abs/2401.02015v1)|null|
