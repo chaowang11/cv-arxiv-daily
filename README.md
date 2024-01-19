@@ -28,7 +28,7 @@
 |**2024-01-16**|**Robust DOA estimation using deep acoustic imaging**|Adrian S. Roman et.al.|[2401.08717v1](http://arxiv.org/abs/2401.08717v1)|null|
 |**2024-01-16**|**Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**|Zhenhui Ye et.al.|[2401.08503v1](http://arxiv.org/abs/2401.08503v1)|null|
 |**2024-01-16**|**Physics-informed Meta-instrument for eXperiments (PiMiX) with applications to fusion energy**|Zhehui Wang et.al.|[2401.08390v1](http://arxiv.org/abs/2401.08390v1)|null|
-|**2024-01-16**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v1](http://arxiv.org/abs/2401.08209v1)|null|
+|**2024-01-18**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v2](http://arxiv.org/abs/2401.08209v2)|null|
 |**2024-01-16**|**The Devil is in the Details: Boosting Guided Depth Super-Resolution via Rethinking Cross-Modal Alignment and Aggregation**|Xinni Jiang et.al.|[2401.08123v1](http://arxiv.org/abs/2401.08123v1)|**[link](https://github.com/jiangxinni/d2a2)**|
 |**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v1](http://arxiv.org/abs/2401.08115v1)|null|
 |**2024-01-15**|**Sparsity-based background removal for STORM super-resolution images**|Patris Valera et.al.|[2401.07746v1](http://arxiv.org/abs/2401.07746v1)|**[link](https://github.com/patrisvalera/slnet_storm)**|
@@ -813,7 +813,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-17**|**Efficient Image Super-Resolution via Symmetric Visual Attention Network**|Chengxu Wu et.al.|[2401.08913v1](http://arxiv.org/abs/2401.08913v1)|null|
-|**2024-01-16**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v1](http://arxiv.org/abs/2401.08209v1)|null|
+|**2024-01-18**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v2](http://arxiv.org/abs/2401.08209v2)|null|
 |**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v1](http://arxiv.org/abs/2401.08115v1)|null|
 |**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v1](http://arxiv.org/abs/2401.05633v1)|**[link](https://github.com/aitical/cfsr)**|
 |**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877v1](http://arxiv.org/abs/2401.00877v1)|**[link](https://github.com/csslc/ccsr)**|
@@ -1127,7 +1127,7 @@
 |**2024-01-01**|**NegVSR: Augmenting Negatives for Generalized Noise Modeling in Real-World Video Super-Resolution**|Yexing Song et.al.|[2305.14669v3](http://arxiv.org/abs/2305.14669v3)|null|
 |**2023-05-12**|**Can SAM Boost Video Super-Resolution?**|Zhihe Lu et.al.|[2305.06524v2](http://arxiv.org/abs/2305.06524v2)|null|
 |**2023-05-04**|**Expanding Synthetic Real-World Degradations for Blind Video Super Resolution**|Mehran Jeelani et.al.|[2305.02660v1](http://arxiv.org/abs/2305.02660v1)|null|
-|**2023-04-29**|**An Implicit Alignment for Video Super-Resolution**|Kai Xu et.al.|[2305.00163v1](http://arxiv.org/abs/2305.00163v1)|**[link](https://github.com/kai422/iart)**|
+|**2024-01-18**|**Enhancing Video Super-Resolution via Implicit Resampling-based Alignment**|Kai Xu et.al.|[2305.00163v2](http://arxiv.org/abs/2305.00163v2)|**[link](https://github.com/kai422/iart)**|
 |**2023-12-28**|**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**|Andreas Blattmann et.al.|[2304.08818v2](http://arxiv.org/abs/2304.08818v2)|**[link](https://github.com/stability-ai/generative-models)**|
 |**2023-10-30**|**Local-Global Temporal Difference Learning for Satellite Video Super-Resolution**|Yi Xiao et.al.|[2304.04421v2](http://arxiv.org/abs/2304.04421v2)|**[link](https://github.com/xy-boy/lgtd)**|
 |**2023-03-29**|**Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution**|Yunfan Lu et.al.|[2303.13767v2](http://arxiv.org/abs/2303.13767v2)|**[link](https://github.com/yunfanLu/INR-Event-VSR)**|
@@ -1272,8 +1272,8 @@
 |**2024-01-17**|**DaFoEs: Mixing Datasets towards the generalization of vision-state deep-learning Force Estimation in Minimally Invasive Robotic Surgery**|Mikel De Iturrate Reyzabal et.al.|[2401.09239v1](http://arxiv.org/abs/2401.09239v1)|null|
 |**2024-01-17**|**Dynamic Relation Transformer for Contextual Text Block Detection**|Jiawei Wang et.al.|[2401.09232v1](http://arxiv.org/abs/2401.09232v1)|null|
 |**2024-01-17**|**Tropical modeling of battery swapping and charging station**|N. Krivulin et.al.|[2401.09201v1](http://arxiv.org/abs/2401.09201v1)|null|
-|**2024-01-17**|**Preparing Lessons for Progressive Training on Language Models**|Yu Pan et.al.|[2401.09192v1](http://arxiv.org/abs/2401.09192v1)|null|
-|**2024-01-17**|**Unsupervised Multiple Domain Translation through Controlled Disentanglement in Variational Autoencoder**|Almudévar Antonio et.al.|[2401.09180v1](http://arxiv.org/abs/2401.09180v1)|**[link](https://github.com/antonioalmudevar/variational_translation)**|
+|**2024-01-18**|**Preparing Lessons for Progressive Training on Language Models**|Yu Pan et.al.|[2401.09192v2](http://arxiv.org/abs/2401.09192v2)|null|
+|**2024-01-18**|**Unsupervised Multiple Domain Translation through Controlled Disentanglement in Variational Autoencoder**|Antonio Almudévar et.al.|[2401.09180v2](http://arxiv.org/abs/2401.09180v2)|**[link](https://github.com/antonioalmudevar/variational_translation)**|
 |**2024-01-17**|**The Stationary Wavelet Transform as an Efficient Reductor of Powerline Interference for Atrial Bipolar Electrograms in Cardiac Electrophysiology**|Miguel Martinez-Iniesta et.al.|[2401.09178v1](http://arxiv.org/abs/2401.09178v1)|null|
 |**2024-01-17**|**Continuous Piecewise-Affine Based Motion Model for Image Animation**|Hexiang Wang et.al.|[2401.09146v1](http://arxiv.org/abs/2401.09146v1)|**[link](https://github.com/devilpg/aaai2024-cpabmm)**|
 |**2024-01-17**|**Non-Archimedean analogue of the space of valuations on convex sets**|Semyon Alesker et.al.|[2401.09131v1](http://arxiv.org/abs/2401.09131v1)|null|
