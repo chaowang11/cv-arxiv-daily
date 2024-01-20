@@ -1260,7 +1260,7 @@
 |---|---|---|---|---|
 |**2024-01-18**|**OMG-Seg: Is One Model Good Enough For All Segmentation?**|Xiangtai Li et.al.|[2401.10229v1](http://arxiv.org/abs/2401.10229v1)|**[link](https://github.com/lxtgh/omg-seg)**|
 |**2024-01-18**|**RAP-SAM: Towards Real-Time All-Purpose Segment Anything**|Shilin Xu et.al.|[2401.10228v1](http://arxiv.org/abs/2401.10228v1)|**[link](https://github.com/xushilin1/rap-sam)**|
-|**2024-01-18**|**Supervised Fine-tuning in turn Improves Visual Foundation Models**|Xiaohu Jiang et.al.|[2401.10222v1](http://arxiv.org/abs/2401.10222v1)|null|
+|**2024-01-18**|**Supervised Fine-tuning in turn Improves Visual Foundation Models**|Xiaohu Jiang et.al.|[2401.10222v1](http://arxiv.org/abs/2401.10222v1)|**[link](https://github.com/tencentarc/visft)**|
 |**2024-01-18**|**Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products**|Shengjie Luo et.al.|[2401.10216v1](http://arxiv.org/abs/2401.10216v1)|**[link](https://github.com/lsj2408/gaunt-tensor-product)**|
 |**2024-01-18**|**Equilibrium Multiplicity: A Systematic Approach using Homotopies, with an Application to Chicago**|Amine C-L. Ouazad et.al.|[2401.10181v1](http://arxiv.org/abs/2401.10181v1)|null|
 |**2024-01-18**|**VMamba: Visual State Space Model**|Yue Liu et.al.|[2401.10166v1](http://arxiv.org/abs/2401.10166v1)|**[link](https://github.com/mzeromiko/vmamba)**|
