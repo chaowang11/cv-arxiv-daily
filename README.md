@@ -1264,7 +1264,7 @@
 |**2024-01-18**|**Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products**|Shengjie Luo et.al.|[2401.10216v1](http://arxiv.org/abs/2401.10216v1)|**[link](https://github.com/lsj2408/gaunt-tensor-product)**|
 |**2024-01-18**|**Equilibrium Multiplicity: A Systematic Approach using Homotopies, with an Application to Chicago**|Amine C-L. Ouazad et.al.|[2401.10181v1](http://arxiv.org/abs/2401.10181v1)|null|
 |**2024-01-18**|**VMamba: Visual State Space Model**|Yue Liu et.al.|[2401.10166v1](http://arxiv.org/abs/2401.10166v1)|**[link](https://github.com/mzeromiko/vmamba)**|
-|**2024-01-18**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137v1](http://arxiv.org/abs/2401.10137v1)|null|
+|**2024-01-18**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137v1](http://arxiv.org/abs/2401.10137v1)|**[link](https://github.com/sy3104/isometry_adjointation)**|
 |**2024-01-18**|**Towards Principled Graph Transformers**|Luis Müller et.al.|[2401.10119v1](http://arxiv.org/abs/2401.10119v1)|null|
 |**2024-01-18**|**Correlating fluorescence microscopy, optical and magnetic tweezers to study single chiral biopolymers, tested on DNA plectoneme formation dynamics**|Jack W Shepherd et.al.|[2401.10087v1](http://arxiv.org/abs/2401.10087v1)|null|
 |**2024-01-18**|**On the locality of qubit encodings of local fermionic modes**|Tommaso Guaita et.al.|[2401.10077v1](http://arxiv.org/abs/2401.10077v1)|null|
