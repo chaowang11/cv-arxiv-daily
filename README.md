@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution**|Xin Yuan et.al.|[2401.10404v1](http://arxiv.org/abs/2401.10404v1)|null|
 |**2024-01-17**|**3D orientation super-resolution spatial-frequency-shift microscopy**|Xiaowei Liu et.al.|[2401.09085v1](http://arxiv.org/abs/2401.09085v1)|null|
 |**2024-01-17**|**Efficient Image Super-Resolution via Symmetric Visual Attention Network**|Chengxu Wu et.al.|[2401.08913v1](http://arxiv.org/abs/2401.08913v1)|null|
 |**2024-01-16**|**Robust DOA estimation using deep acoustic imaging**|Adrian S. Roman et.al.|[2401.08717v1](http://arxiv.org/abs/2401.08717v1)|**[link](https://github.com/adriansroman/deepwavedoa)**|
@@ -1100,6 +1101,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution**|Xin Yuan et.al.|[2401.10404v1](http://arxiv.org/abs/2401.10404v1)|null|
 |**2024-01-13**|**Deep Blind Super-Resolution for Satellite Video**|Yi Xiao et.al.|[2401.07139v1](http://arxiv.org/abs/2401.07139v1)|**[link](https://github.com/xy-boy/blind-satellite-vsr)**|
 |**2024-01-15**|**Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention**|Xingyu Zhou et.al.|[2401.06312v2](http://arxiv.org/abs/2401.06312v2)|**[link](https://github.com/labshuhanggu/mia-vsr)**|
 |**2024-01-08**|**FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring**|Geunhyuk Youk et.al.|[2401.03707v1](http://arxiv.org/abs/2401.03707v1)|null|
@@ -1258,6 +1260,52 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Efficient selection of gravitationally lensed OH megamasers with MeerKAT and the Square Kilometre Array**|Charissa Button et.al.|[2401.10887v1](http://arxiv.org/abs/2401.10887v1)|null|
+|**2024-01-19**|**Learning Optimal Dynamic Treatment Regimes from Longitudinal Data**|Nicholas T. Williams et.al.|[2401.10867v1](http://arxiv.org/abs/2401.10867v1)|null|
+|**2024-01-19**|**Emotion Classification In Software Engineering Texts: A Comparative Analysis of Pre-trained Transformers Language Models**|Mia Mohammad Imran et.al.|[2401.10845v1](http://arxiv.org/abs/2401.10845v1)|null|
+|**2024-01-19**|**Rambler: Supporting Writing With Speech via LLM-Assisted Gist Manipulation**|Susan Lin et.al.|[2401.10838v1](http://arxiv.org/abs/2401.10838v1)|null|
+|**2024-01-19**|**Understanding Video Transformers via Universal Concept Discovery**|Matthew Kowal et.al.|[2401.10831v1](http://arxiv.org/abs/2401.10831v1)|null|
+|**2024-01-19**|** $L^2$ -Maximal functions on graded Lie groups**|Duván Cardona et.al.|[2401.10830v1](http://arxiv.org/abs/2401.10830v1)|null|
+|**2024-01-19**|**Inverse Primitive Path Analysis**|Carsten Svaneborg et.al.|[2401.10813v1](http://arxiv.org/abs/2401.10813v1)|null|
+|**2024-01-19**|**DeepRLI: A Multi-objective Framework for Universal Protein--Ligand Interaction Prediction**|Haoyu Lin et.al.|[2401.10806v1](http://arxiv.org/abs/2401.10806v1)|null|
+|**2024-01-19**|**Crossing the transcendental divide: from Schottky groups to algebraic curves**|Samantha Fairchild et.al.|[2401.10801v1](http://arxiv.org/abs/2401.10801v1)|null|
+|**2024-01-19**|**Novel Representation Learning Technique using Graphs for Performance Analytics**|Tarek Ramadan et.al.|[2401.10799v1](http://arxiv.org/abs/2401.10799v1)|null|
+|**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786v1](http://arxiv.org/abs/2401.10786v1)|null|
+|**2024-01-19**|**Study of Orbital Dynamics in Singular and Regular Naked Singularity Space-times**|Avisikta Ghosh et.al.|[2401.10771v1](http://arxiv.org/abs/2401.10771v1)|null|
+|**2024-01-19**|**Interactions with Prompt Problems: A New Way to Teach Programming with Large Language Models**|James Prather et.al.|[2401.10759v1](http://arxiv.org/abs/2401.10759v1)|null|
+|**2024-01-19**|**Direction-dependent effects on global 21-cm detection**|Yash Agrawal et.al.|[2401.10756v1](http://arxiv.org/abs/2401.10756v1)|null|
+|**2024-01-19**|**Invariant measure of gaps in degenerate competing three-particle systems**|Sandro Franceschi et.al.|[2401.10734v1](http://arxiv.org/abs/2401.10734v1)|null|
+|**2024-01-19**|**Dynamic Q&A of Clinical Documents with Large Language Models**|Ran Elgedawy et.al.|[2401.10733v1](http://arxiv.org/abs/2401.10733v1)|null|
+|**2024-01-19**|**Empowering Aggregators with Practical Data-Driven Tools: Harnessing Aggregated and Disaggregated Flexibility for Demand Response**|Costas Mylonas et.al.|[2401.10726v1](http://arxiv.org/abs/2401.10726v1)|null|
+|**2024-01-19**|**Dense 3D Reconstruction Through Lidar: A Comparative Study on Ex-vivo Porcine Tissue**|Guido Caccianiga et.al.|[2401.10709v1](http://arxiv.org/abs/2401.10709v1)|null|
+|**2024-01-19**|**Application of Joint Notch Filtering and Wavelet Transform for Enhanced Powerline Interference Removal in Atrial Fibrillation Electrograms**|Miguel Martinez-Iniesta et.al.|[2401.10698v1](http://arxiv.org/abs/2401.10698v1)|null|
+|**2024-01-19**|**An Efficient Algorithm Based on Wavelet Transform to Reduce Powerline Noise From Electrocardiograms**|Juan Rodenas et.al.|[2401.10694v1](http://arxiv.org/abs/2401.10694v1)|null|
+|**2024-01-19**|**The PTA Hellings and Downs Correlation Unmasked by Symmetries**|Alex Kehagias et.al.|[2401.10680v1](http://arxiv.org/abs/2401.10680v1)|null|
+|**2024-01-19**|**Non-toxic fabrication of fluorescent carbon nanoparticles from medicinal plants/sources with their antioxidant assay**|Parul Singh et.al.|[2401.10673v1](http://arxiv.org/abs/2401.10673v1)|null|
+|**2024-01-19**|**MixNet: Towards Effective and Efficient UHD Low-Light Image Enhancement**|Chen Wu et.al.|[2401.10666v1](http://arxiv.org/abs/2401.10666v1)|null|
+|**2024-01-19**|**FIMBA: Evaluating the Robustness of AI in Genomics via Feature Importance Adversarial Attacks**|Heorhii Skovorodnikov et.al.|[2401.10657v1](http://arxiv.org/abs/2401.10657v1)|null|
+|**2024-01-19**|**Attentive Fusion: A Transformer-based Approach to Multimodal Hate Speech Detection**|Atanu Mandal et.al.|[2401.10653v1](http://arxiv.org/abs/2401.10653v1)|**[link](https://github.com/atanumandal0491/Multimodality-Hate-Speech-Identification)**|
+|**2024-01-19**|**M2ORT: Many-To-One Regression Transformer for Spatial Transcriptomics Prediction from Histopathology Images**|Hongyi Wang et.al.|[2401.10608v1](http://arxiv.org/abs/2401.10608v1)|null|
+|**2024-01-19**|**PuriDefense: Randomized Local Implicit Adversarial Purification for Defending Black-box Query-based Attacks**|Ping Guo et.al.|[2401.10586v1](http://arxiv.org/abs/2401.10586v1)|null|
+|**2024-01-19**|**Photodriven germanium hole qubit**|Bashab Dey et.al.|[2401.10570v1](http://arxiv.org/abs/2401.10570v1)|null|
+|**2024-01-19**|**Dream360: Diverse and Immersive Outdoor Virtual Scene Creation via Transformer-Based 360 Image Outpainting**|Hao Ai et.al.|[2401.10564v1](http://arxiv.org/abs/2401.10564v1)|null|
+|**2024-01-19**|**Symbol as Points: Panoptic Symbol Spotting via Point-based Representation**|Wenlong Liu et.al.|[2401.10556v1](http://arxiv.org/abs/2401.10556v1)|null|
+|**2024-01-19**|**AAT: Adapting Audio Transformer for Various Acoustics Recognition Tasks**|Yun Liang et.al.|[2401.10544v1](http://arxiv.org/abs/2401.10544v1)|null|
+|**2024-01-19**|**Speech Swin-Transformer: Exploring a Hierarchical Transformer with Shifted Windows for Speech Emotion Recognition**|Yong Wang et.al.|[2401.10536v1](http://arxiv.org/abs/2401.10536v1)|null|
+|**2024-01-19**|**A scaling limit of  $\mathrm{SU}(2)$  lattice Yang-Mills-Higgs theory**|Sourav Chatterjee et.al.|[2401.10507v1](http://arxiv.org/abs/2401.10507v1)|null|
+|**2024-01-19**|**A Two-Stage Framework in Cross-Spectrum Domain for Real-Time Speech Enhancement**|Yuewei Zhang et.al.|[2401.10494v1](http://arxiv.org/abs/2401.10494v1)|null|
+|**2024-01-19**|**Generalization Error Guaranteed Auto-Encoder-Based Nonlinear Model Reduction for Operator Learning**|Hao Liu et.al.|[2401.10490v1](http://arxiv.org/abs/2401.10490v1)|null|
+|**2024-01-19**|**Ultra-lightweight Neural Differential DSP Vocoder For High Quality Speech Synthesis**|Prabhav Agrawal et.al.|[2401.10460v1](http://arxiv.org/abs/2401.10460v1)|null|
+|**2024-01-19**|**Understanding Learning through the Lens of Dynamical Invariants**|Alex Ushveridze et.al.|[2401.10428v1](http://arxiv.org/abs/2401.10428v1)|null|
+|**2024-01-18**|**Semantic Analysis of Macro Usage for Portability**|Brent Pappas et.al.|[2401.10422v1](http://arxiv.org/abs/2401.10422v1)|null|
+|**2024-01-18**|**SSR: Spatial Sequential Hybrid Architecture for Latency Throughput Tradeoff in Transformer Acceleration**|Jinming Zhuang et.al.|[2401.10417v1](http://arxiv.org/abs/2401.10417v1)|null|
+|**2024-01-18**|**DataViz3D: An Novel Method Leveraging Online Holographic Modeling for Extensive Dataset Preprocessing and Visualization**|Jinli Duan et.al.|[2401.10416v1](http://arxiv.org/abs/2401.10416v1)|null|
+|**2024-01-18**|**Reconstructing the Invisible: Video Frame Restoration through Siamese Masked Conditional Variational Autoencoder**|Yongchen Zhou et.al.|[2401.10402v1](http://arxiv.org/abs/2401.10402v1)|null|
+|**2024-01-18**|**Auto-Calibration and Biconvex Compressive Sensing with Applications to Parallel MRI**|Yuan Ni et.al.|[2401.10400v1](http://arxiv.org/abs/2401.10400v1)|null|
+|**2024-01-18**|**Analyzing and Mitigating Bias for Vulnerable Classes: Towards Balanced Representation in Dataset**|Dewant Katare et.al.|[2401.10397v1](http://arxiv.org/abs/2401.10397v1)|null|
+|**2024-01-18**|**Deep Dict: Deep Learning-based Lossy Time Series Compressor for IoT Data**|Jinxin Liu et.al.|[2401.10396v1](http://arxiv.org/abs/2401.10396v1)|null|
+|**2024-01-18**|**Exploring General Intelligence via Gated Graph Transformer in Functional Connectivity Studies**|Gang Qu et.al.|[2401.10348v1](http://arxiv.org/abs/2401.10348v1)|null|
+|**2024-01-18**|**MELODY: Robust Semi-Supervised Hybrid Model for Entity-Level Online Anomaly Detection with Multivariate Time Series**|Jingchao Ni et.al.|[2401.10338v1](http://arxiv.org/abs/2401.10338v1)|null|
 |**2024-01-18**|**OMG-Seg: Is One Model Good Enough For All Segmentation?**|Xiangtai Li et.al.|[2401.10229v1](http://arxiv.org/abs/2401.10229v1)|**[link](https://github.com/lxtgh/omg-seg)**|
 |**2024-01-18**|**RAP-SAM: Towards Real-Time All-Purpose Segment Anything**|Shilin Xu et.al.|[2401.10228v1](http://arxiv.org/abs/2401.10228v1)|**[link](https://github.com/xushilin1/rap-sam)**|
 |**2024-01-18**|**Supervised Fine-tuning in turn Improves Visual Foundation Models**|Xiaohu Jiang et.al.|[2401.10222v1](http://arxiv.org/abs/2401.10222v1)|**[link](https://github.com/tencentarc/visft)**|
