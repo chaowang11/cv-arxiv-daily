@@ -1105,7 +1105,7 @@
 |**2024-01-08**|**FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring**|Geunhyuk Youk et.al.|[2401.03707v1](http://arxiv.org/abs/2401.03707v1)|null|
 |**2023-12-30**|**A Survey on Super Resolution for video Enhancement Using GAN**|Ankush Maity et.al.|[2312.16471v2](http://arxiv.org/abs/2312.16471v2)|null|
 |**2023-12-18**|**TMP: Temporal Motion Propagation for Online Video Super-Resolution**|Zhengqiang Zhang et.al.|[2312.09909v2](http://arxiv.org/abs/2312.09909v2)|**[link](https://github.com/xtudbxk/tmp)**|
-|**2023-12-23**|**Semantic Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v3](http://arxiv.org/abs/2312.07823v3)|**[link](https://github.com/Tang1705/Semantic-Lens-AAAI24)**|
+|**2024-01-19**|**Semantic Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v4](http://arxiv.org/abs/2312.07823v4)|**[link](https://github.com/Tang1705/Semantic-Lens-AAAI24)**|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|null|
 |**2023-12-11**|**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**|Shangchen Zhou et.al.|[2312.06640v1](http://arxiv.org/abs/2312.06640v1)|null|
 |**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853v1](http://arxiv.org/abs/2312.00853v1)|**[link](https://github.com/ianyeung/mgld-vsr)**|
@@ -1278,7 +1278,7 @@
 |**2024-01-18**|**Regime change detection in irregularly sampled time series**|Norbert Marwan et.al.|[2401.10006v1](http://arxiv.org/abs/2401.10006v1)|null|
 |**2024-01-18**|**A-KIT: Adaptive Kalman-Informed Transformer**|Nadav Cohen et.al.|[2401.09987v1](http://arxiv.org/abs/2401.09987v1)|null|
 |**2024-01-18**|**Quantum Tomography and the Quantum Radon Transform**|Alberto Ibort et.al.|[2401.09978v1](http://arxiv.org/abs/2401.09978v1)|null|
-|**2024-01-18**|**Better Explain Transformers by Illuminating Important Information**|Linxin Song et.al.|[2401.09972v1](http://arxiv.org/abs/2401.09972v1)|**[link](https://github.com/linxins97/mask-lrp)**|
+|**2024-01-19**|**Better Explain Transformers by Illuminating Important Information**|Linxin Song et.al.|[2401.09972v2](http://arxiv.org/abs/2401.09972v2)|**[link](https://github.com/linxins97/mask-lrp)**|
 |**2024-01-18**|**A phase space localization operator in negative binomial states**|Zouhair Mouayn et.al.|[2401.09965v1](http://arxiv.org/abs/2401.09965v1)|null|
 |**2024-01-18**|**From Cash to Cashless: UPI's Impact on Spending Behavior among Indian Users**|Harshal Dev et.al.|[2401.09937v1](http://arxiv.org/abs/2401.09937v1)|null|
 |**2024-01-18**|**Real-time and On-site Aerodynamics using Stereoscopic PIV and Deep Optical Flow Learning**|Mohamed Elrefaie et.al.|[2401.09932v1](http://arxiv.org/abs/2401.09932v1)|null|
