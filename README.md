@@ -1280,7 +1280,7 @@
 |**2024-01-22**|**Rogue waves and instability arising from long-wave-short-wave resonance beyond the integrable regime**|Wen-Rong Sun et.al.|[2401.11959v1](http://arxiv.org/abs/2401.11959v1)|null|
 |**2024-01-22**|**Calcite, vaterite and aragonite forming on cement hydration from liquid and gaseous phase**|E. T. Stepkowska et.al.|[2401.11950v1](http://arxiv.org/abs/2401.11950v1)|null|
 |**2024-01-22**|**The Bigger the Better? Rethinking the Effective Model Scale in Long-term Time Series Forecasting**|Jinliang Deng et.al.|[2401.11929v1](http://arxiv.org/abs/2401.11929v1)|null|
-|**2024-01-22**|**VirtuWander: Enhancing Multi-modal Interaction for Virtual Tour Guidance through Large Language Models**|Zhan Wang et.al.|[2401.11923v1](http://arxiv.org/abs/2401.11923v1)|null|
+|**2024-01-23**|**VirtuWander: Enhancing Multi-modal Interaction for Virtual Tour Guidance through Large Language Models**|Zhan Wang et.al.|[2401.11923v2](http://arxiv.org/abs/2401.11923v2)|null|
 |**2024-01-22**|**DarkGEO: A Large-Scale Laser-Interferometric Axion Detector**|Joscha Heinze et.al.|[2401.11907v1](http://arxiv.org/abs/2401.11907v1)|null|
 |**2024-01-22**|**A Training-Free Defense Framework for Robust Learned Image Compression**|Myungseo Song et.al.|[2401.11902v1](http://arxiv.org/abs/2401.11902v1)|null|
 |**2024-01-22**|**Towards Automatic Transformations of Coq Proof Scripts**|Nicolas Magaud et.al.|[2401.11897v1](http://arxiv.org/abs/2401.11897v1)|null|
@@ -1288,14 +1288,14 @@
 |**2024-01-22**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859v1](http://arxiv.org/abs/2401.11859v1)|**[link](https://github.com/sad192/large-kernel-transformer)**|
 |**2024-01-22**|**MOSformer: Momentum encoder-based inter-slice fusion transformer for medical image segmentation**|De-Xing Huang et.al.|[2401.11856v1](http://arxiv.org/abs/2401.11856v1)|null|
 |**2024-01-22**|**The Right Model for the Job: An Evaluation of Legal Multi-Label Classification Baselines**|Martina Forster et.al.|[2401.11852v1](http://arxiv.org/abs/2401.11852v1)|null|
-|**2024-01-22**|**BETA: Binarized Energy-Efficient Transformer Accelerator at the Edge**|Yuhao Ji et.al.|[2401.11851v1](http://arxiv.org/abs/2401.11851v1)|null|
+|**2024-01-23**|**BETA: Binarized Energy-Efficient Transformer Accelerator at the Edge**|Yuhao Ji et.al.|[2401.11851v2](http://arxiv.org/abs/2401.11851v2)|null|
 |**2024-01-22**|**Learning to Approximate Adaptive Kernel Convolution on Graphs**|Jaeyoon Sim et.al.|[2401.11840v1](http://arxiv.org/abs/2401.11840v1)|null|
 |**2024-01-22**|**Generalization and Informativeness of Conformal Prediction**|Matteo Zecchin et.al.|[2401.11810v1](http://arxiv.org/abs/2401.11810v1)|null|
 |**2024-01-22**|**Integrated Sensing, Communication, and Computing: An Information-oriented Resource Transaction Mechanism**|Ning Chen et.al.|[2401.11759v1](http://arxiv.org/abs/2401.11759v1)|null|
 |**2024-01-22**|**Augmenting Prototype Network with TransMix for Few-shot Hyperspectral Image Classification**|Chun Liu et.al.|[2401.11724v1](http://arxiv.org/abs/2401.11724v1)|**[link](https://github.com/henulwy/apnt)**|
 |**2024-01-22**|**MsSVT++: Mixed-scale Sparse Voxel Transformer with Center Voting for 3D Object Detection**|Jianan Li et.al.|[2401.11718v1](http://arxiv.org/abs/2401.11718v1)|null|
 |**2024-01-22**|**Integrating 3D Slicer with a Dynamic Simulator for Situational Aware Robotic Interventions**|Manish Sahu et.al.|[2401.11715v1](http://arxiv.org/abs/2401.11715v1)|null|
-|**2024-01-22**|**TIM: An Efficient Temporal Interaction Module for Spiking Transformer**|Sicheng Shen et.al.|[2401.11687v1](http://arxiv.org/abs/2401.11687v1)|null|
+|**2024-01-23**|**TIM: An Efficient Temporal Interaction Module for Spiking Transformer**|Sicheng Shen et.al.|[2401.11687v2](http://arxiv.org/abs/2401.11687v2)|null|
 |**2024-01-22**|**Evolutionary dynamics of any multiplayer game on regular graphs**|Chaoqian Wang et.al.|[2401.11686v1](http://arxiv.org/abs/2401.11686v1)|null|
 |**2024-01-22**|**Rethinking Cross-Attention for Infrared and Visible Image Fusion**|Lihua Jian et.al.|[2401.11675v1](http://arxiv.org/abs/2401.11675v1)|null|
 |**2024-01-22**|**MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo**|Chenjie Cao et.al.|[2401.11673v1](http://arxiv.org/abs/2401.11673v1)|null|
