@@ -25,7 +25,7 @@
 |---|---|---|---|---|
 |**2024-01-23**|**Lumiere: A Space-Time Diffusion Model for Video Generation**|Omer Bar-Tal et.al.|[2401.12945v1](http://arxiv.org/abs/2401.12945v1)|null|
 |**2024-01-22**|**Observation-Guided Meteorological Field Downscaling at Station Scale: A Benchmark and a New Method**|Zili Liu et.al.|[2401.11960v1](http://arxiv.org/abs/2401.11960v1)|null|
-|**2024-01-22**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859v1](http://arxiv.org/abs/2401.11859v1)|**[link](https://github.com/sad192/large-kernel-transformer)**|
+|**2024-01-24**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859v2](http://arxiv.org/abs/2401.11859v2)|**[link](https://github.com/sad192/large-kernel-transformer)**|
 |**2024-01-22**|**Simultaneous Blind Demixing and Super-resolution via Vectorized Hankel Lift**|Haifeng Wang et.al.|[2401.11805v1](http://arxiv.org/abs/2401.11805v1)|null|
 |**2024-01-18**|**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution**|Xin Yuan et.al.|[2401.10404v1](http://arxiv.org/abs/2401.10404v1)|null|
 |**2024-01-22**|**3D orientation super-resolution spatial-frequency-shift microscopy**|Xiaowei Liu et.al.|[2401.09085v2](http://arxiv.org/abs/2401.09085v2)|null|
@@ -817,7 +817,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-22**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859v1](http://arxiv.org/abs/2401.11859v1)|**[link](https://github.com/sad192/large-kernel-transformer)**|
+|**2024-01-24**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859v2](http://arxiv.org/abs/2401.11859v2)|**[link](https://github.com/sad192/large-kernel-transformer)**|
 |**2024-01-17**|**Efficient Image Super-Resolution via Symmetric Visual Attention Network**|Chengxu Wu et.al.|[2401.08913v1](http://arxiv.org/abs/2401.08913v1)|null|
 |**2024-01-18**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v2](http://arxiv.org/abs/2401.08209v2)|**[link](https://github.com/labshuhanggu/adaptive-token-dictionary)**|
 |**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v1](http://arxiv.org/abs/2401.08115v1)|null|
@@ -1265,14 +1265,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-23**|**Zero-Shot Learning for the Primitives of 3D Affordance in General Objects**|Hyeonwoo Kim et.al.|[2401.12978v1](http://arxiv.org/abs/2401.12978v1)|null|
+|**2024-01-24**|**Zero-Shot Learning for the Primitives of 3D Affordance in General Objects**|Hyeonwoo Kim et.al.|[2401.12978v2](http://arxiv.org/abs/2401.12978v2)|null|
 |**2024-01-23**|**In-Context Language Learning: Arhitectures and Algorithms**|Ekin Akyürek et.al.|[2401.12973v1](http://arxiv.org/abs/2401.12973v1)|null|
 |**2024-01-23**|**On the Efficacy of Text-Based Input Modalities for Action Anticipation**|Apoorva Beedu et.al.|[2401.12972v1](http://arxiv.org/abs/2401.12972v1)|null|
 |**2024-01-23**|**Exponential perturbative expansions and coordinate transformations**|Ana Arnal et.al.|[2401.12955v1](http://arxiv.org/abs/2401.12955v1)|null|
 |**2024-01-23**|**Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding**|Mirac Suzgun et.al.|[2401.12954v1](http://arxiv.org/abs/2401.12954v1)|**[link](https://github.com/suzgunmirac/meta-prompting)**|
 |**2024-01-23**|**A unifying framework for perturbative exponential factorizations**|Ana Arnal et.al.|[2401.12952v1](http://arxiv.org/abs/2401.12952v1)|null|
 |**2024-01-23**|**Transformer-Based Models Are Not Yet Perfect At Learning to Emulate Structural Recursion**|Dylan Zhang et.al.|[2401.12947v1](http://arxiv.org/abs/2401.12947v1)|null|
-|**2024-01-23**|**Coverage Axis++: Efficient Inner Point Selection for 3D Shape Skeletonization**|Zimeng Wang et.al.|[2401.12946v1](http://arxiv.org/abs/2401.12946v1)|null|
+|**2024-01-24**|**Coverage Axis++: Efficient Inner Point Selection for 3D Shape Skeletonization**|Zimeng Wang et.al.|[2401.12946v2](http://arxiv.org/abs/2401.12946v2)|null|
 |**2024-01-23**|**NICA prospects in searches for light exotics from hidden sectors: the cases of hidden photons and axion-like particles**|Dmitry Gorbunov et.al.|[2401.12893v1](http://arxiv.org/abs/2401.12893v1)|null|
 |**2024-01-23**|**Optimal compilation of parametrised quantum circuits**|John van de Wetering et.al.|[2401.12877v1](http://arxiv.org/abs/2401.12877v1)|null|
 |**2024-01-23**|**From Understanding to Utilization: A Survey on Explainability for Large Language Models**|Haoyan Luo et.al.|[2401.12874v1](http://arxiv.org/abs/2401.12874v1)|null|
@@ -1288,7 +1288,7 @@
 |**2024-01-23**|**Dynamics of inertial particles under velocity resetting**|Kristian Stølevik Olsen et.al.|[2401.12685v1](http://arxiv.org/abs/2401.12685v1)|null|
 |**2024-01-23**|**Random Riemannian Geometry in 4 Dimensions**|Karl-Theodor Sturm et.al.|[2401.12676v1](http://arxiv.org/abs/2401.12676v1)|null|
 |**2024-01-23**|**EL-VIT: Probing Vision Transformer with Interactive Visualization**|Hong Zhou et.al.|[2401.12666v1](http://arxiv.org/abs/2401.12666v1)|null|
-|**2024-01-23**|**The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting -- An Analytical Model**|Itay Evron et.al.|[2401.12617v1](http://arxiv.org/abs/2401.12617v1)|null|
+|**2024-01-24**|**The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting -- An Analytical Model**|Daniel Goldfarb et.al.|[2401.12617v2](http://arxiv.org/abs/2401.12617v2)|null|
 |**2024-01-23**|**EEND-M2F: Masked-attention mask transformers for speaker diarization**|Marc Härkönen et.al.|[2401.12600v1](http://arxiv.org/abs/2401.12600v1)|null|
 |**2024-01-23**|**C2Ideas: Supporting Creative Interior Color Design Ideation with Large Language Model**|Yihan Hou et.al.|[2401.12586v1](http://arxiv.org/abs/2401.12586v1)|null|
 |**2024-01-23**|**ToDA: Target-oriented Diffusion Attacker against Recommendation System**|Xiaohao Liu et.al.|[2401.12578v1](http://arxiv.org/abs/2401.12578v1)|null|
