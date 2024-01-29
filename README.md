@@ -37,7 +37,7 @@
 |**2024-01-16**|**Physics-informed Meta-instrument for eXperiments (PiMiX) with applications to fusion energy**|Zhehui Wang et.al.|[2401.08390v1](http://arxiv.org/abs/2401.08390v1)|null|
 |**2024-01-18**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v2](http://arxiv.org/abs/2401.08209v2)|**[link](https://github.com/labshuhanggu/adaptive-token-dictionary)**|
 |**2024-01-16**|**The Devil is in the Details: Boosting Guided Depth Super-Resolution via Rethinking Cross-Modal Alignment and Aggregation**|Xinni Jiang et.al.|[2401.08123v1](http://arxiv.org/abs/2401.08123v1)|**[link](https://github.com/jiangxinni/d2a2)**|
-|**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v1](http://arxiv.org/abs/2401.08115v1)|null|
+|**2024-01-26**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v2](http://arxiv.org/abs/2401.08115v2)|null|
 |**2024-01-15**|**Sparsity-based background removal for STORM super-resolution images**|Patris Valera et.al.|[2401.07746v1](http://arxiv.org/abs/2401.07746v1)|**[link](https://github.com/patrisvalera/slnet_storm)**|
 |**2024-01-15**|**Time-varying k-domain modulation around a point sink in time reversal cavity**|Xin Liu et.al.|[2401.07535v1](http://arxiv.org/abs/2401.07535v1)|null|
 |**2024-01-14**|**City Scene Super-Resolution via Geometric Error Minimization**|Zhengyang Lu et.al.|[2401.07272v1](http://arxiv.org/abs/2401.07272v1)|**[link](https://github.com/mnster00/geosr)**|
@@ -822,7 +822,7 @@
 |**2024-01-24**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859v2](http://arxiv.org/abs/2401.11859v2)|**[link](https://github.com/sad192/large-kernel-transformer)**|
 |**2024-01-17**|**Efficient Image Super-Resolution via Symmetric Visual Attention Network**|Chengxu Wu et.al.|[2401.08913v1](http://arxiv.org/abs/2401.08913v1)|null|
 |**2024-01-18**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v2](http://arxiv.org/abs/2401.08209v2)|**[link](https://github.com/labshuhanggu/adaptive-token-dictionary)**|
-|**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v1](http://arxiv.org/abs/2401.08115v1)|null|
+|**2024-01-26**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v2](http://arxiv.org/abs/2401.08115v2)|null|
 |**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v1](http://arxiv.org/abs/2401.05633v1)|**[link](https://github.com/aitical/cfsr)**|
 |**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877v1](http://arxiv.org/abs/2401.00877v1)|**[link](https://github.com/csslc/ccsr)**|
 |**2024-01-01**|**Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2401.00740v1](http://arxiv.org/abs/2401.00740v1)|null|
@@ -1275,7 +1275,7 @@
 |**2024-01-25**|**Bonding Grammars**|Tikhon Pshenitsyn et.al.|[2401.14377v1](http://arxiv.org/abs/2401.14377v1)|null|
 |**2024-01-25**|**Electrotaxis of self-propelling artificial swimmers in microchannels**|Carola M. Buness et.al.|[2401.14376v1](http://arxiv.org/abs/2401.14376v1)|null|
 |**2024-01-25**|**Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination**|Qiang Heng et.al.|[2401.14359v1](http://arxiv.org/abs/2401.14359v1)|null|
-|**2024-01-25**|**VALL-T: Decoder-Only Generative Transducer for Robust and Decoding-Controllable Text-to-Speech**|Chenpeng Du et.al.|[2401.14321v1](http://arxiv.org/abs/2401.14321v1)|null|
+|**2024-01-26**|**VALL-T: Decoder-Only Generative Transducer for Robust and Decoding-Controllable Text-to-Speech**|Chenpeng Du et.al.|[2401.14321v2](http://arxiv.org/abs/2401.14321v2)|null|
 |**2024-01-25**|**Transformers and Cortical Waves: Encoders for Pulling In Context Across Time**|Lyle Muller et.al.|[2401.14267v1](http://arxiv.org/abs/2401.14267v1)|null|
 |**2024-01-25**|**Producing Plankton Classifiers that are Robust to Dataset Shift**|Cheng Chen et.al.|[2401.14256v1](http://arxiv.org/abs/2401.14256v1)|**[link](https://github.com/cchen07/plankiformer_ood)**|
 |**2024-01-25**|**Existence and regularity of random attractors for stochastic evolution equations driven by rough noise**|Alexandra Neamtu et.al.|[2401.14235v1](http://arxiv.org/abs/2401.14235v1)|null|
@@ -1294,7 +1294,7 @@
 |**2024-01-25**|**Unsupervised Spatial-Temporal Feature Enrichment and Fidelity Preservation Network for Skeleton based Action Recognition**|Chuankun Li et.al.|[2401.14034v1](http://arxiv.org/abs/2401.14034v1)|null|
 |**2024-01-25**|**PLCNet: Patch-wise Lane Correction Network for Automatic Lane Correction in High-definition Maps**|Haiyang Peng et.al.|[2401.14024v1](http://arxiv.org/abs/2401.14024v1)|null|
 |**2024-01-25**|**Measuring multidimensional inequality: a new proposal based on the Fourier transform**|Paolo Giudici et.al.|[2401.14012v1](http://arxiv.org/abs/2401.14012v1)|null|
-|**2024-01-25**|**Leveraging Large Models for Crafting Narrative Visualization: A Survey**|Yi He et.al.|[2401.14010v1](http://arxiv.org/abs/2401.14010v1)|null|
+|**2024-01-26**|**Leveraging Large Models for Crafting Narrative Visualization: A Survey**|Yi He et.al.|[2401.14010v2](http://arxiv.org/abs/2401.14010v2)|null|
 |**2024-01-25**|**On the Feasibility of Simple Transformer for Dynamic Graph Modeling**|Yuxia Wu et.al.|[2401.14009v1](http://arxiv.org/abs/2401.14009v1)|null|
 |**2024-01-25**|**Cyber-Twin: Digital Twin-boosted Autonomous Attack Detection for Vehicular Ad-Hoc Networks**|Yagmur Yigit et.al.|[2401.14005v1](http://arxiv.org/abs/2401.14005v1)|null|
 |**2024-01-25**|**Phase transformation on heating of an aged cement paste**|E. T. Stepkowska et.al.|[2401.14002v1](http://arxiv.org/abs/2401.14002v1)|null|
