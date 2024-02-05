@@ -1302,7 +1302,7 @@
 |**2024-02-01**|**Benefits of Transformer: In-Context Learning in Linear Regression Tasks with Unstructured Data**|Yue Xing et.al.|[2402.00743v1](http://arxiv.org/abs/2402.00743v1)|null|
 |**2024-02-01**|**Transforming and Combining Rewards for Aligning Large Language Models**|Zihao Wang et.al.|[2402.00742v1](http://arxiv.org/abs/2402.00742v1)|null|
 |**2024-02-01**|**Improving Semantic Control in Discrete Latent Spaces with Transformer Quantized Variational Autoencoders**|Yingji Zhang et.al.|[2402.00723v1](http://arxiv.org/abs/2402.00723v1)|null|
-|**2024-02-01**|**Combining Belief Function Theory and Stochastic Model Predictive Control for Multi-Modal Uncertainty in Autonomous Driving**|Tommaso Benciolini et.al.|[2402.00697v1](http://arxiv.org/abs/2402.00697v1)|null|
+|**2024-02-02**|**Combining Belief Function Theory and Stochastic Model Predictive Control for Multi-Modal Uncertainty in Autonomous Driving**|Tommaso Benciolini et.al.|[2402.00697v2](http://arxiv.org/abs/2402.00697v2)|null|
 |**2024-02-01**|**Comparative Study of Large Language Model Architectures on Frontier**|Junqi Yin et.al.|[2402.00691v1](http://arxiv.org/abs/2402.00691v1)|null|
 |**2024-02-01**|**Carrollian  $Lw_{1+\infty}$  representation from twistor space**|Laura Donnay et.al.|[2402.00688v1](http://arxiv.org/abs/2402.00688v1)|null|
 |**2024-02-01**|**On Modular Algorithms and Butterfly Operations in Number Theoretic Transform**|Yanze Yang et.al.|[2402.00675v1](http://arxiv.org/abs/2402.00675v1)|null|
@@ -1328,9 +1328,9 @@
 |**2024-02-01**|**nhppp: Simulating Nonhomogeneous Poisson Point Processes in R**|Thomas A. Trikalinos et.al.|[2402.00358v1](http://arxiv.org/abs/2402.00358v1)|null|
 |**2024-02-01**|**Chiral  $QED_2$  with Faddeevian anomaly in the context of the augmented superfield approach**|Sanjib Ghoshal et.al.|[2402.00338v1](http://arxiv.org/abs/2402.00338v1)|null|
 |**2024-02-01**|**HAYATE: Photometric redshift estimation by hybridising machine learning with template fitting**|Shingo Tanigawa et.al.|[2402.00323v1](http://arxiv.org/abs/2402.00323v1)|null|
-|**2024-02-01**|**DARCS: Memory-Efficient Deep Compressed Sensing Reconstruction for Acceleration of 3D Whole-Heart Coronary MR Angiography**|Zhihao Xue et.al.|[2402.00320v1](http://arxiv.org/abs/2402.00320v1)|null|
+|**2024-02-02**|**DARCS: Memory-Efficient Deep Compressed Sensing Reconstruction for Acceleration of 3D Whole-Heart Coronary MR Angiography**|Zhihao Xue et.al.|[2402.00320v2](http://arxiv.org/abs/2402.00320v2)|null|
 |**2024-02-01**|**More on stubs in open string field theory**|Martin Schnabl et.al.|[2402.00308v1](http://arxiv.org/abs/2402.00308v1)|null|
-|**2024-02-01**|**Guided Interpretable Facial Expression Recognition via Spatial Action Unit Cues**|Soufiane Belharbi et.al.|[2402.00281v1](http://arxiv.org/abs/2402.00281v1)|null|
+|**2024-02-02**|**Guided Interpretable Facial Expression Recognition via Spatial Action Unit Cues**|Soufiane Belharbi et.al.|[2402.00281v2](http://arxiv.org/abs/2402.00281v2)|**[link](https://github.com/sbelharbi/interpretable-fer-aus)**|
 |**2024-02-01**|**The Maude strategy language**|Steven Eker et.al.|[2402.00275v1](http://arxiv.org/abs/2402.00275v1)|**[link](https://github.com/fadoss/strat-examples)**|
 |**2024-02-01**|**LRDif: Diffusion Models for Under-Display Camera Emotion Recognition**|Zhifeng Wang et.al.|[2402.00250v1](http://arxiv.org/abs/2402.00250v1)|null|
 |**2024-01-31**|**Positional Encoding Helps Recurrent Neural Networks Handle a Large Vocabulary**|Takashi Morita et.al.|[2402.00236v1](http://arxiv.org/abs/2402.00236v1)|null|
@@ -14199,7 +14199,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-30**|**Krasnoselskii-Mann Iterations: Inertia, Perturbations and Approximation**|Daniel Cortild et.al.|[2401.16870v1](http://arxiv.org/abs/2401.16870v1)|null|
-|**2024-01-26**|**Text Image Inpainting via Global Structure-Guided Diffusion Models**|Shipeng Zhu et.al.|[2401.14832v1](http://arxiv.org/abs/2401.14832v1)|**[link](https://github.com/blackprotoss/gsdm)**|
+|**2024-02-02**|**Text Image Inpainting via Global Structure-Guided Diffusion Models**|Shipeng Zhu et.al.|[2401.14832v2](http://arxiv.org/abs/2401.14832v2)|**[link](https://github.com/blackprotoss/gsdm)**|
 |**2024-01-16**|**Inpainting Normal Maps for Lightstage data**|Hancheng Zuo et.al.|[2401.08099v1](http://arxiv.org/abs/2401.08099v1)|null|
 |**2024-01-17**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v3](http://arxiv.org/abs/2401.06637v3)|null|
 |**2024-01-07**|**The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline**|Haonan Wang et.al.|[2401.04136v1](http://arxiv.org/abs/2401.04136v1)|null|
