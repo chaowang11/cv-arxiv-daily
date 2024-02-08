@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Arbitrary Scale Super-Resolution Assisted Lunar Crater Detection in Satellite Images**|Atal Tewari et.al.|[2402.05068v1](http://arxiv.org/abs/2402.05068v1)|null|
+|**2024-02-07**|**Device Activity Detection and Channel Estimation for Millimeter-Wave Massive MIMO**|Yinchuan Li et.al.|[2402.04704v1](http://arxiv.org/abs/2402.04704v1)|null|
+|**2024-02-06**|**Elastic wave imaging with Maxwell's fish-eye lens**|Liuxian Zhao et.al.|[2402.04285v1](http://arxiv.org/abs/2402.04285v1)|null|
 |**2024-02-06**|**3D Volumetric Super-Resolution in Radiology Using 3D RRDB-GAN**|Juhyung Ha et.al.|[2402.04171v1](http://arxiv.org/abs/2402.04171v1)|null|
 |**2024-02-05**|**Video Super-Resolution for Optimized Bitrate and Green Online Streaming**|Vignesh V Menon et.al.|[2402.03513v1](http://arxiv.org/abs/2402.03513v1)|null|
 |**2024-02-05**|**See More Details: Efficient Image Super-Resolution by Experts Mining**|Eduard Zamfir et.al.|[2402.03412v1](http://arxiv.org/abs/2402.03412v1)|null|
@@ -1295,6 +1298,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**A topological algorithm for the Fourier transform of Stokes data at infinity**|Jean Douçot et.al.|[2402.05108v1](http://arxiv.org/abs/2402.05108v1)|null|
+|**2024-02-07**|**Image captioning for Brazilian Portuguese using GRIT model**|Rafael Silva de Alencar et.al.|[2402.05106v1](http://arxiv.org/abs/2402.05106v1)|null|
+|**2024-02-07**|**On gauge transformations in twistless torsional Newton--Cartan geometry**|Arian L. von Blanckenburg et.al.|[2402.05105v1](http://arxiv.org/abs/2402.05105v1)|null|
+|**2024-02-07**|**Hydragen: High-Throughput LLM Inference with Shared Prefixes**|Jordan Juravsky et.al.|[2402.05099v1](http://arxiv.org/abs/2402.05099v1)|null|
+|**2024-02-07**|**Functional limit laws for the intensity measure of point processes and applications**|Giacomo Francisci et.al.|[2402.05087v1](http://arxiv.org/abs/2402.05087v1)|null|
+|**2024-02-07**|**Endpoint estimates for higher order Gaussian Riesz transforms**|Fabio Berra et.al.|[2402.05082v1](http://arxiv.org/abs/2402.05082v1)|null|
+|**2024-02-07**|**Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation**|Ziyang Wang et.al.|[2402.05079v1](http://arxiv.org/abs/2402.05079v1)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
+|**2024-02-07**|**NITO: Neural Implicit Fields for Resolution-free Topology Optimization**|Amin Heyrani Nobari et.al.|[2402.05073v1](http://arxiv.org/abs/2402.05073v1)|null|
+|**2024-02-07**|**Arbitrary Scale Super-Resolution Assisted Lunar Crater Detection in Satellite Images**|Atal Tewari et.al.|[2402.05068v1](http://arxiv.org/abs/2402.05068v1)|null|
+|**2024-02-07**|**Exploration Without Maps via Zero-Shot Out-of-Distribution Deep Reinforcement Learning**|Shathushan Sivashangaran et.al.|[2402.05066v1](http://arxiv.org/abs/2402.05066v1)|null|
+|**2024-02-07**|**Causal Representation Learning from Multiple Distributions: A General Setting**|Kun Zhang et.al.|[2402.05052v1](http://arxiv.org/abs/2402.05052v1)|null|
+|**2024-02-07**|**Simulated Overparameterization**|Hanna Mazzawi et.al.|[2402.05033v1](http://arxiv.org/abs/2402.05033v1)|null|
+|**2024-02-07**|**A Review on Trajectory Datasets on Advanced Driver Assistance System**|Hang Zhou et.al.|[2402.05009v1](http://arxiv.org/abs/2402.05009v1)|null|
+|**2024-02-07**|**Interference is in the eye of the beholder: application to the coherent control of collisional processes**|Adrien Devolder et.al.|[2402.05001v1](http://arxiv.org/abs/2402.05001v1)|null|
+|**2024-02-07**|**Pedagogical Alignment of Large Language Models**|Shashank Sonkar et.al.|[2402.05000v1](http://arxiv.org/abs/2402.05000v1)|null|
+|**2024-02-07**|**Elastic Analysis of Augmented Curves and Constrained Surfaces**|Esfandiar Nava-Yazdani et.al.|[2402.04944v1](http://arxiv.org/abs/2402.04944v1)|null|
+|**2024-02-07**|**Detecting Generated Native Ads in Conversational Search**|Sebastian Schmidt et.al.|[2402.04889v1](http://arxiv.org/abs/2402.04889v1)|null|
+|**2024-02-07**|**Toward Accurate Camera-based 3D Object Detection via Cascade Depth Estimation and Calibration**|Chaoqun Wang et.al.|[2402.04883v1](http://arxiv.org/abs/2402.04883v1)|null|
+|**2024-02-07**|**Characterization of the weak-type boundedness of the Hilbert transform on weighted Lorentz spaces**|Elona Agora et.al.|[2402.04877v1](http://arxiv.org/abs/2402.04877v1)|null|
+|**2024-02-07**|**On Provable Length and Compositional Generalization**|Kartik Ahuja et.al.|[2402.04875v1](http://arxiv.org/abs/2402.04875v1)|null|
+|**2024-02-07**|**Dual-Path Coupled Image Deraining Network via Spatial-Frequency Interaction**|Yuhong He et.al.|[2402.04855v1](http://arxiv.org/abs/2402.04855v1)|**[link](https://github.com/madeline-hyh/dpcnet)**|
+|**2024-02-07**|**Reconfigurable Intelligent Surface for Industrial Automation: mmWave Propagation Measurement, Simulation, and Control Algorithm Requirements**|Hamed Radpour et.al.|[2402.04844v1](http://arxiv.org/abs/2402.04844v1)|null|
+|**2024-02-07**|**Structured d-DNNF Is Not Closed Under Negation**|Harry Vinall-Smeeth et.al.|[2402.04832v1](http://arxiv.org/abs/2402.04832v1)|null|
+|**2024-02-07**|**Closing the Gap Between SGP4 and High-Precision Propagation via Differentiable Programming**|Giacomo Acciarini et.al.|[2402.04830v1](http://arxiv.org/abs/2402.04830v1)|null|
+|**2024-02-07**|**How Realistic Is Your Synthetic Data? Constraining Deep Generative Models for Tabular Data**|Mihaela Cătălina Stoian et.al.|[2402.04823v1](http://arxiv.org/abs/2402.04823v1)|**[link](https://github.com/mihaela-stoian/constraineddgm)**|
+|**2024-02-07**|**Hausdorff dimension of recurrence sets for matrix transformations of tori**|Zhangnan Hu et.al.|[2402.04810v1](http://arxiv.org/abs/2402.04810v1)|null|
+|**2024-02-07**|**Time-domain constraints for Positive Real functions: Applications to the dielectric response of a passive material**|Sven Nordebo et.al.|[2402.04806v1](http://arxiv.org/abs/2402.04806v1)|null|
+|**2024-02-07**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxaun Liu et.al.|[2402.04798v1](http://arxiv.org/abs/2402.04798v1)|null|
+|**2024-02-07**|**StableMask: Refining Causal Masking in Decoder-only Transformer**|Qingyu Yin et.al.|[2402.04779v1](http://arxiv.org/abs/2402.04779v1)|null|
+|**2024-02-07**|**Robot Interaction Behavior Generation based on Social Motion Forecasting for Human-Robot Interaction**|Esteve Valls Mascaro et.al.|[2402.04768v1](http://arxiv.org/abs/2402.04768v1)|null|
+|**2024-02-07**|**Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints**|Jian Chen et.al.|[2402.04754v1](http://arxiv.org/abs/2402.04754v1)|null|
+|**2024-02-07**|**Cortical Surface Diffusion Generative Models**|Zhenshan Xie et.al.|[2402.04753v1](http://arxiv.org/abs/2402.04753v1)|null|
+|**2024-02-07**|**Progressive Gradient Flow for Robust N:M Sparsity Training in Transformers**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2402.04744v1](http://arxiv.org/abs/2402.04744v1)|**[link](https://github.com/abhibambhaniya/progressive_gradient_flow_nm_sparsity)**|
+|**2024-02-07**|**Phase stability and mechanical property trends for MAB phases by high-throughput ab initio calculations**|Nikola Koutná et.al.|[2402.04726v1](http://arxiv.org/abs/2402.04726v1)|null|
+|**2024-02-07**|**A Non-Abelian Gauge Theory for Surface Excitations of  $~^3$ He-B**|A. P. Balachandran et.al.|[2402.04714v1](http://arxiv.org/abs/2402.04714v1)|null|
+|**2024-02-07**|**A note on Weyl gauge symmetry in gravity**|N. Mohammedi et.al.|[2402.04712v1](http://arxiv.org/abs/2402.04712v1)|null|
+|**2024-02-07**|**Field transformations in functional integral, effective action and functional flow equations**|C. Wetterich et.al.|[2402.04679v1](http://arxiv.org/abs/2402.04679v1)|null|
+|**2024-02-07**|**Latent Plan Transformer: Planning as Latent Variable Inference**|Deqian Kong et.al.|[2402.04647v1](http://arxiv.org/abs/2402.04647v1)|null|
+|**2024-02-07**|**TransLLaMa: LLM-based Simultaneous Translation System**|Roman Koshkin et.al.|[2402.04636v1](http://arxiv.org/abs/2402.04636v1)|null|
+|**2024-02-07**|**LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors**|Sheng Jin et.al.|[2402.04630v1](http://arxiv.org/abs/2402.04630v1)|null|
+|**2024-02-07**|**MEMORYLLM: Towards Self-Updatable Large Language Models**|Yu Wang et.al.|[2402.04624v1](http://arxiv.org/abs/2402.04624v1)|null|
+|**2024-02-07**|** $K$ -theoretic wall-crossing formulas and multiple basic hypergeometric series**|Ryo Ohkawa et.al.|[2402.04571v1](http://arxiv.org/abs/2402.04571v1)|null|
+|**2024-02-07**|**RIS-NOMA integrated low-complexity transceiver architecture: Sum rate and energy efficiency perspective**|Kali Krishna Kota et.al.|[2402.04570v1](http://arxiv.org/abs/2402.04570v1)|null|
+|**2024-02-07**|**OIL-AD: An Anomaly Detection Framework for Sequential Decision Sequences**|Chen Wang et.al.|[2402.04567v1](http://arxiv.org/abs/2402.04567v1)|null|
+|**2024-02-07**|**Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy**|Lu Wen et.al.|[2402.04566v1](http://arxiv.org/abs/2402.04566v1)|null|
+|**2024-02-07**|**Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention**|Saebom Leem et.al.|[2402.04563v1](http://arxiv.org/abs/2402.04563v1)|**[link](https://github.com/leemsaebom/attention-guided-cam-visual-explanations-of-vision-transformer-guided-by-self-attention)**|
+|**2024-02-07**|**DMAT: A Dynamic Mask-Aware Transformer for Human De-occlusion**|Guoqiang Liang et.al.|[2402.04558v1](http://arxiv.org/abs/2402.04558v1)|null|
+|**2024-02-07**|**Triplet Interaction Improves Graph Transformers: Accurate Molecular Graph Learning with Triplet Graph Transformers**|Md Shamim Hussain et.al.|[2402.04538v1](http://arxiv.org/abs/2402.04538v1)|null|
+|**2024-02-07**|**M2fNet: Multi-modal Forest Monitoring Network on Large-scale Virtual Dataset**|Yawen Lu et.al.|[2402.04534v1](http://arxiv.org/abs/2402.04534v1)|null|
+|**2024-02-07**|**Asymptotically AdS black hole with a conformally-coupled scalar field in the first-order formalism of gravity**|L. Avilés et.al.|[2402.04503v1](http://arxiv.org/abs/2402.04503v1)|null|
 |**2024-02-06**|**Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks**|Jongho Park et.al.|[2402.04248v1](http://arxiv.org/abs/2402.04248v1)|null|
 |**2024-02-06**|**CAST: Clustering Self-Attention using Surrogate Tokens for Efficient Transformers**|Adjorn van Engelenhoven et.al.|[2402.04239v1](http://arxiv.org/abs/2402.04239v1)|null|
 |**2024-02-06**|**From zero-mode intermittency to hidden symmetry in random scalar advection**|Simon Thalabard et.al.|[2402.04198v1](http://arxiv.org/abs/2402.04198v1)|null|
