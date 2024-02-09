@@ -1298,6 +1298,54 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**A Survey on Detection, Classification, and Tracking of Aerial Threats using Radar and Communications Systems**|Wahab Khawaja et.al.|[2402.05909v1](http://arxiv.org/abs/2402.05909v1)|null|
+|**2024-02-08**|**Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**|Shufan Li et.al.|[2402.05892v1](http://arxiv.org/abs/2402.05892v1)|null|
+|**2024-02-08**|**CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion**|Shoubin Yu et.al.|[2402.05889v1](http://arxiv.org/abs/2402.05889v1)|null|
+|**2024-02-08**|**Complexity of graph-state preparation by Clifford circuits**|Soh Kumabe et.al.|[2402.05874v1](http://arxiv.org/abs/2402.05874v1)|null|
+|**2024-02-08**|**Memory Consolidation Enables Long-Context Video Understanding**|Ivana Balažević et.al.|[2402.05861v1](http://arxiv.org/abs/2402.05861v1)|null|
+|**2024-02-08**|**Reconfigurable Intelligent Surface-Aided Dual-Function Radar and Communication Systems With MU-MIMO Communication**|Yasheng Jin et.al.|[2402.05847v1](http://arxiv.org/abs/2402.05847v1)|null|
+|**2024-02-08**|**Sparse-VQ Transformer: An FFN-Free Framework with Vector Quantization for Enhanced Time Series Forecasting**|Yanjun Zhao et.al.|[2402.05830v1](http://arxiv.org/abs/2402.05830v1)|null|
+|**2024-02-08**|**Limitations of Agents Simulated by Predictive Models**|Raymond Douglas et.al.|[2402.05829v1](http://arxiv.org/abs/2402.05829v1)|null|
+|**2024-02-08**|**FAQ-Gen: An automated system to generate domain-specific FAQs to aid content comprehension**|Sahil Kale et.al.|[2402.05812v1](http://arxiv.org/abs/2402.05812v1)|null|
+|**2024-02-08**|**How do Transformers perform In-Context Autoregressive Learning?**|Michael E. Sander et.al.|[2402.05787v1](http://arxiv.org/abs/2402.05787v1)|null|
+|**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785v1](http://arxiv.org/abs/2402.05785v1)|null|
+|**2024-02-08**|**Mixed Integer Linear Programming Solver Using Benders Decomposition Assisted by Neutral Atom Quantum Processor**|M. Yassine Naghmouchi et.al.|[2402.05748v1](http://arxiv.org/abs/2402.05748v1)|null|
+|**2024-02-08**|**All dielectric integrable optical isolators**|Sevag Abadian et.al.|[2402.05745v1](http://arxiv.org/abs/2402.05745v1)|null|
+|**2024-02-08**|**Implicit Bias and Fast Convergence Rates for Self-attention**|Bhavya Vasudeva et.al.|[2402.05738v1](http://arxiv.org/abs/2402.05738v1)|null|
+|**2024-02-08**|**REMEDI: Corrective Transformations for Improved Neural Entropy Estimation**|Viktor Nilsson et.al.|[2402.05718v1](http://arxiv.org/abs/2402.05718v1)|**[link](https://github.com/viktor765/remedi)**|
+|**2024-02-08**|**DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer**|Zhiyuan Ma et.al.|[2402.05712v1](http://arxiv.org/abs/2402.05712v1)|**[link](https://github.com/theericma/diffspeaker)**|
+|**2024-02-08**|**Maximally entangled mixed states for a fixed spectrum do not always exist**|Julio I. de Vicente et.al.|[2402.05673v1](http://arxiv.org/abs/2402.05673v1)|null|
+|**2024-02-08**|**Improving Token-Based World Models with Parallel Observation Prediction**|Lior Cohen et.al.|[2402.05643v1](http://arxiv.org/abs/2402.05643v1)|null|
+|**2024-02-08**|**Learning pseudo-contractive denoisers for inverse problems**|Deliang Wei et.al.|[2402.05637v1](http://arxiv.org/abs/2402.05637v1)|null|
+|**2024-02-08**|**RepQuant: Towards Accurate Post-Training Quantization of Large Transformer Models via Scale Reparameterization**|Zhikai Li et.al.|[2402.05628v1](http://arxiv.org/abs/2402.05628v1)|null|
+|**2024-02-08**|**Efficient Models for the Detection of Hate, Abuse and Profanity**|Christoph Tillmann et.al.|[2402.05624v1](http://arxiv.org/abs/2402.05624v1)|null|
+|**2024-02-08**|**Optimized Denial-of-Service Threats on the Scalability of LT Coded Blockchains**|Harikrishnan K. et.al.|[2402.05620v1](http://arxiv.org/abs/2402.05620v1)|null|
+|**2024-02-08**|**Scalable Diffusion Models with State Space Backbone**|Zhengcong Fei et.al.|[2402.05608v1](http://arxiv.org/abs/2402.05608v1)|**[link](https://github.com/feizc/dis)**|
+|**2024-02-08**|**AttnLRP: Attention-Aware Layer-wise Relevance Propagation for Transformers**|Reduan Achtibat et.al.|[2402.05602v1](http://arxiv.org/abs/2402.05602v1)|null|
+|**2024-02-08**|**A Quadratic Curve Analogue of the Taniyama-Shimura Conjecture**|Masahito Hayashi et.al.|[2402.05599v1](http://arxiv.org/abs/2402.05599v1)|null|
+|**2024-02-08**|**Research on the evolution of domestic multi-functional meter technology**|Zhen Zhang et.al.|[2402.05573v1](http://arxiv.org/abs/2402.05573v1)|null|
+|**2024-02-08**|**Traditional Machine Learning Models and Bidirectional Encoder Representations From Transformer (BERT)-Based Automatic Classification of Tweets About Eating Disorders: Algorithm Development and Validation Study**|José Alberto Benítez-Andrades et.al.|[2402.05571v1](http://arxiv.org/abs/2402.05571v1)|null|
+|**2024-02-08**|**On Convolutional Vision Transformers for Yield Prediction**|Alvin Inderka et.al.|[2402.05557v1](http://arxiv.org/abs/2402.05557v1)|null|
+|**2024-02-08**|**Offline Actor-Critic Reinforcement Learning Scales to Large Models**|Jost Tobias Springenberg et.al.|[2402.05546v1](http://arxiv.org/abs/2402.05546v1)|null|
+|**2024-02-08**|**Named Entity Recognition for Address Extraction in Speech-to-Text Transcriptions Using Synthetic Data**|Bibiána Lajčinová et.al.|[2402.05545v1](http://arxiv.org/abs/2402.05545v1)|null|
+|**2024-02-08**|**Investigating White-Box Attacks for On-Device Models**|Mingyi Zhou et.al.|[2402.05493v1](http://arxiv.org/abs/2402.05493v1)|**[link](https://github.com/zhoumingyi/reom)**|
+|**2024-02-08**|**Resources of the Quantum World**|Gilad Gour et.al.|[2402.05474v1](http://arxiv.org/abs/2402.05474v1)|null|
+|**2024-02-08**|**Question Aware Vision Transformer for Multimodal Reasoning**|Roy Ganz et.al.|[2402.05472v1](http://arxiv.org/abs/2402.05472v1)|null|
+|**2024-02-08**|**Rapid Optimization for Jailbreaking LLMs via Subconscious Exploitation and Echopraxia**|Guangyu Shen et.al.|[2402.05467v1](http://arxiv.org/abs/2402.05467v1)|**[link](https://github.com/solidshen/ripple_official)**|
+|**2024-02-08**|**Accurate LoRA-Finetuning Quantization of LLMs via Information Retention**|Haotong Qin et.al.|[2402.05445v1](http://arxiv.org/abs/2402.05445v1)|**[link](https://github.com/htqin/ir-qlora)**|
+|**2024-02-08**|**Neural Circuit Diagrams: Robust Diagrams for the Communication, Implementation, and Analysis of Deep Learning Architectures**|Vincent Abbott et.al.|[2402.05424v1](http://arxiv.org/abs/2402.05424v1)|null|
+|**2024-02-08**|**MTSA-SNN: A Multi-modal Time Series Analysis Model Based on Spiking Neural Network**|Chengzhi Liu et.al.|[2402.05423v1](http://arxiv.org/abs/2402.05423v1)|**[link](https://github.com/chenngzz/mtsa-snn)**|
+|**2024-02-08**|**Unleashing the Infinity Power of Geometry: A Novel Geometry-Aware Transformer (GOAT) for Whole Slide Histopathology Image Analysis**|Mingxin Liu et.al.|[2402.05373v1](http://arxiv.org/abs/2402.05373v1)|null|
+|**2024-02-08**|**Attention as Robust Representation for Time Series Forecasting**|PeiSong Niu et.al.|[2402.05370v1](http://arxiv.org/abs/2402.05370v1)|null|
+|**2024-02-08**|**Guiding Large Language Models with Divide-and-Conquer Program for Discerning Problem Solving**|Yizhou Zhang et.al.|[2402.05359v1](http://arxiv.org/abs/2402.05359v1)|null|
+|**2024-02-07**|**Sym-Q: Adaptive Symbolic Regression via Sequential Decision-Making**|Yuan Tian et.al.|[2402.05306v1](http://arxiv.org/abs/2402.05306v1)|null|
+|**2024-02-07**|**Boundedness of the Hilbert transform on weighted Lorentz spaces**|Elona Agora et.al.|[2402.05299v1](http://arxiv.org/abs/2402.05299v1)|null|
+|**2024-02-07**|**Do Transformer World Models Give Better Policy Gradients?**|Michel Ma et.al.|[2402.05290v1](http://arxiv.org/abs/2402.05290v1)|null|
+|**2024-02-07**|**Review and Analysis of Recent Advances in Intelligent Network Softwarization for the Internet of Things**|Mohamed Ali Zormati et.al.|[2402.05270v1](http://arxiv.org/abs/2402.05270v1)|null|
+|**2024-02-07**|**Universal Neural Functionals**|Allan Zhou et.al.|[2402.05232v1](http://arxiv.org/abs/2402.05232v1)|**[link](https://github.com/allanyangzhou/universal_neural_functional)**|
+|**2024-02-07**|**Mittag-Leffler functions in the Fourier space**|Ahmed A. Abdelhakim et.al.|[2402.05230v1](http://arxiv.org/abs/2402.05230v1)|null|
+|**2024-02-07**|**Geometric Slosh-Free Tracking for Robotic Manipulators**|Jon Arrizabalaga et.al.|[2402.05197v1](http://arxiv.org/abs/2402.05197v1)|null|
+|**2024-02-07**|**Towards Understanding Inductive Bias in Transformers: A View From Infinity**|Itay Lavie et.al.|[2402.05173v1](http://arxiv.org/abs/2402.05173v1)|null|
 |**2024-02-07**|**A topological algorithm for the Fourier transform of Stokes data at infinity**|Jean Douçot et.al.|[2402.05108v1](http://arxiv.org/abs/2402.05108v1)|null|
 |**2024-02-07**|**Image captioning for Brazilian Portuguese using GRIT model**|Rafael Silva de Alencar et.al.|[2402.05106v1](http://arxiv.org/abs/2402.05106v1)|null|
 |**2024-02-07**|**On gauge transformations in twistless torsional Newton--Cartan geometry**|Arian L. von Blanckenburg et.al.|[2402.05105v1](http://arxiv.org/abs/2402.05105v1)|null|
