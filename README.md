@@ -1343,7 +1343,7 @@
 |**2024-02-07**|**Do Transformer World Models Give Better Policy Gradients?**|Michel Ma et.al.|[2402.05290v1](http://arxiv.org/abs/2402.05290v1)|null|
 |**2024-02-07**|**Review and Analysis of Recent Advances in Intelligent Network Softwarization for the Internet of Things**|Mohamed Ali Zormati et.al.|[2402.05270v1](http://arxiv.org/abs/2402.05270v1)|null|
 |**2024-02-07**|**Universal Neural Functionals**|Allan Zhou et.al.|[2402.05232v1](http://arxiv.org/abs/2402.05232v1)|**[link](https://github.com/allanyangzhou/universal_neural_functional)**|
-|**2024-02-07**|**Mittag-Leffler functions in the Fourier space**|Ahmed A. Abdelhakim et.al.|[2402.05230v1](http://arxiv.org/abs/2402.05230v1)|null|
+|**2024-02-09**|**Mittag-Leffler functions in the Fourier space**|Ahmed A. Abdelhakim et.al.|[2402.05230v2](http://arxiv.org/abs/2402.05230v2)|null|
 |**2024-02-07**|**Geometric Slosh-Free Tracking for Robotic Manipulators**|Jon Arrizabalaga et.al.|[2402.05197v1](http://arxiv.org/abs/2402.05197v1)|null|
 |**2024-02-07**|**Towards Understanding Inductive Bias in Transformers: A View From Infinity**|Itay Lavie et.al.|[2402.05173v1](http://arxiv.org/abs/2402.05173v1)|null|
 |**2024-02-07**|**A topological algorithm for the Fourier transform of Stokes data at infinity**|Jean Douçot et.al.|[2402.05108v1](http://arxiv.org/abs/2402.05108v1)|null|
