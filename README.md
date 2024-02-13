@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Cosmology at the Field Level with Probabilistic Machine Learning**|Adam Rouhiainen et.al.|[2402.07694v1](http://arxiv.org/abs/2402.07694v1)|null|
+|**2024-02-12**|**Trustworthy SR: Resolving Ambiguity in Image Super-resolution via Diffusion Models and Human Feedback**|Cansu Korkmaz et.al.|[2402.07597v1](http://arxiv.org/abs/2402.07597v1)|null|
+|**2024-02-12**|**High-resolution Cryogenic Spectroscopy of Single Molecules in Nanoprinted Crystals**|Mohammad Musavinezhad et.al.|[2402.07474v1](http://arxiv.org/abs/2402.07474v1)|null|
+|**2024-02-09**|**Copper phosphate micro-flowers coated with indocyanine green and iron oxide nanoparticles for in vivo localization optoacoustic tomography and magnetic actuation**|Daniil Nozdriukhin et.al.|[2402.06749v1](http://arxiv.org/abs/2402.06749v1)|null|
 |**2024-02-05**|**Hybrid Neural Representations for Spherical Data**|Hyomin Kim et.al.|[2402.05965v1](http://arxiv.org/abs/2402.05965v1)|null|
 |**2024-02-07**|**Arbitrary Scale Super-Resolution Assisted Lunar Crater Detection in Satellite Images**|Atal Tewari et.al.|[2402.05068v1](http://arxiv.org/abs/2402.05068v1)|null|
 |**2024-02-07**|**Device Activity Detection and Channel Estimation for Millimeter-Wave Massive MIMO**|Yinchuan Li et.al.|[2402.04704v1](http://arxiv.org/abs/2402.04704v1)|null|
@@ -844,6 +848,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Trustworthy SR: Resolving Ambiguity in Image Super-resolution via Diffusion Models and Human Feedback**|Cansu Korkmaz et.al.|[2402.07597v1](http://arxiv.org/abs/2402.07597v1)|null|
 |**2024-02-05**|**See More Details: Efficient Image Super-Resolution by Experts Mining**|Eduard Zamfir et.al.|[2402.03412v1](http://arxiv.org/abs/2402.03412v1)|null|
 |**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258v1](http://arxiv.org/abs/2401.17258v1)|null|
 |**2024-01-30**|**Deep 3D World Models for Multi-Image Super-Resolution Beyond Optical Flow**|Luca Savant Aira et.al.|[2401.16972v1](http://arxiv.org/abs/2401.16972v1)|null|
@@ -1299,6 +1304,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**FAST: Factorizable Attention for Speeding up Transformers**|Armin Gerami et.al.|[2402.07901v1](http://arxiv.org/abs/2402.07901v1)|null|
+|**2024-02-12**|**WildfireGPT: Tailored Large Language Model for Wildfire Analysis**|Yangxinyu Xie et.al.|[2402.07877v1](http://arxiv.org/abs/2402.07877v1)|null|
+|**2024-02-12**|**Scaling Laws for Fine-Grained Mixture of Experts**|Jakub Krajewski et.al.|[2402.07871v1](http://arxiv.org/abs/2402.07871v1)|null|
+|**2024-02-12**|**Comparing skill of historical rainfall data based monsoon rainfall prediction in India with NCEP-NWP forecasts**|Apoorva Narula et.al.|[2402.07851v1](http://arxiv.org/abs/2402.07851v1)|null|
+|**2024-02-12**|**Encoding Majorana codes**|Maryam Mudassar et.al.|[2402.07829v1](http://arxiv.org/abs/2402.07829v1)|null|
+|**2024-02-12**|**Finite and infinite order differential properties of the reduced Mittag--Leffler polynomials**|Predrag M. Rajković et.al.|[2402.07795v1](http://arxiv.org/abs/2402.07795v1)|null|
+|**2024-02-12**|**Growth Rate of the Number of Empty Triangles in the Plane**|Bhaswar B. Bhattacharya et.al.|[2402.07775v1](http://arxiv.org/abs/2402.07775v1)|null|
+|**2024-02-12**|**Insights into  $(k,ρ)$ -shortcutting algorithms**|Alexander Leonhardt et.al.|[2402.07771v1](http://arxiv.org/abs/2402.07771v1)|null|
+|**2024-02-12**|**Towards an Understanding of Stepwise Inference in Transformers: A Synthetic Graph Navigation Model**|Mikail Khona et.al.|[2402.07757v1](http://arxiv.org/abs/2402.07757v1)|null|
+|**2024-02-12**|**Mixed Q-Functionals: Advancing Value-Based Methods in Cooperative MARL with Continuous Action Domains**|Yasin Findik et.al.|[2402.07752v1](http://arxiv.org/abs/2402.07752v1)|null|
+|**2024-02-12**|**Minimally Interactive Segmentation of Soft-Tissue Tumors on CT and MRI using Deep Learning**|Douwe J. Spaanderman et.al.|[2402.07746v1](http://arxiv.org/abs/2402.07746v1)|null|
+|**2024-02-12**|**Graph Structure Inference with BAM: Introducing the Bilinear Attention Mechanism**|Philipp Froehlich et.al.|[2402.07735v1](http://arxiv.org/abs/2402.07735v1)|null|
+|**2024-02-12**|**Distributed Observer Design over Directed Switching Topologies**|Haotian Xu et.al.|[2402.07727v1](http://arxiv.org/abs/2402.07727v1)|null|
+|**2024-02-12**|**Efficient reductions between some statistical models**|Mengqi Lou et.al.|[2402.07717v1](http://arxiv.org/abs/2402.07717v1)|null|
+|**2024-02-12**|**Synthesizing Strongly Equivalent Logic Programs: Beth Definability for Answer Set Programs via Craig Interpolation in First-Order Logic**|Jan Heuer et.al.|[2402.07696v1](http://arxiv.org/abs/2402.07696v1)|null|
+|**2024-02-12**|**Cosmology at the Field Level with Probabilistic Machine Learning**|Adam Rouhiainen et.al.|[2402.07694v1](http://arxiv.org/abs/2402.07694v1)|null|
+|**2024-02-12**|**Auxiliary Tasks to Boost Biaffine Semantic Dependency Parsing**|Marie Candito et.al.|[2402.07682v1](http://arxiv.org/abs/2402.07682v1)|**[link](https://github.com/mcandito/aux-tasks-biaffine-graph-parser-findingsacl22)**|
+|**2024-02-12**|**AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer**|Tanmoy Dam et.al.|[2402.07680v1](http://arxiv.org/abs/2402.07680v1)|**[link](https://github.com/sanjay-810/aydiv2)**|
+|**2024-02-12**|**The Sound of Healthcare: Improving Medical Transcription ASR Accuracy with Large Language Models**|Ayo Adedeji et.al.|[2402.07658v1](http://arxiv.org/abs/2402.07658v1)|null|
+|**2024-02-12**|**Impact of spatial transformations on landscape features of CEC2022 basic benchmark problems**|Haoran Yin et.al.|[2402.07654v1](http://arxiv.org/abs/2402.07654v1)|null|
+|**2024-02-12**|**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**|Chenchang Li et.al.|[2402.07648v1](http://arxiv.org/abs/2402.07648v1)|null|
+|**2024-02-12**|**Synthesizing Sentiment-Controlled Feedback For Multimodal Text and Image Data**|Puneet Kumar et.al.|[2402.07640v1](http://arxiv.org/abs/2402.07640v1)|**[link](https://github.com/mintelligence-group/cmfeed)**|
+|**2024-02-12**|**Compressive Recovery of Signals Defined on Perturbed Graphs**|Sabyasachi Ghosh et.al.|[2402.07637v1](http://arxiv.org/abs/2402.07637v1)|null|
+|**2024-02-12**|**On implicit and explicit representations for 1D distributed port-Hamiltonian systems**|Antoine Bendimerad-Hohl et.al.|[2402.07628v1](http://arxiv.org/abs/2402.07628v1)|null|
+|**2024-02-12**|**Anchor-based Large Language Models**|Jianhui Pang et.al.|[2402.07616v1](http://arxiv.org/abs/2402.07616v1)|null|
+|**2024-02-12**|**Global optimality under amenable symmetry constraints**|Peter Orbanz et.al.|[2402.07613v1](http://arxiv.org/abs/2402.07613v1)|null|
+|**2024-02-12**|**Sheet Music Transformer: End-To-End Optical Music Recognition Beyond Monophonic Transcription**|Antonio Ríos-Vila et.al.|[2402.07596v1](http://arxiv.org/abs/2402.07596v1)|**[link](https://github.com/multiscore/smt)**|
+|**2024-02-12**|**Comparative Analysis of ImageNet Pre-Trained Deep Learning Models and DINOv2 in Medical Imaging Classification**|Yuning Huang et.al.|[2402.07595v1](http://arxiv.org/abs/2402.07595v1)|null|
+|**2024-02-12**|**Quantum phases of XY model with three-spin terms: interplay of topology and entanglement**|Rakesh Kumar Malakar et.al.|[2402.07590v1](http://arxiv.org/abs/2402.07590v1)|null|
+|**2024-02-12**|**New construction of a charged dipole black ring by Harrison transformation**|Ryotaku Suzuki et.al.|[2402.07589v1](http://arxiv.org/abs/2402.07589v1)|null|
+|**2024-02-12**|**Only the Curve Shape Matters: Training Foundation Models for Zero-Shot Multivariate Time Series Forecasting through Next Curve Shape Prediction**|Cheng Feng et.al.|[2402.07570v1](http://arxiv.org/abs/2402.07570v1)|**[link](https://github.com/cfeng783/gtt)**|
+|**2024-02-12**|**Expectile regression averaging method for probabilistic forecasting of electricity prices**|Joanna Janczura et.al.|[2402.07559v1](http://arxiv.org/abs/2402.07559v1)|null|
+|**2024-02-12**|**TransAxx: Efficient Transformers with Approximate Computing**|Dimitrios Danopoulos et.al.|[2402.07545v1](http://arxiv.org/abs/2402.07545v1)|null|
+|**2024-02-12**|**Resilient Watermarking for LLM-Generated Codes**|Boquan Li et.al.|[2402.07518v1](http://arxiv.org/abs/2402.07518v1)|null|
+|**2024-02-12**|**Affine term structure models driven by independent Lévy processes**|Michał Barski et.al.|[2402.07503v1](http://arxiv.org/abs/2402.07503v1)|null|
+|**2024-02-12**|**ClusterTabNet: Supervised clustering method for table detection and table structure recognition**|Marek Polewczyk et.al.|[2402.07502v1](http://arxiv.org/abs/2402.07502v1)|null|
+|**2024-02-12**|**You can monitor your hydration level using your smartphone camera**|Rose Alaslani et.al.|[2402.07467v1](http://arxiv.org/abs/2402.07467v1)|null|
+|**2024-02-12**|**Score-Based Physics-Informed Neural Networks for High-Dimensional Fokker-Planck Equations**|Zheyuan Hu et.al.|[2402.07465v1](http://arxiv.org/abs/2402.07465v1)|null|
+|**2024-02-12**|**The I/O Complexity of Attention, or How Optimal is Flash Attention?**|Barna Saha et.al.|[2402.07443v1](http://arxiv.org/abs/2402.07443v1)|null|
+|**2024-02-12**|**Game Agent Driven by Free-Form Text Command: Using LLM-based Code Generation and Behavior Branch**|Ray Ito et.al.|[2402.07442v1](http://arxiv.org/abs/2402.07442v1)|null|
+|**2024-02-12**|**Joint estimation of the predictive ability of experts using a multi-output Gaussian process**|Oscar Oelrich et.al.|[2402.07439v1](http://arxiv.org/abs/2402.07439v1)|null|
+|**2024-02-12**|**SemTra: A Semantic Skill Translator for Cross-Domain Zero-Shot Policy Adaptation**|Sangwoo Shin et.al.|[2402.07418v1](http://arxiv.org/abs/2402.07418v1)|null|
+|**2024-02-12**|**Spectral transform for the Ising model**|Terrence George et.al.|[2402.07413v1](http://arxiv.org/abs/2402.07413v1)|null|
+|**2024-02-12**|**Conformal Predictive Programming for Chance Constrained Optimization**|Yiqi Zhao et.al.|[2402.07407v1](http://arxiv.org/abs/2402.07407v1)|null|
+|**2024-02-12**|**Enhancing Multi-Criteria Decision Analysis with AI: Integrating Analytic Hierarchy Process and GPT-4 for Automated Decision Support**|Igor Svoboda et.al.|[2402.07404v1](http://arxiv.org/abs/2402.07404v1)|null|
+|**2024-02-12**|**A Mathematical Proof of the Four-Color Conjecture (1): Transformation Step**|Jin Xu et.al.|[2402.07361v1](http://arxiv.org/abs/2402.07361v1)|null|
+|**2024-02-12**|**Computing Krylov iterates in the time of matrix multiplication**|Vincent Neiger et.al.|[2402.07345v1](http://arxiv.org/abs/2402.07345v1)|null|
+|**2024-02-11**|**The Bias of Harmful Label Associations in Vision-Language Models**|Caner Hazirbas et.al.|[2402.07329v1](http://arxiv.org/abs/2402.07329v1)|null|
+|**2024-02-11**|**Multi-Modal Emotion Recognition by Text, Speech and Video Using Pretrained Transformers**|Minoo Shayaninasab et.al.|[2402.07327v1](http://arxiv.org/abs/2402.07327v1)|null|
+|**2024-02-11**|**Persian Speech Emotion Recognition by Fine-Tuning Transformers**|Minoo Shayaninasab et.al.|[2402.07326v1](http://arxiv.org/abs/2402.07326v1)|null|
 |**2024-02-09**|**Understanding the Effects of Iterative Prompting on Truthfulness**|Satyapriya Krishna et.al.|[2402.06625v1](http://arxiv.org/abs/2402.06625v1)|null|
 |**2024-02-09**|**Equi-affine minimal-degree moving frames for polynomial curves**|Hoon Hong et.al.|[2402.06610v1](http://arxiv.org/abs/2402.06610v1)|null|
 |**2024-02-09**|**Analytical model for the relation between signal bandwidth and spatial resolution in Steered-Response Power Phase Transform (SRP-PHAT) maps**|Guillermo Garcia-Barrios et.al.|[2402.06586v1](http://arxiv.org/abs/2402.06586v1)|null|
