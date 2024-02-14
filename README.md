@@ -1315,7 +1315,7 @@
 |**2024-02-12**|**Towards an Understanding of Stepwise Inference in Transformers: A Synthetic Graph Navigation Model**|Mikail Khona et.al.|[2402.07757v1](http://arxiv.org/abs/2402.07757v1)|null|
 |**2024-02-12**|**Mixed Q-Functionals: Advancing Value-Based Methods in Cooperative MARL with Continuous Action Domains**|Yasin Findik et.al.|[2402.07752v1](http://arxiv.org/abs/2402.07752v1)|null|
 |**2024-02-12**|**Minimally Interactive Segmentation of Soft-Tissue Tumors on CT and MRI using Deep Learning**|Douwe J. Spaanderman et.al.|[2402.07746v1](http://arxiv.org/abs/2402.07746v1)|null|
-|**2024-02-12**|**Graph Structure Inference with BAM: Introducing the Bilinear Attention Mechanism**|Philipp Froehlich et.al.|[2402.07735v1](http://arxiv.org/abs/2402.07735v1)|null|
+|**2024-02-13**|**Graph Structure Inference with BAM: Introducing the Bilinear Attention Mechanism**|Philipp Froehlich et.al.|[2402.07735v2](http://arxiv.org/abs/2402.07735v2)|null|
 |**2024-02-12**|**Distributed Observer Design over Directed Switching Topologies**|Haotian Xu et.al.|[2402.07727v1](http://arxiv.org/abs/2402.07727v1)|null|
 |**2024-02-12**|**Efficient reductions between some statistical models**|Mengqi Lou et.al.|[2402.07717v1](http://arxiv.org/abs/2402.07717v1)|null|
 |**2024-02-12**|**Synthesizing Strongly Equivalent Logic Programs: Beth Definability for Answer Set Programs via Craig Interpolation in First-Order Logic**|Jan Heuer et.al.|[2402.07696v1](http://arxiv.org/abs/2402.07696v1)|null|
@@ -1331,7 +1331,7 @@
 |**2024-02-12**|**Anchor-based Large Language Models**|Jianhui Pang et.al.|[2402.07616v1](http://arxiv.org/abs/2402.07616v1)|null|
 |**2024-02-12**|**Global optimality under amenable symmetry constraints**|Peter Orbanz et.al.|[2402.07613v1](http://arxiv.org/abs/2402.07613v1)|null|
 |**2024-02-12**|**Sheet Music Transformer: End-To-End Optical Music Recognition Beyond Monophonic Transcription**|Antonio Ríos-Vila et.al.|[2402.07596v1](http://arxiv.org/abs/2402.07596v1)|**[link](https://github.com/multiscore/smt)**|
-|**2024-02-12**|**Comparative Analysis of ImageNet Pre-Trained Deep Learning Models and DINOv2 in Medical Imaging Classification**|Yuning Huang et.al.|[2402.07595v1](http://arxiv.org/abs/2402.07595v1)|null|
+|**2024-02-13**|**Comparative Analysis of ImageNet Pre-Trained Deep Learning Models and DINOv2 in Medical Imaging Classification**|Yuning Huang et.al.|[2402.07595v2](http://arxiv.org/abs/2402.07595v2)|null|
 |**2024-02-12**|**Quantum phases of XY model with three-spin terms: interplay of topology and entanglement**|Rakesh Kumar Malakar et.al.|[2402.07590v1](http://arxiv.org/abs/2402.07590v1)|null|
 |**2024-02-12**|**New construction of a charged dipole black ring by Harrison transformation**|Ryotaku Suzuki et.al.|[2402.07589v1](http://arxiv.org/abs/2402.07589v1)|null|
 |**2024-02-12**|**Only the Curve Shape Matters: Training Foundation Models for Zero-Shot Multivariate Time Series Forecasting through Next Curve Shape Prediction**|Cheng Feng et.al.|[2402.07570v1](http://arxiv.org/abs/2402.07570v1)|**[link](https://github.com/cfeng783/gtt)**|
