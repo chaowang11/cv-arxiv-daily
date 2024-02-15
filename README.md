@@ -1346,7 +1346,7 @@
 |**2024-02-13**|**Gradient-flow adaptive importance sampling for Bayesian leave one out cross-validation for sigmoidal classification models**|Joshua C Chang et.al.|[2402.08151v1](http://arxiv.org/abs/2402.08151v1)|null|
 |**2024-02-13**|**Artificial intelligence and the transformation of higher education institutions**|Evangelos Katsamakas et.al.|[2402.08143v1](http://arxiv.org/abs/2402.08143v1)|null|
 |**2024-02-13**|**Early Exploration of a Flexible Framework for Efficient Quantum Linear Solvers in Power Systems**|Muqing Zheng et.al.|[2402.08136v1](http://arxiv.org/abs/2402.08136v1)|null|
-|**2024-02-12**|**On the Resurgence of Recurrent Models for Long Sequences: Survey and Research Opportunities in the Transformer Era**|Matteo Tiezzi et.al.|[2402.08132v1](http://arxiv.org/abs/2402.08132v1)|null|
+|**2024-02-14**|**On the Resurgence of Recurrent Models for Long Sequences -- Survey and Research Opportunities in the Transformer Era**|Matteo Tiezzi et.al.|[2402.08132v2](http://arxiv.org/abs/2402.08132v2)|null|
 |**2024-02-12**|**Customizable Perturbation Synthesis for Robust SLAM Benchmarking**|Xiaohao Xu et.al.|[2402.08125v1](http://arxiv.org/abs/2402.08125v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
 |**2024-02-12**|**From Data to Decisions: The Transformational Power of Machine Learning in Business Recommendations**|Kapilya Gangadharan et.al.|[2402.08109v1](http://arxiv.org/abs/2402.08109v1)|null|
 |**2024-02-12**|**BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data**|Mateusz Łajszczak et.al.|[2402.08093v1](http://arxiv.org/abs/2402.08093v1)|null|
