@@ -1310,7 +1310,7 @@
 |**2024-02-15**|**Bridging Associative Memory and Probabilistic Modeling**|Rylan Schaeffer et.al.|[2402.10202v1](http://arxiv.org/abs/2402.10202v1)|null|
 |**2024-02-15**|**Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention**|Romain Ilbert et.al.|[2402.10198v1](http://arxiv.org/abs/2402.10198v1)|**[link](https://github.com/romilbert/samformer)**|
 |**2024-02-15**|**Hidden Traveling Waves bind Working Memory Variables in Recurrent Neural Networks**|Arjun Karuvally et.al.|[2402.10163v1](http://arxiv.org/abs/2402.10163v1)|null|
-|**2024-02-15**|**Reusing Softmax Hardware Unit for GELU Computation in Transformers**|Christodoulos Peltekis et.al.|[2402.10118v1](http://arxiv.org/abs/2402.10118v1)|null|
+|**2024-02-16**|**Reusing Softmax Hardware Unit for GELU Computation in Transformers**|Christodoulos Peltekis et.al.|[2402.10118v2](http://arxiv.org/abs/2402.10118v2)|null|
 |**2024-02-15**|**Generating Visual Stimuli from EEG Recordings using Transformer-encoder based EEG encoder and GAN**|Rahul Mishra et.al.|[2402.10115v1](http://arxiv.org/abs/2402.10115v1)|null|
 |**2024-02-15**|**Amenable group actions on  $L_p$  lattices**|Antonio M. Scielzo et.al.|[2402.10112v1](http://arxiv.org/abs/2402.10112v1)|null|
 |**2024-02-15**|**Any-Shift Prompting for Generalization over Distributions**|Zehao Xiao et.al.|[2402.10099v1](http://arxiv.org/abs/2402.10099v1)|null|
@@ -1318,7 +1318,7 @@
 |**2024-02-15**|**FedRDF: A Robust and Dynamic Aggregation Function against Poisoning Attacks in Federated Learning**|Enrique Mármol Campos et.al.|[2402.10082v1](http://arxiv.org/abs/2402.10082v1)|null|
 |**2024-02-15**|**NYCTALE: Neuro-Evidence Transformer for Adaptive and Personalized Lung Nodule Invasiveness Prediction**|Sadaf Khademi et.al.|[2402.10066v1](http://arxiv.org/abs/2402.10066v1)|null|
 |**2024-02-15**|**X-maps: Direct Depth Lookup for Event-based Structured Light Systems**|Wieland Morgenstern et.al.|[2402.10061v1](http://arxiv.org/abs/2402.10061v1)|null|
-|**2024-02-15**|**Partial synchrony for free? New bounds for Byzantine agreement via a generic transformation across network models**|Pierre Civit et.al.|[2402.10059v1](http://arxiv.org/abs/2402.10059v1)|null|
+|**2024-02-16**|**Partial synchrony for free? New bounds for Byzantine agreement via a generic transformation across network models**|Pierre Civit et.al.|[2402.10059v2](http://arxiv.org/abs/2402.10059v2)|null|
 |**2024-02-15**|**Two optimization problems for the Loewner energy**|Yilin Wang et.al.|[2402.10054v1](http://arxiv.org/abs/2402.10054v1)|null|
 |**2024-02-15**|**Gauge-Independent Metric Reconstruction of Perturbations of Vacuum Spherically-Symmetric Spacetimes**|Michele Lenzi et.al.|[2402.10004v1](http://arxiv.org/abs/2402.10004v1)|null|
 |**2024-02-15**|**MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding**|Hai-Tao Yu et.al.|[2402.10002v1](http://arxiv.org/abs/2402.10002v1)|**[link](https://github.com/haydenyu/mm-point)**|
