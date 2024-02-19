@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**Optimizing Skin Lesion Classification via Multimodal Data and Auxiliary Task Integration**|Mahapara Khurshid et.al.|[2402.10454v1](http://arxiv.org/abs/2402.10454v1)|null|
 |**2024-02-08**|**Multi-Center Fetal Brain Tissue Annotation (FeTA) Challenge 2022 Results**|Kelly Payette et.al.|[2402.09463v1](http://arxiv.org/abs/2402.09463v1)|null|
 |**2024-02-14**|**Neural Operators Meet Energy-based Theory: Operator Learning for Hamiltonian and Dissipative PDEs**|Yusuke Tanaka et.al.|[2402.09018v1](http://arxiv.org/abs/2402.09018v1)|null|
 |**2024-02-12**|**Cosmology at the Field Level with Probabilistic Machine Learning**|Adam Rouhiainen et.al.|[2402.07694v1](http://arxiv.org/abs/2402.07694v1)|null|
@@ -1306,6 +1307,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation**|Ziyang Wang et.al.|[2402.10887v1](http://arxiv.org/abs/2402.10887v1)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
+|**2024-02-16**|**AbacusPNG: A modest set of simulations of local-type primordial non-Gaussianity in the DESI era**|Boryana Hadzhiyska et.al.|[2402.10881v1](http://arxiv.org/abs/2402.10881v1)|null|
+|**2024-02-16**|**Schwartz correspondence for real motion groups in low dimensions**|Francesca Astengo et.al.|[2402.10848v1](http://arxiv.org/abs/2402.10848v1)|null|
+|**2024-02-16**|**Exploring Hybrid Question Answering via Program-based Prompting**|Qi Shi et.al.|[2402.10812v1](http://arxiv.org/abs/2402.10812v1)|null|
+|**2024-02-16**|**VATr++: Choose Your Words Wisely for Handwritten Text Generation**|Bram Vanherle et.al.|[2402.10798v1](http://arxiv.org/abs/2402.10798v1)|null|
+|**2024-02-16**|**In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss**|Yuri Kuratov et.al.|[2402.10790v1](http://arxiv.org/abs/2402.10790v1)|null|
+|**2024-02-16**|**Simultaneous symmetry breaking in spontaneous Floquet states: Floquet-Nambu-Goldstone modes, Floquet thermodynamics, and the time operator**|Juan Ramón Muñoz de Nova et.al.|[2402.10784v1](http://arxiv.org/abs/2402.10784v1)|null|
+|**2024-02-16**|**Towards 6G Evolution: Three Enhancements, Three Innovations, and Three Major Challenges**|Rohit Singh et.al.|[2402.10781v1](http://arxiv.org/abs/2402.10781v1)|null|
+|**2024-02-16**|**Generalizing Geometric Nonwindowed Scattering Transforms on Compact Riemannian Manifolds**|Albert Chua et.al.|[2402.10771v1](http://arxiv.org/abs/2402.10771v1)|null|
+|**2024-02-16**|**Live magnetic observation of parahydrogen hyperpolarization dynamics**|James Eills et.al.|[2402.10766v1](http://arxiv.org/abs/2402.10766v1)|null|
+|**2024-02-16**|**A Noisy Beat is Worth 16 Words: a Tiny Transformer for Low-Power Arrhythmia Classification on Microcontrollers**|Paola Busia et.al.|[2402.10748v1](http://arxiv.org/abs/2402.10748v1)|null|
+|**2024-02-16**|**Fully Differentiable Lagrangian Convolutional Neural Network for Continuity-Consistent Physics-Informed Precipitation Nowcasting**|Peter Pavlík et.al.|[2402.10747v1](http://arxiv.org/abs/2402.10747v1)|null|
+|**2024-02-16**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739v1](http://arxiv.org/abs/2402.10739v1)|null|
+|**2024-02-16**|**Semi-weakly-supervised neural network training for medical image registration**|Yiwen Li et.al.|[2402.10728v1](http://arxiv.org/abs/2402.10728v1)|null|
+|**2024-02-16**|**Molecular Weight Distribution Modeling in Step Growth Polymerization of Oligomers**|Serhii Kondratov et.al.|[2402.10713v1](http://arxiv.org/abs/2402.10713v1)|null|
+|**2024-02-16**|**Beamforming Optimization for Active RIS-Aided Multiuser Communications With Hardware Impairments**|Zhangjie Peng et.al.|[2402.10687v1](http://arxiv.org/abs/2402.10687v1)|null|
+|**2024-02-16**|**Hilbert transforms and maximal functions along flat curves on the Heisenberg group**|Lingxiao Zhang et.al.|[2402.10653v1](http://arxiv.org/abs/2402.10653v1)|null|
+|**2024-02-16**|**Quantum dimer models with Rydberg gadgets**|Zhongda Zeng et.al.|[2402.10651v1](http://arxiv.org/abs/2402.10651v1)|null|
+|**2024-02-16**|**Linear Transformers with Learnable Kernel Functions are Better In-Context Models**|Yaroslav Aksenov et.al.|[2402.10644v1](http://arxiv.org/abs/2402.10644v1)|**[link](https://github.com/corl-team/rebased)**|
+|**2024-02-16**|**A Predictive Surrogate Model for Heat Transfer of an Impinging Jet on a Concave Surface**|Sajad Salavatidezfouli et.al.|[2402.10641v1](http://arxiv.org/abs/2402.10641v1)|null|
+|**2024-02-16**|**Yoneda lemma and representation theorem for double categories**|Benedikt Fröhlich et.al.|[2402.10640v1](http://arxiv.org/abs/2402.10640v1)|null|
+|**2024-02-16**|**ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling**|Yuqi Chen et.al.|[2402.10635v1](http://arxiv.org/abs/2402.10635v1)|null|
+|**2024-02-16**|**Crossing number of graphs and  $\mathsf{ΔY}$ -move**|Youngsik Huh et.al.|[2402.10633v1](http://arxiv.org/abs/2402.10633v1)|null|
+|**2024-02-16**|**FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval**|Chen Xu et.al.|[2402.10628v1](http://arxiv.org/abs/2402.10628v1)|**[link](https://github.com/xuchen0427/fairsync)**|
+|**2024-02-16**|**Alphabet Reduction for Reconfiguration Problems**|Naoto Ohsaka et.al.|[2402.10627v1](http://arxiv.org/abs/2402.10627v1)|null|
+|**2024-02-16**|**Explicit formula and quasicrystal definition**|J. Arias de Reyna et.al.|[2402.10604v1](http://arxiv.org/abs/2402.10604v1)|null|
+|**2024-02-16**|**Are ID Embeddings Necessary? Whitening Pre-trained Text Embeddings for Effective Sequential Recommendation**|Lingzi Zhang et.al.|[2402.10602v1](http://arxiv.org/abs/2402.10602v1)|null|
+|**2024-02-16**|**Envisioning the Future Role of 3D Wireless Networks in Preventing and Managing Disasters and Emergency Situations**|Ahmed Alhammadi et.al.|[2402.10600v1](http://arxiv.org/abs/2402.10600v1)|null|
+|**2024-02-16**|**Do Llamas Work in English? On the Latent Language of Multilingual Transformers**|Chris Wendler et.al.|[2402.10588v1](http://arxiv.org/abs/2402.10588v1)|**[link](https://github.com/epfl-dlab/llm-latent-language)**|
+|**2024-02-16**|**Order-by-disorder and long-range interactions in the antiferromagnetic transverse-field Ising model on the triangular lattice -- A perturbative point of view**|J. A. Koziol et.al.|[2402.10584v1](http://arxiv.org/abs/2402.10584v1)|null|
+|**2024-02-16**|**Laser-Dressed States on Riemannian Manifolds: A Generalization of the Kramers-Henneberger Transformation**|Hannah Bendin et.al.|[2402.10572v1](http://arxiv.org/abs/2402.10572v1)|null|
+|**2024-02-16**|**Personalised Drug Identifier for Cancer Treatment with Transformers using Auxiliary Information**|Aishwarya Jayagopal et.al.|[2402.10551v1](http://arxiv.org/abs/2402.10551v1)|**[link](https://github.com/cdal-soc/predict-ai)**|
+|**2024-02-16**|**APCodec: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding**|Yang Ai et.al.|[2402.10533v1](http://arxiv.org/abs/2402.10533v1)|null|
+|**2024-02-16**|**Generative AI for Controllable Protein Sequence Design: A Survey**|Yiheng Zhu et.al.|[2402.10516v1](http://arxiv.org/abs/2402.10516v1)|null|
+|**2024-02-16**|**Flat-band engineering of quasi-one-dimensional systems via supersymmetric transformations**|Vit Jakubsky et.al.|[2402.10514v1](http://arxiv.org/abs/2402.10514v1)|null|
+|**2024-02-16**|**Can Transformers Predict Vibrations?**|Fusataka Kuniyoshi et.al.|[2402.10511v1](http://arxiv.org/abs/2402.10511v1)|null|
+|**2024-02-16**|**Line-shape study of CO perturbed by N ${_2}$  with mid-infrared frequency comb-based Fourier-transform spectroscopy**|Akiko Nishiyama et.al.|[2402.10509v1](http://arxiv.org/abs/2402.10509v1)|null|
+|**2024-02-16**|**Emoji Driven Crypto Assets Market Reactions**|Xiaorui Zuo et.al.|[2402.10481v1](http://arxiv.org/abs/2402.10481v1)|null|
+|**2024-02-16**|**The Standard Model quark/lepton masses and the Cabibbo-Kobayashi-Maskawa mixing in an  ${\rm SU}(8)$  theory**|Ning Chen et.al.|[2402.10471v1](http://arxiv.org/abs/2402.10471v1)|null|
+|**2024-02-16**|**Dynamic Patch-aware Enrichment Transformer for Occluded Person Re-Identification**|Xin Zhang et.al.|[2402.10435v1](http://arxiv.org/abs/2402.10435v1)|null|
+|**2024-02-16**|**Recurrent Neural Networks for Multivariate Loss Reserving and Risk Capital Analysis**|Pengfei Cai et.al.|[2402.10421v1](http://arxiv.org/abs/2402.10421v1)|null|
+|**2024-02-16**|**Polyhedral Complex Derivation from Piecewise Trilinear Networks**|Jin-Hwa Kim et.al.|[2402.10403v1](http://arxiv.org/abs/2402.10403v1)|null|
+|**2024-02-16**|**UMAIR-FPS: User-aware Multi-modal Animation Illustration Recommendation Fusion with Painting Style**|Yan Kang et.al.|[2402.10381v1](http://arxiv.org/abs/2402.10381v1)|null|
+|**2024-02-16**|**Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE)**|Usha Bhalla et.al.|[2402.10376v1](http://arxiv.org/abs/2402.10376v1)|**[link](https://github.com/ai4life-group/splice)**|
+|**2024-02-15**|**Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review**|Jing Su et.al.|[2402.10350v1](http://arxiv.org/abs/2402.10350v1)|null|
+|**2024-02-15**|**Wavelet compressed, modified Hilbert transform in the space-time discretization of the heat equation**|Helmut Harbrecht et.al.|[2402.10346v1](http://arxiv.org/abs/2402.10346v1)|null|
+|**2024-02-15**|**A Computationally Efficient Learning-Based Model Predictive Control for Multirotors under Aerodynamic Disturbances**|Babak Akbari et.al.|[2402.10323v1](http://arxiv.org/abs/2402.10323v1)|null|
+|**2024-02-15**|**Modeling Blood Alcohol Concentration Using Fractional Differential Equations Based on the  $ψ$ -Caputo Derivative**|Om Kalthoum Wanassi et.al.|[2402.10319v1](http://arxiv.org/abs/2402.10319v1)|null|
+|**2024-02-15**|**Multi-Antenna Towards Inband Shift Keying**|Ralf R. Müller et.al.|[2402.10318v1](http://arxiv.org/abs/2402.10318v1)|null|
+|**2024-02-15**|**A New Radio to Overcome Critical Link Budgets**|Ralf R. Müller et.al.|[2402.10307v1](http://arxiv.org/abs/2402.10307v1)|null|
 |**2024-02-15**|**Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling**|Raunaq Bhirangi et.al.|[2402.10211v1](http://arxiv.org/abs/2402.10211v1)|null|
 |**2024-02-15**|**Bridging Associative Memory and Probabilistic Modeling**|Rylan Schaeffer et.al.|[2402.10202v1](http://arxiv.org/abs/2402.10202v1)|null|
 |**2024-02-15**|**Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention**|Romain Ilbert et.al.|[2402.10198v1](http://arxiv.org/abs/2402.10198v1)|**[link](https://github.com/romilbert/samformer)**|
