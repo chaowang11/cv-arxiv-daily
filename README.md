@@ -1347,7 +1347,7 @@
 |**2024-02-19**|**Stealing the Invisible: Unveiling Pre-Trained CNN Models through Adversarial Examples and Timing Side-Channels**|Shubhi Shukla et.al.|[2402.11953v1](http://arxiv.org/abs/2402.11953v1)|null|
 |**2024-02-19**|**A novel molecule generative model of VAE combined with Transformer**|Yasuhiro Yoshikai et.al.|[2402.11950v1](http://arxiv.org/abs/2402.11950v1)|null|
 |**2024-02-19**|**Asymptotic behavior for twisted traces of self-dual and conjugate self-dual representations of  $\mathrm{GL}_n$ **|Yugo Takanashi et.al.|[2402.11945v1](http://arxiv.org/abs/2402.11945v1)|null|
-|**2024-02-19**|**A Generative Pre-Training Framework for Spatio-Temporal Graph Transfer Learning**|Yuan Yuan et.al.|[2402.11922v1](http://arxiv.org/abs/2402.11922v1)|null|
+|**2024-02-20**|**A Generative Pre-Training Framework for Spatio-Temporal Graph Transfer Learning**|Yuan Yuan et.al.|[2402.11922v2](http://arxiv.org/abs/2402.11922v2)|null|
 |**2024-02-19**|**A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task**|Jannik Brinkmann et.al.|[2402.11917v1](http://arxiv.org/abs/2402.11917v1)|null|
 |**2024-02-19**|**PhySU-Net: Long Temporal Context Transformer for rPPG with Self-Supervised Pre-training**|Marko Savic et.al.|[2402.11913v1](http://arxiv.org/abs/2402.11913v1)|null|
 |**2024-02-19**|**SoLA: Solver-Layer Adaption of LLM for Better Logic Reasoning**|Yu Zhang et.al.|[2402.11903v1](http://arxiv.org/abs/2402.11903v1)|null|
