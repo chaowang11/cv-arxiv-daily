@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Diffusion Posterior Sampling is Computationally Intractable**|Shivam Gupta et.al.|[2402.12727v1](http://arxiv.org/abs/2402.12727v1)|null|
 |**2024-02-19**|**Image Super-resolution Inspired Electron Density Prediction**|Chenghan Li et.al.|[2402.12335v1](http://arxiv.org/abs/2402.12335v1)|null|
 |**2024-02-19**|**Regularization by denoising: Bayesian model and Langevin-within-split Gibbs sampling**|Elhadji C. Faye et.al.|[2402.12292v1](http://arxiv.org/abs/2402.12292v1)|null|
 |**2024-02-19**|**FOD-Swin-Net: angular super resolution of fiber orientation distribution using a transformer-based deep model**|Mateus Oliveira da Silva et.al.|[2402.11775v1](http://arxiv.org/abs/2402.11775v1)|null|
@@ -1313,6 +1314,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning**|Shaoyu Chen et.al.|[2402.13243v1](http://arxiv.org/abs/2402.13243v1)|null|
+|**2024-02-20**|**Tiny Reinforcement Learning for Quadruped Locomotion using Decision Transformers**|Orhan Eren Akgün et.al.|[2402.13201v1](http://arxiv.org/abs/2402.13201v1)|**[link](https://github.com/dagabo98/dt-quadruped-locomotion)**|
+|**2024-02-20**|**DINOBot: Robot Manipulation via Retrieval and Alignment with Vision Foundation Models**|Norman Di Palo et.al.|[2402.13181v1](http://arxiv.org/abs/2402.13181v1)|null|
+|**2024-02-20**|**Geometric structures on the quaternionic unit ball and slice regular Möbius transformations**|Raul Quiroga-Barranco et.al.|[2402.13175v1](http://arxiv.org/abs/2402.13175v1)|null|
+|**2024-02-20**|**Long-term evolution of solar activity and prediction of the following solar cycles**|Peixin Luo et.al.|[2402.13173v1](http://arxiv.org/abs/2402.13173v1)|null|
+|**2024-02-20**|**OLViT: Multi-Modal State Tracking via Attention-Based Embeddings for Video-Grounded Dialog**|Adnen Abdessaied et.al.|[2402.13146v1](http://arxiv.org/abs/2402.13146v1)|null|
+|**2024-02-20**|**The Hidden Space of Transformer Language Adapters**|Jesujoba O. Alabi et.al.|[2402.13137v1](http://arxiv.org/abs/2402.13137v1)|null|
+|**2024-02-20**|**When Only Time Will Tell: Interpreting How Transformers Process Local Ambiguities Through the Lens of Restart-Incrementality**|Brielen Madureira et.al.|[2402.13113v1](http://arxiv.org/abs/2402.13113v1)|**[link](https://github.com/briemadu/restart-inc-ambiguities)**|
+|**2024-02-20**|**Fast and memory-efficient optimization for large-scale data-driven predictive control**|Philipp Schmitz et.al.|[2402.13090v1](http://arxiv.org/abs/2402.13090v1)|null|
+|**2024-02-20**|**Identifying Semantic Induction Heads to Understand In-Context Learning**|Jie Ren et.al.|[2402.13055v1](http://arxiv.org/abs/2402.13055v1)|null|
+|**2024-02-20**|**SiLLM: Large Language Models for Simultaneous Machine Translation**|Shoutao Guo et.al.|[2402.13036v1](http://arxiv.org/abs/2402.13036v1)|**[link](https://github.com/ictnlp/sillm)**|
+|**2024-02-20**|**Compressing the two-particle Green's function using wavelets: Theory and application to the Hubbard atom**|Emin Moghadas et.al.|[2402.13030v1](http://arxiv.org/abs/2402.13030v1)|null|
+|**2024-02-20**|**Sedimentation dynamics of triply-twisted Möbius bands: Geometry versus topology**|Nicolas Moreno et.al.|[2402.13017v1](http://arxiv.org/abs/2402.13017v1)|null|
+|**2024-02-20**|**Understanding the effects of language-specific class imbalance in multilingual fine-tuning**|Vincent Jung et.al.|[2402.13016v1](http://arxiv.org/abs/2402.13016v1)|**[link](https://github.com/idiap/class-imbalance-multilingual-ft)**|
+|**2024-02-20**|**Sequential unanimity voting rules for binary social choice**|Stergios Athanasoglou et.al.|[2402.13009v1](http://arxiv.org/abs/2402.13009v1)|null|
+|**2024-02-20**|**Investigating the Impact of Model Instability on Explanations and Uncertainty**|Sara Vera Marjanović et.al.|[2402.13006v1](http://arxiv.org/abs/2402.13006v1)|null|
+|**2024-02-20**|**The influence of silicon on the formation and transformation of corrosion products**|Fabio E. Furcas et.al.|[2402.13003v1](http://arxiv.org/abs/2402.13003v1)|null|
+|**2024-02-20**|**Energy-Efficient Wireless Federated Learning via Doubly Adaptive Quantization**|Xuefeng Han et.al.|[2402.12957v1](http://arxiv.org/abs/2402.12957v1)|null|
+|**2024-02-20**|**Conditional Logical Message Passing Transformer for Complex Query Answering**|Chongzhi Zhang et.al.|[2402.12954v1](http://arxiv.org/abs/2402.12954v1)|null|
+|**2024-02-20**|**Cell Graph Transformer for Nuclei Classification**|Wei Lou et.al.|[2402.12946v1](http://arxiv.org/abs/2402.12946v1)|**[link](https://github.com/lhaof/cgt)**|
+|**2024-02-20**|**Inverse problems for semilinear Schrödinger equations at large frequency via polynomial resolvent estimates on manifolds**|Katya Krupchyk et.al.|[2402.12903v1](http://arxiv.org/abs/2402.12903v1)|null|
+|**2024-02-20**|**Transformer-based Learned Image Compression for Joint Decoding and Denoising**|Yi-Hsin Chen et.al.|[2402.12888v1](http://arxiv.org/abs/2402.12888v1)|null|
+|**2024-02-20**|**GRAFFORD: A Benchmark Dataset for Testing the Knowledge of Object Affordances of Language and Vision Models**|Sayantan Adak et.al.|[2402.12881v1](http://arxiv.org/abs/2402.12881v1)|**[link](https://github.com/sayantan11995/affordance)**|
+|**2024-02-20**|**Autism Detection in Speech - A Survey**|Nadine Probol et.al.|[2402.12880v1](http://arxiv.org/abs/2402.12880v1)|null|
+|**2024-02-20**|**Chain of Thought Empowers Transformers to Solve Inherently Serial Problems**|Zhiyuan Li et.al.|[2402.12875v1](http://arxiv.org/abs/2402.12875v1)|null|
+|**2024-02-20**|**Exploring the Impact of Table-to-Text Methods on Augmenting LLM-based Question Answering with Domain Hybrid Data**|Dehai Min et.al.|[2402.12869v1](http://arxiv.org/abs/2402.12869v1)|null|
+|**2024-02-20**|**Backward Lens: Projecting Language Model Gradients into the Vocabulary Space**|Shahar Katz et.al.|[2402.12865v1](http://arxiv.org/abs/2402.12865v1)|null|
+|**2024-02-20**|**MORE-3S:Multimodal-based Offline Reinforcement Learning with Shared Semantic Spaces**|Tianyu Zheng et.al.|[2402.12845v1](http://arxiv.org/abs/2402.12845v1)|**[link](https://github.com/zheng0428/more_)**|
+|**2024-02-20**|**ASCEND: Accurate yet Efficient End-to-End Stochastic Computing Acceleration of Vision Transformer**|Tong Xie et.al.|[2402.12820v1](http://arxiv.org/abs/2402.12820v1)|null|
+|**2024-02-20**|**Quantum fluctuations and unusual critical exponents in a quantum Rabi Triangle**|Xiao Qin et.al.|[2402.12815v1](http://arxiv.org/abs/2402.12815v1)|null|
+|**2024-02-20**|**RhythmFormer: Extracting rPPG Signals Based on Hierarchical Temporal Periodic Transformer**|Bochao Zou et.al.|[2402.12788v1](http://arxiv.org/abs/2402.12788v1)|**[link](https://github.com/zizheng-guo/rhythmformer)**|
+|**2024-02-20**|**Effective field theories for dark matter pairs in the early universe: center-of-mass recoil effects**|Simone Biondini et.al.|[2402.12787v1](http://arxiv.org/abs/2402.12787v1)|null|
+|**2024-02-20**|**Understanding and Mitigating the Threat of Vec2Text to Dense Retrieval Systems**|Shengyao Zhuang et.al.|[2402.12784v1](http://arxiv.org/abs/2402.12784v1)|null|
+|**2024-02-20**|**Interpreting Conversational Dense Retrieval by Rewriting-Enhanced Inversion of Session Embedding**|Yiruo Cheng et.al.|[2402.12774v1](http://arxiv.org/abs/2402.12774v1)|null|
+|**2024-02-20**|**CST: Calibration Side-Tuning for Parameter and Memory Efficient Transfer Learning**|Feng Chen et.al.|[2402.12736v1](http://arxiv.org/abs/2402.12736v1)|null|
+|**2024-02-20**|**Equivariant Pretrained Transformer for Unified Geometric Learning on Multi-Domain 3D Molecules**|Rui Jiao et.al.|[2402.12714v1](http://arxiv.org/abs/2402.12714v1)|null|
+|**2024-02-20**|**Weight Structure of Low/High-Rate Polar Codes and Its Applications**|Mohammad Rowshan et.al.|[2402.12707v1](http://arxiv.org/abs/2402.12707v1)|null|
+|**2024-02-20**|**Distance Recoloring**|Niranka Banerjee et.al.|[2402.12705v1](http://arxiv.org/abs/2402.12705v1)|null|
+|**2024-02-20**|**Quantum Embedding with Transformer for High-dimensional Data**|Hao-Yuan Chen et.al.|[2402.12704v1](http://arxiv.org/abs/2402.12704v1)|null|
+|**2024-02-20**|**wmh_seg: Transformer based U-Net for Robust and Automatic White Matter Hyperintensity Segmentation across 1.5T, 3T and 7T**|Jinghang Li et.al.|[2402.12701v1](http://arxiv.org/abs/2402.12701v1)|null|
+|**2024-02-20**|**Tree-Planted Transformers: Large Language Models with Implicit Syntactic Supervision**|Ryo Yoshida et.al.|[2402.12691v1](http://arxiv.org/abs/2402.12691v1)|null|
+|**2024-02-20**|**Pre-trained Transformer-Enabled Strategies with Human-Guided Fine-Tuning for End-to-end Navigation of Autonomous Vehicles**|Dong Hu et.al.|[2402.12666v1](http://arxiv.org/abs/2402.12666v1)|null|
+|**2024-02-20**|**SingVisio: Visual Analytics of Diffusion Model for Singing Voice Conversion**|Liumeng Xue et.al.|[2402.12660v1](http://arxiv.org/abs/2402.12660v1)|null|
+|**2024-02-20**|**The FinBen: An Holistic Financial Benchmark for Large Language Models**|Qianqian Xie et.al.|[2402.12659v1](http://arxiv.org/abs/2402.12659v1)|null|
+|**2024-02-20**|**PDEformer: Towards a Foundation Model for One-Dimensional Partial Differential Equations**|Zhanhong Ye et.al.|[2402.12652v1](http://arxiv.org/abs/2402.12652v1)|null|
+|**2024-02-20**|**Optimal PSPACE-hardness of Approximating Set Cover Reconfiguration**|Shuichi Hirahara et.al.|[2402.12645v1](http://arxiv.org/abs/2402.12645v1)|null|
+|**2024-02-20**|**YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection**|Xiaoyu Tang et.al.|[2402.12641v1](http://arxiv.org/abs/2402.12641v1)|**[link](https://github.com/scnu-rislab/yolo-ant)**|
+|**2024-02-20**|**Invertibility of local geodesic transverse and mixed ray transforms II: higher order tensors**|Gunther Uhlmann et.al.|[2402.12640v1](http://arxiv.org/abs/2402.12640v1)|null|
+|**2024-02-20**|**Nonlocal Symmetries of Two 2-component Equations of Camassa-Holm Type**|Ziqi Li et.al.|[2402.12618v1](http://arxiv.org/abs/2402.12618v1)|null|
+|**2024-02-19**|**On the Disentanglement of Tube Inequalities in Concentric Tube Continuum Robots**|Reinhard M. Grassmann et.al.|[2402.12587v1](http://arxiv.org/abs/2402.12587v1)|null|
 |**2024-02-19**|**FiT: Flexible Vision Transformer for Diffusion Model**|Zeyu Lu et.al.|[2402.12376v1](http://arxiv.org/abs/2402.12376v1)|**[link](https://github.com/whlzy/fit)**|
 |**2024-02-19**|**Universal Physics Transformers**|Benedikt Alkin et.al.|[2402.12365v1](http://arxiv.org/abs/2402.12365v1)|null|
 |**2024-02-19**|**Nonlinear Discrete-Time Observers with Physics-Informed Neural Networks**|Hector Vargas Alvarez et.al.|[2402.12360v1](http://arxiv.org/abs/2402.12360v1)|null|
