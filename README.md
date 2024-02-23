@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**Generative Adversarial Models for Extreme Downscaling of Climate Datasets**|Guiye Li et.al.|[2402.14049v1](http://arxiv.org/abs/2402.14049v1)|null|
 |**2024-02-21**|**Scene Prior Filtering for Depth Map Super-Resolution**|Zhengxue Wang et.al.|[2402.13876v1](http://arxiv.org/abs/2402.13876v1)|null|
 |**2024-02-21**|**Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion**|Lianghu Guo et.al.|[2402.13776v1](http://arxiv.org/abs/2402.13776v1)|null|
 |**2024-02-20**|**Diffusion Posterior Sampling is Computationally Intractable**|Shivam Gupta et.al.|[2402.12727v1](http://arxiv.org/abs/2402.12727v1)|null|
@@ -1316,6 +1317,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817v1](http://arxiv.org/abs/2402.14817v1)|null|
+|**2024-02-22**|**Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis**|Willi Menapace et.al.|[2402.14797v1](http://arxiv.org/abs/2402.14797v1)|null|
+|**2024-02-22**|**Expectation Values of Conserved Charges in Integrable Quantum Field Theories out of Thermal Equilibrium**|Michele Mazzoni et.al.|[2402.14788v1](http://arxiv.org/abs/2402.14788v1)|null|
+|**2024-02-22**|**2D Matryoshka Sentence Embeddings**|Xianming Li et.al.|[2402.14776v1](http://arxiv.org/abs/2402.14776v1)|null|
+|**2024-02-22**|**Summing the "exactly one 42" and similar subsums of the harmonic series**|Jean-François Burnol et.al.|[2402.14761v1](http://arxiv.org/abs/2402.14761v1)|null|
+|**2024-02-22**|**Prompting a Pretrained Transformer Can Be a Universal Approximator**|Aleksandar Petrov et.al.|[2402.14753v1](http://arxiv.org/abs/2402.14753v1)|null|
+|**2024-02-22**|**Zero-Shot Pediatric Tuberculosis Detection in Chest X-Rays using Self-Supervised Learning**|Daniel Capellán-Martín et.al.|[2402.14741v1](http://arxiv.org/abs/2402.14741v1)|null|
+|**2024-02-22**|**How Transformers Learn Causal Structure with Gradient Descent**|Eshaan Nichani et.al.|[2402.14735v1](http://arxiv.org/abs/2402.14735v1)|null|
+|**2024-02-22**|**Lefschetz operators on convex valuations**|Leo Brauner et.al.|[2402.14731v1](http://arxiv.org/abs/2402.14731v1)|null|
+|**2024-02-22**|**A Transformer Model for Boundary Detection in Continuous Sign Language**|Razieh Rastgoo et.al.|[2402.14720v1](http://arxiv.org/abs/2402.14720v1)|null|
+|**2024-02-22**|**Balanced Truncation of Descriptor Systems with a Quadratic Output**|Jennifer Przybilla et.al.|[2402.14716v1](http://arxiv.org/abs/2402.14716v1)|null|
+|**2024-02-22**|**Deep Learning Models for Conditioning Extremely Noisy Signals**|Andrea Faúndez Quezada et.al.|[2402.14713v1](http://arxiv.org/abs/2402.14713v1)|null|
+|**2024-02-22**|**On Schrödingerization based quantum algorithms for linear dynamical systems with inhomogeneous terms**|S. Jin et.al.|[2402.14696v1](http://arxiv.org/abs/2402.14696v1)|null|
+|**2024-02-22**|**Multi-HMR: Multi-Person Whole-Body Human Mesh Recovery in a Single Shot**|Fabien Baradel et.al.|[2402.14654v1](http://arxiv.org/abs/2402.14654v1)|**[link](https://github.com/naver/multi-hmr)**|
+|**2024-02-22**|**Structure and thermodynamics of defects in Na-feldspar from a neural network potential**|Alexander Gorfer et.al.|[2402.14640v1](http://arxiv.org/abs/2402.14640v1)|null|
+|**2024-02-22**|**LNoS: Lithium Niobate on Silicon Spatial Light Modulator**|Sivan Trajtenberg-Mills et.al.|[2402.14608v1](http://arxiv.org/abs/2402.14608v1)|null|
+|**2024-02-22**|**How do digital threats change requirements for the software industry?**|Veikko Halttunen et.al.|[2402.14588v1](http://arxiv.org/abs/2402.14588v1)|null|
+|**2024-02-22**|**Transformable Gaussian Reward Function for Socially-Aware Navigation with Deep Reinforcement Learning**|Jinyeob Kim et.al.|[2402.14569v1](http://arxiv.org/abs/2402.14569v1)|**[link](https://github.com/jinnnk/tgrf)**|
+|**2024-02-22**|**Non-Contact Acquisition of PPG Signal using Chest Movement-Modulated Radio Signals**|Israel Jesus Santos Filho et.al.|[2402.14565v1](http://arxiv.org/abs/2402.14565v1)|null|
+|**2024-02-22**|**LLMs with Industrial Lens: Deciphering the Challenges and Prospects -- A Survey**|Ashok Urlana et.al.|[2402.14558v1](http://arxiv.org/abs/2402.14558v1)|null|
+|**2024-02-22**|**Transforming Norm-based To Graph-based Spatial Representation for Spatio-Temporal Epidemiological Models**|Teddy Lazebnik et.al.|[2402.14539v1](http://arxiv.org/abs/2402.14539v1)|null|
+|**2024-02-22**|**Auxiliary Calculations for Graphene-Based Quantum Hall Arrays Using Partially Recursive Star-Mesh Transformations**|Dominick S. Scaletta et.al.|[2402.14520v1](http://arxiv.org/abs/2402.14520v1)|null|
+|**2024-02-22**|**Spectral invariance and maximality properties of the frequency spectrum of quantum neural networks**|Patrick Holzer et.al.|[2402.14515v1](http://arxiv.org/abs/2402.14515v1)|null|
+|**2024-02-22**|**Understanding Human-AI Collaboration in Music Therapy Through Co-Design with Therapists**|Jingjing Sun et.al.|[2402.14503v1](http://arxiv.org/abs/2402.14503v1)|null|
+|**2024-02-22**|**Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation**|Jiajie Su et.al.|[2402.14473v1](http://arxiv.org/abs/2402.14473v1)|**[link](https://github.com/tiliaceaesu/pbat)**|
+|**2024-02-22**|**S^2Former-OR: Single-Stage Bimodal Transformer for Scene Graph Generation in OR**|Jialun Pei et.al.|[2402.14461v1](http://arxiv.org/abs/2402.14461v1)|null|
+|**2024-02-22**|**Transferring BERT Capabilities from High-Resource to Low-Resource Languages Using Vocabulary Matching**|Piotr Rybak et.al.|[2402.14408v1](http://arxiv.org/abs/2402.14408v1)|null|
+|**2024-02-22**|**Diffusion Model Based Visual Compensation Guidance and Visual Difference Analysis for No-Reference Image Quality Assessment**|Zhaoyang Wang et.al.|[2402.14401v1](http://arxiv.org/abs/2402.14401v1)|null|
+|**2024-02-22**|**Workspace Analysis for Laparoscopic Rectal Surgery : A Preliminary Study**|Alexandra Thomieres et.al.|[2402.14386v1](http://arxiv.org/abs/2402.14386v1)|null|
+|**2024-02-22**|**RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation**|Changsong Pang et.al.|[2402.14380v1](http://arxiv.org/abs/2402.14380v1)|null|
+|**2024-02-22**|**Novi jezički modeli za srpski jezik**|Mihailo Škorić et.al.|[2402.14379v1](http://arxiv.org/abs/2402.14379v1)|null|
+|**2024-02-22**|**Uniform large-area surface patterning achieved by metal dewetting for the top-down fabrication of GaN nanowire ensembles**|Jingxuan Kang et.al.|[2402.14375v1](http://arxiv.org/abs/2402.14375v1)|null|
+|**2024-02-22**|**Time-domain programmable beam-splitter operations for an optical phase-sensitive non-Gaussian state**|Daichi Okuno et.al.|[2402.14372v1](http://arxiv.org/abs/2402.14372v1)|null|
+|**2024-02-22**|**Non-integrability of the rational Sasano system of type  $A^{(2)}_4$ **|Tsvetana Stoyanova et.al.|[2402.14351v1](http://arxiv.org/abs/2402.14351v1)|null|
+|**2024-02-22**|**An Error-Matching Exclusion Method for Accelerating Visual SLAM**|Shaojie Zhang et.al.|[2402.14345v1](http://arxiv.org/abs/2402.14345v1)|null|
+|**2024-02-22**|**Subobject-level Image Tokenization**|Delong Chen et.al.|[2402.14327v1](http://arxiv.org/abs/2402.14327v1)|**[link](https://github.com/chendelong1999/subobjects)**|
+|**2024-02-22**|**Learning to Kern -- Set-wise Estimation of Optimal Letter Space**|Kei Nakatsuru et.al.|[2402.14313v1](http://arxiv.org/abs/2402.14313v1)|null|
+|**2024-02-22**|**An FPGA-Based Accelerator Enabling Efficient Support for CNNs with Arbitrary Kernel Sizes**|Miaoxin Wang et.al.|[2402.14307v1](http://arxiv.org/abs/2402.14307v1)|null|
+|**2024-02-22**|**Extention of Bagging MARS with Group LASSO for Heterogeneous Treatment Effect Estimation**|Guanwenqing He et.al.|[2402.14282v1](http://arxiv.org/abs/2402.14282v1)|null|
+|**2024-02-22**|**Unexpected versatile electrical transport behaviors of ferromagnetic nickel films**|Kai-Xuan Zhang et.al.|[2402.14275v1](http://arxiv.org/abs/2402.14275v1)|null|
+|**2024-02-22**|**Distributed Partial Quantum Consensus of Qubit Networks with Connected Topologies**|Xin Jin et.al.|[2402.14256v1](http://arxiv.org/abs/2402.14256v1)|null|
+|**2024-02-22**|**A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**|Chengzhang Yu et.al.|[2402.14241v1](http://arxiv.org/abs/2402.14241v1)|null|
+|**2024-02-22**|**On Gibbs Equilibrium and Hillert Nonequilibrium Thermodynamics**|Zi-Kui Liu et.al.|[2402.14231v1](http://arxiv.org/abs/2402.14231v1)|null|
+|**2024-02-22**|**Inclined junction in monolayer graphene: A gateway toward tailoring valley polarization of Dirac fermions**|Shrushti Tapar et.al.|[2402.14210v1](http://arxiv.org/abs/2402.14210v1)|null|
+|**2024-02-22**|**Compression Robust Synthetic Speech Detection Using Patched Spectrogram Transformer**|Amit Kumar Singh Yadav et.al.|[2402.14205v1](http://arxiv.org/abs/2402.14205v1)|null|
+|**2024-02-22**|**Comparing Graph Transformers via Positional Encodings**|Mitchell Black et.al.|[2402.14202v1](http://arxiv.org/abs/2402.14202v1)|null|
+|**2024-02-22**|**Towards Understanding Counseling Conversations: Domain Knowledge and Large Language Models**|Younghun Lee et.al.|[2402.14200v1](http://arxiv.org/abs/2402.14200v1)|null|
+|**2024-02-22**|**BeTAIL: Behavior Transformer Adversarial Imitation Learning from Human Racing Gameplay**|Catherine Weaver et.al.|[2402.14194v1](http://arxiv.org/abs/2402.14194v1)|null|
+|**2024-02-22**|**On Organizational Principles of Neural Systems**|Xin Li et.al.|[2402.14186v1](http://arxiv.org/abs/2402.14186v1)|null|
+|**2024-02-22**|**HINT: High-quality INPainting Transformer with Mask-Aware Encoding and Enhanced Attention**|Shuang Chen et.al.|[2402.14185v1](http://arxiv.org/abs/2402.14185v1)|**[link](https://github.com/chrischen1023/hint)**|
 |**2024-02-21**|**Hallucinations or Attention Misdirection? The Path to Strategic Value Extraction in Business Using Large Language Models**|Aline Ioste et.al.|[2402.14002v1](http://arxiv.org/abs/2402.14002v1)|null|
 |**2024-02-21**|**Relative entropy and modulated free energy without confinement via self-similar transformation**|Matthew Rosenzweig et.al.|[2402.13977v1](http://arxiv.org/abs/2402.13977v1)|null|
 |**2024-02-21**|**Advancing Audio Fingerprinting Accuracy Addressing Background Noise and Distortion Challenges**|Navin Kamuni et.al.|[2402.13957v1](http://arxiv.org/abs/2402.13957v1)|null|
@@ -14911,6 +14962,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**HINT: High-quality INPainting Transformer with Mask-Aware Encoding and Enhanced Attention**|Shuang Chen et.al.|[2402.14185v1](http://arxiv.org/abs/2402.14185v1)|**[link](https://github.com/chrischen1023/hint)**|
 |**2024-02-08**|**Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**|Shijun Liang et.al.|[2402.04097v2](http://arxiv.org/abs/2402.04097v2)|null|
 |**2024-02-05**|**Panoramic Image Inpainting With Gated Convolution And Contextual Reconstruction Loss**|Li Yu et.al.|[2402.02936v1](http://arxiv.org/abs/2402.02936v1)|null|
 |**2024-01-30**|**Krasnoselskii-Mann Iterations: Inertia, Perturbations and Approximation**|Daniel Cortild et.al.|[2401.16870v1](http://arxiv.org/abs/2401.16870v1)|null|
