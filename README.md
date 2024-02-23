@@ -875,7 +875,7 @@
 |**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877v1](http://arxiv.org/abs/2401.00877v1)|**[link](https://github.com/csslc/ccsr)**|
 |**2024-01-01**|**Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2401.00740v1](http://arxiv.org/abs/2401.00740v1)|null|
 |**2024-02-06**|**Diffusion Models, Image Super-Resolution And Everything: A Survey**|Brian B. Moser et.al.|[2401.00736v2](http://arxiv.org/abs/2401.00736v2)|null|
-|**2023-12-31**|**Compressing Deep Image Super-resolution Models**|Yuxuan Jiang et.al.|[2401.00523v1](http://arxiv.org/abs/2401.00523v1)|null|
+|**2024-02-21**|**Compressing Deep Image Super-resolution Models**|Yuxuan Jiang et.al.|[2401.00523v2](http://arxiv.org/abs/2401.00523v2)|null|
 |**2024-01-16**|**Image Super-resolution Reconstruction Network based on Enhanced Swin Transformer via Alternating Aggregation of Local-Global Features**|Yuming Huang et.al.|[2401.00241v2](http://arxiv.org/abs/2401.00241v2)|null|
 |**2023-12-29**|**Noise-free Optimization in Early Training Steps for Image Super-Resolution**|MinKyu Lee et.al.|[2312.17526v1](http://arxiv.org/abs/2312.17526v1)|**[link](https://github.com/2minkyulee/eco)**|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
@@ -1336,7 +1336,7 @@
 |**2024-02-21**|**MSTAR: Multi-Scale Backbone Architecture Search for Timeseries Classification**|Tue M. Cao et.al.|[2402.13822v1](http://arxiv.org/abs/2402.13822v1)|null|
 |**2024-02-21**|**Filtrations on derived category of twisted K3 surfaces**|Zhiyuan Li et.al.|[2402.13793v1](http://arxiv.org/abs/2402.13793v1)|null|
 |**2024-02-21**|**Contextual Molecule Representation Learning from Chemical Reaction Knowledge**|Han Tang et.al.|[2402.13779v1](http://arxiv.org/abs/2402.13779v1)|null|
-|**2024-02-21**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777v1](http://arxiv.org/abs/2402.13777v1)|null|
+|**2024-02-22**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777v2](http://arxiv.org/abs/2402.13777v2)|null|
 |**2024-02-21**|**Multi-step topological transitions among meron and skyrmion crystals in a centrosymmetric magnet**|H. Yoshimochi et.al.|[2402.13751v1](http://arxiv.org/abs/2402.13751v1)|null|
 |**2024-02-21**|**On optimal error rates for strong approximation of SDEs with a drift coefficient of fractional Sobolev regularity**|Simon Ellinger et.al.|[2402.13732v1](http://arxiv.org/abs/2402.13732v1)|null|
 |**2024-02-21**|**Sparse and Structured Hopfield Networks**|Saul Santos et.al.|[2402.13725v1](http://arxiv.org/abs/2402.13725v1)|**[link](https://github.com/deep-spin/sshn)**|
@@ -1357,15 +1357,15 @@
 |**2024-02-21**|**FinGPT-HPC: Efficient Pretraining and Finetuning Large Language Models for Financial Applications with High-Performance Computing**|Xiao-Yang Liu et.al.|[2402.13533v1](http://arxiv.org/abs/2402.13533v1)|null|
 |**2024-02-21**|**RITFIS: Robust input testing framework for LLMs-based intelligent software**|Mingxuan Xiao et.al.|[2402.13518v1](http://arxiv.org/abs/2402.13518v1)|null|
 |**2024-02-21**|**From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers**|M. Emrullah Ildiz et.al.|[2402.13512v1](http://arxiv.org/abs/2402.13512v1)|null|
-|**2024-02-21**|**Mel-FullSubNet: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR**|Rui Zhou et.al.|[2402.13511v1](http://arxiv.org/abs/2402.13511v1)|null|
+|**2024-02-22**|**Mel-FullSubNet: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR**|Rui Zhou et.al.|[2402.13511v2](http://arxiv.org/abs/2402.13511v2)|null|
 |**2024-02-21**|**Multi-scale Spatio-temporal Transformer-based Imbalanced Longitudinal Learning for Glaucoma Forecasting from Irregular Time Series Images**|Xikai Yang et.al.|[2402.13475v1](http://arxiv.org/abs/2402.13475v1)|null|
 |**2024-02-21**|**CAMELoT: Towards Large Language Models with Training-Free Consolidated Associative Memory**|Zexue He et.al.|[2402.13449v1](http://arxiv.org/abs/2402.13449v1)|null|
 |**2024-02-20**|**Everything You Always Wanted to Know About Storage Compressibility of Pre-Trained ML Models but Were Afraid to Ask**|Zhaoyuan Su et.al.|[2402.13429v1](http://arxiv.org/abs/2402.13429v1)|null|
 |**2024-02-20**|**An efficient finite element method for computing the response of a strain-limiting elastic solid containing a v-notch and inclusions**|Shylaja G. et.al.|[2402.13409v1](http://arxiv.org/abs/2402.13409v1)|null|
 |**2024-02-20**|**Hot Subdwarfs in Close Binaries Observed from Space III: Reflection Effect Asymmetry Induced by Relativistic Beaming**|Brad N. Barlow et.al.|[2402.13396v1](http://arxiv.org/abs/2402.13396v1)|null|
-|**2024-02-20**|**Transformer tricks: Precomputing the first layer**|Nils Graef et.al.|[2402.13388v1](http://arxiv.org/abs/2402.13388v1)|null|
+|**2024-02-22**|**Transformer tricks: Precomputing the first layer**|Nils Graef et.al.|[2402.13388v2](http://arxiv.org/abs/2402.13388v2)|null|
 |**2024-02-20**|**Toward TransfORmers: Revolutionizing the Solution of Mixed Integer Programs with Transformers**|Joshua F. Cooper et.al.|[2402.13380v1](http://arxiv.org/abs/2402.13380v1)|null|
-|**2024-02-20**|**KetGPT -- Dataset Augmentation of Quantum Circuits using Transformers**|Boran Apak et.al.|[2402.13352v1](http://arxiv.org/abs/2402.13352v1)|null|
+|**2024-02-22**|**KetGPT -- Dataset Augmentation of Quantum Circuits using Transformers**|Boran Apak et.al.|[2402.13352v2](http://arxiv.org/abs/2402.13352v2)|null|
 |**2024-02-20**|**VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning**|Shaoyu Chen et.al.|[2402.13243v1](http://arxiv.org/abs/2402.13243v1)|null|
 |**2024-02-20**|**Tiny Reinforcement Learning for Quadruped Locomotion using Decision Transformers**|Orhan Eren Akgün et.al.|[2402.13201v1](http://arxiv.org/abs/2402.13201v1)|**[link](https://github.com/dagabo98/dt-quadruped-locomotion)**|
 |**2024-02-20**|**DINOBot: Robot Manipulation via Retrieval and Alignment with Vision Foundation Models**|Norman Di Palo et.al.|[2402.13181v1](http://arxiv.org/abs/2402.13181v1)|null|
