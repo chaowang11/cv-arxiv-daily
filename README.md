@@ -24,7 +24,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-21**|**Generative Adversarial Models for Extreme Downscaling of Climate Datasets**|Guiye Li et.al.|[2402.14049v1](http://arxiv.org/abs/2402.14049v1)|null|
-|**2024-02-21**|**Scene Prior Filtering for Depth Map Super-Resolution**|Zhengxue Wang et.al.|[2402.13876v1](http://arxiv.org/abs/2402.13876v1)|null|
+|**2024-02-23**|**Scene Prior Filtering for Depth Map Super-Resolution**|Zhengxue Wang et.al.|[2402.13876v2](http://arxiv.org/abs/2402.13876v2)|null|
 |**2024-02-21**|**Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion**|Lianghu Guo et.al.|[2402.13776v1](http://arxiv.org/abs/2402.13776v1)|null|
 |**2024-02-20**|**Diffusion Posterior Sampling is Computationally Intractable**|Shivam Gupta et.al.|[2402.12727v1](http://arxiv.org/abs/2402.12727v1)|null|
 |**2024-02-19**|**Image Super-resolution Inspired Electron Density Prediction**|Chenghan Li et.al.|[2402.12335v1](http://arxiv.org/abs/2402.12335v1)|null|
@@ -1347,7 +1347,7 @@
 |**2024-02-22**|**Diffusion Model Based Visual Compensation Guidance and Visual Difference Analysis for No-Reference Image Quality Assessment**|Zhaoyang Wang et.al.|[2402.14401v1](http://arxiv.org/abs/2402.14401v1)|null|
 |**2024-02-22**|**Workspace Analysis for Laparoscopic Rectal Surgery : A Preliminary Study**|Alexandra Thomieres et.al.|[2402.14386v1](http://arxiv.org/abs/2402.14386v1)|null|
 |**2024-02-22**|**RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation**|Changsong Pang et.al.|[2402.14380v1](http://arxiv.org/abs/2402.14380v1)|null|
-|**2024-02-22**|**Novi jezički modeli za srpski jezik**|Mihailo Škorić et.al.|[2402.14379v1](http://arxiv.org/abs/2402.14379v1)|null|
+|**2024-02-23**|**Novi jezički modeli za srpski jezik**|Mihailo Škorić et.al.|[2402.14379v2](http://arxiv.org/abs/2402.14379v2)|null|
 |**2024-02-22**|**Uniform large-area surface patterning achieved by metal dewetting for the top-down fabrication of GaN nanowire ensembles**|Jingxuan Kang et.al.|[2402.14375v1](http://arxiv.org/abs/2402.14375v1)|null|
 |**2024-02-22**|**Time-domain programmable beam-splitter operations for an optical phase-sensitive non-Gaussian state**|Daichi Okuno et.al.|[2402.14372v1](http://arxiv.org/abs/2402.14372v1)|null|
 |**2024-02-22**|**Non-integrability of the rational Sasano system of type  $A^{(2)}_4$ **|Tsvetana Stoyanova et.al.|[2402.14351v1](http://arxiv.org/abs/2402.14351v1)|null|
