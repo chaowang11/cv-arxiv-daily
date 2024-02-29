@@ -1366,7 +1366,7 @@
 |**2024-02-27**|**Why do Learning Rates Transfer? Reconciling Optimization and Scaling Limits for Deep Learning**|Lorenzo Noci et.al.|[2402.17457v1](http://arxiv.org/abs/2402.17457v1)|null|
 |**2024-02-27**|**Deep Learning Based Named Entity Recognition Models for Recipes**|Mansi Goel et.al.|[2402.17447v1](http://arxiv.org/abs/2402.17447v1)|null|
 |**2024-02-27**|**Duality between Seiberg-Witten Theory and Black Hole Superradiance**|Xian-Hui Ge et.al.|[2402.17441v1](http://arxiv.org/abs/2402.17441v1)|null|
-|**2024-02-27**|**ViTaL: An Advanced Framework for Automated Plant Disease Identification in Leaf Images Using Vision Transformers and Linear Projection For Feature Reduction**|Abhishek Sebastian et.al.|[2402.17424v1](http://arxiv.org/abs/2402.17424v1)|null|
+|**2024-02-28**|**ViTaL: An Advanced Framework for Automated Plant Disease Identification in Leaf Images Using Vision Transformers and Linear Projection For Feature Reduction**|Abhishek Sebastian et.al.|[2402.17424v2](http://arxiv.org/abs/2402.17424v2)|null|
 |**2024-02-27**|**A novel image space formalism of Fourier domain interpolation neural networks for noise propagation analysis**|Peter Dawood et.al.|[2402.17410v1](http://arxiv.org/abs/2402.17410v1)|null|
 |**2024-02-27**|**LSPT: Long-term Spatial Prompt Tuning for Visual Representation Learning**|Shentong Mo et.al.|[2402.17406v1](http://arxiv.org/abs/2402.17406v1)|null|
 |**2024-02-27**|**Sora Generates Videos with Stunning Geometrical Consistency**|Xuanyi Li et.al.|[2402.17403v1](http://arxiv.org/abs/2402.17403v1)|null|
