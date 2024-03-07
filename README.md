@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Identifying Black Holes Through Space Telescopes and Deep Learning**|Yeqi Fang et.al.|[2403.03821v1](http://arxiv.org/abs/2403.03821v1)|null|
 |**2024-03-05**|**Low-Res Leads the Way: Improving Generalization for Super-Resolution by Self-Supervised Learning**|Haoyu Chen et.al.|[2403.02601v1](http://arxiv.org/abs/2403.02601v1)|null|
 |**2024-03-04**|**UB-FineNet: Urban Building Fine-grained Classification Network for Open-access Satellite Images**|Zhiyi He et.al.|[2403.02132v1](http://arxiv.org/abs/2403.02132v1)|null|
 |**2024-03-03**|**APISR: Anime Production Inspired Real-World Anime Super-Resolution**|Boyang Wang et.al.|[2403.01598v1](http://arxiv.org/abs/2403.01598v1)|**[link](https://github.com/kiteretsu77/apisr)**|
@@ -1356,6 +1357,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Stop Regressing: Training Value Functions via Classification for Scalable Deep RL**|Jesse Farebrother et.al.|[2403.03950v1](http://arxiv.org/abs/2403.03950v1)|null|
+|**2024-03-06**|**Extreme Precipitation Nowcasting using Transformer-based Generative Models**|Cristian Meo et.al.|[2403.03929v1](http://arxiv.org/abs/2403.03929v1)|null|
+|**2024-03-06**|**Enhancing Instructional Quality: Leveraging Computer-Assisted Textual Analysis to Generate In-Depth Insights from Educational Artifacts**|Zewei Tian et.al.|[2403.03920v1](http://arxiv.org/abs/2403.03920v1)|null|
+|**2024-03-06**|**Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**|Chengkai Liu et.al.|[2403.03900v1](http://arxiv.org/abs/2403.03900v1)|null|
+|**2024-03-06**|**Joint multi-task learning improves weakly-supervised biomarker prediction in computational pathology**|Omar S. M. El Nahhas et.al.|[2403.03891v1](http://arxiv.org/abs/2403.03891v1)|**[link](https://github.com/avic3nna/joint-mtl-cpath)**|
+|**2024-03-06**|**Graph neural network outputs are almost surely asymptotically constant**|Sam Adam-Day et.al.|[2403.03880v1](http://arxiv.org/abs/2403.03880v1)|**[link](https://github.com/benfinkelshtein/gnn-asymptotically-constant)**|
+|**2024-03-06**|**Redefining cystoscopy with ai: bladder cancer diagnosis using an efficient hybrid cnn-transformer model**|Meryem Amaouche et.al.|[2403.03879v1](http://arxiv.org/abs/2403.03879v1)|null|
+|**2024-03-06**|**The algebra  $\mathcal{D}(W)$  via strong Darboux transformations**|Ignacio Bono Parisi et.al.|[2403.03873v1](http://arxiv.org/abs/2403.03873v1)|null|
+|**2024-03-06**|**MedMamba: Vision Mamba for Medical Image Classification**|Yubiao Yue et.al.|[2403.03849v1](http://arxiv.org/abs/2403.03849v1)|**[link](https://github.com/YubiaoYue/MedMamba)**|
+|**2024-03-06**|**Feature Selection as Deep Sequential Generative Learning**|Wangyang Ying et.al.|[2403.03838v1](http://arxiv.org/abs/2403.03838v1)|null|
+|**2024-03-06**|**Quantitative estimates: How well does the discrete Fourier transform approximate the Fourier transform on  $\mathbb{R}$ **|Martin Ehler et.al.|[2403.03810v1](http://arxiv.org/abs/2403.03810v1)|null|
+|**2024-03-06**|**Impact of baryonic feedback on HSC Y1 weak lensing non-Gaussian statistics**|Daniela Grandón et.al.|[2403.03807v1](http://arxiv.org/abs/2403.03807v1)|null|
+|**2024-03-06**|**Inequalities and bounds for expected order statistics from transform-ordered families**|Tommaso Lando Idir Arab et.al.|[2403.03802v1](http://arxiv.org/abs/2403.03802v1)|null|
+|**2024-03-06**|**Recovering orthogonality from quasi-nature of Spectral transformations**|Vikash Kumar et.al.|[2403.03789v1](http://arxiv.org/abs/2403.03789v1)|null|
+|**2024-03-06**|**Joint Sparsity Pattern Learning Based Channel Estimation for Massive MIMO-OTFS Systems**|Kuo Meng et.al.|[2403.03771v1](http://arxiv.org/abs/2403.03771v1)|null|
+|**2024-03-06**|**Parameterized quantum comb and simpler circuits for reversing unknown qubit-unitary operations**|Yin Mo et.al.|[2403.03761v1](http://arxiv.org/abs/2403.03761v1)|null|
+|**2024-03-06**|**A new pairwise boost quantum number from celestial states**|Francesco Alessio et.al.|[2403.03760v1](http://arxiv.org/abs/2403.03760v1)|null|
+|**2024-03-06**|**Relativization in naturally functorial**|Jan Głowacki et.al.|[2403.03755v1](http://arxiv.org/abs/2403.03755v1)|null|
+|**2024-03-06**|**A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network**|Ruichen Ma et.al.|[2403.03739v1](http://arxiv.org/abs/2403.03739v1)|**[link](https://github.com/ruichen0424/ab-bnn)**|
+|**2024-03-06**|**Probabilistic Topic Modelling with Transformer Representations**|Arik Reuter et.al.|[2403.03737v1](http://arxiv.org/abs/2403.03737v1)|**[link](https://github.com/arikreuter/tntm)**|
+|**2024-03-06**|**Unifying Generation and Compression: Ultra-low bitrate Image Coding Via Multi-stage Transformer**|Naifu Xue et.al.|[2403.03736v1](http://arxiv.org/abs/2403.03736v1)|null|
+|**2024-03-06**|**Diffusion on language model embeddings for protein sequence generation**|Viacheslav Meshchaninov et.al.|[2403.03726v1](http://arxiv.org/abs/2403.03726v1)|null|
+|**2024-03-06**|**Is Distance Correlation Robust?**|Sarah Leyder et.al.|[2403.03722v1](http://arxiv.org/abs/2403.03722v1)|null|
+|**2024-03-06**|**Multimodal Transformer for Comics Text-Cloze**|Emanuele Vivoli et.al.|[2403.03719v1](http://arxiv.org/abs/2403.03719v1)|null|
+|**2024-03-06**|**Density in the half-line Schwartz space of functions whose Fourier-Laplace transform has natural boundary the real line**|Andreas Chatziafratis et.al.|[2403.03718v1](http://arxiv.org/abs/2403.03718v1)|null|
+|**2024-03-06**|**Model Parallelism on Distributed Infrastructure: A Literature Review from Theory to LLM Case-Studies**|Felix Brakel et.al.|[2403.03699v1](http://arxiv.org/abs/2403.03699v1)|null|
+|**2024-03-06**|**Spectral Phase Transition and Optimal PCA in Block-Structured Spiked models**|Pierre Mergny et.al.|[2403.03695v1](http://arxiv.org/abs/2403.03695v1)|null|
+|**2024-03-06**|**MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition**|Yufan Chen et.al.|[2403.03691v1](http://arxiv.org/abs/2403.03691v1)|**[link](https://github.com/cyf2000127/molnextr)**|
+|**2024-03-06**|**The use of next-generation sequencing in personalized medicine**|Liya Popova et.al.|[2403.03688v1](http://arxiv.org/abs/2403.03688v1)|null|
+|**2024-03-06**|**A practical and efficient approach for Bayesian reservoir inversion: Insights from the Alvheim field data**|Karen S Auestad et.al.|[2403.03656v1](http://arxiv.org/abs/2403.03656v1)|null|
+|**2024-03-06**|**The elementary theory of the 2-category of small categories**|Calum Hughes et.al.|[2403.03647v1](http://arxiv.org/abs/2403.03647v1)|null|
+|**2024-03-06**|**Online Photon Guiding with 3D Gaussians for Caustics Rendering**|Jiawei Huang et.al.|[2403.03641v1](http://arxiv.org/abs/2403.03641v1)|null|
+|**2024-03-06**|**Processing Load Allocation of On-Board Multi-User Detection for Payload-Constrained Satellite Networks**|Sirui Miao et.al.|[2403.03635v1](http://arxiv.org/abs/2403.03635v1)|null|
+|**2024-03-06**|**An expansion formula for elliptic hypergeometric series**|Gaurav Bhatnagar et.al.|[2403.03623v1](http://arxiv.org/abs/2403.03623v1)|null|
+|**2024-03-06**|**Fast spectroscopic imaging using extreme ultraviolet interferometry**|Hannah C. Strauch et.al.|[2403.03620v1](http://arxiv.org/abs/2403.03620v1)|null|
+|**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611v1](http://arxiv.org/abs/2403.03611v1)|null|
+|**2024-03-06**|**Enhancing Price Prediction in Cryptocurrency Using Transformer Neural Network and Technical Indicators**|Mohammad Ali Labbaf Khaniki et.al.|[2403.03606v1](http://arxiv.org/abs/2403.03606v1)|null|
+|**2024-03-06**|**Time-dependent scalings and Fock quantization of a massless scalar field in Kantowski-Sachs**|Jerónimo Cortez et.al.|[2403.03601v1](http://arxiv.org/abs/2403.03601v1)|null|
+|**2024-03-06**|**The 'Must Stock' Challenge in Academic Publishing: Pricing Implications of Transformative Agreements**|W. Benedikt Schmal et.al.|[2403.03597v1](http://arxiv.org/abs/2403.03597v1)|null|
+|**2024-03-06**|**DeepEclipse: How to Break White-Box DNN-Watermarking Schemes**|Alessandro Pegoraro et.al.|[2403.03590v1](http://arxiv.org/abs/2403.03590v1)|null|
+|**2024-03-06**|**Design of an Open-Source Architecture for Neural Machine Translation**|Séamus Lankford et.al.|[2403.03582v1](http://arxiv.org/abs/2403.03582v1)|null|
+|**2024-03-06**|**Deployable polyhedrons with one-DOF radial transformation**|Yuanqing Gu et.al.|[2403.03577v1](http://arxiv.org/abs/2403.03577v1)|null|
+|**2024-03-06**|**Prompt Mining for Language-based Human Mobility Forecasting**|Hao Xue et.al.|[2403.03544v1](http://arxiv.org/abs/2403.03544v1)|null|
+|**2024-03-06**|**DPOT: Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training**|Zhongkai Hao et.al.|[2403.03542v1](http://arxiv.org/abs/2403.03542v1)|null|
+|**2024-03-06**|**Probing the Robustness of Time-series Forecasting Models with CounterfacTS**|Håkon Hanisch Kjærnli et.al.|[2403.03508v1](http://arxiv.org/abs/2403.03508v1)|**[link](https://github.com/lluism/counterfacts)**|
+|**2024-03-06**|**A comparative study of cosmological constraints from weak lensing using Convolutional Neural Networks**|Divij Sharma et.al.|[2403.03490v1](http://arxiv.org/abs/2403.03490v1)|null|
+|**2024-03-06**|**Inverse-Free Fast Natural Gradient Descent Method for Deep Learning**|Xinwei Ou et.al.|[2403.03473v1](http://arxiv.org/abs/2403.03473v1)|null|
+|**2024-03-06**|**Multimode Quantum Correlations in Supercontinuum Pulses**|Aruto Hosaka et.al.|[2403.03467v1](http://arxiv.org/abs/2403.03467v1)|null|
+|**2024-03-06**|**Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding**|Mengying Jiang et.al.|[2403.03465v1](http://arxiv.org/abs/2403.03465v1)|**[link](https://github.com/mengyingjiang/gcn-sa)**|
+|**2024-03-06**|**A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Video**|Cheng-Yen Yang et.al.|[2403.03461v1](http://arxiv.org/abs/2403.03461v1)|null|
 |**2024-03-05**|**FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation**|Chris Rockwell et.al.|[2403.03221v1](http://arxiv.org/abs/2403.03221v1)|null|
 |**2024-03-05**|**Scaling Rectified Flow Transformers for High-Resolution Image Synthesis**|Patrick Esser et.al.|[2403.03206v1](http://arxiv.org/abs/2403.03206v1)|null|
 |**2024-03-05**|**Site Symmetry and Multiorbital Flat Bands on Kagome and Pyrochlore Lattices**|Keyu Zeng et.al.|[2403.03201v1](http://arxiv.org/abs/2403.03201v1)|null|
