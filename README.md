@@ -23,7 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-06**|**Identifying Black Holes Through Space Telescopes and Deep Learning**|Yeqi Fang et.al.|[2403.03821v1](http://arxiv.org/abs/2403.03821v1)|null|
+|**2024-03-07**|**Identifying Black Holes Through Space Telescopes and Deep Learning**|Yeqi Fang et.al.|[2403.03821v2](http://arxiv.org/abs/2403.03821v2)|null|
 |**2024-03-05**|**Low-Res Leads the Way: Improving Generalization for Super-Resolution by Self-Supervised Learning**|Haoyu Chen et.al.|[2403.02601v1](http://arxiv.org/abs/2403.02601v1)|null|
 |**2024-03-04**|**UB-FineNet: Urban Building Fine-grained Classification Network for Open-access Satellite Images**|Zhiyi He et.al.|[2403.02132v1](http://arxiv.org/abs/2403.02132v1)|null|
 |**2024-03-03**|**APISR: Anime Production Inspired Real-World Anime Super-Resolution**|Boyang Wang et.al.|[2403.01598v1](http://arxiv.org/abs/2403.01598v1)|**[link](https://github.com/kiteretsu77/apisr)**|
@@ -1374,7 +1374,7 @@
 |**2024-03-06**|**Joint Sparsity Pattern Learning Based Channel Estimation for Massive MIMO-OTFS Systems**|Kuo Meng et.al.|[2403.03771v1](http://arxiv.org/abs/2403.03771v1)|null|
 |**2024-03-06**|**Parameterized quantum comb and simpler circuits for reversing unknown qubit-unitary operations**|Yin Mo et.al.|[2403.03761v1](http://arxiv.org/abs/2403.03761v1)|null|
 |**2024-03-06**|**A new pairwise boost quantum number from celestial states**|Francesco Alessio et.al.|[2403.03760v1](http://arxiv.org/abs/2403.03760v1)|null|
-|**2024-03-06**|**Relativization in naturally functorial**|Jan Głowacki et.al.|[2403.03755v1](http://arxiv.org/abs/2403.03755v1)|null|
+|**2024-03-07**|**Relativization is naturally functorial**|Jan Głowacki et.al.|[2403.03755v2](http://arxiv.org/abs/2403.03755v2)|null|
 |**2024-03-06**|**A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network**|Ruichen Ma et.al.|[2403.03739v1](http://arxiv.org/abs/2403.03739v1)|**[link](https://github.com/ruichen0424/ab-bnn)**|
 |**2024-03-06**|**Probabilistic Topic Modelling with Transformer Representations**|Arik Reuter et.al.|[2403.03737v1](http://arxiv.org/abs/2403.03737v1)|**[link](https://github.com/arikreuter/tntm)**|
 |**2024-03-06**|**Unifying Generation and Compression: Ultra-low bitrate Image Coding Via Multi-stage Transformer**|Naifu Xue et.al.|[2403.03736v1](http://arxiv.org/abs/2403.03736v1)|null|
@@ -1400,7 +1400,7 @@
 |**2024-03-06**|**Design of an Open-Source Architecture for Neural Machine Translation**|Séamus Lankford et.al.|[2403.03582v1](http://arxiv.org/abs/2403.03582v1)|null|
 |**2024-03-06**|**Deployable polyhedrons with one-DOF radial transformation**|Yuanqing Gu et.al.|[2403.03577v1](http://arxiv.org/abs/2403.03577v1)|null|
 |**2024-03-06**|**Prompt Mining for Language-based Human Mobility Forecasting**|Hao Xue et.al.|[2403.03544v1](http://arxiv.org/abs/2403.03544v1)|null|
-|**2024-03-06**|**DPOT: Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training**|Zhongkai Hao et.al.|[2403.03542v1](http://arxiv.org/abs/2403.03542v1)|null|
+|**2024-03-07**|**DPOT: Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training**|Zhongkai Hao et.al.|[2403.03542v2](http://arxiv.org/abs/2403.03542v2)|null|
 |**2024-03-06**|**Probing the Robustness of Time-series Forecasting Models with CounterfacTS**|Håkon Hanisch Kjærnli et.al.|[2403.03508v1](http://arxiv.org/abs/2403.03508v1)|**[link](https://github.com/lluism/counterfacts)**|
 |**2024-03-06**|**A comparative study of cosmological constraints from weak lensing using Convolutional Neural Networks**|Divij Sharma et.al.|[2403.03490v1](http://arxiv.org/abs/2403.03490v1)|null|
 |**2024-03-06**|**Inverse-Free Fast Natural Gradient Descent Method for Deep Learning**|Xinwei Ou et.al.|[2403.03473v1](http://arxiv.org/abs/2403.03473v1)|null|
