@@ -1377,7 +1377,7 @@
 |**2024-03-07**|**Natural geometric Fourier transforms and the associated fractional Laplacian**|Razvan M. Tudoran et.al.|[2403.04658v1](http://arxiv.org/abs/2403.04658v1)|null|
 |**2024-03-08**|**Computing the Edge Expansion of a Graph using SDP**|Akshay Gupte et.al.|[2403.04657v2](http://arxiv.org/abs/2403.04657v2)|null|
 |**2024-03-07**|**Yi: Open Foundation Models by 01.AI**|01. AI et.al.|[2403.04652v1](http://arxiv.org/abs/2403.04652v1)|**[link](https://github.com/01-ai/yi)**|
-|**2024-03-07**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634v1](http://arxiv.org/abs/2403.04634v1)|null|
+|**2024-03-08**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634v2](http://arxiv.org/abs/2403.04634v2)|null|
 |**2024-03-07**|**Time-Aware Projections: Truly Node-Private Graph Statistics under Continual Observation**|Palak Jain et.al.|[2403.04630v1](http://arxiv.org/abs/2403.04630v1)|null|
 |**2024-03-07**|**A Detailed Audio-Text Data Simulation Pipeline using Single-Event Sounds**|Xuenan Xu et.al.|[2403.04594v1](http://arxiv.org/abs/2403.04594v1)|null|
 |**2024-03-07**|**Topology and entanglement of molecular phase space**|Victor V. Albert et.al.|[2403.04572v1](http://arxiv.org/abs/2403.04572v1)|null|
