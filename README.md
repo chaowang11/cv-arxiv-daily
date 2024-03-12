@@ -1403,7 +1403,7 @@
 |**2024-03-11**|**Multimodal Transformers for Real-Time Surgical Activity Prediction**|Keshara Weerasinghe et.al.|[2403.06705v1](http://arxiv.org/abs/2403.06705v1)|null|
 |**2024-03-11**|**A viscoelastic model for skin via homogenization theory**|Juan Casado-Díaz et.al.|[2403.06703v1](http://arxiv.org/abs/2403.06703v1)|null|
 |**2024-03-11**|**Solving Distributed Flexible Job Shop Scheduling Problems in the Wool Textile Industry with Quantum Annealing**|Lilia Toma et.al.|[2403.06699v1](http://arxiv.org/abs/2403.06699v1)|null|
-|**2024-03-11**|**Chart4Blind: An Intelligent Interface for Chart Accessibility Conversion**|Omar Moured et.al.|[2403.06693v1](http://arxiv.org/abs/2403.06693v1)|null|
+|**2024-03-11**|**Chart4Blind: An Intelligent Interface for Chart Accessibility Conversion**|Omar Moured et.al.|[2403.06693v1](http://arxiv.org/abs/2403.06693v1)|**[link](https://github.com/moured/chart4blind_code)**|
 |**2024-03-11**|**Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data**|Jinghan Huang et.al.|[2403.06687v1](http://arxiv.org/abs/2403.06687v1)|null|
 |**2024-03-11**|**CAM Back Again: Large Kernel CNNs from a Weakly Supervised Object Localization Perspective**|Shunsuke Yasuki et.al.|[2403.06676v1](http://arxiv.org/abs/2403.06676v1)|**[link](https://github.com/snskysk/cam-back-again)**|
 |**2024-03-11**|**Car Damage Detection and Patch-to-Patch Self-supervised Image Alignment**|Hanxiao Chen et.al.|[2403.06674v1](http://arxiv.org/abs/2403.06674v1)|**[link](https://github.com/2000222/car-damage-detectionv0)**|
