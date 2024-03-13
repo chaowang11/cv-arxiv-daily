@@ -1371,7 +1371,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-11**|**Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling**|Wele Gedara Chaminda Bandara et.al.|[2403.06978v1](http://arxiv.org/abs/2403.06978v1)|**[link](https://github.com/wgcban/apt)**|
-|**2024-03-11**|**VideoMamba: State Space Model for Efficient Video Understanding**|Kunchang Li et.al.|[2403.06977v1](http://arxiv.org/abs/2403.06977v1)|**[link](https://github.com/opengvlab/videomamba)**|
+|**2024-03-12**|**VideoMamba: State Space Model for Efficient Video Understanding**|Kunchang Li et.al.|[2403.06977v2](http://arxiv.org/abs/2403.06977v2)|**[link](https://github.com/opengvlab/videomamba)**|
 |**2024-03-11**|**Ehrhart polynomials of partial permutohedra**|Roger E. Behrend et.al.|[2403.06975v1](http://arxiv.org/abs/2403.06975v1)|null|
 |**2024-03-11**|**Non-Abelian R-symmetries in  $\mathcal{N}=1$  supersymmetry**|James Brister et.al.|[2403.06969v1](http://arxiv.org/abs/2403.06969v1)|null|
 |**2024-03-11**|**The pitfalls of next-token prediction**|Gregor Bachmann et.al.|[2403.06963v1](http://arxiv.org/abs/2403.06963v1)|null|
@@ -15610,7 +15610,7 @@
 |**2023-08-27**|**Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection**|Xin Feng et.al.|[2308.14061v1](http://arxiv.org/abs/2308.14061v1)|**[link](https://github.com/xyfjason/hcl)**|
 |**2023-11-17**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v3](http://arxiv.org/abs/2308.10436v3)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
-|**2023-08-15**|**Geometry of the Visual Cortex with Applications to Image Inpainting and Enhancement**|Francesco Ballerin et.al.|[2308.07652v1](http://arxiv.org/abs/2308.07652v1)|**[link](https://github.com/ballerin/v1diffusion)**|
+|**2024-03-12**|**Geometry of the Visual Cortex with Applications to Image Inpainting and Enhancement**|Francesco Ballerin et.al.|[2308.07652v2](http://arxiv.org/abs/2308.07652v2)|**[link](https://github.com/ballerin/v1diffusion)**|
 |**2023-12-02**|**Boosting Data-Driven Mirror Descent with Randomization, Equivariance, and Acceleration**|Hong Ye Tan et.al.|[2308.05045v2](http://arxiv.org/abs/2308.05045v2)|null|
 |**2023-08-03**|**Erase and Repair: An Efficient Box-Free Removal Attack on High-Capacity Deep Hiding**|Hangcheng Liu et.al.|[2308.01512v1](http://arxiv.org/abs/2308.01512v1)|null|
 |**2023-08-01**|**Seeing Behind Dynamic Occlusions with Event Cameras**|Rong Zou et.al.|[2307.15829v2](http://arxiv.org/abs/2307.15829v2)|null|
