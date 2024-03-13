@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.12
+## Updated on 2024.03.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -27,7 +27,7 @@
 |**2024-03-11**|**Breaking Abbe's diffraction limit with harmonic deactivation microscopy**|Kevin Murzyn et.al.|[2403.06617v1](http://arxiv.org/abs/2403.06617v1)|null|
 |**2024-03-11**|**Multi-Scale Implicit Transformer with Re-parameterize for Arbitrary-Scale Super-Resolution**|Jinchen Zhu et.al.|[2403.06536v1](http://arxiv.org/abs/2403.06536v1)|null|
 |**2024-03-10**|**Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising**|Yuang Wang et.al.|[2403.06069v1](http://arxiv.org/abs/2403.06069v1)|null|
-|**2024-03-10**|**Decoupled Data Consistency with Diffusion Purification for Image Restoration**|Xiang Li et.al.|[2403.06054v1](http://arxiv.org/abs/2403.06054v1)|null|
+|**2024-03-12**|**Decoupled Data Consistency with Diffusion Purification for Image Restoration**|Xiang Li et.al.|[2403.06054v2](http://arxiv.org/abs/2403.06054v2)|null|
 |**2024-03-09**|**CoNFiLD: Conditional Neural Field Latent Diffusion Model Generating Spatiotemporal Turbulence**|Pan Du et.al.|[2403.05940v1](http://arxiv.org/abs/2403.05940v1)|null|
 |**2024-03-09**|**Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution**|Junxiong Lin et.al.|[2403.05808v1](http://arxiv.org/abs/2403.05808v1)|null|
 |**2024-03-08**|**An End-to-End Pipeline Perspective on Video Streaming in Best-Effort Networks: A Survey and Tutorial**|Leonardo Peroni et.al.|[2403.05192v1](http://arxiv.org/abs/2403.05192v1)|null|
@@ -894,7 +894,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -1202,7 +1202,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -1303,7 +1303,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -1322,7 +1322,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -1364,7 +1364,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
 
 ## Transformer
 
@@ -1398,8 +1398,8 @@
 |**2024-03-11**|**Efficient dual-scale generalized Radon-Fourier transform detector family for long time coherent integration**|Suqi Li et.al.|[2403.06788v1](http://arxiv.org/abs/2403.06788v1)|null|
 |**2024-03-11**|**Distribution-Aware Data Expansion with Diffusion Models**|Haowei Zhu et.al.|[2403.06741v1](http://arxiv.org/abs/2403.06741v1)|**[link](https://github.com/haoweiz23/distdiff)**|
 |**2024-03-11**|**Improving Low-Resource Knowledge Tracing Tasks by Supervised Pre-training and Importance Mechanism Fine-tuning**|Hengyuan Zhang et.al.|[2403.06725v1](http://arxiv.org/abs/2403.06725v1)|null|
-|**2024-03-11**|**Validation of the GreenX library time-frequency component for efficient GW and RPA calculations**|Maryam Azizi et.al.|[2403.06709v1](http://arxiv.org/abs/2403.06709v1)|null|
-|**2024-03-11**|**Deriving Dependently-Typed OOP from First Principles - Extended Version with Additional Appendices**|David Binder et.al.|[2403.06707v1](http://arxiv.org/abs/2403.06707v1)|null|
+|**2024-03-12**|**Validation of the GreenX library time-frequency component for efficient GW and RPA calculations**|Maryam Azizi et.al.|[2403.06709v2](http://arxiv.org/abs/2403.06709v2)|null|
+|**2024-03-11**|**Deriving Dependently-Typed OOP from First Principles -- Extended Version with Additional Appendices**|David Binder et.al.|[2403.06707v1](http://arxiv.org/abs/2403.06707v1)|null|
 |**2024-03-11**|**Multimodal Transformers for Real-Time Surgical Activity Prediction**|Keshara Weerasinghe et.al.|[2403.06705v1](http://arxiv.org/abs/2403.06705v1)|null|
 |**2024-03-11**|**A viscoelastic model for skin via homogenization theory**|Juan Casado-Díaz et.al.|[2403.06703v1](http://arxiv.org/abs/2403.06703v1)|null|
 |**2024-03-11**|**Solving Distributed Flexible Job Shop Scheduling Problems in the Wool Textile Industry with Quantum Annealing**|Lilia Toma et.al.|[2403.06699v1](http://arxiv.org/abs/2403.06699v1)|null|
@@ -1407,7 +1407,7 @@
 |**2024-03-11**|**Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data**|Jinghan Huang et.al.|[2403.06687v1](http://arxiv.org/abs/2403.06687v1)|null|
 |**2024-03-11**|**CAM Back Again: Large Kernel CNNs from a Weakly Supervised Object Localization Perspective**|Shunsuke Yasuki et.al.|[2403.06676v1](http://arxiv.org/abs/2403.06676v1)|**[link](https://github.com/snskysk/cam-back-again)**|
 |**2024-03-11**|**Car Damage Detection and Patch-to-Patch Self-supervised Image Alignment**|Hanxiao Chen et.al.|[2403.06674v1](http://arxiv.org/abs/2403.06674v1)|**[link](https://github.com/2000222/car-damage-detectionv0)**|
-|**2024-03-11**|**CEAT: Continual Expansion and Absorption Transformer for Non-Exemplar Class-Incremental Learnin**|Xinyuan Gao et.al.|[2403.06670v1](http://arxiv.org/abs/2403.06670v1)|null|
+|**2024-03-12**|**CEAT: Continual Expansion and Absorption Transformer for Non-Exemplar Class-Incremental Learning**|Xinyuan Gao et.al.|[2403.06670v2](http://arxiv.org/abs/2403.06670v2)|null|
 |**2024-03-11**|**Performance of Expansive Soil Stabilized with Bamboo Charcoal, Quarry Dust, and Lime for Use as Road Subgrade Material**|Essizewa Essowedeou Agate et.al.|[2403.06669v1](http://arxiv.org/abs/2403.06669v1)|null|
 |**2024-03-11**|**Stealing Part of a Production Language Model**|Nicholas Carlini et.al.|[2403.06634v1](http://arxiv.org/abs/2403.06634v1)|null|
 |**2024-03-11**|**Cross-domain and Cross-dimension Learning for Image-to-Graph Transformers**|Alexander H. Berger et.al.|[2403.06601v1](http://arxiv.org/abs/2403.06601v1)|null|
@@ -15554,7 +15554,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -15735,7 +15735,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -15815,7 +15815,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
