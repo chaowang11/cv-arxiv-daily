@@ -1430,7 +1430,7 @@
 |**2024-03-13**|**Discrete Semantic Tokenization for Deep CTR Prediction**|Qijiong Liu et.al.|[2403.08206v1](http://arxiv.org/abs/2403.08206v1)|**[link](https://github.com/jyonn/semantictokenizer)**|
 |**2024-03-13**|**Learnable Community-Aware Transformer for Brain Connectome Analysis with Token Clustering**|Yanting Yang et.al.|[2403.08203v1](http://arxiv.org/abs/2403.08203v1)|null|
 |**2024-03-13**|**A forward-modelling approach to overcome PSF smearing and fit flexible models to the chemical structure of galaxies**|Benjamin Metha et.al.|[2403.08175v1](http://arxiv.org/abs/2403.08175v1)|null|
-|**2024-03-13**|**A Darcy law with memory by homogenisation for evolving microstructure**|David Wiedeman et.al.|[2403.08166v1](http://arxiv.org/abs/2403.08166v1)|null|
+|**2024-03-13**|**A Darcy law with memory by homogenisation for evolving microstructure**|David Wiedemann et.al.|[2403.08166v1](http://arxiv.org/abs/2403.08166v1)|null|
 |**2024-03-12**|**Beyond Text: Frozen Large Language Models in Visual Signal Comprehension**|Lei Zhu et.al.|[2403.07874v1](http://arxiv.org/abs/2403.07874v1)|**[link](https://github.com/zh460045050/v2l-tokenizer)**|
 |**2024-03-12**|**Exploring Safety Generalization Challenges of Large Language Models via Code**|Qibing Ren et.al.|[2403.07865v1](http://arxiv.org/abs/2403.07865v1)|null|
 |**2024-03-12**|**A Machine learning and Empirical Bayesian Approach for Predictive Buying in B2B E-commerce**|Tuhin Subhra De et.al.|[2403.07843v1](http://arxiv.org/abs/2403.07843v1)|null|
