@@ -23,7 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-12**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v1](http://arxiv.org/abs/2403.07673v1)|null|
+|**2024-03-13**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v2](http://arxiv.org/abs/2403.07673v2)|null|
 |**2024-03-12**|**Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution**|Haochen Sun et.al.|[2403.07390v1](http://arxiv.org/abs/2403.07390v1)|null|
 |**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319v1](http://arxiv.org/abs/2403.07319v1)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-03-12**|**Learning Hierarchical Color Guidance for Depth Map Super-Resolution**|Runmin Cong et.al.|[2403.07290v1](http://arxiv.org/abs/2403.07290v1)|null|
@@ -904,7 +904,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-12**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v1](http://arxiv.org/abs/2403.07673v1)|null|
+|**2024-03-13**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v2](http://arxiv.org/abs/2403.07673v2)|null|
 |**2024-03-12**|**Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution**|Haochen Sun et.al.|[2403.07390v1](http://arxiv.org/abs/2403.07390v1)|null|
 |**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319v1](http://arxiv.org/abs/2403.07319v1)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-03-09**|**Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution**|Junxiong Lin et.al.|[2403.05808v1](http://arxiv.org/abs/2403.05808v1)|null|
@@ -1387,7 +1387,7 @@
 |**2024-03-12**|**A Fourier Transform Framework for Domain Adaptation**|Le Luo et.al.|[2403.07798v1](http://arxiv.org/abs/2403.07798v1)|null|
 |**2024-03-12**|**Transforming Competition into Collaboration: The Revolutionary Role of Multi-Agent Systems and Language Models in Modern Organizations**|Carlos Jose Xavier Cruz et.al.|[2403.07769v1](http://arxiv.org/abs/2403.07769v1)|**[link](https://github.com/carlosxcruzcode/compet_colab_sma_llm)**|
 |**2024-03-12**|**Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception**|Philipp Wolters et.al.|[2403.07746v1](http://arxiv.org/abs/2403.07746v1)|null|
-|**2024-03-12**|**Equipping Computational Pathology Systems with Artifact Processing Pipelines: A Showcase for Computation and Performance Trade-offs**|Neel Kanwal et.al.|[2403.07743v1](http://arxiv.org/abs/2403.07743v1)|**[link](https://github.com/neelkanwal/equipping-computational-pathology-systems-with-artifact-processing-pipeline)**|
+|**2024-03-13**|**Equipping Computational Pathology Systems with Artifact Processing Pipelines: A Showcase for Computation and Performance Trade-offs**|Neel Kanwal et.al.|[2403.07743v2](http://arxiv.org/abs/2403.07743v2)|**[link](https://github.com/neelkanwal/equipping-computational-pathology-systems-with-artifact-processing-pipeline)**|
 |**2024-03-12**|**Satellite quenching and morphological transformation of galaxies in groups and clusters**|M. Oxland et.al.|[2403.07742v1](http://arxiv.org/abs/2403.07742v1)|null|
 |**2024-03-13**|**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**|Dongyang Li et.al.|[2403.07721v2](http://arxiv.org/abs/2403.07721v2)|**[link](https://github.com/dongyangli-del/eeg_image_decode)**|
 |**2024-03-12**|**CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers**|Shahaf Arica et.al.|[2403.07700v1](http://arxiv.org/abs/2403.07700v1)|**[link](https://github.com/shahaf-arica/cuvler)**|
@@ -1403,7 +1403,7 @@
 |**2024-03-12**|**Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework**|Minh Hieu Phan et.al.|[2403.07636v1](http://arxiv.org/abs/2403.07636v1)|**[link](https://github.com/hieuphan33/mavl)**|
 |**2024-03-12**|**Multiple Latent Space Mapping for Compressed Dark Image Enhancement**|Yi Zeng et.al.|[2403.07622v1](http://arxiv.org/abs/2403.07622v1)|null|
 |**2024-03-12**|**Smartphone region-wise image indoor localization using deep learning for indoor tourist attraction**|Gabriel Toshio Hirokawa Higa et.al.|[2403.07621v1](http://arxiv.org/abs/2403.07621v1)|null|
-|**2024-03-12**|**MinkUNeXt: Point Cloud-based Large-scale Place Recognition using 3D Sparse Convolutions**|J. J. Cabrera et.al.|[2403.07593v1](http://arxiv.org/abs/2403.07593v1)|null|
+|**2024-03-13**|**MinkUNeXt: Point Cloud-based Large-scale Place Recognition using 3D Sparse Convolutions**|J. J. Cabrera et.al.|[2403.07593v2](http://arxiv.org/abs/2403.07593v2)|null|
 |**2024-03-12**|**PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution**|Honghao Chen et.al.|[2403.07589v1](http://arxiv.org/abs/2403.07589v1)|null|
 |**2024-03-12**|**Isolated nearly flat higher Chern band in monolayer transition metal trihalides**|Kejie Bao et.al.|[2403.07551v1](http://arxiv.org/abs/2403.07551v1)|null|
 |**2024-03-12**|**Gauss-Bonnet  $\boldsymbol{AdS}$  planar and spherical black hole thermodynamics and holography**|Souvik Paul et.al.|[2403.07543v1](http://arxiv.org/abs/2403.07543v1)|null|
