@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**PFStorer: Personalized Face Restoration and Super-Resolution**|Tuomas Varanka et.al.|[2403.08436v1](http://arxiv.org/abs/2403.08436v1)|null|
+|**2024-03-13**|**Activating Wider Areas in Image Super-Resolution**|Cheng Cheng et.al.|[2403.08330v1](http://arxiv.org/abs/2403.08330v1)|null|
+|**2024-03-07**|**Accelerating multigrid solver with generative super-resolution**|Francisco Holguin et.al.|[2403.07936v1](http://arxiv.org/abs/2403.07936v1)|null|
 |**2024-03-13**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v2](http://arxiv.org/abs/2403.07673v2)|null|
 |**2024-03-12**|**Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution**|Haochen Sun et.al.|[2403.07390v1](http://arxiv.org/abs/2403.07390v1)|null|
 |**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319v1](http://arxiv.org/abs/2403.07319v1)|**[link](https://github.com/zsyoaoa/resshift)**|
@@ -904,6 +907,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Activating Wider Areas in Image Super-Resolution**|Cheng Cheng et.al.|[2403.08330v1](http://arxiv.org/abs/2403.08330v1)|null|
 |**2024-03-13**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v2](http://arxiv.org/abs/2403.07673v2)|null|
 |**2024-03-12**|**Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution**|Haochen Sun et.al.|[2403.07390v1](http://arxiv.org/abs/2403.07390v1)|null|
 |**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319v1](http://arxiv.org/abs/2403.07319v1)|**[link](https://github.com/zsyoaoa/resshift)**|
@@ -1377,6 +1381,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757v1](http://arxiv.org/abs/2403.08757v1)|null|
+|**2024-03-13**|**Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**|Samuel Sze et.al.|[2403.08748v1](http://arxiv.org/abs/2403.08748v1)|null|
+|**2024-03-13**|**The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models**|Carlo Nicolini et.al.|[2403.08739v1](http://arxiv.org/abs/2403.08739v1)|null|
+|**2024-03-13**|**ILCiteR: Evidence-grounded Interpretable Local Citation Recommendation**|Sayar Ghosh Roy et.al.|[2403.08737v1](http://arxiv.org/abs/2403.08737v1)|**[link](https://github.com/sayarghoshroy/ilciter)**|
+|**2024-03-13**|**Driving non-trivial quantum phases in conventional semiconductors with intense excitonic fields**|Vivek Pareek et.al.|[2403.08725v1](http://arxiv.org/abs/2403.08725v1)|null|
+|**2024-03-13**|**OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework**|Wanyun Li et.al.|[2403.08682v1](http://arxiv.org/abs/2403.08682v1)|null|
+|**2024-03-13**|**Fourier Quasicrystals on  $\mathbb R^n$  Preliminary Report**|Wayne M Lawton et.al.|[2403.08659v1](http://arxiv.org/abs/2403.08659v1)|null|
+|**2024-03-13**|**HAIFIT: Human-Centered AI for Fashion Image Translation**|Jianan Jiang et.al.|[2403.08651v1](http://arxiv.org/abs/2403.08651v1)|**[link](https://github.com/exponentiai/haifit)**|
+|**2024-03-13**|**Leveraging Non-Decimated Wavelet Packet Features and Transformer Models for Time Series Forecasting**|Guy P Nason et.al.|[2403.08630v1](http://arxiv.org/abs/2403.08630v1)|null|
+|**2024-03-13**|**Scaling Up Dynamic Human-Scene Interaction Modeling**|Nan Jiang et.al.|[2403.08629v1](http://arxiv.org/abs/2403.08629v1)|null|
+|**2024-03-13**|**Hyperbolic Anderson equations with general time-independent Gaussian noise: Stratonovich regime**|Xia Chen et.al.|[2403.08603v1](http://arxiv.org/abs/2403.08603v1)|null|
+|**2024-03-13**|**Decoupling of the structure functions in momentum space based on the Laplace transformation**|G. R. Boroun et.al.|[2403.08560v1](http://arxiv.org/abs/2403.08560v1)|null|
+|**2024-03-13**|**Generation and high-resolution imaging of higher-order polarization via metasurface**|Xiang Yuan et.al.|[2403.08539v1](http://arxiv.org/abs/2403.08539v1)|null|
+|**2024-03-13**|**Free fermions, neutrality and modular transformations**|Mbavhalelo Mulokwe et.al.|[2403.08531v1](http://arxiv.org/abs/2403.08531v1)|null|
+|**2024-03-13**|**Pig aggression classification using CNN, Transformers and Recurrent Networks**|Junior Silva Souza et.al.|[2403.08528v1](http://arxiv.org/abs/2403.08528v1)|null|
+|**2024-03-13**|**A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product**|Ao Xiang et.al.|[2403.08511v1](http://arxiv.org/abs/2403.08511v1)|null|
+|**2024-03-13**|**Content-aware Masked Image Modeling Transformer for Stereo Image Compression**|Xinjie Zhang et.al.|[2403.08505v1](http://arxiv.org/abs/2403.08505v1)|null|
+|**2024-03-13**|**Masked Generative Story Transformer with Character Guidance and Caption Augmentation**|Christos Papadimitriou et.al.|[2403.08502v1](http://arxiv.org/abs/2403.08502v1)|**[link](https://github.com/chrispapa2000/maskgst)**|
+|**2024-03-13**|**Highly confined epsilon-near-zero- and surface-phonon polaritons in SrTiO3 membranes**|Ruijuan Xu et.al.|[2403.08500v1](http://arxiv.org/abs/2403.08500v1)|null|
+|**2024-03-13**|**Compliant Hierarchical Control for Arbitrary Equality and Inequality Tasks with Strict and Soft Priorities**|Gianluca Garofalo et.al.|[2403.08491v1](http://arxiv.org/abs/2403.08491v1)|null|
+|**2024-03-13**|**MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction**|Linjie Fu et.al.|[2403.08479v1](http://arxiv.org/abs/2403.08479v1)|null|
+|**2024-03-13**|**Diffusion Models with Implicit Guidance for Medical Anomaly Detection**|Cosmin I. Bercea et.al.|[2403.08464v1](http://arxiv.org/abs/2403.08464v1)|null|
+|**2024-03-13**|**Authorship Verification based on the Likelihood Ratio of Grammar Models**|Andrea Nini et.al.|[2403.08462v1](http://arxiv.org/abs/2403.08462v1)|null|
+|**2024-03-13**|**The Heisenberg-RIXS instrument at the European XFEL**|Justine Schlappa et.al.|[2403.08461v1](http://arxiv.org/abs/2403.08461v1)|null|
+|**2024-03-13**|**Increasing stability for inverse acoustic source problems in the time domain**|Chun Liu et.al.|[2403.08440v1](http://arxiv.org/abs/2403.08440v1)|null|
+|**2024-03-13**|**Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation**|Zicheng Zhang et.al.|[2403.08426v1](http://arxiv.org/abs/2403.08426v1)|null|
+|**2024-03-13**|**Gluonic gravitational form factors of the proton**|Zein-Eddine Meziani et.al.|[2403.08423v1](http://arxiv.org/abs/2403.08423v1)|null|
+|**2024-03-13**|**Electron scattering on  $^4$ He from coupled-cluster theory**|Joanna E. Sobczyk et.al.|[2403.08413v1](http://arxiv.org/abs/2403.08413v1)|null|
+|**2024-03-13**|**Regular Friedmann Universes and Matter Transformations**|Alexander Kamenshchik et.al.|[2403.08400v1](http://arxiv.org/abs/2403.08400v1)|null|
+|**2024-03-13**|**Worst-Case to Expander-Case Reductions: Derandomized and Generalized**|Amir Abboud et.al.|[2403.08394v1](http://arxiv.org/abs/2403.08394v1)|null|
+|**2024-03-13**|**User-Centric Beam Selection and Precoding Design for Coordinated Multiple-Satellite Systems**|Vu Nguyen Ha et.al.|[2403.08371v1](http://arxiv.org/abs/2403.08371v1)|null|
+|**2024-03-13**|**METER: a mobile vision transformer architecture for monocular depth estimation**|L. Papa et.al.|[2403.08368v1](http://arxiv.org/abs/2403.08368v1)|**[link](https://github.com/lorenzopapa5/meter)**|
+|**2024-03-13**|**Lubin-Tate generalizations of the p-adic Fourier transform**|Laurent Berger et.al.|[2403.08367v1](http://arxiv.org/abs/2403.08367v1)|null|
+|**2024-03-13**|**Assessment of background noise properties in time and time-frequency domains in the context of vibration-based local damage detection in real environment**|Katarzyna Skowronek et.al.|[2403.08359v1](http://arxiv.org/abs/2403.08359v1)|null|
+|**2024-03-13**|**Data augmentation with automated machine learning: approaches and performance comparison with classical data augmentation methods**|Alhassan Mumuni et.al.|[2403.08352v1](http://arxiv.org/abs/2403.08352v1)|null|
+|**2024-03-13**|**STMPL: Human Soft-Tissue Simulation**|Anton Agafonov et.al.|[2403.08344v1](http://arxiv.org/abs/2403.08344v1)|null|
+|**2024-03-13**|**Curved commutators in the plane**|Kangwei Li et.al.|[2403.08338v1](http://arxiv.org/abs/2403.08338v1)|null|
+|**2024-03-13**|**Activating Wider Areas in Image Super-Resolution**|Cheng Cheng et.al.|[2403.08330v1](http://arxiv.org/abs/2403.08330v1)|null|
+|**2024-03-13**|**StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields**|Hongbin Xu et.al.|[2403.08310v1](http://arxiv.org/abs/2403.08310v1)|null|
+|**2024-03-13**|**Generative Pretrained Structured Transformers: Unsupervised Syntactic Language Models at Scale**|Xiang Hu et.al.|[2403.08293v1](http://arxiv.org/abs/2403.08293v1)|null|
+|**2024-03-13**|**GPT, Ontology, and CAABAC: A Tripartite Personalized Access Control Model Anchored by Compliance, Context and Attribute**|Raza Nowrozy et.al.|[2403.08264v1](http://arxiv.org/abs/2403.08264v1)|null|
+|**2024-03-13**|**PNeSM: Arbitrary 3D Scene Stylization via Prompt-Based Neural Style Mapping**|Jiafu Chen et.al.|[2403.08252v1](http://arxiv.org/abs/2403.08252v1)|null|
+|**2024-03-13**|**Schatten--Lorentz characterization of Riesz transform commutator associated with Bessel operators**|Zhijie Fan et.al.|[2403.08249v1](http://arxiv.org/abs/2403.08249v1)|null|
+|**2024-03-13**|**The 3D Lyman- $α$  Forest Power Spectrum from eBOSS DR16**|Roger de Belsunce et.al.|[2403.08241v1](http://arxiv.org/abs/2403.08241v1)|null|
+|**2024-03-13**|**Point Cloud Compression via Constrained Optimal Transport**|Zezeng Li et.al.|[2403.08236v1](http://arxiv.org/abs/2403.08236v1)|**[link](https://github.com/cognaclee/pcc-cot)**|
+|**2024-03-13**|**P2LHAP:Wearable sensor-based human activity recognition, segmentation and forecast through Patch-to-Label Seq2Seq Transformer**|Shuangjian Li et.al.|[2403.08214v1](http://arxiv.org/abs/2403.08214v1)|null|
+|**2024-03-13**|**Discrete Semantic Tokenization for Deep CTR Prediction**|Qijiong Liu et.al.|[2403.08206v1](http://arxiv.org/abs/2403.08206v1)|**[link](https://github.com/jyonn/semantictokenizer)**|
+|**2024-03-13**|**Learnable Community-Aware Transformer for Brain Connectome Analysis with Token Clustering**|Yanting Yang et.al.|[2403.08203v1](http://arxiv.org/abs/2403.08203v1)|null|
+|**2024-03-13**|**A forward-modelling approach to overcome PSF smearing and fit flexible models to the chemical structure of galaxies**|Benjamin Metha et.al.|[2403.08175v1](http://arxiv.org/abs/2403.08175v1)|null|
+|**2024-03-13**|**A Darcy law with memory by homogenisation for evolving microstructure**|David Wiedeman et.al.|[2403.08166v1](http://arxiv.org/abs/2403.08166v1)|null|
 |**2024-03-12**|**Beyond Text: Frozen Large Language Models in Visual Signal Comprehension**|Lei Zhu et.al.|[2403.07874v1](http://arxiv.org/abs/2403.07874v1)|**[link](https://github.com/zh460045050/v2l-tokenizer)**|
 |**2024-03-12**|**Exploring Safety Generalization Challenges of Large Language Models via Code**|Qibing Ren et.al.|[2403.07865v1](http://arxiv.org/abs/2403.07865v1)|null|
 |**2024-03-12**|**A Machine learning and Empirical Bayesian Approach for Predictive Buying in B2B E-commerce**|Tuhin Subhra De et.al.|[2403.07843v1](http://arxiv.org/abs/2403.07843v1)|null|
@@ -15617,6 +15671,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data**|Asad Aali et.al.|[2403.08728v1](http://arxiv.org/abs/2403.08728v1)|**[link](https://github.com/utcsilab/ambient-diffusion-mri)**|
+|**2024-03-13**|**Attack Deterministic Conditional Image Generative Models for Diverse and Controllable Generation**|Tianyi Chu et.al.|[2403.08294v1](http://arxiv.org/abs/2403.08294v1)|null|
 |**2024-03-12**|**Open-Vocabulary Scene Text Recognition via Pseudo-Image Labeling and Margin Loss**|Xuhua Ren et.al.|[2403.07518v1](http://arxiv.org/abs/2403.07518v1)|null|
 |**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319v1](http://arxiv.org/abs/2403.07319v1)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-03-11**|**BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**|Xuan Ju et.al.|[2403.06976v1](http://arxiv.org/abs/2403.06976v1)|**[link](https://github.com/tencentarc/brushnet)**|
