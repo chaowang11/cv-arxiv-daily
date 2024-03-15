@@ -1381,7 +1381,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-13**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757v1](http://arxiv.org/abs/2403.08757v1)|null|
+|**2024-03-14**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757v2](http://arxiv.org/abs/2403.08757v2)|**[link](https://github.com/awakermhy/heo)**|
 |**2024-03-13**|**Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**|Samuel Sze et.al.|[2403.08748v1](http://arxiv.org/abs/2403.08748v1)|null|
 |**2024-03-13**|**The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models**|Carlo Nicolini et.al.|[2403.08739v1](http://arxiv.org/abs/2403.08739v1)|null|
 |**2024-03-13**|**ILCiteR: Evidence-grounded Interpretable Local Citation Recommendation**|Sayar Ghosh Roy et.al.|[2403.08737v1](http://arxiv.org/abs/2403.08737v1)|**[link](https://github.com/sayarghoshroy/ilciter)**|
