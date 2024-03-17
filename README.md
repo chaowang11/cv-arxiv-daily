@@ -1414,14 +1414,14 @@
 |**2024-03-14**|**Selective Excitation of Vibrations in a Single Molecule**|Yang Luo et.al.|[2403.09328v1](http://arxiv.org/abs/2403.09328v1)|null|
 |**2024-03-14**|**Perspective-Equivariant Imaging: an Unsupervised Framework for Multispectral Pansharpening**|Andrew Wang et.al.|[2403.09327v1](http://arxiv.org/abs/2403.09327v1)|null|
 |**2024-03-14**|**Knowledge Distillation in YOLOX-ViT for Side-Scan Sonar Object Detection**|Martin Aubard et.al.|[2403.09313v1](http://arxiv.org/abs/2403.09313v1)|**[link](https://github.com/remaro-network/kd-yolox-vit)**|
-|**2024-03-14**|**StainFuser: Controlling Diffusion for Faster Neural Style Transfer in Multi-Gigapixel Histology Images**|Robert Jewsbury et.al.|[2403.09302v1](http://arxiv.org/abs/2403.09302v1)|null|
+|**2024-03-14**|**StainFuser: Controlling Diffusion for Faster Neural Style Transfer in Multi-Gigapixel Histology Images**|Robert Jewsbury et.al.|[2403.09302v1](http://arxiv.org/abs/2403.09302v1)|**[link](https://github.com/r-j96/stainfuser)**|
 |**2024-03-14**|**Long-time weak convergence analysis of a semi-discrete scheme for stochastic Maxwell equations**|Chuchu Chen et.al.|[2403.09293v1](http://arxiv.org/abs/2403.09293v1)|null|
 |**2024-03-14**|**Parametric tuning of dynamical phase transitions in ultracold reactions**|Vijay Ganesh Sadhasivam et.al.|[2403.09291v1](http://arxiv.org/abs/2403.09291v1)|null|
 |**2024-03-14**|**Duality and hidden symmetry breaking in the q-deformed Affleck-Kennedy-Lieb-Tasaki model**|Tyler Franke et.al.|[2403.09287v1](http://arxiv.org/abs/2403.09287v1)|null|
 |**2024-03-14**|**CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification**|Yiming Ma et.al.|[2403.09281v1](http://arxiv.org/abs/2403.09281v1)|null|
 |**2024-03-14**|**Direct observation of nanometer-scale orbital angular momentum accumulation**|Juan Carlos Idrobo et.al.|[2403.09269v1](http://arxiv.org/abs/2403.09269v1)|null|
 |**2024-03-14**|**Reverse em-problem based on Bregman divergence and its application to classical and quantum information theory**|Masahito Hayashi et.al.|[2403.09252v1](http://arxiv.org/abs/2403.09252v1)|null|
-|**2024-03-14**|**Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph**|Donglin Di et.al.|[2403.09236v1](http://arxiv.org/abs/2403.09236v1)|null|
+|**2024-03-14**|**Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph**|Donglin Di et.al.|[2403.09236v1](http://arxiv.org/abs/2403.09236v1)|**[link](https://github.com/yjhboy/hyper3dg)**|
 |**2024-03-14**|**MCformer: Multivariate Time Series Forecasting with Mixed-Channels Transformer**|Wenyong Han et.al.|[2403.09223v1](http://arxiv.org/abs/2403.09223v1)|null|
 |**2024-03-14**|**On a criterion for a cutoff regularization in the coordinate representation**|A. V. Ivanov et.al.|[2403.09218v1](http://arxiv.org/abs/2403.09218v1)|null|
 |**2024-03-14**|**PoIFusion: Multi-Modal 3D Object Detection via Fusion at Points of Interest**|Jiajun Deng et.al.|[2403.09212v1](http://arxiv.org/abs/2403.09212v1)|null|
