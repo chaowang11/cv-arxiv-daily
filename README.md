@@ -36,7 +36,7 @@
 |**2024-03-11**|**Multi-Scale Implicit Transformer with Re-parameterize for Arbitrary-Scale Super-Resolution**|Jinchen Zhu et.al.|[2403.06536v1](http://arxiv.org/abs/2403.06536v1)|null|
 |**2024-03-10**|**Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising**|Yuang Wang et.al.|[2403.06069v1](http://arxiv.org/abs/2403.06069v1)|null|
 |**2024-03-12**|**Decoupled Data Consistency with Diffusion Purification for Image Restoration**|Xiang Li et.al.|[2403.06054v2](http://arxiv.org/abs/2403.06054v2)|null|
-|**2024-03-09**|**CoNFiLD: Conditional Neural Field Latent Diffusion Model Generating Spatiotemporal Turbulence**|Pan Du et.al.|[2403.05940v1](http://arxiv.org/abs/2403.05940v1)|null|
+|**2024-03-15**|**CoNFiLD: Conditional Neural Field Latent Diffusion Model Generating Spatiotemporal Turbulence**|Pan Du et.al.|[2403.05940v2](http://arxiv.org/abs/2403.05940v2)|null|
 |**2024-03-09**|**Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution**|Junxiong Lin et.al.|[2403.05808v1](http://arxiv.org/abs/2403.05808v1)|null|
 |**2024-03-08**|**An End-to-End Pipeline Perspective on Video Streaming in Best-Effort Networks: A Survey and Tutorial**|Leonardo Peroni et.al.|[2403.05192v1](http://arxiv.org/abs/2403.05192v1)|null|
 |**2024-03-08**|**CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion**|Wendi Zheng et.al.|[2403.05121v1](http://arxiv.org/abs/2403.05121v1)|null|
@@ -51,7 +51,7 @@
 |**2024-03-07**|**ODVista: An Omnidirectional Video Dataset for super-resolution and Quality Enhancement Tasks**|Ahmed Telili et.al.|[2403.00604v2](http://arxiv.org/abs/2403.00604v2)|**[link](https://github.com/omnidirectional-video-group/odvista)**|
 |**2024-02-29**|**SeD: Semantic-Aware Discriminator for Image Super-Resolution**|Bingchen Li et.al.|[2402.19387v1](http://arxiv.org/abs/2402.19387v1)|null|
 |**2024-02-29**|**3D Super-resolution Optical Fluctuation Imaging with Temporal Focusing two-photon excitation**|Pawel Szczypkowski et.al.|[2402.19338v1](http://arxiv.org/abs/2402.19338v1)|null|
-|**2024-02-29**|**CAMixerSR: Only Details Need More "Attention"**|Yan Wang et.al.|[2402.19289v1](http://arxiv.org/abs/2402.19289v1)|**[link](https://github.com/icandle/camixersr)**|
+|**2024-03-15**|**CAMixerSR: Only Details Need More "Attention"**|Yan Wang et.al.|[2402.19289v2](http://arxiv.org/abs/2402.19289v2)|**[link](https://github.com/icandle/camixersr)**|
 |**2024-02-29**|**Training Generative Image Super-Resolution Models by Wavelet-Domain Losses Enables Better Control of Artifacts**|Cansu Korkmaz et.al.|[2402.19215v1](http://arxiv.org/abs/2402.19215v1)|**[link](https://github.com/mandalinadagi/wgsr)**|
 |**2024-02-29**|**Unsupervised Learning of High-resolution Light Field Imaging via Beam Splitter-based Hybrid Lenses**|Jianxin Lei et.al.|[2402.19020v1](http://arxiv.org/abs/2402.19020v1)|null|
 |**2024-03-01**|**Navigating Beyond Dropout: An Intriguing Solution Towards Generalizable Image Super Resolution**|Hongjun Wang et.al.|[2402.18929v2](http://arxiv.org/abs/2402.18929v2)|**[link](https://github.com/dreamzz5/simple-align)**|
@@ -1393,7 +1393,7 @@
 |**2024-03-14**|**Functions Analytic at Infinity and Normality**|Tristram de Piro et.al.|[2403.09584v1](http://arxiv.org/abs/2403.09584v1)|null|
 |**2024-03-14**|**uaMix-MAE: Efficient Tuning of Pretrained Audio Transformers with Unsupervised Audio Mixtures**|Afrina Tabassum et.al.|[2403.09579v1](http://arxiv.org/abs/2403.09579v1)|**[link](https://github.com/plan-lab/uamix-mae)**|
 |**2024-03-14**|**Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation**|Yunhao Gou et.al.|[2403.09572v1](http://arxiv.org/abs/2403.09572v1)|null|
-|**2024-03-14**|**de Leeuw representations of functionals on Lipschitz spaces**|Ramón J. Aliaga et.al.|[2403.09546v1](http://arxiv.org/abs/2403.09546v1)|null|
+|**2024-03-15**|**de Leeuw representations of functionals on Lipschitz spaces**|Ramón J. Aliaga et.al.|[2403.09546v2](http://arxiv.org/abs/2403.09546v2)|null|
 |**2024-03-14**|**VisionGPT-3D: A Generalized Multimodal Agent for Enhanced 3D Vision Understanding**|Chris Kelly et.al.|[2403.09530v1](http://arxiv.org/abs/2403.09530v1)|null|
 |**2024-03-14**|**Quantum Fourier Transform using Dynamic Circuits**|Elisa Bäumer et.al.|[2403.09514v1](http://arxiv.org/abs/2403.09514v1)|null|
 |**2024-03-14**|**SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition**|Jeonghyeok Do et.al.|[2403.09508v1](http://arxiv.org/abs/2403.09508v1)|null|
@@ -15758,7 +15758,7 @@
 |**2023-08-03**|**DiffGANPaint: Fast Inpainting Using Denoising Diffusion GANs**|Moein Heidari et.al.|[2311.11469v1](http://arxiv.org/abs/2311.11469v1)|null|
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089v1](http://arxiv.org/abs/2311.10089v1)|null|
 |**2023-11-08**|**VioLA: Aligning Videos to 2D LiDAR Scans**|Jun-Jee Chao et.al.|[2311.04783v1](http://arxiv.org/abs/2311.04783v1)|null|
-|**2023-11-06**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008v1](http://arxiv.org/abs/2311.03008v1)|null|
+|**2024-03-15**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008v2](http://arxiv.org/abs/2311.03008v2)|null|
 |**2024-01-06**|**Navigating the Complex Landscape of Shock Filter Cahn-Hilliard Equation: From Regularized to Young Measure Solutions**|Darko Mitrovic et.al.|[2310.20383v2](http://arxiv.org/abs/2310.20383v2)|null|
 |**2023-10-23**|**Online Detection of AI-Generated Images**|David C. Epstein et.al.|[2310.15150v1](http://arxiv.org/abs/2310.15150v1)|null|
 |**2023-10-13**|**SAIR: Learning Semantic-aware Implicit Representation**|Canyu Zhang et.al.|[2310.09285v1](http://arxiv.org/abs/2310.09285v1)|null|
