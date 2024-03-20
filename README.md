@@ -39,7 +39,7 @@
 |**2024-03-13**|**PFStorer: Personalized Face Restoration and Super-Resolution**|Tuomas Varanka et.al.|[2403.08436v1](http://arxiv.org/abs/2403.08436v1)|null|
 |**2024-03-13**|**Activating Wider Areas in Image Super-Resolution**|Cheng Cheng et.al.|[2403.08330v1](http://arxiv.org/abs/2403.08330v1)|null|
 |**2024-03-07**|**Accelerating multigrid solver with generative super-resolution**|Francisco Holguin et.al.|[2403.07936v1](http://arxiv.org/abs/2403.07936v1)|null|
-|**2024-03-13**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v2](http://arxiv.org/abs/2403.07673v2)|null|
+|**2024-03-19**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v3](http://arxiv.org/abs/2403.07673v3)|null|
 |**2024-03-12**|**Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution**|Haochen Sun et.al.|[2403.07390v1](http://arxiv.org/abs/2403.07390v1)|null|
 |**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319v1](http://arxiv.org/abs/2403.07319v1)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-03-12**|**Learning Hierarchical Color Guidance for Depth Map Super-Resolution**|Runmin Cong et.al.|[2403.07290v1](http://arxiv.org/abs/2403.07290v1)|null|
@@ -929,7 +929,7 @@
 |**2024-03-15**|**BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution**|Feng Li et.al.|[2403.10211v1](http://arxiv.org/abs/2403.10211v1)|**[link](https://github.com/lifengcs/blinddiff)**|
 |**2024-03-14**|**Deep unfolding Network for Hyperspectral Image Super-Resolution with Automatic Exposure Correction**|Yuan Fang et.al.|[2403.09096v1](http://arxiv.org/abs/2403.09096v1)|null|
 |**2024-03-13**|**Activating Wider Areas in Image Super-Resolution**|Cheng Cheng et.al.|[2403.08330v1](http://arxiv.org/abs/2403.08330v1)|null|
-|**2024-03-13**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v2](http://arxiv.org/abs/2403.07673v2)|null|
+|**2024-03-19**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v3](http://arxiv.org/abs/2403.07673v3)|null|
 |**2024-03-12**|**Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution**|Haochen Sun et.al.|[2403.07390v1](http://arxiv.org/abs/2403.07390v1)|null|
 |**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319v1](http://arxiv.org/abs/2403.07319v1)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-03-09**|**Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution**|Junxiong Lin et.al.|[2403.05808v1](http://arxiv.org/abs/2403.05808v1)|null|
@@ -967,7 +967,7 @@
 |**2023-12-24**|**BSRAW: Improving Blind RAW Image Super-Resolution**|Marcos V. Conde et.al.|[2312.15487v1](http://arxiv.org/abs/2312.15487v1)|**[link](https://github.com/mv-lab/AISP)**|
 |**2023-12-22**|**DDistill-SR: Reparameterized Dynamic Distillation Network for Lightweight Image Super-Resolution**|Yan Wang et.al.|[2312.14551v1](http://arxiv.org/abs/2312.14551v1)|**[link](https://github.com/icandle/ddistill-sr)**|
 |**2023-12-20**|**EPNet: An Efficient Pyramid Network for Enhanced Single-Image Super-Resolution with Reduced Computational Requirements**|Xin Xu et.al.|[2312.13396v1](http://arxiv.org/abs/2312.13396v1)|null|
-|**2023-12-18**|**Self-Supervised Learning for Image Super-Resolution and Deblurring**|Jérémy Scanvic et.al.|[2312.11232v1](http://arxiv.org/abs/2312.11232v1)|**[link](https://github.com/jscanvic/scale-equivariant-imaging)**|
+|**2024-03-19**|**Self-Supervised Learning for Image Super-Resolution and Deblurring**|Jérémy Scanvic et.al.|[2312.11232v2](http://arxiv.org/abs/2312.11232v2)|**[link](https://github.com/jscanvic/scale-equivariant-imaging)**|
 |**2024-03-03**|**Diffusion-based Blind Text Image Super-Resolution**|Yuzhe Zhang et.al.|[2312.08886v2](http://arxiv.org/abs/2312.08886v2)|null|
 |**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
 |**2023-12-13**|**Toward Real World Stereo Image Super-Resolution via Hybrid Degradation Model and Discriminator for Implied Stereo Image Information**|Yuanbo Zhou et.al.|[2312.07934v1](http://arxiv.org/abs/2312.07934v1)|**[link](https://github.com/fzuzyb/scglanet)**|
@@ -1437,7 +1437,7 @@
 |**2024-03-18**|**Layer-diverse Negative Sampling for Graph Neural Networks**|Wei Duan et.al.|[2403.11408v1](http://arxiv.org/abs/2403.11408v1)|null|
 |**2024-03-18**|**Tidal Formation of dark matter deficit diffuse galaxy NGC1052-DF2 by SIDM**|Zhao-Chen Zhang et.al.|[2403.11403v1](http://arxiv.org/abs/2403.11403v1)|null|
 |**2024-03-18**|**Embracing the Generative AI Revolution: Advancing Tertiary Education in Cybersecurity with GPT**|Raza Nowrozy et.al.|[2403.11402v1](http://arxiv.org/abs/2403.11402v1)|null|
-|**2024-03-18**|**Automated data processing and feature engineering for deep learning and big data applications: a survey**|Alhassan Mumuni amd Fuseini Mumuni et.al.|[2403.11395v1](http://arxiv.org/abs/2403.11395v1)|null|
+|**2024-03-19**|**Automated data processing and feature engineering for deep learning and big data applications: a survey**|Alhassan Mumuni et.al.|[2403.11395v2](http://arxiv.org/abs/2403.11395v2)|null|
 |**2024-03-18**|**ShapeFormer: Shape Prior Visible-to-Amodal Transformer-based Amodal Instance Segmentation**|Minh Tran et.al.|[2403.11376v1](http://arxiv.org/abs/2403.11376v1)|null|
 |**2024-03-17**|**A continuous boostlet transform for acoustic waves in space-time**|Elias Zea et.al.|[2403.11362v1](http://arxiv.org/abs/2403.11362v1)|null|
 |**2024-03-17**|**Robustness of the data-driven approach in limited angle tomography**|Yiran Wang et.al.|[2403.11350v1](http://arxiv.org/abs/2403.11350v1)|null|
