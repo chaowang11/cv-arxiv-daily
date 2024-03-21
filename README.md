@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Multi-photon super-linear image scanning microscopy using upconversion nanoparticles**|Yao Wang et.al.|[2403.13436v1](http://arxiv.org/abs/2403.13436v1)|null|
+|**2024-03-20**|**Efficient scene text image super-resolution with semantic guidance**|LeoWu TomyEnrique et.al.|[2403.13330v1](http://arxiv.org/abs/2403.13330v1)|null|
 |**2024-03-18**|**Super-resolution of ultrafast pulses via spectral inversion**|Michał Lipka et.al.|[2403.12746v1](http://arxiv.org/abs/2403.12746v1)|null|
 |**2024-03-18**|**A Wideband Distributed Massive MIMO Channel Sounder for Communication and Sensing**|Michiel Sandra et.al.|[2403.11856v1](http://arxiv.org/abs/2403.11856v1)|null|
 |**2024-03-18**|**PAON: A New Neuron Model using Padé Approximants**|Onur Keleş et.al.|[2403.11791v1](http://arxiv.org/abs/2403.11791v1)|null|
@@ -923,6 +925,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Efficient scene text image super-resolution with semantic guidance**|LeoWu TomyEnrique et.al.|[2403.13330v1](http://arxiv.org/abs/2403.13330v1)|null|
 |**2024-03-18**|**PAON: A New Neuron Model using Padé Approximants**|Onur Keleş et.al.|[2403.11791v1](http://arxiv.org/abs/2403.11791v1)|null|
 |**2024-03-18**|**CasSR: Activating Image Power for Real-World Image Super-Resolution**|Haolan Chen et.al.|[2403.11451v1](http://arxiv.org/abs/2403.11451v1)|null|
 |**2024-03-18**|**VmambaIR: Visual State Space Model for Image Restoration**|Yuan Shi et.al.|[2403.11423v1](http://arxiv.org/abs/2403.11423v1)|**[link](https://github.com/alphacatplus/vmambair)**|
@@ -1406,6 +1409,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802v1](http://arxiv.org/abs/2403.13802v1)|null|
+|**2024-03-20**|**Multi-scale Traffic Flow Modeling: A Renormalization Group Approach**|Zhaohui Yang et.al.|[2403.13779v1](http://arxiv.org/abs/2403.13779v1)|null|
+|**2024-03-20**|**UTDUSS: UTokyo-SaruLab System for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge**|Wataru Nakata et.al.|[2403.13720v1](http://arxiv.org/abs/2403.13720v1)|null|
+|**2024-03-20**|**Retina Vision Transformer (RetinaViT): Introducing Scaled Patches into Vision Transformers**|Yuyang Shu et.al.|[2403.13677v1](http://arxiv.org/abs/2403.13677v1)|**[link](https://github.com/yuyangshu/retinavit)**|
+|**2024-03-20**|**DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance**|Zixuan Wang et.al.|[2403.13667v1](http://arxiv.org/abs/2403.13667v1)|null|
+|**2024-03-20**|**T-Pixel2Mesh: Combining Global and Local Transformer for 3D Mesh Generation from a Single Image**|Shijie Zhang et.al.|[2403.13663v1](http://arxiv.org/abs/2403.13663v1)|null|
+|**2024-03-20**|**H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation**|Renkai Wu et.al.|[2403.13642v1](http://arxiv.org/abs/2403.13642v1)|**[link](https://github.com/wurenkai/h-vmunet)**|
+|**2024-03-20**|**VL-Mamba: Exploring State Space Models for Multimodal Learning**|Yanyuan Qiao et.al.|[2403.13600v1](http://arxiv.org/abs/2403.13600v1)|null|
+|**2024-03-20**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer (version 1)**|Yifan Wang et.al.|[2403.13597v1](http://arxiv.org/abs/2403.13597v1)|null|
+|**2024-03-20**|**Encoding the Subsurface in 3D with Seismic**|Ben Lasscock et.al.|[2403.13593v1](http://arxiv.org/abs/2403.13593v1)|null|
+|**2024-03-20**|**Portrait4D-v2: Pseudo Multi-View Data Creates Better 4D Head Synthesizer**|Yu Deng et.al.|[2403.13570v1](http://arxiv.org/abs/2403.13570v1)|null|
+|**2024-03-20**|**Accurate Power Spectrum Estimation toward Nyquist limit**|Yipeng Wang et.al.|[2403.13561v1](http://arxiv.org/abs/2403.13561v1)|null|
+|**2024-03-20**|**The Tribal Theater Model: Social Regulation for Dynamic User Adaptation in Virtual Interactive Environments**|H. Zhang et.al.|[2403.13550v1](http://arxiv.org/abs/2403.13550v1)|null|
+|**2024-03-20**|**What explains the success of cross-modal fine-tuning with ORCA?**|Paloma García-de-Herreros et.al.|[2403.13537v1](http://arxiv.org/abs/2403.13537v1)|null|
+|**2024-03-20**|**The defect, the Malgrange functor, and linear control systems**|Alex Martsinkovsky et.al.|[2403.13520v1](http://arxiv.org/abs/2403.13520v1)|null|
+|**2024-03-20**|**High-confidence pseudo-labels for domain adaptation in COVID-19 detection**|Robert Turnbull et.al.|[2403.13509v1](http://arxiv.org/abs/2403.13509v1)|null|
+|**2024-03-20**|**The future of generative AI chatbots in higher education**|Joshua Ebere Chukwuere et.al.|[2403.13487v1](http://arxiv.org/abs/2403.13487v1)|null|
+|**2024-03-20**|**FACT: Fast and Active Coordinate Initialization for Vision-based Drone Swarms**|Yuan Li et.al.|[2403.13455v1](http://arxiv.org/abs/2403.13455v1)|null|
+|**2024-03-20**|**HyperLLaVA: Dynamic Visual and Language Expert Tuning for Multimodal Large Language Models**|Wenqiao Zhang et.al.|[2403.13447v1](http://arxiv.org/abs/2403.13447v1)|null|
+|**2024-03-20**|**MedCycle: Unpaired Medical Report Generation via Cycle-Consistency**|Elad Hirsch et.al.|[2403.13444v1](http://arxiv.org/abs/2403.13444v1)|null|
+|**2024-03-20**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Di Wang et.al.|[2403.13430v1](http://arxiv.org/abs/2403.13430v1)|null|
+|**2024-03-20**|**Detecting and Triaging Spoofing using Temporal Convolutional Networks**|Kaushalya Kularatnam et.al.|[2403.13429v1](http://arxiv.org/abs/2403.13429v1)|null|
+|**2024-03-20**|**Spatial-Spectral Complexity in Kerr Beam Self-Cleaning**|Moshe Labaz et.al.|[2403.13428v1](http://arxiv.org/abs/2403.13428v1)|null|
+|**2024-03-20**|**Causal Graph Dynamics and Kan Extensions**|Luidnel Maignan et.al.|[2403.13393v1](http://arxiv.org/abs/2403.13393v1)|null|
+|**2024-03-20**|**Charged Momentum: Electric Vehicle Surge in India's 2023 Landscape**|Rahul Wagh et.al.|[2403.13373v1](http://arxiv.org/abs/2403.13373v1)|null|
+|**2024-03-20**|**Centroidal State Estimation based on the Koopman Embedding for Dynamic Legged Locomotion**|Shahram Khorshidi et.al.|[2403.13366v1](http://arxiv.org/abs/2403.13366v1)|null|
+|**2024-03-20**|**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**|Wenxuan Song et.al.|[2403.13358v1](http://arxiv.org/abs/2403.13358v1)|null|
+|**2024-03-20**|**Dipole-dipole-interaction-induced entanglement between two-dimensional ferromagnets**|Dennis Wuhrer et.al.|[2403.13354v1](http://arxiv.org/abs/2403.13354v1)|null|
+|**2024-03-20**|**vid-TLDR: Training Free Token merging for Light-weight Video Transformer**|Joonmyung Choi et.al.|[2403.13347v1](http://arxiv.org/abs/2403.13347v1)|null|
+|**2024-03-20**|**Local Approximation of Secrecy Capacity**|Emmanouil M. Athanasakos et.al.|[2403.13345v1](http://arxiv.org/abs/2403.13345v1)|null|
+|**2024-03-20**|**Forecasting density-valued functional panel data**|Cristian F. Jiménez-Varón et.al.|[2403.13340v1](http://arxiv.org/abs/2403.13340v1)|null|
+|**2024-03-20**|**Adaptive Ensembles of Fine-Tuned Transformers for LLM-Generated Text Detection**|Zhixin Lai et.al.|[2403.13335v1](http://arxiv.org/abs/2403.13335v1)|null|
+|**2024-03-20**|**AMP: Autoregressive Motion Prediction Revisited with Next Token Prediction for Autonomous Driving**|Xiaosong Jia et.al.|[2403.13331v1](http://arxiv.org/abs/2403.13331v1)|null|
+|**2024-03-20**|**Direct search for stochastic optimization in random subspaces with zeroth-, first-, and second-order convergence and expected complexity**|K. J. Dzahini et.al.|[2403.13320v1](http://arxiv.org/abs/2403.13320v1)|null|
+|**2024-03-20**|**Multi-Robot Connected Fermat Spiral Coverage**|Jingtao Tang et.al.|[2403.13311v1](http://arxiv.org/abs/2403.13311v1)|null|
+|**2024-03-20**|**Mapping LLM Security Landscapes: A Comprehensive Stakeholder Risk Assessment Proposal**|Rahul Pankajakshan et.al.|[2403.13309v1](http://arxiv.org/abs/2403.13309v1)|null|
+|**2024-03-20**|**Rotary Position Embedding for Vision Transformer**|Byeongho Heo et.al.|[2403.13298v1](http://arxiv.org/abs/2403.13298v1)|null|
+|**2024-03-20**|**AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models**|Zeyu Liu et.al.|[2403.13269v1](http://arxiv.org/abs/2403.13269v1)|null|
+|**2024-03-20**|**Unifews: Unified Entry-Wise Sparsification for Efficient Graph Neural Network**|Ningyi Liao et.al.|[2403.13268v1](http://arxiv.org/abs/2403.13268v1)|null|
+|**2024-03-20**|**Divide-Conquer Transformer Learning for Predicting Electric Vehicle Charging Events Using Smart Meter Data**|Fucai Ke et.al.|[2403.13246v1](http://arxiv.org/abs/2403.13246v1)|null|
+|**2024-03-20**|**Stability for a multi-frequency inverse random source problem**|Tianjiao Wang et.al.|[2403.13212v1](http://arxiv.org/abs/2403.13212v1)|null|
+|**2024-03-19**|**DecentNeRFs: Decentralized Neural Radiance Fields from Crowdsourced Images**|Zaid Tasneem et.al.|[2403.13199v1](http://arxiv.org/abs/2403.13199v1)|null|
+|**2024-03-19**|**ADAPT to Robustify Prompt Tuning Vision Transformers**|Masih Eskandar et.al.|[2403.13196v1](http://arxiv.org/abs/2403.13196v1)|null|
+|**2024-03-19**|**Hermite coordinate interpolation kernels: application to image zooming**|Konstantinos K. Delibasis et.al.|[2403.13195v1](http://arxiv.org/abs/2403.13195v1)|null|
+|**2024-03-19**|**Castor: Competing shapelets for fast and accurate time series classification**|Isak Samsten et.al.|[2403.13176v1](http://arxiv.org/abs/2403.13176v1)|**[link](https://github.com/isaksamsten/castor)**|
+|**2024-03-19**|**Improved EATFormer: A Vision Transformer for Medical Image Classification**|Yulong Shisu et.al.|[2403.13167v1](http://arxiv.org/abs/2403.13167v1)|null|
+|**2024-03-19**|**DeblurDiNAT: A Lightweight and Effective Transformer for Image Deblurring**|Hanzhou Liu et.al.|[2403.13163v1](http://arxiv.org/abs/2403.13163v1)|null|
+|**2024-03-19**|**Self-generated Replay Memories for Continual Neural Machine Translation**|Michele Resta et.al.|[2403.13130v1](http://arxiv.org/abs/2403.13130v1)|null|
+|**2024-03-19**|**Trustworthiness of Pretrained Transformers for Lung Cancer Segmentation**|Aneesh Rangnekar et.al.|[2403.13113v1](http://arxiv.org/abs/2403.13113v1)|null|
+|**2024-03-19**|**Encode Once and Decode in Parallel: Efficient Transformer Decoding**|Bo-Ru Lu et.al.|[2403.13112v1](http://arxiv.org/abs/2403.13112v1)|null|
 |**2024-03-19**|**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**|Zhuoshi Pan et.al.|[2403.12968v1](http://arxiv.org/abs/2403.12968v1)|null|
 |**2024-03-19**|**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**|Shuai Yang et.al.|[2403.12962v1](http://arxiv.org/abs/2403.12962v1)|**[link](https://github.com/williamyang1991/fresco)**|
 |**2024-03-19**|**FaceXFormer: A Unified Transformer for Facial Analysis**|Kartik Narayan et.al.|[2403.12960v1](http://arxiv.org/abs/2403.12960v1)|null|
@@ -15922,6 +15975,7 @@
 |**2024-01-01**|**Revisiting Nonlocal Self-Similarity from Continuous Representation**|Yisi Luo et.al.|[2401.00708v1](http://arxiv.org/abs/2401.00708v1)|null|
 |**2023-12-25**|**Robust Stochastically-Descending Unrolled Networks**|Samar Hadou et.al.|[2312.15788v1](http://arxiv.org/abs/2312.15788v1)|**[link](https://github.com/smrhadou/unrolledglow)**|
 |**2024-03-18**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091v3](http://arxiv.org/abs/2312.14091v3)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
+|**2024-03-20**|**Towards Architecture-Agnostic Untrained Network Priors for Image Reconstruction with Frequency Regularization**|Yilin Liu et.al.|[2312.09988v2](http://arxiv.org/abs/2312.09988v2)|null|
 |**2023-12-14**|**Planning and Rendering: Towards End-to-End Product Poster Generation**|Zhaochen Li et.al.|[2312.08822v1](http://arxiv.org/abs/2312.08822v1)|null|
 |**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039v1](http://arxiv.org/abs/2312.05039v1)|null|
 |**2024-03-17**|**Towards Context-Stable and Visual-Consistent Image Inpainting**|Yikai Wang et.al.|[2312.04831v2](http://arxiv.org/abs/2312.04831v2)|**[link](https://github.com/yikai-wang/asuka-misato)**|
