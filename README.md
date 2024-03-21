@@ -1412,7 +1412,7 @@
 |**2024-03-19**|**GVGEN: Text-to-3D Generation with Volumetric Representation**|Xianglong He et.al.|[2403.12957v1](http://arxiv.org/abs/2403.12957v1)|null|
 |**2024-03-19**|**Fundamental limitations on the recoverability of quantum processes**|Sohail et.al.|[2403.12947v1](http://arxiv.org/abs/2403.12947v1)|null|
 |**2024-03-19**|**Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers**|Vidhi Jain et.al.|[2403.12943v1](http://arxiv.org/abs/2403.12943v1)|null|
-|**2024-03-19**|**Tournaments and random walks**|Serte Donderwinkel et.al.|[2403.12940v1](http://arxiv.org/abs/2403.12940v1)|null|
+|**2024-03-20**|**Tournaments and random walks**|Serte Donderwinkel et.al.|[2403.12940v2](http://arxiv.org/abs/2403.12940v2)|null|
 |**2024-03-19**|**You Only Sample Once: Taming One-Step Text-To-Image Synthesis by Self-Cooperative Diffusion GANs**|Yihong Luo et.al.|[2403.12931v1](http://arxiv.org/abs/2403.12931v1)|**[link](https://github.com/luo-yihong/yoso)**|
 |**2024-03-19**|**On the  $N$ -waves hierarchy with constant boundary conditions. Spectral properties**|Vladimir S. Gerdjikov et.al.|[2403.12925v1](http://arxiv.org/abs/2403.12925v1)|null|
 |**2024-03-19**|**Probing the Fermi surface with Quantum Oscillation Measurements in the Dirac semimetal TaNiTe $_5$ **|Maximilian Daschner et.al.|[2403.12921v1](http://arxiv.org/abs/2403.12921v1)|null|
