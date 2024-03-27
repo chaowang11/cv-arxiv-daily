@@ -1423,9 +1423,9 @@
 |**2024-03-25**|**Nambu-Goldstone Modes in Magnetized  $T^{2n}$  Extra Dimensions**|Takuya Hirose et.al.|[2403.16801v1](http://arxiv.org/abs/2403.16801v1)|null|
 |**2024-03-25**|**Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases**|Sophie Starck et.al.|[2403.16776v1](http://arxiv.org/abs/2403.16776v1)|null|
 |**2024-03-25**|**Skyrmionic device for three dimensional magnetic field sensing enabled by spin-orbit torques**|Sabri Koraltan et.al.|[2403.16725v1](http://arxiv.org/abs/2403.16725v1)|null|
-|**2024-03-25**|**Phase Transformation in Lithium Niobate-Lithium Tantalate Solid Solutions (LiNb $_{1-x}$ Ta $_x$ O $_3$ )**|Fatima El Azzouzi et.al.|[2403.16717v1](http://arxiv.org/abs/2403.16717v1)|null|
+|**2024-03-26**|**Phase Transformation in Lithium Niobate-Lithium Tantalate Solid Solutions (LiNb $_{1-x}$ Ta $_x$ O $_3$ )**|Fatima El Azzouzi et.al.|[2403.16717v2](http://arxiv.org/abs/2403.16717v2)|null|
 |**2024-03-25**|**DeepGleason: a System for Automated Gleason Grading of Prostate Cancer using Deep Neural Networks**|Dominik Müller et.al.|[2403.16678v1](http://arxiv.org/abs/2403.16678v1)|**[link](https://github.com/frankkramer-lab/deepgleason)**|
-|**2024-03-25**|**Adaptive Frequency Bin Interval in FFT via Dense Sampling Factor  $α$ **|Haichao Xu et.al.|[2403.16665v1](http://arxiv.org/abs/2403.16665v1)|null|
+|**2024-03-26**|**Adaptive Frequency Bin Interval in FFT via Dense Sampling Factor  $α$ **|Haichao Xu et.al.|[2403.16665v2](http://arxiv.org/abs/2403.16665v2)|null|
 |**2024-03-25**|**Grammatical vs Spelling Error Correction: An Investigation into the Responsiveness of Transformer-based Language Models using BART and MarianMT**|Rohit Raju et.al.|[2403.16655v1](http://arxiv.org/abs/2403.16655v1)|null|
 |**2024-03-25**|**Symbolic and User-friendly Geometric Algebra Routines (SUGAR) for Computations in Matlab**|Manel Velasco et.al.|[2403.16634v1](http://arxiv.org/abs/2403.16634v1)|null|
 |**2024-03-25**|**A comparative analysis of embedding models for patent similarity**|Grazia Sveva Ascione et.al.|[2403.16630v1](http://arxiv.org/abs/2403.16630v1)|null|
