@@ -1465,7 +1465,7 @@
 |**2024-03-27**|**Asymptotic symmetries from the string worldsheet**|Zhengyuan Du et.al.|[2403.18396v1](http://arxiv.org/abs/2403.18396v1)|null|
 |**2024-03-27**|**IIP-Mixer:Intra-Inter Patch Mixing Architecture for Battery Remaining Useful Life Prediction**|Guangzai Ye et.al.|[2403.18379v1](http://arxiv.org/abs/2403.18379v1)|null|
 |**2024-03-27**|**Multivariable control of modular multilevel converters with convergence and safety guarantees**|Victor Daniel Reyes Dreke et.al.|[2403.18371v1](http://arxiv.org/abs/2403.18371v1)|null|
-|**2024-03-27**|**ViTAR: Vision Transformer with Any Resolution**|Qihang Fan et.al.|[2403.18361v1](http://arxiv.org/abs/2403.18361v1)|null|
+|**2024-03-28**|**ViTAR: Vision Transformer with Any Resolution**|Qihang Fan et.al.|[2403.18361v2](http://arxiv.org/abs/2403.18361v2)|null|
 |**2024-03-27**|**Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation**|Ba Hung Ngo et.al.|[2403.18360v1](http://arxiv.org/abs/2403.18360v1)|null|
 |**2024-03-27**|**Imaging radar and LiDAR image translation for 3-DOF extrinsic calibration**|Sangwoo Jung et.al.|[2403.18358v1](http://arxiv.org/abs/2403.18358v1)|null|
 |**2024-03-27**|**Shaping entangled photons through thick scattering media using an advanced wave beacon**|Ronen Shekel et.al.|[2403.18324v1](http://arxiv.org/abs/2403.18324v1)|null|
@@ -16271,7 +16271,7 @@
 |**2023-12-03**|**CalliPaint: Chinese Calligraphy Inpainting with Diffusion Model**|Qisheng Liao et.al.|[2312.01536v1](http://arxiv.org/abs/2312.01536v1)|null|
 |**2023-11-28**|**Denoising Diffusion Probabilistic Models for Image Inpainting of Cell Distributions in the Human Brain**|Jan-Oliver Kropp et.al.|[2311.16821v1](http://arxiv.org/abs/2311.16821v1)|null|
 |**2023-11-28**|**Efficient Multimodal Diffusion Models Using Joint Data Infilling with Partially Shared U-Net**|Zizhao Hu et.al.|[2311.16488v1](http://arxiv.org/abs/2311.16488v1)|null|
-|**2024-01-30**|**ACT: Adversarial Consistency Models**|Fei Kong et.al.|[2311.14097v2](http://arxiv.org/abs/2311.14097v2)|null|
+|**2024-03-28**|**ACT-Diffusion: Efficient Adversarial Consistency Training for One-step Diffusion Models**|Fei Kong et.al.|[2311.14097v3](http://arxiv.org/abs/2311.14097v3)|null|
 |**2023-08-03**|**DiffGANPaint: Fast Inpainting Using Denoising Diffusion GANs**|Moein Heidari et.al.|[2311.11469v1](http://arxiv.org/abs/2311.11469v1)|null|
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089v1](http://arxiv.org/abs/2311.10089v1)|null|
 |**2023-11-08**|**VioLA: Aligning Videos to 2D LiDAR Scans**|Jun-Jee Chao et.al.|[2311.04783v1](http://arxiv.org/abs/2311.04783v1)|null|
