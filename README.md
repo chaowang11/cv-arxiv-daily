@@ -1473,7 +1473,7 @@
 |**2024-03-29**|**An existence and uniqueness result to evolution equations with sign-changing pseudo-differential operators and its applications to logarithmic Laplacian operators and second-order differential operators without ellipticity**|Jae-Hwan Choi et.al.|[2403.19968v1](http://arxiv.org/abs/2403.19968v1)|null|
 |**2024-03-29**|**Theoretical investigation on the optical absorption spectra in cyclo[n]carbons (n=10, 14, 18)**|Xuhai Hong et.al.|[2403.19952v1](http://arxiv.org/abs/2403.19952v1)|null|
 |**2024-03-29**|**TDANet: A Novel Temporal Denoise Convolutional Neural Network With Attention for Fault Diagnosis**|Zhongzhi Li et.al.|[2403.19943v1](http://arxiv.org/abs/2403.19943v1)|null|
-|**2024-03-29**|**DiJiang: Efficient Large Language Models through Compact Kernelization**|Hanting Chen et.al.|[2403.19928v1](http://arxiv.org/abs/2403.19928v1)|null|
+|**2024-04-01**|**DiJiang: Efficient Large Language Models through Compact Kernelization**|Hanting Chen et.al.|[2403.19928v2](http://arxiv.org/abs/2403.19928v2)|**[link](https://github.com/yuchuantian/dijiang)**|
 |**2024-03-29**|**Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces**|Toshihiro Ota et.al.|[2403.19925v1](http://arxiv.org/abs/2403.19925v1)|**[link](https://github.com/toshihiro-ota/decision-mamba)**|
 |**2024-03-29**|**SceneTracker: Long-term Scene Flow Estimation Network**|Bo Wang et.al.|[2403.19924v1](http://arxiv.org/abs/2403.19924v1)|null|
 |**2024-03-29**|**On the Preprocessing of Physics-informed Neural Networks: How to Better Utilize Data in Fluid Mechanics**|Shengfeng Xu et.al.|[2403.19923v1](http://arxiv.org/abs/2403.19923v1)|null|
@@ -16329,7 +16329,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-29**|**Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting**|Haipeng Liu et.al.|[2403.19898v1](http://arxiv.org/abs/2403.19898v1)|**[link](https://github.com/htyjers/strdiffusion)**|
+|**2024-04-01**|**Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting**|Haipeng Liu et.al.|[2403.19898v2](http://arxiv.org/abs/2403.19898v2)|**[link](https://github.com/htyjers/strdiffusion)**|
 |**2024-03-28**|**Locate, Assign, Refine: Taming Customized Image Inpainting with Text-Subject Guidance**|Yulin Pan et.al.|[2403.19534v1](http://arxiv.org/abs/2403.19534v1)|null|
 |**2024-03-27**|**Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting**|Haiwei Chen et.al.|[2403.18186v1](http://arxiv.org/abs/2403.18186v1)|null|
 |**2024-03-26**|**An inexact proximal MM method for a class of nonconvex composite image reconstruction models**|Bujin Li et.al.|[2403.17450v1](http://arxiv.org/abs/2403.17450v1)|null|
