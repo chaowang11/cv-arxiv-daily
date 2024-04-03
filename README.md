@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Super-Resolution Analysis for Landfill Waste Classification**|Matias Molina et.al.|[2404.01790v1](http://arxiv.org/abs/2404.01790v1)|null|
+|**2024-04-02**|**AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation**|Rui Xie et.al.|[2404.01717v1](http://arxiv.org/abs/2404.01717v1)|null|
+|**2024-04-02**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692v1](http://arxiv.org/abs/2404.01692v1)|null|
+|**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690v1](http://arxiv.org/abs/2404.01690v1)|null|
+|**2024-04-01**|**Video Interpolation with Diffusion Models**|Siddhant Jain et.al.|[2404.01203v1](http://arxiv.org/abs/2404.01203v1)|null|
+|**2024-04-01**|**DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF**|Jie Long Lee et.al.|[2404.00874v1](http://arxiv.org/abs/2404.00874v1)|null|
+|**2024-04-02**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v2](http://arxiv.org/abs/2404.00722v2)|null|
+|**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
+|**2024-03-30**|**SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising**|Runmin Zhang et.al.|[2404.00349v1](http://arxiv.org/abs/2404.00349v1)|null|
+|**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|null|
 |**2024-03-28**|**Burst Super-Resolution with Diffusion Models for Improving Perceptual Quality**|Kyotaro Tokoro et.al.|[2403.19428v1](http://arxiv.org/abs/2403.19428v1)|**[link](https://github.com/placerkyo/bsrd)**|
 |**2024-03-28**|**Structured illumination microscopy with extreme ultraviolet pulses**|R. Mincigrucci et.al.|[2403.19382v1](http://arxiv.org/abs/2403.19382v1)|null|
 |**2024-03-27**|**Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D**|Mukund Varma T et.al.|[2403.18922v1](http://arxiv.org/abs/2403.18922v1)|null|
@@ -947,6 +957,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692v1](http://arxiv.org/abs/2404.01692v1)|null|
+|**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690v1](http://arxiv.org/abs/2404.01690v1)|null|
+|**2024-04-02**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v2](http://arxiv.org/abs/2404.00722v2)|null|
+|**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
+|**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|null|
 |**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370v1](http://arxiv.org/abs/2403.18370v1)|**[link](https://github.com/luigisigillo/shipinsight)**|
 |**2024-03-27**|**Super-Resolution of SOHO/MDI Magnetograms of Solar Active Regions Using SDO/HMI Data and an Attention-Aided Convolutional Neural Network**|Chunhui Xu et.al.|[2403.18302v1](http://arxiv.org/abs/2403.18302v1)|null|
 |**2024-03-26**|**Algorithmic unfolding for image reconstruction and localization problems in fluorescence microscopy**|Silvia Bonettini et.al.|[2403.17506v1](http://arxiv.org/abs/2403.17506v1)|**[link](https://github.com/danilopezzi/agd-unfolding-for-microscopy-imaging)**|
@@ -1439,6 +1454,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jienneg Chen et.al.|[2404.02132v1](http://arxiv.org/abs/2404.02132v1)|**[link](https://github.com/beckschen/vitamin)**|
+|**2024-04-02**|**Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners**|Keon-Hee Park et.al.|[2404.02117v1](http://arxiv.org/abs/2404.02117v1)|**[link](https://github.com/khu-agi/privilege)**|
+|**2024-04-02**|**Neural Ordinary Differential Equation based Sequential Image Registration for Dynamic Characterization**|Yifan Wu et.al.|[2404.02106v1](http://arxiv.org/abs/2404.02106v1)|null|
+|**2024-04-02**|**WcDT: World-centric Diffusion Transformer for Traffic Scene Generation**|Chen Yang et.al.|[2404.02082v1](http://arxiv.org/abs/2404.02082v1)|**[link](https://github.com/yangchen1997/wcdt)**|
+|**2024-04-02**|**EGTR: Extracting Graph from Transformer for Scene Graph Generation**|Jinbae Im et.al.|[2404.02072v1](http://arxiv.org/abs/2404.02072v1)|**[link](https://github.com/naver-ai/egtr)**|
+|**2024-04-02**|**SPMamba: State-space model is all you need in speech separation**|Kai Li et.al.|[2404.02063v1](http://arxiv.org/abs/2404.02063v1)|**[link](https://github.com/jusperlee/spmamba)**|
+|**2024-04-02**|**IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT**|Junchen Fu et.al.|[2404.02059v1](http://arxiv.org/abs/2404.02059v1)|**[link](https://github.com/jjgenailab/iisan)**|
+|**2024-04-02**|**Transformers as Transducers**|Lena Strobl et.al.|[2404.02040v1](http://arxiv.org/abs/2404.02040v1)|null|
+|**2024-04-02**|**Enhancing Portfolio Optimization with Transformer-GAN Integration: A Novel Approach in the Black-Litterman Framework**|Enmin Zhu et.al.|[2404.02029v1](http://arxiv.org/abs/2404.02029v1)|null|
+|**2024-04-02**|**Computable conditions for order-2  $CP$  symmetry in NHDM potentials**|R. Plantey et.al.|[2404.02004v1](http://arxiv.org/abs/2404.02004v1)|null|
+|**2024-04-02**|**Cooperative Students: Navigating Unsupervised Domain Adaptation in Nighttime Object Detection**|Jicheng Yuan et.al.|[2404.01988v1](http://arxiv.org/abs/2404.01988v1)|**[link](https://github.com/jichengyuan/cooperitive_students)**|
+|**2024-04-02**|**Duality transformations and the entanglement entropy of gauge theories**|Andrea Bulgarelli et.al.|[2404.01987v1](http://arxiv.org/abs/2404.01987v1)|null|
+|**2024-04-02**|**Contact germs and partial differential equations**|O. V. Kaptsov et.al.|[2404.01955v1](http://arxiv.org/abs/2404.01955v1)|null|
+|**2024-04-02**|**Dunford property for composition operators on  $H^p$ -spaces**|Eva A. Gallardo-Gutiérrez et.al.|[2404.01939v1](http://arxiv.org/abs/2404.01939v1)|null|
+|**2024-04-02**|**Improving Bird's Eye View Semantic Segmentation by Task Decomposition**|Tianhao Zhao et.al.|[2404.01925v1](http://arxiv.org/abs/2404.01925v1)|null|
+|**2024-04-02**|**A note on limiting Calderon-Zygmund theory for transformed  $n$ -Laplace systems in divergence form**|Dorian Martino et.al.|[2404.01922v1](http://arxiv.org/abs/2404.01922v1)|null|
+|**2024-04-02**|**Minimize Quantization Output Error with Bias Compensation**|Cheng Gong et.al.|[2404.01892v1](http://arxiv.org/abs/2404.01892v1)|null|
+|**2024-04-02**|**ASTRA: An Action Spotting TRAnsformer for Soccer Videos**|Artur Xarles et.al.|[2404.01891v1](http://arxiv.org/abs/2404.01891v1)|**[link](https://github.com/arturxe2/astra)**|
+|**2024-04-02**|**3D Scene Generation from Scene Graphs and Self-Attention**|Pietro Bonazzi et.al.|[2404.01887v1](http://arxiv.org/abs/2404.01887v1)|null|
+|**2024-04-02**|**Scene Adaptive Sparse Transformer for Event-based Object Detection**|Yansong Peng et.al.|[2404.01882v1](http://arxiv.org/abs/2404.01882v1)|**[link](https://github.com/peterande/sast)**|
+|**2024-04-02**|**Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model**|Xu He et.al.|[2404.01862v1](http://arxiv.org/abs/2404.01862v1)|**[link](https://github.com/thuhcsi/s2g-mddiffusion)**|
+|**2024-04-02**|**EV2Gym: A Flexible V2G Simulator for EV Smart Charging Research and Benchmarking**|Stavros Orfanoudakis et.al.|[2404.01849v1](http://arxiv.org/abs/2404.01849v1)|null|
+|**2024-04-02**|**Accelerating Transformer Pre-Training with 2:4 Sparsity**|Yuezhou Hu et.al.|[2404.01847v1](http://arxiv.org/abs/2404.01847v1)|null|
+|**2024-04-02**|**Model Predictive Control of District Heating Grids Using Stabilizing Terminal Ingredients**|Max Rose et.al.|[2404.01820v1](http://arxiv.org/abs/2404.01820v1)|null|
+|**2024-04-02**|**Sparse Semi-DETR: Sparse Learnable Queries for Semi-Supervised Object Detection**|Tahira Shehzadi et.al.|[2404.01819v1](http://arxiv.org/abs/2404.01819v1)|null|
+|**2024-04-02**|**Tensorized NeuroEvolution of Augmenting Topologies for GPU Acceleration**|Lishuang Wang et.al.|[2404.01817v1](http://arxiv.org/abs/2404.01817v1)|**[link](https://github.com/emi-group/tensorneat)**|
+|**2024-04-02**|**Improved Text Emotion Prediction Using Combined Valence and Arousal Ordinal Classification**|Michael Mitsios et.al.|[2404.01805v1](http://arxiv.org/abs/2404.01805v1)|null|
+|**2024-04-02**|**Sentiment Analysis of Citations in Scientific Articles Using ChatGPT: Identifying Potential Biases and Conflicts of Interest**|Walid Hariri et.al.|[2404.01800v1](http://arxiv.org/abs/2404.01800v1)|null|
+|**2024-04-02**|**On the Algorithmic Recovering of Coefficients in Linearizable Differential Equations**|Dmitry A. Lyakhov et.al.|[2404.01798v1](http://arxiv.org/abs/2404.01798v1)|null|
+|**2024-04-02**|**Two bijections in the spirit of the transformation fondamentale**|Umesh Shankar et.al.|[2404.01788v1](http://arxiv.org/abs/2404.01788v1)|null|
+|**2024-04-02**|**CSST Strong Lensing Preparation: a Framework for Detecting Strong Lenses in the Multi-color Imaging Survey by the China Survey Space Telescope (CSST)**|Xu Li et.al.|[2404.01780v1](http://arxiv.org/abs/2404.01780v1)|null|
+|**2024-04-02**|**GEARS: Local Geometry-aware Hand-object Interaction Synthesis**|Keyang Zhou et.al.|[2404.01758v1](http://arxiv.org/abs/2404.01758v1)|null|
+|**2024-04-02**|**M2SA: Multimodal and Multilingual Model for Sentiment Analysis of Tweets**|Gaurish Thakkar et.al.|[2404.01753v1](http://arxiv.org/abs/2404.01753v1)|null|
+|**2024-04-02**|**Generative AI for Immersive Communication: The Next Frontier in Internet-of-Senses Through 6G**|Nassim Sehad et.al.|[2404.01713v1](http://arxiv.org/abs/2404.01713v1)|null|
+|**2024-04-02**|**Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**|Qinfeng Zhu et.al.|[2404.01705v1](http://arxiv.org/abs/2404.01705v1)|null|
+|**2024-04-02**|**MotionChain: Conversational Motion Controllers via Multimodal Prompts**|Biao Jiang et.al.|[2404.01700v1](http://arxiv.org/abs/2404.01700v1)|null|
+|**2024-04-02**|**A Universal Knowledge Embedded Contrastive Learning Framework for Hyperspectral Image Classification**|Quanwei Liu et.al.|[2404.01673v1](http://arxiv.org/abs/2404.01673v1)|null|
+|**2024-04-02**|**Release of Pre-Trained Models for the Japanese Language**|Kei Sawada et.al.|[2404.01657v1](http://arxiv.org/abs/2404.01657v1)|null|
+|**2024-04-02**|**Transformer meets wcDTW to improve real-time battery bids: A new approach to scenario selection**|Sujal Bhavsar et.al.|[2404.01646v1](http://arxiv.org/abs/2404.01646v1)|null|
+|**2024-04-02**|**ContrastCAD: Contrastive Learning-based Representation Learning for Computer-Aided Design Models**|Minseop Jung et.al.|[2404.01645v1](http://arxiv.org/abs/2404.01645v1)|**[link](https://github.com/cm8908/contrastcad)**|
+|**2024-04-02**|**Gen4DS: Workshop on Data Storytelling in an Era of Generative AI**|Xingyu Lan et.al.|[2404.01622v1](http://arxiv.org/abs/2404.01622v1)|null|
+|**2024-04-02**|**The Fourier Transform and Characteristic Cycles of Monodromic  $\ell$ -adic Sheaves**|Tong Zhou et.al.|[2404.01621v1](http://arxiv.org/abs/2404.01621v1)|null|
+|**2024-04-02**|**Transforming LLMs into Cross-modal and Cross-lingual RetrievalSystems**|Frank Palma Gomez et.al.|[2404.01616v1](http://arxiv.org/abs/2404.01616v1)|null|
+|**2024-04-02**|**Audio Simulation for Sound Source Localization in Virtual Evironment**|Yi Di Yuan et.al.|[2404.01611v1](http://arxiv.org/abs/2404.01611v1)|null|
+|**2024-04-02**|**What Can Transformer Learn with Varying Depth? Case Studies on Sequence Learning Tasks**|Xingwu Chen et.al.|[2404.01601v1](http://arxiv.org/abs/2404.01601v1)|null|
+|**2024-04-02**|**Leveraging Digital Perceptual Technologies for Remote Perception and Analysis of Human Biomechanical Processes: A Contactless Approach for Workload and Joint Force Assessment**|Jesudara Omidokun et.al.|[2404.01576v1](http://arxiv.org/abs/2404.01576v1)|null|
+|**2024-04-02**|**Multi-granular Adversarial Attacks against Black-box Neural Ranking Models**|Yu-An Liu et.al.|[2404.01574v1](http://arxiv.org/abs/2404.01574v1)|null|
+|**2024-04-02**|**A Linear Time and Space Local Point Cloud Geometry Encoder via Vectorized Kernel Mixture (VecKM)**|Dehao Yuan et.al.|[2404.01568v1](http://arxiv.org/abs/2404.01568v1)|null|
+|**2024-04-02**|**Heterogeneous Treatment Effects and Causal Mechanisms**|Jiawei Fu et.al.|[2404.01566v1](http://arxiv.org/abs/2404.01566v1)|null|
+|**2024-04-02**|**Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining**|Xiang Chen et.al.|[2404.01547v1](http://arxiv.org/abs/2404.01547v1)|null|
 |**2024-03-29**|**Localising the Seizure Onset Zone from Single-Pulse Electrical Stimulation Responses with a Transformer**|Jamie Norris et.al.|[2403.20324v1](http://arxiv.org/abs/2403.20324v1)|**[link](https://github.com/norrisjamie23/localising_soz_from_spes)**|
 |**2024-03-29**|**MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning**|Ahmed Agiza et.al.|[2403.20320v1](http://arxiv.org/abs/2403.20320v1)|**[link](https://github.com/scale-lab/mtlora)**|
 |**2024-03-29**|**Convolutional Prompting meets Language Models for Continual Learning**|Anurag Roy et.al.|[2403.20317v1](http://arxiv.org/abs/2403.20317v1)|null|
@@ -16329,6 +16394,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-31**|**Transformer based Pluralistic Image Completion with Reduced Information Loss**|Qiankun Liu et.al.|[2404.00513v1](http://arxiv.org/abs/2404.00513v1)|**[link](https://github.com/liuqk3/put)**|
 |**2024-04-01**|**Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting**|Haipeng Liu et.al.|[2403.19898v2](http://arxiv.org/abs/2403.19898v2)|**[link](https://github.com/htyjers/strdiffusion)**|
 |**2024-03-28**|**Locate, Assign, Refine: Taming Customized Image Inpainting with Text-Subject Guidance**|Yulin Pan et.al.|[2403.19534v1](http://arxiv.org/abs/2403.19534v1)|null|
 |**2024-03-27**|**Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting**|Haiwei Chen et.al.|[2403.18186v1](http://arxiv.org/abs/2403.18186v1)|null|
