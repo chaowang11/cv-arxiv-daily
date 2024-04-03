@@ -16531,7 +16531,7 @@
 |**2024-03-18**|**CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility**|Bojia Zi et.al.|[2403.12035v1](http://arxiv.org/abs/2403.12035v1)|null|
 |**2024-02-14**|**Towards Realistic Landmark-Guided Facial Video Inpainting Based on GANs**|Fatemeh Ghorbani Lohesara et.al.|[2402.09100v1](http://arxiv.org/abs/2402.09100v1)|null|
 |**2024-01-31**|**Reimagining Reality: A Comprehensive Survey of Video Inpainting Techniques**|Shreyank N Gowda et.al.|[2401.17883v1](http://arxiv.org/abs/2401.17883v1)|null|
-|**2024-01-25**|**Expression-aware video inpainting for HMD removal in XR applications**|Fatemeh Ghorbani Lohesara et.al.|[2401.14136v1](http://arxiv.org/abs/2401.14136v1)|null|
+|**2024-01-25**|**Expression-aware video inpainting for HMD removal in XR applications**|Fatemeh Ghorbani Lohesara et.al.|[2401.14136v1](http://arxiv.org/abs/2401.14136v1)|**[link](https://github.com/ftmghorbani/EVI-HRnet)**|
 |**2024-02-05**|**Lumiere: A Space-Time Diffusion Model for Video Generation**|Omer Bar-Tal et.al.|[2401.12945v2](http://arxiv.org/abs/2401.12945v2)|null|
 |**2024-01-18**|**Towards Language-Driven Video Inpainting via Multimodal Large Language Models**|Jianzong Wu et.al.|[2401.10226v1](http://arxiv.org/abs/2401.10226v1)|null|
 |**2024-01-07**|**Deep Learning-based Image and Video Inpainting: A Survey**|Weize Quan et.al.|[2401.03395v1](http://arxiv.org/abs/2401.03395v1)|null|
