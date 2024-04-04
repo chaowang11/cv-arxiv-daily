@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Quantum enhanced mechanical rotation sensing using wavefront photonic gears**|Ofir Yesharim Guy Tshuva et.al.|[2404.02797v1](http://arxiv.org/abs/2404.02797v1)|null|
+|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788v1](http://arxiv.org/abs/2404.02788v1)|null|
+|**2024-04-03**|**Two-Stage Super-Resolution Simulation Method for Three-Dimensional Flow Fields Around Buildings for Real-Time Prediction of Urban Micrometeorology**|Yuki Yasuda et.al.|[2404.02631v1](http://arxiv.org/abs/2404.02631v1)|null|
+|**2024-04-03**|**Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution**|Simiao Li et.al.|[2404.02573v1](http://arxiv.org/abs/2404.02573v1)|null|
 |**2024-04-02**|**Super-Resolution Analysis for Landfill Waste Classification**|Matias Molina et.al.|[2404.01790v1](http://arxiv.org/abs/2404.01790v1)|null|
 |**2024-04-03**|**AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation**|Rui Xie et.al.|[2404.01717v2](http://arxiv.org/abs/2404.01717v2)|null|
 |**2024-04-02**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692v1](http://arxiv.org/abs/2404.01692v1)|null|
@@ -957,6 +961,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution**|Simiao Li et.al.|[2404.02573v1](http://arxiv.org/abs/2404.02573v1)|null|
 |**2024-04-02**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692v1](http://arxiv.org/abs/2404.01692v1)|null|
 |**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690v1](http://arxiv.org/abs/2404.01690v1)|null|
 |**2024-04-02**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v2](http://arxiv.org/abs/2404.00722v2)|null|
@@ -1454,6 +1459,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**|Keyu Tian et.al.|[2404.02905v1](http://arxiv.org/abs/2404.02905v1)|**[link](https://github.com/FoundationVision/VAR)**|
+|**2024-04-03**|**DeiT-LT Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets**|Harsh Rangwani et.al.|[2404.02900v1](http://arxiv.org/abs/2404.02900v1)|**[link](https://github.com/val-iisc/DeiT-LT)**|
+|**2024-04-03**|**On the Scalability of Diffusion-based Text-to-Image Generation**|Hao Li et.al.|[2404.02883v1](http://arxiv.org/abs/2404.02883v1)|null|
+|**2024-04-03**|**End-To-End Self-tuning Self-supervised Time Series Anomaly Detection**|Boje Deforce et.al.|[2404.02865v1](http://arxiv.org/abs/2404.02865v1)|null|
+|**2024-04-03**|**Axisymmetric steady Navier-Stokes flows under suction**|Mitsuo Higaki et.al.|[2404.02854v1](http://arxiv.org/abs/2404.02854v1)|null|
+|**2024-04-03**|**Toward Inference-optimal Mixture-of-Expert Large Language Models**|Longfei Yun et.al.|[2404.02852v1](http://arxiv.org/abs/2404.02852v1)|null|
+|**2024-04-03**|**Statistical Field Theory of Polarizable Polymer Chains with Nonlocal Dipolar Interactions**|Pratik Khandagale et.al.|[2404.02848v1](http://arxiv.org/abs/2404.02848v1)|null|
+|**2024-04-03**|**I-Design: Personalized LLM Interior Designer**|Ata Çelen et.al.|[2404.02838v1](http://arxiv.org/abs/2404.02838v1)|null|
+|**2024-04-03**|**Legendre Transformation under Micro Canonical Ensemble**|Jingxu Wu et.al.|[2404.02829v1](http://arxiv.org/abs/2404.02829v1)|null|
+|**2024-04-03**|**Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids**|Gökhan Demirel et.al.|[2404.02763v1](http://arxiv.org/abs/2404.02763v1)|null|
+|**2024-04-03**|**Investigating the Relation Between Problem Hardness and QUBO Properties**|Thore Gerlach et.al.|[2404.02751v1](http://arxiv.org/abs/2404.02751v1)|null|
+|**2024-04-03**|**Event Camera Demosaicing via Swin Transformer and Pixel-focus Loss**|Yunfan Lu et.al.|[2404.02731v1](http://arxiv.org/abs/2404.02731v1)|**[link](https://github.com/yunfanlu/ev-demosaic)**|
+|**2024-04-03**|**AdS_2/CFT_1 at finite density and holographic aspects of 2D black holes**|Hemant Rathi et.al.|[2404.02724v1](http://arxiv.org/abs/2404.02724v1)|null|
+|**2024-04-03**|**Quantum conjugate gradient method using the positive-side quantum eigenvalue transformation**|Kiichiro Toyoizumi et.al.|[2404.02713v1](http://arxiv.org/abs/2404.02713v1)|null|
+|**2024-04-03**|**Transformation of  $p$ -gradient flows to  $p'$ -gradient flows in metric spaces**|Sho Shimoyama et.al.|[2404.02703v1](http://arxiv.org/abs/2404.02703v1)|null|
+|**2024-04-03**|**Automated Inference of Graph Transformation Rules**|Jakob L. Andersen et.al.|[2404.02692v1](http://arxiv.org/abs/2404.02692v1)|null|
+|**2024-04-03**|**Attention is Naturally Sparse with Gaussian Distributed Input**|Yichuan Deng et.al.|[2404.02690v1](http://arxiv.org/abs/2404.02690v1)|null|
+|**2024-04-03**|**Cross-Architecture Transfer Learning for Linear-Cost Inference Transformers**|Sehyun Choi et.al.|[2404.02684v1](http://arxiv.org/abs/2404.02684v1)|null|
+|**2024-04-03**|**Geometry of Kupershmidt's operators and non-commutative probability theory**|Nicolas Gilliers et.al.|[2404.02670v1](http://arxiv.org/abs/2404.02670v1)|null|
+|**2024-04-03**|**RS-Mamba for Large Remote Sensing Image Dense Prediction**|Sijie Zhao et.al.|[2404.02668v1](http://arxiv.org/abs/2404.02668v1)|**[link](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)**|
+|**2024-04-03**|**Computing some Principal Value integrals without Residues and Applications on Hilbert Transform and Fourier Transform**|Jorge Pedraza Arpasi et.al.|[2404.02664v1](http://arxiv.org/abs/2404.02664v1)|null|
+|**2024-04-03**|**Ensemble Deep Learning for enhanced seismic data reconstruction**|Mohammad Mahdi Abedi et.al.|[2404.02632v1](http://arxiv.org/abs/2404.02632v1)|null|
+|**2024-04-03**|**Dynamical Casimir effect with screened scalar fields**|Ana Lucía Báez-Camargo et.al.|[2404.02630v1](http://arxiv.org/abs/2404.02630v1)|null|
+|**2024-04-03**|**A Differentiable Integer Linear Programming Solver for Explanation-Based Natural Language Inference**|Mokanarangan Thayaparan et.al.|[2404.02625v1](http://arxiv.org/abs/2404.02625v1)|null|
+|**2024-04-03**|**Estimating the Causal Effects of Natural Logic Features in Transformer-Based NLI Models**|Julia Rozanova et.al.|[2404.02622v1](http://arxiv.org/abs/2404.02622v1)|null|
+|**2024-04-03**|**Some properties of a modified Hilbert transform**|Matteo Ferrari et.al.|[2404.02609v1](http://arxiv.org/abs/2404.02609v1)|null|
+|**2024-04-03**|**Transformer-based Stagewise Decomposition for Large-Scale Multistage Stochastic Optimization**|Chanyeong Kim et.al.|[2404.02583v1](http://arxiv.org/abs/2404.02583v1)|null|
+|**2024-04-03**|**SpectroTranslator: a deep-neural network algorithm to homogenize spectroscopic parameters**|G. F. Thomas et.al.|[2404.02578v1](http://arxiv.org/abs/2404.02578v1)|null|
+|**2024-04-03**|**On Future Power Systems Digital Twins: Towards a Standard Architecture**|Wouter Zomerdijk et.al.|[2404.02568v1](http://arxiv.org/abs/2404.02568v1)|null|
+|**2024-04-03**|**Representation Alignment Contrastive Regularization for Multi-Object Tracking**|Shujie Chen et.al.|[2404.02562v1](http://arxiv.org/abs/2404.02562v1)|null|
+|**2024-04-03**|**Degree Sequence Optimization and Extremal Degree Enumerators**|Shmuel Onn et.al.|[2404.02551v1](http://arxiv.org/abs/2404.02551v1)|null|
+|**2024-04-03**|**AI-Tutoring in Software Engineering Education**|Eduard Frankford et.al.|[2404.02548v1](http://arxiv.org/abs/2404.02548v1)|null|
+|**2024-04-03**|**Convergence Analysis of Flow Matching in Latent Space with Transformers**|Yuling Jiao et.al.|[2404.02538v1](http://arxiv.org/abs/2404.02538v1)|null|
+|**2024-04-03**|**Computationally Efficient Unsupervised Deep Learning for Robust Joint AP Clustering and Beamforming Design in Cell-Free Systems**|Guanghui Chen et.al.|[2404.02531v1](http://arxiv.org/abs/2404.02531v1)|null|
+|**2024-04-03**|**Nonlinear Corner States in Topologically Nontrivial Kagome Lattice**|K Prabith et.al.|[2404.02504v1](http://arxiv.org/abs/2404.02504v1)|null|
+|**2024-04-03**|**DiffFit: Visually-Guided Differentiable Fitting of Molecule Structures to Cryo-EM Map**|Deng Luo et.al.|[2404.02465v1](http://arxiv.org/abs/2404.02465v1)|null|
+|**2024-04-03**|**RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation**|Xianping Ma et.al.|[2404.02457v1](http://arxiv.org/abs/2404.02457v1)|**[link](https://github.com/sstary/ssrs)**|
+|**2024-04-03**|**Task Agnostic Architecture for Algorithm Induction via Implicit Composition**|Sahil J. Sindhi et.al.|[2404.02450v1](http://arxiv.org/abs/2404.02450v1)|null|
+|**2024-04-03**|**A Novel Approach to Breast Cancer Histopathological Image Classification Using Cross-Colour Space Feature Fusion and Quantum-Classical Stack Ensemble Method**|Sambit Mallick et.al.|[2404.02447v1](http://arxiv.org/abs/2404.02447v1)|null|
+|**2024-04-03**|**Masked Completion via Structured Diffusion with White-Box Transformers**|Druv Pai et.al.|[2404.02446v1](http://arxiv.org/abs/2404.02446v1)|**[link](https://github.com/ma-lab-berkeley/crate)**|
+|**2024-04-03**|**A neuroergonomics model to evaluating nuclear power plants operators' performance under heat stress driven by ECG time-frequency spectrums and fNIRS prefrontal cortex network: a CNN-GAT fusion model**|Yan Zhang et.al.|[2404.02439v1](http://arxiv.org/abs/2404.02439v1)|null|
+|**2024-04-03**|**A fast cosine transformation accelerated method for predicting effective thermal conductivity**|Changqing Ye et.al.|[2404.02433v1](http://arxiv.org/abs/2404.02433v1)|null|
+|**2024-04-03**|**Revealing kinetically tuned atomic pathways for interfacial strain relaxation**|Sophia B. Betzler et.al.|[2404.02416v1](http://arxiv.org/abs/2404.02416v1)|null|
+|**2024-04-03**|**Decision Transformer as a Foundation Model for Partially Observable Continuous Control**|Xiangyuan Zhang et.al.|[2404.02407v1](http://arxiv.org/abs/2404.02407v1)|null|
+|**2024-04-03**|**TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression**|Ho-Joong Kim et.al.|[2404.02405v1](http://arxiv.org/abs/2404.02405v1)|null|
+|**2024-04-03**|**Transformations and quadratic forms on Wiener spaces**|Setsuo Taniguchi et.al.|[2404.02401v1](http://arxiv.org/abs/2404.02401v1)|null|
+|**2024-04-03**|**Low-resource neural machine translation with morphological modeling**|Antoine Nzeyimana et.al.|[2404.02392v1](http://arxiv.org/abs/2404.02392v1)|**[link](https://github.com/anzeyimana/kinmt_naacl2024)**|
+|**2024-04-03**|**Exact solution to Maxwell's equations for the infinite ideal solenoid with a time-dependent surface current**|Edward Parker et.al.|[2404.02386v1](http://arxiv.org/abs/2404.02386v1)|null|
+|**2024-04-03**|**Imaging transformer for MRI denoising with the SNR unit training: enabling generalization across field-strengths, imaging contrasts, and anatomy**|Hui Xue et.al.|[2404.02382v1](http://arxiv.org/abs/2404.02382v1)|null|
+|**2024-04-03**|**Optical Text Recognition in Nepali and Bengali: A Transformer-based Approach**|S M Rakib Hasan et.al.|[2404.02375v1](http://arxiv.org/abs/2404.02375v1)|null|
 |**2024-04-02**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jienneg Chen et.al.|[2404.02132v1](http://arxiv.org/abs/2404.02132v1)|**[link](https://github.com/beckschen/vitamin)**|
 |**2024-04-02**|**Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners**|Keon-Hee Park et.al.|[2404.02117v1](http://arxiv.org/abs/2404.02117v1)|**[link](https://github.com/khu-agi/privilege)**|
 |**2024-04-02**|**Neural Ordinary Differential Equation based Sequential Image Registration for Dynamic Characterization**|Yifan Wu et.al.|[2404.02106v1](http://arxiv.org/abs/2404.02106v1)|null|
