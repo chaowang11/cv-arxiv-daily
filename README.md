@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**Nanomolecular OLED Pixelization Enabling Electroluminescent Metasurfaces**|Tommaso Marcato et.al.|[2404.05336v1](http://arxiv.org/abs/2404.05336v1)|null|
+|**2024-04-07**|**Gull: A Generative Multifunctional Audio Codec**|Yi Luo et.al.|[2404.04947v1](http://arxiv.org/abs/2404.04947v1)|null|
+|**2024-04-07**|**Efficient Learnable Collaborative Attention for Single Image Super-Resolution**|Yigang Zhao Chaowei Zheng et.al.|[2404.04922v1](http://arxiv.org/abs/2404.04922v1)|null|
+|**2024-04-07**|**CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data**|Wei Fang et.al.|[2404.04878v1](http://arxiv.org/abs/2404.04878v1)|null|
+|**2024-04-07**|**Effect of active loop extrusion on the two-contact correlations in the interphase chromosome**|Dmitry Starkov et.al.|[2404.04853v1](http://arxiv.org/abs/2404.04853v1)|null|
+|**2024-04-07**|**Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution**|Guangyuan Li et.al.|[2404.04785v1](http://arxiv.org/abs/2404.04785v1)|**[link](https://github.com/guangyuankk/diffmsr)**|
+|**2024-04-06**|**Collaborative Feedback Discriminative Propagation for Video Super-Resolution**|Hao Li et.al.|[2404.04745v1](http://arxiv.org/abs/2404.04745v1)|**[link](https://github.com/house-leo/cfdvsr)**|
+|**2024-04-06**|**Power-Efficient Image Storage: Leveraging Super Resolution Generative Adversarial Network for Sustainable Compression and Reduced Carbon Footprint**|Ashok Mondal et.al.|[2404.04642v1](http://arxiv.org/abs/2404.04642v1)|null|
+|**2024-04-06**|**PointSAGE: Mesh-independent superresolution approach to fluid flow predictions**|Rajat Sarkar et.al.|[2404.04615v1](http://arxiv.org/abs/2404.04615v1)|null|
+|**2024-04-03**|**Translation-based Video-to-Video Synthesis**|Pratim Saha et.al.|[2404.04283v1](http://arxiv.org/abs/2404.04283v1)|null|
 |**2024-04-05**|**Real-GDSR: Real-World Guided DSM Super-Resolution via Edge-Enhancing Residual Network**|Daniel Panangian et.al.|[2404.03930v1](http://arxiv.org/abs/2404.03930v1)|null|
 |**2024-04-05**|**The ESPRIT algorithm under high noise: Optimal error scaling and noisy super-resolution**|Zhiyan Ding et.al.|[2404.03885v1](http://arxiv.org/abs/2404.03885v1)|null|
 |**2024-04-04**|**AdaBM: On-the-Fly Adaptive Bit Mapping for Image Super-Resolution**|Cheeun Hong et.al.|[2404.03296v1](http://arxiv.org/abs/2404.03296v1)|**[link](https://github.com/Cheeun/AdaBM)**|
@@ -37,7 +47,7 @@
 |**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690v1](http://arxiv.org/abs/2404.01690v1)|null|
 |**2024-04-01**|**Video Interpolation with Diffusion Models**|Siddhant Jain et.al.|[2404.01203v1](http://arxiv.org/abs/2404.01203v1)|null|
 |**2024-04-01**|**DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF**|Jie Long Lee et.al.|[2404.00874v1](http://arxiv.org/abs/2404.00874v1)|null|
-|**2024-04-02**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v2](http://arxiv.org/abs/2404.00722v2)|null|
+|**2024-04-08**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v3](http://arxiv.org/abs/2404.00722v3)|null|
 |**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
 |**2024-03-30**|**SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising**|Runmin Zhang et.al.|[2404.00349v1](http://arxiv.org/abs/2404.00349v1)|null|
 |**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|null|
@@ -965,11 +975,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-07**|**Efficient Learnable Collaborative Attention for Single Image Super-Resolution**|Yigang Zhao Chaowei Zheng et.al.|[2404.04922v1](http://arxiv.org/abs/2404.04922v1)|null|
 |**2024-04-04**|**AdaBM: On-the-Fly Adaptive Bit Mapping for Image Super-Resolution**|Cheeun Hong et.al.|[2404.03296v1](http://arxiv.org/abs/2404.03296v1)|**[link](https://github.com/Cheeun/AdaBM)**|
 |**2024-04-03**|**Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution**|Simiao Li et.al.|[2404.02573v1](http://arxiv.org/abs/2404.02573v1)|null|
 |**2024-04-04**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692v2](http://arxiv.org/abs/2404.01692v2)|**[link](https://github.com/jaehakim97/sr4ir)**|
 |**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690v1](http://arxiv.org/abs/2404.01690v1)|null|
-|**2024-04-02**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v2](http://arxiv.org/abs/2404.00722v2)|null|
+|**2024-04-08**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v3](http://arxiv.org/abs/2404.00722v3)|null|
 |**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
 |**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|null|
 |**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370v1](http://arxiv.org/abs/2403.18370v1)|**[link](https://github.com/luigisigillo/shipinsight)**|
@@ -1300,6 +1311,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-06**|**Collaborative Feedback Discriminative Propagation for Video Super-Resolution**|Hao Li et.al.|[2404.04745v1](http://arxiv.org/abs/2404.04745v1)|**[link](https://github.com/house-leo/cfdvsr)**|
+|**2024-04-03**|**Translation-based Video-to-Video Synthesis**|Pratim Saha et.al.|[2404.04283v1](http://arxiv.org/abs/2404.04283v1)|null|
 |**2024-03-25**|**Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution**|Zhikai Chen et.al.|[2403.17000v1](http://arxiv.org/abs/2403.17000v1)|null|
 |**2024-03-23**|**Time-series Initialization and Conditioning for Video-agnostic Stabilization of Video Super-Resolution using Recurrent Networks**|Hiroshi Mori et.al.|[2403.15832v1](http://arxiv.org/abs/2403.15832v1)|null|
 |**2024-02-05**|**Video Super-Resolution for Optimized Bitrate and Green Online Streaming**|Vignesh V Menon et.al.|[2402.03513v1](http://arxiv.org/abs/2402.03513v1)|null|
@@ -1464,6 +1477,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**A Large-Scale Exploration of  $μ$ -Transfer**|Lucas Lingle et.al.|[2404.05728v1](http://arxiv.org/abs/2404.05728v1)|null|
+|**2024-04-08**|**Substructures of the Weyl group and their physical applications**|Riccardo Martini et.al.|[2404.05665v1](http://arxiv.org/abs/2404.05665v1)|null|
+|**2024-04-08**|**MLP Can Be A Good Transformer Learner**|Sihao Lin et.al.|[2404.05657v1](http://arxiv.org/abs/2404.05657v1)|null|
+|**2024-04-08**|**Fighting crime with Transformers: Empirical analysis of address parsing methods in payment data**|Haitham Hammami et.al.|[2404.05632v1](http://arxiv.org/abs/2404.05632v1)|**[link](https://github.com/hm-haitham/Fighting-crime-with-Transformers-Empirical-analysis-of-address-parsing-methods-in-payment-data)**|
+|**2024-04-08**|**Busemann-Petty type problems on complex vector spaces**|Simon Ellmeyer et.al.|[2404.05630v1](http://arxiv.org/abs/2404.05630v1)|null|
+|**2024-04-08**|**Quantum tomography of structured light patterns from simple intensity measurements**|M. Gil de Oliveira et.al.|[2404.05616v1](http://arxiv.org/abs/2404.05616v1)|null|
+|**2024-04-08**|**Technical Report: The Graph Spectral Token -- Enhancing Graph Transformers with Spectral Information**|Zihan Pengmei et.al.|[2404.05604v1](http://arxiv.org/abs/2404.05604v1)|**[link](https://github.com/zpengmei/SubFormer-Spec)**|
+|**2024-04-08**|**Low energy limit from high energy expansion in mass gapped theory**|Hiromasa Takaura et.al.|[2404.05589v1](http://arxiv.org/abs/2404.05589v1)|null|
+|**2024-04-08**|**Responsible Visual Editing**|Minheng Ni et.al.|[2404.05580v1](http://arxiv.org/abs/2404.05580v1)|**[link](https://github.com/kodenii/responsible-visual-editing)**|
+|**2024-04-08**|**Social-MAE: Social Masked Autoencoder for Multi-person Motion Representation Learning**|Mahsa Ehsanpour et.al.|[2404.05578v1](http://arxiv.org/abs/2404.05578v1)|null|
+|**2024-04-08**|**Prediction of topotactic transition from black to blue phosphorus induced by surface Br adsorption**|Hao Tian et.al.|[2404.05575v1](http://arxiv.org/abs/2404.05575v1)|null|
+|**2024-04-08**|**TIM: A Time Interval Machine for Audio-Visual Action Recognition**|Jacob Chalk et.al.|[2404.05559v1](http://arxiv.org/abs/2404.05559v1)|**[link](https://github.com/jacobchalk/tim)**|
+|**2024-04-08**|**Maximum likelihood estimation in continuous affine Volterra processes in the ergodic regime**|Mohamed Ben Alaya et.al.|[2404.05554v1](http://arxiv.org/abs/2404.05554v1)|null|
+|**2024-04-08**|**Cell-Free Multi-User MIMO Equalization via In-Context Learning**|Matteo Zecchin et.al.|[2404.05538v1](http://arxiv.org/abs/2404.05538v1)|**[link](https://github.com/kclip/cell-free-mimo-icl)**|
+|**2024-04-08**|**Distributing Arbitrary Quantum Cluster States by Graph Transformation**|Tingxiang Ji et.al.|[2404.05537v1](http://arxiv.org/abs/2404.05537v1)|null|
+|**2024-04-08**|**Taming Transformers for Realistic Lidar Point Cloud Generation**|Hamed Haghighi et.al.|[2404.05505v1](http://arxiv.org/abs/2404.05505v1)|**[link](https://github.com/hamedhaghighi/lidargrit)**|
+|**2024-04-08**|**Design, fabrication and test of a 5 GHz klystron based on the kladistron principle**|Juliette Plouin et.al.|[2404.05493v1](http://arxiv.org/abs/2404.05493v1)|null|
+|**2024-04-08**|**Tangling-Untangling Cycle for Efficient Learning**|Xin Li et.al.|[2404.05484v1](http://arxiv.org/abs/2404.05484v1)|null|
+|**2024-04-08**|**WaveCatBoost for Probabilistic Forecasting of Regional Air Quality Data**|Jintu Borah et.al.|[2404.05482v1](http://arxiv.org/abs/2404.05482v1)|null|
+|**2024-04-08**|**Behavioural Types for Heterogeneous Systems (Position Paper)**|Simon Fowler et.al.|[2404.05479v1](http://arxiv.org/abs/2404.05479v1)|null|
+|**2024-04-08**|**Enhancing Lip Reading with Multi-Scale Video and Multi-Encoder**|He Wang et.al.|[2404.05466v1](http://arxiv.org/abs/2404.05466v1)|null|
+|**2024-04-08**|**Relation Extraction Using Large Language Models: A Case Study on Acupuncture Point Locations**|Yiming Li et.al.|[2404.05415v1](http://arxiv.org/abs/2404.05415v1)|null|
+|**2024-04-08**|**Escape time in bistable neuronal populations driven by colored synaptic noise**|Gianni Valerio Vinci et.al.|[2404.05391v1](http://arxiv.org/abs/2404.05391v1)|null|
+|**2024-04-08**|**Multi-head Attention-based Deep Multiple Instance Learning**|Hassan Keshvarikhojasteh et.al.|[2404.05362v1](http://arxiv.org/abs/2404.05362v1)|null|
+|**2024-04-08**|**Optimal Controller Realizations against False Data Injections in Cooperative Driving**|Mischa Huisman et.al.|[2404.05361v1](http://arxiv.org/abs/2404.05361v1)|null|
+|**2024-04-08**|**Common Trends and Long-Run Multipliers in Nonlinear Structural VARs**|James A. Duffy et.al.|[2404.05349v1](http://arxiv.org/abs/2404.05349v1)|null|
+|**2024-04-08**|**Texture Classification Network Integrating Adaptive Wavelet Transform**|Su-Xi Yu et.al.|[2404.05300v1](http://arxiv.org/abs/2404.05300v1)|null|
+|**2024-04-08**|**Detecting Every Object from Events**|Haitian Zhang et.al.|[2404.05285v1](http://arxiv.org/abs/2404.05285v1)|**[link](https://github.com/hatins/deoe)**|
+|**2024-04-08**|**MOSE: Boosting Vision-based Roadside 3D Object Detection with Scene Cues**|Xiahan Chen et.al.|[2404.05280v1](http://arxiv.org/abs/2404.05280v1)|null|
+|**2024-04-08**|**Deep Optics for Video Snapshot Compressive Imaging**|Ping Wang et.al.|[2404.05274v1](http://arxiv.org/abs/2404.05274v1)|**[link](https://github.com/pwangcs/deepopticssci)**|
+|**2024-04-08**|**CodeEnhance: A Codebook-Driven Approach for Low-Light Image Enhancement**|Xu Wu et.al.|[2404.05253v1](http://arxiv.org/abs/2404.05253v1)|null|
+|**2024-04-08**|**Spatiotemporal effects in heralded state preparation**|Filippus S. Roux et.al.|[2404.05237v1](http://arxiv.org/abs/2404.05237v1)|null|
+|**2024-04-08**|**Spatio-Temporal Attention and Gaussian Processes for Personalized Video Gaze Estimation**|Swati Jindal et.al.|[2404.05215v1](http://arxiv.org/abs/2404.05215v1)|**[link](https://github.com/jswati31/stage)**|
+|**2024-04-08**|**Bidirectional Long-Range Parser for Sequential Data Understanding**|George Leotescu et.al.|[2404.05210v1](http://arxiv.org/abs/2404.05210v1)|null|
+|**2024-04-08**|**iVPT: Improving Task-relevant Information Sharing in Visual Prompt Tuning by Cross-layer Dynamic Connection**|Nan Zhou et.al.|[2404.05207v1](http://arxiv.org/abs/2404.05207v1)|null|
+|**2024-04-08**|**Decision Transformer for Wireless Communications: A New Paradigm of Resource Management**|Jie Zhang et.al.|[2404.05199v1](http://arxiv.org/abs/2404.05199v1)|null|
+|**2024-04-08**|**The geometry of high-dimensional phase diagrams: II. The duality between closed and open chemical systems**|Jiadong Chen et.al.|[2404.05197v1](http://arxiv.org/abs/2404.05197v1)|null|
+|**2024-04-08**|**HSViT: Horizontally Scalable Vision Transformer**|Chenhao Xu et.al.|[2404.05196v1](http://arxiv.org/abs/2404.05196v1)|**[link](https://github.com/xuchenhao001/hsvit)**|
+|**2024-04-08**|**ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting**|Hengyu Ye et.al.|[2404.05192v1](http://arxiv.org/abs/2404.05192v1)|**[link](https://github.com/yhyhyhyhyhy/atfnet)**|
+|**2024-04-08**|**Exact Analysis of the Age of Information in the Multi-Source M/GI/1 Queueing System**|Yoshiaki Inoue et.al.|[2404.05167v1](http://arxiv.org/abs/2404.05167v1)|null|
+|**2024-04-08**|**Plug and Play with Prompts: A Prompt Tuning Approach for Controlling Text Generation**|Rohan Deepak Ajwani et.al.|[2404.05143v1](http://arxiv.org/abs/2404.05143v1)|null|
+|**2024-04-08**|**Massless limit and conformal soft limit for celestial massive amplitudes**|Wei Fan et.al.|[2404.05137v1](http://arxiv.org/abs/2404.05137v1)|null|
+|**2024-04-08**|**LLM-BT: Performing Robotic Adaptive Tasks based on Large Language Models and Behavior Trees**|Haotian Zhou et.al.|[2404.05134v1](http://arxiv.org/abs/2404.05134v1)|null|
+|**2024-04-08**|**Quasi-parton distributions in massive QED2: Towards quantum computation**|Sebastian Grieninger et.al.|[2404.05112v1](http://arxiv.org/abs/2404.05112v1)|null|
+|**2024-04-07**|**VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**|Ziyang Wang et.al.|[2404.05105v1](http://arxiv.org/abs/2404.05105v1)|null|
+|**2024-04-07**|**LHU-Net: A Light Hybrid U-Net for Cost-Efficient, High-Performance Volumetric Medical Image Segmentation**|Yousef Sadegheih et.al.|[2404.05102v1](http://arxiv.org/abs/2404.05102v1)|**[link](https://github.com/xmindflow/lhunet)**|
+|**2024-04-07**|**Quantitative Weakest Hyper Pre: Unifying Correctness and Incorrectness Hyperproperties via Predicate Transformers**|Linpeng Zhang et.al.|[2404.05097v1](http://arxiv.org/abs/2404.05097v1)|null|
+|**2024-04-07**|**Initial Exploration of Zero-Shot Privacy Utility Tradeoffs in Tabular Data Using GPT-4**|Bishwas Mandal et.al.|[2404.05047v1](http://arxiv.org/abs/2404.05047v1)|null|
+|**2024-04-07**|**The cosmological collider in  $R^2$  inflation**|Yi-Peng Wu et.al.|[2404.05031v1](http://arxiv.org/abs/2404.05031v1)|null|
+|**2024-04-07**|**MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators**|Shenghai Yuan et.al.|[2404.05014v1](http://arxiv.org/abs/2404.05014v1)|null|
 |**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256v1](http://arxiv.org/abs/2404.04256v1)|null|
 |**2024-04-05**|**DiffOp-net: A Differential Operator-based Fully Convolutional Network for Unsupervised Deformable Image Registration**|Jiong Wu et.al.|[2404.04244v1](http://arxiv.org/abs/2404.04244v1)|null|
 |**2024-04-05**|**Large sieve inequalities for exceptional Maass forms and applications**|Alexandru Pascadi et.al.|[2404.04239v1](http://arxiv.org/abs/2404.04239v1)|null|
@@ -16548,6 +16611,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**CDAD-Net: Bridging Domain Gaps in Generalized Category Discovery**|Sai Bhargav Rongali et.al.|[2404.05366v1](http://arxiv.org/abs/2404.05366v1)|null|
 |**2024-04-04**|**Terrain Point Cloud Inpainting via Signal Decomposition**|Yizhou Xie et.al.|[2404.03572v1](http://arxiv.org/abs/2404.03572v1)|null|
 |**2024-03-31**|**Transformer based Pluralistic Image Completion with Reduced Information Loss**|Qiankun Liu et.al.|[2404.00513v1](http://arxiv.org/abs/2404.00513v1)|**[link](https://github.com/liuqk3/put)**|
 |**2024-04-01**|**Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting**|Haipeng Liu et.al.|[2403.19898v2](http://arxiv.org/abs/2403.19898v2)|**[link](https://github.com/htyjers/strdiffusion)**|
@@ -16557,7 +16621,7 @@
 |**2024-03-24**|**Fill in the ____ (a Diffusion-based Image Inpainting Pipeline)**|Eyoel Gebre et.al.|[2403.16016v1](http://arxiv.org/abs/2403.16016v1)|null|
 |**2024-03-23**|**Inpainting-Driven Mask Optimization for Object Removal**|Kodai Shimosato et.al.|[2403.15849v1](http://arxiv.org/abs/2403.15849v1)|null|
 |**2024-03-21**|**HySim: An Efficient Hybrid Similarity Measure for Patch Matching in Image Inpainting**|Saad Noufel et.al.|[2403.14292v1](http://arxiv.org/abs/2403.14292v1)|null|
-|**2024-03-21**|**LeFusion: Synthesizing Myocardial Pathology on Cardiac MRI via Lesion-Focus Diffusion Models**|Hantao Zhang et.al.|[2403.14066v1](http://arxiv.org/abs/2403.14066v1)|null|
+|**2024-03-21**|**LeFusion: Synthesizing Myocardial Pathology on Cardiac MRI via Lesion-Focus Diffusion Models**|Hantao Zhang et.al.|[2403.14066v1](http://arxiv.org/abs/2403.14066v1)|**[link](https://github.com/m3dv/lefusion)**|
 |**2024-03-18**|**CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility**|Bojia Zi et.al.|[2403.12035v1](http://arxiv.org/abs/2403.12035v1)|null|
 |**2024-03-13**|**Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data**|Asad Aali et.al.|[2403.08728v1](http://arxiv.org/abs/2403.08728v1)|**[link](https://github.com/utcsilab/ambient-diffusion-mri)**|
 |**2024-03-13**|**Attack Deterministic Conditional Image Generative Models for Diverse and Controllable Generation**|Tianyi Chu et.al.|[2403.08294v1](http://arxiv.org/abs/2403.08294v1)|null|
