@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112v1](http://arxiv.org/abs/2404.07112v1)|null|
 |**2024-04-09**|**Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations**|Maximilian Witte et.al.|[2404.06400v1](http://arxiv.org/abs/2404.06400v1)|null|
 |**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294v1](http://arxiv.org/abs/2404.06294v1)|null|
 |**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v1](http://arxiv.org/abs/2404.06075v1)|null|
@@ -1487,6 +1488,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181v1](http://arxiv.org/abs/2404.07181v1)|null|
+|**2024-04-10**|**Self-supervised Monocular Depth Estimation on Water Scenes via Specular Reflection Prior**|Zhengyang Lu et.al.|[2404.07176v1](http://arxiv.org/abs/2404.07176v1)|null|
+|**2024-04-10**|**Lost in Translation: Modern Neural Networks Still Struggle With Small Realistic Image Transformations**|Ofir Shifman et.al.|[2404.07153v1](http://arxiv.org/abs/2404.07153v1)|null|
+|**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150v1](http://arxiv.org/abs/2404.07150v1)|null|
+|**2024-04-10**|**Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention**|Tsendsuren Munkhdalai et.al.|[2404.07143v1](http://arxiv.org/abs/2404.07143v1)|null|
+|**2024-04-10**|**Hedonic Models Incorporating ESG Factors for Time Series of Average Annual Home Prices**|Jason R. Bailey et.al.|[2404.07132v1](http://arxiv.org/abs/2404.07132v1)|null|
+|**2024-04-10**|**What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation**|Aaditya K. Singh et.al.|[2404.07129v1](http://arxiv.org/abs/2404.07129v1)|null|
+|**2024-04-10**|**3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion**|Yixuan Li et.al.|[2404.07106v1](http://arxiv.org/abs/2404.07106v1)|null|
+|**2024-04-10**|**Learning Priors for Non Rigid SfM from Casual Videos**|Yoni Kasten et.al.|[2404.07097v1](http://arxiv.org/abs/2404.07097v1)|null|
+|**2024-04-10**|**Hilbert space representation for quasi-Hermitian position-deformed Heisenberg algebra and Path integral formulation**|Thomas Katsekpor et.al.|[2404.07082v1](http://arxiv.org/abs/2404.07082v1)|null|
+|**2024-04-10**|**VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning**|Alexandros Xenos et.al.|[2404.07078v1](http://arxiv.org/abs/2404.07078v1)|**[link](https://github.com/nickyfot/emocommonsense)**|
+|**2024-04-10**|**Implicit Multi-Spectral Transformer: An Lightweight and Effective Visible to Infrared Image Translation Model**|Yijia Chen et.al.|[2404.07072v1](http://arxiv.org/abs/2404.07072v1)|**[link](https://github.com/CXH-Research/IRFormer)**|
+|**2024-04-10**|**One-dimensional, geometrically stratified semi-empirical models of the quiet-Sun photosphere and lower chromosphere**|J. M. Borrero et.al.|[2404.07067v1](http://arxiv.org/abs/2404.07067v1)|null|
+|**2024-04-10**|**Generalized Straight-Line Programs**|Gonzalo Navarro et.al.|[2404.07057v1](http://arxiv.org/abs/2404.07057v1)|null|
+|**2024-04-10**|**Three-dimensional  ${\mathbb Z}_2$ -gauge  $N$ -vector models**|Claudio Bonati et.al.|[2404.07050v1](http://arxiv.org/abs/2404.07050v1)|null|
+|**2024-04-10**|**WordDecipher: Enhancing Digital Workspace Communication with Explainable AI for Non-native English Speakers**|Yuexi Chen et.al.|[2404.07005v1](http://arxiv.org/abs/2404.07005v1)|null|
+|**2024-04-10**|**LM Transparency Tool: Interactive Tool for Analyzing Transformer Language Models**|Igor Tufanov et.al.|[2404.07004v1](http://arxiv.org/abs/2404.07004v1)|null|
+|**2024-04-10**|**Accurate Tennis Court Line Detection on Amateur Recorded Matches**|Sameer Agrawal et.al.|[2404.06977v1](http://arxiv.org/abs/2404.06977v1)|null|
+|**2024-04-10**|**FiP: a Fixed-Point Approach for Causal Generative Modeling**|Meyer Scetbon et.al.|[2404.06969v1](http://arxiv.org/abs/2404.06969v1)|null|
+|**2024-04-10**|**Adversarial purification for no-reference image-quality metrics: applicability study and new methods**|Aleksandr Gushchin et.al.|[2404.06957v1](http://arxiv.org/abs/2404.06957v1)|null|
+|**2024-04-10**|**The fluid dynamics of a viscoelastic fluid dripping onto a substrate**|Konstantinos Zinelis et.al.|[2404.06947v1](http://arxiv.org/abs/2404.06947v1)|null|
+|**2024-04-10**|**Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation**|Thomas Merth et.al.|[2404.06910v1](http://arxiv.org/abs/2404.06910v1)|null|
+|**2024-04-10**|**SARA: Smart AI Reading Assistant for Reading Comprehension**|Enkeleda Thaqi et.al.|[2404.06906v1](http://arxiv.org/abs/2404.06906v1)|null|
+|**2024-04-10**|**NFARec: A Negative Feedback-Aware Recommender Model**|Xinfeng Wang et.al.|[2404.06900v1](http://arxiv.org/abs/2404.06900v1)|**[link](https://github.com/wangxfng/nfarec)**|
+|**2024-04-10**|**Topological states constructed by two different trivial quantum wires**|Jing-Run Lin et.al.|[2404.06886v1](http://arxiv.org/abs/2404.06886v1)|null|
+|**2024-04-10**|**Dilators and the reverse mathematics zoo**|Anton Freund et.al.|[2404.06872v1](http://arxiv.org/abs/2404.06872v1)|null|
+|**2024-04-10**|**Control-DAG: Constrained Decoding for Non-Autoregressive Directed Acyclic T5 using Weighted Finite State Automata**|Jinghong Chen et.al.|[2404.06854v1](http://arxiv.org/abs/2404.06854v1)|**[link](https://github.com/erichen0615/controldag)**|
+|**2024-04-10**|**UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion**|Junsheng Zhou et.al.|[2404.06851v1](http://arxiv.org/abs/2404.06851v1)|null|
+|**2024-04-10**|**On the radially deformed Fourier transform**|Hendrik De Bie et.al.|[2404.06839v1](http://arxiv.org/abs/2404.06839v1)|null|
+|**2024-04-10**|**Machine learning assisted optical diagnostics on a cylindrical atmospheric pressure surface dielectric barrier discharge**|Dimitrios Stefas et.al.|[2404.06817v1](http://arxiv.org/abs/2404.06817v1)|null|
+|**2024-04-10**|**Emotion-cause pair extraction method based on multi-granularity information and multi-module interaction**|Mingrui Fu et.al.|[2404.06812v1](http://arxiv.org/abs/2404.06812v1)|null|
+|**2024-04-10**|**Not All Contexts Are Equal: Teaching LLMs Credibility-aware Generation**|Ruotong Pan et.al.|[2404.06809v1](http://arxiv.org/abs/2404.06809v1)|**[link](https://github.com/panruotong/cag)**|
+|**2024-04-10**|**Efficient and Scalable Chinese Vector Font Generation via Component Composition**|Jinyu Song et.al.|[2404.06779v1](http://arxiv.org/abs/2404.06779v1)|null|
+|**2024-04-10**|**Adapting LLaMA Decoder to Vision Transformer**|Jiahao Wang et.al.|[2404.06773v1](http://arxiv.org/abs/2404.06773v1)|null|
+|**2024-04-10**|**Beyond Gait: Learning Knee Angle for Seamless Prosthesis Control in Multiple Scenarios**|Pengwei Wang et.al.|[2404.06772v1](http://arxiv.org/abs/2404.06772v1)|**[link](https://github.com/penway/Beyond-Gait-AEPM)**|
+|**2024-04-10**|**Harnessing the Power of AI-Generated Content for Semantic Communication**|Yiru Wang et.al.|[2404.06765v1](http://arxiv.org/abs/2404.06765v1)|null|
+|**2024-04-10**|**Leveraging open-source models for legal language modeling and analysis: a case study on the Indian constitution**|Vikhyath Gupta et.al.|[2404.06751v1](http://arxiv.org/abs/2404.06751v1)|null|
+|**2024-04-10**|**New Partial Orders of Polar Codes for BMSC**|Liuquan Yao et.al.|[2404.06736v1](http://arxiv.org/abs/2404.06736v1)|null|
+|**2024-04-10**|**A Copula Graphical Model for Multi-Attribute Data using Optimal Transport**|Qi Zhang et.al.|[2404.06735v1](http://arxiv.org/abs/2404.06735v1)|null|
+|**2024-04-10**|**Global Contrastive Training for Multimodal Electronic Health Records with Language Supervision**|Yingbo Ma et.al.|[2404.06723v1](http://arxiv.org/abs/2404.06723v1)|null|
+|**2024-04-10**|**Disentanglement of mixed interference fringes in optical interferometers: theory and applications**|Kaiyuan Yang et.al.|[2404.06716v1](http://arxiv.org/abs/2404.06716v1)|null|
+|**2024-04-10**|**Free boundary regularity in nonlinear one-phase Stefan problem**|Yamin Wang et.al.|[2404.06712v1](http://arxiv.org/abs/2404.06712v1)|null|
+|**2024-04-10**|**Wigner function and intensity moments of spatio-temporal light fields**|Aleksandr Bekshaev et.al.|[2404.06708v1](http://arxiv.org/abs/2404.06708v1)|null|
+|**2024-04-10**|**Forecasting the Future with Future Technologies: Advancements in Large Meteorological Models**|Hailong Shu et.al.|[2404.06668v1](http://arxiv.org/abs/2404.06668v1)|null|
+|**2024-04-10**|**Multi-modal Document Presentation Attack Detection With Forensics Trace Disentanglement**|Changsheng Chen et.al.|[2404.06663v1](http://arxiv.org/abs/2404.06663v1)|null|
+|**2024-04-09**|**Calibrating Higher-Order Statistics for Few-Shot Class-Incremental Learning with Pre-trained Vision Transformers**|Dipam Goswami et.al.|[2404.06622v1](http://arxiv.org/abs/2404.06622v1)|**[link](https://github.com/dipamgoswami/fscil-calibration)**|
+|**2024-04-09**|**What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models**|Jeongrok Yu et.al.|[2404.06621v1](http://arxiv.org/abs/2404.06621v1)|null|
+|**2024-04-09**|**Wavelet-based resolvent analysis of non-stationary flows**|Eric Ballouz et.al.|[2404.06600v1](http://arxiv.org/abs/2404.06600v1)|null|
+|**2024-04-09**|**Spectral decomposition and Siegel-Veech transforms for strata: The case of marked tori**|Jayadev Athreya et.al.|[2404.06597v1](http://arxiv.org/abs/2404.06597v1)|null|
+|**2024-04-09**|**Lecture notes on rough paths and applications to machine learning**|Thomas Cass et.al.|[2404.06583v1](http://arxiv.org/abs/2404.06583v1)|null|
 |**2024-04-09**|**InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD**|Xiaoyi Dong et.al.|[2404.06512v1](http://arxiv.org/abs/2404.06512v1)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-04-09**|**Comparing Two Model Designs for Clinical Note Generation; Is an LLM a Useful Evaluator of Consistency?**|Nathan Brake et.al.|[2404.06503v1](http://arxiv.org/abs/2404.06503v1)|null|
 |**2024-04-09**|**Learning State-Invariant Representations of Objects from Image Collections with State, Pose, and Viewpoint Changes**|Rohan Sarkar et.al.|[2404.06470v1](http://arxiv.org/abs/2404.06470v1)|null|
