@@ -23,7 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112v1](http://arxiv.org/abs/2404.07112v1)|null|
+|**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112v1](http://arxiv.org/abs/2404.07112v1)|**[link](https://github.com/lxlscut/Unfolding-ADMM-for-Enhanced-Subspace-Clustering-of-Hyperspectral-Images)**|
 |**2024-04-09**|**Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations**|Maximilian Witte et.al.|[2404.06400v1](http://arxiv.org/abs/2404.06400v1)|null|
 |**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294v1](http://arxiv.org/abs/2404.06294v1)|null|
 |**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v1](http://arxiv.org/abs/2404.06075v1)|null|
@@ -1488,13 +1488,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-10**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181v1](http://arxiv.org/abs/2404.07181v1)|null|
+|**2024-04-11**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181v2](http://arxiv.org/abs/2404.07181v2)|null|
 |**2024-04-10**|**Self-supervised Monocular Depth Estimation on Water Scenes via Specular Reflection Prior**|Zhengyang Lu et.al.|[2404.07176v1](http://arxiv.org/abs/2404.07176v1)|null|
 |**2024-04-10**|**Lost in Translation: Modern Neural Networks Still Struggle With Small Realistic Image Transformations**|Ofir Shifman et.al.|[2404.07153v1](http://arxiv.org/abs/2404.07153v1)|null|
 |**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150v1](http://arxiv.org/abs/2404.07150v1)|null|
 |**2024-04-10**|**Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention**|Tsendsuren Munkhdalai et.al.|[2404.07143v1](http://arxiv.org/abs/2404.07143v1)|null|
 |**2024-04-10**|**Hedonic Models Incorporating ESG Factors for Time Series of Average Annual Home Prices**|Jason R. Bailey et.al.|[2404.07132v1](http://arxiv.org/abs/2404.07132v1)|null|
-|**2024-04-10**|**What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation**|Aaditya K. Singh et.al.|[2404.07129v1](http://arxiv.org/abs/2404.07129v1)|null|
+|**2024-04-10**|**What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation**|Aaditya K. Singh et.al.|[2404.07129v1](http://arxiv.org/abs/2404.07129v1)|**[link](https://github.com/aadityasingh/icl-dynamics)**|
 |**2024-04-10**|**3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion**|Yixuan Li et.al.|[2404.07106v1](http://arxiv.org/abs/2404.07106v1)|null|
 |**2024-04-10**|**Learning Priors for Non Rigid SfM from Casual Videos**|Yoni Kasten et.al.|[2404.07097v1](http://arxiv.org/abs/2404.07097v1)|null|
 |**2024-04-10**|**Hilbert space representation for quasi-Hermitian position-deformed Heisenberg algebra and Path integral formulation**|Thomas Katsekpor et.al.|[2404.07082v1](http://arxiv.org/abs/2404.07082v1)|null|
