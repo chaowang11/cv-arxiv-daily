@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Terahertz imaging super-resolution for documental heritage diagnostics**|Danae Antunez Vazquez et.al.|[2404.07798v1](http://arxiv.org/abs/2404.07798v1)|null|
+|**2024-04-11**|**Near-field reconstruction of periodic structures with superimposed illumination**|Jue Wang et.al.|[2404.07763v1](http://arxiv.org/abs/2404.07763v1)|null|
+|**2024-04-11**|**Deep learning-driven pulmonary arteries and veins segmentation reveals demography-associated pulmonary vasculature anatomy**|Yuetan Chu et.al.|[2404.07671v1](http://arxiv.org/abs/2404.07671v1)|**[link](https://github.com/arturia-pendragon-iris/hipas_av_segmentation)**|
 |**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112v1](http://arxiv.org/abs/2404.07112v1)|**[link](https://github.com/lxlscut/Unfolding-ADMM-for-Enhanced-Subspace-Clustering-of-Hyperspectral-Images)**|
 |**2024-04-09**|**Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations**|Maximilian Witte et.al.|[2404.06400v1](http://arxiv.org/abs/2404.06400v1)|null|
 |**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294v1](http://arxiv.org/abs/2404.06294v1)|null|
@@ -982,6 +985,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Terahertz imaging super-resolution for documental heritage diagnostics**|Danae Antunez Vazquez et.al.|[2404.07798v1](http://arxiv.org/abs/2404.07798v1)|null|
 |**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294v1](http://arxiv.org/abs/2404.06294v1)|null|
 |**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v1](http://arxiv.org/abs/2404.06075v1)|null|
 |**2024-04-07**|**Efficient Learnable Collaborative Attention for Single Image Super-Resolution**|Yigang Zhao Chaowei Zheng et.al.|[2404.04922v1](http://arxiv.org/abs/2404.04922v1)|null|
@@ -1488,6 +1492,51 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding**|Yiwen Tang et.al.|[2404.07989v1](http://arxiv.org/abs/2404.07989v1)|**[link](https://github.com/ivan-tang-3d/any2point)**|
+|**2024-04-11**|**OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**|Tianbao Xie et.al.|[2404.07972v1](http://arxiv.org/abs/2404.07972v1)|null|
+|**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932v1](http://arxiv.org/abs/2404.07932v1)|null|
+|**2024-04-11**|**Parameter Hierarchical Optimization for Visible-Infrared Person Re-Identification**|Zeng YU et.al.|[2404.07930v1](http://arxiv.org/abs/2404.07930v1)|null|
+|**2024-04-11**|**HGRN2: Gated Linear RNNs with State Expansion**|Zhen Qin et.al.|[2404.07904v1](http://arxiv.org/abs/2404.07904v1)|**[link](https://github.com/opennlplab/hgrn2)**|
+|**2024-04-11**|**Joint transitivity for linear iterates**|Sebastián Donoso et.al.|[2404.07876v1](http://arxiv.org/abs/2404.07876v1)|null|
+|**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846v1](http://arxiv.org/abs/2404.07846v1)|**[link](https://github.com/nagejacob/tbsn)**|
+|**2024-04-11**|**RecurrentGemma: Moving Past Transformers for Efficient Open Language Models**|Aleksandar Botev et.al.|[2404.07839v1](http://arxiv.org/abs/2404.07839v1)|null|
+|**2024-04-11**|**Learning Deterministic Multi-Clock Timed Automata**|Yu Teng et.al.|[2404.07823v1](http://arxiv.org/abs/2404.07823v1)|null|
+|**2024-04-11**|**Sparse Laneformer**|Ji Liu et.al.|[2404.07821v1](http://arxiv.org/abs/2404.07821v1)|null|
+|**2024-04-11**|**Generation of  $3$ -connected, planar line graphs**|Phoebe Hollowbread-Smith et.al.|[2404.07819v1](http://arxiv.org/abs/2404.07819v1)|null|
+|**2024-04-11**|**Post-Hoc Reversal: Are We Selecting Models Prematurely?**|Rishabh Ranjan et.al.|[2404.07815v1](http://arxiv.org/abs/2404.07815v1)|**[link](https://github.com/rishabh-ranjan/post-hoc-reversal)**|
+|**2024-04-11**|**Problem-Driven Scenario Reduction Framework for Power System Stochastic Operation**|Yingrui Zhuang et.al.|[2404.07810v1](http://arxiv.org/abs/2404.07810v1)|null|
+|**2024-04-11**|**Tensor Neural Network Interpolation and Its Applications**|Yongxin Li et.al.|[2404.07805v1](http://arxiv.org/abs/2404.07805v1)|null|
+|**2024-04-11**|**DGMamba: Domain Generalization via Generalized State Space Model**|Shaocong Long et.al.|[2404.07794v1](http://arxiv.org/abs/2404.07794v1)|**[link](https://github.com/longshaocong/dgmamba)**|
+|**2024-04-11**|**PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**|Fei Xue et.al.|[2404.07785v1](http://arxiv.org/abs/2404.07785v1)|null|
+|**2024-04-11**|**ConsistencyDet: Robust Object Detector with Denoising Paradigm of Consistency Model**|Lifan Jiang et.al.|[2404.07773v1](http://arxiv.org/abs/2404.07773v1)|null|
+|**2024-04-11**|**Generating consistent PDDL domains with Large Language Models**|Pavel Smirnov et.al.|[2404.07751v1](http://arxiv.org/abs/2404.07751v1)|null|
+|**2024-04-11**|**3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces**|Xuanming Cao et.al.|[2404.07748v1](http://arxiv.org/abs/2404.07748v1)|null|
+|**2024-04-11**|**Local Jordan-Wigner transformations on the torus**|Oliver O'Brien et.al.|[2404.07727v1](http://arxiv.org/abs/2404.07727v1)|null|
+|**2024-04-11**|**Progressive Semantic-Guided Vision Transformer for Zero-Shot Learning**|Shiming Chen et.al.|[2404.07713v1](http://arxiv.org/abs/2404.07713v1)|null|
+|**2024-04-11**|**ViM-UNet: Vision Mamba for Biomedical Segmentation**|Anwai Archit et.al.|[2404.07705v1](http://arxiv.org/abs/2404.07705v1)|**[link](https://github.com/constantinpape/torch-em)**|
+|**2024-04-11**|**Integrating On-demand Ride-sharing with Mass Transit at-Scale**|Danushka Edirimanna et.al.|[2404.07691v1](http://arxiv.org/abs/2404.07691v1)|null|
+|**2024-04-11**|**Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**|Soumyabrata Chaudhuri et.al.|[2404.07645v1](http://arxiv.org/abs/2404.07645v1)|null|
+|**2024-04-11**|**One-dimensional  $\mathbb{Z}_4$  topological superconductor**|Max Tymczyszyn et.al.|[2404.07633v1](http://arxiv.org/abs/2404.07633v1)|null|
+|**2024-04-11**|**Optimal State Equation for the Control of a Diffusion with Two Distinct Dynamics**|Zengjing Chen et.al.|[2404.07618v1](http://arxiv.org/abs/2404.07618v1)|null|
+|**2024-04-11**|**GLID: Pre-training a Generalist Encoder-Decoder Vision Model**|Jihao Liu et.al.|[2404.07603v1](http://arxiv.org/abs/2404.07603v1)|null|
+|**2024-04-11**|**Statistical Independence and the Brockwell Transform -- From an Integral Equation Perspective**|Xingzhi Wang et.al.|[2404.07558v1](http://arxiv.org/abs/2404.07558v1)|null|
+|**2024-04-11**|**Event-Enhanced Snapshot Compressive Videography at 10K FPS**|Bo Zhang et.al.|[2404.07551v1](http://arxiv.org/abs/2404.07551v1)|null|
+|**2024-04-11**|**LATTE: Low-Precision Approximate Attention with Head-wise Trainable Threshold for Efficient Transformer**|Jiing-Ping Wang et.al.|[2404.07519v1](http://arxiv.org/abs/2404.07519v1)|null|
+|**2024-04-11**|**Remembering Transformer for Continual Learning**|Yuwei Sun et.al.|[2404.07518v1](http://arxiv.org/abs/2404.07518v1)|null|
+|**2024-04-11**|**Numerical investigation of the quantum inverse algorithm on small molecules**|Mauro Cainelli et.al.|[2404.07512v1](http://arxiv.org/abs/2404.07512v1)|null|
+|**2024-04-11**|**Multiparameter cascaded quantum interferometer**|Baihong Li et.al.|[2404.07509v1](http://arxiv.org/abs/2404.07509v1)|null|
+|**2024-04-11**|**PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds**|Weisheng Xu et.al.|[2404.07495v1](http://arxiv.org/abs/2404.07495v1)|**[link](https://github.com/stiphyjay/pillartrack)**|
+|**2024-04-11**|**LUCF-Net: Lightweight U-shaped Cascade Fusion Network for Medical Image Segmentation**|Songkai Sun et.al.|[2404.07473v1](http://arxiv.org/abs/2404.07473v1)|null|
+|**2024-04-11**|**Structure-aware Fine-tuning for Code Pre-trained Models**|Jiayi Wu et.al.|[2404.07471v1](http://arxiv.org/abs/2404.07471v1)|null|
+|**2024-04-11**|**Bayesian Penalized Transformation Models: Structured Additive Location-Scale Regression for Arbitrary Conditional Distributions**|Johannes Brachem et.al.|[2404.07440v1](http://arxiv.org/abs/2404.07440v1)|null|
+|**2024-04-11**|**Precoder Design for User-Centric Network Massive MIMO with Matrix Manifold Optimization**|Rui Sun et.al.|[2404.07425v1](http://arxiv.org/abs/2404.07425v1)|null|
+|**2024-04-11**|**Post-hurricane building damage assessment using street-view imagery and structured data: A multi-modal deep learning approach**|Zhuoqun Xue et.al.|[2404.07399v1](http://arxiv.org/abs/2404.07399v1)|null|
+|**2024-04-10**|**Gradient Networks**|Shreyas Chaudhari et.al.|[2404.07361v1](http://arxiv.org/abs/2404.07361v1)|null|
+|**2024-04-10**|**Addressing the Abstraction and Reasoning Corpus via Procedural Example Generation**|Michael Hodel et.al.|[2404.07353v1](http://arxiv.org/abs/2404.07353v1)|**[link](https://github.com/michaelhodel/re-arc)**|
+|**2024-04-10**|**A Transformer-Based Model for the Prediction of Human Gaze Behavior on Videos**|Suleyman Ozdel et.al.|[2404.07351v1](http://arxiv.org/abs/2404.07351v1)|null|
+|**2024-04-10**|**Solving Masked Jigsaw Puzzles with Diffusion Vision Transformers**|Jinyang Liu et.al.|[2404.07292v1](http://arxiv.org/abs/2404.07292v1)|**[link](https://github.com/jinyangmarkliu/jpdvt)**|
+|**2024-04-10**|**Transit Spectroscopy of K2-33b with Subaru/IRD: Spin-Orbit Alignment and Tentative Atmospheric Helium**|Teruyuki Hirano et.al.|[2404.07262v1](http://arxiv.org/abs/2404.07262v1)|null|
+|**2024-04-10**|**PolyBin3D: A Suite of Optimal and Efficient Power Spectrum and Bispectrum Estimators for Large-Scale Structure**|Oliver H. E. Philcox et.al.|[2404.07249v1](http://arxiv.org/abs/2404.07249v1)|null|
 |**2024-04-11**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181v2](http://arxiv.org/abs/2404.07181v2)|null|
 |**2024-04-10**|**Self-supervised Monocular Depth Estimation on Water Scenes via Specular Reflection Prior**|Zhengyang Lu et.al.|[2404.07176v1](http://arxiv.org/abs/2404.07176v1)|null|
 |**2024-04-10**|**Lost in Translation: Modern Neural Networks Still Struggle With Small Realistic Image Transformations**|Ofir Shifman et.al.|[2404.07153v1](http://arxiv.org/abs/2404.07153v1)|null|
