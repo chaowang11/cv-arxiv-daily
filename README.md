@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**MTKD: Multi-Teacher Knowledge Distillation for Image Super-Resolution**|Yuxuan Jiang et.al.|[2404.09571v1](http://arxiv.org/abs/2404.09571v1)|null|
+|**2024-04-15**|**Super-resolution of biomedical volumes with 2D supervision**|Cheng Jiang et.al.|[2404.09425v1](http://arxiv.org/abs/2404.09425v1)|null|
 |**2024-04-15**|**Differentiable Search for Finding Optimal Quantization Strategy**|Lianqiang Li et.al.|[2404.08010v2](http://arxiv.org/abs/2404.08010v2)|null|
 |**2024-04-11**|**Terahertz imaging super-resolution for documental heritage diagnostics**|Danae Antunez Vazquez et.al.|[2404.07798v1](http://arxiv.org/abs/2404.07798v1)|null|
 |**2024-04-11**|**Near-field reconstruction of periodic structures with superimposed illumination**|Jue Wang et.al.|[2404.07763v1](http://arxiv.org/abs/2404.07763v1)|null|
@@ -58,7 +60,7 @@
 |**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690v1](http://arxiv.org/abs/2404.01690v1)|null|
 |**2024-04-01**|**Video Interpolation with Diffusion Models**|Siddhant Jain et.al.|[2404.01203v1](http://arxiv.org/abs/2404.01203v1)|null|
 |**2024-04-01**|**DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF**|Jie Long Lee et.al.|[2404.00874v1](http://arxiv.org/abs/2404.00874v1)|null|
-|**2024-04-08**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v3](http://arxiv.org/abs/2404.00722v3)|null|
+|**2024-04-15**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v4](http://arxiv.org/abs/2404.00722v4)|null|
 |**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
 |**2024-03-30**|**SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising**|Runmin Zhang et.al.|[2404.00349v1](http://arxiv.org/abs/2404.00349v1)|null|
 |**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|null|
@@ -986,6 +988,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**MTKD: Multi-Teacher Knowledge Distillation for Image Super-Resolution**|Yuxuan Jiang et.al.|[2404.09571v1](http://arxiv.org/abs/2404.09571v1)|null|
 |**2024-04-15**|**Differentiable Search for Finding Optimal Quantization Strategy**|Lianqiang Li et.al.|[2404.08010v2](http://arxiv.org/abs/2404.08010v2)|null|
 |**2024-04-11**|**Terahertz imaging super-resolution for documental heritage diagnostics**|Danae Antunez Vazquez et.al.|[2404.07798v1](http://arxiv.org/abs/2404.07798v1)|null|
 |**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294v1](http://arxiv.org/abs/2404.06294v1)|null|
@@ -995,7 +998,7 @@
 |**2024-04-03**|**Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution**|Simiao Li et.al.|[2404.02573v1](http://arxiv.org/abs/2404.02573v1)|null|
 |**2024-04-04**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692v2](http://arxiv.org/abs/2404.01692v2)|**[link](https://github.com/jaehakim97/sr4ir)**|
 |**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690v1](http://arxiv.org/abs/2404.01690v1)|null|
-|**2024-04-08**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v3](http://arxiv.org/abs/2404.00722v3)|null|
+|**2024-04-15**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v4](http://arxiv.org/abs/2404.00722v4)|null|
 |**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
 |**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|null|
 |**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370v1](http://arxiv.org/abs/2403.18370v1)|**[link](https://github.com/luigisigillo/shipinsight)**|
@@ -1494,6 +1497,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**FSRT: Facial Scene Representation Transformer for Face Reenactment from Factorized Appearance, Head-pose, and Facial Expression Features**|Andre Rochow et.al.|[2404.09736v1](http://arxiv.org/abs/2404.09736v1)|null|
+|**2024-04-15**|**Weighted Sum-Rate Maximization for Movable Antenna-Enhanced Wireless Networks**|Biqian Feng et.al.|[2404.09734v1](http://arxiv.org/abs/2404.09734v1)|null|
+|**2024-04-15**|**Homogenization of Phase Transition Problems with Evolving Microstructure**|Michael Eden et.al.|[2404.09726v1](http://arxiv.org/abs/2404.09726v1)|null|
+|**2024-04-15**|**Adaptive Patching for High-resolution Image Segmentation with Transformers**|Enzhi Zhang et.al.|[2404.09707v1](http://arxiv.org/abs/2404.09707v1)|null|
+|**2024-04-15**|**AI Competitions and Benchmarks: Dataset Development**|Romain Egele et.al.|[2404.09703v1](http://arxiv.org/abs/2404.09703v1)|null|
+|**2024-04-15**|**HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising**|Yang Liu et.al.|[2404.09697v1](http://arxiv.org/abs/2404.09697v1)|null|
+|**2024-04-15**|**LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models**|Guangyan Li et.al.|[2404.09695v1](http://arxiv.org/abs/2404.09695v1)|null|
+|**2024-04-15**|**XoFTR: Cross-modal Feature Matching Transformer**|Önder Tuzcuoğlu et.al.|[2404.09692v1](http://arxiv.org/abs/2404.09692v1)|null|
+|**2024-04-15**|**Sampling for Model Predictive Trajectory Planning in Autonomous Driving using Normalizing Flows**|Georg Rabenstein et.al.|[2404.09657v1](http://arxiv.org/abs/2404.09657v1)|null|
+|**2024-04-15**|**Impact of chirality on active Brownian particle: Exact moments in two and three dimensions**|Anweshika Pattanayak et.al.|[2404.09650v1](http://arxiv.org/abs/2404.09650v1)|null|
+|**2024-04-15**|**All-in-one simulation-based inference**|Manuel Gloeckler et.al.|[2404.09636v1](http://arxiv.org/abs/2404.09636v1)|**[link](https://github.com/mackelab/simformer)**|
+|**2024-04-15**|**Bridging Vision and Language Spaces with Assignment Prediction**|Jungin Park et.al.|[2404.09632v1](http://arxiv.org/abs/2404.09632v1)|**[link](https://github.com/park-jungin/vlap)**|
+|**2024-04-15**|**UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark**|Zhaokun Zhou et.al.|[2404.09619v1](http://arxiv.org/abs/2404.09619v1)|null|
+|**2024-04-15**|**The "C": The large Chameleon-Musca-Coalsack cloud**|Gordian Edenhofer et.al.|[2404.09592v1](http://arxiv.org/abs/2404.09592v1)|null|
+|**2024-04-15**|**The metric for matrix degenerate Kato square root operators**|Gianmarco Brocchi et.al.|[2404.09580v1](http://arxiv.org/abs/2404.09580v1)|null|
+|**2024-04-15**|**Transformers, Contextualism, and Polysemy**|Jumbly Grindrod et.al.|[2404.09577v1](http://arxiv.org/abs/2404.09577v1)|null|
+|**2024-04-15**|**The revenge of BiSeNet: Efficient Multi-Task Image Segmentation**|Gabriele Rosi et.al.|[2404.09570v1](http://arxiv.org/abs/2404.09570v1)|null|
+|**2024-04-15**|**Surprising pressure-induced magnetic transformations from Helimagnetic order to Antiferromagnetic state in NiI2**|Qiye Liu et.al.|[2404.09569v1](http://arxiv.org/abs/2404.09569v1)|null|
+|**2024-04-15**|**nnU-Net Revisited: A Call for Rigorous Validation in 3D Medical Image Segmentation**|Fabian Isensee et.al.|[2404.09556v1](http://arxiv.org/abs/2404.09556v1)|null|
+|**2024-04-15**|**WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**|Bin Wang et.al.|[2404.09533v1](http://arxiv.org/abs/2404.09533v1)|null|
+|**2024-04-15**|**Prepacking: A Simple Method for Fast Prefilling and Increased Throughput in Large Language Models**|Siyan Zhao et.al.|[2404.09529v1](http://arxiv.org/abs/2404.09529v1)|**[link](https://github.com/siyan-zhao/prepacking)**|
+|**2024-04-15**|**UniSAR: Modeling User Transition Behaviors between Search and Recommendation**|Teng Shi et.al.|[2404.09520v1](http://arxiv.org/abs/2404.09520v1)|**[link](https://github.com/tengshi-ruc/unisar)**|
+|**2024-04-15**|**State Space Model for New-Generation Network Alternative to Transformers: A Survey**|Xiao Wang et.al.|[2404.09516v1](http://arxiv.org/abs/2404.09516v1)|**[link](https://github.com/event-ahu/mamba_state_space_model_paper_list)**|
+|**2024-04-15**|**Eruption of a million-Kelvin warm magnetic flux rope on the Sun**|Leping Li et.al.|[2404.09514v1](http://arxiv.org/abs/2404.09514v1)|null|
+|**2024-04-15**|**SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction**|Pin Tang et.al.|[2404.09502v1](http://arxiv.org/abs/2404.09502v1)|null|
+|**2024-04-15**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498v1](http://arxiv.org/abs/2404.09498v1)|null|
+|**2024-04-15**|**Novel entropy difference-based EEG channel selection technique for automated detection of ADHD**|Shishir Maheshwari et.al.|[2404.09493v1](http://arxiv.org/abs/2404.09493v1)|null|
+|**2024-04-15**|**Deep Learning for Cosmological Parameter Inference from Dark Matter Halo Density Field**|Zhiwei Min et.al.|[2404.09483v1](http://arxiv.org/abs/2404.09483v1)|null|
+|**2024-04-15**|**FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining**|Zou Zhen et.al.|[2404.09476v1](http://arxiv.org/abs/2404.09476v1)|null|
+|**2024-04-15**|**TCCT-Net: Two-Stream Network Architecture for Fast and Efficient Engagement Estimation via Behavioral Feature Signals**|Alexander Vedernikov et.al.|[2404.09474v1](http://arxiv.org/abs/2404.09474v1)|**[link](https://github.com/vedernikovphoto/tcct_net)**|
+|**2024-04-15**|**Scoring Intervals using Non-hierarchical Transformer For Automatic Piano Transcription**|Yujia Yan et.al.|[2404.09466v1](http://arxiv.org/abs/2404.09466v1)|null|
+|**2024-04-15**|**Crooked indifferentiability of the Feistel Construction**|Alexander Russell et.al.|[2404.09450v1](http://arxiv.org/abs/2404.09450v1)|null|
+|**2024-04-15**|**Correcting Subverted Random Oracles**|Alexander Russell et.al.|[2404.09442v1](http://arxiv.org/abs/2404.09442v1)|null|
+|**2024-04-15**|**Image Reconstruction with B0 Inhomogeneity using an Interpretable Deep Unrolled Network on an Open-bore MRI-Linac**|Shanshan Shan et.al.|[2404.09436v1](http://arxiv.org/abs/2404.09436v1)|null|
+|**2024-04-15**|**VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**|Bonan Ding et.al.|[2404.09431v1](http://arxiv.org/abs/2404.09431v1)|null|
+|**2024-04-15**|**Polynomial Fourier Decay For Patterson-Sullivan Measures**|Osama Khalil et.al.|[2404.09424v1](http://arxiv.org/abs/2404.09424v1)|null|
+|**2024-04-15**|**Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers**|Doron Haviv et.al.|[2404.09411v1](http://arxiv.org/abs/2404.09411v1)|null|
+|**2024-04-15**|**EQO: Exploring Ultra-Efficient Private Inference with Winograd-Based Protocol and Quantization Co-Optimization**|Wenxuan Zeng et.al.|[2404.09404v1](http://arxiv.org/abs/2404.09404v1)|null|
+|**2024-04-15**|**Characterizing Kirkwood-Dirac positive states based on discrete Fourier transform**|Ying-Hui Yang et.al.|[2404.09399v1](http://arxiv.org/abs/2404.09399v1)|null|
+|**2024-04-15**|**Identification of cardiovascular diseases through ECG classification using wavelet transformation**|Morteza Maleki et.al.|[2404.09393v1](http://arxiv.org/abs/2404.09393v1)|null|
+|**2024-04-15**|**Integrating Marketing Channels into Quantile Transformation and Bayesian Optimization of Ensemble Kernels for Sales Prediction with Gaussian Process Models**|Shahin Mirshekari et.al.|[2404.09386v1](http://arxiv.org/abs/2404.09386v1)|null|
+|**2024-04-14**|**Hierarchical Attention Models for Multi-Relational Graphs**|Roshni G. Iyer et.al.|[2404.09365v1](http://arxiv.org/abs/2404.09365v1)|null|
+|**2024-04-14**|**Weight Copy and Low-Rank Adaptation for Few-Shot Distillation of Vision Transformers**|Diana-Nicoleta Grigore et.al.|[2404.09326v1](http://arxiv.org/abs/2404.09326v1)|null|
+|**2024-04-14**|**The intelligent prediction and assessment of financial information risk in the cloud computing model**|Yufu Wang et.al.|[2404.09322v1](http://arxiv.org/abs/2404.09322v1)|null|
+|**2024-04-14**|**Binary bi-braces and applications to cryptography**|Roberto Civino et.al.|[2404.09315v1](http://arxiv.org/abs/2404.09315v1)|null|
+|**2024-04-14**|**In My Perspective, In My Hands: Accurate Egocentric 2D Hand Pose and Action Recognition**|Wiktor Mucha et.al.|[2404.09308v1](http://arxiv.org/abs/2404.09308v1)|null|
+|**2024-04-14**|**Reap the Wild Wind: Detecting Media Storms in Large-Scale News Corpora**|Dror K. Markus et.al.|[2404.09299v1](http://arxiv.org/abs/2404.09299v1)|null|
+|**2024-04-14**|**Cross-Data Knowledge Graph Construction for LLM-enabled Educational Question-Answering System: A~Case~Study~at~HCMUT**|Tuan Bui et.al.|[2404.09296v1](http://arxiv.org/abs/2404.09296v1)|null|
+|**2024-04-14**|**Task-Driven Exploration: Decoupling and Inter-Task Feedback for Joint Moment Retrieval and Highlight Detection**|Jin Yang et.al.|[2404.09263v1](http://arxiv.org/abs/2404.09263v1)|**[link](https://github.com/edengabriel/taskweave)**|
+|**2024-04-14**|**Foundational GPT Model for MEG**|Richard Csaky et.al.|[2404.09256v1](http://arxiv.org/abs/2404.09256v1)|**[link](https://github.com/ricsinaruto/meg-transfer-decoding)**|
 |**2024-04-12**|**Pre-training Small Base LMs with Fewer Tokens**|Sunny Sanyal et.al.|[2404.08634v1](http://arxiv.org/abs/2404.08634v1)|**[link](https://github.com/sanyalsunny111/llm-inheritune)**|
 |**2024-04-12**|**Is ChatGPT Transforming Academics' Writing Style?**|Mingmeng Geng et.al.|[2404.08627v1](http://arxiv.org/abs/2404.08627v1)|null|
 |**2024-04-12**|**Synthetic Dataset Creation and Fine-Tuning of Transformer Models for Question Answering in Serbian**|Aleksa Cvetanović et.al.|[2404.08617v1](http://arxiv.org/abs/2404.08617v1)|**[link](https://github.com/aleksac99/SQuAD-SR)**|
