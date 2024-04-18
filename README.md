@@ -1547,7 +1547,7 @@
 |**2024-04-16**|**Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs**|Woomin Song et.al.|[2404.10308v1](http://arxiv.org/abs/2404.10308v1)|**[link](https://github.com/alinlab/homer)**|
 |**2024-04-16**|**TC-OCR: TableCraft OCR for Efficient Detection & Recognition of Table Structure & Content**|Avinash Anand et.al.|[2404.10305v1](http://arxiv.org/abs/2404.10305v1)|null|
 |**2024-04-16**|**Long-form music generation with latent diffusion**|Zach Evans et.al.|[2404.10301v1](http://arxiv.org/abs/2404.10301v1)|null|
-|**2024-04-16**|**ControlMTR: Control-Guided Motion Transformer with Scene-Compliant Intention Points for Feasible Motion Prediction**|Jiawei Sun et.al.|[2404.10295v1](http://arxiv.org/abs/2404.10295v1)|null|
+|**2024-04-17**|**ControlMTR: Control-Guided Motion Transformer with Scene-Compliant Intention Points for Feasible Motion Prediction**|Jiawei Sun et.al.|[2404.10295v2](http://arxiv.org/abs/2404.10295v2)|null|
 |**2024-04-16**|**Two system transformation data-driven algorithms for linear quadratic mean-field games**|Xun Li et.al.|[2404.10285v1](http://arxiv.org/abs/2404.10285v1)|null|
 |**2024-04-16**|**Vision-and-Language Navigation via Causal Learning**|Liuyi Wang et.al.|[2404.10241v1](http://arxiv.org/abs/2404.10241v1)|**[link](https://github.com/crystalsixone/vln-goat)**|
 |**2024-04-16**|**Channel Estimation for AFDM With Superimposed Pilots**|Kai Zheng et.al.|[2404.10232v1](http://arxiv.org/abs/2404.10232v1)|null|
