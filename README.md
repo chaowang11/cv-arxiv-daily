@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -31,7 +31,7 @@
 |**2024-04-17**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v2](http://arxiv.org/abs/2404.10312v2)|null|
 |**2024-04-16**|**Little Pilot is Needed for Channel Estimation with Integrated Super-Resolution Sensing and Communication**|Jingran Xu et.al.|[2404.10233v1](http://arxiv.org/abs/2404.10233v1)|null|
 |**2024-04-15**|**The Problem Of Image Super-Resolution, Denoising And Some Image Restoration Methods In Deep Learning Models**|Ngoc-Giau Pham et.al.|[2404.09817v1](http://arxiv.org/abs/2404.09817v1)|null|
-|**2024-04-15**|**NTIRE 2024 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2404.09790v1](http://arxiv.org/abs/2404.09790v1)|null|
+|**2024-04-15**|**NTIRE 2024 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2404.09790v1](http://arxiv.org/abs/2404.09790v1)|**[link](https://github.com/zhengchen1999/ntire2024_imagesr_x4)**|
 |**2024-04-15**|**MTKD: Multi-Teacher Knowledge Distillation for Image Super-Resolution**|Yuxuan Jiang et.al.|[2404.09571v1](http://arxiv.org/abs/2404.09571v1)|null|
 |**2024-04-15**|**Super-resolution of biomedical volumes with 2D supervision**|Cheng Jiang et.al.|[2404.09425v1](http://arxiv.org/abs/2404.09425v1)|null|
 |**2024-04-15**|**Differentiable Search for Finding Optimal Quantization Strategy**|Lianqiang Li et.al.|[2404.08010v2](http://arxiv.org/abs/2404.08010v2)|null|
@@ -72,7 +72,7 @@
 |**2024-04-15**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v4](http://arxiv.org/abs/2404.00722v4)|**[link](https://github.com/ming053l/drct)**|
 |**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
 |**2024-03-30**|**SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising**|Runmin Zhang et.al.|[2404.00349v1](http://arxiv.org/abs/2404.00349v1)|null|
-|**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|null|
+|**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|**[link](https://github.com/aitical/sscsr)**|
 |**2024-04-08**|**Burst Super-Resolution with Diffusion Models for Improving Perceptual Quality**|Kyotaro Tokoro et.al.|[2403.19428v3](http://arxiv.org/abs/2403.19428v3)|**[link](https://github.com/placerkyo/bsrd)**|
 |**2024-03-28**|**Structured illumination microscopy with extreme ultraviolet pulses**|R. Mincigrucci et.al.|[2403.19382v1](http://arxiv.org/abs/2403.19382v1)|null|
 |**2024-03-27**|**Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D**|Mukund Varma T et.al.|[2403.18922v1](http://arxiv.org/abs/2403.18922v1)|null|
@@ -991,7 +991,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240419>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -1002,7 +1002,7 @@
 |**2024-04-16**|**The Ninth NTIRE 2024 Efficient Super-Resolution Challenge Report**|Bin Ren et.al.|[2404.10343v1](http://arxiv.org/abs/2404.10343v1)|**[link](https://github.com/amazingren/ntire2024_esr)**|
 |**2024-04-17**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v2](http://arxiv.org/abs/2404.10312v2)|null|
 |**2024-04-15**|**The Problem Of Image Super-Resolution, Denoising And Some Image Restoration Methods In Deep Learning Models**|Ngoc-Giau Pham et.al.|[2404.09817v1](http://arxiv.org/abs/2404.09817v1)|null|
-|**2024-04-15**|**NTIRE 2024 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2404.09790v1](http://arxiv.org/abs/2404.09790v1)|null|
+|**2024-04-15**|**NTIRE 2024 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2404.09790v1](http://arxiv.org/abs/2404.09790v1)|**[link](https://github.com/zhengchen1999/ntire2024_imagesr_x4)**|
 |**2024-04-15**|**MTKD: Multi-Teacher Knowledge Distillation for Image Super-Resolution**|Yuxuan Jiang et.al.|[2404.09571v1](http://arxiv.org/abs/2404.09571v1)|null|
 |**2024-04-15**|**Differentiable Search for Finding Optimal Quantization Strategy**|Lianqiang Li et.al.|[2404.08010v2](http://arxiv.org/abs/2404.08010v2)|null|
 |**2024-04-11**|**Terahertz imaging super-resolution for documental heritage diagnostics**|Danae Antunez Vazquez et.al.|[2404.07798v1](http://arxiv.org/abs/2404.07798v1)|null|
@@ -1015,7 +1015,7 @@
 |**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690v1](http://arxiv.org/abs/2404.01690v1)|null|
 |**2024-04-15**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v4](http://arxiv.org/abs/2404.00722v4)|**[link](https://github.com/ming053l/drct)**|
 |**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
-|**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|null|
+|**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|**[link](https://github.com/aitical/sscsr)**|
 |**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370v1](http://arxiv.org/abs/2403.18370v1)|**[link](https://github.com/luigisigillo/shipinsight)**|
 |**2024-03-27**|**Super-Resolution of SOHO/MDI Magnetograms of Solar Active Regions Using SDO/HMI Data and an Attention-Aided Convolutional Neural Network**|Chunhui Xu et.al.|[2403.18302v1](http://arxiv.org/abs/2403.18302v1)|null|
 |**2024-03-26**|**Algorithmic unfolding for image reconstruction and localization problems in fluorescence microscopy**|Silvia Bonettini et.al.|[2403.17506v1](http://arxiv.org/abs/2403.17506v1)|**[link](https://github.com/danilopezzi/agd-unfolding-for-microscopy-imaging)**|
@@ -1338,7 +1338,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240419>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -1444,7 +1444,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240419>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -1463,7 +1463,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240419>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -1506,22 +1506,22 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240419>back to top</a>)</p>
 
 ## Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-17**|**Dynamic Typography: Bringing Words to Life**|Zichen Liu et.al.|[2404.11614v1](http://arxiv.org/abs/2404.11614v1)|null|
-|**2024-04-17**|**Isoparametric Virtual Element Methods**|Andrea Cangiani et.al.|[2404.11603v1](http://arxiv.org/abs/2404.11603v1)|null|
+|**2024-04-18**|**Dynamic Typography: Bringing Text to Life via Video Diffusion Prior**|Zichen Liu et.al.|[2404.11614v2](http://arxiv.org/abs/2404.11614v2)|null|
+|**2024-04-18**|**Isoparametric Virtual Element Methods**|Andrea Cangiani et.al.|[2404.11603v2](http://arxiv.org/abs/2404.11603v2)|null|
 |**2024-04-17**|**The EDGE Language: Extended General Einsums for Graph Algorithms**|Toluwanimi O. Odemuyiwa et.al.|[2404.11591v1](http://arxiv.org/abs/2404.11591v1)|null|
 |**2024-04-17**|**Towards Energetic Quantum Advantage in Trapped-Ion Quantum Computation**|Francisca Góis et.al.|[2404.11572v1](http://arxiv.org/abs/2404.11572v1)|null|
-|**2024-04-17**|**Simple Image Signal Processing using Global Context Guidance**|Omar Elezabi et.al.|[2404.11569v1](http://arxiv.org/abs/2404.11569v1)|null|
+|**2024-04-17**|**Simple Image Signal Processing using Global Context Guidance**|Omar Elezabi et.al.|[2404.11569v1](http://arxiv.org/abs/2404.11569v1)|**[link](https://github.com/mv-lab/AISP)**|
 |**2024-04-17**|**On the Scalability of GNNs for Molecular Graphs**|Maciej Sypetkowski et.al.|[2404.11568v1](http://arxiv.org/abs/2404.11568v1)|null|
 |**2024-04-17**|**Borel transforms of functions from a parameterized family of Hilbert spaces of entire functions**|Konstantin Isaev et.al.|[2404.11548v1](http://arxiv.org/abs/2404.11548v1)|null|
 |**2024-04-17**|**GenFighter: A Generative and Evolutive Textual Attack Removal**|Md Athikul Islam et.al.|[2404.11538v1](http://arxiv.org/abs/2404.11538v1)|null|
 |**2024-04-17**|**Decomposing and Editing Predictions by Modeling Model Computation**|Harshay Shah et.al.|[2404.11534v1](http://arxiv.org/abs/2404.11534v1)|**[link](https://github.com/madrylab/modelcomponents)**|
-|**2024-04-17**|**JointViT: Modeling Oxygen Saturation Levels with Joint Supervision on Long-Tailed OCTA**|Zeyu Zhang et.al.|[2404.11525v1](http://arxiv.org/abs/2404.11525v1)|**[link](https://github.com/steve-zeyu-zhang/JointViT)**|
+|**2024-04-18**|**JointViT: Modeling Oxygen Saturation Levels with Joint Supervision on Long-Tailed OCTA**|Zeyu Zhang et.al.|[2404.11525v2](http://arxiv.org/abs/2404.11525v2)|**[link](https://github.com/steve-zeyu-zhang/JointViT)**|
 |**2024-04-17**|**Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation**|Zhiyong Cheng et.al.|[2404.11519v1](http://arxiv.org/abs/2404.11519v1)|**[link](https://github.com/jianhuadongcs/disen-cgcn)**|
 |**2024-04-17**|**Towards Coarse-to-Fine Evaluation of Inference Efficiency for Large Language Models**|Yushuo Chen et.al.|[2404.11502v1](http://arxiv.org/abs/2404.11502v1)|**[link](https://github.com/rucaibox/coarse-to-fine-evaluation-of-inference-efficiency)**|
 |**2024-04-17**|**A Data-Driven Representation for Sign Language Production**|Harry Walsh et.al.|[2404.11499v1](http://arxiv.org/abs/2404.11499v1)|**[link](https://github.com/walsharry/vq_slp_demos)**|
@@ -1549,12 +1549,12 @@
 |**2024-04-17**|**In-Context Learning State Vector with Inner and Momentum Optimization**|Dongfang Li et.al.|[2404.11225v1](http://arxiv.org/abs/2404.11225v1)|**[link](https://github.com/hitsz-tmg/icl-state-vector)**|
 |**2024-04-17**|**Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis**|Weiyu Guo et.al.|[2404.11213v1](http://arxiv.org/abs/2404.11213v1)|null|
 |**2024-04-17**|**Rotational Interval Exchange Transformations**|Alexey Teplinsky et.al.|[2404.11211v1](http://arxiv.org/abs/2404.11211v1)|null|
-|**2024-04-17**|**RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models**|Han Huang et.al.|[2404.11199v1](http://arxiv.org/abs/2404.11199v1)|null|
-|**2024-04-17**|**Simultaneous compensation of input delay and state/input quantization for linear systems via switched predictor feedback**|Florent Koudohode et.al.|[2404.11194v1](http://arxiv.org/abs/2404.11194v1)|null|
+|**2024-04-17**|**RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models**|Han Huang et.al.|[2404.11199v1](http://arxiv.org/abs/2404.11199v1)|**[link](https://github.com/ml4bio/ribodiffusion)**|
+|**2024-04-18**|**Simultaneous compensation of input delay and state/input quantization for linear systems via switched predictor feedback**|Florent Koudohode et.al.|[2404.11194v2](http://arxiv.org/abs/2404.11194v2)|null|
 |**2024-04-17**|**Active quantum distillation**|Muchun Yang et.al.|[2404.11175v1](http://arxiv.org/abs/2404.11175v1)|null|
 |**2024-04-17**|**Microwave photonic short-time Fourier transform based on stabilized period-one nonlinear laser dynamics and stimulated Brillouin scattering**|Sunan Zhang et.al.|[2404.11168v1](http://arxiv.org/abs/2404.11168v1)|null|
 |**2024-04-17**|**Determining the time before or after a galaxy merger event**|W. J. Pearson et.al.|[2404.11166v1](http://arxiv.org/abs/2404.11166v1)|null|
-|**2024-04-17**|**LongVQ: Long Sequence Modeling with Vector Quantization on Structured Memory**|Zicheng Liu et.al.|[2404.11163v1](http://arxiv.org/abs/2404.11163v1)|null|
+|**2024-04-18**|**LongVQ: Long Sequence Modeling with Vector Quantization on Structured Memory**|Zicheng Liu et.al.|[2404.11163v2](http://arxiv.org/abs/2404.11163v2)|null|
 |**2024-04-17**|**Learning SO(3)-Invariant Semantic Correspondence via Local Shape Transform**|Chunghyun Park et.al.|[2404.11156v1](http://arxiv.org/abs/2404.11156v1)|null|
 |**2024-04-17**|**Self-adaptive PSRO: Towards an Automatic Population-based Game Solver**|Pengdeng Li et.al.|[2404.11144v1](http://arxiv.org/abs/2404.11144v1)|null|
 |**2024-04-17**|**Functional Brain-to-Brain Transformation with No Shared Data**|Navve Wasserman et.al.|[2404.11143v1](http://arxiv.org/abs/2404.11143v1)|null|
@@ -16977,7 +16977,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240419>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -17179,7 +17179,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240419>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -17264,7 +17264,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240419>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
