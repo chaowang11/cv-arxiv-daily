@@ -1533,8 +1533,8 @@
 |**2024-04-18**|**Theory of Mobility Rings in Non-Hermitian Systems**|Shan-Zhong Li et.al.|[2404.12266v1](http://arxiv.org/abs/2404.12266v1)|null|
 |**2024-04-18**|**Qubit dynamics driven by smooth pulses of finite duration**|Ivo S. Mihov et.al.|[2404.12236v1](http://arxiv.org/abs/2404.12236v1)|null|
 |**2024-04-18**|**Beyond Average: Individualized Visual Scanpath Prediction**|Xianyu Chen et.al.|[2404.12235v1](http://arxiv.org/abs/2404.12235v1)|null|
-|**2024-04-18**|**Length Generalization of Causal Transformers without Position Encoding**|Jie Wang et.al.|[2404.12224v1](http://arxiv.org/abs/2404.12224v1)|null|
-|**2024-04-18**|**Observation, Analysis, and Solution: Exploring Strong Lightweight Vision Transformers via Masked Image Modeling Pre-Training**|Jin Gao et.al.|[2404.12210v1](http://arxiv.org/abs/2404.12210v1)|null|
+|**2024-04-18**|**Length Generalization of Causal Transformers without Position Encoding**|Jie Wang et.al.|[2404.12224v1](http://arxiv.org/abs/2404.12224v1)|**[link](https://github.com/antnlp/nope_head_scale)**|
+|**2024-04-18**|**Observation, Analysis, and Solution: Exploring Strong Lightweight Vision Transformers via Masked Image Modeling Pre-Training**|Jin Gao et.al.|[2404.12210v1](http://arxiv.org/abs/2404.12210v1)|**[link](https://github.com/wangsr126/mae-lite)**|
 |**2024-04-18**|**Revisiting Buchdahl transformations: New static and rotating black holes in vacuum, double copy, and hairy extensions**|José Barrientos et.al.|[2404.12194v1](http://arxiv.org/abs/2404.12194v1)|null|
 |**2024-04-18**|**Microwave seeding time crystal in Floquet driven Rydberg atoms**|Bang Liu et.al.|[2404.12180v1](http://arxiv.org/abs/2404.12180v1)|null|
 |**2024-04-18**|**Designing a sector-coupled European energy system robust to 60 years of historical weather data**|Ebbe Kyhl Gøtske et.al.|[2404.12178v1](http://arxiv.org/abs/2404.12178v1)|null|
@@ -1557,7 +1557,7 @@
 |**2024-04-18**|**Odd-Derivative Couplings in Heterotic Theory**|Mohammad R. Garousi et.al.|[2404.11954v1](http://arxiv.org/abs/2404.11954v1)|null|
 |**2024-04-18**|**Sketch-guided Image Inpainting with Partial Discrete Diffusion Process**|Nakul Sharma et.al.|[2404.11949v1](http://arxiv.org/abs/2404.11949v1)|**[link](https://github.com/vl2g/sketch-inpainting)**|
 |**2024-04-18**|**S4TP: Social-Suitable and Safety-Sensitive Trajectory Planning for Autonomous Vehicles**|Xiao Wang et.al.|[2404.11946v1](http://arxiv.org/abs/2404.11946v1)|null|
-|**2024-04-18**|**Terrain-Aware Stride-Level Trajectory Forecasting for a Powered Hip Exoskeleton via Vision and Kinematics Fusion**|Ruoqi Zhao et.al.|[2404.11945v1](http://arxiv.org/abs/2404.11945v1)|null|
+|**2024-04-18**|**Terrain-Aware Stride-Level Trajectory Forecasting for a Powered Hip Exoskeleton via Vision and Kinematics Fusion**|Ruoqi Zhao et.al.|[2404.11945v1](http://arxiv.org/abs/2404.11945v1)|**[link](https://github.com/ruoqizhao116/sftik)**|
 |**2024-04-18**|**Trusted Multi-view Learning with Label Noise**|Cai Xu et.al.|[2404.11944v1](http://arxiv.org/abs/2404.11944v1)|null|
 |**2024-04-18**|**From Relation to Emulation and Interpretation: Implementing the Covering Lemma for Finite Transformation Semigroups**|Attila Egri-Nagy et.al.|[2404.11923v1](http://arxiv.org/abs/2404.11923v1)|null|
 |**2024-04-18**|**Generation of optical toroidal vortex with circular asymmetric gratings**|Weichao Liu et.al.|[2404.11921v1](http://arxiv.org/abs/2404.11921v1)|null|
