@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**A New Multi-Picture Architecture for Learned Video Deinterlacing and Demosaicing with Parallel Deformable Convolution and Self-Attention Blocks**|Ronglei Ji et.al.|[2404.13018v1](http://arxiv.org/abs/2404.13018v1)|null|
+|**2024-04-19**|**Cross-modal Diffusion Modelling for Super-resolved Spatial Transcriptomics**|Xiaofei Wang et.al.|[2404.12973v1](http://arxiv.org/abs/2404.12973v1)|null|
 |**2024-04-18**|**VideoGigaGAN: Towards Detail-rich Video Super-Resolution**|Yiran Xu et.al.|[2404.12388v1](http://arxiv.org/abs/2404.12388v1)|null|
 |**2024-04-18**|**Multichannel-GaAsP-photomultiplier-based fiber bundle ISM-STED microscope**|Marcus Babin et.al.|[2404.12370v1](http://arxiv.org/abs/2404.12370v1)|null|
 |**2024-04-18**|**Multiphoton super-resolution imaging via virtual structured illumination**|Sumin Lim et.al.|[2404.11849v1](http://arxiv.org/abs/2404.11849v1)|null|
@@ -1517,6 +1519,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**An elementary Tauberian proof of the Prime Number Theorem**|Philippe Angot et.al.|[2404.13019v1](http://arxiv.org/abs/2404.13019v1)|null|
+|**2024-04-19**|**Optimizing Calibration by Gaining Aware of Prediction Correctness**|Yuchi Liu et.al.|[2404.13016v1](http://arxiv.org/abs/2404.13016v1)|**[link](https://github.com/liuyvchi/correctness-aware-calibration)**|
+|**2024-04-19**|**Towards Robust Ferrous Scrap Material Classification with Deep Learning and Conformal Prediction**|Paulo Henrique dos Santos et.al.|[2404.13002v1](http://arxiv.org/abs/2404.13002v1)|null|
+|**2024-04-19**|**RadRotator: 3D Rotation of Radiographs with Diffusion Models**|Pouria Rouzrokh et.al.|[2404.13000v1](http://arxiv.org/abs/2404.13000v1)|null|
+|**2024-04-19**|**RedactBuster: Entity Type Recognition from Redacted Documents**|Mirco Beltrame et.al.|[2404.12991v1](http://arxiv.org/abs/2404.12991v1)|null|
+|**2024-04-19**|**Quantifying seasonal hydrogen storage demands under cost and market uptake uncertainties in energy system transformation pathways**|Felix Frischmuth et.al.|[2404.12974v1](http://arxiv.org/abs/2404.12974v1)|null|
+|**2024-04-19**|**Hypergeometric sheaves with tannakian monodromy group  $G_2$ **|Beat Zurbuchen et.al.|[2404.12919v1](http://arxiv.org/abs/2404.12919v1)|null|
+|**2024-04-19**|**ConCLVD: Controllable Chinese Landscape Video Generation via Diffusion Model**|Dingming Liu et.al.|[2404.12903v1](http://arxiv.org/abs/2404.12903v1)|null|
+|**2024-04-19**|**MCM: Multi-condition Motion Synthesis Framework**|Zeyu Ling et.al.|[2404.12886v1](http://arxiv.org/abs/2404.12886v1)|null|
+|**2024-04-19**|**A Large-scale Medical Visual Task Adaptation Benchmark**|Shentong Mo et.al.|[2404.12876v1](http://arxiv.org/abs/2404.12876v1)|null|
+|**2024-04-19**|**FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**|Xingtai Gui et.al.|[2404.12867v1](http://arxiv.org/abs/2404.12867v1)|null|
+|**2024-04-19**|**A Semi-orthogonal Sequence in the Derived Category of the Hilbert Scheme of Three Points**|Erik Nikolov et.al.|[2404.12851v1](http://arxiv.org/abs/2404.12851v1)|null|
+|**2024-04-19**|**COIN: Counterfactual inpainting for weakly supervised semantic segmentation for medical images**|Dmytro Shvetsov et.al.|[2404.12832v1](http://arxiv.org/abs/2404.12832v1)|**[link](https://github.com/dmytro-shvetsov/counterfactual-search)**|
+|**2024-04-19**|**Linearly-evolved Transformer for Pan-sharpening**|Junming Hou et.al.|[2404.12804v1](http://arxiv.org/abs/2404.12804v1)|null|
+|**2024-04-19**|**Enhancing Interval Type-2 Fuzzy Logic Systems: Learning for Precision and Prediction Intervals**|Ata Koklu et.al.|[2404.12802v1](http://arxiv.org/abs/2404.12802v1)|null|
+|**2024-04-19**|**A Point-Based Approach to Efficient LiDAR Multi-Task Perception**|Christopher Lang et.al.|[2404.12798v1](http://arxiv.org/abs/2404.12798v1)|null|
+|**2024-04-19**|**Conversion of Boolean and Integer FlatZinc Builtins to Quadratic or Linear Integer Problems**|Armin Wolf et.al.|[2404.12797v1](http://arxiv.org/abs/2404.12797v1)|null|
+|**2024-04-19**|**Sentiment-oriented Transformer-based Variational Autoencoder Network for Live Video Commenting**|Fengyi Fu et.al.|[2404.12782v1](http://arxiv.org/abs/2404.12782v1)|**[link](https://github.com/fufy1024/so-tvae)**|
+|**2024-04-19**|**decoupleQ: Towards 2-bit Post-Training Uniform Quantization via decoupling Parameters into Integer and Floating Points**|Yi Guo et.al.|[2404.12759v1](http://arxiv.org/abs/2404.12759v1)|**[link](https://github.com/bytedance/decoupleq)**|
+|**2024-04-19**|**DeviceRadar: Online IoT Device Fingerprinting in ISPs using Programmable Switches**|Ruoyu Li et.al.|[2404.12738v1](http://arxiv.org/abs/2404.12738v1)|null|
+|**2024-04-19**|**Large Language Model Supply Chain: A Research Agenda**|Shenao Wang et.al.|[2404.12736v1](http://arxiv.org/abs/2404.12736v1)|null|
+|**2024-04-19**|**DLoRA-TrOCR: Mixed Text Mode Optical Character Recognition Based On Transformer**|Da Chang et.al.|[2404.12734v1](http://arxiv.org/abs/2404.12734v1)|null|
+|**2024-04-19**|**Separate in the Speech Chain: Cross-Modal Conditional Audio-Visual Target Speech Extraction**|Zhaoxi Mu et.al.|[2404.12725v1](http://arxiv.org/abs/2404.12725v1)|null|
+|**2024-04-19**|**Enabling Ensemble Learning for Heterogeneous Large Language Models with Deep Parallel Collaboration**|Yichong Huang et.al.|[2404.12715v1](http://arxiv.org/abs/2404.12715v1)|null|
+|**2024-04-19**|**Exploiting New Properties of String Net Frequency for Efficient Computation**|Peaker Guo et.al.|[2404.12701v1](http://arxiv.org/abs/2404.12701v1)|null|
+|**2024-04-19**|**Portmanteau test for a class of multivariate asymmetric power GARCH model**|Yacouba Boubacar Maïnassara et.al.|[2404.12685v1](http://arxiv.org/abs/2404.12685v1)|null|
+|**2024-04-19**|**Exploring Interactive Semantic Alignment for Efficient HOI Detection with Vision-language Model**|Jihao Dong et.al.|[2404.12678v1](http://arxiv.org/abs/2404.12678v1)|null|
+|**2024-04-19**|**ESPM-D: Efficient Sparse Polynomial Multiplication for Dilithium on ARM Cortex-M4 and Apple M2**|Jieyu Zheng et.al.|[2404.12675v1](http://arxiv.org/abs/2404.12675v1)|null|
+|**2024-04-19**|**Towards Universal Performance Modeling for Machine Learning Training on Multi-GPU Platforms**|Zhongyi Lin et.al.|[2404.12674v1](http://arxiv.org/abs/2404.12674v1)|null|
+|**2024-04-19**|**A Survey on Federated Analytics: Taxonomy, Enabling Techniques, Applications and Open Issues**|Zibo Wang et.al.|[2404.12666v1](http://arxiv.org/abs/2404.12666v1)|null|
+|**2024-04-19**|**A Geometric Representation**|Nicholas Phat Nguyen et.al.|[2404.12661v1](http://arxiv.org/abs/2404.12661v1)|null|
+|**2024-04-19**|**Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs**|Boyang Yang et.al.|[2404.12636v1](http://arxiv.org/abs/2404.12636v1)|null|
+|**2024-04-19**|**Transformer-Based Classification Outcome Prediction for Multimodal Stroke Treatment**|Danqing Ma et.al.|[2404.12634v1](http://arxiv.org/abs/2404.12634v1)|null|
+|**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia et.al.|[2404.12625v1](http://arxiv.org/abs/2404.12625v1)|null|
+|**2024-04-19**|**Effective Sorting of Fractional Optical Vortex Modes**|Zhengyang Mao et.al.|[2404.12582v1](http://arxiv.org/abs/2404.12582v1)|null|
+|**2024-04-19**|**Irregular sets for a class of skew product transformations**|Nian Liu et.al.|[2404.12562v1](http://arxiv.org/abs/2404.12562v1)|null|
+|**2024-04-18**|**Iso-entropy partially coherent optical fields that cannot be inter-converted unitarily**|Mitchell Harling et.al.|[2404.12532v1](http://arxiv.org/abs/2404.12532v1)|null|
+|**2024-04-18**|**DoughNet: A Visual Predictive Model for Topological Manipulation of Deformable Objects**|Dominik Bauer et.al.|[2404.12524v1](http://arxiv.org/abs/2404.12524v1)|null|
+|**2024-04-18**|**Neural Active Learning Beyond Bandits**|Yikun Ban et.al.|[2404.12522v1](http://arxiv.org/abs/2404.12522v1)|null|
+|**2024-04-18**|**Centralized vs. Decentralized Multi-Agent Reinforcement Learning for Enhanced Control of Electric Vehicle Charging Networks**|Amin Shojaeighadikolaei et.al.|[2404.12520v1](http://arxiv.org/abs/2404.12520v1)|null|
+|**2024-04-18**|**Increasing Interference Detection in Quantum Cryptography using the Quantum Fourier Transform**|Nicholas J. C. Papadopoulos et.al.|[2404.12507v1](http://arxiv.org/abs/2404.12507v1)|null|
+|**2024-04-18**|**Using Capability Maps Tailored to Arm Range of Motion in VR Exergames for Rehabilitation**|Christian Lourido et.al.|[2404.12504v1](http://arxiv.org/abs/2404.12504v1)|null|
+|**2024-04-18**|**Understanding Optimal Feature Transfer via a Fine-Grained Bias-Variance Analysis**|Yufan Li et.al.|[2404.12481v1](http://arxiv.org/abs/2404.12481v1)|null|
+|**2024-04-18**|**Inversion of generalized V-line transforms of vector fields in  $\mathbb{R}^2$ **|Rahul Bhardwaj et.al.|[2404.12479v1](http://arxiv.org/abs/2404.12479v1)|null|
+|**2024-04-18**|**Sustainable regional economic development and land use: a case of Russia**|Wadim Strielkowski et.al.|[2404.12477v1](http://arxiv.org/abs/2404.12477v1)|null|
+|**2024-04-18**|**Towards Multi-modal Transformers in Federated Learning**|Guangyu Sun et.al.|[2404.12467v1](http://arxiv.org/abs/2404.12467v1)|null|
+|**2024-04-18**|**Axiomatic modeling of fixed proportion technologies**|Xun Zhou et.al.|[2404.12462v1](http://arxiv.org/abs/2404.12462v1)|null|
+|**2024-04-18**|**NLP-enabled trajectory map-matching in urban road networks using transformer sequence-to-sequence model**|Sevin Mohammadi et.al.|[2404.12460v1](http://arxiv.org/abs/2404.12460v1)|null|
+|**2024-04-18**|**A Generalized Expression for Accelerating Beamlet Decomposition Simulations**|Jaren N. Ashcraft et.al.|[2404.12454v1](http://arxiv.org/abs/2404.12454v1)|null|
+|**2024-04-18**|**LRBF meshless methods for predicting soil moisture distribution in root zone**|Mohamed Boujoudar et.al.|[2404.12453v1](http://arxiv.org/abs/2404.12453v1)|null|
 |**2024-04-18**|**Lazy Diffusion Transformer for Interactive Image Editing**|Yotam Nitzan et.al.|[2404.12382v1](http://arxiv.org/abs/2404.12382v1)|null|
 |**2024-04-18**|**6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction**|Théo Gieruc et.al.|[2404.12378v1](http://arxiv.org/abs/2404.12378v1)|**[link](https://github.com/continental/6img-to-3d)**|
 |**2024-04-18**|**Information theory unifies atomistic machine learning, uncertainty quantification, and materials thermodynamics**|Daniel Schwalbe-Koda et.al.|[2404.12367v1](http://arxiv.org/abs/2404.12367v1)|**[link](https://github.com/dskoda/quests)**|
