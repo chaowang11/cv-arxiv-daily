@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Super-resolved CARS by coherent image scanning**|Anna Zhitnitsky et.al.|[2404.15094v1](http://arxiv.org/abs/2404.15094v1)|null|
+|**2024-04-23**|**Canalization-based super-resolution imaging using a single van der Waals layer**|Jiahua Duan et.al.|[2404.14876v1](http://arxiv.org/abs/2404.14876v1)|null|
+|**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533v1](http://arxiv.org/abs/2404.14533v1)|**[link](https://github.com/visioniclab/swinfusr)**|
 |**2024-04-21**|**ALMA 2D Super-resolution Imaging of Taurus-Auriga Protoplanetary Disks: Probing Statistical Properties of Disk Substructures**|Masayuki Yamaguchi et.al.|[2404.13570v1](http://arxiv.org/abs/2404.13570v1)|null|
 |**2024-04-20**|**SEGSRNet for Stereo-Endoscopic Image Super-Resolution and Surgical Instrument Segmentation**|Mansoor Hayat et.al.|[2404.13330v1](http://arxiv.org/abs/2404.13330v1)|null|
 |**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102v1](http://arxiv.org/abs/2404.13102v1)|null|
@@ -1006,6 +1009,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533v1](http://arxiv.org/abs/2404.14533v1)|**[link](https://github.com/visioniclab/swinfusr)**|
 |**2024-04-20**|**SEGSRNet for Stereo-Endoscopic Image Super-Resolution and Surgical Instrument Segmentation**|Mansoor Hayat et.al.|[2404.13330v1](http://arxiv.org/abs/2404.13330v1)|null|
 |**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102v1](http://arxiv.org/abs/2404.13102v1)|null|
 |**2024-04-17**|**Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution**|Cansu Korkmaz et.al.|[2404.11273v1](http://arxiv.org/abs/2404.11273v1)|null|
@@ -1524,6 +1528,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276v1](http://arxiv.org/abs/2404.15276v1)|**[link](https://github.com/xuxy09/smpler)**|
+|**2024-04-23**|**Efficient Transformer Encoders for Mask2Former-style models**|Manyi Yao et.al.|[2404.15244v1](http://arxiv.org/abs/2404.15244v1)|null|
+|**2024-04-23**|**Augmented Voices: An Augmented Reality Experience Highlighting the Social Injustices of Gender-Based Violence in the Muslim South-Asian Diaspora**|Hamida Khatri et.al.|[2404.15239v1](http://arxiv.org/abs/2404.15239v1)|null|
+|**2024-04-23**|**Revisiting Unnaturalness for Automated Program Repair in the Era of Large Language Models**|Aidan Z. H. Yang et.al.|[2404.15236v1](http://arxiv.org/abs/2404.15236v1)|null|
+|**2024-04-23**|**Deep Models for Multi-View 3D Object Recognition: A Review**|Mona Alzahrani et.al.|[2404.15224v1](http://arxiv.org/abs/2404.15224v1)|null|
+|**2024-04-23**|**Bottoms Up for CHCs: Novel Transformation of Linear Constrained Horn Clauses to Software Verification**|Márk Somorjai et.al.|[2404.15215v1](http://arxiv.org/abs/2404.15215v1)|null|
+|**2024-04-23**|**CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method**|Mingbao Lin et.al.|[2404.15141v1](http://arxiv.org/abs/2404.15141v1)|**[link](https://github.com/lmbxmu/cutdiffusion)**|
+|**2024-04-23**|**Taming Diffusion Probabilistic Models for Character Control**|Rui Chen et.al.|[2404.15121v1](http://arxiv.org/abs/2404.15121v1)|null|
+|**2024-04-23**|**Dynamicity-aware Social Bot Detection with Dynamic Graph Transformers**|Buyun He et.al.|[2404.15070v1](http://arxiv.org/abs/2404.15070v1)|null|
+|**2024-04-23**|**A review of deep learning-based information fusion techniques for multimodal medical image classification**|Yihao Li et.al.|[2404.15022v1](http://arxiv.org/abs/2404.15022v1)|null|
+|**2024-04-23**|**External Prompt Features Enhanced Parameter-efficient Fine-tuning for Salient Object Detection**|Wen Liang et.al.|[2404.15008v1](http://arxiv.org/abs/2404.15008v1)|null|
+|**2024-04-23**|**Mining higher-order triadic interactions**|Anthony Baptista et.al.|[2404.14997v1](http://arxiv.org/abs/2404.14997v1)|null|
+|**2024-04-23**|**CA-Stream: Attention-based pooling for interpretable image recognition**|Felipe Torres et.al.|[2404.14996v1](http://arxiv.org/abs/2404.14996v1)|null|
+|**2024-04-23**|**Transformers Can Represent  $n$ -gram Language Models**|Anej Svete et.al.|[2404.14994v1](http://arxiv.org/abs/2404.14994v1)|null|
+|**2024-04-23**|**Other Tokens Matter: Exploring Global and Local Features of Vision Transformers for Object Re-Identification**|Yingquan Wang et.al.|[2404.14985v1](http://arxiv.org/abs/2404.14985v1)|null|
+|**2024-04-23**|**SGFormer: Spherical Geometry Transformer for 360 Depth Estimation**|Junsong Zhang et.al.|[2404.14979v1](http://arxiv.org/abs/2404.14979v1)|null|
+|**2024-04-23**|**Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model**|Xu Han et.al.|[2404.14966v1](http://arxiv.org/abs/2404.14966v1)|null|
+|**2024-04-23**|**Short Regular Girth-8 QC-LDPC Codes From Exponent Matrices with Vertical Symmetry**|Guohua Zhang et.al.|[2404.14962v1](http://arxiv.org/abs/2404.14962v1)|null|
+|**2024-04-23**|**Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2404.14955v1](http://arxiv.org/abs/2404.14955v1)|null|
+|**2024-04-23**|**Leveraging Speech for Gesture Detection in Multimodal Communication**|Esam Ghaleb et.al.|[2404.14952v1](http://arxiv.org/abs/2404.14952v1)|null|
+|**2024-04-23**|**Pyramid Hierarchical Transformer for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2404.14945v1](http://arxiv.org/abs/2404.14945v1)|null|
+|**2024-04-23**|**Importance of Disjoint Sampling in Conventional and Transformer Models for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2404.14944v1](http://arxiv.org/abs/2404.14944v1)|null|
+|**2024-04-23**|**The inversion number of dijoins and blow-up digraphs**|Haozhe Wang et.al.|[2404.14937v1](http://arxiv.org/abs/2404.14937v1)|null|
+|**2024-04-23**|**Polyepitaxial grain matching to study the oxidation of uranium dioxide**|Jacek Wasik et.al.|[2404.14929v1](http://arxiv.org/abs/2404.14929v1)|null|
+|**2024-04-23**|**Semi-Substructural Logics with Additives**|Niccolò Veltri et.al.|[2404.14922v1](http://arxiv.org/abs/2404.14922v1)|null|
+|**2024-04-23**|**Stable vortex solitons sustained by a localized gain in the cubic medium**|Chunyan Li et.al.|[2404.14910v1](http://arxiv.org/abs/2404.14910v1)|null|
+|**2024-04-23**|**Entanglement measures of Majorana bound states**|Vimalesh Kumar Vimal et.al.|[2404.14900v1](http://arxiv.org/abs/2404.14900v1)|null|
+|**2024-04-23**|**Combining Retrieval and Classification: Balancing Efficiency and Accuracy in Duplicate Bug Report Detection**|Qianru Meng et.al.|[2404.14877v1](http://arxiv.org/abs/2404.14877v1)|null|
+|**2024-04-23**|**EEGEncoder: Advancing BCI with Transformer-Based Motor Imagery Classification**|Wangdan Liao et.al.|[2404.14869v1](http://arxiv.org/abs/2404.14869v1)|null|
+|**2024-04-23**|**A GPU-accelerated Cartesian grid method is proposed for solving the heat, wave, and Schrodinger equations on irregular domains**|Liwei Tan et.al.|[2404.14864v1](http://arxiv.org/abs/2404.14864v1)|null|
+|**2024-04-23**|**The Geometry of the Set of Equivalent Linear Neural Networks**|Jonathan Richard Shewchuk et.al.|[2404.14855v1](http://arxiv.org/abs/2404.14855v1)|null|
+|**2024-04-23**|**Floquet dynamics of Rabi model beyond the counterrotating hybridized rotating wave method**|Yingying Han et.al.|[2404.14841v1](http://arxiv.org/abs/2404.14841v1)|null|
+|**2024-04-23**|**Variants of the slacks-based measure with assurance region and zeros in input-output data**|Atsushi Hori et.al.|[2404.14820v1](http://arxiv.org/abs/2404.14820v1)|null|
+|**2024-04-23**|**Time-aware Heterogeneous Graph Transformer with Adaptive Attention Merging for Health Event Prediction**|Shibo Li et.al.|[2404.14815v1](http://arxiv.org/abs/2404.14815v1)|null|
+|**2024-04-23**|**Enabling Experimental Impulse-Based Substructuring through Time Domain Deconvolution and Downsampling**|Oliver Maximilian Zobel et.al.|[2404.14802v1](http://arxiv.org/abs/2404.14802v1)|null|
+|**2024-04-23**|**Pressure-dependent electronic superlattice in the Kagome-superconductor CsV $\mathrm{_3}$ Sb $\mathrm{_5}$ **|F. Stier et.al.|[2404.14790v1](http://arxiv.org/abs/2404.14790v1)|null|
+|**2024-04-23**|**Contrastive Quantization based Semantic Code for Generative Recommendation**|Mengqun Jin et.al.|[2404.14774v1](http://arxiv.org/abs/2404.14774v1)|null|
+|**2024-04-23**|**Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting**|Xiongxiao Xu et.al.|[2404.14757v1](http://arxiv.org/abs/2404.14757v1)|null|
+|**2024-04-23**|**Grounded Knowledge-Enhanced Medical VLP for Chest X-Ray**|Qiao Deng et.al.|[2404.14750v1](http://arxiv.org/abs/2404.14750v1)|null|
+|**2024-04-23**|**Unmanned Vehicles in 6G Networks: A Unifying Treatment of Problems, Formulations, and Tools**|Winston Hurst et.al.|[2404.14738v1](http://arxiv.org/abs/2404.14738v1)|null|
+|**2024-04-23**|**ORBIT: Oak Ridge Base Foundation Model for Earth System Predictability**|Xiao Wang et.al.|[2404.14712v1](http://arxiv.org/abs/2404.14712v1)|null|
+|**2024-04-23**|**SC-HVPPNet: Spatial and Channel Hybrid-Attention Video Post-Processing Network with CNN and Transformer**|Tong Zhang et.al.|[2404.14709v1](http://arxiv.org/abs/2404.14709v1)|null|
+|**2024-04-23**|**Competing anisotropies in the chiral cubic magnet Co $_8$ Zn $_8$ Mn $_4$  unveiled by resonant x-ray magnetic scattering**|Victor Ukleev et.al.|[2404.14697v1](http://arxiv.org/abs/2404.14697v1)|null|
+|**2024-04-23**|**Transformation operators and the Kastler-Kalau-Walze type theorems on 4-dimensional manifolds**|Sining Wei et.al.|[2404.14694v1](http://arxiv.org/abs/2404.14694v1)|null|
+|**2024-04-23**|**Scalable cyclic transformation of orbital angular momentum modes based on a nonreciprocal Mach-Zehnder interferometer**|Y. F. Yang et.al.|[2404.14690v1](http://arxiv.org/abs/2404.14690v1)|null|
+|**2024-04-23**|**Automated Multi-Language to English Machine Translation Using Generative Pre-Trained Transformers**|Elijah Pelofske et.al.|[2404.14680v1](http://arxiv.org/abs/2404.14680v1)|null|
+|**2024-04-23**|**Streamlined jet tagging network assisted by jet prong structure**|A. Hammad et.al.|[2404.14677v1](http://arxiv.org/abs/2404.14677v1)|null|
+|**2024-04-23**|**On the sizes of BDDs and ZDDs representing matroids**|Hiromi Emoto et.al.|[2404.14670v1](http://arxiv.org/abs/2404.14670v1)|null|
+|**2024-04-23**|**Progressive Token Length Scaling in Transformer Encoders for Efficient Universal Segmentation**|Abhishek Aich et.al.|[2404.14657v1](http://arxiv.org/abs/2404.14657v1)|null|
+|**2024-04-23**|**Transonic shocks for steady Euler flows with an external force in an axisymmetric perturbed cylinder**|Zihao Zhang et.al.|[2404.14652v1](http://arxiv.org/abs/2404.14652v1)|null|
 |**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408v1](http://arxiv.org/abs/2404.14408v1)|**[link](https://github.com/kjslag/spacebyte)**|
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403v1](http://arxiv.org/abs/2404.14403v1)|null|
 |**2024-04-22**|**Assessing GPT-4-Vision's Capabilities in UML-Based Code Generation**|Gábor Antal et.al.|[2404.14370v1](http://arxiv.org/abs/2404.14370v1)|null|
