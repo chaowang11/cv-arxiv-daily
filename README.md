@@ -23,6 +23,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564v1](http://arxiv.org/abs/2404.16564v1)|**[link](https://github.com/hfates/ikr-net)**|
+|**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484v1](http://arxiv.org/abs/2404.16484v1)|null|
+|**2024-04-25**|**Latent Modulated Function for Computational Optimal Continuous Image Representation**|Zongyao He et.al.|[2404.16451v1](http://arxiv.org/abs/2404.16451v1)|**[link](https://github.com/hezongyao/lmf)**|
+|**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409v1](http://arxiv.org/abs/2404.16409v1)|**[link](https://github.com/aimiokab/misr-s2)**|
+|**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223v1](http://arxiv.org/abs/2404.16223v1)|null|
+|**2024-04-24**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956v1](http://arxiv.org/abs/2404.15956v1)|null|
+|**2024-04-24**|**Super-resolution imaging based on active optical intensity interferometry**|Lu-Chuan Liu et.al.|[2404.15685v1](http://arxiv.org/abs/2404.15685v1)|null|
 |**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620v1](http://arxiv.org/abs/2404.15620v1)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-23**|**Super-resolved CARS by coherent image scanning**|Anna Zhitnitsky et.al.|[2404.15094v1](http://arxiv.org/abs/2404.15094v1)|null|
 |**2024-04-23**|**Canalization-based super-resolution imaging using a single van der Waals layer**|Jiahua Duan et.al.|[2404.14876v1](http://arxiv.org/abs/2404.14876v1)|null|
@@ -1010,6 +1017,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564v1](http://arxiv.org/abs/2404.16564v1)|**[link](https://github.com/hfates/ikr-net)**|
+|**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484v1](http://arxiv.org/abs/2404.16484v1)|null|
+|**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409v1](http://arxiv.org/abs/2404.16409v1)|**[link](https://github.com/aimiokab/misr-s2)**|
+|**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223v1](http://arxiv.org/abs/2404.16223v1)|null|
+|**2024-04-24**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956v1](http://arxiv.org/abs/2404.15956v1)|null|
 |**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620v1](http://arxiv.org/abs/2404.15620v1)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533v1](http://arxiv.org/abs/2404.14533v1)|**[link](https://github.com/visioniclab/swinfusr)**|
 |**2024-04-20**|**SEGSRNet for Stereo-Endoscopic Image Super-Resolution and Surgical Instrument Segmentation**|Mansoor Hayat et.al.|[2404.13330v1](http://arxiv.org/abs/2404.13330v1)|null|
@@ -1530,6 +1542,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Made to Order: Discovering monotonic temporal changes via self-supervised video ordering**|Charig Yang et.al.|[2404.16828v1](http://arxiv.org/abs/2404.16828v1)|null|
+|**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802v1](http://arxiv.org/abs/2404.16802v1)|null|
+|**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795v1](http://arxiv.org/abs/2404.16795v1)|null|
+|**2024-04-25**|**Registration by Regression (RbR): a framework for interpretable and flexible atlas registration**|Karthik Gopinath et.al.|[2404.16781v1](http://arxiv.org/abs/2404.16781v1)|null|
+|**2024-04-25**|**CBRW: A Novel Approach for Cancelable Biometric Template Generation based on**|Nitin Kumar et.al.|[2404.16739v1](http://arxiv.org/abs/2404.16739v1)|null|
+|**2024-04-25**|**Layer Skip: Enabling Early Exit Inference and Self-Speculative Decoding**|Mostafa Elhoushi et.al.|[2404.16710v1](http://arxiv.org/abs/2404.16710v1)|null|
+|**2024-04-25**|**Multi-view Cardiac Image Segmentation via Trans-Dimensional Priors**|Abbas Khan et.al.|[2404.16708v1](http://arxiv.org/abs/2404.16708v1)|null|
+|**2024-04-25**|**Generalized boost transformations in finite volumes and application to Hamiltonian methods**|Yan Li et.al.|[2404.16702v1](http://arxiv.org/abs/2404.16702v1)|null|
+|**2024-04-25**|**Dimensional Crossover of Microscopic Magnetic Metasurfaces for Magnetic Field Amplification**|N. Lejeune et.al.|[2404.16700v1](http://arxiv.org/abs/2404.16700v1)|null|
+|**2024-04-25**|**Mutual transformations of arbitrary ternary qubit trees by Clifford gates**|Alexander Yu. Vlasov et.al.|[2404.16693v1](http://arxiv.org/abs/2404.16693v1)|null|
+|**2024-04-25**|**Monolithic two-level Schwarz preconditioner for Biot's consolidation model in two space dimensions**|Stefan Meggendorfer et.al.|[2404.16684v1](http://arxiv.org/abs/2404.16684v1)|null|
+|**2024-04-25**|**Illuminating Black Hole Shadow with Dark Matter Annihilation**|Yifan Chen et.al.|[2404.16673v1](http://arxiv.org/abs/2404.16673v1)|null|
+|**2024-04-25**|**PhyRecon: Physically Plausible Neural Scene Reconstruction**|Junfeng Ni et.al.|[2404.16666v1](http://arxiv.org/abs/2404.16666v1)|null|
+|**2024-04-25**|**Análise de ambiguidade linguística em modelos de linguagem de grande escala (LLMs)**|Lavínia de Carvalho Moraes et.al.|[2404.16653v1](http://arxiv.org/abs/2404.16653v1)|null|
+|**2024-04-25**|**TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning**|Liang Zhang et.al.|[2404.16635v1](http://arxiv.org/abs/2404.16635v1)|**[link](https://github.com/x-plug/mplug-docowl)**|
+|**2024-04-25**|**Implementing and Optimizing the Scaled Dot-Product Attention on Streaming Dataflow**|Gina Sohn et.al.|[2404.16629v1](http://arxiv.org/abs/2404.16629v1)|null|
+|**2024-04-25**|**Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare**|Emre Can Acikgoz et.al.|[2404.16621v1](http://arxiv.org/abs/2404.16621v1)|null|
+|**2024-04-25**|**The THU-HCSI Multi-Speaker Multi-Lingual Few-Shot Voice Cloning System for LIMMITS'24 Challenge**|Yixuan Zhou et.al.|[2404.16619v1](http://arxiv.org/abs/2404.16619v1)|null|
+|**2024-04-25**|**A New Two-Sided Sketching Algorithm for Large-Scale Tensor Decomposition Based on Discrete Cosine Transformation**|Zhiguang Cheng et.al.|[2404.16580v1](http://arxiv.org/abs/2404.16580v1)|null|
+|**2024-04-25**|**Road Surface Friction Estimation for Winter Conditions Utilising General Visual Features**|Risto Ojala et.al.|[2404.16578v1](http://arxiv.org/abs/2404.16578v1)|null|
+|**2024-04-25**|**Exploring Internal Numeracy in Language Models: A Case Study on ALBERT**|Ulme Wennberg et.al.|[2404.16574v1](http://arxiv.org/abs/2404.16574v1)|null|
+|**2024-04-25**|**MMGRec: Multimodal Generative Recommendation with Transformer Model**|Han Liu et.al.|[2404.16555v1](http://arxiv.org/abs/2404.16555v1)|null|
+|**2024-04-25**|**Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**|Daniel Dworak et.al.|[2404.16548v1](http://arxiv.org/abs/2404.16548v1)|null|
+|**2024-04-25**|**Interactive3D: Create What You Want by Interactive 3D Generation**|Shaocong Dong et.al.|[2404.16510v1](http://arxiv.org/abs/2404.16510v1)|null|
+|**2024-04-25**|**Characteristics of FEL-generated THz waves using linear and helical undulators**|A. A. Molavi Choobini et.al.|[2404.16503v1](http://arxiv.org/abs/2404.16503v1)|null|
+|**2024-04-25**|**Ascent and Descent of Weighted Composition Operators on Lorentz spaces**|Gopal Datt et.al.|[2404.16491v1](http://arxiv.org/abs/2404.16491v1)|null|
+|**2024-04-25**|**OpenIVM: a SQL-to-SQL Compiler for Incremental Computations**|Ilaria Battiston et.al.|[2404.16486v1](http://arxiv.org/abs/2404.16486v1)|null|
+|**2024-04-25**|**Leveraging Pretrained Latent Representations for Few-Shot Imitation Learning on a Dexterous Robotic Hand**|Davide Liconti et.al.|[2404.16483v1](http://arxiv.org/abs/2404.16483v1)|null|
+|**2024-04-25**|**Contextual Categorization Enhancement through LLMs Latent-Space**|Zineddine Bettouche et.al.|[2404.16442v1](http://arxiv.org/abs/2404.16442v1)|null|
+|**2024-04-25**|**Asking and Answering Questions to Extract Event-Argument Structures**|Md Nayem Uddin et.al.|[2404.16413v1](http://arxiv.org/abs/2404.16413v1)|**[link](https://github.com/nurakib/event-question-answering)**|
+|**2024-04-25**|**Counting  $U(N)^{\otimes r}\otimes O(N)^{\otimes q}$  invariants and tensor model observables**|Remi Cocou Avohou et.al.|[2404.16404v1](http://arxiv.org/abs/2404.16404v1)|null|
+|**2024-04-25**|**Phase and morphology of water-ice grains formed in a cryogenic laboratory plasma**|André Nicolov et.al.|[2404.16396v1](http://arxiv.org/abs/2404.16396v1)|null|
+|**2024-04-25**|**Promoting CNNs with Cross-Architecture Knowledge Distillation for Efficient Monocular Depth Estimation**|Zhimeng Zheng et.al.|[2404.16386v1](http://arxiv.org/abs/2404.16386v1)|null|
+|**2024-04-25**|**Multimodal Information Interaction for Medical Image Segmentation**|Xinxin Fan et.al.|[2404.16371v1](http://arxiv.org/abs/2404.16371v1)|**[link](https://github.com/fxxjuses/micformer)**|
+|**2024-04-25**|**Learning Syntax Without Planting Trees: Understanding When and Why Transformers Generalize Hierarchically**|Kabir Ahuja et.al.|[2404.16367v1](http://arxiv.org/abs/2404.16367v1)|null|
+|**2024-04-25**|**Modular transformations of on-shell actions of (root-) $\text{T}\overline{\text{T}}$  deformed holographic CFTs**|Jia Tian et.al.|[2404.16354v1](http://arxiv.org/abs/2404.16354v1)|null|
+|**2024-04-25**|**Light-weight Retinal Layer Segmentation with Global Reasoning**|Xiang He et.al.|[2404.16346v1](http://arxiv.org/abs/2404.16346v1)|null|
+|**2024-04-25**|**DIG3D: Marrying Gaussian Splatting with Deformable Transformer for Single Image 3D Reconstruction**|Jiamin Wu et.al.|[2404.16323v1](http://arxiv.org/abs/2404.16323v1)|null|
+|**2024-04-25**|**Conformal transformation of f(Q) gravity and its cosmological perturbations**|Dehao Zhao et.al.|[2404.16299v1](http://arxiv.org/abs/2404.16299v1)|null|
+|**2024-04-25**|**Andes: Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services**|Jiachen Liu et.al.|[2404.16283v1](http://arxiv.org/abs/2404.16283v1)|null|
+|**2024-04-25**|**Velocity-Based Monte Carlo Fluids**|Ryusuke Sugimoto et.al.|[2404.16274v1](http://arxiv.org/abs/2404.16274v1)|null|
+|**2024-04-25**|**A Multi-objective Optimization Benchmark Test Suite for Real-time Semantic Segmentation**|Yifan Zhao et.al.|[2404.16266v1](http://arxiv.org/abs/2404.16266v1)|**[link](https://github.com/emi-group/evoxbench)**|
+|**2024-04-24**|**Enhancing Privacy in Face Analytics Using Fully Homomorphic Encryption**|Bharat Yalavarthi et.al.|[2404.16255v1](http://arxiv.org/abs/2404.16255v1)|null|
+|**2024-04-24**|**Computationally Efficient Molecular Integrals of Solid Harmonic Gaussian Orbitals Using Quantum Entanglement of Angular Momentum**|Hang Hu et.al.|[2404.16245v1](http://arxiv.org/abs/2404.16245v1)|null|
+|**2024-04-24**|**Synergizing Privacy and Utility in Data Analytics Through Advanced Information Theorization**|Zahir Alsulaimawi et.al.|[2404.16241v1](http://arxiv.org/abs/2404.16241v1)|null|
+|**2024-04-24**|**ActiveRIR: Active Audio-Visual Exploration for Acoustic Environment Modeling**|Arjun Somayazulu et.al.|[2404.16216v1](http://arxiv.org/abs/2404.16216v1)|null|
+|**2024-04-24**|**Towards Efficient Patient Recruitment for Clinical Trials: Application of a Prompt-Based Learning Model**|Mojdeh Rahmanian et.al.|[2404.16198v1](http://arxiv.org/abs/2404.16198v1)|null|
+|**2024-04-24**|**Mirror Construction for Nakajima Quiver Varieties**|Jiawei Hu et.al.|[2404.16172v1](http://arxiv.org/abs/2404.16172v1)|null|
+|**2024-04-24**|**The Feasibility of Implementing Large-Scale Transformers on Multi-FPGA Platforms**|Yu Gao et.al.|[2404.16158v1](http://arxiv.org/abs/2404.16158v1)|null|
+|**2024-04-24**|**A Two-Phase Infinite/Finite Low-Level Memory Model**|Calvin Beck et.al.|[2404.16143v1](http://arxiv.org/abs/2404.16143v1)|null|
 |**2024-04-24**|**Characterizing the Age of Information with Multiple Coexisting Data Streams**|Yoshiaki Inoue et.al.|[2404.15623v1](http://arxiv.org/abs/2404.15623v1)|null|
 |**2024-04-24**|**MDDD: Manifold-based Domain Adaptation with Dynamic Distribution for Non-Deep Transfer Learning in Cross-subject and Cross-session EEG-based Emotion Recognition**|Ting Luo et.al.|[2404.15615v1](http://arxiv.org/abs/2404.15615v1)|null|
 |**2024-04-24**|**Unitary Basis Transformations in Mixed Quantum-Classical Dynamics**|Ken Miyazaki et.al.|[2404.15614v1](http://arxiv.org/abs/2404.15614v1)|null|
@@ -17423,6 +17485,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**Raformer: Redundancy-Aware Transformer for Video Wire Inpainting**|Zhong Ji et.al.|[2404.15802v1](http://arxiv.org/abs/2404.15802v1)|**[link](https://github.com/Suyimu/WRV2)**|
 |**2024-04-17**|**Multilateral Temporal-view Pyramid Transformer for Video Inpainting Detection**|Ying Zhang et.al.|[2404.11054v1](http://arxiv.org/abs/2404.11054v1)|null|
 |**2024-03-25**|**Low-rank quaternion tensor completion for color video inpainting via a novel factorization strategy**|Zhenzhi Qin et.al.|[2403.16480v1](http://arxiv.org/abs/2403.16480v1)|null|
 |**2024-03-24**|**Towards Online Real-Time Memory-based Video Inpainting Transformers**|Guillaume Thiry et.al.|[2403.16161v1](http://arxiv.org/abs/2403.16161v1)|null|
