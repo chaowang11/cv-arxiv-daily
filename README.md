@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**One-Shot Image Restoration**|Deborah Pereg et.al.|[2404.17426v1](http://arxiv.org/abs/2404.17426v1)|null|
+|**2024-04-26**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357v1](http://arxiv.org/abs/2404.17357v1)|null|
 |**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564v1](http://arxiv.org/abs/2404.16564v1)|**[link](https://github.com/hfates/ikr-net)**|
 |**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484v1](http://arxiv.org/abs/2404.16484v1)|**[link](https://github.com/eduardzamfir/ntire23-rtsr)**|
 |**2024-04-25**|**Latent Modulated Function for Computational Optimal Continuous Image Representation**|Zongyao He et.al.|[2404.16451v1](http://arxiv.org/abs/2404.16451v1)|**[link](https://github.com/hezongyao/lmf)**|
@@ -1542,6 +1544,50 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2404.17565v1](http://arxiv.org/abs/2404.17565v1)|**[link](https://github.com/techmn/changebind)**|
+|**2024-04-26**|**A Novel Context driven Critical Integrative Levels (CIL) Approach: Advancing Human-Centric and Integrative Lighting Asset Management in Public Libraries with Practical Thresholds**|Jing Lin et.al.|[2404.17554v1](http://arxiv.org/abs/2404.17554v1)|null|
+|**2024-04-26**|**Application of Lagrangian techniques for calculating the on-axis rotational transform**|S. Guinchard et.al.|[2404.17531v1](http://arxiv.org/abs/2404.17531v1)|null|
+|**2024-04-26**|**QCD analysis of  $xF_3$  structure functions in deep-inelastic scattering: Mellin transform by Gegenbauer polynomial up to N $^3$ LO approximation**|Fatemeh Arbabifar et.al.|[2404.17526v1](http://arxiv.org/abs/2404.17526v1)|null|
+|**2024-04-26**|**Ag2Manip: Learning Novel Manipulation Skills with Agent-Agnostic Visual and Action Representations**|Puhao Li et.al.|[2404.17521v1](http://arxiv.org/abs/2404.17521v1)|**[link](https://github.com/Xiaoyao-Li/Ag2Manip)**|
+|**2024-04-26**|**Inhomogeneous illuminated image enhancement under extremely low visibility condition**|Libang Chen et.al.|[2404.17503v1](http://arxiv.org/abs/2404.17503v1)|null|
+|**2024-04-26**|**Holographic  $\frac{1}{2}$ -BPS surface defects in ABJM**|Yolanda Lozano et.al.|[2404.17469v1](http://arxiv.org/abs/2404.17469v1)|null|
+|**2024-04-26**|**Transformer For Low-frequency Extrapolating of Seismic Data**|Zheng Cong et.al.|[2404.17437v1](http://arxiv.org/abs/2404.17437v1)|null|
+|**2024-04-26**|**PromptCIR: Blind Compressed Image Restoration with Prompt Learning**|Bingchen Li et.al.|[2404.17433v1](http://arxiv.org/abs/2404.17433v1)|**[link](https://github.com/lbc12345/promptcir-ntire24)**|
+|**2024-04-26**|**Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement**|Zishu Yao et.al.|[2404.17400v1](http://arxiv.org/abs/2404.17400v1)|null|
+|**2024-04-26**|**Child Speech Recognition in Human-Robot Interaction: Problem Solved?**|Ruben Janssens et.al.|[2404.17394v1](http://arxiv.org/abs/2404.17394v1)|null|
+|**2024-04-26**|**Frequency-Guided Multi-Level Human Action Anomaly Detection with Normalizing Flows**|Shun Maeda et.al.|[2404.17381v1](http://arxiv.org/abs/2404.17381v1)|null|
+|**2024-04-26**|**Similarity Equivariant Graph Neural Networks for Homogenization of Metamaterials**|Fleur Hendriks et.al.|[2404.17365v1](http://arxiv.org/abs/2404.17365v1)|null|
+|**2024-04-26**|**UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning**|Maoxun Yuan et.al.|[2404.17360v1](http://arxiv.org/abs/2404.17360v1)|null|
+|**2024-04-26**|**Fast Evaluation of Additive Kernels: Feature Arrangement, Fourier Methods, and Kernel Derivatives**|Theresa Wagner et.al.|[2404.17344v1](http://arxiv.org/abs/2404.17344v1)|**[link](https://github.com/wagnertheresa/nfftaddker)**|
+|**2024-04-26**|**A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation**|Xin Zhang et.al.|[2404.17335v1](http://arxiv.org/abs/2404.17335v1)|null|
+|**2024-04-26**|**Colosseum: The Open RAN Digital Twin**|Michele Polese et.al.|[2404.17317v1](http://arxiv.org/abs/2404.17317v1)|null|
+|**2024-04-26**|**Device Feature based on Graph Fourier Transformation with Logarithmic Processing For Detection of Replay Speech Attacks**|Mingrui He et.al.|[2404.17280v1](http://arxiv.org/abs/2404.17280v1)|null|
+|**2024-04-26**|**Beyond Efficiency and Convenience. Using Post-growth Values as a Nucleus to Transform Design Education and Society**|Matthias Laschke et.al.|[2404.17264v1](http://arxiv.org/abs/2404.17264v1)|null|
+|**2024-04-26**|**Parameter Efficient Fine-tuning of Self-supervised ViTs without Catastrophic Forgetting**|Reza Akbarian Bafghi et.al.|[2404.17245v1](http://arxiv.org/abs/2404.17245v1)|**[link](https://github.com/rezaakb/peft-vit)**|
+|**2024-04-26**|**Binarizing Documents by Leveraging both Space and Frequency**|Fabio Quattrini et.al.|[2404.17243v1](http://arxiv.org/abs/2404.17243v1)|**[link](https://github.com/aimagelab/fourbi)**|
+|**2024-04-26**|**SAGHOG: Self-Supervised Autoencoder for Generating HOG Features for Writer Retrieval**|Marco Peer et.al.|[2404.17221v1](http://arxiv.org/abs/2404.17221v1)|**[link](https://github.com/marco-peer/icdar24)**|
+|**2024-04-26**|**Two in One Go: Single-stage Emotion Recognition with Decoupled Subject-context Transformer**|Xinpeng Li et.al.|[2404.17205v1](http://arxiv.org/abs/2404.17205v1)|null|
+|**2024-04-26**|**MCSDNet: Mesoscale Convective System Detection Network via Multi-scale Spatiotemporal Information**|Jiajun Liang et.al.|[2404.17186v1](http://arxiv.org/abs/2404.17186v1)|null|
+|**2024-04-26**|**MovieChat+: Question-aware Sparse Memory for Long Video Question Answering**|Enxin Song et.al.|[2404.17176v1](http://arxiv.org/abs/2404.17176v1)|**[link](https://github.com/rese1f/MovieChat)**|
+|**2024-04-26**|**S-IQA Image Quality Assessment With Compressive Sampling**|Ronghua Liao et.al.|[2404.17170v1](http://arxiv.org/abs/2404.17170v1)|null|
+|**2024-04-26**|**FairGT: A Fairness-aware Graph Transformer**|Renqiang Luo et.al.|[2404.17169v1](http://arxiv.org/abs/2404.17169v1)|**[link](https://github.com/yushuowiki/fairgt)**|
+|**2024-04-26**|**An Investigation of Time-Frequency Representation Discriminators for High-Fidelity Vocoder**|Yicheng Gu et.al.|[2404.17161v1](http://arxiv.org/abs/2404.17161v1)|null|
+|**2024-04-26**|**Construction of a new (3 + 1)-dimensional KdV equation and its closed-form solutions with solitary wave behaviour and conserved vectors**|Nardjess Benoudina et.al.|[2404.17156v1](http://arxiv.org/abs/2404.17156v1)|null|
+|**2024-04-26**|**CSCO: Connectivity Search of Convolutional Operators**|Tunhou Zhang et.al.|[2404.17152v1](http://arxiv.org/abs/2404.17152v1)|null|
+|**2024-04-26**|**On the Federated Learning Framework for Cooperative Perception**|Zhenrong Zhang et.al.|[2404.17147v1](http://arxiv.org/abs/2404.17147v1)|null|
+|**2024-04-26**|**Automated Quantum Circuit Generation for Computing Inverse Hash Functions**|Elena R. Henderson et.al.|[2404.17142v1](http://arxiv.org/abs/2404.17142v1)|null|
+|**2024-04-26**|**Automated Data Visualization from Natural Language via Large Language Models: An Exploratory Study**|Yang Wu et.al.|[2404.17136v1](http://arxiv.org/abs/2404.17136v1)|null|
+|**2024-04-25**|**Hybrid Radiation Hydrodynamics scheme with gravity tree-based adaptive optimization algorithm**|Cheryl S. C. Lau et.al.|[2404.17084v1](http://arxiv.org/abs/2404.17084v1)|null|
+|**2024-04-25**|**Non-Particulate Quantum States of the Electromagnetic Field in Expanding Space-Time**|Philip Broadbridge et.al.|[2404.17075v1](http://arxiv.org/abs/2404.17075v1)|null|
+|**2024-04-25**|**Detection of Peri-Pancreatic Edema using Deep Learning and Radiomics Techniques**|Ziliang Hong et.al.|[2404.17064v1](http://arxiv.org/abs/2404.17064v1)|**[link](https://github.com/nubagcilab/peri-pancreatic-edema-detection)**|
+|**2024-04-25**|**Frozen-field Modeling of Coronal Condensations with MPI-AMRVAC I: Demonstration in two-dimensional models**|Yuhao Zhou et.al.|[2404.17056v1](http://arxiv.org/abs/2404.17056v1)|null|
+|**2024-04-25**|**Simulation of the Far-Infrared Polarimetry Approach Envisioned for the PRIMA Mission**|C. Darren Dowell et.al.|[2404.17050v1](http://arxiv.org/abs/2404.17050v1)|null|
+|**2024-04-25**|**Compact embeddings and Pitt's property for weighted sequence spaces of Sobolev type**|Pierre-A. Vuillermot et.al.|[2404.17035v1](http://arxiv.org/abs/2404.17035v1)|null|
+|**2024-04-25**|**Dr-SAM: An End-to-End Framework for Vascular Segmentation, Diameter Estimation, and Anomaly Detection on Angiography Images**|Vazgen Zohranyan et.al.|[2404.17029v1](http://arxiv.org/abs/2404.17029v1)|null|
+|**2024-04-25**|**Out-of-Distribution Detection using Maximum Entropy Coding**|Mojtaba Abolfazli et.al.|[2404.17023v1](http://arxiv.org/abs/2404.17023v1)|null|
+|**2024-04-25**|**A Catalog of Transformations to Remove Smells From Natural Language Tests**|Manoel Aranda et.al.|[2404.16992v1](http://arxiv.org/abs/2404.16992v1)|null|
+|**2024-04-25**|**Action-Angle Variables for Axisymmetric Potentials via Birkhoff Normalization**|Sam Hadden et.al.|[2404.16941v1](http://arxiv.org/abs/2404.16941v1)|null|
+|**2024-04-25**|**A Short Survey of Human Mobility Prediction in Epidemic Modeling from Transformers to LLMs**|Christian N. Mayemba et.al.|[2404.16921v1](http://arxiv.org/abs/2404.16921v1)|null|
 |**2024-04-25**|**Made to Order: Discovering monotonic temporal changes via self-supervised video ordering**|Charig Yang et.al.|[2404.16828v1](http://arxiv.org/abs/2404.16828v1)|null|
 |**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802v1](http://arxiv.org/abs/2404.16802v1)|null|
 |**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795v1](http://arxiv.org/abs/2404.16795v1)|null|
@@ -17280,6 +17326,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion**|Ziyue Zhang et.al.|[2404.17230v1](http://arxiv.org/abs/2404.17230v1)|**[link](https://github.com/potato-kitty/objectadd)**|
 |**2024-04-23**|**Multi-scale Intervention Planning based on Generative Design**|Ioannis Kavouras et.al.|[2404.15492v1](http://arxiv.org/abs/2404.15492v1)|null|
 |**2024-04-19**|**Equivariant Imaging for Self-supervised Hyperspectral Image Inpainting**|Shuo Li et.al.|[2404.13159v1](http://arxiv.org/abs/2404.13159v1)|null|
 |**2024-04-18**|**Sketch-guided Image Inpainting with Partial Discrete Diffusion Process**|Nakul Sharma et.al.|[2404.11949v1](http://arxiv.org/abs/2404.11949v1)|**[link](https://github.com/vl2g/sketch-inpainting)**|
