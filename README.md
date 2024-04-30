@@ -36,7 +36,7 @@
 |**2024-04-23**|**Super-resolved CARS by coherent image scanning**|Anna Zhitnitsky et.al.|[2404.15094v1](http://arxiv.org/abs/2404.15094v1)|null|
 |**2024-04-23**|**Canalization-based super-resolution imaging using a single van der Waals layer**|Jiahua Duan et.al.|[2404.14876v1](http://arxiv.org/abs/2404.14876v1)|null|
 |**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533v1](http://arxiv.org/abs/2404.14533v1)|**[link](https://github.com/visioniclab/swinfusr)**|
-|**2024-04-21**|**ALMA 2D Super-resolution Imaging of Taurus-Auriga Protoplanetary Disks: Probing Statistical Properties of Disk Substructures**|Masayuki Yamaguchi et.al.|[2404.13570v1](http://arxiv.org/abs/2404.13570v1)|null|
+|**2024-04-29**|**ALMA 2D Super-resolution Imaging of Taurus-Auriga Protoplanetary Disks: Probing Statistical Properties of Disk Substructures**|Masayuki Yamaguchi et.al.|[2404.13570v2](http://arxiv.org/abs/2404.13570v2)|null|
 |**2024-04-26**|**SEGSRNet for Stereo-Endoscopic Image Super-Resolution and Surgical Instrument Segmentation**|Mansoor Hayat et.al.|[2404.13330v2](http://arxiv.org/abs/2404.13330v2)|null|
 |**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102v1](http://arxiv.org/abs/2404.13102v1)|null|
 |**2024-04-19**|**A New Multi-Picture Architecture for Learned Video Deinterlacing and Demosaicing with Parallel Deformable Convolution and Self-Attention Blocks**|Ronglei Ji et.al.|[2404.13018v1](http://arxiv.org/abs/2404.13018v1)|**[link](https://github.com/kuis-ai-tekalp-research-group/video-deinterlacing)**|
@@ -63,7 +63,7 @@
 |**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112v1](http://arxiv.org/abs/2404.07112v1)|**[link](https://github.com/lxlscut/Unfolding-ADMM-for-Enhanced-Subspace-Clustering-of-Hyperspectral-Images)**|
 |**2024-04-09**|**Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations**|Maximilian Witte et.al.|[2404.06400v1](http://arxiv.org/abs/2404.06400v1)|null|
 |**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294v1](http://arxiv.org/abs/2404.06294v1)|null|
-|**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v1](http://arxiv.org/abs/2404.06075v1)|null|
+|**2024-04-29**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v2](http://arxiv.org/abs/2404.06075v2)|null|
 |**2024-04-09**|**Space-Time Video Super-resolution with Neural Operator**|Yuantong Zhang et.al.|[2404.06036v1](http://arxiv.org/abs/2404.06036v1)|null|
 |**2024-04-09**|**Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data**|Kai Luan et.al.|[2404.06012v1](http://arxiv.org/abs/2404.06012v1)|null|
 |**2024-04-09**|**Resolution enhancement of SOHO/MDI Magnetograms**|Ying Qin et.al.|[2404.05968v1](http://arxiv.org/abs/2404.05968v1)|null|
@@ -1038,7 +1038,7 @@
 |**2024-04-15**|**Differentiable Search for Finding Optimal Quantization Strategy**|Lianqiang Li et.al.|[2404.08010v2](http://arxiv.org/abs/2404.08010v2)|null|
 |**2024-04-11**|**Terahertz imaging super-resolution for documental heritage diagnostics**|Danae Antunez Vazquez et.al.|[2404.07798v1](http://arxiv.org/abs/2404.07798v1)|null|
 |**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294v1](http://arxiv.org/abs/2404.06294v1)|null|
-|**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v1](http://arxiv.org/abs/2404.06075v1)|null|
+|**2024-04-29**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v2](http://arxiv.org/abs/2404.06075v2)|null|
 |**2024-04-07**|**Efficient Learnable Collaborative Attention for Single Image Super-Resolution**|Yigang Zhao Chaowei Zheng et.al.|[2404.04922v1](http://arxiv.org/abs/2404.04922v1)|null|
 |**2024-04-04**|**AdaBM: On-the-Fly Adaptive Bit Mapping for Image Super-Resolution**|Cheeun Hong et.al.|[2404.03296v1](http://arxiv.org/abs/2404.03296v1)|**[link](https://github.com/Cheeun/AdaBM)**|
 |**2024-04-03**|**Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution**|Simiao Li et.al.|[2404.02573v1](http://arxiv.org/abs/2404.02573v1)|null|
@@ -1566,7 +1566,7 @@
 |**2024-04-26**|**Parameter Efficient Fine-tuning of Self-supervised ViTs without Catastrophic Forgetting**|Reza Akbarian Bafghi et.al.|[2404.17245v1](http://arxiv.org/abs/2404.17245v1)|**[link](https://github.com/rezaakb/peft-vit)**|
 |**2024-04-26**|**Binarizing Documents by Leveraging both Space and Frequency**|Fabio Quattrini et.al.|[2404.17243v1](http://arxiv.org/abs/2404.17243v1)|**[link](https://github.com/aimagelab/fourbi)**|
 |**2024-04-26**|**SAGHOG: Self-Supervised Autoencoder for Generating HOG Features for Writer Retrieval**|Marco Peer et.al.|[2404.17221v1](http://arxiv.org/abs/2404.17221v1)|**[link](https://github.com/marco-peer/icdar24)**|
-|**2024-04-26**|**Two in One Go: Single-stage Emotion Recognition with Decoupled Subject-context Transformer**|Xinpeng Li et.al.|[2404.17205v1](http://arxiv.org/abs/2404.17205v1)|null|
+|**2024-04-29**|**Two in One Go: Single-stage Emotion Recognition with Decoupled Subject-context Transformer**|Xinpeng Li et.al.|[2404.17205v2](http://arxiv.org/abs/2404.17205v2)|null|
 |**2024-04-26**|**MCSDNet: Mesoscale Convective System Detection Network via Multi-scale Spatiotemporal Information**|Jiajun Liang et.al.|[2404.17186v1](http://arxiv.org/abs/2404.17186v1)|null|
 |**2024-04-26**|**MovieChat+: Question-aware Sparse Memory for Long Video Question Answering**|Enxin Song et.al.|[2404.17176v1](http://arxiv.org/abs/2404.17176v1)|**[link](https://github.com/rese1f/MovieChat)**|
 |**2024-04-26**|**S-IQA Image Quality Assessment With Compressive Sampling**|Ronghua Liao et.al.|[2404.17170v1](http://arxiv.org/abs/2404.17170v1)|null|
@@ -1593,7 +1593,7 @@
 |**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795v1](http://arxiv.org/abs/2404.16795v1)|null|
 |**2024-04-25**|**Registration by Regression (RbR): a framework for interpretable and flexible atlas registration**|Karthik Gopinath et.al.|[2404.16781v1](http://arxiv.org/abs/2404.16781v1)|null|
 |**2024-04-25**|**CBRW: A Novel Approach for Cancelable Biometric Template Generation based on**|Nitin Kumar et.al.|[2404.16739v1](http://arxiv.org/abs/2404.16739v1)|null|
-|**2024-04-25**|**Layer Skip: Enabling Early Exit Inference and Self-Speculative Decoding**|Mostafa Elhoushi et.al.|[2404.16710v1](http://arxiv.org/abs/2404.16710v1)|null|
+|**2024-04-29**|**LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding**|Mostafa Elhoushi et.al.|[2404.16710v2](http://arxiv.org/abs/2404.16710v2)|null|
 |**2024-04-25**|**Multi-view Cardiac Image Segmentation via Trans-Dimensional Priors**|Abbas Khan et.al.|[2404.16708v1](http://arxiv.org/abs/2404.16708v1)|null|
 |**2024-04-25**|**Generalized boost transformations in finite volumes and application to Hamiltonian methods**|Yan Li et.al.|[2404.16702v1](http://arxiv.org/abs/2404.16702v1)|null|
 |**2024-04-25**|**Dimensional Crossover of Microscopic Magnetic Metasurfaces for Magnetic Field Amplification**|N. Lejeune et.al.|[2404.16700v1](http://arxiv.org/abs/2404.16700v1)|null|
