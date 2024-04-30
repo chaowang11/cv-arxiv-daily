@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924v1](http://arxiv.org/abs/2404.18924v1)|null|
+|**2024-04-27**|**Generative Diffusion-based Downscaling for Climate**|Robbie A. Watt et.al.|[2404.17752v1](http://arxiv.org/abs/2404.17752v1)|**[link](https://github.com/robbiewatt1/climatediffuse)**|
+|**2024-04-26**|**Federated Learning for Blind Image Super-Resolution**|Brian B. Moser et.al.|[2404.17670v1](http://arxiv.org/abs/2404.17670v1)|null|
 |**2024-04-26**|**One-Shot Image Restoration**|Deborah Pereg et.al.|[2404.17426v1](http://arxiv.org/abs/2404.17426v1)|null|
 |**2024-04-26**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357v1](http://arxiv.org/abs/2404.17357v1)|null|
 |**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564v1](http://arxiv.org/abs/2404.16564v1)|**[link](https://github.com/hfates/ikr-net)**|
@@ -1019,6 +1022,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924v1](http://arxiv.org/abs/2404.18924v1)|null|
+|**2024-04-26**|**Federated Learning for Blind Image Super-Resolution**|Brian B. Moser et.al.|[2404.17670v1](http://arxiv.org/abs/2404.17670v1)|null|
 |**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564v1](http://arxiv.org/abs/2404.16564v1)|**[link](https://github.com/hfates/ikr-net)**|
 |**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484v1](http://arxiv.org/abs/2404.16484v1)|**[link](https://github.com/eduardzamfir/ntire23-rtsr)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409v1](http://arxiv.org/abs/2404.16409v1)|**[link](https://github.com/aimiokab/misr-s2)**|
@@ -1544,6 +1549,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924v1](http://arxiv.org/abs/2404.18924v1)|null|
+|**2024-04-29**|**RSCaMa: Remote Sensing Image Change Captioning with State Space Model**|Chenyang Liu et.al.|[2404.18895v1](http://arxiv.org/abs/2404.18895v1)|**[link](https://github.com/chen-yang-liu/rscama)**|
+|**2024-04-29**|**Human-in-the-Loop Synthetic Text Data Inspection with Provenance Tracking**|Hong Jin Kang et.al.|[2404.18881v1](http://arxiv.org/abs/2404.18881v1)|**[link](https://github.com/ucla-seal/provenanceinspector)**|
+|**2024-04-29**|**Learning Mixtures of Gaussians Using Diffusion Models**|Khashayar Gatmiry et.al.|[2404.18869v1](http://arxiv.org/abs/2404.18869v1)|null|
+|**2024-04-29**|**A Survey on Vision Mamba: Models, Applications and Challenges**|Rui Xu et.al.|[2404.18861v1](http://arxiv.org/abs/2404.18861v1)|**[link](https://github.com/ruixxxx/awesome-vision-mamba-models)**|
+|**2024-04-29**|**Generating self-similar membrane solutions**|Jens Hoppe et.al.|[2404.18856v1](http://arxiv.org/abs/2404.18856v1)|null|
+|**2024-04-29**|**Sparse Sampling in Fractional Fourier Domain: Recovery Guarantees and Cramér-Rao Bounds**|Václav Pavlíček et.al.|[2404.18850v1](http://arxiv.org/abs/2404.18850v1)|null|
+|**2024-04-29**|**MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**|Heitor R. Medeiros et.al.|[2404.18849v1](http://arxiv.org/abs/2404.18849v1)|null|
+|**2024-04-29**|**Harmonic Machine Learning Models are Robust**|Nicholas S. Kersting et.al.|[2404.18825v1](http://arxiv.org/abs/2404.18825v1)|null|
+|**2024-04-29**|**Endhered patterns in matchings and RNA**|Célia Biane et.al.|[2404.18802v1](http://arxiv.org/abs/2404.18802v1)|null|
+|**2024-04-29**|**Wavelet-based tools to analyze, filter, and reconstruct transient gravitational-wave signals**|Andrea Virtuoso et.al.|[2404.18781v1](http://arxiv.org/abs/2404.18781v1)|null|
+|**2024-04-29**|**Saliency Suppressed, Semantics Surfaced: Visual Transformations in Neural Networks and the Brain**|Gustaw Opiełka et.al.|[2404.18772v1](http://arxiv.org/abs/2404.18772v1)|**[link](https://github.com/gucioopielka/saliency-semantic-rsa)**|
+|**2024-04-29**|**KBX: Verified Model Synchronization via Formal Bidirectional Transformation**|Jianhong Zhao et.al.|[2404.18771v1](http://arxiv.org/abs/2404.18771v1)|null|
+|**2024-04-29**|**Mathematical modelling of heat transfer in closed electrical contacts and electrical potential field dynamics with Thomson effect**|Targyn A. Nauryz et.al.|[2404.18765v1](http://arxiv.org/abs/2404.18765v1)|null|
+|**2024-04-29**|**Towards A Structured Overview of Use Cases for Natural Language Processing in the Legal Domain: A German Perspective**|Juraj Vladika et.al.|[2404.18759v1](http://arxiv.org/abs/2404.18759v1)|null|
+|**2024-04-29**|**CVTN: Cross Variable and Temporal Integration for Time Series Forecasting**|Han Zhou et.al.|[2404.18730v1](http://arxiv.org/abs/2404.18730v1)|null|
+|**2024-04-29**|**Innovative Integration of Visual Foundation Model with a Robotic Arm on a Mobile Platform**|Shimian Zhang et.al.|[2404.18720v1](http://arxiv.org/abs/2404.18720v1)|null|
+|**2024-04-29**|**Numerical Accuracy of the Derivative-Expansion-Based Functional Renormalization Group**|Andrzej Chlebicki et.al.|[2404.18707v1](http://arxiv.org/abs/2404.18707v1)|null|
+|**2024-04-29**|**Investigation of shallow water waves near the coast or in lake environments via the KdV-Calogero-Bogoyavlenskii-Schiff equation**|Peng-Fei Han et.al.|[2404.18697v1](http://arxiv.org/abs/2404.18697v1)|null|
+|**2024-04-29**|**Dynamic temperature compensation for wavelength-stable entangled biphoton generation**|Yuting Liu et.al.|[2404.18686v1](http://arxiv.org/abs/2404.18686v1)|null|
+|**2024-04-29**|**A semi-analytical  $x$ -space solution for parton evolution -- Application to non-singlet and singlet DGLAP equation**|Juliane Haug et.al.|[2404.18667v1](http://arxiv.org/abs/2404.18667v1)|null|
+|**2024-04-29**|**Patterning of 2D second harmonic generation active arrays in ferroelectric nematic fluids**|M. Lovšin et.al.|[2404.18619v1](http://arxiv.org/abs/2404.18619v1)|null|
+|**2024-04-29**|**Dressing vs. Fixing: On How to Extract and Interpret Gauge-Invariant Content**|Philipp Berghofer et.al.|[2404.18582v1](http://arxiv.org/abs/2404.18582v1)|null|
+|**2024-04-29**|**Assessing Quality Metrics for Neural Reality Gap Input Mitigation in Autonomous Driving Testing**|Stefano Carlo Lambertenghi et.al.|[2404.18577v1](http://arxiv.org/abs/2404.18577v1)|null|
+|**2024-04-29**|**Classification of Affinely Homogeneous Hessian Rank 2 Hypersurfaces S^3 in R^4**|Julien Heyd et.al.|[2404.18565v1](http://arxiv.org/abs/2404.18565v1)|null|
+|**2024-04-29**|**SIDBench: A Python Framework for Reliably Assessing Synthetic Image Detection Methods**|Manos Schinas et.al.|[2404.18552v1](http://arxiv.org/abs/2404.18552v1)|**[link](https://github.com/mever-team/sidbench)**|
+|**2024-04-29**|**Enabling Efficient and Flexible Interpretability of Data-driven Anomaly Detection in Industrial Processes with AcME-AD**|Valentina Zaccaria et.al.|[2404.18525v1](http://arxiv.org/abs/2404.18525v1)|null|
+|**2024-04-29**|**Did Fourier Really Meet Möbius? Fast Subset Convolution via FFT**|Mihail Stoian et.al.|[2404.18522v1](http://arxiv.org/abs/2404.18522v1)|null|
+|**2024-04-29**|**From ChatGPT, DALL-E 3 to Sora: How has Generative AI Changed Digital Humanities Research and Services?**|Jiangfeng Liu et.al.|[2404.18518v1](http://arxiv.org/abs/2404.18518v1)|null|
+|**2024-04-29**|**Towards Classical Software Verification using Quantum Computers**|Sebastian Issel et.al.|[2404.18502v1](http://arxiv.org/abs/2404.18502v1)|null|
+|**2024-04-29**|**Autonomous Quality and Hallucination Assessment for Virtual Tissue Staining and Digital Pathology**|Luzhe Huang et.al.|[2404.18458v1](http://arxiv.org/abs/2404.18458v1)|null|
+|**2024-04-29**|**ShadowMaskFormer: Mask Augmented Patch Embeddings for Shadow Removal**|Zhuohao Li et.al.|[2404.18433v1](http://arxiv.org/abs/2404.18433v1)|null|
+|**2024-04-29**|**Self-Similar Collapse in Painleve-Gullstrand Coordinates**|Soumya Chakrabarti et.al.|[2404.18431v1](http://arxiv.org/abs/2404.18431v1)|null|
+|**2024-04-29**|**The Jive Verification System and its Transformative Impact on Weather Forecasting Operations**|Nicholas Loveday et.al.|[2404.18429v1](http://arxiv.org/abs/2404.18429v1)|null|
+|**2024-04-29**|**Efficient Meta-Learning Enabled Lightweight Multiscale Few-Shot Object Detection in Remote Sensing Images**|Wenbin Guan et.al.|[2404.18426v1](http://arxiv.org/abs/2404.18426v1)|null|
+|**2024-04-29**|**Unsupervised Dynamics Prediction with Object-Centric Kinematics**|Yeon-Ji Song et.al.|[2404.18423v1](http://arxiv.org/abs/2404.18423v1)|null|
+|**2024-04-29**|**Understanding and Shaping Human-Technology Assemblages in the Age of Generative AI**|Josh Andres et.al.|[2404.18405v1](http://arxiv.org/abs/2404.18405v1)|null|
+|**2024-04-29**|**Spectral-Spatial Mamba for Hyperspectral Image Classification**|Lingbo Huang et.al.|[2404.18401v1](http://arxiv.org/abs/2404.18401v1)|null|
+|**2024-04-29**|**A Framework for Learning and Reusing Robotic Skills**|Brendan Hertel et.al.|[2404.18383v1](http://arxiv.org/abs/2404.18383v1)|null|
+|**2024-04-29**|**Integrable semi-discretization for a modified Camassa-Holm equation with cubic nonlinearity**|Bao-Feng Feng et.al.|[2404.18372v1](http://arxiv.org/abs/2404.18372v1)|null|
+|**2024-04-29**|**Some Computational Results on Koszul-Vinberg Cochain Complexes**|Hanwen Liu et.al.|[2404.18344v1](http://arxiv.org/abs/2404.18344v1)|null|
+|**2024-04-28**|**Comparing LLM prompting with Cross-lingual transfer performance on Indigenous and Low-resource Brazilian Languages**|David Ifeoluwa Adelani et.al.|[2404.18286v1](http://arxiv.org/abs/2404.18286v1)|null|
+|**2024-04-28**|**Machine Learning for Blockchain Data Analysis: Progress and Opportunities**|Poupak Azad et.al.|[2404.18251v1](http://arxiv.org/abs/2404.18251v1)|null|
+|**2024-04-28**|**TextGram: Towards a better domain-adaptive pretraining**|Sharayu Hiwarkhedkar et.al.|[2404.18228v1](http://arxiv.org/abs/2404.18228v1)|null|
+|**2024-04-28**|**Asymptotically safe -- canonical quantum gravity junction**|Thomas Thiemann et.al.|[2404.18220v1](http://arxiv.org/abs/2404.18220v1)|null|
+|**2024-04-28**|**S $^2$ Mamba: A Spatial-spectral State Space Model for Hyperspectral Image Classification**|Guanchun Wang et.al.|[2404.18213v1](http://arxiv.org/abs/2404.18213v1)|null|
+|**2024-04-28**|**LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM**|Zicheng Zhang et.al.|[2404.18203v1](http://arxiv.org/abs/2404.18203v1)|null|
+|**2024-04-28**|**Rethinking Attention Gated with Hybrid Dual Pyramid Transformer-CNN for Generalized Segmentation in Medical Imaging**|Fares Bougourzi et.al.|[2404.18199v1](http://arxiv.org/abs/2404.18199v1)|null|
+|**2024-04-28**|**Permutation-equivariant quantum convolutional neural networks**|Sreetama Das et.al.|[2404.18198v1](http://arxiv.org/abs/2404.18198v1)|null|
+|**2024-04-28**|**Exploring the Robustness of In-Context Learning with Noisy Labels**|Chen Cheng et.al.|[2404.18191v1](http://arxiv.org/abs/2404.18191v1)|**[link](https://github.com/inezyu0928/in-context-learning)**|
 |**2024-04-26**|**ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2404.17565v1](http://arxiv.org/abs/2404.17565v1)|**[link](https://github.com/techmn/changebind)**|
 |**2024-04-26**|**A Novel Context driven Critical Integrative Levels (CIL) Approach: Advancing Human-Centric and Integrative Lighting Asset Management in Public Libraries with Practical Thresholds**|Jing Lin et.al.|[2404.17554v1](http://arxiv.org/abs/2404.17554v1)|null|
 |**2024-04-26**|**Application of Lagrangian techniques for calculating the on-axis rotational transform**|S. Guinchard et.al.|[2404.17531v1](http://arxiv.org/abs/2404.17531v1)|null|
@@ -17326,6 +17381,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting**|Tianyidan Xie et.al.|[2404.18598v1](http://arxiv.org/abs/2404.18598v1)|null|
+|**2024-04-28**|**SafePaint: Anti-forensic Image Inpainting with Domain Adaptation**|Dunyun Chen et.al.|[2404.18136v1](http://arxiv.org/abs/2404.18136v1)|null|
 |**2024-04-26**|**ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion**|Ziyue Zhang et.al.|[2404.17230v1](http://arxiv.org/abs/2404.17230v1)|**[link](https://github.com/potato-kitty/objectadd)**|
 |**2024-04-23**|**Multi-scale Intervention Planning based on Generative Design**|Ioannis Kavouras et.al.|[2404.15492v1](http://arxiv.org/abs/2404.15492v1)|null|
 |**2024-04-19**|**Equivariant Imaging for Self-supervised Hyperspectral Image Inpainting**|Shuo Li et.al.|[2404.13159v1](http://arxiv.org/abs/2404.13159v1)|null|
