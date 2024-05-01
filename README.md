@@ -32,7 +32,7 @@
 |**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484v1](http://arxiv.org/abs/2404.16484v1)|**[link](https://github.com/eduardzamfir/ntire23-rtsr)**|
 |**2024-04-25**|**Latent Modulated Function for Computational Optimal Continuous Image Representation**|Zongyao He et.al.|[2404.16451v1](http://arxiv.org/abs/2404.16451v1)|**[link](https://github.com/hezongyao/lmf)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409v1](http://arxiv.org/abs/2404.16409v1)|**[link](https://github.com/aimiokab/misr-s2)**|
-|**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223v1](http://arxiv.org/abs/2404.16223v1)|null|
+|**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223v1](http://arxiv.org/abs/2404.16223v1)|**[link](https://github.com/mv-lab/AISP)**|
 |**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956v2](http://arxiv.org/abs/2404.15956v2)|null|
 |**2024-04-24**|**Super-resolution imaging based on active optical intensity interferometry**|Lu-Chuan Liu et.al.|[2404.15685v1](http://arxiv.org/abs/2404.15685v1)|null|
 |**2024-04-26**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620v2](http://arxiv.org/abs/2404.15620v2)|**[link](https://github.com/XYLGroup/DKP)**|
@@ -1027,7 +1027,7 @@
 |**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564v1](http://arxiv.org/abs/2404.16564v1)|**[link](https://github.com/hfates/ikr-net)**|
 |**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484v1](http://arxiv.org/abs/2404.16484v1)|**[link](https://github.com/eduardzamfir/ntire23-rtsr)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409v1](http://arxiv.org/abs/2404.16409v1)|**[link](https://github.com/aimiokab/misr-s2)**|
-|**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223v1](http://arxiv.org/abs/2404.16223v1)|null|
+|**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223v1](http://arxiv.org/abs/2404.16223v1)|**[link](https://github.com/mv-lab/AISP)**|
 |**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956v2](http://arxiv.org/abs/2404.15956v2)|null|
 |**2024-04-26**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620v2](http://arxiv.org/abs/2404.15620v2)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533v1](http://arxiv.org/abs/2404.14533v1)|**[link](https://github.com/visioniclab/swinfusr)**|
@@ -1575,12 +1575,12 @@
 |**2024-04-29**|**Assessing Quality Metrics for Neural Reality Gap Input Mitigation in Autonomous Driving Testing**|Stefano Carlo Lambertenghi et.al.|[2404.18577v1](http://arxiv.org/abs/2404.18577v1)|null|
 |**2024-04-29**|**Classification of Affinely Homogeneous Hessian Rank 2 Hypersurfaces S^3 in R^4**|Julien Heyd et.al.|[2404.18565v1](http://arxiv.org/abs/2404.18565v1)|null|
 |**2024-04-29**|**SIDBench: A Python Framework for Reliably Assessing Synthetic Image Detection Methods**|Manos Schinas et.al.|[2404.18552v1](http://arxiv.org/abs/2404.18552v1)|**[link](https://github.com/mever-team/sidbench)**|
-|**2024-04-29**|**Enabling Efficient and Flexible Interpretability of Data-driven Anomaly Detection in Industrial Processes with AcME-AD**|Valentina Zaccaria et.al.|[2404.18525v1](http://arxiv.org/abs/2404.18525v1)|null|
+|**2024-04-29**|**Enabling Efficient and Flexible Interpretability of Data-driven Anomaly Detection in Industrial Processes with AcME-AD**|Valentina Zaccaria et.al.|[2404.18525v1](http://arxiv.org/abs/2404.18525v1)|**[link](https://github.com/dandolodavid/acme)**|
 |**2024-04-29**|**Did Fourier Really Meet Möbius? Fast Subset Convolution via FFT**|Mihail Stoian et.al.|[2404.18522v1](http://arxiv.org/abs/2404.18522v1)|null|
 |**2024-04-29**|**From ChatGPT, DALL-E 3 to Sora: How has Generative AI Changed Digital Humanities Research and Services?**|Jiangfeng Liu et.al.|[2404.18518v1](http://arxiv.org/abs/2404.18518v1)|null|
 |**2024-04-29**|**Towards Classical Software Verification using Quantum Computers**|Sebastian Issel et.al.|[2404.18502v1](http://arxiv.org/abs/2404.18502v1)|null|
 |**2024-04-29**|**Autonomous Quality and Hallucination Assessment for Virtual Tissue Staining and Digital Pathology**|Luzhe Huang et.al.|[2404.18458v1](http://arxiv.org/abs/2404.18458v1)|null|
-|**2024-04-30**|**ShadowMaskFormer: Mask Augmented Patch Embeddings for Shadow Removal**|Zhuohao Li et.al.|[2404.18433v2](http://arxiv.org/abs/2404.18433v2)|null|
+|**2024-04-30**|**ShadowMaskFormer: Mask Augmented Patch Embeddings for Shadow Removal**|Zhuohao Li et.al.|[2404.18433v2](http://arxiv.org/abs/2404.18433v2)|**[link](https://github.com/lizhh268/shadowmaskformer)**|
 |**2024-04-29**|**Self-Similar Collapse in Painleve-Gullstrand Coordinates**|Soumya Chakrabarti et.al.|[2404.18431v1](http://arxiv.org/abs/2404.18431v1)|null|
 |**2024-04-29**|**The Jive Verification System and its Transformative Impact on Weather Forecasting Operations**|Nicholas Loveday et.al.|[2404.18429v1](http://arxiv.org/abs/2404.18429v1)|null|
 |**2024-04-29**|**Efficient Meta-Learning Enabled Lightweight Multiscale Few-Shot Object Detection in Remote Sensing Images**|Wenbin Guan et.al.|[2404.18426v1](http://arxiv.org/abs/2404.18426v1)|null|
@@ -1596,7 +1596,7 @@
 |**2024-04-28**|**Asymptotically safe -- canonical quantum gravity junction**|Thomas Thiemann et.al.|[2404.18220v1](http://arxiv.org/abs/2404.18220v1)|null|
 |**2024-04-28**|**S $^2$ Mamba: A Spatial-spectral State Space Model for Hyperspectral Image Classification**|Guanchun Wang et.al.|[2404.18213v1](http://arxiv.org/abs/2404.18213v1)|null|
 |**2024-04-28**|**LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM**|Zicheng Zhang et.al.|[2404.18203v1](http://arxiv.org/abs/2404.18203v1)|null|
-|**2024-04-28**|**Rethinking Attention Gated with Hybrid Dual Pyramid Transformer-CNN for Generalized Segmentation in Medical Imaging**|Fares Bougourzi et.al.|[2404.18199v1](http://arxiv.org/abs/2404.18199v1)|null|
+|**2024-04-28**|**Rethinking Attention Gated with Hybrid Dual Pyramid Transformer-CNN for Generalized Segmentation in Medical Imaging**|Fares Bougourzi et.al.|[2404.18199v1](http://arxiv.org/abs/2404.18199v1)|**[link](https://github.com/faresbougourzi/pagtransynet)**|
 |**2024-04-28**|**Permutation-equivariant quantum convolutional neural networks**|Sreetama Das et.al.|[2404.18198v1](http://arxiv.org/abs/2404.18198v1)|null|
 |**2024-04-28**|**Exploring the Robustness of In-Context Learning with Noisy Labels**|Chen Cheng et.al.|[2404.18191v1](http://arxiv.org/abs/2404.18191v1)|**[link](https://github.com/inezyu0928/in-context-learning)**|
 |**2024-04-26**|**ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2404.17565v1](http://arxiv.org/abs/2404.17565v1)|**[link](https://github.com/techmn/changebind)**|
