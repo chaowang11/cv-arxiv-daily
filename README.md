@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242v1](http://arxiv.org/abs/2405.01242v1)|null|
+|**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085v1](http://arxiv.org/abs/2405.01085v1)|null|
 |**2024-05-01**|**Detail-Enhancing Framework for Reference-Based Image Super-Resolution**|Zihan Wang et.al.|[2405.00431v1](http://arxiv.org/abs/2405.00431v1)|null|
 |**2024-04-30**|**Replica-assisted super-resolution fluorescence imaging in scattering media**|Tengfei Wu et.al.|[2404.19734v1](http://arxiv.org/abs/2404.19734v1)|null|
 |**2024-04-30**|**Towards Real-world Video Face Restoration: A New Benchmark**|Ziyan Chen et.al.|[2404.19500v1](http://arxiv.org/abs/2404.19500v1)|null|
@@ -1026,6 +1028,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085v1](http://arxiv.org/abs/2405.01085v1)|null|
 |**2024-05-01**|**Detail-Enhancing Framework for Reference-Based Image Super-Resolution**|Zihan Wang et.al.|[2405.00431v1](http://arxiv.org/abs/2405.00431v1)|null|
 |**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924v1](http://arxiv.org/abs/2404.18924v1)|null|
 |**2024-04-26**|**Federated Learning for Blind Image Super-Resolution**|Brian B. Moser et.al.|[2404.17670v1](http://arxiv.org/abs/2404.17670v1)|null|
@@ -1555,6 +1558,44 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation**|Homanga Bharadhwaj et.al.|[2405.01527v1](http://arxiv.org/abs/2405.01527v1)|null|
+|**2024-05-02**|**Transformer-Aided Semantic Communications**|Matin Mortaheb et.al.|[2405.01521v1](http://arxiv.org/abs/2405.01521v1)|null|
+|**2024-05-02**|**A Fast and Accurate Numerical Method for the Left Tail of Sums of Independent Random Variables**|Nadhir Ben Rached et.al.|[2405.01465v1](http://arxiv.org/abs/2405.01465v1)|null|
+|**2024-05-02**|**Dimension-free estimates for positivity-preserving Riesz transforms related to Schrödinger operators with certain potentials**|Maciej Kucharski et.al.|[2405.01415v1](http://arxiv.org/abs/2405.01415v1)|null|
+|**2024-05-02**|**Meson spectroscopy from spectral densities in lattice gauge theories**|Ed Bennett et.al.|[2405.01388v1](http://arxiv.org/abs/2405.01388v1)|null|
+|**2024-05-02**|**Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy**|Hoang-Quan Nguyen et.al.|[2405.01337v1](http://arxiv.org/abs/2405.01337v1)|null|
+|**2024-05-02**|**Boosting gravitational waves: a review of kinematic effects on amplitude, polarization, frequency and energy density**|Giulia Cusin et.al.|[2405.01297v1](http://arxiv.org/abs/2405.01297v1)|null|
+|**2024-05-02**|**Reinforcement Learning for Edit-Based Non-Autoregressive Neural Machine Translation**|Hao Wang et.al.|[2405.01280v1](http://arxiv.org/abs/2405.01280v1)|null|
+|**2024-05-02**|**Global existence and blow-up for the Euler-Poincaré equations with a class of initial data**|Jinlu Li et.al.|[2405.01252v1](http://arxiv.org/abs/2405.01252v1)|null|
+|**2024-05-02**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242v1](http://arxiv.org/abs/2405.01242v1)|null|
+|**2024-05-02**|**All-Optical Noise Quenching of An Integrated Frequency Comb**|Gregory Moille et.al.|[2405.01238v1](http://arxiv.org/abs/2405.01238v1)|null|
+|**2024-05-02**|**Towards Interpretable Reinforcement Learning with Constrained Normalizing Flow Policies**|Finn Rietz et.al.|[2405.01198v1](http://arxiv.org/abs/2405.01198v1)|null|
+|**2024-05-02**|**Decoupling Feature Extraction and Classification Layers for Calibrated Neural Networks**|Mikkel Jordahn et.al.|[2405.01196v1](http://arxiv.org/abs/2405.01196v1)|null|
+|**2024-05-02**|**Uncertainty-aware self-training with expectation maximization basis transformation**|Zijia Wang et.al.|[2405.01175v1](http://arxiv.org/abs/2405.01175v1)|null|
+|**2024-05-02**|**GroupedMixer: An Entropy Model with Group-wise Token-Mixers for Learned Image Compression**|Daxin Li et.al.|[2405.01170v1](http://arxiv.org/abs/2405.01170v1)|null|
+|**2024-05-02**|**Automated Virtual Product Placement and Assessment in Images using Diffusion Models**|Mohammad Mahmudul Alam et.al.|[2405.01130v1](http://arxiv.org/abs/2405.01130v1)|null|
+|**2024-05-02**|**Domain-Transferred Synthetic Data Generation for Improving Monocular Depth Estimation**|Seungyeop Lee et.al.|[2405.01113v1](http://arxiv.org/abs/2405.01113v1)|null|
+|**2024-05-02**|**Less is More: on the Over-Globalizing Problem in Graph Transformers**|Yujie Xing et.al.|[2405.01102v1](http://arxiv.org/abs/2405.01102v1)|null|
+|**2024-05-02**|**Transformers Fusion across Disjoint Samples for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2405.01095v1](http://arxiv.org/abs/2405.01095v1)|null|
+|**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085v1](http://arxiv.org/abs/2405.01085v1)|null|
+|**2024-05-02**|**Muckenhoupt-Type Weights and Quantitative Weighted Estimate in the Bessel Setting**|Ji Li et.al.|[2405.01081v1](http://arxiv.org/abs/2405.01081v1)|null|
+|**2024-05-02**|**Leverage Multi-source Traffic Demand Data Fusion with Transformer Model for Urban Parking Prediction**|Yin Huang et.al.|[2405.01055v1](http://arxiv.org/abs/2405.01055v1)|null|
+|**2024-05-02**|**Reed-Solomon Codes over Cyclic Polynomial Ring with Lower Encoding/Decoding Complexity**|Wenhao Liu et.al.|[2405.01043v1](http://arxiv.org/abs/2405.01043v1)|null|
+|**2024-05-02**|**CrossMPT: Cross-attention Message-Passing Transformer for Error Correcting Codes**|Seong-Joon Park et.al.|[2405.01033v1](http://arxiv.org/abs/2405.01033v1)|null|
+|**2024-05-02**|**Deep Learning Models in Speech Recognition: Measuring GPU Energy Consumption, Impact of Noise and Model Quantization for Edge Deployment**|Aditya Chakravarty et.al.|[2405.01004v1](http://arxiv.org/abs/2405.01004v1)|null|
+|**2024-05-02**|**Continuous extension of the discrete shift translations on one-dimensional quantum lattice systems**|Hajime Moriya et.al.|[2405.01001v1](http://arxiv.org/abs/2405.01001v1)|null|
+|**2024-05-02**|**Low-Complexity Near-Field Localization with XL-MIMO Sectored Uniform Circular Arrays**|Shicong Liu et.al.|[2405.01000v1](http://arxiv.org/abs/2405.01000v1)|null|
+|**2024-05-02**|**On Ridge Estimation in High-dimensional Rotationally Sparse Linear Regression**|Libin Liang et.al.|[2405.00974v1](http://arxiv.org/abs/2405.00974v1)|null|
+|**2024-05-02**|**Repainting the colour-mass diagrams by unearthing the green mountain: dust-rich S0 galaxies in the colour-(galaxy stellar mass) diagram, and the colour-(black hole mass) relations for dust-poor versus dust-rich galaxies**|Alister W. Graham et.al.|[2405.00944v1](http://arxiv.org/abs/2405.00944v1)|null|
+|**2024-05-02**|**Quantum Wave Packet Transforms with compact frequency support**|Hongkang Ni et.al.|[2405.00929v1](http://arxiv.org/abs/2405.00929v1)|null|
+|**2024-05-02**|**Identifying Halos in Cosmological Simulations with Continuous Wavelet Analysis: The 2D Case**|Minxing Li et.al.|[2405.00920v1](http://arxiv.org/abs/2405.00920v1)|null|
+|**2024-05-01**|**Transformer-Based Self-Supervised Learning for Histopathological Classification of Ischemic Stroke Clot Origin**|K. Yeh et.al.|[2405.00908v1](http://arxiv.org/abs/2405.00908v1)|null|
+|**2024-05-01**|**LOTUS: Improving Transformer Efficiency with Sparsity Pruning and Data Lottery Tickets**|Ojasw Upadhyay et.al.|[2405.00906v1](http://arxiv.org/abs/2405.00906v1)|null|
+|**2024-05-01**|**Implementation of a Mesh refinement algorithm into the quasi-static PIC code QuickPIC**|Q. Su et.al.|[2405.00886v1](http://arxiv.org/abs/2405.00886v1)|null|
+|**2024-05-01**|**Brighteye: Glaucoma Screening with Color Fundus Photographs based on Vision Transformer**|Hui Lin et.al.|[2405.00857v1](http://arxiv.org/abs/2405.00857v1)|null|
+|**2024-05-01**|**ICU Bloodstream Infection Prediction: A Transformer-Based Approach for EHR Analysis**|Ortal Hirszowicz et.al.|[2405.00819v1](http://arxiv.org/abs/2405.00819v1)|null|
+|**2024-05-01**|**Rigged Dynamic Mode Decomposition: Data-Driven Generalized Eigenfunction Decompositions for Koopman Operators**|Matthew J. Colbrook et.al.|[2405.00782v1](http://arxiv.org/abs/2405.00782v1)|null|
+|**2024-05-01**|**Higher spins and Finsler geometry**|Alessandro Tomasiello et.al.|[2405.00776v1](http://arxiv.org/abs/2405.00776v1)|null|
 |**2024-05-01**|**Electronic Coherences in Molecules: The Projected Nuclear Quantum Momentum as a Hidden Agent**|Evaristo Villaseco Arribas et.al.|[2405.00649v1](http://arxiv.org/abs/2405.00649v1)|null|
 |**2024-05-01**|**HalluVault: A Novel Logic Programming-aided Metamorphic Testing Framework for Detecting Fact-Conflicting Hallucinations in Large Language Models**|Ningke Li et.al.|[2405.00648v1](http://arxiv.org/abs/2405.00648v1)|null|
 |**2024-05-01**|**Koopman-based Deep Learning for Nonlinear System Estimation**|Zexin Sun et.al.|[2405.00627v1](http://arxiv.org/abs/2405.00627v1)|null|
