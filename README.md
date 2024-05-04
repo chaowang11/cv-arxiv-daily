@@ -1575,14 +1575,14 @@
 |**2024-05-02**|**GroupedMixer: An Entropy Model with Group-wise Token-Mixers for Learned Image Compression**|Daxin Li et.al.|[2405.01170v1](http://arxiv.org/abs/2405.01170v1)|null|
 |**2024-05-02**|**Automated Virtual Product Placement and Assessment in Images using Diffusion Models**|Mohammad Mahmudul Alam et.al.|[2405.01130v1](http://arxiv.org/abs/2405.01130v1)|null|
 |**2024-05-02**|**Domain-Transferred Synthetic Data Generation for Improving Monocular Depth Estimation**|Seungyeop Lee et.al.|[2405.01113v1](http://arxiv.org/abs/2405.01113v1)|null|
-|**2024-05-02**|**Less is More: on the Over-Globalizing Problem in Graph Transformers**|Yujie Xing et.al.|[2405.01102v1](http://arxiv.org/abs/2405.01102v1)|null|
+|**2024-05-02**|**Less is More: on the Over-Globalizing Problem in Graph Transformers**|Yujie Xing et.al.|[2405.01102v1](http://arxiv.org/abs/2405.01102v1)|**[link](https://github.com/null-xyj/CoBFormer)**|
 |**2024-05-02**|**Transformers Fusion across Disjoint Samples for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2405.01095v1](http://arxiv.org/abs/2405.01095v1)|null|
 |**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085v1](http://arxiv.org/abs/2405.01085v1)|null|
 |**2024-05-02**|**Muckenhoupt-Type Weights and Quantitative Weighted Estimate in the Bessel Setting**|Ji Li et.al.|[2405.01081v1](http://arxiv.org/abs/2405.01081v1)|null|
 |**2024-05-02**|**Leverage Multi-source Traffic Demand Data Fusion with Transformer Model for Urban Parking Prediction**|Yin Huang et.al.|[2405.01055v1](http://arxiv.org/abs/2405.01055v1)|null|
 |**2024-05-02**|**Reed-Solomon Codes over Cyclic Polynomial Ring with Lower Encoding/Decoding Complexity**|Wenhao Liu et.al.|[2405.01043v1](http://arxiv.org/abs/2405.01043v1)|null|
 |**2024-05-02**|**CrossMPT: Cross-attention Message-Passing Transformer for Error Correcting Codes**|Seong-Joon Park et.al.|[2405.01033v1](http://arxiv.org/abs/2405.01033v1)|null|
-|**2024-05-02**|**Deep Learning Models in Speech Recognition: Measuring GPU Energy Consumption, Impact of Noise and Model Quantization for Edge Deployment**|Aditya Chakravarty et.al.|[2405.01004v1](http://arxiv.org/abs/2405.01004v1)|null|
+|**2024-05-02**|**Deep Learning Models in Speech Recognition: Measuring GPU Energy Consumption, Impact of Noise and Model Quantization for Edge Deployment**|Aditya Chakravarty et.al.|[2405.01004v1](http://arxiv.org/abs/2405.01004v1)|**[link](https://github.com/zzadiues3338/asr-energy-jetson)**|
 |**2024-05-02**|**Continuous extension of the discrete shift translations on one-dimensional quantum lattice systems**|Hajime Moriya et.al.|[2405.01001v1](http://arxiv.org/abs/2405.01001v1)|null|
 |**2024-05-02**|**Low-Complexity Near-Field Localization with XL-MIMO Sectored Uniform Circular Arrays**|Shicong Liu et.al.|[2405.01000v1](http://arxiv.org/abs/2405.01000v1)|null|
 |**2024-05-02**|**On Ridge Estimation in High-dimensional Rotationally Sparse Linear Regression**|Libin Liang et.al.|[2405.00974v1](http://arxiv.org/abs/2405.00974v1)|null|
@@ -1593,8 +1593,8 @@
 |**2024-05-01**|**LOTUS: Improving Transformer Efficiency with Sparsity Pruning and Data Lottery Tickets**|Ojasw Upadhyay et.al.|[2405.00906v1](http://arxiv.org/abs/2405.00906v1)|null|
 |**2024-05-01**|**Implementation of a Mesh refinement algorithm into the quasi-static PIC code QuickPIC**|Q. Su et.al.|[2405.00886v1](http://arxiv.org/abs/2405.00886v1)|null|
 |**2024-05-01**|**Brighteye: Glaucoma Screening with Color Fundus Photographs based on Vision Transformer**|Hui Lin et.al.|[2405.00857v1](http://arxiv.org/abs/2405.00857v1)|null|
-|**2024-05-01**|**ICU Bloodstream Infection Prediction: A Transformer-Based Approach for EHR Analysis**|Ortal Hirszowicz et.al.|[2405.00819v1](http://arxiv.org/abs/2405.00819v1)|null|
-|**2024-05-01**|**Rigged Dynamic Mode Decomposition: Data-Driven Generalized Eigenfunction Decompositions for Koopman Operators**|Matthew J. Colbrook et.al.|[2405.00782v1](http://arxiv.org/abs/2405.00782v1)|null|
+|**2024-05-01**|**ICU Bloodstream Infection Prediction: A Transformer-Based Approach for EHR Analysis**|Ortal Hirszowicz et.al.|[2405.00819v1](http://arxiv.org/abs/2405.00819v1)|**[link](https://github.com/OrtalHirszowicz/RatchetEHR)**|
+|**2024-05-01**|**Rigged Dynamic Mode Decomposition: Data-Driven Generalized Eigenfunction Decompositions for Koopman Operators**|Matthew J. Colbrook et.al.|[2405.00782v1](http://arxiv.org/abs/2405.00782v1)|**[link](https://github.com/MColbrook/Rigged-Dynamic-Mode-Decomposition)**|
 |**2024-05-01**|**Higher spins and Finsler geometry**|Alessandro Tomasiello et.al.|[2405.00776v1](http://arxiv.org/abs/2405.00776v1)|null|
 |**2024-05-01**|**Electronic Coherences in Molecules: The Projected Nuclear Quantum Momentum as a Hidden Agent**|Evaristo Villaseco Arribas et.al.|[2405.00649v1](http://arxiv.org/abs/2405.00649v1)|null|
 |**2024-05-01**|**HalluVault: A Novel Logic Programming-aided Metamorphic Testing Framework for Detecting Fact-Conflicting Hallucinations in Large Language Models**|Ningke Li et.al.|[2405.00648v1](http://arxiv.org/abs/2405.00648v1)|null|
