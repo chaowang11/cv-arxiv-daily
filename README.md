@@ -26,7 +26,7 @@
 |**2024-05-01**|**Reference-Free Image Quality Metric for Degradation and Reconstruction Artifacts**|Han Cui et.al.|[2405.02208v1](http://arxiv.org/abs/2405.02208v1)|null|
 |**2024-05-03**|**Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations**|Zhilu Zhang et.al.|[2405.02171v1](http://arxiv.org/abs/2405.02171v1)|**[link](https://github.com/cszhilu1998/selfdzsr_plusplus)**|
 |**2024-05-03**|**Optical skyrmions from metafibers**|Tiantian He et.al.|[2405.01962v1](http://arxiv.org/abs/2405.01962v1)|null|
-|**2024-05-02**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242v1](http://arxiv.org/abs/2405.01242v1)|null|
+|**2024-05-05**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242v2](http://arxiv.org/abs/2405.01242v2)|null|
 |**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085v1](http://arxiv.org/abs/2405.01085v1)|null|
 |**2024-05-01**|**Detail-Enhancing Framework for Reference-Based Image Super-Resolution**|Zihan Wang et.al.|[2405.00431v1](http://arxiv.org/abs/2405.00431v1)|null|
 |**2024-04-30**|**Replica-assisted super-resolution fluorescence imaging in scattering media**|Tengfei Wu et.al.|[2404.19734v1](http://arxiv.org/abs/2404.19734v1)|null|
@@ -1582,7 +1582,7 @@
 |**2024-05-03**|**Laboratory and astronomical discovery of cyanothioketene, NCCHCS, in the cold starless core TMC-1**|C. Cabezas et.al.|[2405.02033v1](http://arxiv.org/abs/2405.02033v1)|null|
 |**2024-05-03**|**The primitive spectrum of C $^*$ -algebras of étale groupoids with abelian isotropy**|Johannes Christensen et.al.|[2405.02025v1](http://arxiv.org/abs/2405.02025v1)|null|
 |**2024-05-03**|**Analyzing Narrative Processing in Large Language Models (LLMs): Using GPT4 to test BERT**|Patrick Krauss et.al.|[2405.02024v1](http://arxiv.org/abs/2405.02024v1)|null|
-|**2024-05-03**|**IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals**|Li Yadong et.al.|[2405.02023v1](http://arxiv.org/abs/2405.02023v1)|null|
+|**2024-05-06**|**IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals**|Yadong Li et.al.|[2405.02023v2](http://arxiv.org/abs/2405.02023v2)|null|
 |**2024-05-03**|**Time-of-arrival distributions for continuous quantum systems**|Mathieu Beau et.al.|[2405.02018v1](http://arxiv.org/abs/2405.02018v1)|null|
 |**2024-05-03**|**Backtesting Expected Shortfall: Accounting for both duration and severity with bivariate orthogonal polynomials**|Sullivan Hué et.al.|[2405.02012v1](http://arxiv.org/abs/2405.02012v1)|null|
 |**2024-05-03**|**SFFNet: A Wavelet-Based Spatial and Frequency Domain Fusion Network for Remote Sensing Segmentation**|Yunsong Yang et.al.|[2405.01992v1](http://arxiv.org/abs/2405.01992v1)|**[link](https://github.com/yysdck/sffnet)**|
@@ -1601,12 +1601,12 @@
 |**2024-05-03**|**Exploiting ChatGPT for Diagnosing Autism-Associated Language Disorders and Identifying Distinct Features**|Chuanbo Hu et.al.|[2405.01799v1](http://arxiv.org/abs/2405.01799v1)|null|
 |**2024-05-03**|**Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots**|Joonho Lee et.al.|[2405.01792v1](http://arxiv.org/abs/2405.01792v1)|null|
 |**2024-05-02**|**An Approach to Systematic Data Acquisition and Data-Driven Simulation for the Safety Testing of Automated Driving Functions**|Leon Eisemann et.al.|[2405.01776v1](http://arxiv.org/abs/2405.01776v1)|null|
-|**2024-05-02**|**Torch2Chip: An End-to-end Customizable Deep Neural Network Compression and Deployment Toolkit for Prototype Hardware Accelerator Design**|Jian Meng et.al.|[2405.01775v1](http://arxiv.org/abs/2405.01775v1)|**[link](https://github.com/seolabcornell/torch2chip)**|
+|**2024-05-06**|**Torch2Chip: An End-to-end Customizable Deep Neural Network Compression and Deployment Toolkit for Prototype Hardware Accelerator Design**|Jian Meng et.al.|[2405.01775v2](http://arxiv.org/abs/2405.01775v2)|**[link](https://github.com/seolabcornell/torch2chip)**|
 |**2024-05-02**|**A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law**|Zhiyu Zoey Chen et.al.|[2405.01769v1](http://arxiv.org/abs/2405.01769v1)|null|
 |**2024-05-02**|**Photon rings in the metamaterial analog of a gravitomagnetic monopole**|A. Parvizi et.al.|[2405.01764v1](http://arxiv.org/abs/2405.01764v1)|null|
 |**2024-05-02**|**Large Language Models for UAVs: Current State and Pathways to the Future**|Shumaila Javaid et.al.|[2405.01745v1](http://arxiv.org/abs/2405.01745v1)|null|
 |**2024-05-02**|**Enhancing User Experience in On-Device Machine Learning with Gated Compression Layers**|Haiguang Li et.al.|[2405.01739v1](http://arxiv.org/abs/2405.01739v1)|null|
-|**2024-05-02**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699v1](http://arxiv.org/abs/2405.01699v1)|null|
+|**2024-05-06**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al.|[2405.01699v2](http://arxiv.org/abs/2405.01699v2)|null|
 |**2024-05-02**|**Requirements-driven Slicing of Simulink Models Using LLMs**|Dipeeka Luitel et.al.|[2405.01695v1](http://arxiv.org/abs/2405.01695v1)|null|
 |**2024-05-02**|**Sensitivity analysis for matching on high-dimensional predictors: A case study of racial disparity in US mortality**|Marina Hernandez et.al.|[2405.01694v1](http://arxiv.org/abs/2405.01694v1)|null|
 |**2024-05-02**|**The orientation dependence of cavity-modified chemistry**|Marcus D. Liebenthal et.al.|[2405.01676v1](http://arxiv.org/abs/2405.01676v1)|null|
@@ -17790,7 +17790,7 @@
 |---|---|---|---|---|
 |**2024-04-30**|**Semantically Consistent Video Inpainting with Conditional Diffusion Models**|Dylan Green et.al.|[2405.00251v1](http://arxiv.org/abs/2405.00251v1)|null|
 |**2024-04-24**|**Raformer: Redundancy-Aware Transformer for Video Wire Inpainting**|Zhong Ji et.al.|[2404.15802v1](http://arxiv.org/abs/2404.15802v1)|**[link](https://github.com/Suyimu/WRV2)**|
-|**2024-04-17**|**Multilateral Temporal-view Pyramid Transformer for Video Inpainting Detection**|Ying Zhang et.al.|[2404.11054v1](http://arxiv.org/abs/2404.11054v1)|null|
+|**2024-05-06**|**Multilateral Temporal-view Pyramid Transformer for Video Inpainting Detection**|Ying Zhang et.al.|[2404.11054v2](http://arxiv.org/abs/2404.11054v2)|null|
 |**2024-03-25**|**Low-rank quaternion tensor completion for color video inpainting via a novel factorization strategy**|Zhenzhi Qin et.al.|[2403.16480v1](http://arxiv.org/abs/2403.16480v1)|null|
 |**2024-03-24**|**Towards Online Real-Time Memory-based Video Inpainting Transformers**|Guillaume Thiry et.al.|[2403.16161v1](http://arxiv.org/abs/2403.16161v1)|null|
 |**2024-03-19**|**VQ-NeRV: A Vector Quantized Neural Representation for Videos**|Yunjie Xu et.al.|[2403.12401v1](http://arxiv.org/abs/2403.12401v1)|**[link](https://github.com/magicffourier/vq-nerv)**|
