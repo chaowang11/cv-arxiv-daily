@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**HMANet: Hybrid Multi-Axis Aggregation Network for Image Super-Resolution**|Shu-Chuan Chu et.al.|[2405.05001v1](http://arxiv.org/abs/2405.05001v1)|**[link](https://github.com/korouuuuu/hma)**|
+|**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964v1](http://arxiv.org/abs/2405.04964v1)|null|
+|**2024-05-08**|**Teacher-Student Network for Real-World Face Super-Resolution with Progressive Embedding of Edge Information**|Zhilei Liu et.al.|[2405.04778v1](http://arxiv.org/abs/2405.04778v1)|null|
+|**2024-05-07**|**An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution**|Naveed Sultan et.al.|[2405.04595v1](http://arxiv.org/abs/2405.04595v1)|null|
 |**2024-05-07**|**CloudDiff: Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model**|Haixia Xiao et.al.|[2405.04483v1](http://arxiv.org/abs/2405.04483v1)|null|
 |**2024-05-08**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312v2](http://arxiv.org/abs/2405.04312v2)|**[link](https://github.com/thudm/inf-dit)**|
 |**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684v1](http://arxiv.org/abs/2405.03684v1)|null|
@@ -1037,6 +1041,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**HMANet: Hybrid Multi-Axis Aggregation Network for Image Super-Resolution**|Shu-Chuan Chu et.al.|[2405.05001v1](http://arxiv.org/abs/2405.05001v1)|**[link](https://github.com/korouuuuu/hma)**|
+|**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964v1](http://arxiv.org/abs/2405.04964v1)|null|
+|**2024-05-07**|**An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution**|Naveed Sultan et.al.|[2405.04595v1](http://arxiv.org/abs/2405.04595v1)|null|
 |**2024-05-05**|**DVMSR: Distillated Vision Mamba for Efficient Super-Resolution**|Xiaoyan Lei et.al.|[2405.03008v1](http://arxiv.org/abs/2405.03008v1)|**[link](https://github.com/nathan66666/dvmsr)**|
 |**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085v1](http://arxiv.org/abs/2405.01085v1)|null|
 |**2024-05-01**|**Detail-Enhancing Framework for Reference-Based Image Super-Resolution**|Zihan Wang et.al.|[2405.00431v1](http://arxiv.org/abs/2405.00431v1)|null|
@@ -1568,6 +1575,44 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**You Only Cache Once: Decoder-Decoder Architectures for Language Models**|Yutao Sun et.al.|[2405.05254v1](http://arxiv.org/abs/2405.05254v1)|null|
+|**2024-05-08**|**Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers**|Jiuxiang Gu et.al.|[2405.05219v1](http://arxiv.org/abs/2405.05219v1)|null|
+|**2024-05-08**|**MOTLEE: Collaborative Multi-Object Tracking Using Temporal Consistency for Neighboring Robot Frame Alignment**|Mason B. Peterson et.al.|[2405.05210v1](http://arxiv.org/abs/2405.05210v1)|null|
+|**2024-05-08**|**Systematic Use of Random Self-Reducibility against Physical Attacks**|Ferhat Erata et.al.|[2405.05193v1](http://arxiv.org/abs/2405.05193v1)|null|
+|**2024-05-08**|**Randomized quasi-Monte Carlo and Owen's boundary growth condition: A spectral analysis**|Yang Liu et.al.|[2405.05181v1](http://arxiv.org/abs/2405.05181v1)|null|
+|**2024-05-08**|**Fast Fourier transforms and fast Wigner and Weyl functions in large quantum systems**|C. Lei et.al.|[2405.05163v1](http://arxiv.org/abs/2405.05163v1)|null|
+|**2024-05-08**|**On equivalence of the Mellin-Barnes and the Givental integral representations of the Whittaker functions**|A. A. Gerasimov et.al.|[2405.05152v1](http://arxiv.org/abs/2405.05152v1)|null|
+|**2024-05-08**|**Multi-scale Bottleneck Transformer for Weakly Supervised Multimodal Violence Detection**|Shengyang Sun et.al.|[2405.05130v1](http://arxiv.org/abs/2405.05130v1)|**[link](https://github.com/shengyangsun/MSBT)**|
+|**2024-05-08**|**The Harmonic Descent Chain**|David J. Aldous et.al.|[2405.05102v1](http://arxiv.org/abs/2405.05102v1)|null|
+|**2024-05-08**|**Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models**|Aylin Gunal et.al.|[2405.05060v1](http://arxiv.org/abs/2405.05060v1)|null|
+|**2024-05-08**|**Seeds of Stereotypes: A Large-Scale Textual Analysis of Race and Gender Associations with Diseases in Online Sources**|Lasse Hyldig Hansen et.al.|[2405.05049v1](http://arxiv.org/abs/2405.05049v1)|null|
+|**2024-05-08**|**Gröbner Basis Cryptanalysis of Ciminion and Hydra**|Matthias Johann Steiner et.al.|[2405.05040v1](http://arxiv.org/abs/2405.05040v1)|null|
+|**2024-05-08**|**Concrete Dense Network for Long-Sequence Time Series Clustering**|Redemptor Jr Laceda Taloma et.al.|[2405.05015v1](http://arxiv.org/abs/2405.05015v1)|null|
+|**2024-05-08**|**HMANet: Hybrid Multi-Axis Aggregation Network for Image Super-Resolution**|Shu-Chuan Chu et.al.|[2405.05001v1](http://arxiv.org/abs/2405.05001v1)|**[link](https://github.com/korouuuuu/hma)**|
+|**2024-05-08**|**TeraPool-SDR: An 1.89TOPS 1024 RV-Cores 4MiB Shared-L1 Cluster for Next-Generation Open-Source Software-Defined Radios**|Yichao Zhang et.al.|[2405.04988v1](http://arxiv.org/abs/2405.04988v1)|null|
+|**2024-05-08**|**Accurate estimation of the normalized mutual information of multidimensional data**|Daniel Nagel et.al.|[2405.04980v1](http://arxiv.org/abs/2405.04980v1)|null|
+|**2024-05-08**|**End-to-End Semi-Supervised approach with Modulated Object Queries for Table Detection in Documents**|Iqraa Ehsan et.al.|[2405.04971v1](http://arxiv.org/abs/2405.04971v1)|null|
+|**2024-05-08**|**Predicting positon solutions of a family of Nonlinear Schrödinger equations through Deep Learning algorithm**|K. Thulasidharan et.al.|[2405.04968v1](http://arxiv.org/abs/2405.04968v1)|null|
+|**2024-05-08**|**MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures**|Han Yang et.al.|[2405.04967v1](http://arxiv.org/abs/2405.04967v1)|null|
+|**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964v1](http://arxiv.org/abs/2405.04964v1)|null|
+|**2024-05-08**|**Unsupervised Skin Feature Tracking with Deep Neural Networks**|Jose Chang et.al.|[2405.04943v1](http://arxiv.org/abs/2405.04943v1)|null|
+|**2024-05-08**|** $C^\infty$  well-posedness of higher order hyperbolic pseudo-differential equations with multiplicities**|Claudia Garetto et.al.|[2405.04927v1](http://arxiv.org/abs/2405.04927v1)|null|
+|**2024-05-08**|**Empowering Wireless Networks with Artificial Intelligence Generated Graph**|Jiacheng Wang et.al.|[2405.04907v1](http://arxiv.org/abs/2405.04907v1)|null|
+|**2024-05-08**|**Machine Learning-based NLP for Emotion Classification on a Cholera X Dataset**|Paul Jideani et.al.|[2405.04897v1](http://arxiv.org/abs/2405.04897v1)|null|
+|**2024-05-08**|**xMTrans: Temporal Attentive Cross-Modality Fusion Transformer for Long-Term Traffic Prediction**|Huy Quang Ung et.al.|[2405.04841v1](http://arxiv.org/abs/2405.04841v1)|null|
+|**2024-05-08**|**Enhancing Data Integrity and Traceability in Industry Cyber Physical Systems (ICPS) through Blockchain Technology: A Comprehensive Approach**|Mohammad Ikbal Hossain et.al.|[2405.04837v1](http://arxiv.org/abs/2405.04837v1)|null|
+|**2024-05-08**|**Transformer Architecture for NetsDB**|Subodh Kamble et.al.|[2405.04807v1](http://arxiv.org/abs/2405.04807v1)|null|
+|**2024-05-08**|**WixUp: A General Data Augmentation Framework for Wireless Perception in Tracking of Humans**|Yin Li et.al.|[2405.04804v1](http://arxiv.org/abs/2405.04804v1)|null|
+|**2024-05-08**|**Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches**|Qing Yu et.al.|[2405.04771v1](http://arxiv.org/abs/2405.04771v1)|null|
+|**2024-05-08**|**Conditional Local Feature Encoding for Graph Neural Networks**|Yongze Wang et.al.|[2405.04755v1](http://arxiv.org/abs/2405.04755v1)|null|
+|**2024-05-07**|**Metaverse Survey & Tutorial: Exploring Key Requirements, Technologies, Standards, Applications, Challenges, and Perspectives**|Danda B. Rawat et.al.|[2405.04718v1](http://arxiv.org/abs/2405.04718v1)|null|
+|**2024-05-07**|**Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics**|Hanlin Zhu et.al.|[2405.04669v1](http://arxiv.org/abs/2405.04669v1)|null|
+|**2024-05-07**|**ResNCT: A Deep Learning Model for the Synthesis of Nephrographic Phase Images in CT Urography**|Syed Jamal Safdar Gardezi et.al.|[2405.04629v1](http://arxiv.org/abs/2405.04629v1)|null|
+|**2024-05-07**|**SingIt! Singer Voice Transformation**|Amit Eliav et.al.|[2405.04627v1](http://arxiv.org/abs/2405.04627v1)|null|
+|**2024-05-07**|**The Dark Side of Dataset Scaling: Evaluating Racial Classification in Multimodal Models**|Abeba Birhane et.al.|[2405.04623v1](http://arxiv.org/abs/2405.04623v1)|null|
+|**2024-05-07**|**Folded context condensation in Path Integral formalism for infinite context transformers**|Won-Gi Paeng et.al.|[2405.04620v1](http://arxiv.org/abs/2405.04620v1)|null|
+|**2024-05-07**|**Underground Freight Transportation for Package Delivery in Urban Environments**|Sarah Powell et.al.|[2405.04618v1](http://arxiv.org/abs/2405.04618v1)|null|
+|**2024-05-07**|**An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution**|Naveed Sultan et.al.|[2405.04595v1](http://arxiv.org/abs/2405.04595v1)|null|
 |**2024-05-07**|**xLSTM: Extended Long Short-Term Memory**|Maximilian Beck et.al.|[2405.04517v1](http://arxiv.org/abs/2405.04517v1)|null|
 |**2024-05-07**|**A Transformer with Stack Attention**|Jiaoda Li et.al.|[2405.04515v1](http://arxiv.org/abs/2405.04515v1)|**[link](https://github.com/rycolab/stack-transformer)**|
 |**2024-05-07**|**Scalable Circuit Cutting and Scheduling in a Resource-constrained and Distributed Quantum System**|Shuwen Kan et.al.|[2405.04514v1](http://arxiv.org/abs/2405.04514v1)|null|
