@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Diag2Diag: Multi modal super resolution for physics discovery with application to fusion**|Azarakhsh Jalalvand et.al.|[2405.05908v1](http://arxiv.org/abs/2405.05908v1)|null|
+|**2024-05-09**|**Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution**|Yunxiang Li et.al.|[2405.05497v1](http://arxiv.org/abs/2405.05497v1)|null|
 |**2024-05-08**|**HMANet: Hybrid Multi-Axis Aggregation Network for Image Super-Resolution**|Shu-Chuan Chu et.al.|[2405.05001v1](http://arxiv.org/abs/2405.05001v1)|**[link](https://github.com/korouuuuu/hma)**|
 |**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964v1](http://arxiv.org/abs/2405.04964v1)|null|
 |**2024-05-08**|**Teacher-Student Network for Real-World Face Super-Resolution with Progressive Embedding of Edge Information**|Zhilei Liu et.al.|[2405.04778v1](http://arxiv.org/abs/2405.04778v1)|null|
@@ -1041,6 +1043,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution**|Yunxiang Li et.al.|[2405.05497v1](http://arxiv.org/abs/2405.05497v1)|null|
 |**2024-05-08**|**HMANet: Hybrid Multi-Axis Aggregation Network for Image Super-Resolution**|Shu-Chuan Chu et.al.|[2405.05001v1](http://arxiv.org/abs/2405.05001v1)|**[link](https://github.com/korouuuuu/hma)**|
 |**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964v1](http://arxiv.org/abs/2405.04964v1)|null|
 |**2024-05-07**|**An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution**|Naveed Sultan et.al.|[2405.04595v1](http://arxiv.org/abs/2405.04595v1)|null|
@@ -1532,6 +1535,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**LatentColorization: Latent Diffusion-Based Speaker Video Colorization**|Rory Ward et.al.|[2405.05707v1](http://arxiv.org/abs/2405.05707v1)|null|
 |**2024-04-09**|**ColorMNet: A Memory-based Deep Spatial-Temporal Feature Propagation Network for Video Colorization**|Yixin Yang et.al.|[2404.06251v1](http://arxiv.org/abs/2404.06251v1)|**[link](https://github.com/yyang181/colormnet)**|
 |**2024-03-04**|**Piet: Facilitating Color Authoring for Motion Graphics Video**|Xinyu Shi et.al.|[2403.02199v1](http://arxiv.org/abs/2403.02199v1)|null|
 |**2023-08-09**|**Histogram-guided Video Colorization Structure with Spatial-Temporal Connection**|Zheyuan Liu et.al.|[2308.04899v1](http://arxiv.org/abs/2308.04899v1)|null|
@@ -1575,6 +1579,52 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959v1](http://arxiv.org/abs/2405.05959v1)|**[link](https://github.com/eqtpartners/tsde)**|
+|**2024-05-09**|**Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**|Junzhi Chen et.al.|[2405.05955v1](http://arxiv.org/abs/2405.05955v1)|null|
+|**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950v1](http://arxiv.org/abs/2405.05950v1)|null|
+|**2024-05-09**|**Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**|Peng Gao et.al.|[2405.05945v1](http://arxiv.org/abs/2405.05945v1)|**[link](https://github.com/alpha-vllm/lumina-t2x)**|
+|**2024-05-09**|**On the Effect of Geometry on Scaling Laws for a Class of Martensitic Phase Transformations**|Janusz Ginster et.al.|[2405.05927v1](http://arxiv.org/abs/2405.05927v1)|null|
+|**2024-05-09**|**ExACT: An End-to-End Autonomous Excavator System Using Action Chunking With Transformers**|Liangliang Chen et.al.|[2405.05861v1](http://arxiv.org/abs/2405.05861v1)|null|
+|**2024-05-09**|**Learned feature representations are biased by complexity, learning order, position, and more**|Andrew Kyle Lampinen et.al.|[2405.05847v1](http://arxiv.org/abs/2405.05847v1)|null|
+|**2024-05-09**|**Parallel Cross Strip Attention Network for Single Image Dehazing**|Lihan Tong et.al.|[2405.05811v1](http://arxiv.org/abs/2405.05811v1)|null|
+|**2024-05-09**|**A Sagittarius-like simulated dwarf spheroidal galaxy from TNG50**|Ewa L. Lokas et.al.|[2405.05805v1](http://arxiv.org/abs/2405.05805v1)|null|
+|**2024-05-09**|**Deploying Graph Neural Networks in Wireless Networks: A Link Stability Viewpoint**|Jun Li et.al.|[2405.05802v1](http://arxiv.org/abs/2405.05802v1)|null|
+|**2024-05-09**|**A Robust eLORETA Technique for Localization of Brain Sources in the Presence of Forward Model Uncertainties**|A. Noroozi et.al.|[2405.05790v1](http://arxiv.org/abs/2405.05790v1)|null|
+|**2024-05-09**|**Monoidal bicategories, differential linear logic, and analytic functors**|M. Fiore et.al.|[2405.05774v1](http://arxiv.org/abs/2405.05774v1)|null|
+|**2024-05-09**|**On the mixing between flavor singlets in lattice gauge theories coupled to matter fields in multiple representations**|Ed Bennett et.al.|[2405.05765v1](http://arxiv.org/abs/2405.05765v1)|null|
+|**2024-05-09**|**Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media**|Zhizhen Zhang et.al.|[2405.05760v1](http://arxiv.org/abs/2405.05760v1)|null|
+|**2024-05-09**|**A Multi-Level Superoptimizer for Tensor Programs**|Mengdi Wu et.al.|[2405.05751v1](http://arxiv.org/abs/2405.05751v1)|**[link](https://github.com/mirage-project/mirage)**|
+|**2024-05-09**|**NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749v1](http://arxiv.org/abs/2405.05749v1)|null|
+|**2024-05-09**|**TransAnaNet: Transformer-based Anatomy Change Prediction Network for Head and Neck Cancer Patient Radiotherapy**|Meixu Chen et.al.|[2405.05674v1](http://arxiv.org/abs/2405.05674v1)|null|
+|**2024-05-09**|**VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis**|Zhihan Ju et.al.|[2405.05667v1](http://arxiv.org/abs/2405.05667v1)|null|
+|**2024-05-09**|**Supercomputers as a Continous Medium**|Martin Karp et.al.|[2405.05639v1](http://arxiv.org/abs/2405.05639v1)|null|
+|**2024-05-09**|**Electromagnetic observables of open-shell nuclei from coupled-cluster theory**|Francesca Bonaiti et.al.|[2405.05608v1](http://arxiv.org/abs/2405.05608v1)|null|
+|**2024-05-09**|**Twisting factors and fixed-time models in quantum field theory**|Ezio Vasselli et.al.|[2405.05603v1](http://arxiv.org/abs/2405.05603v1)|null|
+|**2024-05-09**|**A Survey on Backbones for Deep Video Action Recognition**|Zixuan Tang et.al.|[2405.05584v1](http://arxiv.org/abs/2405.05584v1)|null|
+|**2024-05-09**|**Vision-Language Modeling with Regularized Spatial Transformer Networks for All Weather Crosswind Landing of Aircraft**|Debabrata Pal et.al.|[2405.05574v1](http://arxiv.org/abs/2405.05574v1)|null|
+|**2024-05-09**|**Extension of graph-accelerated non-intrusive polynomial chaos to high-dimensional uncertainty quantification through the active subspace method**|Bingran Wang et.al.|[2405.05556v1](http://arxiv.org/abs/2405.05556v1)|null|
+|**2024-05-09**|**Towards Robust Physical-world Backdoor Attacks on Lane Detection**|Xinwei Zhang et.al.|[2405.05553v1](http://arxiv.org/abs/2405.05553v1)|null|
+|**2024-05-09**|**Bidirectional Progressive Transformer for Interaction Intention Anticipation**|Zichen Zhang et.al.|[2405.05552v1](http://arxiv.org/abs/2405.05552v1)|null|
+|**2024-05-09**|**Generative Model for Joint Resource Management in Multi-Cell Multi-Carrier NOMA Networks**|Elhadj Moustapha Diallo et.al.|[2405.05531v1](http://arxiv.org/abs/2405.05531v1)|null|
+|**2024-05-09**|**Ditto: Quantization-aware Secure Inference of Transformers upon MPC**|Haoqi Wu et.al.|[2405.05525v1](http://arxiv.org/abs/2405.05525v1)|null|
+|**2024-05-09**|**Universal Adversarial Perturbations for Vision-Language Pre-trained Models**|Peng-Fei Zhang et.al.|[2405.05524v1](http://arxiv.org/abs/2405.05524v1)|null|
+|**2024-05-09**|**Automatic question generation for propositional logical equivalences**|Yicheng Yang et.al.|[2405.05513v1](http://arxiv.org/abs/2405.05513v1)|null|
+|**2024-05-09**|**Locally Scale Invariant Chern-Simons Actions in 3+1 Dimensions and Their Emergence From 4+2 Dimensional 2T-Physics**|Itzhak Bars et.al.|[2405.05510v1](http://arxiv.org/abs/2405.05510v1)|null|
+|**2024-05-09**|**Transformer neural networks for closed-loop adaptive optics using non-modulated pyramid wavefront sensors**|Camilo Weinberger et.al.|[2405.05472v1](http://arxiv.org/abs/2405.05472v1)|null|
+|**2024-05-09**|**PLLM-CS: Pre-trained Large Language Model (LLM) for Cyber Threat Detection in Satellite Networks**|Mohammed Hassanin et.al.|[2405.05469v1](http://arxiv.org/abs/2405.05469v1)|null|
+|**2024-05-08**|**Cross-Modality Translation with Generative Adversarial Networks to Unveil Alzheimer's Disease Biomarkers**|Reihaneh Hassanzadeh et.al.|[2405.05462v1](http://arxiv.org/abs/2405.05462v1)|null|
+|**2024-05-08**|**Towards Invariant Time Series Forecasting in Smart Cities**|Ziyi Zhang et.al.|[2405.05430v1](http://arxiv.org/abs/2405.05430v1)|null|
+|**2024-05-08**|**How Inverse Conditional Flows Can Serve as a Substitute for Distributional Regression**|Lucas Kook et.al.|[2405.05429v1](http://arxiv.org/abs/2405.05429v1)|null|
+|**2024-05-08**|**Digital Evolution: Novo Nordisk's Shift to Ontology-Based Data Management**|Shawn Zheng Kai Tan et.al.|[2405.05413v1](http://arxiv.org/abs/2405.05413v1)|null|
+|**2024-05-08**|**The Douglas question on the Bergman and Fock spaces**|Jian-hua Chen et.al.|[2405.05412v1](http://arxiv.org/abs/2405.05412v1)|null|
+|**2024-05-08**|**Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing**|Zhongwang Zhang et.al.|[2405.05409v1](http://arxiv.org/abs/2405.05409v1)|null|
+|**2024-05-08**|**A fast and accurate inferential method for complex parametric models: the implicit bootstrap**|Samuel Orso et.al.|[2405.05403v1](http://arxiv.org/abs/2405.05403v1)|null|
+|**2024-05-08**|**From Young Massive Clusters to Old Globular Clusters: Density Profile Evolution and IMBH Formation**|Kuldeep Sharma et.al.|[2405.05397v1](http://arxiv.org/abs/2405.05397v1)|null|
+|**2024-05-08**|**Do spiral arms enhance star formation efficiency?**|Miguel Querejeta et.al.|[2405.05364v1](http://arxiv.org/abs/2405.05364v1)|null|
+|**2024-05-08**|**Proceedings Virtual Imaging Trials in Medicine 2024**|Ehsan Abadi et.al.|[2405.05359v1](http://arxiv.org/abs/2405.05359v1)|null|
+|**2024-05-08**|**A comprehensive Cartesian to geodetic coordinate transformation reference listing**|John-Olof Nilsson et.al.|[2405.05352v1](http://arxiv.org/abs/2405.05352v1)|null|
+|**2024-05-08**|**Quantum Phases and Transitions in Spin Chains with Non-Invertible Symmetries**|Arkya Chatterjee et.al.|[2405.05331v1](http://arxiv.org/abs/2405.05331v1)|null|
+|**2024-05-08**|**Hyperfine Structure Investigation of Singly Ionized Thulium in FT Spectra**|T. Y. Kebapci et.al.|[2405.05309v1](http://arxiv.org/abs/2405.05309v1)|null|
 |**2024-05-09**|**You Only Cache Once: Decoder-Decoder Architectures for Language Models**|Yutao Sun et.al.|[2405.05254v2](http://arxiv.org/abs/2405.05254v2)|null|
 |**2024-05-08**|**Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers**|Jiuxiang Gu et.al.|[2405.05219v1](http://arxiv.org/abs/2405.05219v1)|null|
 |**2024-05-08**|**MOTLEE: Collaborative Multi-Object Tracking Using Temporal Consistency for Neighboring Robot Frame Alignment**|Mason B. Peterson et.al.|[2405.05210v1](http://arxiv.org/abs/2405.05210v1)|null|
