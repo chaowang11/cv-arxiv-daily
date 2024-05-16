@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**Perception- and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment**|Xinying Lin et.al.|[2405.09472v1](http://arxiv.org/abs/2405.09472v1)|null|
+|**2024-05-15**|**Low-Complexity Joint Azimuth-Range-Velocity Estimation for Integrated Sensing and Communication with OFDM Waveform**|Jun Zhang et.al.|[2405.09443v1](http://arxiv.org/abs/2405.09443v1)|null|
+|**2024-05-15**|**Large coordinate kernel attention network for lightweight image super-resolution**|Fangwei Hao et.al.|[2405.09353v1](http://arxiv.org/abs/2405.09353v1)|null|
 |**2024-05-14**|**NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution**|Yihong Chen et.al.|[2405.08423v1](http://arxiv.org/abs/2405.08423v1)|null|
 |**2024-05-13**|**Exploring the Low-Pass Filtering Behavior in Image Super-Resolution**|Haoyu Deng et.al.|[2405.07919v1](http://arxiv.org/abs/2405.07919v1)|null|
 |**2024-05-13**|**CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2405.07648v1](http://arxiv.org/abs/2405.07648v1)|**[link](https://github.com/i2-multimedia-lab/cdformer)**|
@@ -1052,6 +1055,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**Perception- and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment**|Xinying Lin et.al.|[2405.09472v1](http://arxiv.org/abs/2405.09472v1)|null|
+|**2024-05-15**|**Large coordinate kernel attention network for lightweight image super-resolution**|Fangwei Hao et.al.|[2405.09353v1](http://arxiv.org/abs/2405.09353v1)|null|
 |**2024-05-14**|**NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution**|Yihong Chen et.al.|[2405.08423v1](http://arxiv.org/abs/2405.08423v1)|null|
 |**2024-05-13**|**Exploring the Low-Pass Filtering Behavior in Image Super-Resolution**|Haoyu Deng et.al.|[2405.07919v1](http://arxiv.org/abs/2405.07919v1)|null|
 |**2024-05-13**|**CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2405.07648v1](http://arxiv.org/abs/2405.07648v1)|**[link](https://github.com/i2-multimedia-lab/cdformer)**|
@@ -1593,6 +1598,48 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**Note on the Taub-NUT Instanton Metric**|Joon-Hwi Kim et.al.|[2405.09518v1](http://arxiv.org/abs/2405.09518v1)|null|
+|**2024-05-15**|**Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming**|Bushi Xiao et.al.|[2405.09508v1](http://arxiv.org/abs/2405.09508v1)|null|
+|**2024-05-15**|**QueryNER: Segmentation of E-commerce Queries**|Chester Palen-Michel et.al.|[2405.09507v1](http://arxiv.org/abs/2405.09507v1)|null|
+|**2024-05-15**|**Color Space Learning for Cross-Color Person Re-Identification**|Jiahao Nie et.al.|[2405.09487v1](http://arxiv.org/abs/2405.09487v1)|**[link](https://github.com/niejiahao1998/csl)**|
+|**2024-05-15**|**Perception- and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment**|Xinying Lin et.al.|[2405.09472v1](http://arxiv.org/abs/2405.09472v1)|null|
+|**2024-05-15**|**Kuramoto Oscillators and Swarms on Manifolds for Geometry Informed Machine Learning**|Vladimir Jacimovic et.al.|[2405.09453v1](http://arxiv.org/abs/2405.09453v1)|null|
+|**2024-05-15**|**Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images**|Memoona Aziz et.al.|[2405.09426v1](http://arxiv.org/abs/2405.09426v1)|null|
+|**2024-05-15**|**Was there a Big Bang?**|D. E. Afanasev et.al.|[2405.09422v1](http://arxiv.org/abs/2405.09422v1)|null|
+|**2024-05-15**|**Three Dimensional Spatial Cognition: Bees and Bats**|Robert Worden et.al.|[2405.09413v1](http://arxiv.org/abs/2405.09413v1)|null|
+|**2024-05-15**|**Time-Equivariant Contrastive Learning for Degenerative Disease Progression in Retinal OCT**|Taha Emre et.al.|[2405.09404v1](http://arxiv.org/abs/2405.09404v1)|null|
+|**2024-05-15**|**Boundedness of metaplectic operators within  $L^p$  spaces, applications to pseudodifferential calculus, and time-frequency representations**|Gianluca Giacchi et.al.|[2405.09378v1](http://arxiv.org/abs/2405.09378v1)|null|
+|**2024-05-15**|**Analysis of the Geometric Structure of Neural Networks and Neural ODEs via Morse Functions**|Christian Kuehn et.al.|[2405.09351v1](http://arxiv.org/abs/2405.09351v1)|null|
+|**2024-05-15**|**On the Virasoro fusion and modular kernels at any irrational central charge**|Julien Roussillon et.al.|[2405.09325v1](http://arxiv.org/abs/2405.09325v1)|null|
+|**2024-05-15**|**Vortex-comb spectroscopy**|Santeri Larnimaa et.al.|[2405.09313v1](http://arxiv.org/abs/2405.09313v1)|null|
+|**2024-05-15**|**Sensitivity Decouple Learning for Image Compression Artifacts Reduction**|Li Ma et.al.|[2405.09291v1](http://arxiv.org/abs/2405.09291v1)|null|
+|**2024-05-15**|**Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning**|Junfeng Chen et.al.|[2405.09285v1](http://arxiv.org/abs/2405.09285v1)|null|
+|**2024-05-15**|**Bounds and Approximations for the Distribution of a Sum of Lognormal Random Variables**|Fredrik Berggren et.al.|[2405.09283v1](http://arxiv.org/abs/2405.09283v1)|null|
+|**2024-05-15**|**Using an Evolutionary Algorithm to Create (MAX)-3SAT QUBOs**|Sebastian Zielinski et.al.|[2405.09272v1](http://arxiv.org/abs/2405.09272v1)|null|
+|**2024-05-15**|**Quantum Computing Education for Computer Science Students: Bridging the Gap with Layered Learning and Intuitive Analogies**|Anila Mjeda et.al.|[2405.09265v1](http://arxiv.org/abs/2405.09265v1)|null|
+|**2024-05-15**|**ALPINE: Unveiling the Planning Capability of Autoregressive Learning in Language Models**|Siwei Wang et.al.|[2405.09220v1](http://arxiv.org/abs/2405.09220v1)|null|
+|**2024-05-15**|**Monge-Ampere Geometry and the Eady Problem**|Roberto D'Onofrio et.al.|[2405.09218v1](http://arxiv.org/abs/2405.09218v1)|null|
+|**2024-05-15**|**QMedShield: A Novel Quantum Chaos-based Image Encryption Scheme for Secure Medical Image Storage in the Cloud**|Arun Amaithi Rajan et.al.|[2405.09191v1](http://arxiv.org/abs/2405.09191v1)|null|
+|**2024-05-15**|**Rapidly Achieving Chemical Accuracy with Quantum Computing Enforced Language Model**|Honghui Shang et.al.|[2405.09164v1](http://arxiv.org/abs/2405.09164v1)|null|
+|**2024-05-15**|**Exploring the Potential of Large Language Models for Automation in Technical Customer Service**|Jochen Wulf et.al.|[2405.09161v1](http://arxiv.org/abs/2405.09161v1)|null|
+|**2024-05-15**|**Adapting Abstract Meaning Representation Parsing to the Clinical Narrative -- the SPRING THYME parser**|Jon Z. Cai et.al.|[2405.09153v1](http://arxiv.org/abs/2405.09153v1)|null|
+|**2024-05-15**|**Virtual melting and cyclic transformations between amorphous Si, Si I, and Si IV in a shear band**|Hao Chen et.al.|[2405.09105v1](http://arxiv.org/abs/2405.09105v1)|null|
+|**2024-05-15**|**RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing**|Jiamei Xiong et.al.|[2405.09083v1](http://arxiv.org/abs/2405.09083v1)|**[link](https://github.com/jm-xiong/rshazediff)**|
+|**2024-05-15**|**Improving Transformers using Faithful Positional Encoding**|Tsuyoshi Idé et.al.|[2405.09061v1](http://arxiv.org/abs/2405.09061v1)|null|
+|**2024-05-15**|**Dim Small Target Detection and Tracking: A Novel Method Based on Temporal Energy Selective Scaling and Trajectory Association**|Weihua Gao et.al.|[2405.09054v1](http://arxiv.org/abs/2405.09054v1)|null|
+|**2024-05-15**|**Beam Shaping Based on Axisymmetric Aspheric Mirrors**|Zhihao Chen et.al.|[2405.09048v1](http://arxiv.org/abs/2405.09048v1)|null|
+|**2024-05-15**|**Construction of special Lagrangian submanifolds of the Taub-NUT manifold and the Atiyah-Hitchin manifold**|Masato Arai et.al.|[2405.09036v1](http://arxiv.org/abs/2405.09036v1)|null|
+|**2024-05-15**|**On Low Field Size Constructions of Access-Optimal Convertible Codes**|Saransh Chopra et.al.|[2405.09010v1](http://arxiv.org/abs/2405.09010v1)|null|
+|**2024-05-15**|**Discrete Gauge Anomalies and Instantons**|Qiang Jia et.al.|[2405.09007v1](http://arxiv.org/abs/2405.09007v1)|null|
+|**2024-05-14**|**2D Nitride Ordered Alloys: A Novel Class of Ultra-Wide Bandgap Semiconductors**|Raagya Arora et.al.|[2405.08966v1](http://arxiv.org/abs/2405.08966v1)|null|
+|**2024-05-14**|**LLMs are Meaning-Typed Code Constructs**|Jason Mars et.al.|[2405.08965v1](http://arxiv.org/abs/2405.08965v1)|null|
+|**2024-05-14**|**Challenges in Deploying Long-Context Transformers: A Theoretical Peak Performance Analysis**|Yao Fu et.al.|[2405.08944v1](http://arxiv.org/abs/2405.08944v1)|null|
+|**2024-05-14**|**Dynamical systems and complex networks: A Koopman operator perspective**|Stefan Klus et.al.|[2405.08940v1](http://arxiv.org/abs/2405.08940v1)|null|
+|**2024-05-14**|**Size and Shape Dependence of Hydrogen-Induced Phase Transformation and Sorption Hysteresis in Palladium Nanoparticles**|Xingsheng Sun et.al.|[2405.08929v1](http://arxiv.org/abs/2405.08929v1)|null|
+|**2024-05-14**|**Neural Collapse Meets Differential Privacy: Curious Behaviors of NoisyGD with Near-perfect Representation Learning**|Chendi Wang et.al.|[2405.08920v1](http://arxiv.org/abs/2405.08920v1)|null|
+|**2024-05-14**|**Finite-size catalysis in quantum resource theories**|Patryk Lipka-Bartosik et.al.|[2405.08914v1](http://arxiv.org/abs/2405.08914v1)|null|
+|**2024-05-14**|**Language-Guided Self-Supervised Video Summarization Using Text Semantic Matching Considering the Diversity of the Video**|Tomoya Sugihara et.al.|[2405.08890v1](http://arxiv.org/abs/2405.08890v1)|null|
+|**2024-05-14**|**Chiral properties of the nucleon interpolating current and  $θ$ -dependent observables**|Yohei Ema et.al.|[2405.08856v1](http://arxiv.org/abs/2405.08856v1)|null|
 |**2024-05-14**|**Performance of wave function and Green's functions based methods for non equilibrium many-body dynamics**|Cian C. Reeves et.al.|[2405.08814v1](http://arxiv.org/abs/2405.08814v1)|null|
 |**2024-05-14**|**Estimation of Participation Factors for Power System Oscillation from Measurements**|Tianwei Xia et.al.|[2405.08800v1](http://arxiv.org/abs/2405.08800v1)|null|
 |**2024-05-14**|**Uniqueness and  $(\infty,2)$ -Naturality of Yoneda**|Shay Ben-Moshe et.al.|[2405.08799v1](http://arxiv.org/abs/2405.08799v1)|null|
@@ -17946,6 +17993,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**SOEDiff: Efficient Distillation for Small Object Editing**|Qihe Pan et.al.|[2405.09114v1](http://arxiv.org/abs/2405.09114v1)|null|
 |**2024-05-11**|**Unsupervised Density Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2405.07047v1](http://arxiv.org/abs/2405.07047v1)|null|
 |**2024-04-29**|**Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting**|Tianyidan Xie et.al.|[2404.18598v1](http://arxiv.org/abs/2404.18598v1)|null|
 |**2024-04-28**|**SafePaint: Anti-forensic Image Inpainting with Domain Adaptation**|Dunyun Chen et.al.|[2404.18136v1](http://arxiv.org/abs/2404.18136v1)|null|
