@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Bilateral Event Mining and Complementary for Event Stream Super-Resolution**|Zhilin Huang et.al.|[2405.10037v1](http://arxiv.org/abs/2405.10037v1)|**[link](https://github.com/lqm26/bmcnet-esr)**|
+|**2024-05-16**|**Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution**|Xingjian Wang et.al.|[2405.10014v1](http://arxiv.org/abs/2405.10014v1)|null|
+|**2024-05-16**|**IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model**|Yongsong Huang et.al.|[2405.09873v1](http://arxiv.org/abs/2405.09873v1)|**[link](https://github.com/yongsongh/irsrmamba)**|
 |**2024-05-15**|**Perception- and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment**|Xinying Lin et.al.|[2405.09472v1](http://arxiv.org/abs/2405.09472v1)|null|
 |**2024-05-15**|**Low-Complexity Joint Azimuth-Range-Velocity Estimation for Integrated Sensing and Communication with OFDM Waveform**|Jun Zhang et.al.|[2405.09443v1](http://arxiv.org/abs/2405.09443v1)|null|
 |**2024-05-15**|**Large coordinate kernel attention network for lightweight image super-resolution**|Fangwei Hao et.al.|[2405.09353v1](http://arxiv.org/abs/2405.09353v1)|null|
@@ -1055,6 +1058,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution**|Xingjian Wang et.al.|[2405.10014v1](http://arxiv.org/abs/2405.10014v1)|null|
+|**2024-05-16**|**IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model**|Yongsong Huang et.al.|[2405.09873v1](http://arxiv.org/abs/2405.09873v1)|**[link](https://github.com/yongsongh/irsrmamba)**|
 |**2024-05-15**|**Perception- and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment**|Xinying Lin et.al.|[2405.09472v1](http://arxiv.org/abs/2405.09472v1)|null|
 |**2024-05-15**|**Large coordinate kernel attention network for lightweight image super-resolution**|Fangwei Hao et.al.|[2405.09353v1](http://arxiv.org/abs/2405.09353v1)|null|
 |**2024-05-14**|**NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution**|Yihong Chen et.al.|[2405.08423v1](http://arxiv.org/abs/2405.08423v1)|null|
@@ -1598,6 +1603,46 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Efficient Implementation of an Abstract Domain of Quantified First-Order Formulas**|Eden Frenkel et.al.|[2405.10308v1](http://arxiv.org/abs/2405.10308v1)|null|
+|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305v1](http://arxiv.org/abs/2405.10305v1)|**[link](https://github.com/Jingkang50/OpenPSG)**|
+|**2024-05-16**|**Optimal Aggregation of Prediction Intervals under Unsupervised Domain Shift**|Jiawei Ge et.al.|[2405.10302v1](http://arxiv.org/abs/2405.10302v1)|null|
+|**2024-05-16**|**Quantum Vision Transformers for Quark-Gluon Classification**|Marçal Comajoan Cara et.al.|[2405.10284v1](http://arxiv.org/abs/2405.10284v1)|null|
+|**2024-05-16**|**A Tale of Two Languages: Large-Vocabulary Continuous Sign Language Recognition from Spoken Language Supervision**|Charles Raude et.al.|[2405.10266v1](http://arxiv.org/abs/2405.10266v1)|null|
+|**2024-05-16**|**Architectures and random properties of symplectic quantum circuits**|Diego García-Martín et.al.|[2405.10264v1](http://arxiv.org/abs/2405.10264v1)|null|
+|**2024-05-16**|**On Partially Unitary Learning**|Mikhail Gennadievich Belov et.al.|[2405.10263v1](http://arxiv.org/abs/2405.10263v1)|null|
+|**2024-05-16**|**A systematic path to non-Markovian dynamics II: Probabilistic response of nonlinear multidimensional systems to Gaussian colored noise excitation**|Gerassimos A. Athanassoulis et.al.|[2405.10236v1](http://arxiv.org/abs/2405.10236v1)|null|
+|**2024-05-16**|**GPT Store Mining and Analysis**|Dongxun Su et.al.|[2405.10210v1](http://arxiv.org/abs/2405.10210v1)|null|
+|**2024-05-16**|**The Lamperti transformation in the infinite-dimensional setting and the genealogies of self-similar Markov processes**|Siri-Jégousse Arno et.al.|[2405.10193v1](http://arxiv.org/abs/2405.10193v1)|null|
+|**2024-05-16**|**Peering into the Wolf-Rayet phenomenon through [WO] and [WC] stars**|Jesús A. Toalá et.al.|[2405.10177v1](http://arxiv.org/abs/2405.10177v1)|null|
+|**2024-05-16**|**SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**|Zhaoxu Li et.al.|[2405.10148v1](http://arxiv.org/abs/2405.10148v1)|null|
+|**2024-05-16**|**Generating Coherent Sequences of Visual Illustrations for Real-World Manual Tasks**|João Bordalo et.al.|[2405.10122v1](http://arxiv.org/abs/2405.10122v1)|null|
+|**2024-05-16**|**Distilling Implicit Multimodal Knowledge into LLMs for Zero-Resource Dialogue Generation**|Bo Zhang et.al.|[2405.10121v1](http://arxiv.org/abs/2405.10121v1)|null|
+|**2024-05-16**|**On the coupled Maxwell-Bloch system of equations with non-decaying fields at infinity**|Sitai Li et.al.|[2405.10117v1](http://arxiv.org/abs/2405.10117v1)|null|
+|**2024-05-16**|**LaT-PFN: A Joint Embedding Predictive Architecture for In-context Time-series Forecasting**|Stijn Verdenius et.al.|[2405.10093v1](http://arxiv.org/abs/2405.10093v1)|null|
+|**2024-05-16**|**Formation of superconducting pair correlations in spherical even-even nuclei**|V. A. Kuz'min et.al.|[2405.10090v1](http://arxiv.org/abs/2405.10090v1)|null|
+|**2024-05-16**|**Simplicial lists in operad theory I**|Redi Haderi et.al.|[2405.10072v1](http://arxiv.org/abs/2405.10072v1)|null|
+|**2024-05-16**|**SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**|Mingxuan Liu et.al.|[2405.10053v1](http://arxiv.org/abs/2405.10053v1)|null|
+|**2024-05-16**|**RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing**|Huiling Zhou et.al.|[2405.10030v1](http://arxiv.org/abs/2405.10030v1)|null|
+|**2024-05-16**|**Histopathology Foundation Models Enable Accurate Ovarian Cancer Subtype Classification**|Jack Breen et.al.|[2405.09990v1](http://arxiv.org/abs/2405.09990v1)|**[link](https://github.com/scjjb/ovarian_features)**|
+|**2024-05-16**|**The bosonic string spectrum and the explicit states up to level  $10$  from the lightcone and the chaotic behavior of certain string amplitudes**|Igor Pesando et.al.|[2405.09987v1](http://arxiv.org/abs/2405.09987v1)|null|
+|**2024-05-16**|**Harmonic and Interharmonic Detection in Power Systems Based on Fractal-Optimized Variational Mode Decomposition**|Pei Yuhang et.al.|[2405.09979v1](http://arxiv.org/abs/2405.09979v1)|null|
+|**2024-05-16**|**Language-Oriented Semantic Latent Representation for Image Transmission**|Giordano Cicchetti et.al.|[2405.09976v1](http://arxiv.org/abs/2405.09976v1)|**[link](https://github.com/ispamm/img2img-sc)**|
+|**2024-05-16**|**Data-Assimilated Crystal Growth Simulation for Multiple Crystalline Phases**|Yuuki Kubo et.al.|[2405.09956v1](http://arxiv.org/abs/2405.09956v1)|null|
+|**2024-05-16**|**IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model**|Yongsong Huang et.al.|[2405.09873v1](http://arxiv.org/abs/2405.09873v1)|**[link](https://github.com/yongsongh/irsrmamba)**|
+|**2024-05-16**|**On the relevance of pre-neural approaches in natural language processing pedagogy**|Aditya Joshi et.al.|[2405.09854v1](http://arxiv.org/abs/2405.09854v1)|null|
+|**2024-05-16**|**Chiral symmetry breaking in the pseudo-quantum electrodynamics with non-Abelian four-fermion interactions**|Qiao Yang et.al.|[2405.09853v1](http://arxiv.org/abs/2405.09853v1)|null|
+|**2024-05-16**|**Lagrangian Covector Fluid with Free Surface**|Zhiqi Li et.al.|[2405.09801v1](http://arxiv.org/abs/2405.09801v1)|null|
+|**2024-05-16**|**LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation**|Wentao Jiang et.al.|[2405.09789v1](http://arxiv.org/abs/2405.09789v1)|**[link](https://github.com/vitae-transformer/lemevit)**|
+|**2024-05-16**|**Synthesizing Proteins on the Graphics Card. Protein Folding and the Limits of Critical AI Studies**|Fabian Offert et.al.|[2405.09788v1](http://arxiv.org/abs/2405.09788v1)|null|
+|**2024-05-16**|**Fermionic Non-Invertible Symmetries in (1+1)d: Gapped and Gapless Phases, Transitions, and Symmetry TFTs**|Lakshya Bhardwaj et.al.|[2405.09754v1](http://arxiv.org/abs/2405.09754v1)|null|
+|**2024-05-16**|**Attention is All You Want: Machinic Gaze and the Anthropocene**|Liam Magee et.al.|[2405.09734v1](http://arxiv.org/abs/2405.09734v1)|null|
+|**2024-05-15**|**Optimizing Curved EM Skins for Opportunistic Relaying in Vehicular Networks**|Reza Aghazadeh Ayoubi et.al.|[2405.09730v1](http://arxiv.org/abs/2405.09730v1)|null|
+|**2024-05-15**|**Canonical transformations applied to the non-free Landau electron**|Jorge A. Lizarraga et.al.|[2405.09706v1](http://arxiv.org/abs/2405.09706v1)|null|
+|**2024-05-15**|**Scaling Symmetry Reductions of Coupled KdV Systems**|Allan P Fordy et.al.|[2405.09694v1](http://arxiv.org/abs/2405.09694v1)|null|
+|**2024-05-15**|**Fermionic and bosonic partition functions at imaginary chemical potential as Bloch functions**|Evangelos G. Filothodoros et.al.|[2405.09686v1](http://arxiv.org/abs/2405.09686v1)|null|
+|**2024-05-15**|**Challenges and opportunities for digital twins in precision medicine: a complex systems perspective**|Manlio De Domenico et.al.|[2405.09649v1](http://arxiv.org/abs/2405.09649v1)|null|
+|**2024-05-15**|**CaloDREAM  $\unicode{x2013}$  Detector Response Emulation via Attentive flow Matching**|Luigi Favaro et.al.|[2405.09629v1](http://arxiv.org/abs/2405.09629v1)|null|
+|**2024-05-15**|**Fully Automated OCT-based Tissue Screening System**|Shaohua Pi et.al.|[2405.09601v1](http://arxiv.org/abs/2405.09601v1)|null|
 |**2024-05-15**|**Note on the Taub-NUT Instanton Metric**|Joon-Hwi Kim et.al.|[2405.09518v1](http://arxiv.org/abs/2405.09518v1)|null|
 |**2024-05-15**|**Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming**|Bushi Xiao et.al.|[2405.09508v1](http://arxiv.org/abs/2405.09508v1)|null|
 |**2024-05-15**|**QueryNER: Segmentation of E-commerce Queries**|Chester Palen-Michel et.al.|[2405.09507v1](http://arxiv.org/abs/2405.09507v1)|null|
@@ -17993,6 +18038,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model**|Zheng Gu et.al.|[2405.10316v1](http://arxiv.org/abs/2405.10316v1)|null|
 |**2024-05-15**|**SOEDiff: Efficient Distillation for Small Object Editing**|Qihe Pan et.al.|[2405.09114v1](http://arxiv.org/abs/2405.09114v1)|null|
 |**2024-05-11**|**Unsupervised Density Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2405.07047v1](http://arxiv.org/abs/2405.07047v1)|null|
 |**2024-04-29**|**Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting**|Tianyidan Xie et.al.|[2404.18598v1](http://arxiv.org/abs/2404.18598v1)|null|
