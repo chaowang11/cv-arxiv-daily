@@ -1604,7 +1604,7 @@
 |**2024-05-15**|**Color Space Learning for Cross-Color Person Re-Identification**|Jiahao Nie et.al.|[2405.09487v1](http://arxiv.org/abs/2405.09487v1)|**[link](https://github.com/niejiahao1998/csl)**|
 |**2024-05-15**|**Perception- and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment**|Xinying Lin et.al.|[2405.09472v1](http://arxiv.org/abs/2405.09472v1)|null|
 |**2024-05-15**|**Kuramoto Oscillators and Swarms on Manifolds for Geometry Informed Machine Learning**|Vladimir Jacimovic et.al.|[2405.09453v1](http://arxiv.org/abs/2405.09453v1)|null|
-|**2024-05-15**|**Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images**|Memoona Aziz et.al.|[2405.09426v1](http://arxiv.org/abs/2405.09426v1)|null|
+|**2024-05-16**|**Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images**|Memoona Aziz et.al.|[2405.09426v2](http://arxiv.org/abs/2405.09426v2)|null|
 |**2024-05-15**|**Was there a Big Bang?**|D. E. Afanasev et.al.|[2405.09422v1](http://arxiv.org/abs/2405.09422v1)|null|
 |**2024-05-15**|**Three Dimensional Spatial Cognition: Bees and Bats**|Robert Worden et.al.|[2405.09413v1](http://arxiv.org/abs/2405.09413v1)|null|
 |**2024-05-15**|**Time-Equivariant Contrastive Learning for Degenerative Disease Progression in Retinal OCT**|Taha Emre et.al.|[2405.09404v1](http://arxiv.org/abs/2405.09404v1)|null|
