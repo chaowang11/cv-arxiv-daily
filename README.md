@@ -35,7 +35,7 @@
 |**2024-05-15**|**Low-Complexity Joint Azimuth-Range-Velocity Estimation for Integrated Sensing and Communication with OFDM Waveform**|Jun Zhang et.al.|[2405.09443v1](http://arxiv.org/abs/2405.09443v1)|null|
 |**2024-05-15**|**Large coordinate kernel attention network for lightweight image super-resolution**|Fangwei Hao et.al.|[2405.09353v1](http://arxiv.org/abs/2405.09353v1)|null|
 |**2024-05-14**|**NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution**|Yihong Chen et.al.|[2405.08423v1](http://arxiv.org/abs/2405.08423v1)|null|
-|**2024-05-17**|**Exploring the Low-Pass Filtering Behavior in Image Super-Resolution**|Haoyu Deng et.al.|[2405.07919v2](http://arxiv.org/abs/2405.07919v2)|null|
+|**2024-05-23**|**Exploring the Low-Pass Filtering Behavior in Image Super-Resolution**|Haoyu Deng et.al.|[2405.07919v3](http://arxiv.org/abs/2405.07919v3)|null|
 |**2024-05-13**|**CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2405.07648v1](http://arxiv.org/abs/2405.07648v1)|**[link](https://github.com/i2-multimedia-lab/cdformer)**|
 |**2024-05-11**|**Semantic Guided Large Scale Factor Remote Sensing Image Super-resolution with Generative Diffusion Prior**|Ce Wang et.al.|[2405.07044v1](http://arxiv.org/abs/2405.07044v1)|**[link](https://github.com/wwangcece/sgdm)**|
 |**2024-05-11**|**Efficient Real-world Image Super-Resolution Via Adaptive Directional Gradient Convolution**|Long Peng et.al.|[2405.07023v1](http://arxiv.org/abs/2405.07023v1)|null|
@@ -1069,7 +1069,7 @@
 |**2024-05-15**|**Perception- and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment**|Xinying Lin et.al.|[2405.09472v1](http://arxiv.org/abs/2405.09472v1)|null|
 |**2024-05-15**|**Large coordinate kernel attention network for lightweight image super-resolution**|Fangwei Hao et.al.|[2405.09353v1](http://arxiv.org/abs/2405.09353v1)|null|
 |**2024-05-14**|**NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution**|Yihong Chen et.al.|[2405.08423v1](http://arxiv.org/abs/2405.08423v1)|null|
-|**2024-05-17**|**Exploring the Low-Pass Filtering Behavior in Image Super-Resolution**|Haoyu Deng et.al.|[2405.07919v2](http://arxiv.org/abs/2405.07919v2)|null|
+|**2024-05-23**|**Exploring the Low-Pass Filtering Behavior in Image Super-Resolution**|Haoyu Deng et.al.|[2405.07919v3](http://arxiv.org/abs/2405.07919v3)|null|
 |**2024-05-13**|**CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2405.07648v1](http://arxiv.org/abs/2405.07648v1)|**[link](https://github.com/i2-multimedia-lab/cdformer)**|
 |**2024-05-11**|**Semantic Guided Large Scale Factor Remote Sensing Image Super-resolution with Generative Diffusion Prior**|Ce Wang et.al.|[2405.07044v1](http://arxiv.org/abs/2405.07044v1)|**[link](https://github.com/wwangcece/sgdm)**|
 |**2024-05-11**|**Efficient Real-world Image Super-Resolution Via Adaptive Directional Gradient Convolution**|Long Peng et.al.|[2405.07023v1](http://arxiv.org/abs/2405.07023v1)|null|
@@ -1620,7 +1620,7 @@
 |**2024-05-21**|**On a time-frequency blurring operator with applications in data augmentation**|Simon Halvdansson et.al.|[2405.12899v1](http://arxiv.org/abs/2405.12899v1)|null|
 |**2024-05-21**|**Equivariant Spatio-Temporal Attentive Graph Networks to Simulate Physical Dynamics**|Liming Wu et.al.|[2405.12868v1](http://arxiv.org/abs/2405.12868v1)|null|
 |**2024-05-21**|**A Survey of Deep Learning-based Radiology Report Generation Using Multimodal Data**|Xinyi Wang et.al.|[2405.12833v1](http://arxiv.org/abs/2405.12833v1)|null|
-|**2024-05-21**|**Open-Path Detection of Organic Vapors via Quantum Infrared Spectroscopy**|Simon Neves et.al.|[2405.12822v1](http://arxiv.org/abs/2405.12822v1)|null|
+|**2024-05-23**|**Open-Path Detection of Organic Vapors via Quantum Infrared Spectroscopy**|Simon Neves et.al.|[2405.12822v2](http://arxiv.org/abs/2405.12822v2)|null|
 |**2024-05-21**|**A Non-Parametric Box-Cox Approach to Robustifying High-Dimensional Linear Hypothesis Testing**|He Zhou et.al.|[2405.12816v1](http://arxiv.org/abs/2405.12816v1)|null|
 |**2024-05-21**|**Refined Graph Encoder Embedding via Self-Training and Latent Community Recovery**|Cencheng Shen et.al.|[2405.12797v1](http://arxiv.org/abs/2405.12797v1)|null|
 |**2024-05-21**|**Adaptive local boundary conditions to improve Deformable Image Registration**|Eloïse Inacio et.al.|[2405.12791v1](http://arxiv.org/abs/2405.12791v1)|null|
@@ -1632,7 +1632,7 @@
 |**2024-05-21**|**Parallel Algorithm for Optimal Threshold Labeling of Ordinal Regression Methods**|Ryoya Yamasaki et.al.|[2405.12756v1](http://arxiv.org/abs/2405.12756v1)|null|
 |**2024-05-21**|**The Laplace and Leray transforms on some (weakly) convex domains in  $\mathbb{C}^2$ **|Agniva Chatterjee et.al.|[2405.12753v1](http://arxiv.org/abs/2405.12753v1)|null|
 |**2024-05-21**|**From Today's Code to Tomorrow's Symphony: The AI Transformation of Developer's Routine by 2030**|Matteo Ciniselli et.al.|[2405.12731v1](http://arxiv.org/abs/2405.12731v1)|null|
-|**2024-05-21**|**A Masked Semi-Supervised Learning Approach for Otago Micro Labels Recognition**|Meng Shang et.al.|[2405.12711v1](http://arxiv.org/abs/2405.12711v1)|null|
+|**2024-05-22**|**A Masked Semi-Supervised Learning Approach for Otago Micro Labels Recognition**|Meng Shang et.al.|[2405.12711v2](http://arxiv.org/abs/2405.12711v2)|null|
 |**2024-05-21**|**Getting Wiser from Multiple Data: Probabilistic Updating according to Jeffrey and Pearl**|Bart Jacobs et.al.|[2405.12700v1](http://arxiv.org/abs/2405.12700v1)|null|
 |**2024-05-21**|**Model Free Prediction with Uncertainty Assessment**|Yuling Jiao et.al.|[2405.12684v1](http://arxiv.org/abs/2405.12684v1)|null|
 |**2024-05-21**|**A Multimodal Learning-based Approach for Autonomous Landing of UAV**|Francisco Neves et.al.|[2405.12681v1](http://arxiv.org/abs/2405.12681v1)|null|
