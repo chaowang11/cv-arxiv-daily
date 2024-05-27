@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Visible-frequency hyperbolic plasmon polaritons in a natural van der Waals crystal**|Giacomo Venturi et.al.|[2405.15420v1](http://arxiv.org/abs/2405.15420v1)|null|
+|**2024-05-24**|**Stochastic SR for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399v1](http://arxiv.org/abs/2405.15399v1)|null|
+|**2024-05-24**|**Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving**|Jia He et.al.|[2405.15241v1](http://arxiv.org/abs/2405.15241v1)|null|
+|**2024-05-23**|**Universal Robustness via Median Randomized Smoothing for Real-World Super-Resolution**|Zakariya Chaouai et.al.|[2405.14934v1](http://arxiv.org/abs/2405.14934v1)|null|
 |**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v2](http://arxiv.org/abs/2405.14802v2)|**[link](https://github.com/mirthai/fast-ddpm)**|
 |**2024-05-23**|**Stimulated Raman-induced Beam Focusing**|Minhaeng Cho et.al.|[2405.14240v1](http://arxiv.org/abs/2405.14240v1)|null|
 |**2024-05-22**|**Perceptual Fairness in Image Restoration**|Guy Ohayon et.al.|[2405.13805v1](http://arxiv.org/abs/2405.13805v1)|null|
@@ -1067,6 +1071,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Universal Robustness via Median Randomized Smoothing for Real-World Super-Resolution**|Zakariya Chaouai et.al.|[2405.14934v1](http://arxiv.org/abs/2405.14934v1)|null|
 |**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v2](http://arxiv.org/abs/2405.14802v2)|**[link](https://github.com/mirthai/fast-ddpm)**|
 |**2024-05-22**|**Perceptual Fairness in Image Restoration**|Guy Ohayon et.al.|[2405.13805v1](http://arxiv.org/abs/2405.13805v1)|null|
 |**2024-05-20**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561v2](http://arxiv.org/abs/2405.10561v2)|null|
@@ -1616,6 +1621,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**ETTrack: Enhanced Temporal Motion Predictor for Multi-Object Tracking**|Xudong Han et.al.|[2405.15755v1](http://arxiv.org/abs/2405.15755v1)|null|
+|**2024-05-24**|**Filtered Corpus Training (FiCT) Shows that Language Models can Generalize from Indirect Evidence**|Abhinav Patil et.al.|[2405.15750v1](http://arxiv.org/abs/2405.15750v1)|null|
+|**2024-05-24**|**ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**|Chunjiang Ge et.al.|[2405.15738v1](http://arxiv.org/abs/2405.15738v1)|**[link](https://github.com/alibaba/conv-llava)**|
+|**2024-05-24**|**Models That Prove Their Own Correctness**|Noga Amit et.al.|[2405.15722v1](http://arxiv.org/abs/2405.15722v1)|null|
+|**2024-05-24**|**Infinite Limits of Multi-head Transformer Dynamics**|Blake Bordelon et.al.|[2405.15712v1](http://arxiv.org/abs/2405.15712v1)|null|
+|**2024-05-24**|**Trackastra: Transformer-based cell tracking for live-cell microscopy**|Benjamin Gallusser et.al.|[2405.15700v1](http://arxiv.org/abs/2405.15700v1)|**[link](https://github.com/weigertlab/trackastra)**|
+|**2024-05-24**|**Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models**|Yongsheng Yu et.al.|[2405.15687v1](http://arxiv.org/abs/2405.15687v1)|null|
+|**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677v1](http://arxiv.org/abs/2405.15677v1)|null|
+|**2024-05-24**|**Spin-down of a pulsar with a yielding crust**|Denis Nikolaevich Sob'yanin et.al.|[2405.15659v1](http://arxiv.org/abs/2405.15659v1)|null|
+|**2024-05-24**|**Reducing the cost of posterior sampling in linear inverse problems via task-dependent score learning**|Fabian Schneider et.al.|[2405.15643v1](http://arxiv.org/abs/2405.15643v1)|null|
+|**2024-05-24**|**Less is more: Summarizing Patch Tokens for efficient Multi-Label Class-Incremental Learning**|Thomas De Min et.al.|[2405.15633v1](http://arxiv.org/abs/2405.15633v1)|**[link](https://github.com/tdemin16/multi-lane)**|
+|**2024-05-24**|**On the Existence of Generalized Breathers and Transition Fronts in Time-Periodic Nonlinear Lattices**|Christopher Chong et.al.|[2405.15621v1](http://arxiv.org/abs/2405.15621v1)|null|
+|**2024-05-24**|**Measures, modular forms, and summation formulas of Poisson type**|Claudia Alfes et.al.|[2405.15620v1](http://arxiv.org/abs/2405.15620v1)|null|
+|**2024-05-24**|**MLPs Learn In-Context**|William L. Tong et.al.|[2405.15618v1](http://arxiv.org/abs/2405.15618v1)|null|
+|**2024-05-24**|**On the Computational Landscape of Replicable Learning**|Alkis Kalavasis et.al.|[2405.15599v1](http://arxiv.org/abs/2405.15599v1)|null|
+|**2024-05-24**|**Eikonal amplitudes on the celestial sphere**|Tim Adamo et.al.|[2405.15594v1](http://arxiv.org/abs/2405.15594v1)|null|
+|**2024-05-24**|**Profiling checkpointing schedules in adjoint ST-AD**|Laurent Hascoët et.al.|[2405.15590v1](http://arxiv.org/abs/2405.15590v1)|null|
+|**2024-05-24**|**Modified 3D Massive Abelian 2-From Theory with a Single Pseudo-Scalar Field: BRST Approach**|S. K. Panja et.al.|[2405.15588v1](http://arxiv.org/abs/2405.15588v1)|null|
+|**2024-05-24**|**Uniform  $\mathcal{H}$ -matrix Compression with Applications to Boundary Integral Equations**|Kobe Bruyninckx et.al.|[2405.15573v1](http://arxiv.org/abs/2405.15573v1)|null|
+|**2024-05-24**|**Transformer-XL for Long Sequence Tasks in Robotic Learning from Demonstration**|Gao Tianci et.al.|[2405.15562v1](http://arxiv.org/abs/2405.15562v1)|null|
+|**2024-05-24**|**Bundle Neural Networks for message diffusion on graphs**|Jacob Bamberger et.al.|[2405.15540v1](http://arxiv.org/abs/2405.15540v1)|null|
+|**2024-05-24**|**Syngas conversion to higher alcohols via wood-framed Cu/Co-carbon catalyst**|Guihua Yan et.al.|[2405.15526v1](http://arxiv.org/abs/2405.15526v1)|null|
+|**2024-05-24**|**Time-Harmonic Optical Flow with Applications in Elastography**|Oleh Melnyk et.al.|[2405.15507v1](http://arxiv.org/abs/2405.15507v1)|null|
+|**2024-05-24**|**Learning to Discretize Denoising Diffusion ODEs**|Vinh Tong et.al.|[2405.15506v1](http://arxiv.org/abs/2405.15506v1)|null|
+|**2024-05-24**|**GSDeformer: Direct Cage-based Deformation for 3D Gaussian Splatting**|Jiajun Huang et.al.|[2405.15491v1](http://arxiv.org/abs/2405.15491v1)|null|
+|**2024-05-24**|**Fundamental limits of weak learnability in high-dimensional multi-index models**|Emanuele Troiani et.al.|[2405.15480v1](http://arxiv.org/abs/2405.15480v1)|null|
+|**2024-05-24**|**Encoder Embedding for General Graph and Node Classification**|Cencheng Shen et.al.|[2405.15473v1](http://arxiv.org/abs/2405.15473v1)|null|
+|**2024-05-24**|**Emergence of a High-Dimensional Abstraction Phase in Language Transformers**|Emily Cheng et.al.|[2405.15471v1](http://arxiv.org/abs/2405.15471v1)|null|
+|**2024-05-24**|**PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis**|Zicheng Wang et.al.|[2405.15463v1](http://arxiv.org/abs/2405.15463v1)|**[link](https://github.com/xiaoyao3302/pointramba)**|
+|**2024-05-24**|**Deterministic interconversion of GHZ state and KLM state via Lie-transform-based pulse design in Rydberg atoms**|J. P. Wang et.al.|[2405.15456v1](http://arxiv.org/abs/2405.15456v1)|null|
+|**2024-05-24**|**HyperInterval: Hypernetwork approach to training weight interval regions in continual learning**|Patryk Krukowski et.al.|[2405.15444v1](http://arxiv.org/abs/2405.15444v1)|**[link](https://github.com/gmum/hyperinterval)**|
+|**2024-05-24**|**Text-guided 3D Human Motion Generation with Keyframe-based Parallel Skip Transformer**|Zichen Geng et.al.|[2405.15439v1](http://arxiv.org/abs/2405.15439v1)|null|
+|**2024-05-24**|**AuthNet: Neural Network with Integrated Authentication Logic**|Yuling Cai et.al.|[2405.15426v1](http://arxiv.org/abs/2405.15426v1)|null|
+|**2024-05-24**|**MambaVC: Learned Visual Compression with Selective State Spaces**|Shiyu Qin et.al.|[2405.15413v1](http://arxiv.org/abs/2405.15413v1)|null|
+|**2024-05-24**|**Transformer-based Federated Learning for Multi-Label Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2405.15405v1](http://arxiv.org/abs/2405.15405v1)|null|
+|**2024-05-24**|**Tensor Frames -- How To Make Any Message Passing Network Equivariant**|Peter Lippmann et.al.|[2405.15389v1](http://arxiv.org/abs/2405.15389v1)|null|
+|**2024-05-24**|**A Planet Scale Spatial-Temporal Knowledge Graph Based On OpenStreetMap And H3 Grid**|Martin Böckling et.al.|[2405.15375v1](http://arxiv.org/abs/2405.15375v1)|null|
+|**2024-05-24**|**Distinguish Any Fake Videos: Unleashing the Power of Large-scale Data and Motion Features**|Lichuan Ji et.al.|[2405.15343v1](http://arxiv.org/abs/2405.15343v1)|null|
+|**2024-05-24**|**V-Zen: Efficient GUI Understanding and Precise Grounding With A Novel Multimodal LLM**|Abdur Rahman et.al.|[2405.15341v1](http://arxiv.org/abs/2405.15341v1)|null|
+|**2024-05-24**|**SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance**|Guibao Shen et.al.|[2405.15321v1](http://arxiv.org/abs/2405.15321v1)|null|
+|**2024-05-24**|**Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training**|Wenyu Du et.al.|[2405.15319v1](http://arxiv.org/abs/2405.15319v1)|null|
+|**2024-05-24**|**Resource-Efficient Heartbeat Classification Using Multi-Feature Fusion and Bidirectional LSTM**|Reza Nikandish et.al.|[2405.15312v1](http://arxiv.org/abs/2405.15312v1)|null|
+|**2024-05-24**|**Spectraformer: A Unified Random Feature Framework for Transformer**|Duke Nguyen et.al.|[2405.15310v1](http://arxiv.org/abs/2405.15310v1)|null|
+|**2024-05-24**|**Towards Understanding How Transformer Perform Multi-step Reasoning with Matching Operation**|Zhiwei Wang et.al.|[2405.15302v1](http://arxiv.org/abs/2405.15302v1)|null|
+|**2024-05-24**|**Towards Global Optimal Visual In-Context Learning Prompt Selection**|Chengming Xu et.al.|[2405.15279v1](http://arxiv.org/abs/2405.15279v1)|null|
+|**2024-05-24**|**Cross-Domain Few-Shot Semantic Segmentation via Doubly Matching Transformation**|Jiayi Chen et.al.|[2405.15265v1](http://arxiv.org/abs/2405.15265v1)|null|
+|**2024-05-24**|**Robust Economic Dispatch with Flexible Demand and Adjustable Uncertainty Set**|Tian Liu et.al.|[2405.15259v1](http://arxiv.org/abs/2405.15259v1)|null|
+|**2024-05-24**|**FTMixer: Frequency and Time Domain Representations Fusion for Time Series Modeling**|Zhengnan Li et.al.|[2405.15256v1](http://arxiv.org/abs/2405.15256v1)|null|
+|**2024-05-24**|**Fast 3D Molecule Generation via Unified Geometric Optimal Transport**|Haokai Hong et.al.|[2405.15252v1](http://arxiv.org/abs/2405.15252v1)|null|
+|**2024-05-24**|**Learning Antenna Pointing Correction in Operations: Efficient Calibration of a Black Box**|Leif Bergerhoff et.al.|[2405.15247v1](http://arxiv.org/abs/2405.15247v1)|null|
 |**2024-05-23**|**Mamba-R: Vision Mamba ALSO Needs Registers**|Feng Wang et.al.|[2405.14858v1](http://arxiv.org/abs/2405.14858v1)|null|
 |**2024-05-23**|**TerDiT: Ternary Diffusion Models with Transformers**|Xudong Lu et.al.|[2405.14854v1](http://arxiv.org/abs/2405.14854v1)|**[link](https://github.com/Lucky-Lance/TerDiT)**|
 |**2024-05-23**|**Dual-comb correlation spectroscopy of thermal light**|Eugene J. Tsao et.al.|[2405.14842v1](http://arxiv.org/abs/2405.14842v1)|null|
