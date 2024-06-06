@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution**|Cristhian Forigua et.al.|[2406.03359v1](http://arxiv.org/abs/2406.03359v1)|**[link](https://github.com/bcv-uniandes/superformer)**|
+|**2024-06-01**|**CoNO: Complex Neural Operator for Continous Dynamical Physical Systems**|Karn Tiwari et.al.|[2406.02597v1](http://arxiv.org/abs/2406.02597v1)|null|
 |**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529v1](http://arxiv.org/abs/2406.02529v1)|**[link](https://github.com/joeshenouda/relu-inrs)**|
 |**2024-06-04**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347v1](http://arxiv.org/abs/2406.02347v1)|**[link](https://github.com/gojasper/flash-diffusion)**|
 |**2024-06-03**|**L-MAGIC: Language Model Assisted Generation of Images with Coherence**|Zhipeng Cai et.al.|[2406.01843v1](http://arxiv.org/abs/2406.01843v1)|**[link](https://github.com/intellabs/mmpano)**|
@@ -1654,6 +1656,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead**|Amir Zandieh et.al.|[2406.03482v1](http://arxiv.org/abs/2406.03482v1)|**[link](https://github.com/amirzandieh/qjl)**|
+|**2024-06-05**|**Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review**|Sonia Bbouzidi et.al.|[2406.03478v1](http://arxiv.org/abs/2406.03478v1)|null|
+|**2024-06-05**|**SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN**|Kang You et.al.|[2406.03470v1](http://arxiv.org/abs/2406.03470v1)|null|
+|**2024-06-05**|**LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection**|Qiang Chen et.al.|[2406.03459v1](http://arxiv.org/abs/2406.03459v1)|**[link](https://github.com/atten4vis/lw-detr)**|
+|**2024-06-05**|**FILS: Self-Supervised Video Feature Prediction In Semantic Language Space**|Mona Ahmadian et.al.|[2406.03447v1](http://arxiv.org/abs/2406.03447v1)|null|
+|**2024-06-05**|**Pre-trained Large Language Models Use Fourier Features to Compute Addition**|Tianyi Zhou et.al.|[2406.03445v1](http://arxiv.org/abs/2406.03445v1)|null|
+|**2024-06-05**|**CSI-GPT: Integrating Generative Pre-Trained Transformer with Federated-Tuning to Acquire Downlink Massive MIMO Channels**|Ye Zeng et.al.|[2406.03438v1](http://arxiv.org/abs/2406.03438v1)|null|
+|**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430v1](http://arxiv.org/abs/2406.03430v1)|**[link](https://github.com/xmindflow/awesome_mamba)**|
+|**2024-06-05**|**Field Theory Approach to Classical  $N$ -Particle Systems In and Out of Equilibrium**|Tristan Daus et.al.|[2406.03425v1](http://arxiv.org/abs/2406.03425v1)|null|
+|**2024-06-05**|**CoFie: Learning Compact Neural Surface Representations with Coordinate Fields**|Hanwen Jiang et.al.|[2406.03417v1](http://arxiv.org/abs/2406.03417v1)|null|
+|**2024-06-05**|**Hubbard and Heisenberg models on hyperbolic lattices -- Metal-insulator transitions, global antiferromagnetism and enhanced boundary fluctuations**|Anika Götz et.al.|[2406.03416v1](http://arxiv.org/abs/2406.03416v1)|null|
+|**2024-06-05**|**UnWave-Net: Unrolled Wavelet Network for Compton Tomography Image Reconstruction**|Ishak Ayad et.al.|[2406.03413v1](http://arxiv.org/abs/2406.03413v1)|null|
+|**2024-06-05**|**Gaussian Representation for Deformable Image Registration**|Jihe Li et.al.|[2406.03394v1](http://arxiv.org/abs/2406.03394v1)|null|
+|**2024-06-05**|**Learning Long Range Dependencies on Graphs via Random Walks**|Dexiong Chen et.al.|[2406.03386v1](http://arxiv.org/abs/2406.03386v1)|null|
+|**2024-06-05**|**Log Parsing with Self-Generated In-Context Learning and Self-Correction**|Yifan Wu et.al.|[2406.03376v1](http://arxiv.org/abs/2406.03376v1)|null|
+|**2024-06-05**|**SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution**|Cristhian Forigua et.al.|[2406.03359v1](http://arxiv.org/abs/2406.03359v1)|**[link](https://github.com/bcv-uniandes/superformer)**|
+|**2024-06-05**|**Audio Mamba: Bidirectional State Space Model for Audio Representation Learning**|Mehmet Hamza Erol et.al.|[2406.03344v1](http://arxiv.org/abs/2406.03344v1)|null|
+|**2024-06-05**|**The Challenges of Evaluating LLM Applications: An Analysis of Automated, Human, and LLM-Based Approaches**|Bhashithe Abeysinghe et.al.|[2406.03339v1](http://arxiv.org/abs/2406.03339v1)|null|
+|**2024-06-05**|**Entangled states are typically incomparable**|Vishesh Jain et.al.|[2406.03335v1](http://arxiv.org/abs/2406.03335v1)|null|
+|**2024-06-05**|**Simultaneous Optimized Orthogonal Matching Pursuit with Application to ECG Compression**|Laura Rebollo-Neira et.al.|[2406.03316v1](http://arxiv.org/abs/2406.03316v1)|null|
+|**2024-06-05**|**Learning Visual Prompts for Guiding the Attention of Vision Transformers**|Razieh Rezaei et.al.|[2406.03303v1](http://arxiv.org/abs/2406.03303v1)|null|
+|**2024-06-05**|**Constructing efficient spatial discretizations of spans of multivariate Chebyshev polynomials**|Lutz Kämmerer et.al.|[2406.03281v1](http://arxiv.org/abs/2406.03281v1)|null|
+|**2024-06-05**|**Enhancing CTC-based speech recognition with diverse modeling units**|Shiyi Han et.al.|[2406.03274v1](http://arxiv.org/abs/2406.03274v1)|null|
+|**2024-06-05**|**Multi-Microphone Speech Emotion Recognition using the Hierarchical Token-semantic Audio Transformer Architecture**|Ohad Cohen et.al.|[2406.03272v1](http://arxiv.org/abs/2406.03272v1)|null|
+|**2024-06-05**|**Defending Large Language Models Against Attacks With Residual Stream Activation Analysis**|Amelia Kawasaki et.al.|[2406.03230v1](http://arxiv.org/abs/2406.03230v1)|null|
+|**2024-06-05**|**Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**|Qutub Syed Sha et.al.|[2406.03229v1](http://arxiv.org/abs/2406.03229v1)|null|
+|**2024-06-05**|**Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need**|Martin Wistuba et.al.|[2406.03216v1](http://arxiv.org/abs/2406.03216v1)|null|
+|**2024-06-05**|**Adaptive Distance Functions via Kelvin Transformation**|Rafael I. Cabral Muchacho et.al.|[2406.03200v1](http://arxiv.org/abs/2406.03200v1)|null|
+|**2024-06-05**|**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**|Qutub Syed et.al.|[2406.03188v1](http://arxiv.org/abs/2406.03188v1)|null|
+|**2024-06-05**|**Effective short distance interaction in Calogero-Sutherland quantum fluids**|Federico L. Bottesi et.al.|[2406.03153v1](http://arxiv.org/abs/2406.03153v1)|null|
+|**2024-06-05**|**Aligning Transformers with Weisfeiler-Leman**|Luis Müller et.al.|[2406.03148v1](http://arxiv.org/abs/2406.03148v1)|**[link](https://github.com/luis-mueller/wl-transformers)**|
+|**2024-06-05**|**A dynamical implementation of canonical second quantization on a quantum computer**|Juan José Gálvez-Viruet et.al.|[2406.03147v1](http://arxiv.org/abs/2406.03147v1)|null|
+|**2024-06-05**|**A Frame-based Attention Interpretation Method for Relevant Acoustic Feature Extraction in Long Speech Depression Detection**|Qingkun Deng et.al.|[2406.03138v1](http://arxiv.org/abs/2406.03138v1)|null|
+|**2024-06-05**|**Computational Limits of Low-Rank Adaptation (LoRA) for Transformer-Based Models**|Jerry Yao-Chieh Hu et.al.|[2406.03136v1](http://arxiv.org/abs/2406.03136v1)|null|
+|**2024-06-05**|**The Weyl Transform of a smooth measure on a real-analytic submanifold**|Mansi Mishra et.al.|[2406.03128v1](http://arxiv.org/abs/2406.03128v1)|null|
+|**2024-06-05**|**GET: A Generative EEG Transformer for continuous context-based neural**|Omair Ali et.al.|[2406.03115v1](http://arxiv.org/abs/2406.03115v1)|null|
+|**2024-06-05**|**Enhancing 3D Lane Detection and Topology Reasoning with 2D Lane Priors**|Han Li et.al.|[2406.03105v1](http://arxiv.org/abs/2406.03105v1)|null|
+|**2024-06-05**|**Learning to see R-parity violating scalar top decays**|Gerrit Bickendorf et.al.|[2406.03096v1](http://arxiv.org/abs/2406.03096v1)|null|
+|**2024-06-05**|**Particle Filter Optimization: A Bayesian Approach for Global Stochastic Optimization**|Mostafa Eslami et.al.|[2406.03089v1](http://arxiv.org/abs/2406.03089v1)|null|
+|**2024-06-05**|**Holographic image features of an AdS black hole in Einstein-power-Yang-Mills gravity**|Xiao-Xiong Zeng et.al.|[2406.03083v1](http://arxiv.org/abs/2406.03083v1)|null|
+|**2024-06-05**|**A Quantum Neural Network-Based Approach to Power Quality Disturbances Detection and Recognition**|Guo-Dong Li et.al.|[2406.03081v1](http://arxiv.org/abs/2406.03081v1)|null|
+|**2024-06-05**|**Local to Global: Learning Dynamics and Effect of Initialization for Transformers**|Ashok Vardhan Makkuva et.al.|[2406.03072v1](http://arxiv.org/abs/2406.03072v1)|null|
+|**2024-06-05**|**How Truncating Weights Improves Reasoning in Language Models**|Lei Chen et.al.|[2406.03068v1](http://arxiv.org/abs/2406.03068v1)|null|
+|**2024-06-05**|**Population Transformer: Learning Population-level Representations of Intracranial Activity**|Geeling Chau et.al.|[2406.03044v1](http://arxiv.org/abs/2406.03044v1)|null|
+|**2024-06-05**|**Refined Horton-Strahler numbers I: a discrete bijection**|Louigi Addario-Berry et.al.|[2406.03025v1](http://arxiv.org/abs/2406.03025v1)|null|
+|**2024-06-05**|**An analytical solution of the Schrodinger equation for the neutral ground state Para Helium**|Frank Kowol et.al.|[2406.03020v1](http://arxiv.org/abs/2406.03020v1)|null|
+|**2024-06-05**|**Puzzle Pieces Picker: Deciphering Ancient Chinese Characters with Radical Reconstruction**|Pengjie Wang et.al.|[2406.03019v1](http://arxiv.org/abs/2406.03019v1)|**[link](https://github.com/pengjie-w/puzzle-pieces-picker)**|
+|**2024-06-05**|**A Human-Annotated Video Dataset for Training and Evaluation of 360-Degree Video Summarization Methods**|Ioannis Kontostathis et.al.|[2406.02991v1](http://arxiv.org/abs/2406.02991v1)|null|
+|**2024-06-05**|**Predicting Genetic Mutation from Whole Slide Images via Biomedical-Linguistic Knowledge Enhanced Multi-label Classification**|Gexin Huang et.al.|[2406.02990v1](http://arxiv.org/abs/2406.02990v1)|**[link](https://github.com/gexinh/bpgt)**|
+|**2024-06-05**|**Enhancing Multimodal Large Language Models with Multi-instance Visual Prompt Generator for Visual Representation Enrichment**|Wenliang Zhong et.al.|[2406.02987v1](http://arxiv.org/abs/2406.02987v1)|null|
 |**2024-06-04**|**Local control and mixed dimensions: Exploring high-temperature superconductivity in optical lattices**|Henning Schlömer et.al.|[2406.02551v1](http://arxiv.org/abs/2406.02551v1)|null|
 |**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550v1](http://arxiv.org/abs/2406.02550v1)|**[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)**|
 |**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540v1](http://arxiv.org/abs/2406.02540v1)|null|
