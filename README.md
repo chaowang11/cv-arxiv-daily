@@ -1669,7 +1669,7 @@
 |**2024-06-06**|**SpectralZoom: Efficient Segmentation with an Adaptive Hyperspectral Camera**|Jackson Arnold et.al.|[2406.04287v1](http://arxiv.org/abs/2406.04287v1)|null|
 |**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267v1](http://arxiv.org/abs/2406.04267v1)|null|
 |**2024-06-06**|**Near-field Beam Training with Sparse DFT Codebook**|Cong Zhou et.al.|[2406.04262v1](http://arxiv.org/abs/2406.04262v1)|null|
-|**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254v1](http://arxiv.org/abs/2406.04254v1)|null|
+|**2024-06-07**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254v2](http://arxiv.org/abs/2406.04254v2)|null|
 |**2024-06-06**|**Spectral flow and the conformal block expansion for strings in AdS $_3$ **|Sergio Iguri et.al.|[2406.04247v1](http://arxiv.org/abs/2406.04247v1)|null|
 |**2024-06-06**|**Complementary polynomials in quantum signal processing**|Bjorn K. Berntson et.al.|[2406.04246v1](http://arxiv.org/abs/2406.04246v1)|null|
 |**2024-06-06**|**Benchmark Data Contamination of Large Language Models: A Survey**|Cheng Xu et.al.|[2406.04244v1](http://arxiv.org/abs/2406.04244v1)|null|
