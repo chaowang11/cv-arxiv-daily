@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**M2NO: Multiresolution Operator Learning with Multiwavelet-based Algebraic Multigrid Method**|Zhihao Li et.al.|[2406.04822v1](http://arxiv.org/abs/2406.04822v1)|null|
+|**2024-06-06**|**M&M VTO: Multi-Garment Virtual Try-On and Editing**|Luyang Zhu et.al.|[2406.04542v1](http://arxiv.org/abs/2406.04542v1)|null|
 |**2024-06-06**|**Enhancing Weather Predictions: Super-Resolution via Deep Diffusion Models**|Jan Martinů et.al.|[2406.04099v1](http://arxiv.org/abs/2406.04099v1)|null|
 |**2024-06-06**|**Vectorized Conditional Neural Fields: A Framework for Solving Time-dependent Parametric Partial Differential Equations**|Jan Hagnberger et.al.|[2406.03919v1](http://arxiv.org/abs/2406.03919v1)|**[link](https://github.com/jhagnberger/vcnef)**|
 |**2024-06-07**|**Enhanced Semantic Segmentation Pipeline for WeatherProof Dataset Challenge**|Nan Zhang et.al.|[2406.03799v2](http://arxiv.org/abs/2406.03799v2)|**[link](https://github.com/kaneigi/weatherproofchallenge)**|
@@ -1659,6 +1661,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Towards Semantic Equivalence of Tokenization in Multimodal LLM**|Shengqiong Wu et.al.|[2406.05127v1](http://arxiv.org/abs/2406.05127v1)|null|
+|**2024-06-07**|**Energy Propagation in Scattering Convolution Networks Can Be Arbitrarily Slow**|Hartmut Führ et.al.|[2406.05121v1](http://arxiv.org/abs/2406.05121v1)|null|
+|**2024-06-07**|**Kružkov-type uniqueness theorem for the chemical flood conservation law system with local vanishing viscosity admissibility**|Sergey Matveenko et.al.|[2406.05116v1](http://arxiv.org/abs/2406.05116v1)|null|
+|**2024-06-07**|**Multi-Head RAG: Solving Multi-Aspect Problems with LLMs**|Maciej Besta et.al.|[2406.05085v1](http://arxiv.org/abs/2406.05085v1)|**[link](https://github.com/spcl/mrag)**|
+|**2024-06-07**|**Hibou: A Family of Foundational Vision Transformers for Pathology**|Dmitry Nechaev et.al.|[2406.05074v1](http://arxiv.org/abs/2406.05074v1)|null|
+|**2024-06-07**|**Reconstruction of phase-amplitude dynamics from electrophysiological signals**|Azamat Yeldesbay et.al.|[2406.05073v1](http://arxiv.org/abs/2406.05073v1)|null|
+|**2024-06-07**|**Pretraining Decision Transformers with Reward Prediction for In-Context Multi-task Structured Bandit Learning**|Subhojyoti Mukherjee et.al.|[2406.05064v1](http://arxiv.org/abs/2406.05064v1)|null|
+|**2024-06-07**|**Structured physics-guided neural networks for electromagnetic commutation applied to industrial linear motors**|Max Bolderman et.al.|[2406.05040v1](http://arxiv.org/abs/2406.05040v1)|null|
+|**2024-06-07**|**Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs**|Shentong Mo et.al.|[2406.05038v1](http://arxiv.org/abs/2406.05038v1)|null|
+|**2024-06-07**|**TimeSieve: Extracting Temporal Dynamics through Information Bottlenecks**|Ninghui Feng et.al.|[2406.05036v1](http://arxiv.org/abs/2406.05036v1)|**[link](https://github.com/xll0328/timesieve)**|
+|**2024-06-07**|**The Choquet-Deny Property for Groupoids**|Tey Berendschot et.al.|[2406.05004v1](http://arxiv.org/abs/2406.05004v1)|null|
+|**2024-06-07**|**CityCraft: A Real Crafter for 3D City Generation**|Jie Deng et.al.|[2406.04983v1](http://arxiv.org/abs/2406.04983v1)|null|
+|**2024-06-07**|**Interacting Fermi systems in the tracial state**|Heide Narnhofer et.al.|[2406.04977v1](http://arxiv.org/abs/2406.04977v1)|null|
+|**2024-06-07**|**UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting**|Juncheng Liu et.al.|[2406.04975v1](http://arxiv.org/abs/2406.04975v1)|null|
+|**2024-06-07**|**Crystal Structure Prediction and Phase Stability in Highly Anharmonic Silver-Based Chalcohalide Anti-Perovskites**|Pol Benítez et.al.|[2406.04966v1](http://arxiv.org/abs/2406.04966v1)|null|
+|**2024-06-07**|**Learning Divergence Fields for Shift-Robust Graph Representations**|Qitian Wu et.al.|[2406.04963v1](http://arxiv.org/abs/2406.04963v1)|**[link](https://github.com/fannie1208/glind)**|
+|**2024-06-07**|**Multiplane Prior Guided Few-Shot Aerial Scene Rendering**|Zihan Gao et.al.|[2406.04961v1](http://arxiv.org/abs/2406.04961v1)|null|
+|**2024-06-07**|**Leveraging Generative AI for Extracting Process Models from Multimodal Documents**|Marvin Voelter et.al.|[2406.04959v1](http://arxiv.org/abs/2406.04959v1)|null|
+|**2024-06-07**|**The Database and Benchmark for Source Speaker Verification Against Voice Conversion**|Ze Li et.al.|[2406.04951v1](http://arxiv.org/abs/2406.04951v1)|null|
+|**2024-06-07**|**CarbonSense: A Multimodal Dataset and Baseline for Carbon Flux Modelling**|Matthew Fortier et.al.|[2406.04940v1](http://arxiv.org/abs/2406.04940v1)|null|
+|**2024-06-07**|**Faster Than Lies: Real-time Deepfake Detection using Binary Neural Networks**|Lanzino Romeo et.al.|[2406.04932v1](http://arxiv.org/abs/2406.04932v1)|null|
+|**2024-06-07**|**MA-AVT: Modality Alignment for Parameter-Efficient Audio-Visual Transformers**|Tanvir Mahmud et.al.|[2406.04930v1](http://arxiv.org/abs/2406.04930v1)|null|
+|**2024-06-07**|**RU-AI: A Large Multimodal Dataset for Machine Generated Content Detection**|Liting Huang et.al.|[2406.04906v1](http://arxiv.org/abs/2406.04906v1)|**[link](https://github.com/zhihaozhang97/ru-ai)**|
+|**2024-06-07**|**Digital assistant in a point of sales**|Emilia Lesiak et.al.|[2406.04851v1](http://arxiv.org/abs/2406.04851v1)|null|
+|**2024-06-07**|**M2NO: Multiresolution Operator Learning with Multiwavelet-based Algebraic Multigrid Method**|Zhihao Li et.al.|[2406.04822v1](http://arxiv.org/abs/2406.04822v1)|null|
+|**2024-06-07**|**Navigating Efficiency in MobileViT through Gaussian Process on Global Architecture Factors**|Ke Meng et.al.|[2406.04820v1](http://arxiv.org/abs/2406.04820v1)|null|
+|**2024-06-07**|**Boundedness of Multiparameter Forelli-Rudin Type Operators on Product  $L^p$  Spaces over Tubular Domains**|Lvchang Li et.al.|[2406.04810v1](http://arxiv.org/abs/2406.04810v1)|null|
+|**2024-06-07**|**Mitigation of DESI fiber assignment incompleteness effect on two-point clustering with small angular scale truncated estimators**|M. Pinon et.al.|[2406.04804v1](http://arxiv.org/abs/2406.04804v1)|null|
+|**2024-06-07**|**The RGB tip in the SDSS, PS1, JWST, NGRST and Euclid photometric systems. Calibration in optical passbands using Gaia DR3 synthetic photometry**|M. Bellazzini et.al.|[2406.04781v1](http://arxiv.org/abs/2406.04781v1)|null|
+|**2024-06-07**|**REP: Resource-Efficient Prompting for On-device Continual Learning**|Sungho Jeon et.al.|[2406.04772v1](http://arxiv.org/abs/2406.04772v1)|null|
+|**2024-06-07**|**SMC++: Masked Learning of Unsupervised Video Semantic Compression**|Yuan Tian et.al.|[2406.04765v1](http://arxiv.org/abs/2406.04765v1)|**[link](https://github.com/tianyuan168326/videosemanticcompression-pytorch)**|
+|**2024-06-07**|**Holographic Intelligence Surface Assisted Integrated Sensing and Communication**|Zhuoyang Liu et.al.|[2406.04762v1](http://arxiv.org/abs/2406.04762v1)|null|
+|**2024-06-07**|**Regular sloshing modes in irregular cavities using metabathymetry**|Adam Anglart et.al.|[2406.04748v1](http://arxiv.org/abs/2406.04748v1)|null|
+|**2024-06-07**|**Unveiling Dynamics and Patterns: A Comprehensive Analysis of Spreading Patterns and Similarities in Low-Labelled Ransomware Families**|Francesco Zola et.al.|[2406.04719v1](http://arxiv.org/abs/2406.04719v1)|null|
+|**2024-06-07**|**Logic Synthesis with Generative Deep Neural Networks**|Xihan Li et.al.|[2406.04699v1](http://arxiv.org/abs/2406.04699v1)|null|
+|**2024-06-07**|**CDeFuse: Continuous Decomposition for Infrared and Visible Image Fusion**|Haolong Ma et.al.|[2406.04689v1](http://arxiv.org/abs/2406.04689v1)|null|
+|**2024-06-07**|**Electric leakage suppression of phase-transforming ferroelectrics with donor impurities**|Chenbo Zhang et.al.|[2406.04677v1](http://arxiv.org/abs/2406.04677v1)|null|
+|**2024-06-07**|**MATTER: Memory-Augmented Transformer Using Heterogeneous Knowledge Sources**|Dongkyu Lee et.al.|[2406.04670v1](http://arxiv.org/abs/2406.04670v1)|null|
+|**2024-06-07**|**Quantum state preparation for a velocity field based on the spherical Clebsch wave function**|Hao Su et.al.|[2406.04652v1](http://arxiv.org/abs/2406.04652v1)|null|
+|**2024-06-07**|**UVCPNet: A UAV-Vehicle Collaborative Perception Network for 3D Object Detection**|Yuchao Wang et.al.|[2406.04647v1](http://arxiv.org/abs/2406.04647v1)|null|
+|**2024-06-07**|**Projecting Molecules into Synthesizable Chemical Spaces**|Shitong Luo et.al.|[2406.04628v1](http://arxiv.org/abs/2406.04628v1)|null|
+|**2024-06-07**|**On soft factors and transmutation operators**|Fang-Stars Wei et.al.|[2406.04622v1](http://arxiv.org/abs/2406.04622v1)|null|
+|**2024-06-07**|**SynAsk: Unleashing the Power of Large Language Models in Organic Synthesis**|Chonghuan Zhang et.al.|[2406.04593v1](http://arxiv.org/abs/2406.04593v1)|null|
+|**2024-06-07**|**MUSE: Flexible Voiceprint Receptive Fields and Multi-Path Fusion Enhanced Taylor Transformer for U-Net-based Speech Enhancement**|Zizhen Lin et.al.|[2406.04589v1](http://arxiv.org/abs/2406.04589v1)|null|
+|**2024-06-06**|**Flexible Multichannel Speech Enhancement for Noise-Robust Frontend**|Ante Jukić et.al.|[2406.04552v1](http://arxiv.org/abs/2406.04552v1)|null|
+|**2024-06-06**|**GNNAnatomy: Systematic Generation and Evaluation of Multi-Level Explanations for Graph Neural Networks**|Hsiao-Ying Lu et.al.|[2406.04548v1](http://arxiv.org/abs/2406.04548v1)|null|
+|**2024-06-06**|**Continuous Attractor Networks for Laplace Neural Manifolds**|Bryan C. Daniels et.al.|[2406.04545v1](http://arxiv.org/abs/2406.04545v1)|null|
+|**2024-06-06**|**M&M VTO: Multi-Garment Virtual Try-On and Editing**|Luyang Zhu et.al.|[2406.04542v1](http://arxiv.org/abs/2406.04542v1)|null|
+|**2024-06-06**|**Network Threshold Games**|Alastair Langtry et.al.|[2406.04540v1](http://arxiv.org/abs/2406.04540v1)|null|
+|**2024-06-06**|**MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation**|Ionuţ Grigore et.al.|[2406.04532v1](http://arxiv.org/abs/2406.04532v1)|null|
 |**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336v1](http://arxiv.org/abs/2406.04336v1)|**[link](https://github.com/LingxiaoShawn/EPNN-Experiments)**|
 |**2024-06-06**|**DeepStack: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs**|Lingchen Meng et.al.|[2406.04334v1](http://arxiv.org/abs/2406.04334v1)|null|
 |**2024-06-06**|**Neural Networks Assisted Metropolis-Hastings for Bayesian Estimation of Critical Exponent on Elliptic Black Hole Solution in 4D Using Quantum Perturbation Theory**|Armin Hatefi et.al.|[2406.04310v1](http://arxiv.org/abs/2406.04310v1)|null|
