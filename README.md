@@ -1684,7 +1684,7 @@
 |**2024-06-07**|**Faster Than Lies: Real-time Deepfake Detection using Binary Neural Networks**|Lanzino Romeo et.al.|[2406.04932v1](http://arxiv.org/abs/2406.04932v1)|null|
 |**2024-06-07**|**MA-AVT: Modality Alignment for Parameter-Efficient Audio-Visual Transformers**|Tanvir Mahmud et.al.|[2406.04930v1](http://arxiv.org/abs/2406.04930v1)|null|
 |**2024-06-07**|**RU-AI: A Large Multimodal Dataset for Machine Generated Content Detection**|Liting Huang et.al.|[2406.04906v1](http://arxiv.org/abs/2406.04906v1)|**[link](https://github.com/zhihaozhang97/ru-ai)**|
-|**2024-06-07**|**Digital assistant in a point of sales**|Emilia Lesiak et.al.|[2406.04851v1](http://arxiv.org/abs/2406.04851v1)|null|
+|**2024-06-10**|**Digital assistant in a point of sales**|Emilia Lesiak et.al.|[2406.04851v2](http://arxiv.org/abs/2406.04851v2)|null|
 |**2024-06-07**|**M2NO: Multiresolution Operator Learning with Multiwavelet-based Algebraic Multigrid Method**|Zhihao Li et.al.|[2406.04822v1](http://arxiv.org/abs/2406.04822v1)|null|
 |**2024-06-07**|**Navigating Efficiency in MobileViT through Gaussian Process on Global Architecture Factors**|Ke Meng et.al.|[2406.04820v1](http://arxiv.org/abs/2406.04820v1)|null|
 |**2024-06-07**|**Boundedness of Multiparameter Forelli-Rudin Type Operators on Product  $L^p$  Spaces over Tubular Domains**|Lvchang Li et.al.|[2406.04810v1](http://arxiv.org/abs/2406.04810v1)|null|
