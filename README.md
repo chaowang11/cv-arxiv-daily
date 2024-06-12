@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Image Neural Field Diffusion Models**|Yinbo Chen et.al.|[2406.07480v1](http://arxiv.org/abs/2406.07480v1)|null|
+|**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399v1](http://arxiv.org/abs/2406.07399v1)|null|
+|**2024-06-11**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255v1](http://arxiv.org/abs/2406.07255v1)|null|
+|**2024-06-10**|**2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution**|Kai Liu et.al.|[2406.06649v1](http://arxiv.org/abs/2406.06649v1)|**[link](https://github.com/kai-liu001/2dquant)**|
 |**2024-06-10**|**Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning**|Xin Wang et.al.|[2406.05974v1](http://arxiv.org/abs/2406.05974v1)|null|
 |**2024-06-09**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723v1](http://arxiv.org/abs/2406.05723v1)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|
 |**2024-06-07**|**M2NO: Multiresolution Operator Learning with Multiwavelet-based Algebraic Multigrid Method**|Zhihao Li et.al.|[2406.04822v1](http://arxiv.org/abs/2406.04822v1)|null|
@@ -1107,6 +1111,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399v1](http://arxiv.org/abs/2406.07399v1)|null|
+|**2024-06-11**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255v1](http://arxiv.org/abs/2406.07255v1)|null|
+|**2024-06-10**|**2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution**|Kai Liu et.al.|[2406.06649v1](http://arxiv.org/abs/2406.06649v1)|**[link](https://github.com/kai-liu001/2dquant)**|
 |**2024-06-09**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723v1](http://arxiv.org/abs/2406.05723v1)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|
 |**2024-06-03**|**Arctic Sea Ice Image Super-Resolution Based on Multi-Scale Convolution and Dual-Gating Mechanism**|Zhaomin Fang et.al.|[2406.01240v1](http://arxiv.org/abs/2406.01240v1)|null|
 |**2024-05-29**|**Single image super-resolution based on trainable feature matching attention network**|Qizhou Chen et.al.|[2405.18872v1](http://arxiv.org/abs/2405.18872v1)|**[link](https://github.com/qizhou000/tfman)**|
@@ -1664,6 +1671,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring**|Huicong Zhang et.al.|[2406.07551v1](http://arxiv.org/abs/2406.07551v1)|**[link](https://github.com/huicongzhang/bsstnet)**|
+|**2024-06-11**|**An Image is Worth 32 Tokens for Reconstruction and Generation**|Qihang Yu et.al.|[2406.07550v1](http://arxiv.org/abs/2406.07550v1)|null|
+|**2024-06-11**|**Image and Video Tokenization with Binary Spherical Quantization**|Yue Zhao et.al.|[2406.07548v1](http://arxiv.org/abs/2406.07548v1)|**[link](https://github.com/zhaoyue-zephyrus/bsq-vit)**|
+|**2024-06-11**|**BAKU: An Efficient Transformer for Multi-Task Policy Learning**|Siddhant Haldar et.al.|[2406.07539v1](http://arxiv.org/abs/2406.07539v1)|null|
+|**2024-06-11**|**Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection**|J. Schueler et.al.|[2406.07538v1](http://arxiv.org/abs/2406.07538v1)|null|
+|**2024-06-11**|**Change of numeraire for weak martingale transport**|Mathias Beiglböck et.al.|[2406.07523v1](http://arxiv.org/abs/2406.07523v1)|null|
+|**2024-06-11**|**Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling**|Liliang Ren et.al.|[2406.07522v1](http://arxiv.org/abs/2406.07522v1)|null|
+|**2024-06-11**|**Beyond Model Collapse: Scaling Up with Synthesized Data Requires Reinforcement**|Yunzhen Feng et.al.|[2406.07515v1](http://arxiv.org/abs/2406.07515v1)|null|
+|**2024-06-11**|**TextGrad: Automatic "Differentiation" via Text**|Mert Yuksekgonul et.al.|[2406.07496v1](http://arxiv.org/abs/2406.07496v1)|**[link](https://github.com/zou-group/textgrad)**|
+|**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494v1](http://arxiv.org/abs/2406.07494v1)|null|
+|**2024-06-11**|**ReduceFormer: Attention with Tensor Reduction by Summation**|John Yang et.al.|[2406.07488v1](http://arxiv.org/abs/2406.07488v1)|null|
+|**2024-06-11**|**Towards Generalized Hydrological Forecasting using Transformer Models for 120-Hour Streamflow Prediction**|Bekir Z. Demiray et.al.|[2406.07484v1](http://arxiv.org/abs/2406.07484v1)|null|
+|**2024-06-11**|**Reinforcement Learning from Human Feedback without Reward Inference: Model-Free Algorithm and Instance-Dependent Analysis**|Qining Zhang et.al.|[2406.07455v1](http://arxiv.org/abs/2406.07455v1)|null|
+|**2024-06-11**|**Textual Similarity as a Key Metric in Machine Translation Quality Estimation**|Kun Sun et.al.|[2406.07440v1](http://arxiv.org/abs/2406.07440v1)|null|
+|**2024-06-11**|**DeformTime: Capturing Variable Dependencies with Deformable Attention for Time Series Forecasting**|Yuxuan Shu et.al.|[2406.07438v1](http://arxiv.org/abs/2406.07438v1)|null|
+|**2024-06-11**|**Beware of Aliases -- Signal Preservation is Crucial for Robust Image Restoration**|Shashank Agnihotri et.al.|[2406.07435v1](http://arxiv.org/abs/2406.07435v1)|null|
+|**2024-06-11**|**Making 'syscall' a Privilege not a Right**|Fangfei Yang et.al.|[2406.07429v1](http://arxiv.org/abs/2406.07429v1)|null|
+|**2024-06-11**|**GemNet: Menu-Based, Strategy-Proof Multi-Bidder Auctions Through Deep Learning**|Tonghan Wang et.al.|[2406.07428v1](http://arxiv.org/abs/2406.07428v1)|null|
+|**2024-06-11**|**Entropy, slicing problem and functional Mahler's conjecture**|Matthieu Fradelizi et.al.|[2406.07406v1](http://arxiv.org/abs/2406.07406v1)|null|
+|**2024-06-11**|**Enhancing Tabular Data Optimization with a Flexible Graph-based Reinforced Exploration Strategy**|Xiaohan Huang et.al.|[2406.07404v1](http://arxiv.org/abs/2406.07404v1)|null|
+|**2024-06-11**|**A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs**|Elika Bozorgi et.al.|[2406.07402v1](http://arxiv.org/abs/2406.07402v1)|null|
+|**2024-06-11**|**Fast and accurate evaluation of Biot-Savart integrals over spatial curves**|Juan Ignacio Polanco et.al.|[2406.07366v1](http://arxiv.org/abs/2406.07366v1)|null|
+|**2024-06-11**|**Chebyshev Approximated Variational Coupled Cluster for Quantum Computing**|Luca Erhart et.al.|[2406.07364v1](http://arxiv.org/abs/2406.07364v1)|null|
+|**2024-06-11**|**Deep Implicit Optimization for Robust and Flexible Image Registration**|Rohit Jena et.al.|[2406.07361v1](http://arxiv.org/abs/2406.07361v1)|null|
+|**2024-06-11**|**Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection**|Haiming Yao et.al.|[2406.07333v1](http://arxiv.org/abs/2406.07333v1)|null|
+|**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332v1](http://arxiv.org/abs/2406.07332v1)|null|
+|**2024-06-11**|**Instruct Large Language Models to Drive like Humans**|Ruijun Zhang et.al.|[2406.07296v1](http://arxiv.org/abs/2406.07296v1)|**[link](https://github.com/bonbon-rj/instructdriver)**|
+|**2024-06-11**|** $\mathscr{D}$ -modules on the basic affine space and large  $\mathfrak{g}$ -modules**|Masatoshi Kitagawa et.al.|[2406.07279v1](http://arxiv.org/abs/2406.07279v1)|null|
+|**2024-06-11**|**Are Protein Language Models Compute Optimal?**|Yaiza Serrano et.al.|[2406.07249v1](http://arxiv.org/abs/2406.07249v1)|null|
+|**2024-06-11**|**Dynamical Mean-Field Theory of Self-Attention Neural Networks**|Ángel Poc-López et.al.|[2406.07247v1](http://arxiv.org/abs/2406.07247v1)|null|
+|**2024-06-11**|**Marginalization Consistent Mixture of Separable Flows for Probabilistic Irregular Time Series Forecasting**|Vijaya Krishna Yalavarthi et.al.|[2406.07246v1](http://arxiv.org/abs/2406.07246v1)|null|
+|**2024-06-11**|**Haptic Repurposing with GenAI**|Haoyu Wang et.al.|[2406.07228v1](http://arxiv.org/abs/2406.07228v1)|null|
+|**2024-06-11**|**Contributions of QED diagrams with vacuum polarization insertions to the lepton anomaly within the Mellin--Barnes representation**|O. P. Solovtsova et.al.|[2406.07211v1](http://arxiv.org/abs/2406.07211v1)|null|
+|**2024-06-11**|**Model order reduction for seismic applications**|Rhys Hawkins et.al.|[2406.07207v1](http://arxiv.org/abs/2406.07207v1)|null|
+|**2024-06-11**|**RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker**|Yunfeng Li et.al.|[2406.07189v1](http://arxiv.org/abs/2406.07189v1)|**[link](https://github.com/liyunfenglyf/rgbs50)**|
+|**2024-06-11**|**Quantum Speedup of the Dispersion and Codebook Design Problems**|Kein Yukiyoshi et.al.|[2406.07187v1](http://arxiv.org/abs/2406.07187v1)|null|
+|**2024-06-11**|**Pushing an Altermagnet to the Ultimate 2D Limit: Evidence of Symmetry Breaking in Monolayers of GdAlSi**|Oleg E. Parfenov et.al.|[2406.07172v1](http://arxiv.org/abs/2406.07172v1)|null|
+|**2024-06-11**|**ACCO: Automated Causal CNN Scheduling Optimizer for Real-Time Edge Accelerators**|Jun Yin et.al.|[2406.07161v1](http://arxiv.org/abs/2406.07161v1)|null|
+|**2024-06-11**|**Quantum repeaters based on stationary Gottesman-Kitaev-Preskill qubits**|Stefan Häussler et.al.|[2406.07158v1](http://arxiv.org/abs/2406.07158v1)|null|
+|**2024-06-11**|**EEG classification for visual brain decoding with spatio-temporal and transformer based paradigms**|Akanksha Sharma et.al.|[2406.07153v1](http://arxiv.org/abs/2406.07153v1)|null|
+|**2024-06-11**|**Unlocking the Potential of the Metaverse for Innovative and Immersive Digital Care**|Fatemeh Ebrahimzadeh et.al.|[2406.07114v1](http://arxiv.org/abs/2406.07114v1)|null|
+|**2024-06-11**|**Grapevine Disease Prediction Using Climate Variables from Multi-Sensor Remote Sensing Imagery via a Transformer Model**|Weiying Zhao et.al.|[2406.07094v1](http://arxiv.org/abs/2406.07094v1)|null|
+|**2024-06-11**|**Reconstructing the Tropical Pacific Upper Ocean using Online Data Assimilation with a Deep Learning model**|Zilu Meng et.al.|[2406.07063v1](http://arxiv.org/abs/2406.07063v1)|**[link](https://github.com/zilum/dataassimlationwithdl)**|
+|**2024-06-11**|**Effectively Compress KV Heads for LLM**|Hao Yu et.al.|[2406.07056v1](http://arxiv.org/abs/2406.07056v1)|null|
+|**2024-06-11**|**TelecomRAG: Taming Telecom Standards with Retrieval Augmented Generation and LLMs**|Girma M. Yilma et.al.|[2406.07053v1](http://arxiv.org/abs/2406.07053v1)|null|
+|**2024-06-11**|**DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification**|Jiamu Sheng et.al.|[2406.07050v1](http://arxiv.org/abs/2406.07050v1)|null|
+|**2024-06-11**|**GridPE: Unifying Positional Encoding in Transformers with a Grid Cell-Inspired Framework**|Boyang Li et.al.|[2406.07049v1](http://arxiv.org/abs/2406.07049v1)|null|
+|**2024-06-11**|**EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network**|Yining Shi et.al.|[2406.07042v1](http://arxiv.org/abs/2406.07042v1)|**[link](https://github.com/synsin0/effocc)**|
+|**2024-06-11**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Zhechao Wang et.al.|[2406.07032v1](http://arxiv.org/abs/2406.07032v1)|null|
+|**2024-06-11**|**Inverse melting and re-entrant transformations of the vortex lattice in amorphous Re6Zr thin film**|Rishabh Duhan et.al.|[2406.07027v1](http://arxiv.org/abs/2406.07027v1)|null|
 |**2024-06-10**|**Continuum Attention for Neural Operators**|Edoardo Calvello et.al.|[2406.06486v1](http://arxiv.org/abs/2406.06486v1)|null|
 |**2024-06-10**|**Parallelizing Linear Transformers with the Delta Rule over Sequence Length**|Songlin Yang et.al.|[2406.06484v1](http://arxiv.org/abs/2406.06484v1)|null|
 |**2024-06-10**|**Graph-Based Bidirectional Transformer Decision Threshold Adjustment Algorithm for Class-Imbalanced Molecular Data**|Nicole Hayes et.al.|[2406.06479v1](http://arxiv.org/abs/2406.06479v1)|null|
@@ -18847,6 +18904,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-08**|**Hinge-FM2I: An Approach using Image Inpainting for Interpolating Missing Data in Univariate Time Series**|Noufel Saad et.al.|[2406.06631v1](http://arxiv.org/abs/2406.06631v1)|null|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
 |**2024-06-05**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347v2](http://arxiv.org/abs/2406.02347v2)|**[link](https://github.com/gojasper/flash-diffusion)**|
 |**2024-06-04**|**FaceCom: Towards High-fidelity 3D Facial Shape Completion via Optimization and Inpainting Guidance**|Yinglong Li et.al.|[2406.02074v1](http://arxiv.org/abs/2406.02074v1)|**[link](https://github.com/dragonylee/facecom)**|
