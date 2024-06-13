@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|** $\texttt{DiffLense}$ : A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442v1](http://arxiv.org/abs/2406.08442v1)|null|
+|**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377v1](http://arxiv.org/abs/2406.08377v1)|null|
+|**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177v1](http://arxiv.org/abs/2406.08177v1)|**[link](https://github.com/cswry/osediff)**|
 |**2024-06-11**|**Image Neural Field Diffusion Models**|Yinbo Chen et.al.|[2406.07480v1](http://arxiv.org/abs/2406.07480v1)|null|
 |**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399v1](http://arxiv.org/abs/2406.07399v1)|null|
 |**2024-06-12**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255v2](http://arxiv.org/abs/2406.07255v2)|null|
@@ -1111,6 +1114,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|** $\texttt{DiffLense}$ : A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442v1](http://arxiv.org/abs/2406.08442v1)|null|
+|**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377v1](http://arxiv.org/abs/2406.08377v1)|null|
+|**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177v1](http://arxiv.org/abs/2406.08177v1)|**[link](https://github.com/cswry/osediff)**|
 |**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399v1](http://arxiv.org/abs/2406.07399v1)|null|
 |**2024-06-12**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255v2](http://arxiv.org/abs/2406.07255v2)|null|
 |**2024-06-10**|**2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution**|Kai Liu et.al.|[2406.06649v1](http://arxiv.org/abs/2406.06649v1)|**[link](https://github.com/kai-liu001/2dquant)**|
@@ -1671,6 +1677,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486v1](http://arxiv.org/abs/2406.08486v1)|**[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)**|
+|**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478v1](http://arxiv.org/abs/2406.08478v1)|null|
+|**2024-06-12**|**ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery**|Kam Woh Ng et.al.|[2406.08457v1](http://arxiv.org/abs/2406.08457v1)|**[link](https://github.com/kamwoh/concepthash)**|
+|**2024-06-12**|**Einstein Gravity from Einstein Action: Counterterms and Covariance**|Martin Krššák et.al.|[2406.08452v1](http://arxiv.org/abs/2406.08452v1)|null|
+|**2024-06-12**|**PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement**|Wei-Tung Lin et.al.|[2406.08444v1](http://arxiv.org/abs/2406.08444v1)|null|
+|**2024-06-12**|**Transformation-Dependent Adversarial Attacks**|Yaoteng Tan et.al.|[2406.08443v1](http://arxiv.org/abs/2406.08443v1)|null|
+|**2024-06-12**|**A green solvent system for precursor phase-engineered sequential deposition of stable formamidinium lead triiodide for perovskite solar cells**|Benjamin M. Gallant et.al.|[2406.08441v1](http://arxiv.org/abs/2406.08441v1)|null|
+|**2024-06-12**|**Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference**|Christopher Wolters et.al.|[2406.08413v1](http://arxiv.org/abs/2406.08413v1)|null|
+|**2024-06-12**|**On existence of weak solutions to a Baer-Nunziato type system**|Martin Kalousek et.al.|[2406.08383v1](http://arxiv.org/abs/2406.08383v1)|null|
+|**2024-06-12**|**APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentatio**|Weizhao He et.al.|[2406.08372v1](http://arxiv.org/abs/2406.08372v1)|null|
+|**2024-06-12**|**Exact Correlation Functions for Dual-Unitary Quantum circuits with exceptional points**|Xi-Dan Hu et.al.|[2406.08338v1](http://arxiv.org/abs/2406.08338v1)|null|
+|**2024-06-12**|**CoLM-DSR: Leveraging Neural Codec Language Modeling for Multi-Modal Dysarthric Speech Reconstruction**|Xueyuan Chen et.al.|[2406.08336v1](http://arxiv.org/abs/2406.08336v1)|null|
+|**2024-06-12**|**A Survey of Pipeline Tools for Data Engineering**|Anthony Mbata et.al.|[2406.08335v1](http://arxiv.org/abs/2406.08335v1)|null|
+|**2024-06-12**|**Multimodal Representation Loss Between Timed Text and Audio for Regularized Speech Separation**|Tsun-An Hsieh et.al.|[2406.08328v1](http://arxiv.org/abs/2406.08328v1)|null|
+|**2024-06-12**|**Bessel potentials and Green functions on pseudo-Euclidean spaces**|Jan Dereziński et.al.|[2406.08327v1](http://arxiv.org/abs/2406.08327v1)|null|
+|**2024-06-12**|**FSH: 3D Representation via Fibonacci Spherical Harmonics**|Zikuan Li et.al.|[2406.08308v1](http://arxiv.org/abs/2406.08308v1)|null|
+|**2024-06-12**|**AdaNCA: Neural Cellular Automata As Adaptors For More Robust Vision Transformer**|Yitao Xu et.al.|[2406.08298v1](http://arxiv.org/abs/2406.08298v1)|null|
+|**2024-06-12**|**The Importance of Positional Encoding Initialization in Transformers for Relational Reasoning**|Takuya Ito et.al.|[2406.08272v1](http://arxiv.org/abs/2406.08272v1)|null|
+|**2024-06-12**|**Protected gap closing and reopening in topological-insulator Josephson junctions**|Jakob Schluck et.al.|[2406.08265v1](http://arxiv.org/abs/2406.08265v1)|null|
+|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249v1](http://arxiv.org/abs/2406.08249v1)|null|
+|**2024-06-12**|**MaIL: Improving Imitation Learning with Mamba**|Xiaogang Jia et.al.|[2406.08234v1](http://arxiv.org/abs/2406.08234v1)|null|
+|**2024-06-12**|**Expressivity and Generalization: Fragment-Biases for Molecular GNNs**|Tom Wollschläger et.al.|[2406.08210v1](http://arxiv.org/abs/2406.08210v1)|null|
+|**2024-06-12**|**Transformer-based Model for ASR N-Best Rescoring and Rewriting**|Iwen E. Kang et.al.|[2406.08207v1](http://arxiv.org/abs/2406.08207v1)|null|
+|**2024-06-12**|**Inverse scattering transform for the defocusing-defocusing coupled Hirota equations with non-zero boundary conditions: double-pole solutions**|Peng-Fei Han et.al.|[2406.08189v1](http://arxiv.org/abs/2406.08189v1)|null|
+|**2024-06-12**|**Attention-Based Learning for Fluid State Interpolation and Editing in a Time-Continuous Framework**|Bruno Roy et.al.|[2406.08188v1](http://arxiv.org/abs/2406.08188v1)|null|
+|**2024-06-12**|**CT3D++: Improving 3D Object Detection with Keypoint-induced Channel-wise Transformer**|Hualian Sheng et.al.|[2406.08152v1](http://arxiv.org/abs/2406.08152v1)|null|
+|**2024-06-12**|**Probing Implicit Bias in Semi-gradient Q-learning: Visualizing the Effective Loss Landscapes via the Fokker--Planck Equation**|Shuyu Yin et.al.|[2406.08148v1](http://arxiv.org/abs/2406.08148v1)|null|
+|**2024-06-12**|**Interfacial Dynamics and Catalytic Behavior of Single Ni Atom Site**|G. S. Priyanga et.al.|[2406.08146v1](http://arxiv.org/abs/2406.08146v1)|null|
+|**2024-06-12**|** $ω$ -regular Expression Synthesis from Transition-Based Büchi Automata**|Charles Pert et.al.|[2406.08136v1](http://arxiv.org/abs/2406.08136v1)|null|
+|**2024-06-12**|**Fully Few-shot Class-incremental Audio Classification Using Expandable Dual-embedding Extractor**|Yongjie Si et.al.|[2406.08122v1](http://arxiv.org/abs/2406.08122v1)|null|
+|**2024-06-12**|**A Unified Pilot Design for Integrated Sensing and Communications**|Pu Yuan et.al.|[2406.08087v1](http://arxiv.org/abs/2406.08087v1)|null|
+|**2024-06-12**|**CLDTA: Contrastive Learning based on Diagonal Transformer Autoencoder for Cross-Dataset EEG Emotion Recognition**|Yuan Liao et.al.|[2406.08081v1](http://arxiv.org/abs/2406.08081v1)|null|
+|**2024-06-12**|**A Robust Pipeline for Classification and Detection of Bleeding Frames in Wireless Capsule Endoscopy using Swin Transformer and RT-DETR**|Sasidhar Alavala et.al.|[2406.08046v1](http://arxiv.org/abs/2406.08046v1)|null|
+|**2024-06-12**|**Adaptively Bypassing Vision Transformer Blocks for Efficient Visual Tracking**|Xiangyang Yang et.al.|[2406.08037v1](http://arxiv.org/abs/2406.08037v1)|null|
+|**2024-06-12**|**Hardy spaces and Riesz transforms on a Lie group of exponential growth**|Peter Sjögren et.al.|[2406.08032v1](http://arxiv.org/abs/2406.08032v1)|null|
+|**2024-06-12**|**Deep Learning for Slum Mapping in Remote Sensing Images: A Meta-analysis and Review**|Anjali Raj et.al.|[2406.08031v1](http://arxiv.org/abs/2406.08031v1)|null|
+|**2024-06-12**|**Growth of VO2-ZnS Thin Film Cavity for Adaptive Thermal Emission**|Raymond Yu et.al.|[2406.08011v1](http://arxiv.org/abs/2406.08011v1)|null|
+|**2024-06-12**|**Interpetable Target-Feature Aggregation for Multi-Task Learning based on Bias-Variance Analysis**|Paolo Bonetti et.al.|[2406.07991v1](http://arxiv.org/abs/2406.07991v1)|null|
+|**2024-06-12**|**Expected value and a Cayley-Menger formula for the generalized earth mover's distance**|William Q. Erickson et.al.|[2406.07972v1](http://arxiv.org/abs/2406.07972v1)|null|
+|**2024-06-12**|**Compressive Beam Alignment for Indoor Millimeter-Wave Systems**|April Junio et.al.|[2406.07965v1](http://arxiv.org/abs/2406.07965v1)|null|
+|**2024-06-12**|**Counteracting Duration Bias in Video Recommendation via Counterfactual Watch Time**|Haiyuan Zhao et.al.|[2406.07932v1](http://arxiv.org/abs/2406.07932v1)|null|
+|**2024-06-12**|**Automated Information Extraction from Thyroid Operation Narrative: A Comparative Study of GPT-4 and Fine-tuned KoELECTRA**|Dongsuk Jang et.al.|[2406.07922v1](http://arxiv.org/abs/2406.07922v1)|null|
+|**2024-06-12**|**Micro-expression recognition based on depth map to point cloud**|Ren Zhang et.al.|[2406.07918v1](http://arxiv.org/abs/2406.07918v1)|null|
+|**2024-06-12**|**Guiding Frame-Level CTC Alignments Using Self-knowledge Distillation**|Eungbeom Kim et.al.|[2406.07909v1](http://arxiv.org/abs/2406.07909v1)|null|
+|**2024-06-12**|**An Empirical Study of Mamba-based Language Models**|Roger Waleffe et.al.|[2406.07887v1](http://arxiv.org/abs/2406.07887v1)|null|
+|**2024-06-12**|**Reinforcement Learning to Disentangle Multiqubit Quantum States from Partial Observations**|Pavel Tashev et.al.|[2406.07884v1](http://arxiv.org/abs/2406.07884v1)|**[link](https://github.com/mgbukov/rl_disentangle)**|
+|**2024-06-12**|**KernelWarehouse: Rethinking the Design of Dynamic Convolution**|Chao Li et.al.|[2406.07879v1](http://arxiv.org/abs/2406.07879v1)|**[link](https://github.com/osvai/kernelwarehouse)**|
+|**2024-06-12**|**Flexible Music-Conditioned Dance Generation with Style Description Prompts**|Hongsong Wang et.al.|[2406.07871v1](http://arxiv.org/abs/2406.07871v1)|null|
+|**2024-06-12**|**Scaling Manipulation Learning with Visual Kinematic Chain Prediction**|Xinyu Zhang et.al.|[2406.07837v1](http://arxiv.org/abs/2406.07837v1)|null|
+|**2024-06-12**|**Quantum Hamilton-Jacobi Theory, Spectral Path Integrals and Exact-WKB**|Mustafa Türe et.al.|[2406.07829v1](http://arxiv.org/abs/2406.07829v1)|null|
 |**2024-06-11**|**Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring**|Huicong Zhang et.al.|[2406.07551v1](http://arxiv.org/abs/2406.07551v1)|**[link](https://github.com/huicongzhang/bsstnet)**|
 |**2024-06-11**|**An Image is Worth 32 Tokens for Reconstruction and Generation**|Qihang Yu et.al.|[2406.07550v1](http://arxiv.org/abs/2406.07550v1)|null|
 |**2024-06-11**|**Image and Video Tokenization with Binary Spherical Quantization**|Yue Zhao et.al.|[2406.07548v1](http://arxiv.org/abs/2406.07548v1)|**[link](https://github.com/zhaoyue-zephyrus/bsq-vit)**|
