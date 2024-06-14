@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Near-Field Multiuser Communications based on Sparse Arrays**|Kangjian Chen et.al.|[2406.09238v1](http://arxiv.org/abs/2406.09238v1)|null|
+|**2024-06-13**|**SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution**|Soufiane Belharbi et.al.|[2406.09168v1](http://arxiv.org/abs/2406.09168v1)|**[link](https://github.com/sbelharbi/sr-caco-2)**|
+|**2024-06-13**|**Microparticle-assisted 2D super resolution virtual image modeling**|Arlen Bekirov et.al.|[2406.09060v1](http://arxiv.org/abs/2406.09060v1)|null|
+|**2024-06-13**|**Blind Super-Resolution via Meta-learning and Markov Chain Monte Carlo Simulation**|Jingyuan Xia et.al.|[2406.08896v1](http://arxiv.org/abs/2406.08896v1)|**[link](https://github.com/xylgroup/mlmc)**|
 |**2024-06-12**|** $\texttt{DiffLense}$ : A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442v1](http://arxiv.org/abs/2406.08442v1)|null|
 |**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377v1](http://arxiv.org/abs/2406.08377v1)|null|
 |**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177v1](http://arxiv.org/abs/2406.08177v1)|**[link](https://github.com/cswry/osediff)**|
@@ -1114,6 +1118,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution**|Soufiane Belharbi et.al.|[2406.09168v1](http://arxiv.org/abs/2406.09168v1)|**[link](https://github.com/sbelharbi/sr-caco-2)**|
+|**2024-06-13**|**Blind Super-Resolution via Meta-learning and Markov Chain Monte Carlo Simulation**|Jingyuan Xia et.al.|[2406.08896v1](http://arxiv.org/abs/2406.08896v1)|**[link](https://github.com/xylgroup/mlmc)**|
 |**2024-06-12**|** $\texttt{DiffLense}$ : A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442v1](http://arxiv.org/abs/2406.08442v1)|null|
 |**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377v1](http://arxiv.org/abs/2406.08377v1)|null|
 |**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177v1](http://arxiv.org/abs/2406.08177v1)|**[link](https://github.com/cswry/osediff)**|
@@ -1677,6 +1683,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models**|Qihao Liu et.al.|[2406.09416v1](http://arxiv.org/abs/2406.09416v1)|null|
+|**2024-06-13**|**An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels**|Duy-Kien Nguyen et.al.|[2406.09415v1](http://arxiv.org/abs/2406.09415v1)|null|
+|**2024-06-13**|**Towards Evaluating the Robustness of Visual State Space Models**|Hashmat Shadab Malik et.al.|[2406.09407v1](http://arxiv.org/abs/2406.09407v1)|**[link](https://github.com/hashmatshadab/mambarobustness)**|
+|**2024-06-13**|**OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation**|Junke Wang et.al.|[2406.09399v1](http://arxiv.org/abs/2406.09399v1)|**[link](https://github.com/foundationvision/omnitokenizer)**|
+|**2024-06-13**|**Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset**|Yiming Li et.al.|[2406.09383v1](http://arxiv.org/abs/2406.09383v1)|null|
+|**2024-06-13**|**Measuring the CMB spectral distortions with COSMO: the multi-mode antenna system**|E. Manzan et.al.|[2406.09349v1](http://arxiv.org/abs/2406.09349v1)|null|
+|**2024-06-13**|**Separations in the Representational Capabilities of Transformers and Recurrent Architectures**|Satwik Bhattamishra et.al.|[2406.09347v1](http://arxiv.org/abs/2406.09347v1)|null|
+|**2024-06-13**|**Scoreformer: A Surrogate Model For Large-Scale Prediction of Docking Scores**|Álvaro Ciudad et.al.|[2406.09346v1](http://arxiv.org/abs/2406.09346v1)|null|
+|**2024-06-13**|**Vertical LoRA: Dense Expectation-Maximization Interpretation of Transformers**|Zhuolin Fu et.al.|[2406.09315v1](http://arxiv.org/abs/2406.09315v1)|**[link](https://github.com/neverUseThisName/vlora)**|
+|**2024-06-13**|**Transformers meet Neural Algorithmic Reasoners**|Wilfried Bounsi et.al.|[2406.09308v1](http://arxiv.org/abs/2406.09308v1)|null|
+|**2024-06-13**|**Hands-free teleoperation of a nearby manipulator through a virtual body-to-robot link**|Alexis Poignant et.al.|[2406.09301v1](http://arxiv.org/abs/2406.09301v1)|null|
+|**2024-06-13**|**MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding**|Zayd Muhammad Kawakibi Zuhri et.al.|[2406.09297v1](http://arxiv.org/abs/2406.09297v1)|**[link](https://github.com/zaydzuhri/pythia-mlkv)**|
+|**2024-06-13**|**Parameter-Efficient Active Learning for Foundational models**|Athmanarayanan Lakshmi Narayanan et.al.|[2406.09296v1](http://arxiv.org/abs/2406.09296v1)|null|
+|**2024-06-13**|**Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers**|Izumi Takahara et.al.|[2406.09263v1](http://arxiv.org/abs/2406.09263v1)|null|
+|**2024-06-13**|**Deep Transformer Network for Monocular Pose Estimation of Ship-Based UAV**|Maneesha Wickramasuriya et.al.|[2406.09260v1](http://arxiv.org/abs/2406.09260v1)|null|
+|**2024-06-13**|**C2HLSC: Can LLMs Bridge the Software-to-Hardware Design Gap?**|Luca Collini et.al.|[2406.09233v1](http://arxiv.org/abs/2406.09233v1)|null|
+|**2024-06-13**|**MGRQ: Post-Training Quantization For Vision Transformer With Mixed Granularity Reconstruction**|Lianwei Yang et.al.|[2406.09229v1](http://arxiv.org/abs/2406.09229v1)|null|
+|**2024-06-13**|**Joint Power Allocation and Beamforming Design for Active IRS-Aided Directional Modulation Secure Systems**|Yifan Zhao et.al.|[2406.09192v1](http://arxiv.org/abs/2406.09192v1)|null|
+|**2024-06-13**|**Vision Transformer Segmentation for Visual Bird Sound Denoising**|Sahil Kumar et.al.|[2406.09167v1](http://arxiv.org/abs/2406.09167v1)|null|
+|**2024-06-13**|**Generating QES potentials supporting zero energy normalizable states for an extended class of truncated Calogero Sutherland model**|Satish Yadav et.al.|[2406.09164v1](http://arxiv.org/abs/2406.09164v1)|null|
+|**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161v1](http://arxiv.org/abs/2406.09161v1)|null|
+|**2024-06-13**|**CoastTerm: a Corpus for Multidisciplinary Term Extraction in Coastal Scientific Literature**|Julien Delaunay et.al.|[2406.09128v1](http://arxiv.org/abs/2406.09128v1)|null|
+|**2024-06-13**|**Spectroscopy of two-dimensional interacting lattice electrons using symmetry-aware neural backflow transformations**|Imelda Romero et.al.|[2406.09077v1](http://arxiv.org/abs/2406.09077v1)|null|
+|**2024-06-13**|**Strong External Difference Families and Classification of  $α$ -valuations**|Donald L. Kreher et.al.|[2406.09075v1](http://arxiv.org/abs/2406.09075v1)|null|
+|**2024-06-13**|**How structured are the representations in transformer-based vision encoders? An analysis of multi-object representations in vision-language models**|Tarun Khajuria et.al.|[2406.09067v1](http://arxiv.org/abs/2406.09067v1)|null|
+|**2024-06-13**|**State-Space Modeling in Long Sequence Processing: A Survey on Recurrence in the Transformer Era**|Matteo Tiezzi et.al.|[2406.09062v1](http://arxiv.org/abs/2406.09062v1)|null|
+|**2024-06-13**|**ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models**|Jing Liu et.al.|[2406.09041v1](http://arxiv.org/abs/2406.09041v1)|null|
+|**2024-06-13**|**E(2)-Equivariant Features in Machine Learning for Morphological Classification of Radio Galaxies**|Natalie E. P. Lines et.al.|[2406.09024v1](http://arxiv.org/abs/2406.09024v1)|null|
+|**2024-06-13**|**Towards Unified AI Models for MU-MIMO Communications: A Tensor Equivariance Framework**|Yafei Wang et.al.|[2406.09022v1](http://arxiv.org/abs/2406.09022v1)|null|
+|**2024-06-13**|**Cross-Modal Learning for Anomaly Detection in Fused Magnesium Smelting Process: Methodology and Benchmark**|Gaochang Wu et.al.|[2406.09016v1](http://arxiv.org/abs/2406.09016v1)|null|
+|**2024-06-13**|**Fredformer: Frequency Debiased Transformer for Time Series Forecasting**|Xihao Piao et.al.|[2406.09009v1](http://arxiv.org/abs/2406.09009v1)|**[link](https://github.com/chenzrg/fredformer)**|
+|**2024-06-13**|**Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification**|Yuankai Luo et.al.|[2406.08993v1](http://arxiv.org/abs/2406.08993v1)|**[link](https://github.com/LUOyk1999/tunedGNN)**|
+|**2024-06-13**|**The Behavior of Tree-Width and Path-Width under Graph Operations and Graph Transformations**|Frank Gurski et.al.|[2406.08985v1](http://arxiv.org/abs/2406.08985v1)|null|
+|**2024-06-13**|**Multi-Agent Software Development through Cross-Team Collaboration**|Zhuoyun Du et.al.|[2406.08979v1](http://arxiv.org/abs/2406.08979v1)|**[link](https://github.com/openbmb/chatdev)**|
+|**2024-06-13**|**Signature of non-trivial band topology in Shubnikov--de Haas oscillations**|Denis R. Candido et.al.|[2406.08977v1](http://arxiv.org/abs/2406.08977v1)|null|
+|**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943v1](http://arxiv.org/abs/2406.08943v1)|null|
+|**2024-06-13**|**Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals**|Qihan Hu et.al.|[2406.08930v1](http://arxiv.org/abs/2406.08930v1)|null|
+|**2024-06-13**|**Multiple Prior Representation Learning for Self-Supervised Monocular Depth Estimation via Hybrid Transformer**|Guodong Sun et.al.|[2406.08928v1](http://arxiv.org/abs/2406.08928v1)|**[link](https://github.com/mvme-hbut/mprlnet)**|
+|**2024-06-13**|**Strong gravitational lenses from the Vera C. Rubin Observatory**|Anowar J. Shajib et.al.|[2406.08919v1](http://arxiv.org/abs/2406.08919v1)|**[link](https://github.com/ajshajib/dark_energy_forecast_rubin_strong_lensing)**|
+|**2024-06-13**|**Impact of potential and temperature fluctuations on charge and heat transport in quantum Hall edges in the heat Coulomb blockade regime**|Christian Spånslätt et.al.|[2406.08910v1](http://arxiv.org/abs/2406.08910v1)|null|
+|**2024-06-13**|**AdaPTwin: Low-Cost Adaptive Compression of Product Twins in Transformers**|Emil Biju et.al.|[2406.08904v1](http://arxiv.org/abs/2406.08904v1)|null|
+|**2024-06-13**|**Polynomial Reduction Methods and their Impact on QAOA Circuits**|Lukas Schmidbauer et.al.|[2406.08889v1](http://arxiv.org/abs/2406.08889v1)|null|
+|**2024-06-13**|**Low-Overhead Channel Estimation via 3D Extrapolation for TDD mmWave Massive MIMO Systems Under High-Mobility Scenarios**|Binggui Zhou et.al.|[2406.08887v1](http://arxiv.org/abs/2406.08887v1)|null|
+|**2024-06-13**|**The Penalized Inverse Probability Measure for Conformal Classification**|Paul Melki et.al.|[2406.08884v1](http://arxiv.org/abs/2406.08884v1)|null|
+|**2024-06-13**|**Cognitively Inspired Energy-Based World Models**|Alexi Gladstone et.al.|[2406.08862v1](http://arxiv.org/abs/2406.08862v1)|null|
+|**2024-06-13**|**Fusion of regional and sparse attention in Vision Transformers**|Nabil Ibtehaz et.al.|[2406.08859v1](http://arxiv.org/abs/2406.08859v1)|null|
+|**2024-06-13**|**Input-Gen: Guided Generation of Stateful Inputs for Testing, Tuning, and Training**|Ivan R. Ivanov et.al.|[2406.08843v1](http://arxiv.org/abs/2406.08843v1)|null|
+|**2024-06-13**|**ToSA: Token Selective Attention for Efficient Vision Transformers**|Manish Kumar Singh et.al.|[2406.08816v1](http://arxiv.org/abs/2406.08816v1)|null|
+|**2024-06-13**|**Asymptotic Birkhoff-Violation in Operational Theories: Thermodynamic Implications and Information Processing**|Ananya Chakraborty et.al.|[2406.08803v1](http://arxiv.org/abs/2406.08803v1)|null|
+|**2024-06-13**|**Hybrid Spatial-spectral Neural Network for Hyperspectral Image Denoising**|Hao Liang et.al.|[2406.08782v1](http://arxiv.org/abs/2406.08782v1)|null|
 |**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486v1](http://arxiv.org/abs/2406.08486v1)|**[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)**|
 |**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478v1](http://arxiv.org/abs/2406.08478v1)|null|
 |**2024-06-12**|**ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery**|Kam Woh Ng et.al.|[2406.08457v1](http://arxiv.org/abs/2406.08457v1)|**[link](https://github.com/kamwoh/concepthash)**|
