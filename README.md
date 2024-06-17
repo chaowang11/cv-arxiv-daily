@@ -29,7 +29,7 @@
 |**2024-06-13**|**Blind Super-Resolution via Meta-learning and Markov Chain Monte Carlo Simulation**|Jingyuan Xia et.al.|[2406.08896v1](http://arxiv.org/abs/2406.08896v1)|**[link](https://github.com/xylgroup/mlmc)**|
 |**2024-06-12**|** $\texttt{DiffLense}$ : A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442v1](http://arxiv.org/abs/2406.08442v1)|null|
 |**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377v1](http://arxiv.org/abs/2406.08377v1)|null|
-|**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177v1](http://arxiv.org/abs/2406.08177v1)|**[link](https://github.com/cswry/osediff)**|
+|**2024-06-14**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177v2](http://arxiv.org/abs/2406.08177v2)|**[link](https://github.com/cswry/osediff)**|
 |**2024-06-11**|**Image Neural Field Diffusion Models**|Yinbo Chen et.al.|[2406.07480v1](http://arxiv.org/abs/2406.07480v1)|null|
 |**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399v1](http://arxiv.org/abs/2406.07399v1)|null|
 |**2024-06-12**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255v2](http://arxiv.org/abs/2406.07255v2)|null|
@@ -1122,7 +1122,7 @@
 |**2024-06-13**|**Blind Super-Resolution via Meta-learning and Markov Chain Monte Carlo Simulation**|Jingyuan Xia et.al.|[2406.08896v1](http://arxiv.org/abs/2406.08896v1)|**[link](https://github.com/xylgroup/mlmc)**|
 |**2024-06-12**|** $\texttt{DiffLense}$ : A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442v1](http://arxiv.org/abs/2406.08442v1)|null|
 |**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377v1](http://arxiv.org/abs/2406.08377v1)|null|
-|**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177v1](http://arxiv.org/abs/2406.08177v1)|**[link](https://github.com/cswry/osediff)**|
+|**2024-06-14**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177v2](http://arxiv.org/abs/2406.08177v2)|**[link](https://github.com/cswry/osediff)**|
 |**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399v1](http://arxiv.org/abs/2406.07399v1)|null|
 |**2024-06-12**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255v2](http://arxiv.org/abs/2406.07255v2)|null|
 |**2024-06-10**|**2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution**|Kai Liu et.al.|[2406.06649v1](http://arxiv.org/abs/2406.06649v1)|**[link](https://github.com/kai-liu001/2dquant)**|
@@ -1695,8 +1695,8 @@
 |**2024-06-13**|**Transformers meet Neural Algorithmic Reasoners**|Wilfried Bounsi et.al.|[2406.09308v1](http://arxiv.org/abs/2406.09308v1)|null|
 |**2024-06-13**|**Hands-free teleoperation of a nearby manipulator through a virtual body-to-robot link**|Alexis Poignant et.al.|[2406.09301v1](http://arxiv.org/abs/2406.09301v1)|null|
 |**2024-06-13**|**MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding**|Zayd Muhammad Kawakibi Zuhri et.al.|[2406.09297v1](http://arxiv.org/abs/2406.09297v1)|**[link](https://github.com/zaydzuhri/pythia-mlkv)**|
-|**2024-06-13**|**Parameter-Efficient Active Learning for Foundational models**|Athmanarayanan Lakshmi Narayanan et.al.|[2406.09296v1](http://arxiv.org/abs/2406.09296v1)|null|
-|**2024-06-13**|**Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers**|Izumi Takahara et.al.|[2406.09263v1](http://arxiv.org/abs/2406.09263v1)|null|
+|**2024-06-14**|**Parameter-Efficient Active Learning for Foundational models**|Athmanarayanan Lakshmi Narayanan et.al.|[2406.09296v2](http://arxiv.org/abs/2406.09296v2)|null|
+|**2024-06-14**|**Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers**|Izumi Takahara et.al.|[2406.09263v2](http://arxiv.org/abs/2406.09263v2)|null|
 |**2024-06-13**|**Deep Transformer Network for Monocular Pose Estimation of Ship-Based UAV**|Maneesha Wickramasuriya et.al.|[2406.09260v1](http://arxiv.org/abs/2406.09260v1)|null|
 |**2024-06-13**|**C2HLSC: Can LLMs Bridge the Software-to-Hardware Design Gap?**|Luca Collini et.al.|[2406.09233v1](http://arxiv.org/abs/2406.09233v1)|null|
 |**2024-06-13**|**MGRQ: Post-Training Quantization For Vision Transformer With Mixed Granularity Reconstruction**|Lianwei Yang et.al.|[2406.09229v1](http://arxiv.org/abs/2406.09229v1)|null|
@@ -1713,7 +1713,7 @@
 |**2024-06-13**|**E(2)-Equivariant Features in Machine Learning for Morphological Classification of Radio Galaxies**|Natalie E. P. Lines et.al.|[2406.09024v1](http://arxiv.org/abs/2406.09024v1)|null|
 |**2024-06-13**|**Towards Unified AI Models for MU-MIMO Communications: A Tensor Equivariance Framework**|Yafei Wang et.al.|[2406.09022v1](http://arxiv.org/abs/2406.09022v1)|null|
 |**2024-06-13**|**Cross-Modal Learning for Anomaly Detection in Fused Magnesium Smelting Process: Methodology and Benchmark**|Gaochang Wu et.al.|[2406.09016v1](http://arxiv.org/abs/2406.09016v1)|null|
-|**2024-06-13**|**Fredformer: Frequency Debiased Transformer for Time Series Forecasting**|Xihao Piao et.al.|[2406.09009v1](http://arxiv.org/abs/2406.09009v1)|**[link](https://github.com/chenzrg/fredformer)**|
+|**2024-06-14**|**Fredformer: Frequency Debiased Transformer for Time Series Forecasting**|Xihao Piao et.al.|[2406.09009v2](http://arxiv.org/abs/2406.09009v2)|**[link](https://github.com/chenzrg/fredformer)**|
 |**2024-06-13**|**Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification**|Yuankai Luo et.al.|[2406.08993v1](http://arxiv.org/abs/2406.08993v1)|**[link](https://github.com/LUOyk1999/tunedGNN)**|
 |**2024-06-13**|**The Behavior of Tree-Width and Path-Width under Graph Operations and Graph Transformations**|Frank Gurski et.al.|[2406.08985v1](http://arxiv.org/abs/2406.08985v1)|null|
 |**2024-06-13**|**Multi-Agent Software Development through Cross-Team Collaboration**|Zhuoyun Du et.al.|[2406.08979v1](http://arxiv.org/abs/2406.08979v1)|**[link](https://github.com/openbmb/chatdev)**|
