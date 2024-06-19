@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -56,7 +56,7 @@
 |**2024-06-03**|**Arctic Sea Ice Image Super-Resolution Based on Multi-Scale Convolution and Dual-Gating Mechanism**|Zhaomin Fang et.al.|[2406.01240v1](http://arxiv.org/abs/2406.01240v1)|null|
 |**2024-06-02**|**Stealing Image-to-Image Translation Models With a Single Query**|Nurit Spingarn-Eliezer et.al.|[2406.00828v1](http://arxiv.org/abs/2406.00828v1)|null|
 |**2024-06-02**|**Multidimensional optical singularities and their applications**|Soon Wei Daniel Lim et.al.|[2406.00784v1](http://arxiv.org/abs/2406.00784v1)|null|
-|**2024-06-02**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676v1](http://arxiv.org/abs/2406.00676v1)|null|
+|**2024-06-18**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676v2](http://arxiv.org/abs/2406.00676v2)|null|
 |**2024-06-04**|**SuperGaussian: Repurposing Video Models for 3D Super Resolution**|Yuan Shen et.al.|[2406.00609v2](http://arxiv.org/abs/2406.00609v2)|null|
 |**2024-06-01**|**GLCAN: Global-Local Collaborative Auxiliary Network for Local Learning**|Feiyu Zhu et.al.|[2406.00446v1](http://arxiv.org/abs/2406.00446v1)|null|
 |**2024-06-01**|**SpikeMM: Flexi-Magnification of High-Speed Micro-Motions**|Baoyue Zhang et.al.|[2406.00383v1](http://arxiv.org/abs/2406.00383v1)|null|
@@ -1118,7 +1118,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -1514,7 +1514,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -1623,7 +1623,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -1642,7 +1642,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -1686,7 +1686,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## Transformer
 
@@ -1721,7 +1721,7 @@
 |**2024-06-17**|**Non-negative Einstein tensor factorization for unmixing hyperspectral images**|Anas El Hachimi et.al.|[2406.11471v1](http://arxiv.org/abs/2406.11471v1)|null|
 |**2024-06-17**|**Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures**|Enrico Russo et.al.|[2406.11452v1](http://arxiv.org/abs/2406.11452v1)|null|
 |**2024-06-17**|**Bloch sphere representation for Rabi oscillation driven by Rashba field in the two-dimensional harmonic confinement**|Kaichi Arai et.al.|[2406.11444v1](http://arxiv.org/abs/2406.11444v1)|null|
-|**2024-06-17**|**SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation**|Zhenchao Lin et.al.|[2406.11441v1](http://arxiv.org/abs/2406.11441v1)|null|
+|**2024-06-17**|**SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation**|Zhenchao Lin et.al.|[2406.11441v1](http://arxiv.org/abs/2406.11441v1)|**[link](https://github.com/Sylva-Lin/SWCF-Net)**|
 |**2024-06-17**|**Analysing the Behaviour of Tree-Based Neural Networks in Regression Tasks**|Peter Samoaa et.al.|[2406.11437v1](http://arxiv.org/abs/2406.11437v1)|**[link](https://github.com/petersamoaa/tree_based_nn_error_analysis)**|
 |**2024-06-17**|**A Simple and Effective  $L_2$  Norm-Based Strategy for KV Cache Compression**|Alessio Devoto et.al.|[2406.11430v1](http://arxiv.org/abs/2406.11430v1)|null|
 |**2024-06-17**|**DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer**|Keon Lee et.al.|[2406.11427v1](http://arxiv.org/abs/2406.11427v1)|null|
@@ -19119,7 +19119,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -19339,7 +19339,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -19429,7 +19429,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
