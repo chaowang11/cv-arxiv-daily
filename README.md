@@ -1694,7 +1694,7 @@
 |---|---|---|---|---|
 |**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831v1](http://arxiv.org/abs/2406.11831v1)|null|
 |**2024-06-17**|**New construction of a vacuum doubly rotating black ring by the Ehlers transformation**|Ryotaku Suzuki et.al.|[2406.11804v1](http://arxiv.org/abs/2406.11804v1)|null|
-|**2024-06-17**|**Provable Guarantees for Model Performance via Mechanistic Interpretability**|Jason Gross et.al.|[2406.11779v1](http://arxiv.org/abs/2406.11779v1)|**[link](https://github.com/JasonGross/guarantees-based-mechanistic-interpretability)**|
+|**2024-06-18**|**Provable Guarantees for Model Performance via Mechanistic Interpretability**|Jason Gross et.al.|[2406.11779v2](http://arxiv.org/abs/2406.11779v2)|**[link](https://github.com/JasonGross/guarantees-based-mechanistic-interpretability)**|
 |**2024-06-17**|**DustNet: skillful neural network predictions of Saharan dust**|Trish E. Nowak et.al.|[2406.11754v1](http://arxiv.org/abs/2406.11754v1)|null|
 |**2024-06-17**|**Flexible and Reversible Conversion between Extensible Records and Overloading Constraints for ML**|Alvise Spanò et.al.|[2406.11750v1](http://arxiv.org/abs/2406.11750v1)|null|
 |**2024-06-17**|**Critical Fermions are Universal Embezzlers**|Lauritz van Luijk et.al.|[2406.11747v1](http://arxiv.org/abs/2406.11747v1)|null|
