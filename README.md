@@ -1718,7 +1718,7 @@
 |**2024-06-21**|**A Syntax-Injected Approach for Faster and More Accurate Sentiment Analysis**|Muhammad Imran et.al.|[2406.15163v1](http://arxiv.org/abs/2406.15163v1)|null|
 |**2024-06-21**|**On the classification of Inoue surfaces**|Zahraa Khaled et.al.|[2406.15158v1](http://arxiv.org/abs/2406.15158v1)|null|
 |**2024-06-21**|**Dynamic Modelling of a Controlled Orthotropic Plate: Analytic and Data-Driven Approaches in the Frequency Domain**|Alexander Zuyev et.al.|[2406.15116v1](http://arxiv.org/abs/2406.15116v1)|null|
-|**2024-06-21**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111v1](http://arxiv.org/abs/2406.15111v1)|null|
+|**2024-06-24**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111v2](http://arxiv.org/abs/2406.15111v2)|null|
 |**2024-06-21**|**Brain-Like Language Processing via a Shallow Untrained Multihead Attention Network**|Badr AlKhamissi et.al.|[2406.15109v1](http://arxiv.org/abs/2406.15109v1)|null|
 |**2024-06-21**|**Generalized Vector Locus Transformation for Unbalanced Three-Phase Systems**|Maitraya Avadhut Desai et.al.|[2406.15106v1](http://arxiv.org/abs/2406.15106v1)|null|
 |**2024-06-21**|**ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification**|Xianlong Wang et.al.|[2406.15093v1](http://arxiv.org/abs/2406.15093v1)|**[link](https://github.com/cgcl-codes/eclipse)**|
@@ -1752,7 +1752,7 @@
 |**2024-06-20**|**Network visualization techniques for story charting**|Joao T. Aparicio et.al.|[2406.14734v1](http://arxiv.org/abs/2406.14734v1)|null|
 |**2024-06-20**|**Fermionic dynamical Casimir effect: Magnus expansion**|C. D. Fosco et.al.|[2406.14708v1](http://arxiv.org/abs/2406.14708v1)|null|
 |**2024-06-20**|**Voice Disorder Analysis: a Transformer-based Approach**|Alkis Koudounas et.al.|[2406.14693v1](http://arxiv.org/abs/2406.14693v1)|null|
-|**2024-06-20**|**Broadband Fourier-Transform Optical Photothermal Infrared Spectroscopy and Imaging**|Aleksandr Razumtcev et.al.|[2406.14689v1](http://arxiv.org/abs/2406.14689v1)|null|
+|**2024-06-24**|**Broadband Fourier-Transform Optical Photothermal Infrared Spectroscopy and Imaging**|Aleksandr Razumtcev et.al.|[2406.14689v2](http://arxiv.org/abs/2406.14689v2)|null|
 |**2024-06-20**|**Faraday tomography of LoTSS-DR2 data: III. Revealing the Local Bubble and the complex of local interstellar clouds in the high-latitude inner Galaxy**|Ana Erceg et.al.|[2406.14679v1](http://arxiv.org/abs/2406.14679v1)|null|
 |**2024-06-20**|** $\texttt{cunuSHT}$ : GPU Accelerated Spherical Harmonic Transforms on Arbitrary Pixelizations**|Sebastian Belkner et.al.|[2406.14542v1](http://arxiv.org/abs/2406.14542v1)|null|
 |**2024-06-20**|**DeciMamba: Exploring the Length Extrapolation Potential of Mamba**|Assaf Ben-Kish et.al.|[2406.14528v1](http://arxiv.org/abs/2406.14528v1)|**[link](https://github.com/assafbk/decimamba)**|
