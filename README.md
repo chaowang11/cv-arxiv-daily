@@ -23,6 +23,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477v1](http://arxiv.org/abs/2406.16477v1)|null|
+|**2024-06-24**|**Suppressing Uncertainties in Degradation Estimation for Blind Super-Resolution**|Junxiong Lin et.al.|[2406.16459v1](http://arxiv.org/abs/2406.16459v1)|null|
+|**2024-06-24**|**Improving Generative Adversarial Networks for Video Super-Resolution**|Daniel Wen et.al.|[2406.16359v1](http://arxiv.org/abs/2406.16359v1)|null|
+|**2024-06-23**|**Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning**|Ruisheng Gao et.al.|[2406.16083v1](http://arxiv.org/abs/2406.16083v1)|null|
+|**2024-06-23**|**Gridless Parameter Estimation in Partly Calibrated Rectangular Arrays**|Tianyi Liu et.al.|[2406.16041v1](http://arxiv.org/abs/2406.16041v1)|null|
+|**2024-06-23**|**Learning Accurate and Enriched Features for Stereo Image Super-Resolution**|Hu Gao et.al.|[2406.16001v1](http://arxiv.org/abs/2406.16001v1)|null|
 |**2024-06-21**|**A Generative Machine Learning Approach for Improving Precipitation from Earth System Models**|Philipp Hess et.al.|[2406.15026v1](http://arxiv.org/abs/2406.15026v1)|null|
 |**2024-06-20**|**Zero-Shot Image Denoising for High-Resolution Electron Microscopy**|Xuanyu Tian et.al.|[2406.14264v1](http://arxiv.org/abs/2406.14264v1)|null|
 |**2024-06-19**|**IG-CFAT: An Improved GAN-Based Framework for Effectively Exploiting Transformers in Real-World Image Super-Resolution**|Alireza Aghelan et.al.|[2406.13815v1](http://arxiv.org/abs/2406.13815v1)|null|
@@ -1132,6 +1138,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477v1](http://arxiv.org/abs/2406.16477v1)|null|
+|**2024-06-24**|**Suppressing Uncertainties in Degradation Estimation for Blind Super-Resolution**|Junxiong Lin et.al.|[2406.16459v1](http://arxiv.org/abs/2406.16459v1)|null|
+|**2024-06-24**|**Improving Generative Adversarial Networks for Video Super-Resolution**|Daniel Wen et.al.|[2406.16359v1](http://arxiv.org/abs/2406.16359v1)|null|
+|**2024-06-23**|**Learning Accurate and Enriched Features for Stereo Image Super-Resolution**|Hu Gao et.al.|[2406.16001v1](http://arxiv.org/abs/2406.16001v1)|null|
 |**2024-06-19**|**IG-CFAT: An Improved GAN-Based Framework for Effectively Exploiting Transformers in Real-World Image Super-Resolution**|Alireza Aghelan et.al.|[2406.13815v1](http://arxiv.org/abs/2406.13815v1)|null|
 |**2024-06-19**|**Enhance the Image: Super Resolution using Artificial Intelligence in MRI**|Ziyu Li et.al.|[2406.13625v1](http://arxiv.org/abs/2406.13625v1)|null|
 |**2024-06-18**|**LFMamba: Light Field Image Super-Resolution with State Space Model**|Wang xia et.al.|[2406.12463v1](http://arxiv.org/abs/2406.12463v1)|null|
@@ -1531,6 +1541,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Improving Generative Adversarial Networks for Video Super-Resolution**|Daniel Wen et.al.|[2406.16359v1](http://arxiv.org/abs/2406.16359v1)|null|
 |**2024-06-19**|**EvTexture: Event-driven Texture Enhancement for Video Super-Resolution**|Dachun Kai et.al.|[2406.13457v1](http://arxiv.org/abs/2406.13457v1)|**[link](https://github.com/dachunkai/evtexture)**|
 |**2024-05-22**|**HR-INR: Continuous Space-Time Video Super-Resolution via Event Camera**|Yunfan Lu et.al.|[2405.13389v1](http://arxiv.org/abs/2405.13389v1)|null|
 |**2024-05-04**|**Towards Real-world Video Face Restoration: A New Benchmark**|Ziyan Chen et.al.|[2404.19500v2](http://arxiv.org/abs/2404.19500v2)|null|
@@ -1704,6 +1715,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**GeoMFormer: A General Architecture for Geometric Molecular Representation Learning**|Tianlang Chen et.al.|[2406.16853v1](http://arxiv.org/abs/2406.16853v1)|**[link](https://github.com/c-tl/geomformer)**|
+|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2024-06-24**|**Numerical methods for eigenvalues of singular polynomial eigenvalue problems**|Michiel E. Hochstenbach et.al.|[2406.16832v1](http://arxiv.org/abs/2406.16832v1)|null|
+|**2024-06-24**|**Exploring the Capability of Mamba in Speech Applications**|Koichi Miyazaki et.al.|[2406.16808v1](http://arxiv.org/abs/2406.16808v1)|null|
+|**2024-06-24**|**Adam-mini: Use Fewer Learning Rates To Gain More**|Yushun Zhang et.al.|[2406.16793v1](http://arxiv.org/abs/2406.16793v1)|null|
+|**2024-06-24**|**Generalized and high-efficiency arbitrary-positioned buffer for smoothed particle hydrodynamics**|Shuoguo Zhang et.al.|[2406.16786v1](http://arxiv.org/abs/2406.16786v1)|null|
+|**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784v1](http://arxiv.org/abs/2406.16784v1)|null|
+|**2024-06-24**|**Finding Transformer Circuits with Edge Pruning**|Adithya Bhaskar et.al.|[2406.16778v1](http://arxiv.org/abs/2406.16778v1)|**[link](https://github.com/princeton-nlp/edge-pruning)**|
+|**2024-06-24**|**Some relations in topological dynamics**|Joseph Auslander et.al.|[2406.16775v1](http://arxiv.org/abs/2406.16775v1)|null|
+|**2024-06-24**|**Walks with jumps: a neurobiologically motivated class of paths in the hyperbolic plane**|Jason DeBlois et.al.|[2406.16765v1](http://arxiv.org/abs/2406.16765v1)|null|
+|**2024-06-24**|**Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers**|Chao Lou et.al.|[2406.16747v1](http://arxiv.org/abs/2406.16747v1)|null|
+|**2024-06-24**|**Extracting thin film structures of energy materials using transformers**|Chen Zhang et.al.|[2406.16741v1](http://arxiv.org/abs/2406.16741v1)|null|
+|**2024-06-24**|**Venturing into Uncharted Waters: The Navigation Compass from Transformer to Mamba**|Yuchen Zou et.al.|[2406.16722v1](http://arxiv.org/abs/2406.16722v1)|null|
+|**2024-06-24**|**CausalFormer: An Interpretable Transformer for Temporal Causal Discovery**|Lingbai Kong et.al.|[2406.16708v1](http://arxiv.org/abs/2406.16708v1)|**[link](https://github.com/lingbai-kong/causalformer)**|
+|**2024-06-24**|**Scaling Laws for Linear Complexity Language Models**|Xuyang Shen et.al.|[2406.16690v1](http://arxiv.org/abs/2406.16690v1)|null|
+|**2024-06-24**|**Link Prediction with Untrained Message Passing Layers**|Lisi Qarkaxhija et.al.|[2406.16687v1](http://arxiv.org/abs/2406.16687v1)|null|
+|**2024-06-24**|**Towards Communication-Efficient Peer-to-Peer Networks**|Khalid Hourani et.al.|[2406.16661v1](http://arxiv.org/abs/2406.16661v1)|null|
+|**2024-06-24**|**The Coherent State Transform and an Application to the Hyperbolic Laplacian**|Timon Ruben Weinmann et.al.|[2406.16657v1](http://arxiv.org/abs/2406.16657v1)|null|
+|**2024-06-24**|**Radiative QED corrections to the lepton anomaly from four-loop vacuum polarization insertions with three identical leptons**|O. P. Solovtsova et.al.|[2406.16645v1](http://arxiv.org/abs/2406.16645v1)|null|
+|**2024-06-24**|**Feature Fusion for Human Activity Recognition using Parameter-Optimized Multi-Stage Graph Convolutional Network and Transformer Models**|Mohammad Belal et.al.|[2406.16638v1](http://arxiv.org/abs/2406.16638v1)|null|
+|**2024-06-24**|**Mind the step: On the frequency-domain analysis of gravitational-wave memory waveforms**|Jorge Valencia et.al.|[2406.16636v1](http://arxiv.org/abs/2406.16636v1)|null|
+|**2024-06-24**|**Evaluation of Language Models in the Medical Context Under Resource-Constrained Settings**|Andrea Posada et.al.|[2406.16611v1](http://arxiv.org/abs/2406.16611v1)|**[link](https://github.com/anpoc/language-models-in-medicine)**|
+|**2024-06-24**|**Noisy Neighbors: Efficient membership inference attacks against LLMs**|Filippo Galli et.al.|[2406.16565v1](http://arxiv.org/abs/2406.16565v1)|null|
+|**2024-06-24**|**Are there identifiable structural parts in the sentence embedding whole?**|Vivi Nastase et.al.|[2406.16563v1](http://arxiv.org/abs/2406.16563v1)|null|
+|**2024-06-24**|**GNNTAL:A Novel Model for Identifying Critical Nodes in Complex Networks**|Hao Wang et.al.|[2406.16560v1](http://arxiv.org/abs/2406.16560v1)|null|
+|**2024-06-24**|**LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training**|Tong Zhu et.al.|[2406.16554v1](http://arxiv.org/abs/2406.16554v1)|**[link](https://github.com/pjlab-sys4nlp/llama-moe)**|
+|**2024-06-24**|**The fate of the interstellar medium in early-type galaxies. IV. The impact of stellar feedback, mergers, and black holes on the cold ISM in simulated galaxies**|Jakub Nadolny et.al.|[2406.16533v1](http://arxiv.org/abs/2406.16533v1)|null|
+|**2024-06-24**|**Vision Mamba-based autonomous crack segmentation on concrete, asphalt, and masonry surfaces**|Zhaohui Chen et.al.|[2406.16518v1](http://arxiv.org/abs/2406.16518v1)|null|
+|**2024-06-24**|**Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series**|Theresa Follath et.al.|[2406.16513v1](http://arxiv.org/abs/2406.16513v1)|null|
+|**2024-06-24**|**LOGCAN++: Local-global class-aware network for semantic segmentation of remote sensing images**|Xiaowen Ma et.al.|[2406.16502v1](http://arxiv.org/abs/2406.16502v1)|**[link](https://github.com/xwmaxwma/rssegmentation)**|
+|**2024-06-24**|**Mixed precision iterative refinement for least squares with linear equality constraints and generalized least squares problems**|Bowen Gao et.al.|[2406.16499v1](http://arxiv.org/abs/2406.16499v1)|null|
+|**2024-06-24**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495v1](http://arxiv.org/abs/2406.16495v1)|**[link](https://github.com/LoserCheems/OTCE)**|
+|**2024-06-24**|**Cross-domain Transfer of Valence Preferences via a Meta-optimization Approach**|Chuang Zhao et.al.|[2406.16494v1](http://arxiv.org/abs/2406.16494v1)|**[link](https://github.com/data-designer/maprec)**|
+|**2024-06-24**|**Bijective BWT based compression schemes**|Golnaz Badkobeh et.al.|[2406.16475v1](http://arxiv.org/abs/2406.16475v1)|null|
+|**2024-06-24**|**Distance-based Chatterjee correlation: a new generalized robust measure of directed association for multivariate real and complex-valued data**|Roberto D. Pascual-Marqui et.al.|[2406.16458v1](http://arxiv.org/abs/2406.16458v1)|null|
+|**2024-06-24**|**Automated Privacy-Preserving Techniques via Meta-Learning**|Tânia Carvalho et.al.|[2406.16456v1](http://arxiv.org/abs/2406.16456v1)|null|
+|**2024-06-24**|**Learning in Wilson-Cowan model for metapopulation**|Raffaele Marino et.al.|[2406.16453v1](http://arxiv.org/abs/2406.16453v1)|**[link](https://github.com/raffaelemarino/learning_in_wilsoncowan)**|
+|**2024-06-24**|**A Queuing Envelope Model for Estimating Latency Guarantees in Deterministic Networking Scenarios**|Nataliia Koneva et.al.|[2406.16452v1](http://arxiv.org/abs/2406.16452v1)|null|
+|**2024-06-24**|**Building on Efficient Foundations: Effectively Training LLMs with Structured Feedforward Layers**|Xiuying Wei et.al.|[2406.16450v1](http://arxiv.org/abs/2406.16450v1)|null|
+|**2024-06-24**|**Transient Evaluation of Non-Markovian Models by Stochastic State Classes and Simulation**|Gabriel Dengler et.al.|[2406.16447v1](http://arxiv.org/abs/2406.16447v1)|null|
+|**2024-06-24**|**Square-Triangle Tilings: Lift & Flip to Sample?**|Thomas Fernique et.al.|[2406.16402v1](http://arxiv.org/abs/2406.16402v1)|null|
+|**2024-06-24**|**Testing Topological Data Analysis for Condition Monitoring of Wind Turbines**|Simone Casolo et.al.|[2406.16380v1](http://arxiv.org/abs/2406.16380v1)|null|
+|**2024-06-24**|**On the Transformations across Reward Model, Parameter Update, and In-Context Prompt**|Deng Cai et.al.|[2406.16377v1](http://arxiv.org/abs/2406.16377v1)|null|
+|**2024-06-24**|**METRIK: Measurement-Efficient Randomized Controlled Trials using Transformers with Input Masking**|Sayeri Lala et.al.|[2406.16351v1](http://arxiv.org/abs/2406.16351v1)|null|
+|**2024-06-24**|**CONCERTO: Instrument model of Fourier transform spectroscopy, white-noise components**|Alessandro Fasano et.al.|[2406.16334v1](http://arxiv.org/abs/2406.16334v1)|null|
+|**2024-06-24**|**Low-Complexity CSI Feedback for FDD Massive MIMO Systems via Learning to Optimize**|Yifan Ma et.al.|[2406.16323v1](http://arxiv.org/abs/2406.16323v1)|null|
+|**2024-06-24**|**Priorformer: A UGC-VQA Method with content and distortion priors**|Yajing Pei et.al.|[2406.16297v1](http://arxiv.org/abs/2406.16297v1)|null|
+|**2024-06-24**|**Relaxing Continuous Constraints of Equivariant Graph Neural Networks for Physical Dynamics Learning**|Zinan Zheng et.al.|[2406.16295v1](http://arxiv.org/abs/2406.16295v1)|**[link](https://github.com/compasszzn/degnn)**|
+|**2024-06-24**|**Placing Timely Refreshing Services at the Network Edge**|Xishuo Li et.al.|[2406.16280v1](http://arxiv.org/abs/2406.16280v1)|null|
+|**2024-06-23**|**Prescribed mean curvature problems on homogeneous vector bundles**|Eder M. Correa et.al.|[2406.16243v1](http://arxiv.org/abs/2406.16243v1)|null|
 |**2024-06-21**|**GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation**|Chubin Zhang et.al.|[2406.15333v1](http://arxiv.org/abs/2406.15333v1)|**[link](https://github.com/alibaba-yuanjing-aigclab/geolrm)**|
 |**2024-06-21**|**An End-to-End, Segmentation-Free, Arabic Handwritten Recognition Model on KHATT**|Sondos Aabed et.al.|[2406.15329v1](http://arxiv.org/abs/2406.15329v1)|null|
 |**2024-06-21**|**Fine-grained Attention in Hierarchical Transformers for Tabular Time-series**|Raphael Azorin et.al.|[2406.15327v1](http://arxiv.org/abs/2406.15327v1)|**[link](https://github.com/raphaaal/fieldy)**|
@@ -19287,6 +19348,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-22**|**PointDreamer: Zero-shot 3D Textured Mesh Reconstruction from Colored Point Cloud by 2D Inpainting**|Qiao Yu et.al.|[2406.15811v1](http://arxiv.org/abs/2406.15811v1)|**[link](https://github.com/yuqiao0303/pointdreamer)**|
 |**2024-06-17**|**Quaternion Generative Adversarial Neural Networks and Applications to Color Image Inpainting**|Duan Wang et.al.|[2406.11567v1](http://arxiv.org/abs/2406.11567v1)|null|
 |**2024-06-08**|**Hinge-FM2I: An Approach using Image Inpainting for Interpolating Missing Data in Univariate Time Series**|Noufel Saad et.al.|[2406.06631v1](http://arxiv.org/abs/2406.06631v1)|null|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
