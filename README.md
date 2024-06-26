@@ -1719,7 +1719,7 @@
 |**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
 |**2024-06-24**|**Numerical methods for eigenvalues of singular polynomial eigenvalue problems**|Michiel E. Hochstenbach et.al.|[2406.16832v1](http://arxiv.org/abs/2406.16832v1)|null|
 |**2024-06-24**|**Exploring the Capability of Mamba in Speech Applications**|Koichi Miyazaki et.al.|[2406.16808v1](http://arxiv.org/abs/2406.16808v1)|null|
-|**2024-06-24**|**Adam-mini: Use Fewer Learning Rates To Gain More**|Yushun Zhang et.al.|[2406.16793v1](http://arxiv.org/abs/2406.16793v1)|null|
+|**2024-06-25**|**Adam-mini: Use Fewer Learning Rates To Gain More**|Yushun Zhang et.al.|[2406.16793v2](http://arxiv.org/abs/2406.16793v2)|null|
 |**2024-06-24**|**Generalized and high-efficiency arbitrary-positioned buffer for smoothed particle hydrodynamics**|Shuoguo Zhang et.al.|[2406.16786v1](http://arxiv.org/abs/2406.16786v1)|null|
 |**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784v1](http://arxiv.org/abs/2406.16784v1)|null|
 |**2024-06-24**|**Finding Transformer Circuits with Edge Pruning**|Adithya Bhaskar et.al.|[2406.16778v1](http://arxiv.org/abs/2406.16778v1)|**[link](https://github.com/princeton-nlp/edge-pruning)**|
