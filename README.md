@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -1133,7 +1133,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -1536,7 +1536,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -1647,7 +1647,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -1666,7 +1666,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -1710,7 +1710,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
 
 ## Transformer
 
@@ -1728,18 +1728,18 @@
 |**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688v1](http://arxiv.org/abs/2406.17688v1)|null|
 |**2024-06-25**|**Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2406.17679v1](http://arxiv.org/abs/2406.17679v1)|null|
 |**2024-06-25**|**Understanding phase transitions of  $α$ -quartz under dynamic compression conditions by machine-learning driven atomistic simulations**|Linus C. Erhard et.al.|[2406.17676v1](http://arxiv.org/abs/2406.17676v1)|null|
-|**2024-06-25**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunita et.al.|[2406.17672v1](http://arxiv.org/abs/2406.17672v1)|null|
+|**2024-06-26**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunità et.al.|[2406.17672v2](http://arxiv.org/abs/2406.17672v2)|null|
 |**2024-06-25**|**Brain Tumor Classification using Vision Transformer with Selective Cross-Attention Mechanism and Feature Calibration**|Mohammad Ali Labbaf Khaniki et.al.|[2406.17670v1](http://arxiv.org/abs/2406.17670v1)|null|
 |**2024-06-25**|**This Paper Had the Smartest Reviewers -- Flattery Detection Utilising an Audio-Textual Transformer-Based Approach**|Lukas Christ et.al.|[2406.17667v1](http://arxiv.org/abs/2406.17667v1)|null|
 |**2024-06-25**|**Transformer-based segmentation of adnexal lesions and ovarian implants in CT images**|Aneesh Rangnekar et.al.|[2406.17666v1](http://arxiv.org/abs/2406.17666v1)|null|
 |**2024-06-25**|**Grass: Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients**|Aashiq Muhamed et.al.|[2406.17660v1](http://arxiv.org/abs/2406.17660v1)|**[link](https://github.com/aashiqmuhamed/grass)**|
 |**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[2406.17654v1](http://arxiv.org/abs/2406.17654v1)|null|
-|**2024-06-25**|**Aligning Programming Language and Natural Language: Exploring Design Choices in Multi-Modal Transformer-Based Embedding for Bug Localization**|Partha Chakraborty et.al.|[2406.17615v1](http://arxiv.org/abs/2406.17615v1)|null|
+|**2024-06-25**|**Aligning Programming Language and Natural Language: Exploring Design Choices in Multi-Modal Transformer-Based Embedding for Bug Localization**|Partha Chakraborty et.al.|[2406.17615v1](http://arxiv.org/abs/2406.17615v1)|**[link](https://zenodo.org/record/10519746)**|
 |**2024-06-25**|**YAQQ: Yet Another Quantum Quantizer -- Design Space Exploration of Quantum Gate Sets using Novelty Search**|Aritra Sarkar et.al.|[2406.17610v1](http://arxiv.org/abs/2406.17610v1)|null|
 |**2024-06-25**|**Test-Time Generative Augmentation for Medical Image Segmentation**|Xiao Ma et.al.|[2406.17608v1](http://arxiv.org/abs/2406.17608v1)|**[link](https://github.com/maxiao0234/ttga)**|
 |**2024-06-25**|**Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text**|Xinyang Li et.al.|[2406.17601v1](http://arxiv.org/abs/2406.17601v1)|**[link](https://github.com/imlixinyang/director3d)**|
 |**2024-06-25**|**Towards Compositional Interpretability for XAI**|Sean Tull et.al.|[2406.17583v1](http://arxiv.org/abs/2406.17583v1)|null|
-|**2024-06-25**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565v1](http://arxiv.org/abs/2406.17565v1)|null|
+|**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565v2](http://arxiv.org/abs/2406.17565v2)|null|
 |**2024-06-25**|**Point Tree Transformer for Point Cloud Registration**|Meiling Wang et.al.|[2406.17530v1](http://arxiv.org/abs/2406.17530v1)|null|
 |**2024-06-25**|**Making Tax Smart: Feasibility of Distributed Ledger Technology for building tax compliance functionality to Central Bank Digital Currency**|Panos Louvieris et.al.|[2406.17512v1](http://arxiv.org/abs/2406.17512v1)|null|
 |**2024-06-25**|**Synthesis pathways to thin films of stable layered nitrides**|Andriy Zakutayev et.al.|[2406.17492v1](http://arxiv.org/abs/2406.17492v1)|null|
@@ -19393,7 +19393,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -19614,7 +19614,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -19706,7 +19706,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
