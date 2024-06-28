@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**Super-resolution imaging using super-oscillatory diffractive neural networks**|Hang Chen et.al.|[2406.19126v1](http://arxiv.org/abs/2406.19126v1)|null|
 |**2024-06-26**|**Spatial-temporal Hierarchical Reinforcement Learning for Interpretable Pathology Image Super-Resolution**|Wenting Chen et.al.|[2406.18310v1](http://arxiv.org/abs/2406.18310v1)|**[link](https://github.com/cuhk-aim-group/star-rl)**|
 |**2024-06-25**|**V2X Sidelink Positioning in FR1: From Ray-Tracing and Channel Estimation to Bayesian Tracking**|Yu Ge et.al.|[2406.17950v1](http://arxiv.org/abs/2406.17950v1)|null|
 |**2024-06-25**|**Burst Image Super-Resolution with Base Frame Selection**|Sanghyun Kim et.al.|[2406.17869v1](http://arxiv.org/abs/2406.17869v1)|null|
@@ -1721,6 +1722,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**SimLOB: Learning Representations of Limited Order Book for Financial Market Simulation**|Yuanzhe Li et.al.|[2406.19396v1](http://arxiv.org/abs/2406.19396v1)|null|
+|**2024-06-27**|**Looking 3D: Anomaly Detection with 2D-3D Alignment**|Ankan Bhunia et.al.|[2406.19393v1](http://arxiv.org/abs/2406.19393v1)|**[link](https://github.com/vico-uoe/looking3d)**|
+|**2024-06-27**|**Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**|Ali Khaleghi Rahimian et.al.|[2406.19391v1](http://arxiv.org/abs/2406.19391v1)|null|
+|**2024-06-27**|**Taming Data and Transformers for Audio Generation**|Moayed Haji-Ali et.al.|[2406.19388v1](http://arxiv.org/abs/2406.19388v1)|null|
+|**2024-06-27**|**Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**|Haobo Yuan et.al.|[2406.19369v1](http://arxiv.org/abs/2406.19369v1)|null|
+|**2024-06-27**|**PUREPath: A Deep Latent Variational Model for Estimating CMB Posterior over Large Angular Scales of the Sky**|Vipin Sudevan et.al.|[2406.19367v1](http://arxiv.org/abs/2406.19367v1)|null|
+|**2024-06-27**|**Learning Visual Conditioning Tokens to Correct Domain Shift for Fully Test-time Adaptation**|Yushun Tang et.al.|[2406.19341v1](http://arxiv.org/abs/2406.19341v1)|null|
+|**2024-06-27**|**Simple homotopy invariance of the loop coproduct**|Florian Naef et.al.|[2406.19326v1](http://arxiv.org/abs/2406.19326v1)|null|
+|**2024-06-27**|**Fractional Gaussian forms and gauge theory: an overview**|Sky Cao et.al.|[2406.19321v1](http://arxiv.org/abs/2406.19321v1)|null|
+|**2024-06-27**|**Efficient World Models with Context-Aware Tokenization**|Vincent Micheli et.al.|[2406.19320v1](http://arxiv.org/abs/2406.19320v1)|**[link](https://github.com/vmicheli/delta-iris)**|
+|**2024-06-27**|**Vehicle-to-Grid Technology meets Packetized Energy Management: A Co-Simulation Study**|Freddy Tuxworth et.al.|[2406.19296v1](http://arxiv.org/abs/2406.19296v1)|null|
+|**2024-06-27**|**Short presentations for transformation monoids**|James D. Mitchell et.al.|[2406.19294v1](http://arxiv.org/abs/2406.19294v1)|null|
+|**2024-06-27**|**Preserving quantum information in  $f(Q)$  cosmology**|Salvatore Capozziello et.al.|[2406.19274v1](http://arxiv.org/abs/2406.19274v1)|null|
+|**2024-06-27**|**On the stability of fracton gravity**|Evangelos Afxonidis et.al.|[2406.19268v1](http://arxiv.org/abs/2406.19268v1)|null|
+|**2024-06-27**|**Commodification of Compute**|Jesper Kristensen et.al.|[2406.19261v1](http://arxiv.org/abs/2406.19261v1)|null|
+|**2024-06-27**|**Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers**|Jinsong Chen et.al.|[2406.19258v1](http://arxiv.org/abs/2406.19258v1)|null|
+|**2024-06-27**|**Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**|Hao Fei et.al.|[2406.19255v1](http://arxiv.org/abs/2406.19255v1)|null|
+|**2024-06-27**|**Advection Augmented Convolutional Neural Networks**|Niloufar Zakariaei et.al.|[2406.19253v1](http://arxiv.org/abs/2406.19253v1)|null|
+|**2024-06-27**|**AutoRAG-HP: Automatic Online Hyper-Parameter Tuning for Retrieval-Augmented Generation**|Jia Fu et.al.|[2406.19251v1](http://arxiv.org/abs/2406.19251v1)|null|
+|**2024-06-27**|**NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification**|Jinsong Chen et.al.|[2406.19249v1](http://arxiv.org/abs/2406.19249v1)|null|
+|**2024-06-27**|**Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**|Minghan Li et.al.|[2406.19236v1](http://arxiv.org/abs/2406.19236v1)|**[link](https://github.com/lpercc/ha3d_simulator)**|
+|**2024-06-27**|**Gauge Invariance of Equilibrium Statistical Mechanics**|Johanna Müller et.al.|[2406.19235v1](http://arxiv.org/abs/2406.19235v1)|null|
+|**2024-06-27**|**Hack Me If You Can: Aggregating AutoEncoders for Countering Persistent Access Threats Within Highly Imbalanced Data**|Sidahmed Benabderrahmane et.al.|[2406.19220v1](http://arxiv.org/abs/2406.19220v1)|null|
+|**2024-06-27**|**Think Step by Step: Chain-of-Gesture Prompting for Error Detection in Robotic Surgical Videos**|Zhimin Shao et.al.|[2406.19217v1](http://arxiv.org/abs/2406.19217v1)|null|
+|**2024-06-27**|**OTFS-NOMA System for MIMO Communication Networks with Spatial Diversity**|Wafa Hedhly et.al.|[2406.19216v1](http://arxiv.org/abs/2406.19216v1)|null|
+|**2024-06-27**|**Metaheuristics for finding threshold graphs with maximum spectral radius**|Luka Radanović et.al.|[2406.19209v1](http://arxiv.org/abs/2406.19209v1)|null|
+|**2024-06-27**|**Conformal Yang-Mills field in (A)dS space**|R. R. Metsaev et.al.|[2406.19182v1](http://arxiv.org/abs/2406.19182v1)|null|
+|**2024-06-27**|**Gravitational waveforms from inspiral compact binaries in Hybrid metric-Palatini gravity**|P. I. Dyadina et.al.|[2406.19159v1](http://arxiv.org/abs/2406.19159v1)|null|
+|**2024-06-27**|**YZS-model: A Predictive Model for Organic Drug Solubility Based on Graph Convolutional Networks and Transformer-Attention**|Chenxu Wang et.al.|[2406.19136v1](http://arxiv.org/abs/2406.19136v1)|null|
+|**2024-06-27**|** $n$  qubits can be entangled in two different ways**|Dafa Li et.al.|[2406.19119v1](http://arxiv.org/abs/2406.19119v1)|null|
+|**2024-06-27**|**Yang-Mills theory from the worldline**|Roberto Bonezzi et.al.|[2406.19045v1](http://arxiv.org/abs/2406.19045v1)|null|
+|**2024-06-27**|**Constructing and Analyzing Different Density Graphs for Path Extrapolation in Wikipedia**|Martha Sotiroudi et.al.|[2406.19039v1](http://arxiv.org/abs/2406.19039v1)|null|
+|**2024-06-27**|**VideoMambaPro: A Leap Forward for Mamba in Video Understanding**|Hui Lu et.al.|[2406.19006v1](http://arxiv.org/abs/2406.19006v1)|null|
+|**2024-06-27**|**Effective potential in leading logarithmic approximation in non-renormalisable  $SO(N)$  scalar field theories**|R. M. Iakhibbaev et.al.|[2406.19005v1](http://arxiv.org/abs/2406.19005v1)|null|
+|**2024-06-27**|**Anisotropic extended Burgers model, its relaxation tensor and properties of the associated Boltzmann viscoelastic system**|Maarten de Hoop et.al.|[2406.18978v1](http://arxiv.org/abs/2406.18978v1)|null|
+|**2024-06-27**|**Applying LLMs for Rescoring N-best ASR Hypotheses of Casual Conversations: Effects of Domain Adaptation and Context Carry-over**|Atsunori Ogawa et.al.|[2406.18972v1](http://arxiv.org/abs/2406.18972v1)|null|
+|**2024-06-27**|**Structural Attention: Rethinking Transformer for Unpaired Medical Image Synthesis**|Vu Minh Hieu Phan et.al.|[2406.18967v1](http://arxiv.org/abs/2406.18967v1)|**[link](https://github.com/hieuphan33/miccai2024-unest)**|
+|**2024-06-27**|**Multi-modal Food Recommendation using Clustering and Self-supervised Learning**|Yixin Zhang et.al.|[2406.18962v1](http://arxiv.org/abs/2406.18962v1)|null|
+|**2024-06-27**|**A Road Less Travelled and Beyond: Towards a Roadmap for Integrating Sustainability into Computing Education**|Ana Moreira et.al.|[2406.18945v1](http://arxiv.org/abs/2406.18945v1)|null|
+|**2024-06-27**|**Federated Graph Semantic and Structural Learning**|Wenke Huang et.al.|[2406.18937v1](http://arxiv.org/abs/2406.18937v1)|**[link](https://github.com/guanchengwan/fgssl)**|
+|**2024-06-27**|**Generalized Averaging Method for Power Electronics Modeling from DC to above Half the Switching Frequency**|Hongchang Li et.al.|[2406.18935v1](http://arxiv.org/abs/2406.18935v1)|null|
+|**2024-06-27**|**Time Matters: Scaling Laws for Any Budget**|Itay Inbar et.al.|[2406.18922v1](http://arxiv.org/abs/2406.18922v1)|null|
+|**2024-06-27**|**Statistical Test for Data Analysis Pipeline by Selective Inference**|Tomohiro Shiraishi et.al.|[2406.18902v1](http://arxiv.org/abs/2406.18902v1)|**[link](https://github.com/shirara1016/statistical_test_for_data_analysis_pipeline)**|
+|**2024-06-27**|**Can we teach language models to gloss endangered languages?**|Michael Ginn et.al.|[2406.18895v1](http://arxiv.org/abs/2406.18895v1)|null|
+|**2024-06-27**|**LearnedKV: Integrating LSM and Learned Index for Superior Performance on SSD**|Wenlong Wang et.al.|[2406.18892v1](http://arxiv.org/abs/2406.18892v1)|null|
+|**2024-06-27**|**Viscous Instabilities in Transversely Strained Channel Flows**|Muhammad Abdullah et.al.|[2406.18891v1](http://arxiv.org/abs/2406.18891v1)|null|
+|**2024-06-27**|**Optimal version of the fundamental theorem of chronogeometry**|Michiya Mori et.al.|[2406.18874v1](http://arxiv.org/abs/2406.18874v1)|null|
+|**2024-06-27**|**Learning Modality Knowledge Alignment for Cross-Modality Transfer**|Wenxuan Ma et.al.|[2406.18864v1](http://arxiv.org/abs/2406.18864v1)|null|
+|**2024-06-27**|**Streaming Decoder-Only Automatic Speech Recognition with Discrete Speech Units: A Pilot Study**|Peikun Chen et.al.|[2406.18862v1](http://arxiv.org/abs/2406.18862v1)|null|
+|**2024-06-27**|**Decoding-Time Language Model Alignment with Multiple Objectives**|Ruizhe Shi et.al.|[2406.18853v1](http://arxiv.org/abs/2406.18853v1)|null|
 |**2024-06-26**|**ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation**|Shenghai Yuan et.al.|[2406.18522v1](http://arxiv.org/abs/2406.18522v1)|null|
 |**2024-06-26**|**Electrical conductivity of the Quark-Gluon Plasma in the presence of strong magnetic fields**|Giorgio Almirante et.al.|[2406.18504v1](http://arxiv.org/abs/2406.18504v1)|null|
 |**2024-06-26**|**Universal Anomaly Detection at the LHC: Transforming Optimal Classifiers and the DDD Method**|Sascha Caron et.al.|[2406.18469v1](http://arxiv.org/abs/2406.18469v1)|null|
