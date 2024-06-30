@@ -1750,7 +1750,7 @@
 |**2024-06-27**|**Metaheuristics for finding threshold graphs with maximum spectral radius**|Luka Radanović et.al.|[2406.19209v1](http://arxiv.org/abs/2406.19209v1)|null|
 |**2024-06-27**|**Conformal Yang-Mills field in (A)dS space**|R. R. Metsaev et.al.|[2406.19182v1](http://arxiv.org/abs/2406.19182v1)|null|
 |**2024-06-27**|**Gravitational waveforms from inspiral compact binaries in Hybrid metric-Palatini gravity**|P. I. Dyadina et.al.|[2406.19159v1](http://arxiv.org/abs/2406.19159v1)|null|
-|**2024-06-27**|**YZS-model: A Predictive Model for Organic Drug Solubility Based on Graph Convolutional Networks and Transformer-Attention**|Chenxu Wang et.al.|[2406.19136v1](http://arxiv.org/abs/2406.19136v1)|null|
+|**2024-06-27**|**YZS-model: A Predictive Model for Organic Drug Solubility Based on Graph Convolutional Networks and Transformer-Attention**|Chenxu Wang et.al.|[2406.19136v1](http://arxiv.org/abs/2406.19136v1)|**[link](https://github.com/xunyoyo/YZS-Model)**|
 |**2024-06-27**|** $n$  qubits can be entangled in two different ways**|Dafa Li et.al.|[2406.19119v1](http://arxiv.org/abs/2406.19119v1)|null|
 |**2024-06-27**|**Yang-Mills theory from the worldline**|Roberto Bonezzi et.al.|[2406.19045v1](http://arxiv.org/abs/2406.19045v1)|null|
 |**2024-06-27**|**Constructing and Analyzing Different Density Graphs for Path Extrapolation in Wikipedia**|Martha Sotiroudi et.al.|[2406.19039v1](http://arxiv.org/abs/2406.19039v1)|null|
