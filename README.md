@@ -23,6 +23,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066v1](http://arxiv.org/abs/2406.20066v1)|null|
+|**2024-06-28**|**Neural Differentiable Modeling with Diffusion-Based Super-resolution for Two-Dimensional Spatiotemporal Turbulence**|Xiantao Fan et.al.|[2406.20047v1](http://arxiv.org/abs/2406.20047v1)|null|
+|**2024-06-28**|**CSAKD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Image Fusion**|Chih-Chung Hsu et.al.|[2406.19666v1](http://arxiv.org/abs/2406.19666v1)|**[link](https://github.com/ming053l/csakd)**|
+|**2024-06-28**|**Efficient Event Stream Super-Resolution with Recursive Multi-Branch Fusion**|Quanmin Liang et.al.|[2406.19640v1](http://arxiv.org/abs/2406.19640v1)|**[link](https://github.com/lqm26/rmfnet)**|
+|**2024-06-27**|**Shoulder of Dust Rings Formed by Planet-disk Interactions**|Jiaqing Bi et.al.|[2406.19438v1](http://arxiv.org/abs/2406.19438v1)|null|
 |**2024-06-27**|**Super-resolution imaging using super-oscillatory diffractive neural networks**|Hang Chen et.al.|[2406.19126v1](http://arxiv.org/abs/2406.19126v1)|null|
 |**2024-06-26**|**Spatial-temporal Hierarchical Reinforcement Learning for Interpretable Pathology Image Super-Resolution**|Wenting Chen et.al.|[2406.18310v1](http://arxiv.org/abs/2406.18310v1)|**[link](https://github.com/cuhk-aim-group/star-rl)**|
 |**2024-06-25**|**V2X Sidelink Positioning in FR1: From Ray-Tracing and Channel Estimation to Bayesian Tracking**|Yu Ge et.al.|[2406.17950v1](http://arxiv.org/abs/2406.17950v1)|null|
@@ -1143,6 +1148,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066v1](http://arxiv.org/abs/2406.20066v1)|null|
 |**2024-06-26**|**Spatial-temporal Hierarchical Reinforcement Learning for Interpretable Pathology Image Super-Resolution**|Wenting Chen et.al.|[2406.18310v1](http://arxiv.org/abs/2406.18310v1)|**[link](https://github.com/cuhk-aim-group/star-rl)**|
 |**2024-06-25**|**Burst Image Super-Resolution with Base Frame Selection**|Sanghyun Kim et.al.|[2406.17869v1](http://arxiv.org/abs/2406.17869v1)|null|
 |**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477v1](http://arxiv.org/abs/2406.16477v1)|null|
@@ -1722,6 +1728,55 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Test for symmetry and confidence interval of the parameter μ of skew-symmetric-Laplace-uniform distribution**|Raju. K. Lohot et.al.|[2406.20090v1](http://arxiv.org/abs/2406.20090v1)|null|
+|**2024-06-28**|**PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators**|Kuo-Hao Zeng et.al.|[2406.20083v1](http://arxiv.org/abs/2406.20083v1)|null|
+|**2024-06-28**|**Neural Differentiable Modeling with Diffusion-Based Super-resolution for Two-Dimensional Spatiotemporal Turbulence**|Xiantao Fan et.al.|[2406.20047v1](http://arxiv.org/abs/2406.20047v1)|null|
+|**2024-06-28**|**eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking**|Yucheng Chen et.al.|[2406.20024v1](http://arxiv.org/abs/2406.20024v1)|null|
+|**2024-06-28**|**Learning glass transition temperatures via dimensionality reduction with data from computer simulations: Polymers as the pilot case**|Artem Glova et.al.|[2406.20018v1](http://arxiv.org/abs/2406.20018v1)|null|
+|**2024-06-28**|**A new method for finding more symmetry relations of Feynman integrals**|Zihao Wu et.al.|[2406.20016v1](http://arxiv.org/abs/2406.20016v1)|null|
+|**2024-06-28**|**Orientation reconstruction of transformation  $α$  titanium alloys via polarized light microscopy: methodology and assessment**|Amit Singh et.al.|[2406.20014v1](http://arxiv.org/abs/2406.20014v1)|null|
+|**2024-06-28**|**Wavelets Are All You Need for Autoregressive Image Generation**|Wael Mattar et.al.|[2406.19997v1](http://arxiv.org/abs/2406.19997v1)|null|
+|**2024-06-28**|**Machine Learning Predictors for Min-Entropy Estimation**|Javier Blanco-Romero et.al.|[2406.19983v1](http://arxiv.org/abs/2406.19983v1)|null|
+|**2024-06-28**|**Orthogonal Constrained Neural Networks for Solving Structured Inverse Eigenvalue Problems**|Shuai Zhang et.al.|[2406.19981v1](http://arxiv.org/abs/2406.19981v1)|null|
+|**2024-06-28**|**Enhanced induced gravitational waves in Horndeski gravity**|Guillem Domènech et.al.|[2406.19950v1](http://arxiv.org/abs/2406.19950v1)|null|
+|**2024-06-28**|**Non-Linearities in International Spillovers of the ECB\textquotesingle s Monetary Policy. The Case of Non-ERM II Countries and Anti-Fragmentation Policy**|Iones Kelanemer Holban et.al.|[2406.19938v1](http://arxiv.org/abs/2406.19938v1)|null|
+|**2024-06-28**|**Joint estimation of insurance loss development factors using Bayesian hidden Markov models**|Conor Goold et.al.|[2406.19903v1](http://arxiv.org/abs/2406.19903v1)|null|
+|**2024-06-28**|**FI-CBL: A Probabilistic Method for Concept-Based Learning with Expert Rules**|Lev V. Utkin et.al.|[2406.19897v1](http://arxiv.org/abs/2406.19897v1)|null|
+|**2024-06-28**|**Fine-tuning of Geospatial Foundation Models for Aboveground Biomass Estimation**|Michal Muszynski et.al.|[2406.19888v1](http://arxiv.org/abs/2406.19888v1)|null|
+|**2024-06-28**|**Investigating the Timescales of Language Processing with EEG and Language Models**|Davide Turco et.al.|[2406.19884v1](http://arxiv.org/abs/2406.19884v1)|null|
+|**2024-06-28**|**Attention Meets UAVs: A Comprehensive Evaluation of DDoS Detection in Low-Cost UAVs**|Ashish Sharma et.al.|[2406.19881v1](http://arxiv.org/abs/2406.19881v1)|null|
+|**2024-06-28**|**Reflection operator and hypergeometry I:  $SL(2, \mathbb{R})$  spin chain**|P. Antonenko et.al.|[2406.19862v1](http://arxiv.org/abs/2406.19862v1)|null|
+|**2024-06-28**|**FootBots: A Transformer-based Architecture for Motion Prediction in Soccer**|Guillem Capellera et.al.|[2406.19852v1](http://arxiv.org/abs/2406.19852v1)|null|
+|**2024-06-28**|**Reduction of the Laplace sequence and sine-Gordon type equations**|K I Faizulina et.al.|[2406.19837v1](http://arxiv.org/abs/2406.19837v1)|null|
+|**2024-06-28**|**Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory**|Wenliang Zhong et.al.|[2406.19827v1](http://arxiv.org/abs/2406.19827v1)|null|
+|**2024-06-28**|**Scalable and Domain-General Abstractive Proposition Segmentation**|Mohammad Javad Hosseini et.al.|[2406.19803v1](http://arxiv.org/abs/2406.19803v1)|null|
+|**2024-06-28**|**Modeling the Real World with High-Density Visual Particle Dynamics**|William F. Whitney et.al.|[2406.19800v1](http://arxiv.org/abs/2406.19800v1)|null|
+|**2024-06-28**|**Improving Performance Prediction of Electrolyte Formulations with Transformer-based Molecular Representation Model**|Indra Priyadarsini et.al.|[2406.19792v1](http://arxiv.org/abs/2406.19792v1)|null|
+|**2024-06-28**|**Investigation of Phase Shift and Travel Time of Acoustic Waves in the Lower Solar Atmosphere Using Multi-Height Velocities**|Hirdesh Kumar et.al.|[2406.19789v1](http://arxiv.org/abs/2406.19789v1)|null|
+|**2024-06-28**|**Decision Transformer for IRS-Assisted Systems with Diffusion-Driven Generative Channels**|Jie Zhang et.al.|[2406.19769v1](http://arxiv.org/abs/2406.19769v1)|null|
+|**2024-06-28**|**Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train**|Haojun Jiang et.al.|[2406.19756v1](http://arxiv.org/abs/2406.19756v1)|null|
+|**2024-06-28**|**The Casimir energy with perfect electromagnetic boundary conditions and duality: a field-theoretic approach**|David Dudal et.al.|[2406.19743v1](http://arxiv.org/abs/2406.19743v1)|null|
+|**2024-06-28**|**Exact Bayesian Gaussian Cox Processes Using Random Integral**|Bingjing Tang et.al.|[2406.19722v1](http://arxiv.org/abs/2406.19722v1)|null|
+|**2024-06-28**|**Functional Basis Analysis for the Characterization of Power System Signal Dynamics: Formulation, Implementation and Validation**|Alexandra Karpilow et.al.|[2406.19721v1](http://arxiv.org/abs/2406.19721v1)|null|
+|**2024-06-28**|**An entire function defined by Riemann**|Juan Arias de Reyna et.al.|[2406.19717v1](http://arxiv.org/abs/2406.19717v1)|null|
+|**2024-06-28**|**Functional Time Transformation Model with Applications to Digital Health**|Rahul Ghosal et.al.|[2406.19716v1](http://arxiv.org/abs/2406.19716v1)|null|
+|**2024-06-28**|**Uncertainty Quantification in Large Language Models Through Convex Hull Analysis**|Ferhat Ozgur Catak et.al.|[2406.19712v1](http://arxiv.org/abs/2406.19712v1)|null|
+|**2024-06-28**|**InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management**|Wonbeom Lee et.al.|[2406.19707v1](http://arxiv.org/abs/2406.19707v1)|null|
+|**2024-06-28**|**Vision Transformer with Key-select Routing Attention for Single Image Dehazing**|Lihan Tong et.al.|[2406.19703v1](http://arxiv.org/abs/2406.19703v1)|null|
+|**2024-06-28**|**Optimal radio labeling for the Cartesian product of square mesh networks and stars**|Linlin Cui et.al.|[2406.19698v1](http://arxiv.org/abs/2406.19698v1)|null|
+|**2024-06-28**|**Model Predictive Simulation Using Structured Graphical Models and Transformers**|Xinghua Lou et.al.|[2406.19635v1](http://arxiv.org/abs/2406.19635v1)|null|
+|**2024-06-28**|**PPTFormer: Pseudo Multi-Perspective Transformer for UAV Segmentation**|Deyi Ji et.al.|[2406.19632v1](http://arxiv.org/abs/2406.19632v1)|null|
+|**2024-06-28**|**Safety through feedback in Constrained RL**|Shashank Reddy Chirra et.al.|[2406.19626v1](http://arxiv.org/abs/2406.19626v1)|null|
+|**2024-06-28**|**FRA-DiagSys: A Transformer Winding Fault Diagnosis System for Identifying Fault Types and degrees Using Frequency Response Analysis**|Guohao Wang et.al.|[2406.19623v1](http://arxiv.org/abs/2406.19623v1)|null|
+|**2024-06-28**|**Network Bending of Diffusion Models for Audio-Visual Generation**|Luke Dzwonczyk et.al.|[2406.19589v1](http://arxiv.org/abs/2406.19589v1)|null|
+|**2024-06-28**|**Filtration learning in exact multi-parameter persistent homology and classification of time-series data**|Keunsu Kim et.al.|[2406.19587v1](http://arxiv.org/abs/2406.19587v1)|null|
+|**2024-06-28**|**Interference Cancellation Information Geometry Approach for Massive MIMO Channel Estimation**|An-An Lu et.al.|[2406.19583v1](http://arxiv.org/abs/2406.19583v1)|null|
+|**2024-06-28**|**FRED: Flexible REduction-Distribution Interconnect and Communication Implementation for Wafer-Scale Distributed Training of DNN Models**|Saeed Rashidi et.al.|[2406.19580v1](http://arxiv.org/abs/2406.19580v1)|null|
+|**2024-06-27**|**Where Are Large Language Models for Code Generation on GitHub?**|Xiao Yu et.al.|[2406.19544v1](http://arxiv.org/abs/2406.19544v1)|null|
+|**2024-06-27**|**TocBERT: Medical Document Structure Extraction Using Bidirectional Transformers**|Majd Saleh et.al.|[2406.19526v1](http://arxiv.org/abs/2406.19526v1)|null|
+|**2024-06-27**|**Captioning Visualizations with Large Language Models (CVLLM): A Tutorial**|Giuseppe Carenini et.al.|[2406.19512v1](http://arxiv.org/abs/2406.19512v1)|null|
+|**2024-06-27**|**Many-body Fu-Kane-Mele index**|Sven Bachmann et.al.|[2406.19463v1](http://arxiv.org/abs/2406.19463v1)|null|
+|**2024-06-27**|**The sum of entanglement and subsystem coherence is invariant under quantum reference frame transformations**|Carlo Cepollaro et.al.|[2406.19448v1](http://arxiv.org/abs/2406.19448v1)|null|
 |**2024-06-27**|**SimLOB: Learning Representations of Limited Order Book for Financial Market Simulation**|Yuanzhe Li et.al.|[2406.19396v1](http://arxiv.org/abs/2406.19396v1)|null|
 |**2024-06-27**|**Looking 3D: Anomaly Detection with 2D-3D Alignment**|Ankan Bhunia et.al.|[2406.19393v1](http://arxiv.org/abs/2406.19393v1)|**[link](https://github.com/vico-uoe/looking3d)**|
 |**2024-06-27**|**Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**|Ali Khaleghi Rahimian et.al.|[2406.19391v1](http://arxiv.org/abs/2406.19391v1)|**[link](https://github.com/charlotte-charmlab/fibottention)**|
