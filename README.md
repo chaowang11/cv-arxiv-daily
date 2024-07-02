@@ -30,7 +30,7 @@
 |**2024-06-27**|**Shoulder of Dust Rings Formed by Planet-disk Interactions**|Jiaqing Bi et.al.|[2406.19438v1](http://arxiv.org/abs/2406.19438v1)|null|
 |**2024-06-27**|**Super-resolution imaging using super-oscillatory diffractive neural networks**|Hang Chen et.al.|[2406.19126v1](http://arxiv.org/abs/2406.19126v1)|null|
 |**2024-06-26**|**Spatial-temporal Hierarchical Reinforcement Learning for Interpretable Pathology Image Super-Resolution**|Wenting Chen et.al.|[2406.18310v1](http://arxiv.org/abs/2406.18310v1)|**[link](https://github.com/cuhk-aim-group/star-rl)**|
-|**2024-06-25**|**V2X Sidelink Positioning in FR1: From Ray-Tracing and Channel Estimation to Bayesian Tracking**|Yu Ge et.al.|[2406.17950v1](http://arxiv.org/abs/2406.17950v1)|null|
+|**2024-06-30**|**V2X Sidelink Positioning in FR1: From Ray-Tracing and Channel Estimation to Bayesian Tracking**|Yu Ge et.al.|[2406.17950v2](http://arxiv.org/abs/2406.17950v2)|null|
 |**2024-06-25**|**Burst Image Super-Resolution with Base Frame Selection**|Sanghyun Kim et.al.|[2406.17869v1](http://arxiv.org/abs/2406.17869v1)|null|
 |**2024-06-25**|**A Near-Field Super-Resolution Network for Accelerating Antenna Characterization**|Yuchen Gu et.al.|[2406.17244v1](http://arxiv.org/abs/2406.17244v1)|null|
 |**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477v1](http://arxiv.org/abs/2406.16477v1)|null|
@@ -1770,7 +1770,7 @@
 |**2024-06-28**|**FRA-DiagSys: A Transformer Winding Fault Diagnosis System for Identifying Fault Types and degrees Using Frequency Response Analysis**|Guohao Wang et.al.|[2406.19623v1](http://arxiv.org/abs/2406.19623v1)|null|
 |**2024-06-28**|**Network Bending of Diffusion Models for Audio-Visual Generation**|Luke Dzwonczyk et.al.|[2406.19589v1](http://arxiv.org/abs/2406.19589v1)|null|
 |**2024-06-28**|**Filtration learning in exact multi-parameter persistent homology and classification of time-series data**|Keunsu Kim et.al.|[2406.19587v1](http://arxiv.org/abs/2406.19587v1)|null|
-|**2024-06-28**|**Interference Cancellation Information Geometry Approach for Massive MIMO Channel Estimation**|An-An Lu et.al.|[2406.19583v1](http://arxiv.org/abs/2406.19583v1)|null|
+|**2024-07-01**|**Interference Cancellation Information Geometry Approach for Massive MIMO Channel Estimation**|An-An Lu et.al.|[2406.19583v2](http://arxiv.org/abs/2406.19583v2)|null|
 |**2024-06-28**|**FRED: Flexible REduction-Distribution Interconnect and Communication Implementation for Wafer-Scale Distributed Training of DNN Models**|Saeed Rashidi et.al.|[2406.19580v1](http://arxiv.org/abs/2406.19580v1)|null|
 |**2024-06-27**|**Where Are Large Language Models for Code Generation on GitHub?**|Xiao Yu et.al.|[2406.19544v1](http://arxiv.org/abs/2406.19544v1)|null|
 |**2024-06-27**|**TocBERT: Medical Document Structure Extraction Using Bidirectional Transformers**|Majd Saleh et.al.|[2406.19526v1](http://arxiv.org/abs/2406.19526v1)|null|
