@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis**|Tong Zhou et.al.|[2407.03089v1](http://arxiv.org/abs/2407.03089v1)|null|
+|**2024-07-03**|**Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design**|Gen Li et.al.|[2407.02813v1](http://arxiv.org/abs/2407.02813v1)|**[link](https://github.com/coulsonlee/dy-dca-eccv2024)**|
+|**2024-07-02**|**Adversarial Magnification to Deceive Deepfake Detection through Super Resolution**|Davide Alessandro Coccomini et.al.|[2407.02670v1](http://arxiv.org/abs/2407.02670v1)|**[link](https://github.com/davide-coccomini/adversarial-magnification-to-deceive-deepfake-detection-through-super-resolution)**|
+|**2024-07-01**|**Broadband planar electromagnetic hyper-lens with uniform magnification in air**|Ran Sun et.al.|[2407.02532v1](http://arxiv.org/abs/2407.02532v1)|null|
 |**2024-07-02**|**Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**|Shuangliang Li et.al.|[2407.02387v1](http://arxiv.org/abs/2407.02387v1)|**[link](https://github.com/rs-lsl/cssnet)**|
 |**2024-07-02**|**Efficient Stochastic Differential Equation for DEM Super Resolution with Void Filling**|Tongtong Zhang et.al.|[2407.01908v1](http://arxiv.org/abs/2407.01908v1)|null|
 |**2024-07-01**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519v1](http://arxiv.org/abs/2407.01519v1)|null|
@@ -1735,6 +1739,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314v1](http://arxiv.org/abs/2407.03314v1)|null|
+|**2024-07-03**|**Universal Length Generalization with Turing Programs**|Kaiying Hou et.al.|[2407.03310v1](http://arxiv.org/abs/2407.03310v1)|null|
+|**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300v1](http://arxiv.org/abs/2407.03300v1)|null|
+|**2024-07-03**|**Thermal and mechanical properties and the structural phase transition under pressure in  $A$ In $_2$ As $_2$  ( $A$  = Ca, Sr, Ba)**|Wen-Ti Guo et.al.|[2407.03290v1](http://arxiv.org/abs/2407.03290v1)|null|
+|**2024-07-03**|**A Unified Framework for 3D Scene Understanding**|Wei Xu et.al.|[2407.03263v1](http://arxiv.org/abs/2407.03263v1)|null|
+|**2024-07-03**|**STF: Sentence Transformer Fine-Tuning For Topic Categorization With Limited Data**|Kheir Eddine Daouadi et.al.|[2407.03253v1](http://arxiv.org/abs/2407.03253v1)|null|
+|**2024-07-03**|**ACTRESS: Active Retraining for Semi-supervised Visual Grounding**|Weitai Kang et.al.|[2407.03251v1](http://arxiv.org/abs/2407.03251v1)|null|
+|**2024-07-03**|**When big data actually are low-rank, or entrywise approximation of certain function-generated matrices**|Stanislav Budzinskiy et.al.|[2407.03250v1](http://arxiv.org/abs/2407.03250v1)|null|
+|**2024-07-03**|**Visual Grounding with Attention-Driven Constraint Balancing**|Weitai Kang et.al.|[2407.03243v1](http://arxiv.org/abs/2407.03243v1)|null|
+|**2024-07-03**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236v1](http://arxiv.org/abs/2407.03236v1)|null|
+|**2024-07-03**|**Programming universal unitary transformations on a general-purpose silicon photonics platform**|Jose Roberto Rausell-Campo et.al.|[2407.03235v1](http://arxiv.org/abs/2407.03235v1)|null|
+|**2024-07-03**|**Observation of double J/ $ψ$  meson production in pPb collisions at  $\sqrt{s_\mathrm{NN}}$  = 8.16 TeV**|CMS Collaboration et.al.|[2407.03223v1](http://arxiv.org/abs/2407.03223v1)|null|
+|**2024-07-03**|**Learning Disentangled Representation in Object-Centric Models for Visual Dynamics Prediction via Transformers**|Sanket Gandhi et.al.|[2407.03216v1](http://arxiv.org/abs/2407.03216v1)|null|
+|**2024-07-03**|**TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts**|Ruida Wang et.al.|[2407.03203v1](http://arxiv.org/abs/2407.03203v1)|**[link](https://github.com/RickySkywalker/TheoremLlama)**|
+|**2024-07-03**|**Clifford Circuits Augmented Time-Dependent Variational Principle**|Xiangjian Qian et.al.|[2407.03202v1](http://arxiv.org/abs/2407.03202v1)|null|
+|**2024-07-03**|**Multiple-Resolution Tokenization for Time Series Forecasting with an Application to Pricing**|Egon Peršak et.al.|[2407.03185v1](http://arxiv.org/abs/2407.03185v1)|null|
+|**2024-07-03**|**Relating CNN-Transformer Fusion Network for Change Detection**|Yuhao Gao et.al.|[2407.03178v1](http://arxiv.org/abs/2407.03178v1)|null|
+|**2024-07-03**|**On a classification of planar functions in characteristic three**|Samuele Andreoli et.al.|[2407.03170v1](http://arxiv.org/abs/2407.03170v1)|null|
+|**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168v1](http://arxiv.org/abs/2407.03168v1)|**[link](https://github.com/KwaiVGI/LivePortrait)**|
+|**2024-07-03**|**MVGT: A Multi-view Graph Transformer Based on Spatial Relations for EEG Emotion Recognition**|Yanjie Cui et.al.|[2407.03131v1](http://arxiv.org/abs/2407.03131v1)|null|
+|**2024-07-03**|**Conformally homogeneous Lorentzian spaces**|Dmitri V. Alekseevsky et.al.|[2407.03095v1](http://arxiv.org/abs/2407.03095v1)|null|
+|**2024-07-03**|**Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis**|Tong Zhou et.al.|[2407.03089v1](http://arxiv.org/abs/2407.03089v1)|null|
+|**2024-07-03**|**Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment**|Janghwan Lee et.al.|[2407.03051v1](http://arxiv.org/abs/2407.03051v1)|null|
+|**2024-07-03**|**Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model**|Xia Hou et.al.|[2407.03040v1](http://arxiv.org/abs/2407.03040v1)|null|
+|**2024-07-03**|**ISWSST: Index-space-wave State Superposition Transformers for Multispectral Remotely Sensed Imagery Semantic Segmentation**|Chang Li et.al.|[2407.03033v1](http://arxiv.org/abs/2407.03033v1)|null|
+|**2024-07-03**|**An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis**|Marawan Elbatel et.al.|[2407.03018v1](http://arxiv.org/abs/2407.03018v1)|null|
+|**2024-07-03**|**Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation**|Xiang Gao et.al.|[2407.03006v1](http://arxiv.org/abs/2407.03006v1)|**[link](https://github.com/xianggao1102/fcdiffusion)**|
+|**2024-07-03**|**Human-like Linguistic Biases in Neural Speech Models: Phonetic Categorization and Phonotactic Constraints in Wav2Vec2.0**|Marianne de Heer Kloots et.al.|[2407.03005v1](http://arxiv.org/abs/2407.03005v1)|**[link](https://github.com/mdhk/phonotactic-sensitivity)**|
+|**2024-07-03**|**Scientific Text Analysis with Robots applied to observatory proposals**|T. Jerabkova et.al.|[2407.02992v1](http://arxiv.org/abs/2407.02992v1)|null|
+|**2024-07-03**|**Graph and Skipped Transformer: Exploiting Spatial and Temporal Modeling Capacities for Efficient 3D Human Pose Estimation**|Mengmeng Cui et.al.|[2407.02990v1](http://arxiv.org/abs/2407.02990v1)|null|
+|**2024-07-03**|**Numerical solution of nonlinear Schrödinger equation by a hybrid pseudospectral-variational quantum algorithm**|Nikolas Köcher et.al.|[2407.02989v1](http://arxiv.org/abs/2407.02989v1)|null|
+|**2024-07-03**|**Zero-X: A Blockchain-Enabled Open-Set Federated Learning Framework for Zero-Day Attack Detection in IoV**|Abdelaziz Amara korba et.al.|[2407.02969v1](http://arxiv.org/abs/2407.02969v1)|null|
+|**2024-07-03**|**Probing the Feasibility of Multilingual Speaker Anonymization**|Sarina Meyer et.al.|[2407.02937v1](http://arxiv.org/abs/2407.02937v1)|null|
+|**2024-07-03**|**PosMLP-Video: Spatial and Temporal Relative Position Encoding for Efficient Video Recognition**|Yanbin Hao et.al.|[2407.02934v1](http://arxiv.org/abs/2407.02934v1)|**[link](https://github.com/zhouds1918/posmlp_video)**|
+|**2024-07-03**|**SFC: Achieve Accurate Fast Convolution under Low-precision Arithmetic**|Liulu He et.al.|[2407.02913v1](http://arxiv.org/abs/2407.02913v1)|null|
+|**2024-07-03**|**Self-supervised Vision Transformer are Scalable Generative Models for Domain Generalization**|Sebastian Doerrich et.al.|[2407.02900v1](http://arxiv.org/abs/2407.02900v1)|**[link](https://github.com/sdoerrich97/vits-are-generative-models)**|
+|**2024-07-03**|**Joint Optimization of Resource Allocation and Data Selection for Fast and Cost-Efficient Federated Edge Learning**|Yunjian Jia et.al.|[2407.02888v1](http://arxiv.org/abs/2407.02888v1)|null|
+|**2024-07-03**|**A Wolf in Sheep's Clothing: Practical Black-box Adversarial Attacks for Evading Learning-based Windows Malware Detection in the Wild**|Xiang Ling et.al.|[2407.02886v1](http://arxiv.org/abs/2407.02886v1)|null|
+|**2024-07-03**|**Efficient Fusion and Task Guided Embedding for End-to-end Autonomous Driving**|Yipin Guo et.al.|[2407.02878v1](http://arxiv.org/abs/2407.02878v1)|null|
+|**2024-07-03**|**Membership Inference Attacks Against Time-Series Models**|Noam Koren et.al.|[2407.02870v1](http://arxiv.org/abs/2407.02870v1)|null|
+|**2024-07-03**|**Comparing Feature-based and Context-aware Approaches to PII Generalization Level Prediction**|Kailin Zhang et.al.|[2407.02837v1](http://arxiv.org/abs/2407.02837v1)|null|
+|**2024-07-03**|**Style Alignment based Dynamic Observation Method for UAV-View Geo-localization**|Jie Shao et.al.|[2407.02832v1](http://arxiv.org/abs/2407.02832v1)|null|
+|**2024-07-03**|**Investigating the Contextualised Word Embedding Dimensions Responsible for Contextual and Temporal Semantic Changes**|Taichi Aida et.al.|[2407.02820v1](http://arxiv.org/abs/2407.02820v1)|**[link](https://github.com/livnlp/svp-dims)**|
+|**2024-07-03**|**Evolution of the color dipole cross section**|G. R. Boroun et.al.|[2407.02800v1](http://arxiv.org/abs/2407.02800v1)|null|
+|**2024-07-03**|**Euler's Elastica Based Cartoon-Smooth-Texture Image Decomposition**|Roy Y. He et.al.|[2407.02794v1](http://arxiv.org/abs/2407.02794v1)|null|
+|**2024-07-03**|**Fine-Grained Scene Image Classification with Modality-Agnostic Adapter**|Yiqun Wang et.al.|[2407.02769v1](http://arxiv.org/abs/2407.02769v1)|**[link](https://github.com/qunilcs/maa)**|
+|**2024-07-03**|**Graphon Particle Systems, Part II: Dynamics of Distributed Stochastic Continuum Optimization**|Yan Chen et.al.|[2407.02765v1](http://arxiv.org/abs/2407.02765v1)|null|
+|**2024-07-03**|**ADFQ-ViT: Activation-Distribution-Friendly Post-Training Quantization for Vision Transformers**|Yanfeng Jiang et.al.|[2407.02763v1](http://arxiv.org/abs/2407.02763v1)|null|
+|**2024-07-03**|**STRIDE: Simple Type Recognition In Decompiled Executables**|Harrison Green et.al.|[2407.02733v1](http://arxiv.org/abs/2407.02733v1)|null|
+|**2024-07-02**|**A Direct Construction of Solitary Waves for a Fractional Korteweg-de Vries Equation With an Inhomogeneous Symbol**|Swati Yadav et.al.|[2407.02717v1](http://arxiv.org/abs/2407.02717v1)|null|
 |**2024-07-02**|**Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models**|Fei Shen et.al.|[2407.02482v1](http://arxiv.org/abs/2407.02482v1)|null|
 |**2024-07-02**|**Belief sharing: a blessing or a curse**|Ozan Catal et.al.|[2407.02465v1](http://arxiv.org/abs/2407.02465v1)|null|
 |**2024-07-02**|**Learning tensor networks with tensor cross interpolation: new algorithms and libraries**|Yuriel Núñez Fernández et.al.|[2407.02454v1](http://arxiv.org/abs/2407.02454v1)|null|
@@ -19836,6 +19890,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-02**|**Depth-Aware Endoscopic Video Inpainting**|Francis Xiatian Zhang et.al.|[2407.02675v1](http://arxiv.org/abs/2407.02675v1)|null|
 |**2024-06-29**|**SVG: 3D Stereoscopic Video Generation via Denoising Frame Matrix**|Peng Dai et.al.|[2407.00367v1](http://arxiv.org/abs/2407.00367v1)|null|
 |**2024-06-28**|**Transformer-based Image and Video Inpainting: Current Challenges and Future Directions**|Omar Elharrouss et.al.|[2407.00226v1](http://arxiv.org/abs/2407.00226v1)|null|
 |**2024-06-25**|**Video Inpainting Localization with Contrastive Learning**|Zijie Lou et.al.|[2406.17628v1](http://arxiv.org/abs/2406.17628v1)|null|
