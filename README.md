@@ -1749,7 +1749,7 @@
 |**2024-07-03**|**System identification based on characteristic curves: a mathematical connection between power series and Fourier analysis for first-order nonlinear systems**|Federico Javier Gonzalez et.al.|[2407.02349v2](http://arxiv.org/abs/2407.02349v2)|null|
 |**2024-07-02**|**Efficient Sparse Attention needs Adaptive Token Release**|Chaoran Zhang et.al.|[2407.02328v1](http://arxiv.org/abs/2407.02328v1)|null|
 |**2024-07-02**|**Dark symmetry implication for right-handed neutrinos**|Phung Van Dong et.al.|[2407.02324v1](http://arxiv.org/abs/2407.02324v1)|null|
-|**2024-07-02**|**MelodyT5: A Unified Score-to-Score Transformer for Symbolic Music Processing**|Shangda Wu et.al.|[2407.02277v1](http://arxiv.org/abs/2407.02277v1)|null|
+|**2024-07-03**|**MelodyT5: A Unified Score-to-Score Transformer for Symbolic Music Processing**|Shangda Wu et.al.|[2407.02277v2](http://arxiv.org/abs/2407.02277v2)|null|
 |**2024-07-02**|**Learning Paradigms and Modelling Methodologies for Digital Twins in Process Industry**|Michael Mayr et.al.|[2407.02275v1](http://arxiv.org/abs/2407.02275v1)|null|
 |**2024-07-03**|**SOAF: Scene Occlusion-aware Neural Acoustic Field**|Huiyu Gao et.al.|[2407.02264v2](http://arxiv.org/abs/2407.02264v2)|null|
 |**2024-07-02**|**FreeCG: Free the Design Space of Clebsch-Gordan Transform for machine learning force field**|Shihao Shao et.al.|[2407.02263v1](http://arxiv.org/abs/2407.02263v1)|null|
