@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Super-resolution imaging of nanoscale inhomogeneities in hBN-covered and encapsulated few-layer graphene**|Lina Jäckering et.al.|[2407.04565v1](http://arxiv.org/abs/2407.04565v1)|null|
+|**2024-07-05**|**AnySR: Realizing Image Super-Resolution as Any-Scale, Any-Resource**|Wengyi Zhan et.al.|[2407.04241v1](http://arxiv.org/abs/2407.04241v1)|**[link](https://github.com/crispyfeso4/anysr)**|
+|**2024-07-04**|**M^3:Manipulation Mask Manufacturer for Arbitrary-Scale Super-Resolution Mask**|Xinyu Yang et.al.|[2407.03695v1](http://arxiv.org/abs/2407.03695v1)|null|
+|**2024-07-04**|**ASteISR: Adapting Single Image Super-resolution Pre-trained Model for Efficient Stereo Image Super-resolution**|Yuanbo Zhou et.al.|[2407.03598v1](http://arxiv.org/abs/2407.03598v1)|null|
 |**2024-07-04**|**Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis**|Tong Zhou et.al.|[2407.03089v2](http://arxiv.org/abs/2407.03089v2)|null|
 |**2024-07-03**|**Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design**|Gen Li et.al.|[2407.02813v1](http://arxiv.org/abs/2407.02813v1)|**[link](https://github.com/coulsonlee/dy-dca-eccv2024)**|
 |**2024-07-02**|**Adversarial Magnification to Deceive Deepfake Detection through Super Resolution**|Davide Alessandro Coccomini et.al.|[2407.02670v1](http://arxiv.org/abs/2407.02670v1)|**[link](https://github.com/davide-coccomini/adversarial-magnification-to-deceive-deepfake-detection-through-super-resolution)**|
@@ -1157,6 +1161,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**AnySR: Realizing Image Super-Resolution as Any-Scale, Any-Resource**|Wengyi Zhan et.al.|[2407.04241v1](http://arxiv.org/abs/2407.04241v1)|**[link](https://github.com/crispyfeso4/anysr)**|
+|**2024-07-04**|**ASteISR: Adapting Single Image Super-resolution Pre-trained Model for Efficient Stereo Image Super-resolution**|Yuanbo Zhou et.al.|[2407.03598v1](http://arxiv.org/abs/2407.03598v1)|null|
 |**2024-07-02**|**Preserving Full Degradation Details for Blind Image Super-Resolution**|Hongda Liu et.al.|[2407.01299v2](http://arxiv.org/abs/2407.01299v2)|**[link](https://github.com/Chernobyllight/ReDSR)**|
 |**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066v1](http://arxiv.org/abs/2406.20066v1)|null|
 |**2024-06-26**|**Spatial-temporal Hierarchical Reinforcement Learning for Interpretable Pathology Image Super-Resolution**|Wenting Chen et.al.|[2406.18310v1](http://arxiv.org/abs/2406.18310v1)|**[link](https://github.com/cuhk-aim-group/star-rl)**|
@@ -1739,6 +1745,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699v1](http://arxiv.org/abs/2407.04699v1)|null|
+|**2024-07-05**|**Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge**|Yuanze Lin et.al.|[2407.04681v1](http://arxiv.org/abs/2407.04681v1)|null|
+|**2024-07-05**|**A Didactic Journey from Statistical Physics to Thermodynamics**|Mario Graml et.al.|[2407.04633v1](http://arxiv.org/abs/2407.04633v1)|null|
+|**2024-07-05**|**An autoencoder for compressing angle-resolved photoemission spectroscopy data**|Steinn Ymir Agustsson et.al.|[2407.04631v1](http://arxiv.org/abs/2407.04631v1)|null|
+|**2024-07-05**|**OneRestore: A Universal Restoration Framework for Composite Degradation**|Yu Guo et.al.|[2407.04621v1](http://arxiv.org/abs/2407.04621v1)|**[link](https://github.com/gy65896/onerestore)**|
+|**2024-07-05**|**Learning to (Learn at Test Time): RNNs with Expressive Hidden States**|Yu Sun et.al.|[2407.04620v1](http://arxiv.org/abs/2407.04620v1)|**[link](https://github.com/test-time-training/ttt-lm-jax)**|
+|**2024-07-05**|**Encoding of algebraic geometry codes with quasi-linear complexity  $O(N\log N)$ **|Songsong Li et.al.|[2407.04618v1](http://arxiv.org/abs/2407.04618v1)|null|
+|**2024-07-05**|**Isomorphic Pruning for Vision Models**|Gongfan Fang et.al.|[2407.04616v1](http://arxiv.org/abs/2407.04616v1)|**[link](https://github.com/vainf/isomorphic-pruning)**|
+|**2024-07-05**|**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**|Yuhan Zhu et.al.|[2407.04603v1](http://arxiv.org/abs/2407.04603v1)|null|
+|**2024-07-05**|**Multiple stage stochastic linear programming with multiple objectives: flexible decision making**|Andreas H. Hamel et.al.|[2407.04602v1](http://arxiv.org/abs/2407.04602v1)|null|
+|**2024-07-05**|**Leveraging Large Language Models for Integrated Satellite-Aerial-Terrestrial Networks: Recent Advances and Future Directions**|Shumaila Javaid et.al.|[2407.04581v1](http://arxiv.org/abs/2407.04581v1)|null|
+|**2024-07-05**|**Pencils of plane cubics with one base point**|Riccardo Moschetti et.al.|[2407.04569v1](http://arxiv.org/abs/2407.04569v1)|null|
+|**2024-07-05**|**Crystal Growth, Terahertz Generation and Optical Characterization of Sodium Mesitylene Sulphonate (SMS)Crystal**|Yamuna Murtunge et.al.|[2407.04564v1](http://arxiv.org/abs/2407.04564v1)|null|
+|**2024-07-05**|**Real Time Emotion Analysis Using Deep Learning for Education, Entertainment, and Beyond**|Abhilash Khuntia et.al.|[2407.04560v1](http://arxiv.org/abs/2407.04560v1)|null|
+|**2024-07-05**|**Strengthening Structural Inductive Biases by Pre-training to Perform Syntactic Transformations**|Matthias Lindemann et.al.|[2407.04543v1](http://arxiv.org/abs/2407.04543v1)|null|
+|**2024-07-05**|**PDiscoFormer: Relaxing Part Discovery Constraints with Vision Transformers**|Ananthu Aniraj et.al.|[2407.04538v1](http://arxiv.org/abs/2407.04538v1)|**[link](https://github.com/ananthu-aniraj/pdiscoformer)**|
+|**2024-07-05**|**GPT vs RETRO: Exploring the Intersection of Retrieval and Parameter-Efficient Fine-Tuning**|Aleksander Ficek et.al.|[2407.04528v1](http://arxiv.org/abs/2407.04528v1)|null|
+|**2024-07-05**|**LayerShuffle: Enhancing Robustness in Vision Transformers by Randomizing Layer Execution Order**|Matthias Freiberger et.al.|[2407.04513v1](http://arxiv.org/abs/2407.04513v1)|null|
+|**2024-07-05**|**Balancing Operator's Risk Averseness in Model Predictive Control of a Reservoir System**|Ja-Ho Koo et.al.|[2407.04506v1](http://arxiv.org/abs/2407.04506v1)|null|
+|**2024-07-05**|**When LLMs Play the Telephone Game: Cumulative Changes and Attractors in Iterated Cultural Transmissions**|Jérémy Perez et.al.|[2407.04503v1](http://arxiv.org/abs/2407.04503v1)|null|
+|**2024-07-05**|**Using LLMs to label medical papers according to the CIViC evidence model**|Markus Hisch et.al.|[2407.04466v1](http://arxiv.org/abs/2407.04466v1)|null|
+|**2024-07-05**|**LFT modelling and  $μ$ -based robust performance analysis of hybrid multi-rate control systems**|Jean-Marc Biannic et.al.|[2407.04463v1](http://arxiv.org/abs/2407.04463v1)|null|
+|**2024-07-05**|**Multi-modal Masked Siamese Network Improves Chest X-Ray Representation Learning**|Saeed Shurrab et.al.|[2407.04449v1](http://arxiv.org/abs/2407.04449v1)|**[link](https://github.com/nyuad-cai/cxr-ehr-msn)**|
+|**2024-07-05**|**XLSR-Transducer: Streaming ASR for Self-Supervised Pretrained Models**|Shashi Kumar et.al.|[2407.04439v1](http://arxiv.org/abs/2407.04439v1)|null|
+|**2024-07-05**|**Improving Audio Generation with Visual Enhanced Caption**|Yi Yuan et.al.|[2407.04416v1](http://arxiv.org/abs/2407.04416v1)|null|
+|**2024-07-05**|**Quantifying redundancies and synergies with measures of inequality**|Tobias Mages et.al.|[2407.04415v1](http://arxiv.org/abs/2407.04415v1)|null|
+|**2024-07-05**|**Hybrid Receiver Design for Massive MIMO-OFDM with Low-Resolution ADCs and Oversampling**|Mengyuan Ma et.al.|[2407.04408v1](http://arxiv.org/abs/2407.04408v1)|null|
+|**2024-07-05**|**Hard-Attention Gates with Gradient Routing for Endoscopic Image Computing**|Giorgio Roffo et.al.|[2407.04400v1](http://arxiv.org/abs/2407.04400v1)|null|
+|**2024-07-05**|**Reconfiguration of Independent Transversals**|Pjotr Buys et.al.|[2407.04367v1](http://arxiv.org/abs/2407.04367v1)|null|
+|**2024-07-05**|**Shape Prior Segmentation Guided by Harmonic Beltrami Signature**|Chenran Lin et.al.|[2407.04360v1](http://arxiv.org/abs/2407.04360v1)|null|
+|**2024-07-05**|**Temporal fingerprints: Identity matching across fully encrypted domain**|Shahar Somin et.al.|[2407.04350v1](http://arxiv.org/abs/2407.04350v1)|null|
+|**2024-07-05**|**MobileFlow: A Multimodal LLM For Mobile GUI Agent**|Songqin Nong et.al.|[2407.04346v1](http://arxiv.org/abs/2407.04346v1)|null|
+|**2024-07-05**|**Learning Geometric Invariant Features for Classification of Vector Polygons with Graph Message-passing Neural Network**|Zexian Huang et.al.|[2407.04334v1](http://arxiv.org/abs/2407.04334v1)|null|
+|**2024-07-05**|**MuseBarControl: Enhancing Fine-Grained Control in Symbolic Music Generation through Pre-Training and Counterfactual Loss**|Yangyang Shu et.al.|[2407.04331v1](http://arxiv.org/abs/2407.04331v1)|null|
+|**2024-07-05**|**TF-SASM: Training-free Spatial-aware Sparse Memory for Multi-object Tracking**|Thuc Nguyen-Quang et.al.|[2407.04327v1](http://arxiv.org/abs/2407.04327v1)|null|
+|**2024-07-05**|**Understanding the Role of Invariance in Transfer Learning**|Till Speicher et.al.|[2407.04325v1](http://arxiv.org/abs/2407.04325v1)|**[link](https://github.com/tillspeicher/representation-invariance-transfer)**|
+|**2024-07-05**|**Corki: Enabling Real-time Embodied AI Robots via Algorithm-Architecture Co-Design**|Yiyang Huang et.al.|[2407.04292v1](http://arxiv.org/abs/2407.04292v1)|null|
+|**2024-07-05**|**Onsager-Machlup functional for stochastic differential equations with time-varying noise**|Xinze Zhang et.al.|[2407.04290v1](http://arxiv.org/abs/2407.04290v1)|null|
+|**2024-07-05**|**Robust Decision Transformer: Tackling Data Corruption in Offline RL via Sequence Modeling**|Jiawei Xu et.al.|[2407.04285v1](http://arxiv.org/abs/2407.04285v1)|null|
+|**2024-07-05**|**TSC-PCAC: Voxel Transformer and Sparse Convolution Based Point Cloud Attribute Compression for 3D Broadcasting**|Zixi Guo et.al.|[2407.04284v1](http://arxiv.org/abs/2407.04284v1)|null|
+|**2024-07-05**|**Understanding the Landscape of Leveraging IoT for Sustainable Growth in Saudi Arabia**|Manal Alshehri et.al.|[2407.04273v1](http://arxiv.org/abs/2407.04273v1)|null|
+|**2024-07-05**|**A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization**|Daoce Wang et.al.|[2407.04267v1](http://arxiv.org/abs/2407.04267v1)|null|
+|**2024-07-05**|**A Complex-Coefficient Voltage Control for Virtual Synchronous Generators for Dynamic Enhancement and Power-Voltage Decoupling**|Jingzhe Xu et.al.|[2407.04254v1](http://arxiv.org/abs/2407.04254v1)|null|
+|**2024-07-05**|**ArAIEval Shared Task: Propagandistic Techniques Detection in Unimodal and Multimodal Arabic Content**|Maram Hasanain et.al.|[2407.04247v1](http://arxiv.org/abs/2407.04247v1)|null|
+|**2024-07-05**|**Efficient GANs for Document Image Binarization Based on DWT and Normalization**|Rui-Yang Ju et.al.|[2407.04231v1](http://arxiv.org/abs/2407.04231v1)|**[link](https://github.com/ruiyangju/efficient_document_image_binarization)**|
+|**2024-07-05**|**Batch Transformer: Look for Attention in Batch**|Myung Beom Her et.al.|[2407.04218v1](http://arxiv.org/abs/2407.04218v1)|null|
+|**2024-07-05**|**AMD: Automatic Multi-step Distillation of Large-scale Vision Models**|Cheng Han et.al.|[2407.04208v1](http://arxiv.org/abs/2407.04208v1)|null|
+|**2024-07-05**|**HCS-TNAS: Hybrid Constraint-driven Semi-supervised Transformer-NAS for Ultrasound Image Segmentation**|Renqi Chen et.al.|[2407.04203v1](http://arxiv.org/abs/2407.04203v1)|null|
+|**2024-07-04**|**Mixture of A Million Experts**|Xu Owen He et.al.|[2407.04153v1](http://arxiv.org/abs/2407.04153v1)|null|
+|**2024-07-04**|**Dynamic problem of a power-law graded half-plane and an associated Carleman problem for two functions**|Y. A. Antipov et.al.|[2407.04148v1](http://arxiv.org/abs/2407.04148v1)|null|
 |**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314v1](http://arxiv.org/abs/2407.03314v1)|null|
 |**2024-07-03**|**Universal Length Generalization with Turing Programs**|Kaiying Hou et.al.|[2407.03310v1](http://arxiv.org/abs/2407.03310v1)|null|
 |**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300v1](http://arxiv.org/abs/2407.03300v1)|null|
