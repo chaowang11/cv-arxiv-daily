@@ -1748,7 +1748,7 @@
 |**2024-07-03**|**ACTRESS: Active Retraining for Semi-supervised Visual Grounding**|Weitai Kang et.al.|[2407.03251v1](http://arxiv.org/abs/2407.03251v1)|null|
 |**2024-07-04**|**When big data actually are low-rank, or entrywise approximation of certain function-generated matrices**|Stanislav Budzinskiy et.al.|[2407.03250v2](http://arxiv.org/abs/2407.03250v2)|**[link](https://github.com/sbudzinskiy/low-rank-big-data)**|
 |**2024-07-03**|**Visual Grounding with Attention-Driven Constraint Balancing**|Weitai Kang et.al.|[2407.03243v1](http://arxiv.org/abs/2407.03243v1)|null|
-|**2024-07-03**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236v1](http://arxiv.org/abs/2407.03236v1)|**[link](https://github.com/abjadai/catt)**|
+|**2024-07-04**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236v2](http://arxiv.org/abs/2407.03236v2)|**[link](https://github.com/abjadai/catt)**|
 |**2024-07-03**|**Programming universal unitary transformations on a general-purpose silicon photonics platform**|Jose Roberto Rausell-Campo et.al.|[2407.03235v1](http://arxiv.org/abs/2407.03235v1)|null|
 |**2024-07-03**|**Observation of double J/ $ψ$  meson production in pPb collisions at  $\sqrt{s_\mathrm{NN}}$  = 8.16 TeV**|CMS Collaboration et.al.|[2407.03223v1](http://arxiv.org/abs/2407.03223v1)|null|
 |**2024-07-03**|**Learning Disentangled Representation in Object-Centric Models for Visual Dynamics Prediction via Transformers**|Sanket Gandhi et.al.|[2407.03216v1](http://arxiv.org/abs/2407.03216v1)|null|
