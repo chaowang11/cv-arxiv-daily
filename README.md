@@ -23,7 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-05**|**Super-resolution imaging of nanoscale inhomogeneities in hBN-covered and encapsulated few-layer graphene**|Lina Jäckering et.al.|[2407.04565v1](http://arxiv.org/abs/2407.04565v1)|null|
+|**2024-07-08**|**Super-resolution imaging of nanoscale inhomogeneities in hBN-covered and encapsulated few-layer graphene**|Lina Jäckering et.al.|[2407.04565v2](http://arxiv.org/abs/2407.04565v2)|null|
 |**2024-07-05**|**AnySR: Realizing Image Super-Resolution as Any-Scale, Any-Resource**|Wengyi Zhan et.al.|[2407.04241v1](http://arxiv.org/abs/2407.04241v1)|**[link](https://github.com/crispyfeso4/anysr)**|
 |**2024-07-04**|**M^3:Manipulation Mask Manufacturer for Arbitrary-Scale Super-Resolution Mask**|Xinyu Yang et.al.|[2407.03695v1](http://arxiv.org/abs/2407.03695v1)|null|
 |**2024-07-04**|**ASteISR: Adapting Single Image Super-resolution Pre-trained Model for Efficient Stereo Image Super-resolution**|Yuanbo Zhou et.al.|[2407.03598v1](http://arxiv.org/abs/2407.03598v1)|null|
@@ -1749,7 +1749,7 @@
 |**2024-07-05**|**Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge**|Yuanze Lin et.al.|[2407.04681v1](http://arxiv.org/abs/2407.04681v1)|null|
 |**2024-07-05**|**A Didactic Journey from Statistical Physics to Thermodynamics**|Mario Graml et.al.|[2407.04633v1](http://arxiv.org/abs/2407.04633v1)|null|
 |**2024-07-05**|**An autoencoder for compressing angle-resolved photoemission spectroscopy data**|Steinn Ymir Agustsson et.al.|[2407.04631v1](http://arxiv.org/abs/2407.04631v1)|null|
-|**2024-07-05**|**OneRestore: A Universal Restoration Framework for Composite Degradation**|Yu Guo et.al.|[2407.04621v1](http://arxiv.org/abs/2407.04621v1)|**[link](https://github.com/gy65896/onerestore)**|
+|**2024-07-08**|**OneRestore: A Universal Restoration Framework for Composite Degradation**|Yu Guo et.al.|[2407.04621v2](http://arxiv.org/abs/2407.04621v2)|**[link](https://github.com/gy65896/onerestore)**|
 |**2024-07-05**|**Learning to (Learn at Test Time): RNNs with Expressive Hidden States**|Yu Sun et.al.|[2407.04620v1](http://arxiv.org/abs/2407.04620v1)|**[link](https://github.com/test-time-training/ttt-lm-jax)**|
 |**2024-07-05**|**Encoding of algebraic geometry codes with quasi-linear complexity  $O(N\log N)$ **|Songsong Li et.al.|[2407.04618v1](http://arxiv.org/abs/2407.04618v1)|null|
 |**2024-07-05**|**Isomorphic Pruning for Vision Models**|Gongfan Fang et.al.|[2407.04616v1](http://arxiv.org/abs/2407.04616v1)|**[link](https://github.com/vainf/isomorphic-pruning)**|
@@ -1760,7 +1760,7 @@
 |**2024-07-05**|**Crystal Growth, Terahertz Generation and Optical Characterization of Sodium Mesitylene Sulphonate (SMS)Crystal**|Yamuna Murtunge et.al.|[2407.04564v1](http://arxiv.org/abs/2407.04564v1)|null|
 |**2024-07-05**|**Real Time Emotion Analysis Using Deep Learning for Education, Entertainment, and Beyond**|Abhilash Khuntia et.al.|[2407.04560v1](http://arxiv.org/abs/2407.04560v1)|null|
 |**2024-07-05**|**Strengthening Structural Inductive Biases by Pre-training to Perform Syntactic Transformations**|Matthias Lindemann et.al.|[2407.04543v1](http://arxiv.org/abs/2407.04543v1)|null|
-|**2024-07-05**|**PDiscoFormer: Relaxing Part Discovery Constraints with Vision Transformers**|Ananthu Aniraj et.al.|[2407.04538v1](http://arxiv.org/abs/2407.04538v1)|**[link](https://github.com/ananthu-aniraj/pdiscoformer)**|
+|**2024-07-08**|**PDiscoFormer: Relaxing Part Discovery Constraints with Vision Transformers**|Ananthu Aniraj et.al.|[2407.04538v2](http://arxiv.org/abs/2407.04538v2)|**[link](https://github.com/ananthu-aniraj/pdiscoformer)**|
 |**2024-07-05**|**GPT vs RETRO: Exploring the Intersection of Retrieval and Parameter-Efficient Fine-Tuning**|Aleksander Ficek et.al.|[2407.04528v1](http://arxiv.org/abs/2407.04528v1)|null|
 |**2024-07-05**|**LayerShuffle: Enhancing Robustness in Vision Transformers by Randomizing Layer Execution Order**|Matthias Freiberger et.al.|[2407.04513v1](http://arxiv.org/abs/2407.04513v1)|null|
 |**2024-07-05**|**Balancing Operator's Risk Averseness in Model Predictive Control of a Reservoir System**|Ja-Ho Koo et.al.|[2407.04506v1](http://arxiv.org/abs/2407.04506v1)|null|
@@ -1786,7 +1786,7 @@
 |**2024-07-05**|**Robust Decision Transformer: Tackling Data Corruption in Offline RL via Sequence Modeling**|Jiawei Xu et.al.|[2407.04285v1](http://arxiv.org/abs/2407.04285v1)|null|
 |**2024-07-05**|**TSC-PCAC: Voxel Transformer and Sparse Convolution Based Point Cloud Attribute Compression for 3D Broadcasting**|Zixi Guo et.al.|[2407.04284v1](http://arxiv.org/abs/2407.04284v1)|null|
 |**2024-07-05**|**Understanding the Landscape of Leveraging IoT for Sustainable Growth in Saudi Arabia**|Manal Alshehri et.al.|[2407.04273v1](http://arxiv.org/abs/2407.04273v1)|null|
-|**2024-07-05**|**A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization**|Daoce Wang et.al.|[2407.04267v1](http://arxiv.org/abs/2407.04267v1)|null|
+|**2024-07-08**|**A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization**|Daoce Wang et.al.|[2407.04267v2](http://arxiv.org/abs/2407.04267v2)|null|
 |**2024-07-05**|**A Complex-Coefficient Voltage Control for Virtual Synchronous Generators for Dynamic Enhancement and Power-Voltage Decoupling**|Jingzhe Xu et.al.|[2407.04254v1](http://arxiv.org/abs/2407.04254v1)|null|
 |**2024-07-05**|**ArAIEval Shared Task: Propagandistic Techniques Detection in Unimodal and Multimodal Arabic Content**|Maram Hasanain et.al.|[2407.04247v1](http://arxiv.org/abs/2407.04247v1)|null|
 |**2024-07-05**|**Efficient GANs for Document Image Binarization Based on DWT and Normalization**|Rui-Yang Ju et.al.|[2407.04231v1](http://arxiv.org/abs/2407.04231v1)|**[link](https://github.com/ruiyangju/efficient_document_image_binarization)**|
