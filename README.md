@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667v1](http://arxiv.org/abs/2407.07667v1)|null|
+|**2024-07-10**|**Aging-Resistant Wideband Precoding in 5G and Beyond Using 3D Convolutional Neural Networks**|Alejandro Villena-Rodriguez et.al.|[2407.07434v1](http://arxiv.org/abs/2407.07434v1)|null|
+|**2024-07-10**|**Pairwise Distance Distillation for Unsupervised Real-World Image Super-Resolution**|Yuehan Zhang et.al.|[2407.07302v1](http://arxiv.org/abs/2407.07302v1)|**[link](https://github.com/yuehan717/pdd)**|
 |**2024-07-09**|**UnmixingSR: Material-aware Network with Unsupervised Unmixing as Auxiliary Task for Hyperspectral Image Super-resolution**|Yang Yu et.al.|[2407.06525v1](http://arxiv.org/abs/2407.06525v1)|null|
 |**2024-07-08**|**Enhancing super-resolution ultrasound localisation through multi-frame deconvolution exploiting spatiotemporal coherence**|Su Yan et.al.|[2407.06373v1](http://arxiv.org/abs/2407.06373v1)|null|
 |**2024-07-08**|**Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis**|Emaad Khwaja et.al.|[2407.06079v1](http://arxiv.org/abs/2407.06079v1)|null|
@@ -1172,6 +1175,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Aging-Resistant Wideband Precoding in 5G and Beyond Using 3D Convolutional Neural Networks**|Alejandro Villena-Rodriguez et.al.|[2407.07434v1](http://arxiv.org/abs/2407.07434v1)|null|
+|**2024-07-10**|**Pairwise Distance Distillation for Unsupervised Real-World Image Super-Resolution**|Yuehan Zhang et.al.|[2407.07302v1](http://arxiv.org/abs/2407.07302v1)|**[link](https://github.com/yuehan717/pdd)**|
 |**2024-07-09**|**UnmixingSR: Material-aware Network with Unsupervised Unmixing as Auxiliary Task for Hyperspectral Image Super-resolution**|Yang Yu et.al.|[2407.06525v1](http://arxiv.org/abs/2407.06525v1)|null|
 |**2024-07-08**|**Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution**|Zexin Ji et.al.|[2407.05993v1](http://arxiv.org/abs/2407.05993v1)|null|
 |**2024-07-08**|**Deform-Mamba Network for MRI Super-Resolution**|Zexin Ji et.al.|[2407.05969v1](http://arxiv.org/abs/2407.05969v1)|null|
@@ -1586,6 +1591,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667v1](http://arxiv.org/abs/2407.07667v1)|null|
 |**2024-07-10**|**DaBiT: Depth and Blur informed Transformer for Joint Refocusing and Super-Resolution**|Crispian Morris et.al.|[2407.01230v2](http://arxiv.org/abs/2407.01230v2)|null|
 |**2024-06-24**|**Improving Generative Adversarial Networks for Video Super-Resolution**|Daniel Wen et.al.|[2406.16359v1](http://arxiv.org/abs/2406.16359v1)|null|
 |**2024-06-19**|**EvTexture: Event-driven Texture Enhancement for Video Super-Resolution**|Dachun Kai et.al.|[2406.13457v1](http://arxiv.org/abs/2406.13457v1)|**[link](https://github.com/dachunkai/evtexture)**|
@@ -1761,6 +1767,48 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Quantum Algorithm to Prepare Quasi-Stationary States**|Samuel J. Garratt et.al.|[2407.07893v1](http://arxiv.org/abs/2407.07893v1)|null|
+|**2024-07-10**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874v1](http://arxiv.org/abs/2407.07874v1)|null|
+|**2024-07-10**|**RG Interfaces from Double-Trace Deformations**|Simone Giombi et.al.|[2407.07856v1](http://arxiv.org/abs/2407.07856v1)|null|
+|**2024-07-10**|**Uncovering Layer-Dependent Activation Sparsity Patterns in ReLU Transformers**|Cody Wild et.al.|[2407.07848v1](http://arxiv.org/abs/2407.07848v1)|null|
+|**2024-07-10**|**Study on Aspect Ratio Variability toward Robustness of Vision Transformer-based Vehicle Re-identification**|Mei Qiu et.al.|[2407.07842v1](http://arxiv.org/abs/2407.07842v1)|null|
+|**2024-07-10**|**RT-LA-VocE: Real-Time Low-SNR Audio-Visual Speech Enhancement**|Honglie Chen et.al.|[2407.07825v1](http://arxiv.org/abs/2407.07825v1)|null|
+|**2024-07-10**|**When to Accept Automated Predictions and When to Defer to Human Judgment?**|Daniel Sikar et.al.|[2407.07821v1](http://arxiv.org/abs/2407.07821v1)|null|
+|**2024-07-10**|**Transformer Alignment in Large Language Models**|Murdock Aubry et.al.|[2407.07810v1](http://arxiv.org/abs/2407.07810v1)|null|
+|**2024-07-10**|**PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer**|Tongkun Guan et.al.|[2407.07764v1](http://arxiv.org/abs/2407.07764v1)|**[link](https://github.com/sjtu-deepvisionlab/posformer)**|
+|**2024-07-10**|**Another reason why normalized gain should continue to be used to analyze concept inventories (and estimate learning rates)**|Jairo Navarrete et.al.|[2407.07730v1](http://arxiv.org/abs/2407.07730v1)|null|
+|**2024-07-10**|**SvANet: A Scale-variant Attention-based Network for Small Medical Object Segmentation**|Wei Dai et.al.|[2407.07720v1](http://arxiv.org/abs/2407.07720v1)|**[link](https://github.com/anthonyweidai/SvANet)**|
+|**2024-07-10**|**On compatibility of binary qubit measurements**|Dmitry Grinko et.al.|[2407.07711v1](http://arxiv.org/abs/2407.07711v1)|null|
+|**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612v1](http://arxiv.org/abs/2407.07612v1)|null|
+|**2024-07-10**|**Early Explorations of Lightweight Models for Wound Segmentation on Mobile Devices**|Vanessa Borst et.al.|[2407.07605v1](http://arxiv.org/abs/2407.07605v1)|null|
+|**2024-07-10**|**H-FCBFormer Hierarchical Fully Convolutional Branch Transformer for Occlusal Contact Segmentation with Articulating Paper**|Ryan Banks et.al.|[2407.07604v1](http://arxiv.org/abs/2407.07604v1)|**[link](https://github.com/banksylel/h-fcbformer)**|
+|**2024-07-10**|**iiANET: Inception Inspired Attention Hybrid Network for efficient Long-Range Dependency**|Haruna Yunusa et.al.|[2407.07603v1](http://arxiv.org/abs/2407.07603v1)|null|
+|**2024-07-10**|**Universal nonlinear responses of quantum Hall systems with Galilean invariance**|Tatsuya Amitani et.al.|[2407.07578v1](http://arxiv.org/abs/2407.07578v1)|null|
+|**2024-07-10**|**Resource Allocation for Twin Maintenance and Computing Task Processing in Digital Twin Vehicular Edge Computing Network**|Yu Xie et.al.|[2407.07575v1](http://arxiv.org/abs/2407.07575v1)|**[link](https://github.com/qiongwu86/resource-allocation-for-twin-maintenance-and-computing-tasks-in-digital-twin-mobile-edge-network)**|
+|**2024-07-10**|**Trainable Highly-expressive Activation Functions**|Irit Chelly et.al.|[2407.07564v1](http://arxiv.org/abs/2407.07564v1)|null|
+|**2024-07-10**|**Transforming qubits via quasi-geometric approaches**|Nyirahafashimana Valentine et.al.|[2407.07562v1](http://arxiv.org/abs/2407.07562v1)|null|
+|**2024-07-10**|**Federated Foundation Model for Cardiac CT Imaging**|Malte Tölle et.al.|[2407.07557v1](http://arxiv.org/abs/2407.07557v1)|**[link](https://github.com/cardio-ai/fed-foundation-model-cardiac-ct)**|
+|**2024-07-10**|**Elastic rods and elastic spinning rings as gravitational wave detectors**|José Natário et.al.|[2407.07547v1](http://arxiv.org/abs/2407.07547v1)|null|
+|**2024-07-10**|**Swiss DINO: Efficient and Versatile Vision Framework for On-device Personal Object Search**|Kirill Paramonov et.al.|[2407.07541v1](http://arxiv.org/abs/2407.07541v1)|null|
+|**2024-07-10**|**ler : LVK (LIGO-Virgo-KAGRA collaboration) event (compact-binary mergers) rate calculator and simulator**|Hemantakumar Phurailatpam et.al.|[2407.07526v1](http://arxiv.org/abs/2407.07526v1)|null|
+|**2024-07-10**|**Incremental Multiview Point Cloud Registration with Two-stage Candidate Retrieval**|Shiqi Li et.al.|[2407.07525v1](http://arxiv.org/abs/2407.07525v1)|null|
+|**2024-07-10**|**HDKD: Hybrid Data-Efficient Knowledge Distillation Network for Medical Image Classification**|Omar S. EL-Assiouti et.al.|[2407.07516v1](http://arxiv.org/abs/2407.07516v1)|null|
+|**2024-07-10**|**Swin SMT: Global Sequential Modeling in 3D Medical Image Segmentation**|Szymon Płotka et.al.|[2407.07514v1](http://arxiv.org/abs/2407.07514v1)|null|
+|**2024-07-10**|**Observation of Klein bottle quadrupole topological insulators in electric circuits**|Xizhou Shen et.al.|[2407.07470v1](http://arxiv.org/abs/2407.07470v1)|null|
+|**2024-07-10**|**Rethinking Few-shot Class-incremental Learning: Learning from Yourself**|Yu-Ming Tang et.al.|[2407.07468v1](http://arxiv.org/abs/2407.07468v1)|**[link](https://github.com/isee-laboratory/revisting_fscil)**|
+|**2024-07-10**|**HAFormer: Unleashing the Power of Hierarchy-Aware Features for Lightweight Semantic Segmentation**|Guoan Xu et.al.|[2407.07441v1](http://arxiv.org/abs/2407.07441v1)|null|
+|**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392v1](http://arxiv.org/abs/2407.07392v1)|null|
+|**2024-07-10**|**Deep(er) Reconstruction of Imaging Cherenkov Detectors with Swin Transformers and Normalizing Flow Models**|Cristiano Fanelli et.al.|[2407.07376v1](http://arxiv.org/abs/2407.07376v1)|null|
+|**2024-07-10**|**Video In-context Learning**|Wentao Zhang et.al.|[2407.07356v1](http://arxiv.org/abs/2407.07356v1)|null|
+|**2024-07-10**|**INSIGHT: Universal Neural Simulator for Analog Circuits Harnessing Autoregressive Transformers**|Souradip Poddar et.al.|[2407.07346v1](http://arxiv.org/abs/2407.07346v1)|null|
+|**2024-07-10**|**Electrically Tuning Quasi-Bound States in the Continuum with Hybrid Graphene-Silicon Metasurfaces**|Ziqiang Cai et.al.|[2407.07343v1](http://arxiv.org/abs/2407.07343v1)|null|
+|**2024-07-10**|**FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification**|Doanh C. Bui et.al.|[2407.07340v1](http://arxiv.org/abs/2407.07340v1)|null|
+|**2024-07-10**|**Transformation of a cellular skyrmion to polyomino-like structures**|Jing Xia et.al.|[2407.07298v1](http://arxiv.org/abs/2407.07298v1)|null|
+|**2024-07-10**|**Large Language Model-Augmented Auto-Delineation of Treatment Target Volume in Radiation Therapy**|Praveenbalaji Rajendran et.al.|[2407.07296v1](http://arxiv.org/abs/2407.07296v1)|null|
+|**2024-07-09**|**Exploring Camera Encoder Designs for Autonomous Driving Perception**|Barath Lakshmanan et.al.|[2407.07276v1](http://arxiv.org/abs/2407.07276v1)|null|
+|**2024-07-09**|**TrackFormers: In Search of Transformer-Based Particle Tracking for the High-Luminosity LHC Era**|Sascha Caron et.al.|[2407.07179v1](http://arxiv.org/abs/2407.07179v1)|null|
+|**2024-07-09**|**Protein Design by Integrating Machine Learning with Quantum Annealing and Quantum-inspired Optimization**|Veronica Panizza et.al.|[2407.07177v1](http://arxiv.org/abs/2407.07177v1)|null|
+|**2024-07-09**|**CamFreeDiff: Camera-free Image to Panorama Generation with Diffusion Model**|Xiaoding Yuan et.al.|[2407.07174v1](http://arxiv.org/abs/2407.07174v1)|null|
 |**2024-07-09**|**FBI-LLM: Scaling Up Fully Binarized LLMs from Scratch via Autoregressive Distillation**|Liqun Ma et.al.|[2407.07093v1](http://arxiv.org/abs/2407.07093v1)|**[link](https://github.com/liqunma/fbi-llm)**|
 |**2024-07-09**|**MoSt-DSA: Modeling Motion and Structural Interactions for Direct Multi-Frame Interpolation in DSA Images**|Ziyang Xu et.al.|[2407.07078v1](http://arxiv.org/abs/2407.07078v1)|**[link](https://github.com/ZyoungXu/MoSt-DSA)**|
 |**2024-07-10**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wei Wang et.al.|[2407.07056v2](http://arxiv.org/abs/2407.07056v2)|null|
