@@ -1768,7 +1768,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-10**|**Quantum Algorithm to Prepare Quasi-Stationary States**|Samuel J. Garratt et.al.|[2407.07893v1](http://arxiv.org/abs/2407.07893v1)|null|
-|**2024-07-10**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874v1](http://arxiv.org/abs/2407.07874v1)|null|
+|**2024-07-11**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874v2](http://arxiv.org/abs/2407.07874v2)|null|
 |**2024-07-10**|**RG Interfaces from Double-Trace Deformations**|Simone Giombi et.al.|[2407.07856v1](http://arxiv.org/abs/2407.07856v1)|null|
 |**2024-07-10**|**Uncovering Layer-Dependent Activation Sparsity Patterns in ReLU Transformers**|Cody Wild et.al.|[2407.07848v1](http://arxiv.org/abs/2407.07848v1)|null|
 |**2024-07-10**|**Study on Aspect Ratio Variability toward Robustness of Vision Transformer-based Vehicle Re-identification**|Mei Qiu et.al.|[2407.07842v1](http://arxiv.org/abs/2407.07842v1)|null|
@@ -1802,7 +1802,7 @@
 |**2024-07-10**|**Video In-context Learning**|Wentao Zhang et.al.|[2407.07356v1](http://arxiv.org/abs/2407.07356v1)|null|
 |**2024-07-10**|**INSIGHT: Universal Neural Simulator for Analog Circuits Harnessing Autoregressive Transformers**|Souradip Poddar et.al.|[2407.07346v1](http://arxiv.org/abs/2407.07346v1)|null|
 |**2024-07-10**|**Electrically Tuning Quasi-Bound States in the Continuum with Hybrid Graphene-Silicon Metasurfaces**|Ziqiang Cai et.al.|[2407.07343v1](http://arxiv.org/abs/2407.07343v1)|null|
-|**2024-07-11**|**FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification**|Doanh C. Bui et.al.|[2407.07340v2](http://arxiv.org/abs/2407.07340v2)|null|
+|**2024-07-11**|**FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification**|Doanh C. Bui et.al.|[2407.07340v2](http://arxiv.org/abs/2407.07340v2)|**[link](https://github.com/quiil/falformer)**|
 |**2024-07-10**|**Transformation of a cellular skyrmion to polyomino-like structures**|Jing Xia et.al.|[2407.07298v1](http://arxiv.org/abs/2407.07298v1)|null|
 |**2024-07-10**|**Large Language Model-Augmented Auto-Delineation of Treatment Target Volume in Radiation Therapy**|Praveenbalaji Rajendran et.al.|[2407.07296v1](http://arxiv.org/abs/2407.07296v1)|null|
 |**2024-07-09**|**Exploring Camera Encoder Designs for Autonomous Driving Perception**|Barath Lakshmanan et.al.|[2407.07276v1](http://arxiv.org/abs/2407.07276v1)|null|
