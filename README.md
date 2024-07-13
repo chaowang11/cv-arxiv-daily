@@ -1775,7 +1775,7 @@
 |---|---|---|---|---|
 |**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734v1](http://arxiv.org/abs/2407.08734v1)|**[link](https://github.com/ufo-101/auto-circuit)**|
 |**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729v1](http://arxiv.org/abs/2407.08729v1)|null|
-|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723v1](http://arxiv.org/abs/2407.08723v1)|null|
+|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723v1](http://arxiv.org/abs/2407.08723v1)|**[link](https://github.com/rorondre/TDAGeneralization)**|
 |**2024-07-11**|**OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects**|Akshay Krishnan et.al.|[2407.08711v1](http://arxiv.org/abs/2407.08711v1)|null|
 |**2024-07-11**|**End-to-End Orchestration of NextG Media Services over the Distributed Compute Continuum**|Alessandro Mauro et.al.|[2407.08710v1](http://arxiv.org/abs/2407.08710v1)|null|
 |**2024-07-11**|**ElasticAST: An Audio Spectrogram Transformer for All Length and Resolutions**|Jiu Feng et.al.|[2407.08691v1](http://arxiv.org/abs/2407.08691v1)|**[link](https://github.com/jiufengsc/elasticast)**|
@@ -1801,7 +1801,7 @@
 |**2024-07-11**|**Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization**|Jinlong Li et.al.|[2407.08374v1](http://arxiv.org/abs/2407.08374v1)|null|
 |**2024-07-11**|**Quantized area of the Schwarzschild black hole: A non-hermitian perspective**|Bijan Bagchi et.al.|[2407.08358v1](http://arxiv.org/abs/2407.08358v1)|null|
 |**2024-07-11**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334v1](http://arxiv.org/abs/2407.08334v1)|null|
-|**2024-07-11**|**HDT: Hierarchical Document Transformer**|Haoyu He et.al.|[2407.08330v1](http://arxiv.org/abs/2407.08330v1)|null|
+|**2024-07-11**|**HDT: Hierarchical Document Transformer**|Haoyu He et.al.|[2407.08330v1](http://arxiv.org/abs/2407.08330v1)|**[link](https://github.com/autonomousvision/hdt)**|
 |**2024-07-11**|**Extension of Buchdahl's Theorem on Reciprocal Solutions**|David S. Pereira et.al.|[2407.08320v1](http://arxiv.org/abs/2407.08320v1)|null|
 |**2024-07-11**|**Improving Molecular Modeling with Geometric GNNs: an Empirical Study**|Ali Ramlaoui et.al.|[2407.08313v1](http://arxiv.org/abs/2407.08313v1)|null|
 |**2024-07-11**|**Adversarial-MidiBERT: Symbolic Music Understanding Model Based on Unbias Pre-training and Mask Fine-tuning**|Zijian Zhao et.al.|[2407.08306v1](http://arxiv.org/abs/2407.08306v1)|**[link](https://github.com/RS2002/Adversarial-MidiBERT)**|
@@ -1809,7 +1809,7 @@
 |**2024-07-11**|**eUDEVS: Executable UML with DEVS Theory of Modeling and Simulation**|José L. Risco-Martín et.al.|[2407.08281v1](http://arxiv.org/abs/2407.08281v1)|null|
 |**2024-07-11**|**Enhancing Thermal Infrared Tracking with Natural Language Modeling and Coordinate Sequence Generation**|Miao Yan et.al.|[2407.08265v1](http://arxiv.org/abs/2407.08265v1)|**[link](https://github.com/eloeszhang/nlmtrack)**|
 |**2024-07-11**|**Knowledge distillation to effectively attain both region-of-interest and global semantics from an image where multiple objects appear**|Seonwhee Jin et.al.|[2407.08257v1](http://arxiv.org/abs/2407.08257v1)|**[link](https://github.com/seonwhee-genome/rvernet)**|
-|**2024-07-11**|**GraphMamba: An Efficient Graph Structure Learning Vision Mamba for Hyperspectral Image Classification**|Aitao Yang et.al.|[2407.08255v1](http://arxiv.org/abs/2407.08255v1)|null|
+|**2024-07-11**|**GraphMamba: An Efficient Graph Structure Learning Vision Mamba for Hyperspectral Image Classification**|Aitao Yang et.al.|[2407.08255v1](http://arxiv.org/abs/2407.08255v1)|**[link](https://github.com/ahappyyang/GraphMamba)**|
 |**2024-07-11**|**Determination of five-parameter grain boundary characteristics in nanocrystalline Ni-W by Scanning Precession Electron Diffraction Tomography**|E. F. Rauch et.al.|[2407.08251v1](http://arxiv.org/abs/2407.08251v1)|null|
 |**2024-07-11**|**HRRPGraphNet: A Graph Neural Network Based Approach for HRRP Radar Target Recognition**|Lingfeng Chen et.al.|[2407.08236v1](http://arxiv.org/abs/2407.08236v1)|null|
 |**2024-07-11**|**stEnTrans: Transformer-based deep learning for spatial transcriptomics enhancement**|Shuailin Xue et.al.|[2407.08224v1](http://arxiv.org/abs/2407.08224v1)|**[link](https://github.com/shuailinxue/stentrans)**|
