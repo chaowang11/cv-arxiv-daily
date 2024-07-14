@@ -1849,12 +1849,12 @@
 |**2024-07-10**|**ler : LVK (LIGO-Virgo-KAGRA collaboration) event (compact-binary mergers) rate calculator and simulator**|Hemantakumar Phurailatpam et.al.|[2407.07526v1](http://arxiv.org/abs/2407.07526v1)|null|
 |**2024-07-10**|**Incremental Multiview Point Cloud Registration with Two-stage Candidate Retrieval**|Shiqi Li et.al.|[2407.07525v1](http://arxiv.org/abs/2407.07525v1)|null|
 |**2024-07-10**|**HDKD: Hybrid Data-Efficient Knowledge Distillation Network for Medical Image Classification**|Omar S. EL-Assiouti et.al.|[2407.07516v1](http://arxiv.org/abs/2407.07516v1)|null|
-|**2024-07-10**|**Swin SMT: Global Sequential Modeling in 3D Medical Image Segmentation**|Szymon Płotka et.al.|[2407.07514v1](http://arxiv.org/abs/2407.07514v1)|null|
+|**2024-07-10**|**Swin SMT: Global Sequential Modeling in 3D Medical Image Segmentation**|Szymon Płotka et.al.|[2407.07514v1](http://arxiv.org/abs/2407.07514v1)|**[link](https://github.com/mi2datalab/swinsmt)**|
 |**2024-07-10**|**Observation of Klein bottle quadrupole topological insulators in electric circuits**|Xizhou Shen et.al.|[2407.07470v1](http://arxiv.org/abs/2407.07470v1)|null|
 |**2024-07-10**|**Rethinking Few-shot Class-incremental Learning: Learning from Yourself**|Yu-Ming Tang et.al.|[2407.07468v1](http://arxiv.org/abs/2407.07468v1)|**[link](https://github.com/isee-laboratory/revisting_fscil)**|
 |**2024-07-11**|**HAFormer: Unleashing the Power of Hierarchy-Aware Features for Lightweight Semantic Segmentation**|Guoan Xu et.al.|[2407.07441v2](http://arxiv.org/abs/2407.07441v2)|null|
 |**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392v1](http://arxiv.org/abs/2407.07392v1)|null|
-|**2024-07-10**|**Deep(er) Reconstruction of Imaging Cherenkov Detectors with Swin Transformers and Normalizing Flow Models**|Cristiano Fanelli et.al.|[2407.07376v1](http://arxiv.org/abs/2407.07376v1)|null|
+|**2024-07-10**|**Deep(er) Reconstruction of Imaging Cherenkov Detectors with Swin Transformers and Normalizing Flow Models**|Cristiano Fanelli et.al.|[2407.07376v1](http://arxiv.org/abs/2407.07376v1)|**[link](https://github.com/wmdataphys/DeeperRICH)**|
 |**2024-07-10**|**Video In-context Learning**|Wentao Zhang et.al.|[2407.07356v1](http://arxiv.org/abs/2407.07356v1)|null|
 |**2024-07-10**|**INSIGHT: Universal Neural Simulator for Analog Circuits Harnessing Autoregressive Transformers**|Souradip Poddar et.al.|[2407.07346v1](http://arxiv.org/abs/2407.07346v1)|null|
 |**2024-07-10**|**Electrically Tuning Quasi-Bound States in the Continuum with Hybrid Graphene-Silicon Metasurfaces**|Ziqiang Cai et.al.|[2407.07343v1](http://arxiv.org/abs/2407.07343v1)|null|
@@ -1870,7 +1870,7 @@
 |**2024-07-10**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wei Wang et.al.|[2407.07056v2](http://arxiv.org/abs/2407.07056v2)|null|
 |**2024-07-09**|**CorMulT: A Semi-supervised Modality Correlation-aware Multimodal Transformer for Sentiment Analysis**|Yangmin Li et.al.|[2407.07046v1](http://arxiv.org/abs/2407.07046v1)|null|
 |**2024-07-09**|**Bow-shock structure of Sgr B molecular-cloud complex in the Galactic Centre inferred from 3D CO-line kinematics**|Yoshiaki Sofue et.al.|[2407.07013v1](http://arxiv.org/abs/2407.07013v1)|null|
-|**2024-07-09**|**Generative models of astrophysical fields with scattering transforms on the sphere**|Louise Mousset et.al.|[2407.07007v1](http://arxiv.org/abs/2407.07007v1)|null|
+|**2024-07-09**|**Generative models of astrophysical fields with scattering transforms on the sphere**|Louise Mousset et.al.|[2407.07007v1](http://arxiv.org/abs/2407.07007v1)|**[link](https://github.com/astro-informatics/s2scat)**|
 |**2024-07-09**|**Rank-one systems, flexible classes and Shannon orbit equivalence**|Corentin Correia et.al.|[2407.06997v1](http://arxiv.org/abs/2407.06997v1)|null|
 |**2024-07-09**|**Stimulated Raman Scattering and Molecular Modulation in Anti-resonant Hollow-core Fibres**|Pau Arcos et.al.|[2407.06996v1](http://arxiv.org/abs/2407.06996v1)|null|
 |**2024-07-09**|**Segment-Based Interactive Machine Translation for Pre-trained Models**|Angel Navarro et.al.|[2407.06990v1](http://arxiv.org/abs/2407.06990v1)|null|
