@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268v1](http://arxiv.org/abs/2407.09268v1)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
+|**2024-07-12**|**Task-driven single-image super-resolution reconstruction of document scans**|Maciej Zyrek et.al.|[2407.08993v1](http://arxiv.org/abs/2407.08993v1)|null|
 |**2024-07-11**|**Global Spatial-Temporal Information-based Residual ConvLSTM for Video Space-Time Super-Resolution**|Congrui Fu et.al.|[2407.08466v1](http://arxiv.org/abs/2407.08466v1)|null|
 |**2024-07-11**|**Wind Power Assessment based on Super-Resolution and Downscaling -- A Comparison of Deep Learning Methods**|Luca Schmidt et.al.|[2407.08259v1](http://arxiv.org/abs/2407.08259v1)|null|
 |**2024-07-11**|**Spatially-Variant Degradation Model for Dataset-free Super-resolution**|Shaojie Guo et.al.|[2407.08252v1](http://arxiv.org/abs/2407.08252v1)|null|
@@ -1178,6 +1180,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268v1](http://arxiv.org/abs/2407.09268v1)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
+|**2024-07-12**|**Task-driven single-image super-resolution reconstruction of document scans**|Maciej Zyrek et.al.|[2407.08993v1](http://arxiv.org/abs/2407.08993v1)|null|
 |**2024-07-11**|**Wind Power Assessment based on Super-Resolution and Downscaling -- A Comparison of Deep Learning Methods**|Luca Schmidt et.al.|[2407.08259v1](http://arxiv.org/abs/2407.08259v1)|null|
 |**2024-07-11**|**Spatially-Variant Degradation Model for Dataset-free Super-resolution**|Shaojie Guo et.al.|[2407.08252v1](http://arxiv.org/abs/2407.08252v1)|null|
 |**2024-07-10**|**Aging-Resistant Wideband Precoding in 5G and Beyond Using 3D Convolutional Neural Networks**|Alejandro Villena-Rodriguez et.al.|[2407.07434v1](http://arxiv.org/abs/2407.07434v1)|null|
@@ -1773,6 +1777,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**StyleSplat: 3D Object Style Transfer with Gaussian Splatting**|Sahil Jain et.al.|[2407.09473v1](http://arxiv.org/abs/2407.09473v1)|null|
+|**2024-07-12**|**Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures**|Sophia Sanborn et.al.|[2407.09468v1](http://arxiv.org/abs/2407.09468v1)|null|
+|**2024-07-12**|**A Versatile Side Entry Laser System for Scanning Transmission Electron Microscopy**|Ondrej Dyck et.al.|[2407.09461v1](http://arxiv.org/abs/2407.09461v1)|null|
+|**2024-07-12**|**A Distance for Geometric Graphs via the Labeled Merge Tree Interleaving Distance**|Erin Wolf Chambers et.al.|[2407.09442v1](http://arxiv.org/abs/2407.09442v1)|null|
+|**2024-07-12**|**A novel direct Helmholtz solver in inhomogeneous media based on the operator Fourier transform functional calculus**|Max Cubillos et.al.|[2407.09436v1](http://arxiv.org/abs/2407.09436v1)|null|
+|**2024-07-12**|**A Perspective on Foundation Models for the Electric Power Grid**|Hendrik F. Hamann et.al.|[2407.09434v1](http://arxiv.org/abs/2407.09434v1)|null|
+|**2024-07-12**|**Controlization Schemes Based on Orthogonal Arrays**|Anirban Chowdhury et.al.|[2407.09382v1](http://arxiv.org/abs/2407.09382v1)|null|
+|**2024-07-12**|**Computationally Efficient Estimation of Large Probit Models**|Patrick Ding et.al.|[2407.09371v1](http://arxiv.org/abs/2407.09371v1)|null|
+|**2024-07-12**|**Any-Property-Conditional Molecule Generation with Self-Criticism using Spanning Trees**|Alexia Jolicoeur-Martineau et.al.|[2407.09357v1](http://arxiv.org/abs/2407.09357v1)|null|
+|**2024-07-12**|**Pre-training Point Cloud Compact Model with Partial-aware Reconstruction**|Yaohua Zha et.al.|[2407.09344v1](http://arxiv.org/abs/2407.09344v1)|null|
+|**2024-07-12**|**HETOCompiler: An MLIR-based crypTOgraphic Compilation Framework for HEterogeneous Devices**|Zhiyuan Tan et.al.|[2407.09333v1](http://arxiv.org/abs/2407.09333v1)|null|
+|**2024-07-12**|**In-situ Analysis of the Effect of Residual fcc Phase and Special Grain Boundaries on the Deformation Dynamics in Pure Cobalt**|Michal Knapek et.al.|[2407.09313v1](http://arxiv.org/abs/2407.09313v1)|null|
+|**2024-07-12**|**Transformer Layers as Painters**|Qi Sun et.al.|[2407.09298v1](http://arxiv.org/abs/2407.09298v1)|null|
+|**2024-07-12**|**DAHRS: Divergence-Aware Hallucination-Remediated SRL Projection**|Sangpil Youm et.al.|[2407.09283v1](http://arxiv.org/abs/2407.09283v1)|null|
+|**2024-07-12**|**Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX**|Zhiyuan Chen et.al.|[2407.09274v1](http://arxiv.org/abs/2407.09274v1)|null|
+|**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268v1](http://arxiv.org/abs/2407.09268v1)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
+|**2024-07-12**|**Skipping a beat: discovery of persistent quasi-periodic oscillations associated with pulsed fraction drop of the spin signal in M51 ULX-7**|Matteo Imbrogno et.al.|[2407.09240v1](http://arxiv.org/abs/2407.09240v1)|null|
+|**2024-07-12**|**Belief Propagation-based Rotation and Translation Estimation for Rigid Body Localization**|Volodymyr Vizitiv et.al.|[2407.09232v1](http://arxiv.org/abs/2407.09232v1)|null|
+|**2024-07-12**|**Spherical Fourier multipliers related to Gelfand pairs**|Yaogan Mensah et.al.|[2407.09225v1](http://arxiv.org/abs/2407.09225v1)|null|
+|**2024-07-12**|**Plane-parallel waves as Jacobi-Lie models**|Ivo Petr et.al.|[2407.09214v1](http://arxiv.org/abs/2407.09214v1)|null|
+|**2024-07-12**|**Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning**|Yunjie He et.al.|[2407.09212v1](http://arxiv.org/abs/2407.09212v1)|null|
+|**2024-07-12**|**Pronunciation Assessment with Multi-modal Large Language Models**|Kaiqi Fu et.al.|[2407.09209v1](http://arxiv.org/abs/2407.09209v1)|null|
+|**2024-07-12**|**Segmenting Medical Images with Limited Data**|Zhaoshan Liua et.al.|[2407.09189v1](http://arxiv.org/abs/2407.09189v1)|**[link](https://github.com/nus-tim/dems)**|
+|**2024-07-12**|**Enhancing Depressive Post Detection in Bangla: A Comparative Study of TF-IDF, BERT and FastText Embeddings**|Saad Ahmed Sazan et.al.|[2407.09187v1](http://arxiv.org/abs/2407.09187v1)|null|
+|**2024-07-12**|**Conformal Inductive Graph Neural Networks**|Soroush H. Zargarbashi et.al.|[2407.09173v1](http://arxiv.org/abs/2407.09173v1)|null|
+|**2024-07-12**|**SE(3)-bi-equivariant Transformers for Point Cloud Assembly**|Ziming Wang et.al.|[2407.09167v1](http://arxiv.org/abs/2407.09167v1)|null|
+|**2024-07-12**|**Movie Recommendation with Poster Attention via Multi-modal Transformer Feature Fusion**|Linhan Xia et.al.|[2407.09157v1](http://arxiv.org/abs/2407.09157v1)|null|
+|**2024-07-12**|**FlyEye Ground-Based Telescope: Unveiling New Frontiers in Astronomical Science**|Carmelo Arcidiacono et.al.|[2407.09140v1](http://arxiv.org/abs/2407.09140v1)|null|
+|**2024-07-12**|**Distinct citation distributions complicate research evaluations. A single indicator that universally reveals research efficiency cannot be formulated**|Alonso Rodríguez-Navarro et.al.|[2407.09138v1](http://arxiv.org/abs/2407.09138v1)|null|
+|**2024-07-12**|**Rotating dipole and quadrupole quantum droplets in binary Bose-Einstein condensates**|Dongshuai Liu et.al.|[2407.09129v1](http://arxiv.org/abs/2407.09129v1)|null|
+|**2024-07-12**|**Solving recurrence relations for multiloop integrals in the limit of large values of the dimensional regularization parameter**|P. A. Baikov et.al.|[2407.09112v1](http://arxiv.org/abs/2407.09112v1)|null|
+|**2024-07-12**|**Inference Optimization of Foundation Models on AI Accelerators**|Youngsuk Park et.al.|[2407.09111v1](http://arxiv.org/abs/2407.09111v1)|null|
+|**2024-07-12**|**DANIEL: A fast Document Attention Network for Information Extraction and Labelling of handwritten documents**|Thomas Constum et.al.|[2407.09103v1](http://arxiv.org/abs/2407.09103v1)|**[link](https://github.com/shulk97/daniel)**|
+|**2024-07-12**|**Music Proofreading with RefinPaint: Where and How to Modify Compositions given Context**|Pedro Ramoneda et.al.|[2407.09099v1](http://arxiv.org/abs/2407.09099v1)|**[link](https://github.com/ta603/refinpaint)**|
+|**2024-07-12**|**Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer**|Yuanfei Huang et.al.|[2407.09094v1](http://arxiv.org/abs/2407.09094v1)|**[link](https://github.com/yuanfeihuang/condformer)**|
+|**2024-07-12**|**On Exact Bit-level Reversible Transformers Without Changing Architectures**|Guoqiang Zhang et.al.|[2407.09093v1](http://arxiv.org/abs/2407.09093v1)|null|
+|**2024-07-12**|**BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation**|Zekai Xu et.al.|[2407.09083v1](http://arxiv.org/abs/2407.09083v1)|null|
+|**2024-07-12**|**Crossed real nodal-line phonons in gold monobromide**|Yilin Han et.al.|[2407.09079v1](http://arxiv.org/abs/2407.09079v1)|null|
+|**2024-07-12**|**Physical encryption and decryption for secure data transmission in optical networks leveraging the temporal Talbot effect and microwave photonics**|Chulun Lin et.al.|[2407.09066v1](http://arxiv.org/abs/2407.09066v1)|null|
+|**2024-07-12**|**Photonic quasicrystal of spin angular momentum**|Min Lin et.al.|[2407.09037v1](http://arxiv.org/abs/2407.09037v1)|null|
+|**2024-07-12**|**GPC: Generative and General Pathology Image Classifier**|Anh Tien Nguyen et.al.|[2407.09035v1](http://arxiv.org/abs/2407.09035v1)|null|
+|**2024-07-12**|**Textual Query-Driven Mask Transformer for Domain Generalized Segmentation**|Byeonghyun Pak et.al.|[2407.09033v1](http://arxiv.org/abs/2407.09033v1)|null|
+|**2024-07-12**|**CAMP: Continuous and Adaptive Learning Model in Pathology**|Anh Tien Nguyen et.al.|[2407.09030v1](http://arxiv.org/abs/2407.09030v1)|null|
+|**2024-07-12**|**Enhancing Emotion Recognition in Incomplete Data: A Novel Cross-Modal Alignment, Reconstruction, and Refinement Framework**|Haoqin Sun et.al.|[2407.09029v1](http://arxiv.org/abs/2407.09029v1)|null|
+|**2024-07-12**|**OVExp: Open Vocabulary Exploration for Object-Oriented Navigation**|Meng Wei et.al.|[2407.09016v1](http://arxiv.org/abs/2407.09016v1)|null|
+|**2024-07-12**|**Privacy-Preserving Collaborative Genomic Research: A Real-Life Deployment and Vision**|Zahra Rahmani et.al.|[2407.09004v1](http://arxiv.org/abs/2407.09004v1)|null|
+|**2024-07-12**|**Global Attention-Guided Dual-Domain Point Cloud Feature Learning for Classification and Segmentation**|Zihao Li et.al.|[2407.08994v1](http://arxiv.org/abs/2407.08994v1)|null|
+|**2024-07-12**|**FEM on nonuniform meshes for nonlocal Laplacian: Semi-analytic Implementation in One Dimension**|Hongbin Chen et.al.|[2407.08988v1](http://arxiv.org/abs/2407.08988v1)|null|
+|**2024-07-12**|**Hybrid Temporal Computing for Lower Power Hardware Accelerators**|Maliha Tasnim et.al.|[2407.08975v1](http://arxiv.org/abs/2407.08975v1)|null|
+|**2024-07-12**|**Revealing the Dark Secrets of Extremely Large Kernel ConvNets on Robustness**|Honghao Chen et.al.|[2407.08972v1](http://arxiv.org/abs/2407.08972v1)|**[link](https://github.com/lauch1ng/lkrobust)**|
 |**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734v1](http://arxiv.org/abs/2407.08734v1)|**[link](https://github.com/ufo-101/auto-circuit)**|
 |**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729v1](http://arxiv.org/abs/2407.08729v1)|null|
 |**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723v1](http://arxiv.org/abs/2407.08723v1)|**[link](https://github.com/rorondre/TDAGeneralization)**|
@@ -19943,6 +19997,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**A Hybrid Spiking-Convolutional Neural Network Approach for Advancing Machine Learning Models**|Sanaullah et.al.|[2407.08861v1](http://arxiv.org/abs/2407.08861v1)|null|
 |**2024-07-11**|**Haar Nuclear Norms with Applications to Remote Sensing Imagery Restoration**|Shuang Xu et.al.|[2407.08509v1](http://arxiv.org/abs/2407.08509v1)|null|
 |**2024-07-10**|**Coherent and Multi-modality Image Inpainting via Latent Space Optimization**|Lingzhi Pan et.al.|[2407.08019v1](http://arxiv.org/abs/2407.08019v1)|null|
 |**2024-07-08**|**Minutes to Seconds: Speeded-up DDPM-based Image Inpainting with Coarse-to-Fine Sampling**|Lintao Zhang et.al.|[2407.05875v1](http://arxiv.org/abs/2407.05875v1)|**[link](https://github.com/linghuyuhangyuan/m2s)**|
