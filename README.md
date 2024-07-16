@@ -1785,17 +1785,17 @@
 |**2024-07-12**|**A Perspective on Foundation Models for the Electric Power Grid**|Hendrik F. Hamann et.al.|[2407.09434v1](http://arxiv.org/abs/2407.09434v1)|null|
 |**2024-07-12**|**Controlization Schemes Based on Orthogonal Arrays**|Anirban Chowdhury et.al.|[2407.09382v1](http://arxiv.org/abs/2407.09382v1)|null|
 |**2024-07-12**|**Computationally Efficient Estimation of Large Probit Models**|Patrick Ding et.al.|[2407.09371v1](http://arxiv.org/abs/2407.09371v1)|null|
-|**2024-07-12**|**Any-Property-Conditional Molecule Generation with Self-Criticism using Spanning Trees**|Alexia Jolicoeur-Martineau et.al.|[2407.09357v1](http://arxiv.org/abs/2407.09357v1)|null|
+|**2024-07-15**|**Any-Property-Conditional Molecule Generation with Self-Criticism using Spanning Trees**|Alexia Jolicoeur-Martineau et.al.|[2407.09357v2](http://arxiv.org/abs/2407.09357v2)|**[link](https://github.com/samsungsailmontreal/anymolgencritic)**|
 |**2024-07-12**|**Pre-training Point Cloud Compact Model with Partial-aware Reconstruction**|Yaohua Zha et.al.|[2407.09344v1](http://arxiv.org/abs/2407.09344v1)|null|
 |**2024-07-12**|**HETOCompiler: An MLIR-based crypTOgraphic Compilation Framework for HEterogeneous Devices**|Zhiyuan Tan et.al.|[2407.09333v1](http://arxiv.org/abs/2407.09333v1)|null|
 |**2024-07-12**|**In-situ Analysis of the Effect of Residual fcc Phase and Special Grain Boundaries on the Deformation Dynamics in Pure Cobalt**|Michal Knapek et.al.|[2407.09313v1](http://arxiv.org/abs/2407.09313v1)|null|
 |**2024-07-12**|**Transformer Layers as Painters**|Qi Sun et.al.|[2407.09298v1](http://arxiv.org/abs/2407.09298v1)|null|
 |**2024-07-12**|**DAHRS: Divergence-Aware Hallucination-Remediated SRL Projection**|Sangpil Youm et.al.|[2407.09283v1](http://arxiv.org/abs/2407.09283v1)|null|
-|**2024-07-12**|**Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX**|Zhiyuan Chen et.al.|[2407.09274v1](http://arxiv.org/abs/2407.09274v1)|null|
+|**2024-07-12**|**Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX**|Zhiyuan Chen et.al.|[2407.09274v1](http://arxiv.org/abs/2407.09274v1)|**[link](https://github.com/PaddlePaddle/PaddleHelix)**|
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268v1](http://arxiv.org/abs/2407.09268v1)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
 |**2024-07-12**|**Skipping a beat: discovery of persistent quasi-periodic oscillations associated with pulsed fraction drop of the spin signal in M51 ULX-7**|Matteo Imbrogno et.al.|[2407.09240v1](http://arxiv.org/abs/2407.09240v1)|null|
 |**2024-07-12**|**Belief Propagation-based Rotation and Translation Estimation for Rigid Body Localization**|Volodymyr Vizitiv et.al.|[2407.09232v1](http://arxiv.org/abs/2407.09232v1)|null|
-|**2024-07-12**|**Spherical Fourier multipliers related to Gelfand pairs**|Yaogan Mensah et.al.|[2407.09225v1](http://arxiv.org/abs/2407.09225v1)|null|
+|**2024-07-15**|**Spherical Fourier multipliers related to Gelfand pairs**|Yaogan Mensah et.al.|[2407.09225v2](http://arxiv.org/abs/2407.09225v2)|null|
 |**2024-07-12**|**Plane-parallel waves as Jacobi-Lie models**|Ivo Petr et.al.|[2407.09214v1](http://arxiv.org/abs/2407.09214v1)|null|
 |**2024-07-12**|**Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning**|Yunjie He et.al.|[2407.09212v1](http://arxiv.org/abs/2407.09212v1)|null|
 |**2024-07-12**|**Pronunciation Assessment with Multi-modal Large Language Models**|Kaiqi Fu et.al.|[2407.09209v1](http://arxiv.org/abs/2407.09209v1)|null|
@@ -1813,13 +1813,13 @@
 |**2024-07-12**|**Music Proofreading with RefinPaint: Where and How to Modify Compositions given Context**|Pedro Ramoneda et.al.|[2407.09099v1](http://arxiv.org/abs/2407.09099v1)|**[link](https://github.com/ta603/refinpaint)**|
 |**2024-07-12**|**Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer**|Yuanfei Huang et.al.|[2407.09094v1](http://arxiv.org/abs/2407.09094v1)|**[link](https://github.com/yuanfeihuang/condformer)**|
 |**2024-07-12**|**On Exact Bit-level Reversible Transformers Without Changing Architectures**|Guoqiang Zhang et.al.|[2407.09093v1](http://arxiv.org/abs/2407.09093v1)|null|
-|**2024-07-12**|**BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation**|Zekai Xu et.al.|[2407.09083v1](http://arxiv.org/abs/2407.09083v1)|null|
+|**2024-07-15**|**BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation**|Zekai Xu et.al.|[2407.09083v2](http://arxiv.org/abs/2407.09083v2)|**[link](https://github.com/intelligent-computing-research-group/bkdsnn)**|
 |**2024-07-12**|**Crossed real nodal-line phonons in gold monobromide**|Yilin Han et.al.|[2407.09079v1](http://arxiv.org/abs/2407.09079v1)|null|
 |**2024-07-12**|**Physical encryption and decryption for secure data transmission in optical networks leveraging the temporal Talbot effect and microwave photonics**|Chulun Lin et.al.|[2407.09066v1](http://arxiv.org/abs/2407.09066v1)|null|
 |**2024-07-12**|**Photonic quasicrystal of spin angular momentum**|Min Lin et.al.|[2407.09037v1](http://arxiv.org/abs/2407.09037v1)|null|
 |**2024-07-12**|**GPC: Generative and General Pathology Image Classifier**|Anh Tien Nguyen et.al.|[2407.09035v1](http://arxiv.org/abs/2407.09035v1)|null|
 |**2024-07-12**|**Textual Query-Driven Mask Transformer for Domain Generalized Segmentation**|Byeonghyun Pak et.al.|[2407.09033v1](http://arxiv.org/abs/2407.09033v1)|null|
-|**2024-07-12**|**CAMP: Continuous and Adaptive Learning Model in Pathology**|Anh Tien Nguyen et.al.|[2407.09030v1](http://arxiv.org/abs/2407.09030v1)|null|
+|**2024-07-12**|**CAMP: Continuous and Adaptive Learning Model in Pathology**|Anh Tien Nguyen et.al.|[2407.09030v1](http://arxiv.org/abs/2407.09030v1)|**[link](https://github.com/QuIIL/CAMP)**|
 |**2024-07-12**|**Enhancing Emotion Recognition in Incomplete Data: A Novel Cross-Modal Alignment, Reconstruction, and Refinement Framework**|Haoqin Sun et.al.|[2407.09029v1](http://arxiv.org/abs/2407.09029v1)|null|
 |**2024-07-12**|**OVExp: Open Vocabulary Exploration for Object-Oriented Navigation**|Meng Wei et.al.|[2407.09016v1](http://arxiv.org/abs/2407.09016v1)|null|
 |**2024-07-12**|**Privacy-Preserving Collaborative Genomic Research: A Real-Life Deployment and Vision**|Zahra Rahmani et.al.|[2407.09004v1](http://arxiv.org/abs/2407.09004v1)|null|
