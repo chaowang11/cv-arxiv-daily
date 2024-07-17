@@ -23,6 +23,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Speckle-based 3D sub-diffraction imaging through a multimode fiber**|Zhouping Lyu et.al.|[2407.11796v1](http://arxiv.org/abs/2407.11796v1)|null|
+|**2024-07-16**|**Deconvolution with a Box**|Pedro Felzenszwalb et.al.|[2407.11685v1](http://arxiv.org/abs/2407.11685v1)|null|
+|**2024-07-16**|**Leveraging Segment Anything Model in Identifying Buildings within Refugee Camps (SAM4Refugee) from Satellite Imagery for Humanitarian Operations**|Yunya Gao et.al.|[2407.11381v1](http://arxiv.org/abs/2407.11381v1)|**[link](https://github.com/yunyagaotree/sam-adapter-for-refugee-dwelling-extraction)**|
+|**2024-07-16**|**Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems**|Yaşar Utku Alçalar et.al.|[2407.11288v1](http://arxiv.org/abs/2407.11288v1)|null|
+|**2024-07-14**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087v1](http://arxiv.org/abs/2407.11087v1)|null|
 |**2024-07-15**|**Spectral Properties of Infinitely Smooth Kernel Matrices in the Single Cluster Limit, with Applications to Multivariate Super-Resolution**|Nuha Diab et.al.|[2407.10600v1](http://arxiv.org/abs/2407.10600v1)|null|
 |**2024-07-15**|**Backdoor Attacks against Image-to-Image Networks**|Wenbo Jiang et.al.|[2407.10445v1](http://arxiv.org/abs/2407.10445v1)|null|
 |**2024-07-13**|**Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors**|Wei Shang et.al.|[2407.09919v1](http://arxiv.org/abs/2407.09919v1)|**[link](https://github.com/shangwei5/st-avsr)**|
@@ -1184,6 +1189,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-14**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087v1](http://arxiv.org/abs/2407.11087v1)|null|
 |**2024-07-15**|**Backdoor Attacks against Image-to-Image Networks**|Wenbo Jiang et.al.|[2407.10445v1](http://arxiv.org/abs/2407.10445v1)|null|
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268v1](http://arxiv.org/abs/2407.09268v1)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
 |**2024-07-12**|**Task-driven single-image super-resolution reconstruction of document scans**|Maciej Zyrek et.al.|[2407.08993v1](http://arxiv.org/abs/2407.08993v1)|null|
@@ -1784,6 +1790,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962v1](http://arxiv.org/abs/2407.11962v1)|null|
+|**2024-07-16**|**A Transformer-based Approach for Augmenting Software Engineering Chatbots Datasets**|Ahmad Abdellatif et.al.|[2407.11955v1](http://arxiv.org/abs/2407.11955v1)|null|
+|**2024-07-16**|**Rethinking Transformer-based Multi-document Summarization: An Empirical Investigation**|Congbo Ma et.al.|[2407.11948v1](http://arxiv.org/abs/2407.11948v1)|null|
+|**2024-07-16**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946v1](http://arxiv.org/abs/2407.11946v1)|**[link](https://github.com/pwangcs/hisvit)**|
+|**2024-07-16**|**What's Wrong? Refining Meeting Summaries with LLM Feedback**|Frederic Kirstein et.al.|[2407.11919v1](http://arxiv.org/abs/2407.11919v1)|null|
+|**2024-07-16**|**Quantised Global Autoencoder: A Holistic Approach to Representing Visual Data**|Tim Elsner et.al.|[2407.11913v1](http://arxiv.org/abs/2407.11913v1)|null|
+|**2024-07-16**|**What Makes a Meme a Meme? Identifying Memes for Memetics-Aware Dataset Creation**|Muzhaffar Hazman et.al.|[2407.11861v1](http://arxiv.org/abs/2407.11861v1)|null|
+|**2024-07-16**|**SpaceJAM: a Lightweight and Regularization-free Method for Fast Joint Alignment of Images**|Nir Barel et.al.|[2407.11850v1](http://arxiv.org/abs/2407.11850v1)|null|
+|**2024-07-16**|**Haskelite: A Tracing Interpreter Based on a Pattern-Matching Calculus**|Pedro Vasconcelos et.al.|[2407.11831v1](http://arxiv.org/abs/2407.11831v1)|null|
+|**2024-07-16**|**Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation**|Juncheng Ma et.al.|[2407.11820v1](http://arxiv.org/abs/2407.11820v1)|null|
+|**2024-07-16**|**Modal Effect Types**|Wenhao Tang et.al.|[2407.11816v1](http://arxiv.org/abs/2407.11816v1)|null|
+|**2024-07-16**|**Gradient Flows and Riemannian Structure in the Gromov-Wasserstein Geometry**|Zhengxin Zhang et.al.|[2407.11800v1](http://arxiv.org/abs/2407.11800v1)|null|
+|**2024-07-16**|**Simple Fermionic backflow states via a systematically improvable tensor decomposition**|Massimo Bortone et.al.|[2407.11779v1](http://arxiv.org/abs/2407.11779v1)|null|
+|**2024-07-16**|**Sharif-MGTD at SemEval-2024 Task 8: A Transformer-Based Approach to Detect Machine Generated Text**|Seyedeh Fatemeh Ebrahimi et.al.|[2407.11774v1](http://arxiv.org/abs/2407.11774v1)|null|
+|**2024-07-16**|**Independent Set Reconfiguration Under Bounded-Hop Token**|Hiroki Hatano et.al.|[2407.11768v1](http://arxiv.org/abs/2407.11768v1)|null|
+|**2024-07-16**|**Relaxing Graph Transformers for Adversarial Attacks**|Philipp Foth et.al.|[2407.11764v1](http://arxiv.org/abs/2407.11764v1)|null|
+|**2024-07-16**|**Universal Sound Separation with Self-Supervised Audio Masked Autoencoder**|Junqi Zhao et.al.|[2407.11745v1](http://arxiv.org/abs/2407.11745v1)|null|
+|**2024-07-16**|**Improved Quantum Power Method and Numerical Integration Using Quantum Singular Value Transformation**|Nhat A. Nghiem et.al.|[2407.11744v1](http://arxiv.org/abs/2407.11744v1)|null|
+|**2024-07-16**|**Exploring Quantization for Efficient Pre-Training of Transformer Language Models**|Kamran Chitsaz et.al.|[2407.11722v1](http://arxiv.org/abs/2407.11722v1)|**[link](https://github.com/chandar-lab/efficientllms)**|
+|**2024-07-16**|**Superintegrable families of magnetic monopoles with non-radial potential in curved background**|Antonella Marchesiello et.al.|[2407.11709v1](http://arxiv.org/abs/2407.11709v1)|null|
+|**2024-07-16**|**Numerical Eigenvalue Optimization by Shape-Variations for Maxwell's Eigenvalue Problem**|Christine Herter et.al.|[2407.11703v1](http://arxiv.org/abs/2407.11703v1)|null|
+|**2024-07-16**|**Relation DETR: Exploring Explicit Position Relation Prior for Object Detection**|Xiuquan Hou et.al.|[2407.11699v1](http://arxiv.org/abs/2407.11699v1)|**[link](https://github.com/xiuqhou/relation-detr)**|
+|**2024-07-16**|**MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation**|Xiaoshuai Hao et.al.|[2407.11682v1](http://arxiv.org/abs/2407.11682v1)|null|
+|**2024-07-16**|**Theoretical Insights into CycleGAN: Analyzing Approximation and Estimation Errors in Unpaired Data Generation**|Luwei Sun et.al.|[2407.11678v1](http://arxiv.org/abs/2407.11678v1)|null|
+|**2024-07-16**|**Video-Language Alignment Pre-training via Spatio-Temporal Graph Transformer**|Shi-Xue Zhang et.al.|[2407.11677v1](http://arxiv.org/abs/2407.11677v1)|null|
+|**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652v1](http://arxiv.org/abs/2407.11652v1)|null|
+|**2024-07-16**|**Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**|Guoliang You et.al.|[2407.11644v1](http://arxiv.org/abs/2407.11644v1)|null|
+|**2024-07-16**|**REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**|Han Nie et.al.|[2407.11637v1](http://arxiv.org/abs/2407.11637v1)|null|
+|**2024-07-16**|**Scaling Diffusion Transformers to 16 Billion Parameters**|Zhengcong Fei et.al.|[2407.11633v1](http://arxiv.org/abs/2407.11633v1)|**[link](https://github.com/feizc/dit-moe)**|
+|**2024-07-16**|**Discrete-Time Quantum Walks: A Quantum Advantage for Graph Representation**|Boxuan Ai et.al.|[2407.11630v1](http://arxiv.org/abs/2407.11630v1)|null|
+|**2024-07-16**|**A Deep Learning-Based Target Radial Length Estimation Method through HRRP Sequence**|Lingfeng Chen et.al.|[2407.11620v1](http://arxiv.org/abs/2407.11620v1)|null|
+|**2024-07-16**|**Learning to Imitate Spatial Organization in Multi-robot Systems**|Ayomide O. Agunloye et.al.|[2407.11592v1](http://arxiv.org/abs/2407.11592v1)|null|
+|**2024-07-16**|**Progressive Pretext Task Learning for Human Trajectory Prediction**|Xiaotong Lin et.al.|[2407.11588v1](http://arxiv.org/abs/2407.11588v1)|**[link](https://github.com/isee-laboratory/ppt)**|
+|**2024-07-16**|**Probing the Efficacy of Federated Parameter-Efficient Fine-Tuning of Vision Transformers for Medical Image Classification**|Naif Alkhunaizi et.al.|[2407.11573v1](http://arxiv.org/abs/2407.11573v1)|null|
+|**2024-07-16**|**Regularity and singularity for conjugate equations driven by linear fractional transformations**|Kazuki Okamura et.al.|[2407.11565v1](http://arxiv.org/abs/2407.11565v1)|null|
+|**2024-07-16**|**SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation**|Lei Yao et.al.|[2407.11564v1](http://arxiv.org/abs/2407.11564v1)|null|
+|**2024-07-16**|**RobotKeyframing: Learning Locomotion with High-Level Objectives via Mixture of Dense and Sparse Rewards**|Fatemeh Zargarbashi et.al.|[2407.11562v1](http://arxiv.org/abs/2407.11562v1)|null|
+|**2024-07-16**|**Learning Global and Local Features of Power Load Series Through Transformer and 2D-CNN: An image-based Multi-step Forecasting Approach Incorporating Phase Space Reconstruction**|Zihan Tang et.al.|[2407.11553v1](http://arxiv.org/abs/2407.11553v1)|null|
+|**2024-07-16**|**Understanding Counting in Small Transformers: The Interplay between Attention and Feed-Forward Layers**|Freya Behrens et.al.|[2407.11542v1](http://arxiv.org/abs/2407.11542v1)|null|
+|**2024-07-16**|**Not Another Imputation Method: A Transformer-based Model for Missing Values in Tabular Datasets**|Camillo Maria Caruso et.al.|[2407.11540v1](http://arxiv.org/abs/2407.11540v1)|**[link](https://github.com/cosbidev/naim)**|
+|**2024-07-16**|**LRQ: Optimizing Post-Training Quantization for Large Language Models by Learning Low-Rank Weight-Scaling Matrices**|Jung Hyun Lee et.al.|[2407.11534v1](http://arxiv.org/abs/2407.11534v1)|**[link](https://github.com/onliwad101/flexround_lrq)**|
+|**2024-07-16**|**Transforming the Challenge of Constructing Low-Discrepancy Point Sets into a Permutation Selection Problem**|François Clément et.al.|[2407.11533v1](http://arxiv.org/abs/2407.11533v1)|null|
+|**2024-07-16**|**Haze-Aware Attention Network for Single-Image Dehazing**|Lihan Tong et.al.|[2407.11505v1](http://arxiv.org/abs/2407.11505v1)|null|
+|**2024-07-16**|**ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment**|Xinyi Wang et.al.|[2407.11496v1](http://arxiv.org/abs/2407.11496v1)|null|
+|**2024-07-16**|**Mach-Zehnder interference of fractionalized electron-spin excitations**|Takase Shimizu et.al.|[2407.11490v1](http://arxiv.org/abs/2407.11490v1)|null|
+|**2024-07-16**|**RIMformer: An End-to-End Transformer for FMCW Radar Interference Mitigation**|Ziang Zhang et.al.|[2407.11459v1](http://arxiv.org/abs/2407.11459v1)|null|
+|**2024-07-16**|**Repurformer: Transformers for Repurposing-Aware Molecule Generation**|Changhun Lee et.al.|[2407.11439v1](http://arxiv.org/abs/2407.11439v1)|null|
+|**2024-07-16**|**Genomic Language Models: Opportunities and Challenges**|Gonzalo Benegas et.al.|[2407.11435v1](http://arxiv.org/abs/2407.11435v1)|null|
+|**2024-07-16**|**MRIo3DS-Net: A Mutually Reinforcing Images to 3D Surface RNN-like framework for model-adaptation indoor 3D reconstruction**|Chang Li et.al.|[2407.11431v1](http://arxiv.org/abs/2407.11431v1)|null|
+|**2024-07-16**|**Distributed Prescribed-Time Convex Optimization: Cascade Design and Time-Varying Gain Approach**|Gewei Zuo et.al.|[2407.11413v1](http://arxiv.org/abs/2407.11413v1)|null|
 |**2024-07-15**|**Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?**|Ruisheng Cao et.al.|[2407.10956v1](http://arxiv.org/abs/2407.10956v1)|**[link](https://github.com/xlang-ai/spider2-v)**|
 |**2024-07-15**|**Representing Rule-based Chatbots with Transformers**|Dan Friedman et.al.|[2407.10949v1](http://arxiv.org/abs/2407.10949v1)|**[link](https://github.com/princeton-nlp/eliza-transformer)**|
 |**2024-07-15**|**OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting**|Penglei Gao et.al.|[2407.10923v1](http://arxiv.org/abs/2407.10923v1)|null|
