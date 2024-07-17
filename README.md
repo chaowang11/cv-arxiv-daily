@@ -1804,7 +1804,7 @@
 |**2024-07-15**|**Super-luminal Synthetic Motion with a Space-Time Optical Metasurface**|A. C. Harwood et.al.|[2407.10809v1](http://arxiv.org/abs/2407.10809v1)|null|
 |**2024-07-15**|**Correlations Are Ruining Your Gradient Descent**|Nasir Ahmad et.al.|[2407.10780v1](http://arxiv.org/abs/2407.10780v1)|null|
 |**2024-07-15**|**MSegRNN:Enhanced SegRNN Model with Mamba for Long-Term Time Series Forecasting**|GaoXiang Zhao et.al.|[2407.10768v1](http://arxiv.org/abs/2407.10768v1)|null|
-|**2024-07-15**|**GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation**|Haonan Wang et.al.|[2407.10756v1](http://arxiv.org/abs/2407.10756v1)|null|
+|**2024-07-16**|**GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation**|Haonan Wang et.al.|[2407.10756v2](http://arxiv.org/abs/2407.10756v2)|null|
 |**2024-07-15**|**OPEN: Object-wise Position Embedding for Multi-view 3D Object Detection**|Jinghua Hou et.al.|[2407.10753v1](http://arxiv.org/abs/2407.10753v1)|null|
 |**2024-07-15**|**SEED: A Simple and Effective 3D DETR in Point Clouds**|Zhe Liu et.al.|[2407.10749v1](http://arxiv.org/abs/2407.10749v1)|**[link](https://github.com/happinesslz/seed)**|
 |**2024-07-15**|**Capturing non-Markovian polaron dressing with the master equation formalism**|Jake Iles-Smith et.al.|[2407.10744v1](http://arxiv.org/abs/2407.10744v1)|null|
