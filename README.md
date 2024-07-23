@@ -23,6 +23,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**High-flexibility reconstruction of small-scale motions in wall turbulence using a generalized zero-shot learning**|Haokai Wu et.al.|[2407.15604v1](http://arxiv.org/abs/2407.15604v1)|null|
+|**2024-07-22**|**Attention Beats Linear for Fast Implicit Neural Representation Generation**|Shuyi Zhang et.al.|[2407.15355v1](http://arxiv.org/abs/2407.15355v1)|**[link](https://github.com/roninton/anr)**|
+|**2024-07-22**|**ThermalNeRF: Thermal Radiance Fields**|Yvette Y. Lin et.al.|[2407.15337v1](http://arxiv.org/abs/2407.15337v1)|null|
+|**2024-07-22**|**Efficient Multi-disparity Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2407.15329v1](http://arxiv.org/abs/2407.15329v1)|null|
+|**2024-07-20**|**A New Dataset and Framework for Real-World Blurred Images Super-Resolution**|Rui Qin et.al.|[2407.14880v1](http://arxiv.org/abs/2407.14880v1)|**[link](https://github.com/imalne/pbasr)**|
 |**2024-07-19**|**Large Kernel Distillation Network for Efficient Single Image Super-Resolution**|Chengxing Xie et.al.|[2407.14340v1](http://arxiv.org/abs/2407.14340v1)|**[link](https://github.com/stella-von/LKDN)**|
 |**2024-07-19**|**RealViformer: Investigating Attention for Real-World Video Super-Resolution**|Yuehan Zhang et.al.|[2407.13987v1](http://arxiv.org/abs/2407.13987v1)|**[link](https://github.com/yuehan717/realviformer)**|
 |**2024-07-18**|**MaRINeR: Enhancing Novel Views by Matching Rendered Images with Nearby References**|Lukas Bösiger et.al.|[2407.13745v1](http://arxiv.org/abs/2407.13745v1)|null|
@@ -1195,6 +1200,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Efficient Multi-disparity Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2407.15329v1](http://arxiv.org/abs/2407.15329v1)|null|
+|**2024-07-20**|**A New Dataset and Framework for Real-World Blurred Images Super-Resolution**|Rui Qin et.al.|[2407.14880v1](http://arxiv.org/abs/2407.14880v1)|**[link](https://github.com/imalne/pbasr)**|
 |**2024-07-19**|**Large Kernel Distillation Network for Efficient Single Image Super-Resolution**|Chengxing Xie et.al.|[2407.14340v1](http://arxiv.org/abs/2407.14340v1)|**[link](https://github.com/stella-von/LKDN)**|
 |**2024-07-19**|**RealViformer: Investigating Attention for Real-World Video Super-Resolution**|Yuehan Zhang et.al.|[2407.13987v1](http://arxiv.org/abs/2407.13987v1)|**[link](https://github.com/yuehan717/realviformer)**|
 |**2024-07-18**|**Research on Image Super-Resolution Reconstruction Mechanism based on Convolutional Neural Network**|Hao Yan et.al.|[2407.13211v1](http://arxiv.org/abs/2407.13211v1)|null|
@@ -1801,6 +1808,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**CarFormer: Self-Driving with Learned Object-Centric Representations**|Shadi Hamdan et.al.|[2407.15843v1](http://arxiv.org/abs/2407.15843v1)|null|
+|**2024-07-22**|**QueST: Self-Supervised Skill Abstractions for Learning Continuous Control**|Atharva Mete et.al.|[2407.15840v1](http://arxiv.org/abs/2407.15840v1)|null|
+|**2024-07-22**|**dMel: Speech Tokenization made Simple**|He Bai et.al.|[2407.15835v1](http://arxiv.org/abs/2407.15835v1)|null|
+|**2024-07-22**|**NV-Retriever: Improving text embedding models with effective hard-negative mining**|Gabriel de Souza P. Moreira et.al.|[2407.15831v1](http://arxiv.org/abs/2407.15831v1)|null|
+|**2024-07-22**|**Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning**|Zhecheng Yuan et.al.|[2407.15815v1](http://arxiv.org/abs/2407.15815v1)|null|
+|**2024-07-22**|**Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget**|Vikash Sehwag et.al.|[2407.15811v1](http://arxiv.org/abs/2407.15811v1)|null|
+|**2024-07-22**|**Quantum Computing for Phonon Scattering Effects on Thermal Conductivity**|Xiangjun Tan et.al.|[2407.15808v1](http://arxiv.org/abs/2407.15808v1)|null|
+|**2024-07-22**|**Unbounded operators and the uncertainty principle**|Friedrich Haslinger et.al.|[2407.15803v1](http://arxiv.org/abs/2407.15803v1)|null|
+|**2024-07-22**|**Enhancing Mass Customization Manufacturing: Multiobjective Metaheuristic Algorithms for flow shop Production in Smart Industry**|Diego Rossit et.al.|[2407.15802v1](http://arxiv.org/abs/2407.15802v1)|null|
+|**2024-07-22**|**CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning**|Emanuele Frascaroli et.al.|[2407.15793v1](http://arxiv.org/abs/2407.15793v1)|**[link](https://github.com/aimagelab/mammoth)**|
+|**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791v1](http://arxiv.org/abs/2407.15791v1)|null|
+|**2024-07-22**|**Optimization complexity and resource minimization of emitter-based photonic graph state generation protocols**|Evangelia Takou et.al.|[2407.15777v1](http://arxiv.org/abs/2407.15777v1)|null|
+|**2024-07-22**|**Classical discrete operators on variable  $\ell^{p(\cdot)}(\mathbb{Z})$  spaces**|Pablo Rocha et.al.|[2407.15726v1](http://arxiv.org/abs/2407.15726v1)|null|
+|**2024-07-22**|**Mamba meets crack segmentation**|Zhili He et.al.|[2407.15714v1](http://arxiv.org/abs/2407.15714v1)|**[link](https://github.com/hzlbbfrog/crackmamba)**|
+|**2024-07-22**|**Estimating Probability Densities with Transformer and Denoising Diffusion**|Henry W. Leung et.al.|[2407.15703v1](http://arxiv.org/abs/2407.15703v1)|null|
+|**2024-07-22**|**Differentiable Convex Polyhedra Optimization from Multi-view Images**|Daxuan Ren et.al.|[2407.15686v1](http://arxiv.org/abs/2407.15686v1)|null|
+|**2024-07-22**|**Enhancing Transferability of Targeted Adversarial Examples: A Self-Universal Perspective**|Bowen Peng et.al.|[2407.15683v1](http://arxiv.org/abs/2407.15683v1)|null|
+|**2024-07-22**|**Particle Based Inference for Continuous-Discrete State Space Models**|Christopher Stanton et.al.|[2407.15666v1](http://arxiv.org/abs/2407.15666v1)|null|
+|**2024-07-22**|**DriveDiTFit: Fine-tuning Diffusion Transformers for Autonomous Driving**|Jiahang Tu et.al.|[2407.15661v1](http://arxiv.org/abs/2407.15661v1)|**[link](https://github.com/ttuhamg/driveditfit)**|
+|**2024-07-22**|**MuTT: A Multimodal Trajectory Transformer for Robot Skills**|Claudius Kienle et.al.|[2407.15660v1](http://arxiv.org/abs/2407.15660v1)|null|
+|**2024-07-22**|**TreeSBA: Tree-Transformer for Self-Supervised Sequential Brick Assembly**|Mengqi Guo et.al.|[2407.15648v1](http://arxiv.org/abs/2407.15648v1)|null|
+|**2024-07-22**|**The Impact of Responsible AI Research on Innovation and Development**|Ali Akbar Septiandri et.al.|[2407.15647v1](http://arxiv.org/abs/2407.15647v1)|null|
+|**2024-07-22**|**Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models**|Xin Ma et.al.|[2407.15642v1](http://arxiv.org/abs/2407.15642v1)|**[link](https://github.com/maxin-cn/Cinemo)**|
+|**2024-07-22**|**Online String Attractors**|Philip Whittington et.al.|[2407.15599v1](http://arxiv.org/abs/2407.15599v1)|null|
+|**2024-07-22**|**The Rlign Algorithm for Enhanced Electrocardiogram Analysis through R-Peak Alignment for Explainable Classification and Clustering**|Lucas Plagwitz et.al.|[2407.15555v1](http://arxiv.org/abs/2407.15555v1)|null|
+|**2024-07-22**|**On a space of functions with entire Laplace transforms and its connection with the optimality of the Ingham-Karamata theorem**|Morgan Callewaert et.al.|[2407.15547v1](http://arxiv.org/abs/2407.15547v1)|null|
+|**2024-07-22**|**Inverted Activations**|Georgii Novikov et.al.|[2407.15545v1](http://arxiv.org/abs/2407.15545v1)|**[link](https://github.com/pglolo/optiacts)**|
+|**2024-07-22**|**Exterior Penalty Policy Optimization with Penalty Metric Network under Constraints**|Shiqing Gao et.al.|[2407.15537v1](http://arxiv.org/abs/2407.15537v1)|null|
+|**2024-07-22**|**Synthetic Image Learning: Preserving Performance and Preventing Membership Inference Attacks**|Eugenio Lomurno et.al.|[2407.15526v1](http://arxiv.org/abs/2407.15526v1)|null|
+|**2024-07-22**|**Big Data Analytics-Enabled Dynamic Capabilities and Market Performance: Examining the Roles of Marketing Ambidexterity and Competitor Pressure**|Gulfam Haider et.al.|[2407.15522v1](http://arxiv.org/abs/2407.15522v1)|null|
+|**2024-07-22**|**Learning deep illumination-robust features from multispectral filter array images**|Anis Amziane et.al.|[2407.15472v1](http://arxiv.org/abs/2407.15472v1)|null|
+|**2024-07-22**|**Numerical simulations of attachment-line boundary layer in hypersonic flow, Part II: the features of three-dimensional turbulent boundary layer**|Youcheng Xi et.al.|[2407.15469v1](http://arxiv.org/abs/2407.15469v1)|null|
+|**2024-07-22**|**Empirical Capacity Model for Self-Attention Neural Networks**|Aki Härmä et.al.|[2407.15425v1](http://arxiv.org/abs/2407.15425v1)|null|
+|**2024-07-22**|**Local All-Pair Correspondence for Point Tracking**|Seokju Cho et.al.|[2407.15420v1](http://arxiv.org/abs/2407.15420v1)|**[link](https://github.com/ku-cvlab/locotrack)**|
+|**2024-07-22**|**Weights Shuffling for Improving DPSGD in Transformer-based Models**|Jungang Yang et.al.|[2407.15414v1](http://arxiv.org/abs/2407.15414v1)|null|
+|**2024-07-22**|**Covariant currents and a thermodynamic uncertainty relation on curved manifolds**|Harry J. D. Miller et.al.|[2407.15405v1](http://arxiv.org/abs/2407.15405v1)|null|
+|**2024-07-22**|**Towards Robust Vision Transformer via Masked Adaptive Ensemble**|Fudong Lin et.al.|[2407.15385v1](http://arxiv.org/abs/2407.15385v1)|null|
+|**2024-07-22**|**Inversion Diameter and Treewidth**|Yichen Wang et.al.|[2407.15384v1](http://arxiv.org/abs/2407.15384v1)|null|
+|**2024-07-22**|**Dissecting Multiplication in Transformers: Insights into LLMs**|Luyu Qiu et.al.|[2407.15360v1](http://arxiv.org/abs/2407.15360v1)|null|
+|**2024-07-22**|**X-Recon: Learning-based Patient-specific High-Resolution CT Reconstruction from Orthogonal X-Ray Images**|Yunpeng Wang et.al.|[2407.15356v1](http://arxiv.org/abs/2407.15356v1)|**[link](https://github.com/wangyunpengbio/x-recon)**|
+|**2024-07-22**|**Attention Beats Linear for Fast Implicit Neural Representation Generation**|Shuyi Zhang et.al.|[2407.15355v1](http://arxiv.org/abs/2407.15355v1)|**[link](https://github.com/roninton/anr)**|
+|**2024-07-22**|**RoadPainter: Points Are Ideal Navigators for Topology transformER**|Zhongxing Ma et.al.|[2407.15349v1](http://arxiv.org/abs/2407.15349v1)|null|
+|**2024-07-22**|**A Methodology for Power Dispatch Based on Traction Station Clusters in the Flexible Traction Power Supply System**|Ruofan Li et.al.|[2407.15330v1](http://arxiv.org/abs/2407.15330v1)|null|
+|**2024-07-22**|**Efficient Multi-disparity Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2407.15329v1](http://arxiv.org/abs/2407.15329v1)|null|
+|**2024-07-21**|**Weak-to-Strong Compositional Learning from Generative Models for Language-based Object Detection**|Kwanyong Park et.al.|[2407.15296v1](http://arxiv.org/abs/2407.15296v1)|null|
+|**2024-07-21**|**Kerr--Newman Memory Effect**|Marco Galoppo et.al.|[2407.15289v1](http://arxiv.org/abs/2407.15289v1)|null|
+|**2024-07-21**|**Point Transformer V3 Extreme: 1st Place Solution for 2024 Waymo Open Dataset Challenge in Semantic Segmentation**|Xiaoyang Wu et.al.|[2407.15282v1](http://arxiv.org/abs/2407.15282v1)|null|
+|**2024-07-21**|**MIBench: Evaluating Multimodal Large Language Models over Multiple Images**|Haowei Liu et.al.|[2407.15272v1](http://arxiv.org/abs/2407.15272v1)|null|
+|**2024-07-21**|**CGB-DM: Content and Graphic Balance Layout Generation with Transformer-based Diffusion Model**|Yu Li et.al.|[2407.15233v1](http://arxiv.org/abs/2407.15233v1)|null|
+|**2024-07-21**|**Efficient Visual Transformer by Learnable Token Merging**|Yancheng Wang et.al.|[2407.15219v1](http://arxiv.org/abs/2407.15219v1)|**[link](https://github.com/statistical-deep-learning/ltm)**|
 |**2024-07-19**|**Nonlinear Schrödinger Network**|Yiming Zhou et.al.|[2407.14504v1](http://arxiv.org/abs/2407.14504v1)|null|
 |**2024-07-19**|**InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques**|Rohan Gupta et.al.|[2407.14494v1](http://arxiv.org/abs/2407.14494v1)|null|
 |**2024-07-19**|**Adaptive Uncertainty Quantification for Scenario-based Control Using Meta-learning of Bayesian Neural Networks**|Yajie Bao et.al.|[2407.14492v1](http://arxiv.org/abs/2407.14492v1)|null|
