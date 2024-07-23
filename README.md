@@ -1827,8 +1827,8 @@
 |**2024-07-19**|**Bucketed Ranking-based Losses for Efficient Training of Object Detectors**|Feyza Yavuz et.al.|[2407.14204v1](http://arxiv.org/abs/2407.14204v1)|**[link](https://github.com/blisgard/bucketedrankingbasedlosses)**|
 |**2024-07-19**|**Double-Shot 3D Shape Measurement with a Dual-Branch Network**|Mingyang Lei et.al.|[2407.14198v1](http://arxiv.org/abs/2407.14198v1)|null|
 |**2024-07-19**|**A Benchmark for Gaussian Splatting Compression and Quality Assessment Study**|Qi Yang et.al.|[2407.14197v1](http://arxiv.org/abs/2407.14197v1)|**[link](https://github.com/qi-yangsjtu/ggsc)**|
-|**2024-07-19**|**From the Janis-Newman-Winicour naked singularities to Einstein-Maxwell phantom wormholes**|Changjun Gao et.al.|[2407.14184v1](http://arxiv.org/abs/2407.14184v1)|null|
-|**2024-07-19**|**Emulating quantum computing with optical matrix multiplication**|Mwezi Koni et.al.|[2407.14178v1](http://arxiv.org/abs/2407.14178v1)|null|
+|**2024-07-22**|**From the Janis-Newman-Winicour naked singularities to Einstein-Maxwell phantom wormholes**|Changjun Gao et.al.|[2407.14184v2](http://arxiv.org/abs/2407.14184v2)|null|
+|**2024-07-22**|**Emulating quantum computing with optical matrix multiplication**|Mwezi Koni et.al.|[2407.14178v2](http://arxiv.org/abs/2407.14178v2)|null|
 |**2024-07-19**|**Poisson summation formula and Index Transforms**|Pedro Ribeiro et.al.|[2407.14174v1](http://arxiv.org/abs/2407.14174v1)|null|
 |**2024-07-19**|**Forbes: Face Obfuscation Rendering via Backpropagation Refinement Scheme**|Jintae Kim et.al.|[2407.14170v1](http://arxiv.org/abs/2407.14170v1)|**[link](https://github.com/mcljtkim/forbes)**|
 |**2024-07-19**|**Number rigid determinantal point processes induced by generalized Cantor sets**|Zhaofeng Lin et.al.|[2407.14168v1](http://arxiv.org/abs/2407.14168v1)|null|
@@ -1839,14 +1839,14 @@
 |**2024-07-19**|**GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation**|Florian Chabot et.al.|[2407.14108v1](http://arxiv.org/abs/2407.14108v1)|null|
 |**2024-07-19**|**TorchGT: A Holistic System for Large-scale Graph Transformer Training**|Meng Zhang et.al.|[2407.14106v1](http://arxiv.org/abs/2407.14106v1)|null|
 |**2024-07-19**|**Zero-Shot Underwater Gesture Recognition**|Sandipan Sarma et.al.|[2407.14103v1](http://arxiv.org/abs/2407.14103v1)|**[link](https://github.com/sandipan211/zsugr)**|
-|**2024-07-19**|**360VFI: A Dataset and Benchmark for Omnidirectional Video Frame Interpolation**|Wenxuan Lu et.al.|[2407.14066v1](http://arxiv.org/abs/2407.14066v1)|null|
+|**2024-07-22**|**360VFI: A Dataset and Benchmark for Omnidirectional Video Frame Interpolation**|Wenxuan Lu et.al.|[2407.14066v2](http://arxiv.org/abs/2407.14066v2)|null|
 |**2024-07-19**|**MSCT: Addressing Time-Varying Confounding with Marginal Structural Causal Transformer for Counterfactual Post-Crash Traffic Prediction**|Shuang Li et.al.|[2407.14065v1](http://arxiv.org/abs/2407.14065v1)|null|
 |**2024-07-19**|**LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference**|Qichen Fu et.al.|[2407.14057v1](http://arxiv.org/abs/2407.14057v1)|null|
 |**2024-07-19**|**Generative Language Model for Catalyst Discovery**|Dong Hyeon Mok et.al.|[2407.14040v1](http://arxiv.org/abs/2407.14040v1)|null|
 |**2024-07-19**|**PASS++: A Dual Bias Reduction Framework for Non-Exemplar Class-Incremental Learning**|Fei Zhu et.al.|[2407.14029v1](http://arxiv.org/abs/2407.14029v1)|null|
 |**2024-07-19**|**Vector Dark Matter from the 5-Dimensional Representation of  $SU(2)_{L}$ **|Patricio Escalona et.al.|[2407.14010v1](http://arxiv.org/abs/2407.14010v1)|null|
 |**2024-07-19**|**Scale Disparity of Instances in Interactive Point Cloud Segmentation**|Chenrui Han et.al.|[2407.14009v1](http://arxiv.org/abs/2407.14009v1)|null|
-|**2024-07-19**|**Investigating the Indirect Object Identification circuit in Mamb**|Danielle Ensign et.al.|[2407.14008v1](http://arxiv.org/abs/2407.14008v1)|**[link](https://github.com/Phylliida/investigating-mamba-ioi)**|
+|**2024-07-22**|**Investigating the Indirect Object Identification circuit in Mamba**|Danielle Ensign et.al.|[2407.14008v2](http://arxiv.org/abs/2407.14008v2)|**[link](https://github.com/Phylliida/investigating-mamba-ioi)**|
 |**2024-07-19**|**Disorder-dependent dominant superconducting pairing symmetry in doped graphene**|Kaiyi Guo et.al.|[2407.14004v1](http://arxiv.org/abs/2407.14004v1)|null|
 |**2024-07-19**|**Time Series Generative Learning with Application to Brain Imaging Analysis**|Zhenghao Li et.al.|[2407.14003v1](http://arxiv.org/abs/2407.14003v1)|null|
 |**2024-07-19**|**Derandomized Truncated D-vine Copula Knockoffs with e-values to control the false discovery rate**|Alejandro Román Vásquez et.al.|[2407.14002v1](http://arxiv.org/abs/2407.14002v1)|null|
