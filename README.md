@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution**|Jintong Hu et.al.|[2407.18046v1](http://arxiv.org/abs/2407.18046v1)|null|
 |**2024-07-24**|**Cuboid-Net: A Multi-Branch Convolutional Neural Network for Joint Space-Time Video Super Resolution**|Congrui Fu et.al.|[2407.16986v1](http://arxiv.org/abs/2407.16986v1)|null|
 |**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965v1](http://arxiv.org/abs/2407.16965v1)|null|
 |**2024-07-23**|**Channel-Partitioned Windowed Attention And Frequency Learning for Single Image Super-Resolution**|Dinh Phu Tran et.al.|[2407.16232v1](http://arxiv.org/abs/2407.16232v1)|null|
@@ -1205,6 +1206,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution**|Jintong Hu et.al.|[2407.18046v1](http://arxiv.org/abs/2407.18046v1)|null|
 |**2024-07-23**|**Channel-Partitioned Windowed Attention And Frequency Learning for Single Image Super-Resolution**|Dinh Phu Tran et.al.|[2407.16232v1](http://arxiv.org/abs/2407.16232v1)|null|
 |**2024-07-22**|**Efficient Multi-disparity Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2407.15329v1](http://arxiv.org/abs/2407.15329v1)|null|
 |**2024-07-20**|**A New Dataset and Framework for Real-World Blurred Images Super-Resolution**|Rui Qin et.al.|[2407.14880v1](http://arxiv.org/abs/2407.14880v1)|**[link](https://github.com/imalne/pbasr)**|
@@ -1816,6 +1818,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Trajectory-aligned Space-time Tokens for Few-shot Action Recognition**|Pulkit Kumar et.al.|[2407.18249v1](http://arxiv.org/abs/2407.18249v1)|null|
+|**2024-07-25**|**RefMask3D: Language-Guided Transformer for 3D Referring Segmentation**|Shuting He et.al.|[2407.18244v1](http://arxiv.org/abs/2407.18244v1)|**[link](https://github.com/heshuting555/refmask3d)**|
+|**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232v1](http://arxiv.org/abs/2407.18232v1)|**[link](https://github.com/happinesslz/LION)**|
+|**2024-07-25**|**Automated Ensemble Multimodal Machine Learning for Healthcare**|Fergus Imrie et.al.|[2407.18227v1](http://arxiv.org/abs/2407.18227v1)|null|
+|**2024-07-25**|**Detecting and explaining (in)equivalence of context-free grammars**|Marko Schmellenkamp et.al.|[2407.18220v1](http://arxiv.org/abs/2407.18220v1)|null|
+|**2024-07-25**|**SuperFlow: A Fully-Customized RTL-to-GDS Design Automation Flow for Adiabatic Quantum-Flux-Parametron Superconducting Circuits**|Yanyue Xie et.al.|[2407.18209v1](http://arxiv.org/abs/2407.18209v1)|null|
+|**2024-07-25**|**Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning**|Sindhura Kommu et.al.|[2407.18181v1](http://arxiv.org/abs/2407.18181v1)|null|
+|**2024-07-25**|**Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers**|Zhengang Li et.al.|[2407.18175v1](http://arxiv.org/abs/2407.18175v1)|null|
+|**2024-07-25**|**The Emergence of Mem-Emitters**|Victor Lopez-Richard et.al.|[2407.18164v1](http://arxiv.org/abs/2407.18164v1)|null|
+|**2024-07-25**|**New black ring with all independent conserved charges in five-dimensional minimal supergravity**|Ryotaku Suzuki et.al.|[2407.18142v1](http://arxiv.org/abs/2407.18142v1)|null|
+|**2024-07-25**|**Estimating Earthquake Magnitude in Sentinel-1 Imagery via Ranking**|Daniele Rege Cambrin et.al.|[2407.18128v1](http://arxiv.org/abs/2407.18128v1)|null|
+|**2024-07-25**|**Tracking linguistic information in transformer-based sentence embeddings through targeted sparsification**|Vivi Nastase et.al.|[2407.18119v1](http://arxiv.org/abs/2407.18119v1)|null|
+|**2024-07-25**|**Multipath Identification and Mitigation with FDA-MIMO Radar**|Yizhen Jia et.al.|[2407.18118v1](http://arxiv.org/abs/2407.18118v1)|null|
+|**2024-07-25**|**Phase-resolved Spectroscopy of Low-frequency Quasi-periodic Oscillations from the Newly Discovered Black Hole X-ray Binary Swift J1727.8-1613**|Qing-Cang Shui et.al.|[2407.18106v1](http://arxiv.org/abs/2407.18106v1)|null|
+|**2024-07-25**|**On-shell effective field theory and quantum transport for hard photons**|Marc Comadran et.al.|[2407.18091v1](http://arxiv.org/abs/2407.18091v1)|null|
+|**2024-07-25**|**Stabilization of cat-state manifolds using nonlinear reservoir engineering**|Ivan Rojkov et.al.|[2407.18087v1](http://arxiv.org/abs/2407.18087v1)|null|
+|**2024-07-25**|**Detection of manatee vocalisations using the Audio Spectrogram Transformer**|Stefano Schiappacasse et.al.|[2407.18083v1](http://arxiv.org/abs/2407.18083v1)|null|
+|**2024-07-25**|**CSWin-UNet: Transformer UNet with Cross-Shaped Windows for Medical Image Segmentation**|Xiao Liu et.al.|[2407.18070v1](http://arxiv.org/abs/2407.18070v1)|null|
+|**2024-07-25**|**C2P: Featuring Large Language Models with Causal Reasoning**|Abdolmahdi Bagheri et.al.|[2407.18069v1](http://arxiv.org/abs/2407.18069v1)|null|
+|**2024-07-25**|**Implementing multi-controlled X gates using the quantum Fourier transform**|Vladimir V. Arsoski et.al.|[2407.18024v1](http://arxiv.org/abs/2407.18024v1)|null|
+|**2024-07-25**|**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption**|Shi Luohe et.al.|[2407.18003v1](http://arxiv.org/abs/2407.18003v1)|null|
+|**2024-07-25**|**Notes on symmetries and reductions of algebraic equations**|Inna K. Shingareva et.al.|[2407.17995v1](http://arxiv.org/abs/2407.17995v1)|null|
+|**2024-07-25**|**Pruning Boolean d-DNNF Circuits Through Tseitin-Awareness**|Vincent Derkinderen et.al.|[2407.17951v1](http://arxiv.org/abs/2407.17951v1)|null|
+|**2024-07-25**|**Positive Text Reframing under Multi-strategy Optimization**|Shutong Jia et.al.|[2407.17940v1](http://arxiv.org/abs/2407.17940v1)|null|
+|**2024-07-25**|**Segmentation by registration-enabled SAM prompt engineering using five reference images**|Yaxi Chen et.al.|[2407.17933v1](http://arxiv.org/abs/2407.17933v1)|**[link](https://github.com/chrissyinreallife/kneesegmentwithsam)**|
+|**2024-07-25**|**Invariance of deep image quality metrics to affine transformations**|Nuria Alabau-Bosque et.al.|[2407.17927v1](http://arxiv.org/abs/2407.17927v1)|null|
+|**2024-07-25**|**Periodic Exponential Turnpike Phenomenon in Mean-Field Stochastic Linear-Quadratic Optimal Control**|Jingrui Sun et.al.|[2407.17926v1](http://arxiv.org/abs/2407.17926v1)|null|
+|**2024-07-25**|**Asymptotic behavior of a semilinear problem in heat conduction with long time memory and non-local diffusion**|Jiaohui Xu et.al.|[2407.17923v1](http://arxiv.org/abs/2407.17923v1)|null|
+|**2024-07-25**|**Reflected backward stochastic differential equations with rough drivers**|Hanwu Li et.al.|[2407.17898v1](http://arxiv.org/abs/2407.17898v1)|null|
+|**2024-07-25**|**DAM: Towards A Foundation Model for Time Series Forecasting**|Luke Darlow et.al.|[2407.17880v1](http://arxiv.org/abs/2407.17880v1)|null|
+|**2024-07-25**|**HG-PIPE: Vision Transformer Acceleration with Hybrid-Grained Pipeline**|Qingyu Guo et.al.|[2407.17879v1](http://arxiv.org/abs/2407.17879v1)|null|
+|**2024-07-25**|**Asymptotic behaviour of massless fields and kinematic duality between interior null cones and null infinity**|Xavier Bekaert et.al.|[2407.17860v1](http://arxiv.org/abs/2407.17860v1)|null|
+|**2024-07-25**|**Innovative Speech-Based Deep Learning Approaches for Parkinson's Disease Classification: A Systematic Review**|Lisanne van Gelderen et.al.|[2407.17844v1](http://arxiv.org/abs/2407.17844v1)|null|
+|**2024-07-25**|**UMono: Physical Model Informed Hybrid CNN-Transformer Framework for Underwater Monocular Depth Estimation**|Jian Wang et.al.|[2407.17838v1](http://arxiv.org/abs/2407.17838v1)|null|
+|**2024-07-25**|**Advanced deep-reinforcement-learning methods for flow control: group-invariant and positional-encoding networks improve learning speed and quality**|Joogoo Jeon et.al.|[2407.17822v1](http://arxiv.org/abs/2407.17822v1)|null|
+|**2024-07-25**|**Enhancing Model Performance: Another Approach to Vision-Language Instruction Tuning**|Vedanshu et.al.|[2407.17813v1](http://arxiv.org/abs/2407.17813v1)|null|
+|**2024-07-25**|**Sample Enrichment via Temporary Operations on Subsequences for Sequential Recommendation**|Shu Chen et.al.|[2407.17802v1](http://arxiv.org/abs/2407.17802v1)|null|
+|**2024-07-25**|**Harnessing Temporal Causality for Advanced Temporal Action Detection**|Shuming Liu et.al.|[2407.17792v1](http://arxiv.org/abs/2407.17792v1)|**[link](https://github.com/sming256/OpenTAD)**|
+|**2024-07-25**|**PenHeal: A Two-Stage LLM Framework for Automated Pentesting and Optimal Remediation**|Junjie Huang et.al.|[2407.17788v1](http://arxiv.org/abs/2407.17788v1)|null|
+|**2024-07-25**|**How Lightweight Can A Vision Transformer Be**|Jen Hong Tan et.al.|[2407.17783v1](http://arxiv.org/abs/2407.17783v1)|null|
+|**2024-07-25**|**Integrating Ensemble Kalman Filter with AI-based Weather Prediction Model ClimaX**|Shunji Kotsuki et.al.|[2407.17781v1](http://arxiv.org/abs/2407.17781v1)|null|
+|**2024-07-25**|**Advancing Multi-Modal Sensing Through Expandable Modality Alignment**|Shenghong Dai et.al.|[2407.17777v1](http://arxiv.org/abs/2407.17777v1)|null|
+|**2024-07-25**|**KiVA: Kid-inspired Visual Analogies for Testing Large Multimodal Models**|Eunice Yiu et.al.|[2407.17773v1](http://arxiv.org/abs/2407.17773v1)|**[link](https://github.com/ey242/kiva)**|
+|**2024-07-25**|**CRASH: Crash Recognition and Anticipation System Harnessing with Context-Aware and Temporal Focus Attentions**|Haicheng Liao et.al.|[2407.17757v1](http://arxiv.org/abs/2407.17757v1)|null|
+|**2024-07-25**|**Distributed Memory Approximate Message Passing**|Jun Lu et.al.|[2407.17727v1](http://arxiv.org/abs/2407.17727v1)|null|
+|**2024-07-25**|**Describe Where You Are: Improving Noise-Robustness for Speech Emotion Recognition with Text Description of the Environment**|Seong-Gyun Leem et.al.|[2407.17716v1](http://arxiv.org/abs/2407.17716v1)|null|
+|**2024-07-25**|**Differential equations and recursive solutions for cosmological amplitudes**|Song He et.al.|[2407.17715v1](http://arxiv.org/abs/2407.17715v1)|null|
+|**2024-07-25**|**Satellite Internet of Things Research Report**|Zhang Shutao et.al.|[2407.17696v1](http://arxiv.org/abs/2407.17696v1)|null|
+|**2024-07-25**|**Transformers on Markov Data: Constant Depth Suffices**|Nived Rajaraman et.al.|[2407.17686v1](http://arxiv.org/abs/2407.17686v1)|null|
+|**2024-07-24**|**Net-proton fluctuations influenced by baryon stopping and quark deconfinement**|Oleh Savchuk et.al.|[2407.17670v1](http://arxiv.org/abs/2407.17670v1)|null|
 |**2024-07-24**|**Full Qubit Control in the NV $^-$  Ground State for Low Field or High Frequency Sensing**|Alberto López-García et.al.|[2407.17461v1](http://arxiv.org/abs/2407.17461v1)|null|
 |**2024-07-24**|**3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**|Yanqi Bao et.al.|[2407.17418v1](http://arxiv.org/abs/2407.17418v1)|**[link](https://github.com/qqqqqqy0227/awesome-3dgs)**|
 |**2024-07-24**|**Dependency Transformer Grammars: Integrating Dependency Structures into Transformer Language Models**|Yida Zhao et.al.|[2407.17406v1](http://arxiv.org/abs/2407.17406v1)|**[link](https://github.com/zhaoyd1/dep_transformer_grammars)**|
