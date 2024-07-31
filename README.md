@@ -1829,7 +1829,7 @@
 |**2024-07-29**|**QAEA-DR: A Unified Text Augmentation Framework for Dense Retrieval**|Hongming Tan et.al.|[2407.20207v1](http://arxiv.org/abs/2407.20207v1)|null|
 |**2024-07-29**|**Constant-Cost Communication is not Reducible to k-Hamming Distance**|Yuting Fang et.al.|[2407.20204v1](http://arxiv.org/abs/2407.20204v1)|null|
 |**2024-07-29**|**Aligning Query Representation with Rewritten Query and Relevance Judgments in Conversational Search**|Fengran Mo et.al.|[2407.20189v1](http://arxiv.org/abs/2407.20189v1)|null|
-|**2024-07-29**|**Lecture notes on ergodic transformations**|Valery V. Ryzhikov et.al.|[2407.20180v1](http://arxiv.org/abs/2407.20180v1)|null|
+|**2024-07-30**|**Lecture notes on ergodic transformations**|Valery V. Ryzhikov et.al.|[2407.20180v2](http://arxiv.org/abs/2407.20180v2)|null|
 |**2024-07-29**|**Emotion-Driven Melody Harmonization via Melodic Variation and Functional Representation**|Jingyue Huang et.al.|[2407.20176v1](http://arxiv.org/abs/2407.20176v1)|**[link](https://github.com/yuer867/emo_harmonizer)**|
 |**2024-07-29**|**ByteCheckpoint: A Unified Checkpointing System for LLM Development**|Borui Wan et.al.|[2407.20143v1](http://arxiv.org/abs/2407.20143v1)|null|
 |**2024-07-29**|**To accept or not to accept? An IRT-TOE Framework to Understand Educators' Resistance to Generative AI in Higher Education**|Jan-Erik Kalmus et.al.|[2407.20130v1](http://arxiv.org/abs/2407.20130v1)|null|
@@ -1840,7 +1840,7 @@
 |**2024-07-29**|**Electromagnetic helicity flux operators in higher dimensions**|Wen-Bin Liu et.al.|[2407.20077v1](http://arxiv.org/abs/2407.20077v1)|null|
 |**2024-07-29**|**Phase transformation and synchrony for a network of coupled Izhikevich neurons**|Áine Byrne et.al.|[2407.20055v1](http://arxiv.org/abs/2407.20055v1)|null|
 |**2024-07-30**|**MimiQ: Low-Bit Data-Free Quantization of Vision Transformers with Encouraging Inter-Head Attention Similarity**|Kanghyun Choi et.al.|[2407.20021v2](http://arxiv.org/abs/2407.20021v2)|null|
-|**2024-07-29**|**Mixture of Nested Experts: Adaptive Processing of Visual Tokens**|Gagan Jain et.al.|[2407.19985v1](http://arxiv.org/abs/2407.19985v1)|null|
+|**2024-07-30**|**Mixture of Nested Experts: Adaptive Processing of Visual Tokens**|Gagan Jain et.al.|[2407.19985v2](http://arxiv.org/abs/2407.19985v2)|null|
 |**2024-07-29**|**Simply Trainable Nearest Neighbour Machine Translation with GPU Inference**|Hossam Amer et.al.|[2407.19965v1](http://arxiv.org/abs/2407.19965v1)|null|
 |**2024-07-29**|**Predicting citation impact of research papers using GPT and other text embeddings**|Adilson Vital Jr. et.al.|[2407.19942v1](http://arxiv.org/abs/2407.19942v1)|null|
 |**2024-07-29**|**Graph Fourier Transform Enhancement through Envelope Extensions**|Ali Bagheri Bardi et.al.|[2407.19934v1](http://arxiv.org/abs/2407.19934v1)|null|
