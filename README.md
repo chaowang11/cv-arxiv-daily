@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -56,7 +56,7 @@
 |**2024-07-16**|**Deconvolution with a Box**|Pedro Felzenszwalb et.al.|[2407.11685v1](http://arxiv.org/abs/2407.11685v1)|null|
 |**2024-07-16**|**Leveraging Segment Anything Model in Identifying Buildings within Refugee Camps (SAM4Refugee) from Satellite Imagery for Humanitarian Operations**|Yunya Gao et.al.|[2407.11381v1](http://arxiv.org/abs/2407.11381v1)|**[link](https://github.com/yunyagaotree/sam-adapter-for-refugee-dwelling-extraction)**|
 |**2024-07-16**|**Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems**|Yaşar Utku Alçalar et.al.|[2407.11288v1](http://arxiv.org/abs/2407.11288v1)|null|
-|**2024-07-14**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087v1](http://arxiv.org/abs/2407.11087v1)|**[link](https://github.com/yaziwel/restore-rwkv)**|
+|**2024-07-31**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087v2](http://arxiv.org/abs/2407.11087v2)|**[link](https://github.com/yaziwel/restore-rwkv)**|
 |**2024-07-15**|**Spectral Properties of Infinitely Smooth Kernel Matrices in the Single Cluster Limit, with Applications to Multivariate Super-Resolution**|Nuha Diab et.al.|[2407.10600v1](http://arxiv.org/abs/2407.10600v1)|null|
 |**2024-07-15**|**Backdoor Attacks against Image-to-Image Networks**|Wenbo Jiang et.al.|[2407.10445v1](http://arxiv.org/abs/2407.10445v1)|null|
 |**2024-07-13**|**Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors**|Wei Shang et.al.|[2407.09919v1](http://arxiv.org/abs/2407.09919v1)|**[link](https://github.com/shangwei5/st-avsr)**|
@@ -1212,7 +1212,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20240731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -1227,7 +1227,7 @@
 |**2024-07-19**|**RealViformer: Investigating Attention for Real-World Video Super-Resolution**|Yuehan Zhang et.al.|[2407.13987v1](http://arxiv.org/abs/2407.13987v1)|**[link](https://github.com/yuehan717/realviformer)**|
 |**2024-07-18**|**Research on Image Super-Resolution Reconstruction Mechanism based on Convolutional Neural Network**|Hao Yan et.al.|[2407.13211v1](http://arxiv.org/abs/2407.13211v1)|null|
 |**2024-07-18**|**UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic Prompt**|Xin Li et.al.|[2407.13108v1](http://arxiv.org/abs/2407.13108v1)|null|
-|**2024-07-14**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087v1](http://arxiv.org/abs/2407.11087v1)|**[link](https://github.com/yaziwel/restore-rwkv)**|
+|**2024-07-31**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087v2](http://arxiv.org/abs/2407.11087v2)|**[link](https://github.com/yaziwel/restore-rwkv)**|
 |**2024-07-15**|**Backdoor Attacks against Image-to-Image Networks**|Wenbo Jiang et.al.|[2407.10445v1](http://arxiv.org/abs/2407.10445v1)|null|
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268v1](http://arxiv.org/abs/2407.09268v1)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
 |**2024-07-12**|**Task-driven single-image super-resolution reconstruction of document scans**|Maciej Zyrek et.al.|[2407.08993v1](http://arxiv.org/abs/2407.08993v1)|null|
@@ -1643,7 +1643,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20240731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -1761,7 +1761,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -1780,7 +1780,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -1825,7 +1825,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
 
 ## Transformer
 
@@ -1865,7 +1865,7 @@
 |**2024-07-30**|**Autonomous Improvement of Instruction Following Skills via Foundation Models**|Zhiyuan Zhou et.al.|[2407.20635v1](http://arxiv.org/abs/2407.20635v1)|null|
 |**2024-07-30**|**Electric dipole spin resonance with linear and cubic spin-orbit interaction**|Yasuhiro Tokura et.al.|[2407.20632v1](http://arxiv.org/abs/2407.20632v1)|null|
 |**2024-07-30**|**Coupling 3D geodynamics and dynamic earthquake rupture: fault geometry, rheology and stresses across timescales**|Anthony Jourdon et.al.|[2407.20609v1](http://arxiv.org/abs/2407.20609v1)|null|
-|**2024-07-30**|**Harvesting Textual and Structured Data from the HAL Publication Repository**|Francis Kulumba et.al.|[2407.20595v1](http://arxiv.org/abs/2407.20595v1)|null|
+|**2024-07-30**|**Harvesting Textual and Structured Data from the HAL Publication Repository**|Francis Kulumba et.al.|[2407.20595v1](http://arxiv.org/abs/2407.20595v1)|**[link](https://github.com/Madjakul/HALvesting-Geometric)**|
 |**2024-07-30**|**Pruning Large Language Models with Semi-Structural Adaptive Sparse Training**|Weiyu Huang et.al.|[2407.20584v1](http://arxiv.org/abs/2407.20584v1)|null|
 |**2024-07-30**|**Image-based Detection of Segment Misalignment in Multi-mirror Satellites using Transfer Learning**|C. Tanner Fredieu et.al.|[2407.20582v1](http://arxiv.org/abs/2407.20582v1)|null|
 |**2024-07-30**|**RIP sensing matrices construction for sparsifying dictionaries with application to MRI imaging**|Jinn Ho et.al.|[2407.20576v1](http://arxiv.org/abs/2407.20576v1)|null|
@@ -1874,7 +1874,7 @@
 |**2024-07-30**|**DuA: Dual Attentive Transformer in Long-Term Continuous EEG Emotion Analysis**|Yue Pan et.al.|[2407.20519v1](http://arxiv.org/abs/2407.20519v1)|null|
 |**2024-07-30**|**Interpolant of truncated multiple zeta functions**|Kentaro Ihara et.al.|[2407.20509v1](http://arxiv.org/abs/2407.20509v1)|null|
 |**2024-07-30**|**Neutrino Oscillation Effects on the Luminosity of Neutrino-Dominated Accretion Flows Around Black Holes**|Chitipat Deesamer et.al.|[2407.20507v1](http://arxiv.org/abs/2407.20507v1)|null|
-|**2024-07-30**|**A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder**|Hyun Rae Jo et.al.|[2407.20485v1](http://arxiv.org/abs/2407.20485v1)|null|
+|**2024-07-31**|**A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder**|Hyun-rae Jo et.al.|[2407.20485v2](http://arxiv.org/abs/2407.20485v2)|null|
 |**2024-07-30**|**Automated determination of the end time of junk radiation in binary black hole simulations**|Isabella G. Pretto et.al.|[2407.20470v1](http://arxiv.org/abs/2407.20470v1)|null|
 |**2024-07-29**|**Efficient, gigapixel-scale, aberration-free whole slide scanner using angular ptychographic imaging with closed-form solution**|Shi Zhao et.al.|[2407.20469v1](http://arxiv.org/abs/2407.20469v1)|null|
 |**2024-07-29**|**Quantum HodgeRank: Topology-Based Rank Aggregation on Quantum Computers**|Caesnan M. G. Leditto et.al.|[2407.20452v1](http://arxiv.org/abs/2407.20452v1)|null|
@@ -20645,7 +20645,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -20654,7 +20654,7 @@
 |**2024-07-27**|**Inverse Problems with Diffusion Models: A MAP Estimation Perspective**|Sai bharath chandra Gutha et.al.|[2407.20784v1](http://arxiv.org/abs/2407.20784v1)|null|
 |**2024-06-04**|**Learning-Based WiFi Fingerprint Inpainting via Generative Adversarial Networks**|Yu Chan et.al.|[2407.18915v1](http://arxiv.org/abs/2407.18915v1)|null|
 |**2024-07-26**|**Topology Optimization of Random Memristors for Input-Aware Dynamic SNN**|Bo Wang et.al.|[2407.18625v1](http://arxiv.org/abs/2407.18625v1)|null|
-|**2024-07-24**|**Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model**|Lirui Zhao et.al.|[2407.16982v1](http://arxiv.org/abs/2407.16982v1)|null|
+|**2024-07-24**|**Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model**|Lirui Zhao et.al.|[2407.16982v1](http://arxiv.org/abs/2407.16982v1)|**[link](https://github.com/OpenGVLab/Diffree)**|
 |**2024-07-23**|**CLII: Visual-Text Inpainting via Cross-Modal Predictive Interaction**|Liang Zhao et.al.|[2407.16204v1](http://arxiv.org/abs/2407.16204v1)|null|
 |**2024-07-26**|**MxT: Mamba x Transformer for Image Inpainting**|Shuang Chen et.al.|[2407.16126v2](http://arxiv.org/abs/2407.16126v2)|null|
 |**2024-07-18**|**Image Inpainting Models are Effective Tools for Instruction-guided Image Editing**|Xuan Ju et.al.|[2407.13139v1](http://arxiv.org/abs/2407.13139v1)|null|
@@ -20881,7 +20881,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -20977,7 +20977,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
