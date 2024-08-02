@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.01
+## Updated on 2024.08.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -25,7 +25,7 @@
 |---|---|---|---|---|
 |**2024-07-31**|**Accelerating Image Super-Resolution Networks with Pixel-Level Classification**|Jinho Jeong et.al.|[2407.21448v1](http://arxiv.org/abs/2407.21448v1)|null|
 |**2024-07-27**|**Inverse Problems with Diffusion Models: A MAP Estimation Perspective**|Sai bharath chandra Gutha et.al.|[2407.20784v1](http://arxiv.org/abs/2407.20784v1)|null|
-|**2024-07-30**|**What makes for good morphology representations for spatial omics?**|Eduard Chelebian et.al.|[2407.20660v1](http://arxiv.org/abs/2407.20660v1)|null|
+|**2024-08-01**|**What makes for good morphology representations for spatial omics?**|Eduard Chelebian et.al.|[2407.20660v2](http://arxiv.org/abs/2407.20660v2)|null|
 |**2024-07-30**|**Efficient Channel Estimation for Millimeter Wave and Terahertz Systems Enabled by Integrated Super-resolution Sensing and Communication**|Jingran Xu et.al.|[2407.20607v1](http://arxiv.org/abs/2407.20607v1)|null|
 |**2024-07-29**|**Spatial sub-Rayleigh imaging via structured speckle illumination**|Liming Li et.al.|[2407.20460v1](http://arxiv.org/abs/2407.20460v1)|null|
 |**2024-07-29**|**Deep Learning for Super-resolution Ultrasound Imaging with Spatiotemporal Data**|David A. Redfern et.al.|[2407.20407v1](http://arxiv.org/abs/2407.20407v1)|null|
@@ -50,7 +50,7 @@
 |**2024-07-19**|**Large Kernel Distillation Network for Efficient Single Image Super-Resolution**|Chengxing Xie et.al.|[2407.14340v1](http://arxiv.org/abs/2407.14340v1)|**[link](https://github.com/stella-von/LKDN)**|
 |**2024-07-19**|**RealViformer: Investigating Attention for Real-World Video Super-Resolution**|Yuehan Zhang et.al.|[2407.13987v1](http://arxiv.org/abs/2407.13987v1)|**[link](https://github.com/yuehan717/realviformer)**|
 |**2024-07-18**|**MaRINeR: Enhancing Novel Views by Matching Rendered Images with Nearby References**|Lukas Bösiger et.al.|[2407.13745v1](http://arxiv.org/abs/2407.13745v1)|null|
-|**2024-07-18**|**Research on Image Super-Resolution Reconstruction Mechanism based on Convolutional Neural Network**|Hao Yan et.al.|[2407.13211v1](http://arxiv.org/abs/2407.13211v1)|null|
+|**2024-08-01**|**Research on Image Super-Resolution Reconstruction Mechanism based on Convolutional Neural Network**|Hao Yan et.al.|[2407.13211v2](http://arxiv.org/abs/2407.13211v2)|null|
 |**2024-07-18**|**UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic Prompt**|Xin Li et.al.|[2407.13108v1](http://arxiv.org/abs/2407.13108v1)|null|
 |**2024-07-17**|**Toward INT4 Fixed-Point Training via Exploring Quantization Error for Gradients**|Dohyung Kim et.al.|[2407.12637v1](http://arxiv.org/abs/2407.12637v1)|null|
 |**2024-07-16**|**Speckle-based 3D sub-diffraction imaging through a multimode fiber**|Zhouping Lyu et.al.|[2407.11796v1](http://arxiv.org/abs/2407.11796v1)|null|
@@ -1213,7 +1213,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240802>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -1227,7 +1227,7 @@
 |**2024-07-20**|**A New Dataset and Framework for Real-World Blurred Images Super-Resolution**|Rui Qin et.al.|[2407.14880v1](http://arxiv.org/abs/2407.14880v1)|**[link](https://github.com/imalne/pbasr)**|
 |**2024-07-19**|**Large Kernel Distillation Network for Efficient Single Image Super-Resolution**|Chengxing Xie et.al.|[2407.14340v1](http://arxiv.org/abs/2407.14340v1)|**[link](https://github.com/stella-von/LKDN)**|
 |**2024-07-19**|**RealViformer: Investigating Attention for Real-World Video Super-Resolution**|Yuehan Zhang et.al.|[2407.13987v1](http://arxiv.org/abs/2407.13987v1)|**[link](https://github.com/yuehan717/realviformer)**|
-|**2024-07-18**|**Research on Image Super-Resolution Reconstruction Mechanism based on Convolutional Neural Network**|Hao Yan et.al.|[2407.13211v1](http://arxiv.org/abs/2407.13211v1)|null|
+|**2024-08-01**|**Research on Image Super-Resolution Reconstruction Mechanism based on Convolutional Neural Network**|Hao Yan et.al.|[2407.13211v2](http://arxiv.org/abs/2407.13211v2)|null|
 |**2024-07-18**|**UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic Prompt**|Xin Li et.al.|[2407.13108v1](http://arxiv.org/abs/2407.13108v1)|null|
 |**2024-07-31**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087v2](http://arxiv.org/abs/2407.11087v2)|**[link](https://github.com/yaziwel/restore-rwkv)**|
 |**2024-07-15**|**Backdoor Attacks against Image-to-Image Networks**|Wenbo Jiang et.al.|[2407.10445v1](http://arxiv.org/abs/2407.10445v1)|null|
@@ -1645,7 +1645,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240802>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -1763,7 +1763,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240802>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -1782,7 +1782,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240802>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -1827,7 +1827,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240802>back to top</a>)</p>
 
 ## Transformer
 
@@ -1862,7 +1862,7 @@
 |**2024-07-31**|**A Simple Low-bit Quantization Framework for Video Snapshot Compressive Imaging**|Miao Cao et.al.|[2407.21517v1](http://arxiv.org/abs/2407.21517v1)|null|
 |**2024-07-31**|**FSSC: Federated Learning of Transformer Neural Networks for Semantic Image Communication**|Yuna Yan et.al.|[2407.21507v1](http://arxiv.org/abs/2407.21507v1)|null|
 |**2024-07-31**|**Interpretable correlator Transformer for image-like quantum matter data**|Abhinav Suresh et.al.|[2407.21502v1](http://arxiv.org/abs/2407.21502v1)|null|
-|**2024-07-31**|**Generative Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2407.21491v1](http://arxiv.org/abs/2407.21491v1)|null|
+|**2024-08-01**|**Generative Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2407.21491v2](http://arxiv.org/abs/2407.21491v2)|null|
 |**2024-07-31**|**Breaking the Hourglass Phenomenon of Residual Quantization: Enhancing the Upper Bound of Generative Retrieval**|Zhirui Kuai et.al.|[2407.21488v1](http://arxiv.org/abs/2407.21488v1)|null|
 |**2024-07-31**|**Precoding Based Downlink OAM-MIMO Communications with Rate Splitting**|Ruirui Chen et.al.|[2407.21478v1](http://arxiv.org/abs/2407.21478v1)|null|
 |**2024-07-31**|**On the use of calibration data in error-aware compilation techniques for NISQ devices**|Handy Kurniawan et.al.|[2407.21462v1](http://arxiv.org/abs/2407.21462v1)|null|
@@ -20697,7 +20697,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240802>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -20933,7 +20933,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240802>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -21029,7 +21029,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240802>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
