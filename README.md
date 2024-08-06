@@ -1848,7 +1848,7 @@
 |**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293v1](http://arxiv.org/abs/2408.01293v1)|null|
 |**2024-08-02**|**3DPX: Progressive 2D-to-3D Oral Image Reconstruction with Hybrid MLP-CNN Networks**|Xiaoshuang Li et.al.|[2408.01292v1](http://arxiv.org/abs/2408.01292v1)|null|
 |**2024-08-02**|**Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement**|Wenbin Zou et.al.|[2408.01276v1](http://arxiv.org/abs/2408.01276v1)|null|
-|**2024-08-02**|**HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer**|Wenyan Xu et.al.|[2408.01271v1](http://arxiv.org/abs/2408.01271v1)|null|
+|**2024-08-05**|**HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer**|Wenyan Xu et.al.|[2408.01271v2](http://arxiv.org/abs/2408.01271v2)|null|
 |**2024-08-02**|**WaveMamba: Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01231v1](http://arxiv.org/abs/2408.01231v1)|null|
 |**2024-08-02**|**HeteroMorpheus: Universal Control Based on Morphological Heterogeneity Modeling**|YiFan Hao et.al.|[2408.01230v1](http://arxiv.org/abs/2408.01230v1)|null|
 |**2024-08-02**|**Multi-head Spatial-Spectral Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01224v1](http://arxiv.org/abs/2408.01224v1)|null|
@@ -21067,7 +21067,7 @@
 |**2024-03-29**|**AVID: Any-Length Video Inpainting with Diffusion Model**|Zhixing Zhang et.al.|[2312.03816v3](http://arxiv.org/abs/2312.03816v3)|**[link](https://github.com/zhang-zx/AVID)**|
 |**2024-04-09**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813v2](http://arxiv.org/abs/2312.02813v2)|**[link](https://github.com/mcg-nju/bivdiff)**|
 |**2023-11-26**|**Flow-Guided Diffusion for Video Inpainting**|Bohai Gu et.al.|[2311.15368v1](http://arxiv.org/abs/2311.15368v1)|**[link](https://github.com/nevsnev/fgdvi)**|
-|**2023-11-02**|**Infusion: Internal Diffusion for Video Inpainting**|Nicolas Cherel et.al.|[2311.01090v1](http://arxiv.org/abs/2311.01090v1)|null|
+|**2024-08-05**|**Infusion: internal diffusion for inpainting of dynamic textures and complex motion**|Nicolas Cherel et.al.|[2311.01090v2](http://arxiv.org/abs/2311.01090v2)|null|
 |**2023-10-11**|**Deep Video Inpainting Guided by Audio-Visual Self-Supervision**|Kyuyeon Kim et.al.|[2310.07663v1](http://arxiv.org/abs/2310.07663v1)|**[link](https://github.com/kyuyeonpooh/Audio-Visual-Deep-Video-Inpainting)**|
 |**2023-09-28**|**UVL: A Unified Framework for Video Tampering Localization**|Pengfei Pei et.al.|[2309.16126v1](http://arxiv.org/abs/2309.16126v1)|null|
 |**2023-09-26**|**Bitstream-Corrupted Video Recovery: A Novel Benchmark Dataset and Method**|Tianyi Liu et.al.|[2309.13890v2](http://arxiv.org/abs/2309.13890v2)|**[link](https://github.com/liutighe/bscv-dataset)**|
