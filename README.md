@@ -1863,7 +1863,7 @@
 |**2024-08-06**|**A generalization of the Choi isomorphism with application to open quantum systems**|Heinz-Jürgen Schmidt et.al.|[2408.03086v1](http://arxiv.org/abs/2408.03086v1)|null|
 |**2024-08-06**|**Matrix Multiplication on Quantum Computer**|Jiaqi Yao et.al.|[2408.03085v1](http://arxiv.org/abs/2408.03085v1)|null|
 |**2024-08-06**|**More General Soliton Solution for Vectorial Bose-Einstein Condensate**|P. S. Vinayagam et.al.|[2408.03082v1](http://arxiv.org/abs/2408.03082v1)|null|
-|**2024-08-06**|**Comb, Prune, Distill: Towards Unified Pruning for Vision Model Compression**|Jonas Schmitt et.al.|[2408.03046v1](http://arxiv.org/abs/2408.03046v1)|null|
+|**2024-08-06**|**Comb, Prune, Distill: Towards Unified Pruning for Vision Model Compression**|Jonas Schmitt et.al.|[2408.03046v1](http://arxiv.org/abs/2408.03046v1)|**[link](https://github.com/cranken/cpd)**|
 |**2024-08-06**|**Weighted shape-constrained estimation for the autocovariance sequence from a reversible Markov chain**|Hyebin Song et.al.|[2408.03024v1](http://arxiv.org/abs/2408.03024v1)|null|
 |**2024-08-06**|**Damage identification for bridges using machine learning: Development and application to KW51 bridge**|Yuqing Qiu et.al.|[2408.03002v1](http://arxiv.org/abs/2408.03002v1)|null|
 |**2024-08-06**|**Scattering theory for  $C^2$  long-range potentials**|K. Ito et.al.|[2408.02979v1](http://arxiv.org/abs/2408.02979v1)|null|
@@ -1884,7 +1884,7 @@
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661v1](http://arxiv.org/abs/2408.02661v1)|null|
 |**2024-08-05**|**Wavenumber Calibration for an Imaging Refractometer**|A. Rososhek et.al.|[2408.02660v1](http://arxiv.org/abs/2408.02660v1)|null|
 |**2024-08-05**|**Algebraic Stability for Skew Products**|Richard A. P. Birkett et.al.|[2408.02658v1](http://arxiv.org/abs/2408.02658v1)|null|
-|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|null|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|**[link](https://github.com/alpha-vllm/lumina-mgpt)**|
 |**2024-08-05**|**On Using Quasirandom Sequences in Machine Learning for Model Weight Initialization**|Andriy Miranskyy et.al.|[2408.02654v1](http://arxiv.org/abs/2408.02654v1)|null|
 |**2024-08-05**|**Gravitational Dipole Moment in Braneworld Model**|Eugênio Bastos Maciel et.al.|[2408.02647v1](http://arxiv.org/abs/2408.02647v1)|null|
 |**2024-08-05**|**Command-line Obfuscation Detection using Small Language Models**|Vojtech Outrata et.al.|[2408.02637v1](http://arxiv.org/abs/2408.02637v1)|null|
