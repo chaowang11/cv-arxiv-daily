@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158v1](http://arxiv.org/abs/2408.04158v1)|null|
 |**2024-08-07**|**Underwater litter monitoring using consumer-grade aerial-aquatic speedy scanner (AASS) and deep learning based super-resolution reconstruction and detection network**|Fan Zhao et.al.|[2408.03564v1](http://arxiv.org/abs/2408.03564v1)|null|
 |**2024-08-07**|**Monitoring of Hermit Crabs Using drone-captured imagery and Deep Learning based Super-Resolution Reconstruction and Improved YOLOv8**|Fan Zhao et.al.|[2408.03559v1](http://arxiv.org/abs/2408.03559v1)|null|
 |**2024-08-06**|**SGSR: Structure-Guided Multi-Contrast MRI Super-Resolution via Spatio-Frequency Co-Query Attention**|Shaoming Zheng et.al.|[2408.03194v1](http://arxiv.org/abs/2408.03194v1)|null|
@@ -1230,6 +1231,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158v1](http://arxiv.org/abs/2408.04158v1)|null|
 |**2024-08-03**|**Transformer for seismic image super-resolution**|Shiqi Dong et.al.|[2408.01695v1](http://arxiv.org/abs/2408.01695v1)|null|
 |**2024-08-02**|**PINNs for Medical Image Analysis: A Survey**|Chayan Banerjee et.al.|[2408.01026v1](http://arxiv.org/abs/2408.01026v1)|null|
 |**2024-08-01**|**Image Super-Resolution with Taylor Expansion Approximation and Large Field Reception**|Jiancong Feng et.al.|[2408.00470v1](http://arxiv.org/abs/2408.00470v1)|null|
@@ -1847,6 +1849,50 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619v1](http://arxiv.org/abs/2408.04619v1)|null|
+|**2024-08-08**|**Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning**|Hongze Zhu et.al.|[2408.04604v1](http://arxiv.org/abs/2408.04604v1)|null|
+|**2024-08-08**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585v1](http://arxiv.org/abs/2408.04585v1)|null|
+|**2024-08-08**|**SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**|Tianrun Chen et.al.|[2408.04579v1](http://arxiv.org/abs/2408.04579v1)|null|
+|**2024-08-08**|**Meta-mechanisms for Combinatorial Auctions over Social Networks**|Yuan Fang et.al.|[2408.04555v1](http://arxiv.org/abs/2408.04555v1)|null|
+|**2024-08-08**|**Movelet Trees**|Travis Gagie et.al.|[2408.04537v1](http://arxiv.org/abs/2408.04537v1)|null|
+|**2024-08-08**|**Synchronous Multi-modal Semantic CommunicationSystem with Packet-level Coding**|Yun Tian et.al.|[2408.04535v1](http://arxiv.org/abs/2408.04535v1)|null|
+|**2024-08-08**|**How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression**|Xingwu Chen et.al.|[2408.04532v1](http://arxiv.org/abs/2408.04532v1)|null|
+|**2024-08-08**|**Feedback Design with VQ-VAE for Robust Precoding in Multi-User FDD Systems**|Nurettin Turan et.al.|[2408.04505v1](http://arxiv.org/abs/2408.04505v1)|null|
+|**2024-08-08**|**Symmetric Encryption Scheme Based on Quasigroup Using Chained Mode of Operation**|Satish Kumar et.al.|[2408.04490v1](http://arxiv.org/abs/2408.04490v1)|null|
+|**2024-08-08**|**Crowd Intelligence for Early Misinformation Prediction on Social Media**|Megha Sundriyal et.al.|[2408.04463v1](http://arxiv.org/abs/2408.04463v1)|null|
+|**2024-08-08**|**The Transition from Galaxy-wide Gas Inflow to Outflow in Quasar Host Galaxies**|Zhicheng He et.al.|[2408.04458v1](http://arxiv.org/abs/2408.04458v1)|null|
+|**2024-08-08**|**Boosting Earth System Model Outputs And Saving PetaBytes in their Storage Using Exascale Climate Emulators**|Sameh Abdulah et.al.|[2408.04440v1](http://arxiv.org/abs/2408.04440v1)|null|
+|**2024-08-08**|**Deeploy: Enabling Energy-Efficient Deployment of Small Language Models On Heterogeneous Microcontrollers**|Moritz Scherer et.al.|[2408.04413v1](http://arxiv.org/abs/2408.04413v1)|null|
+|**2024-08-08**|**Transverse instability of electron-acoustic solitons in a relativistic degenerate astrophysical magnetoplasma**|A. P. Misra et.al.|[2408.04404v1](http://arxiv.org/abs/2408.04404v1)|null|
+|**2024-08-08**|**Adelic and Rational Grassmannians for finite dimensional algebras**|Emil Horozov et.al.|[2408.04355v1](http://arxiv.org/abs/2408.04355v1)|null|
+|**2024-08-08**|**Exotic Kondo effect in two one dimensional spin 1/2 chains coupled to two localized spin 1/2 magnets**|Igor Kuzmenko et.al.|[2408.04353v1](http://arxiv.org/abs/2408.04353v1)|null|
+|**2024-08-08**|**Towards Explainable Network Intrusion Detection using Large Language Models**|Paul R. B. Houssel et.al.|[2408.04342v1](http://arxiv.org/abs/2408.04342v1)|null|
+|**2024-08-08**|**Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection**|Shixuan Gao et.al.|[2408.04326v1](http://arxiv.org/abs/2408.04326v1)|null|
+|**2024-08-08**|**Transforming Time-Varying to Static Channels: The Power of Fluid Antenna Mobility**|Weidong Li et.al.|[2408.04320v1](http://arxiv.org/abs/2408.04320v1)|null|
+|**2024-08-08**|**TheGlueNote: Learned Representations for Robust and Flexible Note Alignment**|Silvan David Peter et.al.|[2408.04309v1](http://arxiv.org/abs/2408.04309v1)|**[link](https://github.com/sildater/thegluenote)**|
+|**2024-08-08**|**Efficient and Accurate Pneumonia Detection Using a Novel Multi-Scale Transformer Approach**|Alireza Saber et.al.|[2408.04290v1](http://arxiv.org/abs/2408.04290v1)|**[link](https://github.com/amirrezafateh/multi-scale-transformer-pneumonia)**|
+|**2024-08-08**|**LaDiMo: Layer-wise Distillation Inspired MoEfier**|Sungyoon Kim et.al.|[2408.04278v1](http://arxiv.org/abs/2408.04278v1)|null|
+|**2024-08-08**|**UHNet: An Ultra-Lightweight and High-Speed Edge Detection Network**|Fuzhang Li et.al.|[2408.04258v1](http://arxiv.org/abs/2408.04258v1)|null|
+|**2024-08-08**|**Scalable Transformer for High Dimensional Multivariate Time Series Forecasting**|Xin Zhou et.al.|[2408.04245v1](http://arxiv.org/abs/2408.04245v1)|**[link](https://github.com/xinzzzhou/scalabletransformer4highdimensionmtsf)**|
+|**2024-08-08**|**Cluster-Wide Task Slowdown Detection in Cloud System**|Feiyi Chen et.al.|[2408.04236v1](http://arxiv.org/abs/2408.04236v1)|null|
+|**2024-08-08**|**LLDif: Diffusion Models for Low-light Emotion Recognition**|Zhifeng Wang et.al.|[2408.04235v1](http://arxiv.org/abs/2408.04235v1)|null|
+|**2024-08-08**|**Probabilistic Circuits for Cumulative Distribution Functions**|Oliver Broadrick et.al.|[2408.04229v1](http://arxiv.org/abs/2408.04229v1)|null|
+|**2024-08-08**|**Attention Mechanism and Context Modeling System for Text Mining Machine Translation**|Shi Bo et.al.|[2408.04216v1](http://arxiv.org/abs/2408.04216v1)|null|
+|**2024-08-08**|**Convolution Type of Metaplectic Cohen's Distribution Time-Frequency Analysis Theory, Method and Technology**|Manjun Cui et.al.|[2408.04214v1](http://arxiv.org/abs/2408.04214v1)|null|
+|**2024-08-08**|**F1tenth Autonomous Racing With Offline Reinforcement Learning Methods**|Prajwal Koirala et.al.|[2408.04198v1](http://arxiv.org/abs/2408.04198v1)|null|
+|**2024-08-08**|**MultiColor: Image Colorization by Learning from Multiple Color Spaces**|Xiangcheng Du et.al.|[2408.04172v1](http://arxiv.org/abs/2408.04172v1)|null|
+|**2024-08-08**|**M2EF-NNs: Multimodal Multi-instance Evidence Fusion Neural Networks for Cancer Survival Prediction**|Hui Luo et.al.|[2408.04170v1](http://arxiv.org/abs/2408.04170v1)|null|
+|**2024-08-08**|**C-Nash: A Novel Ferroelectric Computing-in-Memory Architecture for Solving Mixed Strategy Nash Equilibrium**|Yu Qian et.al.|[2408.04169v1](http://arxiv.org/abs/2408.04169v1)|null|
+|**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158v1](http://arxiv.org/abs/2408.04158v1)|null|
+|**2024-08-08**|**R-adaptive DeepONet: Learning Solution Operators for PDEs with Discontinuous Solutions Using an R-adaptive Strategy**|Yameng Zhu et.al.|[2408.04157v1](http://arxiv.org/abs/2408.04157v1)|null|
+|**2024-08-08**|**The exact dimension of Liouville numbers: The Fourier side**|Iván Polasek et.al.|[2408.04148v1](http://arxiv.org/abs/2408.04148v1)|null|
+|**2024-08-07**|**PaveCap: The First Multimodal Framework for Comprehensive Pavement Condition Assessment with Dense Captioning and PCI Estimation**|Blessing Agyei Kyem et.al.|[2408.04110v1](http://arxiv.org/abs/2408.04110v1)|**[link](https://github.com/blessing988/pavecap)**|
+|**2024-08-07**|**Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters**|Vasudev Shyam et.al.|[2408.04093v1](http://arxiv.org/abs/2408.04093v1)|null|
+|**2024-08-07**|**Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?**|Mohamed Hassan et.al.|[2408.04065v1](http://arxiv.org/abs/2408.04065v1)|null|
+|**2024-08-07**|**Synthesizing Abstract Transformers for Reduced-Product Domains**|Pankaj Kumar Kalita et.al.|[2408.04040v1](http://arxiv.org/abs/2408.04040v1)|null|
+|**2024-08-07**|**Structural transitions of calcium carbonate by molecular dynamics simulation**|Elizaveta Sidler et.al.|[2408.04036v1](http://arxiv.org/abs/2408.04036v1)|null|
+|**2024-08-07**|**Image-to-LaTeX Converter for Mathematical Formulas and Text**|Daniil Gurgurov et.al.|[2408.04015v1](http://arxiv.org/abs/2408.04015v1)|**[link](https://github.com/d-gurgurov/im2latex)**|
+|**2024-08-07**|**Modular invariance as completeness**|Valentin Benedetti et.al.|[2408.04011v1](http://arxiv.org/abs/2408.04011v1)|null|
 |**2024-08-07**|**Lightweight Video Denoising Using a Classic Bayesian Backbone**|Clément Bled et.al.|[2408.03904v1](http://arxiv.org/abs/2408.03904v1)|null|
 |**2024-08-07**|**Global-Local Progressive Integration Network for Blind Image Quality Assessment**|Xiaoqi Wang et.al.|[2408.03885v1](http://arxiv.org/abs/2408.03885v1)|null|
 |**2024-08-07**|**Inter-Series Transformer: Attending to Products in Time Series Forecasting**|Rares Cristian et.al.|[2408.03872v1](http://arxiv.org/abs/2408.03872v1)|null|
