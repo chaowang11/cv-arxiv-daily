@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205v1](http://arxiv.org/abs/2408.05205v1)|null|
 |**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158v1](http://arxiv.org/abs/2408.04158v1)|null|
 |**2024-08-07**|**Underwater litter monitoring using consumer-grade aerial-aquatic speedy scanner (AASS) and deep learning based super-resolution reconstruction and detection network**|Fan Zhao et.al.|[2408.03564v1](http://arxiv.org/abs/2408.03564v1)|null|
 |**2024-08-07**|**Monitoring of Hermit Crabs Using drone-captured imagery and Deep Learning based Super-Resolution Reconstruction and Improved YOLOv8**|Fan Zhao et.al.|[2408.03559v1](http://arxiv.org/abs/2408.03559v1)|null|
@@ -1231,6 +1232,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205v1](http://arxiv.org/abs/2408.05205v1)|null|
 |**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158v1](http://arxiv.org/abs/2408.04158v1)|null|
 |**2024-08-03**|**Transformer for seismic image super-resolution**|Shiqi Dong et.al.|[2408.01695v1](http://arxiv.org/abs/2408.01695v1)|null|
 |**2024-08-02**|**PINNs for Medical Image Analysis: A Survey**|Chayan Banerjee et.al.|[2408.01026v1](http://arxiv.org/abs/2408.01026v1)|null|
@@ -1667,6 +1669,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205v1](http://arxiv.org/abs/2408.05205v1)|null|
 |**2024-07-24**|**Cuboid-Net: A Multi-Branch Convolutional Neural Network for Joint Space-Time Video Super Resolution**|Congrui Fu et.al.|[2407.16986v1](http://arxiv.org/abs/2407.16986v1)|null|
 |**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965v1](http://arxiv.org/abs/2407.16965v1)|**[link](https://github.com/fcongrui/3dattgan)**|
 |**2024-07-19**|**RealViformer: Investigating Attention for Real-World Video Super-Resolution**|Yuehan Zhang et.al.|[2407.13987v1](http://arxiv.org/abs/2407.13987v1)|**[link](https://github.com/yuehan717/realviformer)**|
@@ -1849,6 +1852,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Holographic thermal correlators and quasinormal modes from semiclassical Virasoro blocks**|Hewei Frederic Jia et.al.|[2408.05208v1](http://arxiv.org/abs/2408.05208v1)|null|
+|**2024-08-09**|**ECG-FM: An Open Electrocardiogram Foundation Model**|Kaden McKeen et.al.|[2408.05178v1](http://arxiv.org/abs/2408.05178v1)|**[link](https://github.com/bowang-lab/ecg-fm)**|
+|**2024-08-09**|**Beyond the Eye: A Relational Model for Early Dementia Detection Using Retinal OCTA Images**|Shouyue Liu et.al.|[2408.05117v1](http://arxiv.org/abs/2408.05117v1)|null|
+|**2024-08-09**|**On expected signatures and signature cumulants in semimartingale models**|Peter K. Friz et.al.|[2408.05085v1](http://arxiv.org/abs/2408.05085v1)|null|
+|**2024-08-09**|**DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**|Zeyu Yang et.al.|[2408.05075v1](http://arxiv.org/abs/2408.05075v1)|**[link](https://github.com/fudan-zvg/deepinteraction)**|
+|**2024-08-09**|**Generalised Brillouin Zone for Non-Reciprocal Systems**|Habib Ammari et.al.|[2408.05073v1](http://arxiv.org/abs/2408.05073v1)|null|
+|**2024-08-09**|**Variational Bayesian Phylogenetic Inference with Semi-implicit Branch Length Distributions**|Tianyu Xie et.al.|[2408.05058v1](http://arxiv.org/abs/2408.05058v1)|**[link](https://github.com/tyuxie/vbpi-sibranch)**|
+|**2024-08-09**|**SELD-Mamba: Selective State-Space Model for Sound Event Localization and Detection with Source Distance Estimation**|Da Mu et.al.|[2408.05057v1](http://arxiv.org/abs/2408.05057v1)|null|
+|**2024-08-09**|**Livestock Fish Larvae Counting using DETR and YOLO based Deep Networks**|Daniel Ortega de Carvalho et.al.|[2408.05032v1](http://arxiv.org/abs/2408.05032v1)|null|
+|**2024-08-09**|**Retrieval-augmented code completion for local projects using large language models**|Marko Hostnik et.al.|[2408.05026v1](http://arxiv.org/abs/2408.05026v1)|null|
+|**2024-08-09**|**MIDI-to-Tab: Guitar Tablature Inference via Masked Language Modeling**|Drew Edwards et.al.|[2408.05024v1](http://arxiv.org/abs/2408.05024v1)|null|
+|**2024-08-09**|**Polyvector deformations of Type IIB backgrounds**|Kirill Gubarev et.al.|[2408.05004v1](http://arxiv.org/abs/2408.05004v1)|null|
+|**2024-08-09**|**DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting**|Jihoon Lee et.al.|[2408.04962v1](http://arxiv.org/abs/2408.04962v1)|null|
+|**2024-08-09**|**High-resolution closed-loop seismic inversion network in time-frequency phase mixed domain**|Yingtian Liu et.al.|[2408.04932v1](http://arxiv.org/abs/2408.04932v1)|null|
+|**2024-08-09**|**MSG-Chart: Multimodal Scene Graph for ChartQA**|Yue Dai et.al.|[2408.04852v1](http://arxiv.org/abs/2408.04852v1)|null|
+|**2024-08-09**|**Next-Generation Wi-Fi Networks with Generative AI: Design and Insights**|Jingyu Wang et.al.|[2408.04835v1](http://arxiv.org/abs/2408.04835v1)|null|
+|**2024-08-09**|**h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment**|Moussa Koulako Bala Doumbouya et.al.|[2408.04811v1](http://arxiv.org/abs/2408.04811v1)|null|
+|**2024-08-08**|**BRAT: Bonus oRthogonAl Token for Architecture Agnostic Textual Inversion**|James Baker et.al.|[2408.04785v1](http://arxiv.org/abs/2408.04785v1)|**[link](https://github.com/jamesbaker361/tex_inv_plus)**|
+|**2024-08-08**|**Exploiting Consistency-Preserving Loss and Perceptual Contrast Stretching to Boost SSL-based Speech Enhancement**|Muhammad Salman Khan et.al.|[2408.04773v1](http://arxiv.org/abs/2408.04773v1)|null|
+|**2024-08-08**|**Some remarks on Coulombic effects in  $pp$  and  $\bar pp$  scattering and the determination of  $ρ$ **|Loyal Durand et.al.|[2408.04756v1](http://arxiv.org/abs/2408.04756v1)|null|
+|**2024-08-08**|**Automation Configuration in Smart Home Systems: Challenges and Opportunities**|Sheik Murad Hassan Anik et.al.|[2408.04755v1](http://arxiv.org/abs/2408.04755v1)|null|
+|**2024-08-08**|**Engaging Data-Art: Conducting a Public Hands-On Workshop**|Jonathan C. Roberts et.al.|[2408.04750v1](http://arxiv.org/abs/2408.04750v1)|null|
+|**2024-08-08**|**A simple quadratic kernel for Token Jumping on surfaces**|Daniel W. Cranston et.al.|[2408.04743v1](http://arxiv.org/abs/2408.04743v1)|null|
+|**2024-08-08**|**Survey: Transformer-based Models in Data Modality Conversion**|Elyas Rashno et.al.|[2408.04723v1](http://arxiv.org/abs/2408.04723v1)|null|
+|**2024-08-08**|**Learning the Simplicity of Scattering Amplitudes**|Clifford Cheung et.al.|[2408.04720v1](http://arxiv.org/abs/2408.04720v1)|null|
+|**2024-08-08**|**CSS161010: a luminous, fast blue optical transient with broad blueshifted hydrogen lines**|Claudia P. Gutiérrez et.al.|[2408.04698v1](http://arxiv.org/abs/2408.04698v1)|null|
 |**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619v1](http://arxiv.org/abs/2408.04619v1)|null|
 |**2024-08-08**|**Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning**|Hongze Zhu et.al.|[2408.04604v1](http://arxiv.org/abs/2408.04604v1)|null|
 |**2024-08-08**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585v1](http://arxiv.org/abs/2408.04585v1)|null|
@@ -20983,6 +21012,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting**|Jihoon Lee et.al.|[2408.04962v1](http://arxiv.org/abs/2408.04962v1)|null|
 |**2024-08-07**|**SLRQA: A Sparse Low-Rank Quaternion Model for Color Image Processing with Convergence Analysis**|Zhanwang Deng et.al.|[2408.03563v1](http://arxiv.org/abs/2408.03563v1)|null|
 |**2024-08-05**|**Dense Feature Interaction Network for Image Inpainting Localization**|Ye Yao et.al.|[2408.02191v1](http://arxiv.org/abs/2408.02191v1)|null|
 |**2024-08-04**|**View-consistent Object Removal in Radiance Fields**|Yiren Lu et.al.|[2408.02100v1](http://arxiv.org/abs/2408.02100v1)|null|
