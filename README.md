@@ -1867,6 +1867,53 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**A universal neutral-atom quantum computer with individual optical addressing and non-destructive readout**|A. G. Radnaev et.al.|[2408.08288v1](http://arxiv.org/abs/2408.08288v1)|null|
+|**2024-08-15**|**Accurate and efficient structure elucidation from routine one-dimensional NMR spectra using multitask machine learning**|Frank Hu et.al.|[2408.08284v1](http://arxiv.org/abs/2408.08284v1)|null|
+|**2024-08-15**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274v1](http://arxiv.org/abs/2408.08274v1)|null|
+|**2024-08-15**|**HeightLane: BEV Heightmap guided 3D Lane Detection**|Chaesong Park et.al.|[2408.08270v1](http://arxiv.org/abs/2408.08270v1)|null|
+|**2024-08-15**|**About the Hardy-Ramanujan partition function asymptotics**|Shannon Starr et.al.|[2408.08269v1](http://arxiv.org/abs/2408.08269v1)|null|
+|**2024-08-15**|**mhGPT: A Lightweight Generative Pre-Trained Transformer for Mental Health Text Analysis**|Dae-young Kim et.al.|[2408.08261v1](http://arxiv.org/abs/2408.08261v1)|null|
+|**2024-08-15**|**Snuffy: Efficient Whole Slide Image Classifier**|Hossein Jafarinia et.al.|[2408.08258v1](http://arxiv.org/abs/2408.08258v1)|**[link](https://github.com/jafarinia/snuffy)**|
+|**2024-08-15**|**Computer Vision Model Compression Techniques for Embedded Systems: A Survey**|Alexandre Lopes et.al.|[2408.08250v1](http://arxiv.org/abs/2408.08250v1)|**[link](https://github.com/venturusbr/cv-model-compression)**|
+|**2024-08-15**|**The Effect of Horizontal Shear on Extracting Water Currents From Surface Wave Data**|Stefan Weichert et.al.|[2408.08197v1](http://arxiv.org/abs/2408.08197v1)|null|
+|**2024-08-15**|**Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[2408.08191v1](http://arxiv.org/abs/2408.08191v1)|null|
+|**2024-08-15**|**Scaling Up Natural Language Understanding for Multi-Robots Through the Lens of Hierarchy**|Shaojun Xu et.al.|[2408.08188v1](http://arxiv.org/abs/2408.08188v1)|null|
+|**2024-08-15**|**Data-driven identification of latent port-Hamiltonian systems**|Johannes Rettberg et.al.|[2408.08185v1](http://arxiv.org/abs/2408.08185v1)|**[link](https://github.com/institute-eng-and-comp-mechanics-ustgt/aphin)**|
+|**2024-08-15**|**Your Turn: Real-World Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182v1](http://arxiv.org/abs/2408.08182v1)|null|
+|**2024-08-15**|**EmBARDiment: an Embodied AI Agent for Productivity in XR**|Riccardo Bovo et.al.|[2408.08158v1](http://arxiv.org/abs/2408.08158v1)|null|
+|**2024-08-15**|**KOALA: Enhancing Speculative Decoding for LLM via Multi-Layer Draft Heads with Adversarial Learning**|Kaiqi Zhang et.al.|[2408.08146v1](http://arxiv.org/abs/2408.08146v1)|null|
+|**2024-08-15**|**Impact of Comprehensive Data Preprocessing on Predictive Modelling of COVID-19 Mortality**|Sangita Das et.al.|[2408.08142v1](http://arxiv.org/abs/2408.08142v1)|**[link](https://github.com/dassangita844/preprocessing_covid-19_dataset_india)**|
+|**2024-08-15**|**Hearing Your Blood Sugar: Non-Invasive Glucose Measurement Through Simple Vocal Signals, Transforming any Speech into a Sensor with Machine Learning**|Nihat Ahmadli et.al.|[2408.08109v1](http://arxiv.org/abs/2408.08109v1)|null|
+|**2024-08-15**|**Unsupervised Part Discovery via Dual Representation Alignment**|Jiahao Xia et.al.|[2408.08108v1](http://arxiv.org/abs/2408.08108v1)|**[link](https://github.com/jiahao-uts/unsupervisedpart)**|
+|**2024-08-15**|**Adaptation of uncertainty-penalized Bayesian information criterion for parametric partial differential equation discovery**|Pongpisit Thanasutives et.al.|[2408.08106v1](http://arxiv.org/abs/2408.08106v1)|**[link](https://github.com/pongpisit-thanasutives/parametric-discovery)**|
+|**2024-08-15**|**Certain Subclass of Harmonic Multivalent Functions Defined by New Linear Operator**|Ali H. Maran et.al.|[2408.08103v1](http://arxiv.org/abs/2408.08103v1)|null|
+|**2024-08-15**|**When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding**|Pingping Zhang et.al.|[2408.08093v1](http://arxiv.org/abs/2408.08093v1)|null|
+|**2024-08-15**|**Normal operators for momentum ray transforms, II: Saint Venant operator**|Shubham R. Jathar et.al.|[2408.08085v1](http://arxiv.org/abs/2408.08085v1)|null|
+|**2024-08-15**|**Treat Stillness with Movement: Remote Sensing Change Detection via Coarse-grained Temporal Foregrounds Mining**|Xixi Wang et.al.|[2408.08078v1](http://arxiv.org/abs/2408.08078v1)|**[link](https://github.com/event-ahu/ctm_remote_sensing_change_detection)**|
+|**2024-08-15**|**Low Thermal Resistance of Diamond-AlGaN Interfaces Achieved Using Carbide Interlayers**|Henry T. Aller et.al.|[2408.08076v1](http://arxiv.org/abs/2408.08076v1)|null|
+|**2024-08-15**|**Extracting Sentence Embeddings from Pretrained Transformer Models**|Lukas Stankevičius et.al.|[2408.08073v1](http://arxiv.org/abs/2408.08073v1)|null|
+|**2024-08-15**|**MambaMIM: Pre-training Mamba with State Space Token-interpolation**|Fenghe Tang et.al.|[2408.08070v1](http://arxiv.org/abs/2408.08070v1)|**[link](https://github.com/fenghetan9/mambamim)**|
+|**2024-08-15**|**Mamba Retriever: Utilizing Mamba for Effective and Efficient Dense Retrieval**|Hanqi Zhang et.al.|[2408.08066v1](http://arxiv.org/abs/2408.08066v1)|null|
+|**2024-08-15**|**Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework**|Changyu Du et.al.|[2408.08054v1](http://arxiv.org/abs/2408.08054v1)|null|
+|**2024-08-15**|**On the adelic Gaussian hypergeometric function**|Masanori Asakura et.al.|[2408.08012v1](http://arxiv.org/abs/2408.08012v1)|null|
+|**2024-08-15**|**Leveraging Web-Crawled Data for High-Quality Fine-Tuning**|Jing Zhou et.al.|[2408.08003v1](http://arxiv.org/abs/2408.08003v1)|null|
+|**2024-08-15**|**Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement**|Wenxuan Li et.al.|[2408.07999v1](http://arxiv.org/abs/2408.07999v1)|null|
+|**2024-08-15**|**Efficiently grounding FOL using bit vectors**|Lucas Van Laer et.al.|[2408.07980v1](http://arxiv.org/abs/2408.07980v1)|null|
+|**2024-08-15**|**Using Symmetries to Investigate the Complete Integrability, Solitary Wave Solutions and Solitons of the Gardner Equation**|Willy Hereman et.al.|[2408.07973v1](http://arxiv.org/abs/2408.07973v1)|null|
+|**2024-08-15**|**The Causal Complementation Algorithm for Lifting Factorization of Perfect Reconstruction Multirate Filter Banks**|Christopher M. Brislawn et.al.|[2408.07970v1](http://arxiv.org/abs/2408.07970v1)|null|
+|**2024-08-15**|**Non-electrostatic interactions as random fields in charged liquids**|Li Wan et.al.|[2408.07940v1](http://arxiv.org/abs/2408.07940v1)|null|
+|**2024-08-15**|**A quantum-classical hybrid algorithm with Ising model for the learning with errors problem**|Muxi Zheng et.al.|[2408.07936v1](http://arxiv.org/abs/2408.07936v1)|null|
+|**2024-08-15**|**Persistence Image from 3D Medical Image: Superpixel and Optimized Gaussian Coefficient**|Yanfan Zhu et.al.|[2408.07905v1](http://arxiv.org/abs/2408.07905v1)|**[link](https://github.com/hrlblab/topologicaldataanalysis3d)**|
+|**2024-08-15**|**MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking**|Simiao Lai et.al.|[2408.07889v1](http://arxiv.org/abs/2408.07889v1)|null|
+|**2024-08-15**|**Zero Day Ransomware Detection with Pulse: Function Classification with Transformer Models and Assembly Language**|Matthew Gaber et.al.|[2408.07862v1](http://arxiv.org/abs/2408.07862v1)|null|
+|**2024-08-15**|**Non-iterative triples for transcorrelated coupled cluster**|Maximilian Mörchen et.al.|[2408.07858v1](http://arxiv.org/abs/2408.07858v1)|null|
+|**2024-08-14**|**Laboratory confirmation and improved Accuracy of 4f and 5d energy levels of Fe II previously identified from stellar spectra**|M. Ding et.al.|[2408.07833v1](http://arxiv.org/abs/2408.07833v1)|null|
+|**2024-08-14**|**Spectrum and energy levels of the high-lying singly excited configurations of Nd III**|M. Ding et.al.|[2408.07830v1](http://arxiv.org/abs/2408.07830v1)|null|
+|**2024-08-14**|**The finite bivariate biorthogonal I -- Konhauser polynomials**|Esra Güldoğan Lekesiz et.al.|[2408.07811v1](http://arxiv.org/abs/2408.07811v1)|null|
+|**2024-08-14**|**Feedforward Quantum Singular Value Transformation**|Yulong Dong et.al.|[2408.07803v1](http://arxiv.org/abs/2408.07803v1)|null|
+|**2024-08-14**|**Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference**|Rohan Baskar Prabhakar et.al.|[2408.07802v1](http://arxiv.org/abs/2408.07802v1)|null|
+|**2024-08-14**|**Perspectives: Comparison of Deep Learning Segmentation Models on Biophysical and Biomedical Data**|J Shepard Bryan IV et.al.|[2408.07786v1](http://arxiv.org/abs/2408.07786v1)|null|
+|**2024-08-14**|**Quantum Rational Transformation Using Linear Combinations of Hamiltonian Simulations**|Yizhi Shen et.al.|[2408.07742v1](http://arxiv.org/abs/2408.07742v1)|null|
 |**2024-08-14**|**Gamma vectors as inverted Chebyshev expansions, type A to B transformations, and connections to algebraic structures**|Soohyun Park et.al.|[2408.07698v1](http://arxiv.org/abs/2408.07698v1)|null|
 |**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694v1](http://arxiv.org/abs/2408.07694v1)|null|
 |**2024-08-14**|**Detecting Near-Duplicate Face Images**|Sudipta Banerjee et.al.|[2408.07689v1](http://arxiv.org/abs/2408.07689v1)|**[link](https://github.com/sudban3089/detectingnear-duplicates)**|
@@ -21174,6 +21221,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Single-image coherent reconstruction of objects and humans**|Sarthak Batra et.al.|[2408.08086v1](http://arxiv.org/abs/2408.08086v1)|null|
 |**2024-08-12**|**Wavelet based inpainting detection**|Barglazan Adrian-Alin et.al.|[2408.06429v1](http://arxiv.org/abs/2408.06429v1)|null|
 |**2024-08-09**|**DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting**|Jihoon Lee et.al.|[2408.04962v1](http://arxiv.org/abs/2408.04962v1)|null|
 |**2024-08-07**|**SLRQA: A Sparse Low-Rank Quaternion Model for Color Image Processing with Convergence Analysis**|Zhanwang Deng et.al.|[2408.03563v1](http://arxiv.org/abs/2408.03563v1)|null|
