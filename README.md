@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -30,8 +30,8 @@
 |**2024-08-14**|**Deep-sub-cycle attosecond optical pulses**|Hongliang Dang et.al.|[2408.07306v1](http://arxiv.org/abs/2408.07306v1)|null|
 |**2024-08-13**|**Event-Stream Super Resolution using Sigma-Delta Neural Network**|Waseem Shariff et.al.|[2408.06968v1](http://arxiv.org/abs/2408.06968v1)|null|
 |**2024-08-12**|**Palantir: Towards Efficient Super Resolution for Ultra-high-definition Live Streaming**|Xinqi Jin et.al.|[2408.06152v1](http://arxiv.org/abs/2408.06152v1)|null|
-|**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145v1](http://arxiv.org/abs/2408.06145v1)|null|
-|**2024-08-11**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713v1](http://arxiv.org/abs/2408.05713v1)|null|
+|**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145v1](http://arxiv.org/abs/2408.06145v1)|**[link](https://github.com/johnromanelis/spvd)**|
+|**2024-08-11**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713v1](http://arxiv.org/abs/2408.05713v1)|**[link](https://github.com/chrisdud0257/ssl)**|
 |**2024-08-10**|**Content-decoupled Contrastive Learning-based Implicit Degradation Modeling for Blind Image Super-Resolution**|Jiang Yuan et.al.|[2408.05440v1](http://arxiv.org/abs/2408.05440v1)|null|
 |**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205v1](http://arxiv.org/abs/2408.05205v1)|null|
 |**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158v1](http://arxiv.org/abs/2408.04158v1)|null|
@@ -1236,7 +1236,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -1245,7 +1245,7 @@
 |**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516v2](http://arxiv.org/abs/2408.07516v2)|null|
 |**2024-08-14**|**GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution**|Yuzhen Li et.al.|[2408.07484v1](http://arxiv.org/abs/2408.07484v1)|**[link](https://github.com/sisrformer/grformer)**|
 |**2024-08-14**|**One Step Diffusion-based Super-Resolution with Time-Aware Distillation**|Xiao He et.al.|[2408.07476v1](http://arxiv.org/abs/2408.07476v1)|**[link](https://github.com/learninghx/tad-sr)**|
-|**2024-08-11**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713v1](http://arxiv.org/abs/2408.05713v1)|null|
+|**2024-08-11**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713v1](http://arxiv.org/abs/2408.05713v1)|**[link](https://github.com/chrisdud0257/ssl)**|
 |**2024-08-10**|**Content-decoupled Contrastive Learning-based Implicit Degradation Modeling for Blind Image Super-Resolution**|Jiang Yuan et.al.|[2408.05440v1](http://arxiv.org/abs/2408.05440v1)|null|
 |**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205v1](http://arxiv.org/abs/2408.05205v1)|null|
 |**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158v1](http://arxiv.org/abs/2408.04158v1)|null|
@@ -1678,7 +1678,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -1797,7 +1797,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -1816,7 +1816,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -1861,7 +1861,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 ## Transformer
 
@@ -1896,7 +1896,7 @@
 |**2024-08-15**|**Mamba Retriever: Utilizing Mamba for Effective and Efficient Dense Retrieval**|Hanqi Zhang et.al.|[2408.08066v1](http://arxiv.org/abs/2408.08066v1)|null|
 |**2024-08-15**|**Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework**|Changyu Du et.al.|[2408.08054v1](http://arxiv.org/abs/2408.08054v1)|null|
 |**2024-08-15**|**On the adelic Gaussian hypergeometric function**|Masanori Asakura et.al.|[2408.08012v1](http://arxiv.org/abs/2408.08012v1)|null|
-|**2024-08-15**|**Leveraging Web-Crawled Data for High-Quality Fine-Tuning**|Jing Zhou et.al.|[2408.08003v1](http://arxiv.org/abs/2408.08003v1)|null|
+|**2024-08-15**|**Leveraging Web-Crawled Data for High-Quality Fine-Tuning**|Jing Zhou et.al.|[2408.08003v1](http://arxiv.org/abs/2408.08003v1)|**[link](https://github.com/zhouj8553/Web_to_SFT)**|
 |**2024-08-15**|**Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement**|Wenxuan Li et.al.|[2408.07999v1](http://arxiv.org/abs/2408.07999v1)|null|
 |**2024-08-15**|**Efficiently grounding FOL using bit vectors**|Lucas Van Laer et.al.|[2408.07980v1](http://arxiv.org/abs/2408.07980v1)|null|
 |**2024-08-15**|**Using Symmetries to Investigate the Complete Integrability, Solitary Wave Solutions and Solitons of the Gardner Equation**|Willy Hereman et.al.|[2408.07973v1](http://arxiv.org/abs/2408.07973v1)|null|
@@ -21215,7 +21215,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -21224,7 +21224,7 @@
 |**2024-08-15**|**Single-image coherent reconstruction of objects and humans**|Sarthak Batra et.al.|[2408.08086v1](http://arxiv.org/abs/2408.08086v1)|null|
 |**2024-08-12**|**Wavelet based inpainting detection**|Barglazan Adrian-Alin et.al.|[2408.06429v1](http://arxiv.org/abs/2408.06429v1)|null|
 |**2024-08-09**|**DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting**|Jihoon Lee et.al.|[2408.04962v1](http://arxiv.org/abs/2408.04962v1)|null|
-|**2024-08-07**|**SLRQA: A Sparse Low-Rank Quaternion Model for Color Image Processing with Convergence Analysis**|Zhanwang Deng et.al.|[2408.03563v1](http://arxiv.org/abs/2408.03563v1)|null|
+|**2024-08-07**|**SLRQA: A Sparse Low-Rank Quaternion Model for Color Image Processing with Convergence Analysis**|Zhanwang Deng et.al.|[2408.03563v1](http://arxiv.org/abs/2408.03563v1)|**[link](https://github.com/dengzhanwang/slrqa)**|
 |**2024-08-05**|**Dense Feature Interaction Network for Image Inpainting Localization**|Ye Yao et.al.|[2408.02191v1](http://arxiv.org/abs/2408.02191v1)|null|
 |**2024-08-04**|**View-consistent Object Removal in Radiance Fields**|Yiren Lu et.al.|[2408.02100v1](http://arxiv.org/abs/2408.02100v1)|null|
 |**2024-07-27**|**Inverse Problems with Diffusion Models: A MAP Estimation Perspective**|Sai bharath chandra Gutha et.al.|[2407.20784v1](http://arxiv.org/abs/2407.20784v1)|null|
@@ -21457,7 +21457,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -21553,7 +21553,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
