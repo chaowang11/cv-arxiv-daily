@@ -23,6 +23,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v1](http://arxiv.org/abs/2408.08736v1)|null|
+|**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665v1](http://arxiv.org/abs/2408.08665v1)|null|
+|**2024-08-16**|**Reference-free Axial Super-resolution of 3D Microscopy Images using Implicit Neural Representation with a 2D Diffusion Prior**|Kyungryun Lee et.al.|[2408.08616v1](http://arxiv.org/abs/2408.08616v1)|**[link](https://github.com/hvcl/inr-diffusion)**|
+|**2024-08-16**|**Enhancing Events in Neutrino Telescopes through Deep Learning-Driven Super-Resolution**|Felix J. Yu et.al.|[2408.08474v1](http://arxiv.org/abs/2408.08474v1)|null|
+|**2024-08-15**|**SuperNANO: Enabling Nano-Scale Laser an-ti-counterfeiting Marking and Precision Cutting with Super-Resolution Imaging**|Yiduo Chen et.al.|[2408.08455v1](http://arxiv.org/abs/2408.08455v1)|null|
 |**2024-08-14**|**Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2408.07605v1](http://arxiv.org/abs/2408.07605v1)|null|
 |**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516v2](http://arxiv.org/abs/2408.07516v2)|null|
 |**2024-08-14**|**GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution**|Yuzhen Li et.al.|[2408.07484v1](http://arxiv.org/abs/2408.07484v1)|**[link](https://github.com/sisrformer/grformer)**|
@@ -1242,6 +1247,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v1](http://arxiv.org/abs/2408.08736v1)|null|
+|**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665v1](http://arxiv.org/abs/2408.08665v1)|null|
 |**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516v2](http://arxiv.org/abs/2408.07516v2)|null|
 |**2024-08-14**|**GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution**|Yuzhen Li et.al.|[2408.07484v1](http://arxiv.org/abs/2408.07484v1)|**[link](https://github.com/sisrformer/grformer)**|
 |**2024-08-14**|**One Step Diffusion-based Super-Resolution with Time-Aware Distillation**|Xiao He et.al.|[2408.07476v1](http://arxiv.org/abs/2408.07476v1)|**[link](https://github.com/learninghx/tad-sr)**|
@@ -1867,6 +1874,51 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms**|Yuhao Jia et.al.|[2408.08852v1](http://arxiv.org/abs/2408.08852v1)|null|
+|**2024-08-16**|**The Hierarchical Three-Body Problem at  $\mathcal{O} (G^2)$ **|Mikhail P. Solon et.al.|[2408.08850v1](http://arxiv.org/abs/2408.08850v1)|null|
+|**2024-08-16**|**Kinematics of degree-4 rigid origami vertices: Lorentz transformations, fold-angle multipliers, and rigid-foldable polygon**|Yucai Hu et.al.|[2408.08816v1](http://arxiv.org/abs/2408.08816v1)|null|
+|**2024-08-16**|**Multipolar Anisotropy in Anomalous Hall Effect from Spin-Group Symmetry Breaking**|Zheng Liu et.al.|[2408.08810v1](http://arxiv.org/abs/2408.08810v1)|null|
+|**2024-08-16**|**Leveraging FourierKAN Classification Head for Pre-Trained Transformer-based Text Classification**|Abdullah Al Imran et.al.|[2408.08803v1](http://arxiv.org/abs/2408.08803v1)|null|
+|**2024-08-16**|**PriorMapNet: Enhancing Online Vectorized HD Map Construction with Priors**|Rongxuan Wang et.al.|[2408.08802v1](http://arxiv.org/abs/2408.08802v1)|null|
+|**2024-08-16**|**Fabrication of Spin-1/2 Heisenberg Antiferromagnetic Chains via Combined On-surface Synthesis and Reduction for Spinon Detection**|Xuelei Su et.al.|[2408.08801v1](http://arxiv.org/abs/2408.08801v1)|null|
+|**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794v1](http://arxiv.org/abs/2408.08794v1)|null|
+|**2024-08-16**|**Backward-Compatible Aligned Representations via an Orthogonal Transformation Layer**|Simone Ricci et.al.|[2408.08793v1](http://arxiv.org/abs/2408.08793v1)|null|
+|**2024-08-16**|**SE-SGformer: A Self-Explainable Signed Graph Transformer for Link Sign Prediction**|Lu Li et.al.|[2408.08754v1](http://arxiv.org/abs/2408.08754v1)|null|
+|**2024-08-16**|**Accelerating Iteratively Linear Detectors in Multi-User (ELAA-)MIMO Systems with UW-SVD**|Jiuyu Liu et.al.|[2408.08746v1](http://arxiv.org/abs/2408.08746v1)|null|
+|**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v1](http://arxiv.org/abs/2408.08736v1)|null|
+|**2024-08-16**|**A Generalized Ramanujan Master Theorem and Integral Representation of Meromorphic Functions**|Zachary P. Bradshaw et.al.|[2408.08725v1](http://arxiv.org/abs/2408.08725v1)|null|
+|**2024-08-16**|**R-HLS: An IR for Dynamic High-Level Synthesis and Memory Disambiguation based on Regions and State Edges**|David Metz et.al.|[2408.08712v1](http://arxiv.org/abs/2408.08712v1)|null|
+|**2024-08-16**|**Multimodal Relational Triple Extraction with Query-based Entity Object Transformer**|Lei Hei et.al.|[2408.08709v1](http://arxiv.org/abs/2408.08709v1)|null|
+|**2024-08-16**|**HyCoT: Hyperspectral Compression Transformer with an Efficient Training Strategy**|Martin Hermann Paul Fuchs et.al.|[2408.08700v1](http://arxiv.org/abs/2408.08700v1)|null|
+|**2024-08-16**|**Quantifying the Effectiveness of Student Organization Activities using Natural Language Processing**|Lyberius Ennio F. Taruc et.al.|[2408.08694v1](http://arxiv.org/abs/2408.08694v1)|null|
+|**2024-08-16**|**Research on Personalized Compression Algorithm for Pre-trained Models Based on Homomorphic Entropy Increase**|Yicong Li et.al.|[2408.08684v1](http://arxiv.org/abs/2408.08684v1)|null|
+|**2024-08-16**|**MAT-SED: AMasked Audio Transformer with Masked-Reconstruction Based Pre-training for Sound Event Detection**|Pengfei Cai et.al.|[2408.08673v1](http://arxiv.org/abs/2408.08673v1)|null|
+|**2024-08-16**|**Adaptive Layer Selection for Efficient Vision Transformer Fine-Tuning**|Alessio Devoto et.al.|[2408.08670v1](http://arxiv.org/abs/2408.08670v1)|null|
+|**2024-08-16**|**HSDreport: Heart Sound Diagnosis with Echocardiography Reports**|Zihan Zhao et.al.|[2408.08669v1](http://arxiv.org/abs/2408.08669v1)|null|
+|**2024-08-16**|**An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation**|Peiming Guo et.al.|[2408.08650v1](http://arxiv.org/abs/2408.08650v1)|null|
+|**2024-08-16**|**MM-UNet: A Mixed MLP Architecture for Improved Ophthalmic Image Segmentation**|Zunjie Xiao et.al.|[2408.08600v1](http://arxiv.org/abs/2408.08600v1)|null|
+|**2024-08-16**|**RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**|Xiucheng Wang et.al.|[2408.08593v1](http://arxiv.org/abs/2408.08593v1)|**[link](https://github.com/unic-lab/radiodiff)**|
+|**2024-08-16**|**TAMER: Tree-Aware Transformer for Handwritten Mathematical Expression Recognition**|Jianhua Zhu et.al.|[2408.08578v1](http://arxiv.org/abs/2408.08578v1)|**[link](https://github.com/qingzhenduyu/tamer)**|
+|**2024-08-16**|**Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation**|Linghao Zheng et.al.|[2408.08576v1](http://arxiv.org/abs/2408.08576v1)|null|
+|**2024-08-16**|**Meta-creatures: Developing an omnipotent hydrogel cell to construct bio-inspired systems**|Hanqing Dai et.al.|[2408.08573v1](http://arxiv.org/abs/2408.08573v1)|null|
+|**2024-08-16**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554v1](http://arxiv.org/abs/2408.08554v1)|null|
+|**2024-08-16**|**Vulnerability Handling of AI-Generated Code -- Existing Solutions and Open Challenges**|Sabrina Kaniewski et.al.|[2408.08549v1](http://arxiv.org/abs/2408.08549v1)|null|
+|**2024-08-16**|**Where is the signal in tokenization space?**|Renato Lui Geh et.al.|[2408.08541v1](http://arxiv.org/abs/2408.08541v1)|null|
+|**2024-08-16**|**Privacy-Preserving Vision Transformer Using Images Encrypted with Restricted Random Permutation Matrices**|Kouki Horio et.al.|[2408.08529v1](http://arxiv.org/abs/2408.08529v1)|null|
+|**2024-08-16**|**DFT-Based Adversarial Attack Detection in MRI Brain Imaging: Enhancing Diagnostic Accuracy in Alzheimer's Case Studies**|Mohammad Hossein Najafi et.al.|[2408.08489v1](http://arxiv.org/abs/2408.08489v1)|null|
+|**2024-08-16**|**An Unsupervised Learning Framework Combined with Heuristics for the Maximum Minimal Cut Problem**|Huaiyuan Liu et.al.|[2408.08484v1](http://arxiv.org/abs/2408.08484v1)|**[link](https://github.com/luckyseasalt/pioneer)**|
+|**2024-08-16**|**Boundary Integral Methods for Particle Diffusion in Complex Geometries: Shielding, Confinement, and Escape**|Jesse Cherry et.al.|[2408.08468v1](http://arxiv.org/abs/2408.08468v1)|null|
+|**2024-08-16**|**Onsager-Machlup functional for stochastic lattice dynamical systems driven by time-varying noise**|Xinze Zhang et.al.|[2408.08465v1](http://arxiv.org/abs/2408.08465v1)|null|
+|**2024-08-16**|**TEXTOC: Text-driven Object-Centric Style Transfer**|Jihun Park et.al.|[2408.08461v1](http://arxiv.org/abs/2408.08461v1)|null|
+|**2024-08-15**|**Efficient Data-Sketches and Fine-Tuning for Early Detection of Distributional Drift in Medical Imaging**|Yusen Wu et.al.|[2408.08456v1](http://arxiv.org/abs/2408.08456v1)|null|
+|**2024-08-15**|**Beyond Uniform Query Distribution: Key-Driven Grouped Query Attention**|Zohaib Khan et.al.|[2408.08454v1](http://arxiv.org/abs/2408.08454v1)|null|
+|**2024-08-15**|**PQV-Mobile: A Combined Pruning and Quantization Toolkit to Optimize Vision Transformers for Mobile Applications**|Kshitij Bhardwaj et.al.|[2408.08437v1](http://arxiv.org/abs/2408.08437v1)|null|
+|**2024-08-15**|**Coriolis Forces Modify Magnetostatic Ponderomotive Potentials**|E. J. Kolmes et.al.|[2408.08434v1](http://arxiv.org/abs/2408.08434v1)|null|
+|**2024-08-15**|**Symmetry Transformations in Cosmological and Black Hole Analytical Solutions**|Edgar A. León et.al.|[2408.08426v1](http://arxiv.org/abs/2408.08426v1)|null|
+|**2024-08-15**|**An Efficient and Explainable Transformer-Based Few-Shot Learning for Modeling Electricity Consumption Profiles Across Thousands of Domains**|Weijie Xia et.al.|[2408.08399v1](http://arxiv.org/abs/2408.08399v1)|**[link](https://github.com/xiaweijie1996/transformerem-gmm)**|
+|**2024-08-15**|**CNUCTRAN: A program for computing final nuclide concentrations using a direct simulation approach**|K. A. Bala et.al.|[2408.08378v1](http://arxiv.org/abs/2408.08378v1)|null|
+|**2024-08-15**|**Decoding the human brain tissue response to radiofrequency excitation using a biophysical-model-free deep MRI on a chip framework**|Dinor Nagar et.al.|[2408.08376v1](http://arxiv.org/abs/2408.08376v1)|null|
+|**2024-08-15**|**De Sitter Bra-Ket Wormholes**|Alessandro Fumagalli et.al.|[2408.08351v1](http://arxiv.org/abs/2408.08351v1)|null|
 |**2024-08-15**|**A universal neutral-atom quantum computer with individual optical addressing and non-destructive readout**|A. G. Radnaev et.al.|[2408.08288v1](http://arxiv.org/abs/2408.08288v1)|null|
 |**2024-08-15**|**Accurate and efficient structure elucidation from routine one-dimensional NMR spectra using multitask machine learning**|Frank Hu et.al.|[2408.08284v1](http://arxiv.org/abs/2408.08284v1)|null|
 |**2024-08-15**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274v1](http://arxiv.org/abs/2408.08274v1)|null|
@@ -21232,7 +21284,7 @@
 |**2024-07-26**|**Topology Optimization of Random Memristors for Input-Aware Dynamic SNN**|Bo Wang et.al.|[2407.18625v1](http://arxiv.org/abs/2407.18625v1)|null|
 |**2024-07-24**|**Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model**|Lirui Zhao et.al.|[2407.16982v1](http://arxiv.org/abs/2407.16982v1)|**[link](https://github.com/OpenGVLab/Diffree)**|
 |**2024-07-23**|**CLII: Visual-Text Inpainting via Cross-Modal Predictive Interaction**|Liang Zhao et.al.|[2407.16204v1](http://arxiv.org/abs/2407.16204v1)|null|
-|**2024-08-15**|**MxT: Mamba x Transformer for Image Inpainting**|Shuang Chen et.al.|[2407.16126v3](http://arxiv.org/abs/2407.16126v3)|null|
+|**2024-08-15**|**MxT: Mamba x Transformer for Image Inpainting**|Shuang Chen et.al.|[2407.16126v3](http://arxiv.org/abs/2407.16126v3)|**[link](https://github.com/chrischen1023/mxt)**|
 |**2024-07-18**|**Image Inpainting Models are Effective Tools for Instruction-guided Image Editing**|Xuan Ju et.al.|[2407.13139v1](http://arxiv.org/abs/2407.13139v1)|null|
 |**2024-07-17**|**I2AM: Interpreting Image-to-Image Latent Diffusion Models via Attribution Maps**|Junseo Park et.al.|[2407.12331v1](http://arxiv.org/abs/2407.12331v1)|null|
 |**2024-07-15**|**IE-NeRF: Inpainting Enhanced Neural Radiance Fields in the Wild**|Shuaixian Wang et.al.|[2407.10695v1](http://arxiv.org/abs/2407.10695v1)|null|
