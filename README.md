@@ -36,7 +36,7 @@
 |**2024-08-13**|**Event-Stream Super Resolution using Sigma-Delta Neural Network**|Waseem Shariff et.al.|[2408.06968v1](http://arxiv.org/abs/2408.06968v1)|null|
 |**2024-08-12**|**Palantir: Towards Efficient Super Resolution for Ultra-high-definition Live Streaming**|Xinqi Jin et.al.|[2408.06152v1](http://arxiv.org/abs/2408.06152v1)|null|
 |**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145v1](http://arxiv.org/abs/2408.06145v1)|**[link](https://github.com/johnromanelis/spvd)**|
-|**2024-08-11**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713v1](http://arxiv.org/abs/2408.05713v1)|**[link](https://github.com/chrisdud0257/ssl)**|
+|**2024-08-19**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713v2](http://arxiv.org/abs/2408.05713v2)|**[link](https://github.com/chrisdud0257/ssl)**|
 |**2024-08-10**|**Content-decoupled Contrastive Learning-based Implicit Degradation Modeling for Blind Image Super-Resolution**|Jiang Yuan et.al.|[2408.05440v1](http://arxiv.org/abs/2408.05440v1)|null|
 |**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205v1](http://arxiv.org/abs/2408.05205v1)|null|
 |**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158v1](http://arxiv.org/abs/2408.04158v1)|null|
@@ -1252,7 +1252,7 @@
 |**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516v2](http://arxiv.org/abs/2408.07516v2)|null|
 |**2024-08-14**|**GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution**|Yuzhen Li et.al.|[2408.07484v1](http://arxiv.org/abs/2408.07484v1)|**[link](https://github.com/sisrformer/grformer)**|
 |**2024-08-14**|**One Step Diffusion-based Super-Resolution with Time-Aware Distillation**|Xiao He et.al.|[2408.07476v1](http://arxiv.org/abs/2408.07476v1)|**[link](https://github.com/learninghx/tad-sr)**|
-|**2024-08-11**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713v1](http://arxiv.org/abs/2408.05713v1)|**[link](https://github.com/chrisdud0257/ssl)**|
+|**2024-08-19**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713v2](http://arxiv.org/abs/2408.05713v2)|**[link](https://github.com/chrisdud0257/ssl)**|
 |**2024-08-10**|**Content-decoupled Contrastive Learning-based Implicit Degradation Modeling for Blind Image Super-Resolution**|Jiang Yuan et.al.|[2408.05440v1](http://arxiv.org/abs/2408.05440v1)|null|
 |**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205v1](http://arxiv.org/abs/2408.05205v1)|null|
 |**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158v1](http://arxiv.org/abs/2408.04158v1)|null|
@@ -1892,7 +1892,7 @@
 |**2024-08-16**|**HyCoT: Hyperspectral Compression Transformer with an Efficient Training Strategy**|Martin Hermann Paul Fuchs et.al.|[2408.08700v1](http://arxiv.org/abs/2408.08700v1)|null|
 |**2024-08-16**|**Quantifying the Effectiveness of Student Organization Activities using Natural Language Processing**|Lyberius Ennio F. Taruc et.al.|[2408.08694v1](http://arxiv.org/abs/2408.08694v1)|null|
 |**2024-08-16**|**Research on Personalized Compression Algorithm for Pre-trained Models Based on Homomorphic Entropy Increase**|Yicong Li et.al.|[2408.08684v1](http://arxiv.org/abs/2408.08684v1)|null|
-|**2024-08-16**|**MAT-SED: AMasked Audio Transformer with Masked-Reconstruction Based Pre-training for Sound Event Detection**|Pengfei Cai et.al.|[2408.08673v1](http://arxiv.org/abs/2408.08673v1)|null|
+|**2024-08-19**|**MAT-SED: A Masked Audio Transformer with Masked-Reconstruction Based Pre-training for Sound Event Detection**|Pengfei Cai et.al.|[2408.08673v2](http://arxiv.org/abs/2408.08673v2)|null|
 |**2024-08-16**|**Adaptive Layer Selection for Efficient Vision Transformer Fine-Tuning**|Alessio Devoto et.al.|[2408.08670v1](http://arxiv.org/abs/2408.08670v1)|null|
 |**2024-08-16**|**HSDreport: Heart Sound Diagnosis with Echocardiography Reports**|Zihan Zhao et.al.|[2408.08669v1](http://arxiv.org/abs/2408.08669v1)|null|
 |**2024-08-16**|**An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation**|Peiming Guo et.al.|[2408.08650v1](http://arxiv.org/abs/2408.08650v1)|null|
@@ -1917,7 +1917,7 @@
 |**2024-08-15**|**Symmetry Transformations in Cosmological and Black Hole Analytical Solutions**|Edgar A. León et.al.|[2408.08426v1](http://arxiv.org/abs/2408.08426v1)|null|
 |**2024-08-15**|**An Efficient and Explainable Transformer-Based Few-Shot Learning for Modeling Electricity Consumption Profiles Across Thousands of Domains**|Weijie Xia et.al.|[2408.08399v1](http://arxiv.org/abs/2408.08399v1)|**[link](https://github.com/xiaweijie1996/transformerem-gmm)**|
 |**2024-08-15**|**CNUCTRAN: A program for computing final nuclide concentrations using a direct simulation approach**|K. A. Bala et.al.|[2408.08378v1](http://arxiv.org/abs/2408.08378v1)|null|
-|**2024-08-15**|**Decoding the human brain tissue response to radiofrequency excitation using a biophysical-model-free deep MRI on a chip framework**|Dinor Nagar et.al.|[2408.08376v1](http://arxiv.org/abs/2408.08376v1)|null|
+|**2024-08-19**|**Decoding the human brain tissue response to radiofrequency excitation using a biophysical-model-free deep MRI on a chip framework**|Dinor Nagar et.al.|[2408.08376v2](http://arxiv.org/abs/2408.08376v2)|null|
 |**2024-08-15**|**De Sitter Bra-Ket Wormholes**|Alessandro Fumagalli et.al.|[2408.08351v1](http://arxiv.org/abs/2408.08351v1)|null|
 |**2024-08-15**|**A universal neutral-atom quantum computer with individual optical addressing and non-destructive readout**|A. G. Radnaev et.al.|[2408.08288v1](http://arxiv.org/abs/2408.08288v1)|null|
 |**2024-08-15**|**Accurate and efficient structure elucidation from routine one-dimensional NMR spectra using multitask machine learning**|Frank Hu et.al.|[2408.08284v1](http://arxiv.org/abs/2408.08284v1)|null|
