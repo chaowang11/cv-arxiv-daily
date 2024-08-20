@@ -23,6 +23,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|null|
+|**2024-08-19**|**Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration**|Alik Pramanick et.al.|[2408.09912v1](http://arxiv.org/abs/2408.09912v1)|**[link](https://github.com/alik033/lit-net)**|
+|**2024-08-19**|**Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space**|Ruikun Li et.al.|[2408.09845v1](http://arxiv.org/abs/2408.09845v1)|null|
+|**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674v1](http://arxiv.org/abs/2408.09674v1)|**[link](https://github.com/dslisleedh/IGConv)**|
+|**2024-08-18**|**Angle of Arrival Estimation with Transformer: A Sparse and Gridless Method with Zero-Shot Capability**|Zhaoxuan Zhu et.al.|[2408.09362v1](http://arxiv.org/abs/2408.09362v1)|null|
+|**2024-08-17**|**Discovery of Limb-Brightening in the Parsec-Scale Jet of NGC 315 through Global VLBI Observations and Its Implications for Jet Models**|Jongho Park et.al.|[2408.09069v1](http://arxiv.org/abs/2408.09069v1)|null|
+|**2024-08-16**|**AI-assisted super-resolution cosmological simulations IV: An emulator for deterministic realizations**|Xiaowen Zhang et.al.|[2408.09051v1](http://arxiv.org/abs/2408.09051v1)|null|
 |**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v1](http://arxiv.org/abs/2408.08736v1)|null|
 |**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665v1](http://arxiv.org/abs/2408.08665v1)|null|
 |**2024-08-16**|**Reference-free Axial Super-resolution of 3D Microscopy Images using Implicit Neural Representation with a 2D Diffusion Prior**|Kyungryun Lee et.al.|[2408.08616v1](http://arxiv.org/abs/2408.08616v1)|**[link](https://github.com/hvcl/inr-diffusion)**|
@@ -1247,6 +1254,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|null|
+|**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674v1](http://arxiv.org/abs/2408.09674v1)|**[link](https://github.com/dslisleedh/IGConv)**|
 |**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v1](http://arxiv.org/abs/2408.08736v1)|null|
 |**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665v1](http://arxiv.org/abs/2408.08665v1)|null|
 |**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516v2](http://arxiv.org/abs/2408.07516v2)|null|
@@ -1874,6 +1883,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model**|Minghua Liu et.al.|[2408.10198v1](http://arxiv.org/abs/2408.10198v1)|null|
+|**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197v1](http://arxiv.org/abs/2408.10197v1)|null|
+|**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189v1](http://arxiv.org/abs/2408.10189v1)|null|
+|**2024-08-19**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188v1](http://arxiv.org/abs/2408.10188v1)|**[link](https://github.com/nvlabs/vila)**|
+|**2024-08-19**|**NeuRodin: A Two-stage Framework for High-Fidelity Neural Surface Reconstruction**|Yifan Wang et.al.|[2408.10178v1](http://arxiv.org/abs/2408.10178v1)|null|
+|**2024-08-19**|**Perfectly Undetectable Reflection and Scaling False Data Injection Attacks via Affine Transformation on Mobile Robot Trajectory Tracking Control**|Jun Ueda et.al.|[2408.10177v1](http://arxiv.org/abs/2408.10177v1)|null|
+|**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147v1](http://arxiv.org/abs/2408.10147v1)|null|
+|**2024-08-19**|**Multi-Scale Representation Learning for Image Restoration with State-Space Model**|Yuhong He et.al.|[2408.10145v1](http://arxiv.org/abs/2408.10145v1)|null|
+|**2024-08-19**|**Robust spectral clustering with rank statistics**|Joshua Cape et.al.|[2408.10136v1](http://arxiv.org/abs/2408.10136v1)|null|
+|**2024-08-19**|**Learning Brave Assumption-Based Argumentation Frameworks via ASP**|Emanuele De Angelis et.al.|[2408.10126v1](http://arxiv.org/abs/2408.10126v1)|null|
+|**2024-08-19**|**Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track**|Feiyu Pan et.al.|[2408.10125v1](http://arxiv.org/abs/2408.10125v1)|null|
+|**2024-08-19**|**Learning Precise Affordances from Egocentric Videos for Robotic Manipulation**|Gen Li et.al.|[2408.10123v1](http://arxiv.org/abs/2408.10123v1)|null|
+|**2024-08-19**|**PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities**|Yuanjian Xu et.al.|[2408.10111v1](http://arxiv.org/abs/2408.10111v1)|null|
+|**2024-08-19**|**Recent Surge in Public Interest in Transportation: Sentiment Analysis of Baidu Apollo Go Using Weibo Data**|Shiqi Wang et.al.|[2408.10088v1](http://arxiv.org/abs/2408.10088v1)|null|
+|**2024-08-19**|**Analysis of The Limiting Spectral Distribution of Large Random Matrices of The Marčenko-Pastur Type**|Haoran Li et.al.|[2408.10068v1](http://arxiv.org/abs/2408.10068v1)|null|
+|**2024-08-19**|**Towards a Benchmark for Colorectal Cancer Segmentation in Endorectal Ultrasound Videos: Dataset and Model Development**|Yuncheng Jiang et.al.|[2408.10067v1](http://arxiv.org/abs/2408.10067v1)|null|
+|**2024-08-19**|**Comparison of renormalized interactions using one-dimensional few-body systems as a testbed**|Fabian Brauneis et.al.|[2408.10052v1](http://arxiv.org/abs/2408.10052v1)|null|
+|**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037v1](http://arxiv.org/abs/2408.10037v1)|null|
+|**2024-08-19**|**Efficient Inference of Sub-Item Id-based Sequential Recommendation Models with Millions of Items**|Aleksandr V. Petrov et.al.|[2408.09992v1](http://arxiv.org/abs/2408.09992v1)|null|
+|**2024-08-19**|**Multipole quantum droplets in quasi-one-dimensional asymmetric mixtures**|Yaroslav V. Kartashov et.al.|[2408.09979v1](http://arxiv.org/abs/2408.09979v1)|null|
+|**2024-08-19**|**Directional Stockwell transform of distributions**|Astrit Ferizi et.al.|[2408.09973v1](http://arxiv.org/abs/2408.09973v1)|null|
+|**2024-08-19**|**AdaResNet: Enhancing Residual Networks with Dynamic Weight Adjustment for Improved Feature Integration**|Hong Su et.al.|[2408.09958v1](http://arxiv.org/abs/2408.09958v1)|null|
+|**2024-08-19**|**Fiber Transmission Model with Parameterized Inputs based on GPT-PINN Neural Network**|Yubin Zang et.al.|[2408.09947v1](http://arxiv.org/abs/2408.09947v1)|null|
+|**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|null|
+|**2024-08-19**|**Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation**|Qianhui Men et.al.|[2408.09931v1](http://arxiv.org/abs/2408.09931v1)|null|
+|**2024-08-19**|**Early Validation of High-level System Requirements with Event Calculus and Answer Set Programming**|Ondřej Vašíček et.al.|[2408.09909v1](http://arxiv.org/abs/2408.09909v1)|null|
+|**2024-08-19**|**Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model**|Yuran Xiang et.al.|[2408.09896v1](http://arxiv.org/abs/2408.09896v1)|**[link](https://github.com/ran1812/utgdiff)**|
+|**2024-08-19**|**Towards a Field Based Bayesian Evidence Inference from Nested Sampling Data**|Margret Westerkamp et.al.|[2408.09889v1](http://arxiv.org/abs/2408.09889v1)|null|
+|**2024-08-19**|**SAM-UNet:Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images**|Sihan Yang et.al.|[2408.09886v1](http://arxiv.org/abs/2408.09886v1)|**[link](https://github.com/hhankyangg/sam-unet)**|
+|**2024-08-19**|**OccMamba: Semantic Occupancy Prediction with State Space Models**|Heng Li et.al.|[2408.09859v1](http://arxiv.org/abs/2408.09859v1)|null|
+|**2024-08-19**|**ShortCircuit: AlphaZero-Driven Circuit Design**|Dimitrios Tsaras et.al.|[2408.09858v1](http://arxiv.org/abs/2408.09858v1)|null|
+|**2024-08-19**|**Joint Beamforming and Power Control for D2D-Assisted Integrated Sensing and Communication Networks**|Zhenyu Xue et.al.|[2408.09844v1](http://arxiv.org/abs/2408.09844v1)|null|
+|**2024-08-19**|**Effects of the Plan Vélo I and II on vehicular flow in Paris -- An Empirical Analysis**|Elena Natterer et.al.|[2408.09836v1](http://arxiv.org/abs/2408.09836v1)|null|
+|**2024-08-19**|**A Population-to-individual Tuning Framework for Adapting Pretrained LM to On-device User Intent Prediction**|Jiahui Gong et.al.|[2408.09815v1](http://arxiv.org/abs/2408.09815v1)|null|
+|**2024-08-19**|**Unveiling the Mechanism of Phonon-Polariton Damping in α-MoO_3**|Javier Taboada-Gutiérrez et.al.|[2408.09811v1](http://arxiv.org/abs/2408.09811v1)|null|
+|**2024-08-19**|**Enhance Modality Robustness in Text-Centric Multimodal Alignment with Adversarial Prompting**|Yun-Da Tsai et.al.|[2408.09798v1](http://arxiv.org/abs/2408.09798v1)|null|
+|**2024-08-19**|**Propagating the prior from shallow to deep with a pre-trained velocity-model Generative Transformer network**|Randy Harsuko et.al.|[2408.09767v1](http://arxiv.org/abs/2408.09767v1)|null|
+|**2024-08-19**|**R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation**|Xiao Wang et.al.|[2408.09743v1](http://arxiv.org/abs/2408.09743v1)|**[link](https://github.com/event-ahu/medical_image_analysis)**|
+|**2024-08-19**|**Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models**|Cong Fu et.al.|[2408.09730v1](http://arxiv.org/abs/2408.09730v1)|null|
+|**2024-08-19**|**sTransformer: A Modular Approach for Extracting Inter-Sequential and Temporal Information for Time-Series Forecasting**|Jiaheng Yin et.al.|[2408.09723v1](http://arxiv.org/abs/2408.09723v1)|null|
+|**2024-08-19**|**Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework**|Jiandong Jin et.al.|[2408.09720v1](http://arxiv.org/abs/2408.09720v1)|**[link](https://github.com/event-ahu/openpar)**|
+|**2024-08-19**|**Carbon Footprint Accounting Driven by Large Language Models and Retrieval-augmented Generation**|Haijin Wang et.al.|[2408.09713v1](http://arxiv.org/abs/2408.09713v1)|null|
+|**2024-08-19**|**Partial-Multivariate Model for Forecasting**|Jaehoon Lee et.al.|[2408.09703v1](http://arxiv.org/abs/2408.09703v1)|null|
+|**2024-08-19**|**LightWeather: Harnessing Absolute Positional Encoding to Efficient and Scalable Global Weather Forecasting**|Yisong Fu et.al.|[2408.09695v1](http://arxiv.org/abs/2408.09695v1)|null|
+|**2024-08-19**|**TESL-Net: A Transformer-Enhanced CNN for Accurate Skin Lesion Segmentation**|Shahzaib Iqbal et.al.|[2408.09687v1](http://arxiv.org/abs/2408.09687v1)|null|
+|**2024-08-19**|**Algorithmic Contract Design with Reinforcement Learning Agents**|David Molina Concha et.al.|[2408.09686v1](http://arxiv.org/abs/2408.09686v1)|null|
+|**2024-08-19**|**BLADE: Benchmarking Language Model Agents for Data-Driven Science**|Ken Gu et.al.|[2408.09667v1](http://arxiv.org/abs/2408.09667v1)|null|
+|**2024-08-19**|**Enhanced Barrier-Smoothing Technique for Bilevel Optimization with Nonsmooth Mappings**|Mengwei Xu et.al.|[2408.09661v1](http://arxiv.org/abs/2408.09661v1)|null|
+|**2024-08-19**|**ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement**|Eashan Adhikarla et.al.|[2408.09650v1](http://arxiv.org/abs/2408.09650v1)|**[link](https://github.com/eashanadhikarla/expomamba)**|
+|**2024-08-19**|**Deep Learning-based Machine Condition Diagnosis using Short-time Fourier Transformation Variants**|Eduardo Jr Piedad et.al.|[2408.09649v1](http://arxiv.org/abs/2408.09649v1)|null|
 |**2024-08-16**|**GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms**|Yuhao Jia et.al.|[2408.08852v1](http://arxiv.org/abs/2408.08852v1)|null|
 |**2024-08-16**|**The Hierarchical Three-Body Problem at  $\mathcal{O} (G^2)$ **|Mikhail P. Solon et.al.|[2408.08850v1](http://arxiv.org/abs/2408.08850v1)|null|
 |**2024-08-16**|**Kinematics of degree-4 rigid origami vertices: Lorentz transformations, fold-angle multipliers, and rigid-foldable polygon**|Yucai Hu et.al.|[2408.08816v1](http://arxiv.org/abs/2408.08816v1)|null|
@@ -21273,6 +21332,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Fire Dynamic Vision: Image Segmentation and Tracking for Multi-Scale Fire and Plume Behavior**|Daryn Sagel et.al.|[2408.08984v1](http://arxiv.org/abs/2408.08984v1)|null|
 |**2024-08-15**|**Single-image coherent reconstruction of objects and humans**|Sarthak Batra et.al.|[2408.08086v1](http://arxiv.org/abs/2408.08086v1)|null|
 |**2024-08-12**|**Wavelet based inpainting detection**|Barglazan Adrian-Alin et.al.|[2408.06429v1](http://arxiv.org/abs/2408.06429v1)|null|
 |**2024-08-09**|**DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting**|Jihoon Lee et.al.|[2408.04962v1](http://arxiv.org/abs/2408.04962v1)|null|
