@@ -23,13 +23,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**A Unified Plug-and-Play Algorithm with Projected Landweber Operator for Split Convex Feasibility Problems**|Shuchang Zhang et.al.|[2408.12100v1](http://arxiv.org/abs/2408.12100v1)|null|
 |**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|null|
 |**2024-08-21**|**Quantum super-resolution microscopy by photon statistics and structured light**|Fabio Picariello et.al.|[2408.11654v1](http://arxiv.org/abs/2408.11654v1)|null|
+|**2024-08-22**|**Phase-Based Approaches for Rapid Construction of Magnetic Fields in NV Magnetometry**|Prabhat Anand et.al.|[2408.11069v2](http://arxiv.org/abs/2408.11069v2)|null|
 |**2024-08-20**|**MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling**|Zili Liu et.al.|[2408.10854v1](http://arxiv.org/abs/2408.10854v1)|null|
 |**2024-08-19**|**Webcam-based Pupil Diameter Prediction Benefits from Upscaling**|Vijul Shah et.al.|[2408.10397v1](http://arxiv.org/abs/2408.10397v1)|null|
-|**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|null|
+|**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|**[link](https://github.com/alik033/ml-craist)**|
 |**2024-08-19**|**Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration**|Alik Pramanick et.al.|[2408.09912v1](http://arxiv.org/abs/2408.09912v1)|**[link](https://github.com/alik033/lit-net)**|
-|**2024-08-19**|**Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space**|Ruikun Li et.al.|[2408.09845v1](http://arxiv.org/abs/2408.09845v1)|null|
+|**2024-08-19**|**Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space**|Ruikun Li et.al.|[2408.09845v1](http://arxiv.org/abs/2408.09845v1)|**[link](https://github.com/tsinghua-fib-lab/disknet)**|
 |**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674v1](http://arxiv.org/abs/2408.09674v1)|**[link](https://github.com/dslisleedh/IGConv)**|
 |**2024-08-18**|**Angle of Arrival Estimation with Transformer: A Sparse and Gridless Method with Zero-Shot Capability**|Zhaoxuan Zhu et.al.|[2408.09362v1](http://arxiv.org/abs/2408.09362v1)|null|
 |**2024-08-17**|**Discovery of Limb-Brightening in the Parsec-Scale Jet of NGC 315 through Global VLBI Observations and Its Implications for Jet Models**|Jongho Park et.al.|[2408.09069v1](http://arxiv.org/abs/2408.09069v1)|null|
@@ -45,7 +47,7 @@
 |**2024-08-14**|**One Step Diffusion-based Super-Resolution with Time-Aware Distillation**|Xiao He et.al.|[2408.07476v1](http://arxiv.org/abs/2408.07476v1)|**[link](https://github.com/learninghx/tad-sr)**|
 |**2024-08-17**|**Deep-sub-cycle attosecond optical pulses**|Hongliang Dang et.al.|[2408.07306v2](http://arxiv.org/abs/2408.07306v2)|null|
 |**2024-08-13**|**Event-Stream Super Resolution using Sigma-Delta Neural Network**|Waseem Shariff et.al.|[2408.06968v1](http://arxiv.org/abs/2408.06968v1)|null|
-|**2024-08-12**|**Palantir: Towards Efficient Super Resolution for Ultra-high-definition Live Streaming**|Xinqi Jin et.al.|[2408.06152v1](http://arxiv.org/abs/2408.06152v1)|null|
+|**2024-08-12**|**Palantir: Towards Efficient Super Resolution for Ultra-high-definition Live Streaming**|Xinqi Jin et.al.|[2408.06152v1](http://arxiv.org/abs/2408.06152v1)|**[link](https://github.com/Palantir-SR/palantir)**|
 |**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145v1](http://arxiv.org/abs/2408.06145v1)|**[link](https://github.com/johnromanelis/spvd)**|
 |**2024-08-19**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713v2](http://arxiv.org/abs/2408.05713v2)|**[link](https://github.com/chrisdud0257/ssl)**|
 |**2024-08-10**|**Content-decoupled Contrastive Learning-based Implicit Degradation Modeling for Blind Image Super-Resolution**|Jiang Yuan et.al.|[2408.05440v1](http://arxiv.org/abs/2408.05440v1)|null|
@@ -1259,7 +1261,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|null|
-|**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|null|
+|**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|**[link](https://github.com/alik033/ml-craist)**|
 |**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674v1](http://arxiv.org/abs/2408.09674v1)|**[link](https://github.com/dslisleedh/IGConv)**|
 |**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v1](http://arxiv.org/abs/2408.08736v1)|null|
 |**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665v1](http://arxiv.org/abs/2408.08665v1)|null|
@@ -1889,6 +1891,55 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590v1](http://arxiv.org/abs/2408.12590v1)|null|
+|**2024-08-22**|**A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language**|Ekdeep Singh Lubana et.al.|[2408.12578v1](http://arxiv.org/abs/2408.12578v1)|**[link](https://github.com/ekdeepslubana/conceptpercolation)**|
+|**2024-08-22**|**Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers**|Antonyo Musabini et.al.|[2408.12575v1](http://arxiv.org/abs/2408.12575v1)|null|
+|**2024-08-22**|**Jamba-1.5: Hybrid Transformer-Mamba Models at Scale**|Jamba Team et.al.|[2408.12570v1](http://arxiv.org/abs/2408.12570v1)|null|
+|**2024-08-22**|**Pruning By Explaining Revisited: Optimizing Attribution Methods to Prune CNNs and Transformers**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2408.12568v1](http://arxiv.org/abs/2408.12568v1)|null|
+|**2024-08-22**|**Detecting random bifurcations via rigorous enclosures of large deviations rate functions**|Alexandra Blessing et.al.|[2408.12556v1](http://arxiv.org/abs/2408.12556v1)|null|
+|**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528v1](http://arxiv.org/abs/2408.12528v1)|**[link](https://github.com/showlab/show-o)**|
+|**2024-08-22**|**Integrated Hardware and Software Architecture for Industrial AGV with Manual Override Capability**|Pietro Iob et.al.|[2408.12499v1](http://arxiv.org/abs/2408.12499v1)|null|
+|**2024-08-22**|**Predicting Solar Energy Generation with Machine Learning based on AQI and Weather Features**|Arjun Shah et.al.|[2408.12476v1](http://arxiv.org/abs/2408.12476v1)|null|
+|**2024-08-22**|**A novel method to indirectly reconstruct neutrinos in collider experiments**|Hongrong Qi et.al.|[2408.12472v1](http://arxiv.org/abs/2408.12472v1)|null|
+|**2024-08-22**|**Relaxed Rotational Equivariance via  $G$ -Biases in Vision**|Zhiqiang Wu et.al.|[2408.12454v1](http://arxiv.org/abs/2408.12454v1)|null|
+|**2024-08-22**|**Enhanced Infield Agriculture with Interpretable Machine Learning Approaches for Crop Classification**|Sudi Murindanyi et.al.|[2408.12426v1](http://arxiv.org/abs/2408.12426v1)|null|
+|**2024-08-22**|**An Evaluation of Deep Learning Models for Stock Market Trend Prediction**|Gonzalo Lopez Gil et.al.|[2408.12408v1](http://arxiv.org/abs/2408.12408v1)|null|
+|**2024-08-22**|**Multi-Style Facial Sketch Synthesis through Masked Generative Modeling**|Bowen Sun et.al.|[2408.12400v1](http://arxiv.org/abs/2408.12400v1)|null|
+|**2024-08-22**|**Bihamiltonian structure of the DR hierarchy in the semisimple case**|Alexandr Buryak et.al.|[2408.12397v1](http://arxiv.org/abs/2408.12397v1)|null|
+|**2024-08-22**|**UMERegRobust -- Universal Manifold Embedding Compatible Features for Robust Point Cloud Registration**|Yuval Haitman et.al.|[2408.12380v1](http://arxiv.org/abs/2408.12380v1)|**[link](https://github.com/yuvalh9/umeregrobust)**|
+|**2024-08-22**|**From strange-quark tagging to fragmentation tagging with machine learning**|Yevgeny Kats et.al.|[2408.12377v1](http://arxiv.org/abs/2408.12377v1)|null|
+|**2024-08-22**|**Unraveling the Atomic-Scale Pathways Driving Pressure-Induced Phase Transitions in Silicon**|Fabrizio Rovaris et.al.|[2408.12358v1](http://arxiv.org/abs/2408.12358v1)|null|
+|**2024-08-22**|**Interacting dark sector from Horndeski theories and beyond: Mapping fields and fluids**|Pulkit Bansal et.al.|[2408.12341v1](http://arxiv.org/abs/2408.12341v1)|null|
+|**2024-08-22**|**Analysis of linear elliptic equations with general drifts and  $L^1$ -zero-order terms**|Haesung Lee et.al.|[2408.12295v1](http://arxiv.org/abs/2408.12295v1)|null|
+|**2024-08-22**|**AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network**|Donghwa Kang et.al.|[2408.12293v1](http://arxiv.org/abs/2408.12293v1)|null|
+|**2024-08-22**|**Demystifying Functional Random Forests: Novel Explainability Tools for Model Transparency in High-Dimensional Spaces**|Fabrizio Maturo et.al.|[2408.12288v1](http://arxiv.org/abs/2408.12288v1)|null|
+|**2024-08-22**|**Quantum Phase Transitions in 2D--dimensional paramagnetic half--filled Hubbard model**|N. I. Chashchin et.al.|[2408.12284v1](http://arxiv.org/abs/2408.12284v1)|null|
+|**2024-08-22**|**On the convergence of higher order finite element methods for nonlinear magnetostatics**|Herbert Egger et.al.|[2408.12283v1](http://arxiv.org/abs/2408.12283v1)|null|
+|**2024-08-22**|**Classifying Entanglement by Algebraic Geometry**|Masoud Gharahi et.al.|[2408.12265v1](http://arxiv.org/abs/2408.12265v1)|null|
+|**2024-08-22**|**Fixed Points and Cycles of the Kaprekar Transformation: 2. Even bases**|Anthony Kay et.al.|[2408.12257v1](http://arxiv.org/abs/2408.12257v1)|null|
+|**2024-08-22**|**Synesthesia of Machines (SoM)-Enhanced Wideband Multi-User CSI Learning**|Haotian Zhang et.al.|[2408.12252v1](http://arxiv.org/abs/2408.12252v1)|null|
+|**2024-08-22**|**Scalable Autoregressive Image Generation with Mamba**|Haopeng Li et.al.|[2408.12245v1](http://arxiv.org/abs/2408.12245v1)|**[link](https://github.com/hp-l33/aim)**|
+|**2024-08-22**|**MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**|Yanzeng Li et.al.|[2408.12236v1](http://arxiv.org/abs/2408.12236v1)|null|
+|**2024-08-22**|**Reconfigurable Intelligent Surfaces as Spatial Filters**|Sotiris Droulias et.al.|[2408.12205v1](http://arxiv.org/abs/2408.12205v1)|null|
+|**2024-08-22**|**A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model**|Shuo Yang et.al.|[2408.12190v1](http://arxiv.org/abs/2408.12190v1)|null|
+|**2024-08-22**|**Transformers are Minimax Optimal Nonparametric In-Context Learners**|Juno Kim et.al.|[2408.12186v1](http://arxiv.org/abs/2408.12186v1)|null|
+|**2024-08-22**|**Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**|Haixin Wang et.al.|[2408.12171v1](http://arxiv.org/abs/2408.12171v1)|null|
+|**2024-08-22**|**DeepHQ: Learned Hierarchical Quantizer for Progressive Deep Image Coding**|Jooyoung Lee et.al.|[2408.12150v1](http://arxiv.org/abs/2408.12150v1)|null|
+|**2024-08-22**|**Generative Artificial Intelligence and Human Learning**|Lixiang Yan et.al.|[2408.12143v1](http://arxiv.org/abs/2408.12143v1)|null|
+|**2024-08-22**|**Deep Analysis of Time Series Data for Smart Grid Startup Strategies: A Transformer-LSTM-PSO Model Approach**|Zecheng Zhang et.al.|[2408.12129v1](http://arxiv.org/abs/2408.12129v1)|null|
+|**2024-08-22**|**Diffusion-Based Visual Art Creation: A Survey and New Perspectives**|Bingyuan Wang et.al.|[2408.12128v1](http://arxiv.org/abs/2408.12128v1)|null|
+|**2024-08-22**|**On certain classes of mild solutions of the scalar Liénard equation revised**|Pham Truong Xuan et.al.|[2408.12094v1](http://arxiv.org/abs/2408.12094v1)|null|
+|**2024-08-22**|**LLM-enhanced Scene Graph Learning for Household Rearrangement**|Wenhao Li et.al.|[2408.12093v1](http://arxiv.org/abs/2408.12093v1)|null|
+|**2024-08-22**|**Exploring the Feasibility of Automated Data Standardization using Large Language Models for Seamless Positioning**|Max J. L. Lee et.al.|[2408.12080v1](http://arxiv.org/abs/2408.12080v1)|null|
+|**2024-08-22**|**Transformers As Approximations of Solomonoff Induction**|Nathan Young et.al.|[2408.12065v1](http://arxiv.org/abs/2408.12065v1)|null|
+|**2024-08-22**|**A Practical Introduction to Benchmarking and Characterization of Quantum Computers**|Akel Hashim et.al.|[2408.12064v1](http://arxiv.org/abs/2408.12064v1)|null|
+|**2024-08-21**|**Determining van der Waals materials' optical and polaritonic properties using cryogenic FTIR micro-spectroscopy**|Siddharth Nandanwar et.al.|[2408.12015v1](http://arxiv.org/abs/2408.12015v1)|null|
+|**2024-08-21**|**An Econometric Analysis of Large Flexible Cryptocurrency-mining Consumers in Electricity Markets**|Subir Majumder et.al.|[2408.12014v1](http://arxiv.org/abs/2408.12014v1)|null|
+|**2024-08-21**|**Energy Estimation of Last Mile Electric Vehicle Routes**|André Snoeck et.al.|[2408.12006v1](http://arxiv.org/abs/2408.12006v1)|null|
+|**2024-08-21**|**Floating-Point Multiply-Add with Approximate Normalization for Low-Cost Matrix Engines**|Kosmas Alexandridis et.al.|[2408.11997v1](http://arxiv.org/abs/2408.11997v1)|null|
+|**2024-08-21**|**Time Series Foundation Models and Deep Learning Architectures for Earthquake Temporal and Spatial Nowcasting**|Alireza Jafari et.al.|[2408.11990v1](http://arxiv.org/abs/2408.11990v1)|null|
+|**2024-08-21**|**Real-Time Incremental Explanations for Object Detectors**|Santiago Calderón-Peña et.al.|[2408.11963v1](http://arxiv.org/abs/2408.11963v1)|null|
+|**2024-08-21**|**Topological Representational Similarity Analysis in Brains and Beyond**|Baihan Lin et.al.|[2408.11948v1](http://arxiv.org/abs/2408.11948v1)|null|
 |**2024-08-21**|**Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation**|Ria Doshi et.al.|[2408.11812v1](http://arxiv.org/abs/2408.11812v1)|null|
 |**2024-08-21**|**Approaching Deep Learning through the Spectral Dynamics of Weights**|David Yunis et.al.|[2408.11804v1](http://arxiv.org/abs/2408.11804v1)|**[link](https://github.com/dyunis/spectral_dynamics)**|
 |**2024-08-21**|**Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models**|Yuzhou Huang et.al.|[2408.11801v1](http://arxiv.org/abs/2408.11801v1)|null|
@@ -21438,7 +21489,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-16**|**Fire Dynamic Vision: Image Segmentation and Tracking for Multi-Scale Fire and Plume Behavior**|Daryn Sagel et.al.|[2408.08984v1](http://arxiv.org/abs/2408.08984v1)|null|
+|**2024-08-16**|**Fire Dynamic Vision: Image Segmentation and Tracking for Multi-Scale Fire and Plume Behavior**|Daryn Sagel et.al.|[2408.08984v1](http://arxiv.org/abs/2408.08984v1)|**[link](https://github.com/quaife/FDV_Data)**|
 |**2024-08-15**|**Single-image coherent reconstruction of objects and humans**|Sarthak Batra et.al.|[2408.08086v1](http://arxiv.org/abs/2408.08086v1)|null|
 |**2024-08-12**|**Wavelet based inpainting detection**|Barglazan Adrian-Alin et.al.|[2408.06429v1](http://arxiv.org/abs/2408.06429v1)|null|
 |**2024-08-09**|**DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting**|Jihoon Lee et.al.|[2408.04962v1](http://arxiv.org/abs/2408.04962v1)|null|
