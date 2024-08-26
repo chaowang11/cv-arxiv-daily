@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**ResSR: A Residual Approach to Super-Resolving Multispectral Images**|Haley Duba-Sullivan et.al.|[2408.13225v1](http://arxiv.org/abs/2408.13225v1)|null|
+|**2024-08-23**|**SIMPLE: Simultaneous Multi-Plane Self-Supervised Learning for Isotropic MRI Restoration from Anisotropic Data**|Rotem Benisty et.al.|[2408.13065v1](http://arxiv.org/abs/2408.13065v1)|null|
 |**2024-08-22**|**A Unified Plug-and-Play Algorithm with Projected Landweber Operator for Split Convex Feasibility Problems**|Shuchang Zhang et.al.|[2408.12100v1](http://arxiv.org/abs/2408.12100v1)|null|
 |**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|null|
 |**2024-08-21**|**Quantum super-resolution microscopy by photon statistics and structured light**|Fabio Picariello et.al.|[2408.11654v1](http://arxiv.org/abs/2408.11654v1)|null|
@@ -1891,6 +1893,47 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243v1](http://arxiv.org/abs/2408.13243v1)|null|
+|**2024-08-23**|**Celestial amplitudes on electromagnetic backgrounds: T-duality from S-duality**|Tristan McLoughlin et.al.|[2408.13234v1](http://arxiv.org/abs/2408.13234v1)|null|
+|**2024-08-23**|**Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time**|Yingyu Liang et.al.|[2408.13233v1](http://arxiv.org/abs/2408.13233v1)|null|
+|**2024-08-23**|**Instruct-DeBERTa: A Hybrid Approach for Aspect-based Sentiment Analysis on Textual Reviews**|Dineth Jayakody et.al.|[2408.13202v1](http://arxiv.org/abs/2408.13202v1)|null|
+|**2024-08-23**|**EAViT: External Attention Vision Transformer for Audio Classification**|Aquib Iqbal et.al.|[2408.13201v1](http://arxiv.org/abs/2408.13201v1)|null|
+|**2024-08-23**|**Can LLM be a Good Path Planner based on Prompt Engineering? Mitigating the Hallucination for Path Planning**|Hourui Deng et.al.|[2408.13184v1](http://arxiv.org/abs/2408.13184v1)|null|
+|**2024-08-23**|**Lessons in co-creation: the inconvenient truths of inclusive sign language technology development**|Maartje De Meulder et.al.|[2408.13171v1](http://arxiv.org/abs/2408.13171v1)|null|
+|**2024-08-23**|**Long-Term Pre-training for Temporal Action Detection with Transformers**|Jihwan Kim et.al.|[2408.13152v1](http://arxiv.org/abs/2408.13152v1)|null|
+|**2024-08-23**|**Verification of Geometric Robustness of Neural Networks via Piecewise Linear Approximation and Lipschitz Optimisation**|Ben Batten et.al.|[2408.13140v1](http://arxiv.org/abs/2408.13140v1)|null|
+|**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti et.al.|[2408.13132v1](http://arxiv.org/abs/2408.13132v1)|null|
+|**2024-08-23**|**NEST: Self-supervised Fast Conformer as All-purpose Seasoning to Speech Processing Tasks**|He Huang et.al.|[2408.13106v1](http://arxiv.org/abs/2408.13106v1)|null|
+|**2024-08-23**|**Direct observation of structural phase transformations during continuous phosphorus deposition on Cu(111)**|Jiří David et.al.|[2408.13090v1](http://arxiv.org/abs/2408.13090v1)|null|
+|**2024-08-23**|**Functional calculus of quantum channels for the holomorphic discrete series of  $SU(1,1)$ **|Robin van Haastrecht et.al.|[2408.13083v1](http://arxiv.org/abs/2408.13083v1)|null|
+|**2024-08-23**|**Multivariate Time-Series Anomaly Detection based on Enhancing Graph Attention Networks with Topological Analysis**|Zhe Liu et.al.|[2408.13082v1](http://arxiv.org/abs/2408.13082v1)|**[link](https://github.com/ljj-cyber/topogdn)**|
+|**2024-08-23**|**Atlas Gaussians Diffusion for 3D Generation with Infinite Number of Points**|Haitao Yang et.al.|[2408.13055v1](http://arxiv.org/abs/2408.13055v1)|null|
+|**2024-08-23**|**Vision Transformer Neural Quantum States for Impurity Models**|Xiaodong Cao et.al.|[2408.13050v1](http://arxiv.org/abs/2408.13050v1)|null|
+|**2024-08-23**|**Commutator-free Cayley methods**|Sofya Maslovskaya et.al.|[2408.13043v1](http://arxiv.org/abs/2408.13043v1)|null|
+|**2024-08-23**|**VFM-Det: Towards High-Performance Vehicle Detection via Large Foundation Models**|Wentao Wu et.al.|[2408.13031v1](http://arxiv.org/abs/2408.13031v1)|**[link](https://github.com/event-ahu/vfm-det)**|
+|**2024-08-23**|**Zeoformer: Coarse-Grained Periodic Graph Transformer for OSDA-Zeolite Affinity Prediction**|Xiangxiang Shen et.al.|[2408.12984v1](http://arxiv.org/abs/2408.12984v1)|null|
+|**2024-08-23**|**Accuracy Improvement of Cell Image Segmentation Using Feedback Former**|Hinako Mitsuoka et.al.|[2408.12974v1](http://arxiv.org/abs/2408.12974v1)|null|
+|**2024-08-23**|**Symplectic Bregman divergences**|Frank Nielsen et.al.|[2408.12961v1](http://arxiv.org/abs/2408.12961v1)|null|
+|**2024-08-23**|**State-of-the-Art Fails in the Art of Damage Detection**|Daniela Ivanova et.al.|[2408.12953v1](http://arxiv.org/abs/2408.12953v1)|null|
+|**2024-08-23**|**Trustworthy, Responsible, and Safe AI: A Comprehensive Architectural Framework for AI Safety with Challenges and Mitigations**|Chen Chen et.al.|[2408.12935v1](http://arxiv.org/abs/2408.12935v1)|null|
+|**2024-08-23**|**IAA: Inner-Adaptor Architecture Empowers Frozen Large Language Model with Multimodal Capabilities**|Bin Wang et.al.|[2408.12902v1](http://arxiv.org/abs/2408.12902v1)|null|
+|**2024-08-23**|**Harmonic maps of finite uniton number into inner symmetric spaces via based normalized extended frames**|Josef F. Dorfmeister et.al.|[2408.12899v1](http://arxiv.org/abs/2408.12899v1)|null|
+|**2024-08-23**|**Spatio-Temporal Road Traffic Prediction using Real-time Regional Knowledge**|Sumin Han et.al.|[2408.12882v1](http://arxiv.org/abs/2408.12882v1)|null|
+|**2024-08-23**|**Projective surfaces not as Hadamard products and the dimensions of the Hadamard joins**|Edoardo Ballico et.al.|[2408.12861v1](http://arxiv.org/abs/2408.12861v1)|null|
+|**2024-08-23**|**LIMP: Large Language Model Enhanced Intent-aware Mobility Prediction**|Songwei Li et.al.|[2408.12832v1](http://arxiv.org/abs/2408.12832v1)|**[link](https://github.com/tsinghua-fib-lab/limp)**|
+|**2024-08-23**|**Open-Set Deepfake Detection: A Parameter-Efficient Adaptation Method with Forgery Style Mixture**|Chenqi Kong et.al.|[2408.12791v1](http://arxiv.org/abs/2408.12791v1)|null|
+|**2024-08-23**|**Dynamically syndetic sets and the combinatorics of syndetic, idempotent filters**|Daniel Glasscock et.al.|[2408.12785v1](http://arxiv.org/abs/2408.12785v1)|null|
+|**2024-08-23**|**Symmetric masking strategy enhances the performance of Masked Image Modeling**|Khanh-Binh Nguyen et.al.|[2408.12772v1](http://arxiv.org/abs/2408.12772v1)|null|
+|**2024-08-22**|**TReX- Reusing Vision Transformer's Attention for Efficient Xbar-based Computing**|Abhishek Moitra et.al.|[2408.12742v1](http://arxiv.org/abs/2408.12742v1)|null|
+|**2024-08-22**|**BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks**|Woojin Shin et.al.|[2408.12727v1](http://arxiv.org/abs/2408.12727v1)|null|
+|**2024-08-22**|**Macro-Queries: An Exploration into Guided Chart Generation from High Level Prompts**|Christopher J. Lee et.al.|[2408.12726v1](http://arxiv.org/abs/2408.12726v1)|null|
+|**2024-08-22**|**NEXUS: the North ecliptic pole EXtragalactic Unified Survey**|Yue Shen et.al.|[2408.12713v1](http://arxiv.org/abs/2408.12713v1)|null|
+|**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708v1](http://arxiv.org/abs/2408.12708v1)|null|
+|**2024-08-22**|**Free-breathing 3D cardiac extracellular volume (ECV) mapping using a linear tangent space alignment (LTSA) model**|Wonil Lee et.al.|[2408.12706v1](http://arxiv.org/abs/2408.12706v1)|null|
+|**2024-08-22**|**Shape-induced Bose-Einstein Condensation**|Cem Kurt et.al.|[2408.12698v1](http://arxiv.org/abs/2408.12698v1)|null|
+|**2024-08-22**|**Quantization-free Lossy Image Compression Using Integer Matrix Factorization**|Pooya Ashtari et.al.|[2408.12691v1](http://arxiv.org/abs/2408.12691v1)|**[link](https://github.com/pashtari/lrf)**|
+|**2024-08-22**|**Leveraging Information Consistency in Frequency and Spatial Domain for Adversarial Attacks**|Zhibo Jin et.al.|[2408.12670v1](http://arxiv.org/abs/2408.12670v1)|**[link](https://github.com/lmbtough/fsa)**|
+|**2024-08-22**|**AI-driven Transformer Model for Fault Prediction in Non-Linear Dynamic Automotive System**|Priyanka Kumar et.al.|[2408.12638v1](http://arxiv.org/abs/2408.12638v1)|null|
 |**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590v1](http://arxiv.org/abs/2408.12590v1)|null|
 |**2024-08-22**|**A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language**|Ekdeep Singh Lubana et.al.|[2408.12578v1](http://arxiv.org/abs/2408.12578v1)|**[link](https://github.com/ekdeepslubana/conceptpercolation)**|
 |**2024-08-22**|**Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers**|Antonyo Musabini et.al.|[2408.12575v1](http://arxiv.org/abs/2408.12575v1)|null|
