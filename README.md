@@ -1905,15 +1905,15 @@
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti et.al.|[2408.13132v1](http://arxiv.org/abs/2408.13132v1)|null|
 |**2024-08-23**|**NEST: Self-supervised Fast Conformer as All-purpose Seasoning to Speech Processing Tasks**|He Huang et.al.|[2408.13106v1](http://arxiv.org/abs/2408.13106v1)|null|
 |**2024-08-23**|**Direct observation of structural phase transformations during continuous phosphorus deposition on Cu(111)**|Jiří David et.al.|[2408.13090v1](http://arxiv.org/abs/2408.13090v1)|null|
-|**2024-08-23**|**Functional calculus of quantum channels for the holomorphic discrete series of  $SU(1,1)$ **|Robin van Haastrecht et.al.|[2408.13083v1](http://arxiv.org/abs/2408.13083v1)|null|
+|**2024-08-26**|**Functional calculus of quantum channels for the holomorphic discrete series of  $SU(1,1)$ **|Robin van Haastrecht et.al.|[2408.13083v2](http://arxiv.org/abs/2408.13083v2)|null|
 |**2024-08-23**|**Multivariate Time-Series Anomaly Detection based on Enhancing Graph Attention Networks with Topological Analysis**|Zhe Liu et.al.|[2408.13082v1](http://arxiv.org/abs/2408.13082v1)|**[link](https://github.com/ljj-cyber/topogdn)**|
 |**2024-08-23**|**Atlas Gaussians Diffusion for 3D Generation with Infinite Number of Points**|Haitao Yang et.al.|[2408.13055v1](http://arxiv.org/abs/2408.13055v1)|null|
 |**2024-08-23**|**Vision Transformer Neural Quantum States for Impurity Models**|Xiaodong Cao et.al.|[2408.13050v1](http://arxiv.org/abs/2408.13050v1)|null|
 |**2024-08-23**|**Commutator-free Cayley methods**|Sofya Maslovskaya et.al.|[2408.13043v1](http://arxiv.org/abs/2408.13043v1)|null|
 |**2024-08-23**|**VFM-Det: Towards High-Performance Vehicle Detection via Large Foundation Models**|Wentao Wu et.al.|[2408.13031v1](http://arxiv.org/abs/2408.13031v1)|**[link](https://github.com/event-ahu/vfm-det)**|
-|**2024-08-23**|**Zeoformer: Coarse-Grained Periodic Graph Transformer for OSDA-Zeolite Affinity Prediction**|Xiangxiang Shen et.al.|[2408.12984v1](http://arxiv.org/abs/2408.12984v1)|null|
+|**2024-08-26**|**Zeoformer: Coarse-Grained Periodic Graph Transformer for OSDA-Zeolite Affinity Prediction**|Xiangxiang Shen et.al.|[2408.12984v2](http://arxiv.org/abs/2408.12984v2)|null|
 |**2024-08-23**|**Accuracy Improvement of Cell Image Segmentation Using Feedback Former**|Hinako Mitsuoka et.al.|[2408.12974v1](http://arxiv.org/abs/2408.12974v1)|null|
-|**2024-08-23**|**Symplectic Bregman divergences**|Frank Nielsen et.al.|[2408.12961v1](http://arxiv.org/abs/2408.12961v1)|null|
+|**2024-08-26**|**Symplectic Bregman divergences**|Frank Nielsen et.al.|[2408.12961v2](http://arxiv.org/abs/2408.12961v2)|null|
 |**2024-08-23**|**State-of-the-Art Fails in the Art of Damage Detection**|Daniela Ivanova et.al.|[2408.12953v1](http://arxiv.org/abs/2408.12953v1)|null|
 |**2024-08-23**|**Trustworthy, Responsible, and Safe AI: A Comprehensive Architectural Framework for AI Safety with Challenges and Mitigations**|Chen Chen et.al.|[2408.12935v1](http://arxiv.org/abs/2408.12935v1)|null|
 |**2024-08-23**|**IAA: Inner-Adaptor Architecture Empowers Frozen Large Language Model with Multimodal Capabilities**|Bin Wang et.al.|[2408.12902v1](http://arxiv.org/abs/2408.12902v1)|null|
