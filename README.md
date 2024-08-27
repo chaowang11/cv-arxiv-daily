@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -38,7 +38,7 @@
 |**2024-08-18**|**Angle of Arrival Estimation with Transformer: A Sparse and Gridless Method with Zero-Shot Capability**|Zhaoxuan Zhu et.al.|[2408.09362v1](http://arxiv.org/abs/2408.09362v1)|null|
 |**2024-08-17**|**Discovery of Limb-Brightening in the Parsec-Scale Jet of NGC 315 through Global VLBI Observations and Its Implications for Jet Models**|Jongho Park et.al.|[2408.09069v1](http://arxiv.org/abs/2408.09069v1)|null|
 |**2024-08-16**|**AI-assisted super-resolution cosmological simulations IV: An emulator for deterministic realizations**|Xiaowen Zhang et.al.|[2408.09051v1](http://arxiv.org/abs/2408.09051v1)|null|
-|**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v1](http://arxiv.org/abs/2408.08736v1)|**[link](https://github.com/Tillyhere/TADT)**|
+|**2024-08-25**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v2](http://arxiv.org/abs/2408.08736v2)|**[link](https://github.com/Tillyhere/TADT)**|
 |**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665v1](http://arxiv.org/abs/2408.08665v1)|null|
 |**2024-08-16**|**Reference-free Axial Super-resolution of 3D Microscopy Images using Implicit Neural Representation with a 2D Diffusion Prior**|Kyungryun Lee et.al.|[2408.08616v1](http://arxiv.org/abs/2408.08616v1)|**[link](https://github.com/hvcl/inr-diffusion)**|
 |**2024-08-16**|**Enhancing Events in Neutrino Telescopes through Deep Learning-Driven Super-Resolution**|Felix J. Yu et.al.|[2408.08474v1](http://arxiv.org/abs/2408.08474v1)|null|
@@ -1256,7 +1256,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240827>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -1265,7 +1265,7 @@
 |**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|null|
 |**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|**[link](https://github.com/alik033/ml-craist)**|
 |**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674v1](http://arxiv.org/abs/2408.09674v1)|**[link](https://github.com/dslisleedh/IGConv)**|
-|**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v1](http://arxiv.org/abs/2408.08736v1)|**[link](https://github.com/Tillyhere/TADT)**|
+|**2024-08-25**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v2](http://arxiv.org/abs/2408.08736v2)|**[link](https://github.com/Tillyhere/TADT)**|
 |**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665v1](http://arxiv.org/abs/2408.08665v1)|null|
 |**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516v2](http://arxiv.org/abs/2408.07516v2)|null|
 |**2024-08-14**|**GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution**|Yuzhen Li et.al.|[2408.07484v1](http://arxiv.org/abs/2408.07484v1)|**[link](https://github.com/sisrformer/grformer)**|
@@ -1703,7 +1703,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240827>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -1822,7 +1822,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240827>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -1841,7 +1841,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240827>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -1887,7 +1887,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240827>back to top</a>)</p>
 
 ## Transformer
 
@@ -1940,9 +1940,9 @@
 |**2024-08-22**|**Jamba-1.5: Hybrid Transformer-Mamba Models at Scale**|Jamba Team et.al.|[2408.12570v1](http://arxiv.org/abs/2408.12570v1)|null|
 |**2024-08-22**|**Pruning By Explaining Revisited: Optimizing Attribution Methods to Prune CNNs and Transformers**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2408.12568v1](http://arxiv.org/abs/2408.12568v1)|null|
 |**2024-08-23**|**Detecting random bifurcations via rigorous enclosures of large deviations rate functions**|Alexandra Blessing et.al.|[2408.12556v2](http://arxiv.org/abs/2408.12556v2)|null|
-|**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528v1](http://arxiv.org/abs/2408.12528v1)|null|
+|**2024-08-25**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528v2](http://arxiv.org/abs/2408.12528v2)|null|
 |**2024-08-22**|**Integrated Hardware and Software Architecture for Industrial AGV with Manual Override Capability**|Pietro Iob et.al.|[2408.12499v1](http://arxiv.org/abs/2408.12499v1)|null|
-|**2024-08-22**|**Predicting Solar Energy Generation with Machine Learning based on AQI and Weather Features**|Arjun Shah et.al.|[2408.12476v1](http://arxiv.org/abs/2408.12476v1)|null|
+|**2024-08-23**|**Predicting Solar Energy Generation with Machine Learning based on AQI and Weather Features**|Arjun Shah et.al.|[2408.12476v2](http://arxiv.org/abs/2408.12476v2)|null|
 |**2024-08-22**|**A novel method to indirectly reconstruct neutrinos in collider experiments**|Hongrong Qi et.al.|[2408.12472v1](http://arxiv.org/abs/2408.12472v1)|null|
 |**2024-08-22**|**Relaxed Rotational Equivariance via  $G$ -Biases in Vision**|Zhiqiang Wu et.al.|[2408.12454v1](http://arxiv.org/abs/2408.12454v1)|null|
 |**2024-08-22**|**Enhanced Infield Agriculture with Interpretable Machine Learning Approaches for Crop Classification**|Sudi Murindanyi et.al.|[2408.12426v1](http://arxiv.org/abs/2408.12426v1)|null|
@@ -21526,7 +21526,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240827>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -21769,7 +21769,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240827>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -21866,7 +21866,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240827>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
