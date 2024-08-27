@@ -23,6 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Cascaded Temporal Updating Network for Efficient Video Super-Resolution**|Hao Li et.al.|[2408.14244v1](http://arxiv.org/abs/2408.14244v1)|null|
+|**2024-08-26**|**Efficient Active Flow Control Strategy for Confined Square Cylinder Wake Using Deep Learning-Based Surrogate Model and Reinforcement Learning**|Meng Zhang et.al.|[2408.14232v1](http://arxiv.org/abs/2408.14232v1)|null|
+|**2024-08-25**|**Particle-Filtering-based Latent Diffusion for Inverse Problems**|Amir Nazemi et.al.|[2408.13868v1](http://arxiv.org/abs/2408.13868v1)|null|
+|**2024-08-25**|**FreqINR: Frequency Consistency for Implicit Neural Representation with Adaptive DCT Frequency Loss**|Meiyi Wei et.al.|[2408.13716v1](http://arxiv.org/abs/2408.13716v1)|null|
 |**2024-08-23**|**ResSR: A Residual Approach to Super-Resolving Multispectral Images**|Haley Duba-Sullivan et.al.|[2408.13225v1](http://arxiv.org/abs/2408.13225v1)|null|
 |**2024-08-23**|**SIMPLE: Simultaneous Multi-Plane Self-Supervised Learning for Isotropic MRI Restoration from Anisotropic Data**|Rotem Benisty et.al.|[2408.13065v1](http://arxiv.org/abs/2408.13065v1)|null|
 |**2024-08-22**|**A Unified Plug-and-Play Algorithm with Projected Landweber Operator for Split Convex Feasibility Problems**|Shuchang Zhang et.al.|[2408.12100v1](http://arxiv.org/abs/2408.12100v1)|null|
@@ -1709,6 +1713,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Cascaded Temporal Updating Network for Efficient Video Super-Resolution**|Hao Li et.al.|[2408.14244v1](http://arxiv.org/abs/2408.14244v1)|null|
 |**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205v1](http://arxiv.org/abs/2408.05205v1)|null|
 |**2024-07-24**|**Cuboid-Net: A Multi-Branch Convolutional Neural Network for Joint Space-Time Video Super Resolution**|Congrui Fu et.al.|[2407.16986v1](http://arxiv.org/abs/2407.16986v1)|null|
 |**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965v1](http://arxiv.org/abs/2407.16965v1)|**[link](https://github.com/fcongrui/3dattgan)**|
@@ -1893,6 +1898,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Explicit Inductive Inference using Large Language Models**|Tianyang Liu et.al.|[2408.14467v1](http://arxiv.org/abs/2408.14467v1)|null|
+|**2024-08-26**|**Center Direction Network for Grasping Point Localization on Cloths**|Domen Tabernik et.al.|[2408.14456v1](http://arxiv.org/abs/2408.14456v1)|**[link](https://github.com/vicoslab/cedirnet-3dof)**|
+|**2024-08-26**|**Reconstructing physiological signals from fMRI across the adult lifespan**|Shiyu Wang et.al.|[2408.14453v1](http://arxiv.org/abs/2408.14453v1)|null|
+|**2024-08-26**|**LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation**|Trung Dinh Quoc Dang et.al.|[2408.14415v1](http://arxiv.org/abs/2408.14415v1)|null|
+|**2024-08-26**|**Generalized Bayesian nonparametric clustering framework for high-dimensional spatial omics data**|Bencong Zhu et.al.|[2408.14410v1](http://arxiv.org/abs/2408.14410v1)|null|
+|**2024-08-26**|**Learning Tree-Structured Composition of Data Augmentation**|Dongyue Li et.al.|[2408.14381v1](http://arxiv.org/abs/2408.14381v1)|**[link](https://github.com/virtuosoresearch/tree-data-augmentation)**|
+|**2024-08-26**|**User-Access Point Association for High Density MIMO Wireless LANs**|Phillip B. Oni et.al.|[2408.14378v1](http://arxiv.org/abs/2408.14378v1)|null|
+|**2024-08-26**|**A Brief Analysis of the Iterative Next Boundary Detection Network for Tree Rings Delineation in Images of Pinus taeda**|Henry Marichal et.al.|[2408.14343v1](http://arxiv.org/abs/2408.14343v1)|**[link](https://github.com/hmarichal93/mlbrief_inbd)**|
+|**2024-08-26**|**Online regularization of Poincaré map of storage rings with Shannon entropy**|Yongjun Li et.al.|[2408.14333v1](http://arxiv.org/abs/2408.14333v1)|null|
+|**2024-08-26**|**One-layer transformers fail to solve the induction heads task**|Clayton Sanford et.al.|[2408.14332v1](http://arxiv.org/abs/2408.14332v1)|null|
+|**2024-08-26**|**Efficiently deciding if an ideal is toric after a linear coordinate change**|Thomas Kahle et.al.|[2408.14323v1](http://arxiv.org/abs/2408.14323v1)|null|
+|**2024-08-26**|**Claim Verification in the Age of Large Language Models: A Survey**|Alphaeus Dmonte et.al.|[2408.14317v1](http://arxiv.org/abs/2408.14317v1)|null|
+|**2024-08-26**|**Reduce Computational Complexity for Continuous Wavelet Transform in Acoustic Recognition Using Hop Size**|Dang Thoai Phan et.al.|[2408.14302v1](http://arxiv.org/abs/2408.14302v1)|**[link](https://github.com/phandangthoai/Continuous-Wavelet-Transform-in-Acoustic-Recognition-Using-Hop-Size)**|
+|**2024-08-26**|**Predictability and Causality in Spanish and English Natural Language Generation**|Andrea Busto-Castiñeira et.al.|[2408.14283v1](http://arxiv.org/abs/2408.14283v1)|null|
+|**2024-08-26**|**MSFMamba: Multi-Scale Feature Fusion State Space Model for Multi-Source Remote Sensing Image Classification**|Feng Gao et.al.|[2408.14255v1](http://arxiv.org/abs/2408.14255v1)|null|
+|**2024-08-26**|**Intracellular order formation through stepwise phase transitions**|Yuika Ueda et.al.|[2408.14242v1](http://arxiv.org/abs/2408.14242v1)|null|
+|**2024-08-26**|**Efficient Active Flow Control Strategy for Confined Square Cylinder Wake Using Deep Learning-Based Surrogate Model and Reinforcement Learning**|Meng Zhang et.al.|[2408.14232v1](http://arxiv.org/abs/2408.14232v1)|null|
+|**2024-08-26**|**A Survey on Small-Scale Testbeds for Connected and Automated Vehicles and Robot Swarms**|Armin Mokhtarian et.al.|[2408.14199v1](http://arxiv.org/abs/2408.14199v1)|null|
+|**2024-08-26**|**Harnessing the Digital Revolution: A Comprehensive Review of mHealth Applications for Remote Monitoring in Transforming Healthcare Delivery**|Avnish Singh Jat et.al.|[2408.14190v1](http://arxiv.org/abs/2408.14190v1)|null|
+|**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186v1](http://arxiv.org/abs/2408.14186v1)|**[link](https://github.com/georg-bn/affine-steerers)**|
+|**2024-08-26**|**Pressure-induced toroidal order in molecular Sn $_2$ P $_2$ S $_6$  ferroelectrics**|Konstantin Z. Rushchanskii et.al.|[2408.14179v1](http://arxiv.org/abs/2408.14179v1)|null|
+|**2024-08-26**|**Image Provenance Analysis via Graph Encoding with Vision Transformer**|Keyang Zhang et.al.|[2408.14170v1](http://arxiv.org/abs/2408.14170v1)|null|
+|**2024-08-26**|**Wigner current in multidimensional quantum billiards**|S. S. Seidov et.al.|[2408.14164v1](http://arxiv.org/abs/2408.14164v1)|null|
+|**2024-08-26**|**GenFormer -- Generated Images are All You Need to Improve Robustness of Transformers on Small Datasets**|Sven Oehri et.al.|[2408.14131v1](http://arxiv.org/abs/2408.14131v1)|null|
+|**2024-08-26**|**Towards Lifelong Learning Embeddings: An Algorithmic Approach to Dynamically Extend Embeddings**|Miguel Alves Gomes et.al.|[2408.14118v1](http://arxiv.org/abs/2408.14118v1)|null|
+|**2024-08-26**|**Bengali Sign Language Recognition through Hand Pose Estimation using Multi-Branch Spatial-Temporal Attention Model**|Abu Saleh Musa Miah et.al.|[2408.14111v1](http://arxiv.org/abs/2408.14111v1)|null|
+|**2024-08-26**|**ReLExS: Reinforcement Learning Explanations for Stackelberg No-Regret Learners**|Xiangge Huang et.al.|[2408.14086v1](http://arxiv.org/abs/2408.14086v1)|null|
+|**2024-08-26**|**SONICS: Synthetic Or Not -- Identifying Counterfeit Songs**|Md Awsafur Rahman et.al.|[2408.14080v1](http://arxiv.org/abs/2408.14080v1)|null|
+|**2024-08-26**|**Skew-product systems over infinite interval exchange transformations**|Henk Bruin et.al.|[2408.14079v1](http://arxiv.org/abs/2408.14079v1)|null|
+|**2024-08-26**|**Revisiting time-variant complex conjugate matrix equations with their corresponding real field time-variant large-scale linear equations, neural hypercomplex numbers space compressive approximation approach**|Jiakuang He et.al.|[2408.14057v1](http://arxiv.org/abs/2408.14057v1)|null|
+|**2024-08-26**|**Let Video Teaches You More: Video-to-Image Knowledge Distillation using DEtection TRansformer for Medical Video Lesion Detection**|Yuncheng Jiang et.al.|[2408.14051v1](http://arxiv.org/abs/2408.14051v1)|null|
+|**2024-08-26**|**Beyond Detection: Leveraging Large Language Models for Cyber Attack Prediction in IoT Networks**|Alaeddine Diaf et.al.|[2408.14045v1](http://arxiv.org/abs/2408.14045v1)|null|
+|**2024-08-26**|**A Multiscale Gradient Fusion Method for Edge Detection in Color Images Utilizing the CBM3D Filter**|Zhuoyue Wang et.al.|[2408.14013v1](http://arxiv.org/abs/2408.14013v1)|null|
+|**2024-08-26**|**The untapped power of a general theory of organismal metabolism**|Marko Jusup et.al.|[2408.13998v1](http://arxiv.org/abs/2408.13998v1)|null|
+|**2024-08-26**|**Non-invertible flavor symmetries in magnetized extra dimensions**|Tatsuo Kobayashi et.al.|[2408.13984v1](http://arxiv.org/abs/2408.13984v1)|null|
+|**2024-08-26**|**Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-time Adaptation**|Yushun Tang et.al.|[2408.13983v1](http://arxiv.org/abs/2408.13983v1)|**[link](https://github.com/yushuntang/dpal)**|
+|**2024-08-26**|**FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation**|Daixun Li et.al.|[2408.13980v1](http://arxiv.org/abs/2408.13980v1)|null|
+|**2024-08-26**|**Sifting through the Chaff: On Utilizing Execution Feedback for Ranking the Generated Code Candidates**|Zhihong Sun et.al.|[2408.13976v1](http://arxiv.org/abs/2408.13976v1)|null|
+|**2024-08-26**|**Anonymization of Voices in Spaces for Civic Dialogue: Measuring Impact on Empathy, Trust, and Feeling Heard**|Wonjune Kang et.al.|[2408.13970v1](http://arxiv.org/abs/2408.13970v1)|null|
+|**2024-08-26**|**Speeding Ticket: Unveiling the Energy and Emission Burden of AI-Accelerated Distributed and Decentralized Power Dispatch Models**|Meiyi Li et.al.|[2408.13968v1](http://arxiv.org/abs/2408.13968v1)|null|
+|**2024-08-25**|**Shifted Window Fourier Transform And Retention For Image Captioning**|Jia Cheng Hu et.al.|[2408.13963v1](http://arxiv.org/abs/2408.13963v1)|null|
+|**2024-08-25**|**Bidirectional Awareness Induction in Autoregressive Seq2Seq Models**|Jia Cheng Hu et.al.|[2408.13959v1](http://arxiv.org/abs/2408.13959v1)|null|
+|**2024-08-25**|**A Review of Quantum Scientific Computing Algorithms for Engineering Problems**|Osama Muhammad Raisuddin et.al.|[2408.13943v1](http://arxiv.org/abs/2408.13943v1)|null|
+|**2024-08-25**|**Learning to Move Like Professional Counter-Strike Players**|David Durst et.al.|[2408.13934v1](http://arxiv.org/abs/2408.13934v1)|null|
+|**2024-08-25**|**MobileQuant: Mobile-friendly Quantization for On-device Language Models**|Fuwen Tan et.al.|[2408.13933v1](http://arxiv.org/abs/2408.13933v1)|**[link](https://github.com/saic-fi/mobilequant)**|
+|**2024-08-25**|**Wav2Small: Distilling Wav2Vec2 to 72K parameters for Low-Resource Speech emotion recognition**|Dionyssos Kounades-Bastian et.al.|[2408.13920v1](http://arxiv.org/abs/2408.13920v1)|null|
+|**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909v1](http://arxiv.org/abs/2408.13909v1)|**[link](https://github.com/aliasgerovs/azclip)**|
+|**2024-08-25**|**TraIL-Det: Transformation-Invariant Local Feature Networks for 3D LiDAR Object Detection with Unsupervised Pre-Training**|Li Li et.al.|[2408.13902v1](http://arxiv.org/abs/2408.13902v1)|null|
+|**2024-08-25**|**SimpleSpeech 2: Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models**|Dongchao Yang et.al.|[2408.13893v1](http://arxiv.org/abs/2408.13893v1)|null|
+|**2024-08-25**|**Flexible game-playing AI with AlphaViT: adapting to multiple games and board sizes**|Kazuhisa Fujita et.al.|[2408.13871v1](http://arxiv.org/abs/2408.13871v1)|null|
 |**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243v1](http://arxiv.org/abs/2408.13243v1)|null|
 |**2024-08-23**|**Celestial amplitudes on electromagnetic backgrounds: T-duality from S-duality**|Tristan McLoughlin et.al.|[2408.13234v1](http://arxiv.org/abs/2408.13234v1)|null|
 |**2024-08-23**|**Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time**|Yingyu Liang et.al.|[2408.13233v1](http://arxiv.org/abs/2408.13233v1)|null|
