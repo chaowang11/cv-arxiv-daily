@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218v1](http://arxiv.org/abs/2408.15218v1)|null|
+|**2024-08-27**|**A Preliminary Exploration Towards General Image Restoration**|Xiangtao Kong et.al.|[2408.15143v1](http://arxiv.org/abs/2408.15143v1)|null|
+|**2024-08-27**|**Enhancing License Plate Super-Resolution: A Layout-Aware and Character-Driven Approach**|Valfride Nascimento et.al.|[2408.15103v1](http://arxiv.org/abs/2408.15103v1)|**[link](https://github.com/valfride/lpsr-lacd)**|
 |**2024-08-26**|**Cascaded Temporal Updating Network for Efficient Video Super-Resolution**|Hao Li et.al.|[2408.14244v1](http://arxiv.org/abs/2408.14244v1)|null|
 |**2024-08-26**|**Efficient Active Flow Control Strategy for Confined Square Cylinder Wake Using Deep Learning-Based Surrogate Model and Reinforcement Learning**|Meng Zhang et.al.|[2408.14232v1](http://arxiv.org/abs/2408.14232v1)|null|
 |**2024-08-25**|**Particle-Filtering-based Latent Diffusion for Inverse Problems**|Amir Nazemi et.al.|[2408.13868v1](http://arxiv.org/abs/2408.13868v1)|null|
@@ -1266,6 +1269,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218v1](http://arxiv.org/abs/2408.15218v1)|null|
 |**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|null|
 |**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|**[link](https://github.com/alik033/ml-craist)**|
 |**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674v1](http://arxiv.org/abs/2408.09674v1)|**[link](https://github.com/dslisleedh/IGConv)**|
@@ -1898,6 +1902,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243v1](http://arxiv.org/abs/2408.15243v1)|null|
+|**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237v1](http://arxiv.org/abs/2408.15237v1)|**[link](https://github.com/jxiw/mambainllama)**|
+|**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231v1](http://arxiv.org/abs/2408.15231v1)|null|
+|**2024-08-27**|**Continuity of entropies via integral representations**|Mario Berta et.al.|[2408.15226v1](http://arxiv.org/abs/2408.15226v1)|null|
+|**2024-08-27**|**Sec2Sec Co-attention for Video-Based Apparent Affective Prediction**|Mingwei Sun et.al.|[2408.15209v1](http://arxiv.org/abs/2408.15209v1)|null|
+|**2024-08-27**|**Opportunities in Pulsed Magnetic Fusion Energy**|C. Leland Ellison et.al.|[2408.15206v1](http://arxiv.org/abs/2408.15206v1)|null|
+|**2024-08-27**|**Automatic 8-tissue Segmentation for 6-month Infant Brains**|Yilan Dong et.al.|[2408.15198v1](http://arxiv.org/abs/2408.15198v1)|null|
+|**2024-08-27**|**Infusing Acoustic Pause Context into Text-Based Dementia Assessment**|Franziska Braun et.al.|[2408.15188v1](http://arxiv.org/abs/2408.15188v1)|null|
+|**2024-08-27**|**PoseWatch: A Transformer-based Architecture for Human-centric Video Anomaly Detection Using Spatio-temporal Pose Tokenization**|Ghazal Alinezhad Noghre et.al.|[2408.15185v1](http://arxiv.org/abs/2408.15185v1)|null|
+|**2024-08-27**|**A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships**|Gracile Astlin Pereira et.al.|[2408.15178v1](http://arxiv.org/abs/2408.15178v1)|null|
+|**2024-08-27**|**How transformers learn structured data: insights from hierarchical filtering**|Jerome Garnier-Brun et.al.|[2408.15138v1](http://arxiv.org/abs/2408.15138v1)|null|
+|**2024-08-27**|**Machine Learning for Methane Detection and Quantification from Space -- A survey**|Enno Tiemann et.al.|[2408.15122v1](http://arxiv.org/abs/2408.15122v1)|null|
+|**2024-08-27**|**Urdu Digital Text Word Optical Character Recognition Using Permuted Auto Regressive Sequence Modeling**|Ahmed Mustafa et.al.|[2408.15119v1](http://arxiv.org/abs/2408.15119v1)|null|
+|**2024-08-27**|**Resolving the pressure induced 'self-insertion' in skutterudite CoSb3**|Bihan Wang et.al.|[2408.15105v1](http://arxiv.org/abs/2408.15105v1)|null|
+|**2024-08-27**|**MTMamba++: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders**|Baijiong Lin et.al.|[2408.15101v1](http://arxiv.org/abs/2408.15101v1)|**[link](https://github.com/envision-research/mtmamba)**|
+|**2024-08-27**|**Relation Also Knows: Rethinking the Recall and Editing of Factual Associations in Auto-Regressive Transformer Language Models**|Xiyu Liu et.al.|[2408.15091v1](http://arxiv.org/abs/2408.15091v1)|null|
+|**2024-08-27**|**MMASD+: A Novel Dataset for Privacy-Preserving Behavior Analysis of Children with Autism Spectrum Disorder**|Pavan Uttej Ravva et.al.|[2408.15077v1](http://arxiv.org/abs/2408.15077v1)|**[link](https://github.com/pavanravva/enhanced-mmasd)**|
+|**2024-08-27**|**Spectral properties of Levy Rosenzweig-Porter model via supersymmetric approach**|Elizaveta Safonova et.al.|[2408.15072v1](http://arxiv.org/abs/2408.15072v1)|null|
+|**2024-08-27**|**Geometric Artifact Correction for Symmetric Multi-Linear Trajectory CT: Theory, Method, and Generalization**|Zhisheng Wang et.al.|[2408.15069v1](http://arxiv.org/abs/2408.15069v1)|null|
+|**2024-08-27**|**Causal Rule Forest: Toward Interpretable and Precise Treatment Effect Estimation**|Chan Hsu et.al.|[2408.15055v1](http://arxiv.org/abs/2408.15055v1)|null|
+|**2024-08-27**|**Distributed Planning for Rigid Robot Formations with Probabilistic Collision Avoidance**|Jeppe Heini Mikkelsen et.al.|[2408.15046v1](http://arxiv.org/abs/2408.15046v1)|null|
+|**2024-08-27**|**Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology**|Yuqi Zhang et.al.|[2408.15032v1](http://arxiv.org/abs/2408.15032v1)|null|
+|**2024-08-27**|**Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection**|Siyuan Yao et.al.|[2408.15020v1](http://arxiv.org/abs/2408.15020v1)|**[link](https://github.com/garyson1204/hginet)**|
+|**2024-08-27**|**Novel Road-Aware Line-of-Sight Probability Model for Urban Air Mobility**|Abdullah Abu Zaid et.al.|[2408.15009v1](http://arxiv.org/abs/2408.15009v1)|null|
+|**2024-08-27**|**FastTextSpotter: A High-Efficiency Transformer for Multilingual Scene Text Spotting**|Alloy Das et.al.|[2408.14998v1](http://arxiv.org/abs/2408.14998v1)|null|
+|**2024-08-27**|**Decomposing the Persistent Homology Transform of Star-Shaped Objects**|Shreya Arya et.al.|[2408.14995v1](http://arxiv.org/abs/2408.14995v1)|null|
+|**2024-08-27**|**Speech Recognition Transformers: Topological-lingualism Perspective**|Shruti Singh et.al.|[2408.14991v1](http://arxiv.org/abs/2408.14991v1)|null|
+|**2024-08-27**|**Dynamical Systems Analysis of f(R,G) Cosmological Model with Dark Sector Coupling**|Shivani Sharma et.al.|[2408.14989v1](http://arxiv.org/abs/2408.14989v1)|null|
+|**2024-08-27**|**MegActor- $Σ$ : Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer**|Shurong Yang et.al.|[2408.14975v1](http://arxiv.org/abs/2408.14975v1)|null|
+|**2024-08-27**|**AgentMonitor: A Plug-and-Play Framework for Predictive and Secure Multi-Agent Systems**|Chi-Min Chan et.al.|[2408.14972v1](http://arxiv.org/abs/2408.14972v1)|null|
+|**2024-08-27**|**Applying ViT in Generalized Few-shot Semantic Segmentation**|Liyuan Geng et.al.|[2408.14957v1](http://arxiv.org/abs/2408.14957v1)|**[link](https://github.com/lgnyu/vitseg)**|
+|**2024-08-27**|**NeuralOOD: Improving Out-of-Distribution Generalization Performance with Brain-machine Fusion Learning Framework**|Shuangchen Zhao et.al.|[2408.14950v1](http://arxiv.org/abs/2408.14950v1)|null|
+|**2024-08-27**|**Can Transformers Do Enumerative Geometry?**|Baran Hashemi et.al.|[2408.14915v1](http://arxiv.org/abs/2408.14915v1)|null|
+|**2024-08-27**|**Triplètoile: Extraction of Knowledge from Microblogging Text**|Vanni Zavarella et.al.|[2408.14908v1](http://arxiv.org/abs/2408.14908v1)|null|
+|**2024-08-27**|**Writing in the Margins: Better Inference Pattern for Long Context Retrieval**|Melisa Russak et.al.|[2408.14906v1](http://arxiv.org/abs/2408.14906v1)|**[link](https://github.com/writer/writing-in-the-margins)**|
+|**2024-08-27**|**ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning**|Wenjin Hou et.al.|[2408.14868v1](http://arxiv.org/abs/2408.14868v1)|null|
+|**2024-08-27**|**Phase behavior of symmetric diblock copolymers under 3D soft confinement**|Zhijuan He et.al.|[2408.14863v1](http://arxiv.org/abs/2408.14863v1)|null|
+|**2024-08-27**|**DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose**|Yusuke Yoshiyasu et.al.|[2408.14860v1](http://arxiv.org/abs/2408.14860v1)|null|
+|**2024-08-27**|**In situ fully vectorial tomography and pupil function retrieval of tightly focused fields**|Xin Liu et.al.|[2408.14852v1](http://arxiv.org/abs/2408.14852v1)|null|
+|**2024-08-27**|**Intraoperative Glioma Segmentation with YOLO + SAM for Improved Accuracy in Tumor Resection**|Samir Kassam et.al.|[2408.14847v1](http://arxiv.org/abs/2408.14847v1)|null|
+|**2024-08-27**|**Diffusion-Occ: 3D Point Cloud Completion via Occupancy Diffusion**|Guoqing Zhang et.al.|[2408.14846v1](http://arxiv.org/abs/2408.14846v1)|null|
+|**2024-08-27**|**AAVENUE: Detecting LLM Biases on NLU Tasks in AAVE via a Novel Benchmark**|Abhay Gupta et.al.|[2408.14845v1](http://arxiv.org/abs/2408.14845v1)|null|
+|**2024-08-27**|**PolicyLR: A Logic Representation For Privacy Policies**|Ashish Hooda et.al.|[2408.14830v1](http://arxiv.org/abs/2408.14830v1)|null|
+|**2024-08-27**|**Alfie: Democratising RGBA Image Generation With No  $$ $**|Fabio Quattrini et.al.|[2408.14826v1](http://arxiv.org/abs/2408.14826v1)|**[link](https://github.com/aimagelab/alfie)**|
+|**2024-08-27**|**From Rule-Based Models to Deep Learning Transformers Architectures for Natural Language Processing and Sign Language Translation Systems: Survey, Taxonomy and Performance Evaluation**|Nada Shahin et.al.|[2408.14825v1](http://arxiv.org/abs/2408.14825v1)|null|
+|**2024-08-27**|**GSIFN: A Graph-Structured and Interlaced-Masked Multimodal Transformer Based Fusion Network for Multimodal Sentiment Analysis**|Yijie Jin et.al.|[2408.14809v1](http://arxiv.org/abs/2408.14809v1)|null|
+|**2024-08-27**|**Poly2Vec: Polymorphic Encoding of Geospatial Objects for Spatial Reasoning with Deep Neural Networks**|Maria Despoina Siampou et.al.|[2408.14806v1](http://arxiv.org/abs/2408.14806v1)|null|
+|**2024-08-27**|**Maxwell's equal-area law for Vaidya-Bonner-de Sitter black hole under Lorentz invariance violation**|Yenshembam Priyobarta Singh et.al.|[2408.14796v1](http://arxiv.org/abs/2408.14796v1)|null|
+|**2024-08-27**|**Optimizing Structured Data Processing through Robotic Process Automation**|Vivek Bhardwaj et.al.|[2408.14791v1](http://arxiv.org/abs/2408.14791v1)|null|
+|**2024-08-27**|**Global derivation of the 1D Vlasov-Poisson equation from quantum many-body dynamics with screened Coulomb potential**|Xuwen Chen et.al.|[2408.14767v1](http://arxiv.org/abs/2408.14767v1)|null|
 |**2024-08-26**|**Explicit Inductive Inference using Large Language Models**|Tianyang Liu et.al.|[2408.14467v1](http://arxiv.org/abs/2408.14467v1)|null|
 |**2024-08-26**|**Center Direction Network for Grasping Point Localization on Cloths**|Domen Tabernik et.al.|[2408.14456v1](http://arxiv.org/abs/2408.14456v1)|**[link](https://github.com/vicoslab/cedirnet-3dof)**|
 |**2024-08-26**|**Reconstructing physiological signals from fMRI across the adult lifespan**|Shiyu Wang et.al.|[2408.14453v1](http://arxiv.org/abs/2408.14453v1)|null|
