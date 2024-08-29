@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Multi-Feature Aggregation in Diffusion Models for Enhanced Face Super-Resolution**|Marcelo dos Santos et.al.|[2408.15386v1](http://arxiv.org/abs/2408.15386v1)|**[link](https://github.com/marcelowds/fasr)**|
+|**2024-08-22**|**3D Photon Counting CT Image Super-Resolution Using Conditional Diffusion Model**|Chuang Niu et.al.|[2408.15283v1](http://arxiv.org/abs/2408.15283v1)|null|
 |**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218v1](http://arxiv.org/abs/2408.15218v1)|null|
 |**2024-08-27**|**A Preliminary Exploration Towards General Image Restoration**|Xiangtao Kong et.al.|[2408.15143v1](http://arxiv.org/abs/2408.15143v1)|null|
 |**2024-08-27**|**Enhancing License Plate Super-Resolution: A Layout-Aware and Character-Driven Approach**|Valfride Nascimento et.al.|[2408.15103v1](http://arxiv.org/abs/2408.15103v1)|**[link](https://github.com/valfride/lpsr-lacd)**|
@@ -33,7 +35,7 @@
 |**2024-08-23**|**ResSR: A Residual Approach to Super-Resolving Multispectral Images**|Haley Duba-Sullivan et.al.|[2408.13225v1](http://arxiv.org/abs/2408.13225v1)|null|
 |**2024-08-23**|**SIMPLE: Simultaneous Multi-Plane Self-Supervised Learning for Isotropic MRI Restoration from Anisotropic Data**|Rotem Benisty et.al.|[2408.13065v1](http://arxiv.org/abs/2408.13065v1)|null|
 |**2024-08-22**|**A Unified Plug-and-Play Algorithm with Projected Landweber Operator for Split Convex Feasibility Problems**|Shuchang Zhang et.al.|[2408.12100v1](http://arxiv.org/abs/2408.12100v1)|null|
-|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|null|
+|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|**[link](https://github.com/renyulin-f/mambacsr)**|
 |**2024-08-21**|**Quantum super-resolution microscopy by photon statistics and structured light**|Fabio Picariello et.al.|[2408.11654v1](http://arxiv.org/abs/2408.11654v1)|null|
 |**2024-08-22**|**Phase-Based Approaches for Rapid Construction of Magnetic Fields in NV Magnetometry**|Prabhat Anand et.al.|[2408.11069v2](http://arxiv.org/abs/2408.11069v2)|null|
 |**2024-08-20**|**MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling**|Zili Liu et.al.|[2408.10854v1](http://arxiv.org/abs/2408.10854v1)|null|
@@ -1269,8 +1271,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**3D Photon Counting CT Image Super-Resolution Using Conditional Diffusion Model**|Chuang Niu et.al.|[2408.15283v1](http://arxiv.org/abs/2408.15283v1)|null|
 |**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218v1](http://arxiv.org/abs/2408.15218v1)|null|
-|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|null|
+|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|**[link](https://github.com/renyulin-f/mambacsr)**|
 |**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|**[link](https://github.com/alik033/ml-craist)**|
 |**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674v1](http://arxiv.org/abs/2408.09674v1)|**[link](https://github.com/dslisleedh/IGConv)**|
 |**2024-08-25**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v2](http://arxiv.org/abs/2408.08736v2)|**[link](https://github.com/Tillyhere/TADT)**|
@@ -1902,6 +1905,50 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997v1](http://arxiv.org/abs/2408.15997v1)|**[link](https://github.com/lunaaa95/mou)**|
+|**2024-08-28**|**ClimDetect: A Benchmark Dataset for Climate Change Detection and Attribution**|Sungduk Yu et.al.|[2408.15993v1](http://arxiv.org/abs/2408.15993v1)|null|
+|**2024-08-28**|**Stochastic Dark Matter from Curvature Perturbations**|Raghuveer Garani et.al.|[2408.15987v1](http://arxiv.org/abs/2408.15987v1)|null|
+|**2024-08-28**|**In-Context Imitation Learning via Next-Token Prediction**|Letian Fu et.al.|[2408.15980v1](http://arxiv.org/abs/2408.15980v1)|null|
+|**2024-08-28**|**Stability and localization of nanoscale skyrmions and bimerons in an all-magnetic van der Waals heterostructure**|Dongzhe Li et.al.|[2408.15974v1](http://arxiv.org/abs/2408.15974v1)|null|
+|**2024-08-28**|**Supertranslations from Scattering Amplitudes**|Asaad Elkhidir et.al.|[2408.15961v1](http://arxiv.org/abs/2408.15961v1)|null|
+|**2024-08-28**|**Modeling and Analyzing the Influence of Non-Item Pages on Sequential Next-Item Prediction**|Elisabeth Fischer et.al.|[2408.15953v1](http://arxiv.org/abs/2408.15953v1)|null|
+|**2024-08-28**|**Sigma Flows for Image and Data Labeling and Learning Structured Prediction**|Jonas Cassel et.al.|[2408.15946v1](http://arxiv.org/abs/2408.15946v1)|null|
+|**2024-08-28**|**Multi-modal Adversarial Training for Zero-Shot Voice Cloning**|John Janiczek et.al.|[2408.15916v1](http://arxiv.org/abs/2408.15916v1)|null|
+|**2024-08-28**|**Decentralized LLM Inference over Edge Networks with Energy Harvesting**|Aria Khoshsirat et.al.|[2408.15907v1](http://arxiv.org/abs/2408.15907v1)|null|
+|**2024-08-28**|**SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors**|Zhiqing Zhang et.al.|[2408.15887v1](http://arxiv.org/abs/2408.15887v1)|null|
+|**2024-08-28**|**Tree-tubings and the combinatorics of resurgent Dyson-Schwinger equations**|Michael Borinsky et.al.|[2408.15883v1](http://arxiv.org/abs/2408.15883v1)|null|
+|**2024-08-28**|**Robust Statistical Scaling of Outlier Scores: Improving the Quality of Outlier Probabilities for Outliers (Extended Version)**|Philipp Röchner et.al.|[2408.15874v1](http://arxiv.org/abs/2408.15874v1)|null|
+|**2024-08-28**|**The  $g^6$  pressure of hot Yang-Mills theory: Canonical form of the integrand**|Pablo Navarrete et.al.|[2408.15830v1](http://arxiv.org/abs/2408.15830v1)|null|
+|**2024-08-28**|**SITransformer: Shared Information-Guided Transformer for Extreme Multimodal Summarization**|Sicheng Liu et.al.|[2408.15829v1](http://arxiv.org/abs/2408.15829v1)|**[link](https://github.com/sichengleoliu/mmasia24-xmsmo)**|
+|**2024-08-28**|**Automatic Differential Diagnosis using Transformer-Based Multi-Label Sequence Classification**|Abu Adnan Sadi et.al.|[2408.15827v1](http://arxiv.org/abs/2408.15827v1)|null|
+|**2024-08-28**|**MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing**|Congying Xu et.al.|[2408.15815v1](http://arxiv.org/abs/2408.15815v1)|null|
+|**2024-08-28**|**Object Detection for Vehicle Dashcams using Transformers**|Osama Mustafa et.al.|[2408.15809v1](http://arxiv.org/abs/2408.15809v1)|null|
+|**2024-08-28**|**LM-PUB-QUIZ: A Comprehensive Framework for Zero-Shot Evaluation of Relational Knowledge in Language Models**|Max Ploner et.al.|[2408.15729v1](http://arxiv.org/abs/2408.15729v1)|null|
+|**2024-08-28**|**Autoregressive model path dependence near Ising criticality**|Yi Hong Teoh et.al.|[2408.15715v1](http://arxiv.org/abs/2408.15715v1)|null|
+|**2024-08-28**|**Towards Realistic Example-based Modeling via 3D Gaussian Stitching**|Xinyu Gao et.al.|[2408.15708v1](http://arxiv.org/abs/2408.15708v1)|null|
+|**2024-08-28**|**Very long-periodic pulsations detected simultaneously in a white-light flare and sunspot penumbra**|Dong Li et.al.|[2408.15706v1](http://arxiv.org/abs/2408.15706v1)|null|
+|**2024-08-28**|**TempoFormer: A Transformer for Temporally-aware Representations in Change Detection**|Talia Tseriotou et.al.|[2408.15689v1](http://arxiv.org/abs/2408.15689v1)|null|
+|**2024-08-28**|**Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts**|Fanjie Xu et.al.|[2408.15681v1](http://arxiv.org/abs/2408.15681v1)|null|
+|**2024-08-28**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678v1](http://arxiv.org/abs/2408.15678v1)|null|
+|**2024-08-28**|**Electrical Impedance Tomography meets Reduced Order Modelling: a framework for faster and more reliable electrical conductivity estimations**|Matthew R. Walker et.al.|[2408.15673v1](http://arxiv.org/abs/2408.15673v1)|null|
+|**2024-08-28**|**Towards reliable respiratory disease diagnosis based on cough sounds and vision transformers**|Qian Wang et.al.|[2408.15667v1](http://arxiv.org/abs/2408.15667v1)|null|
+|**2024-08-28**|**Agricultural On-Demand Networks for 6G enabled by THz Communication**|Daniel Lindenschmitt et.al.|[2408.15665v1](http://arxiv.org/abs/2408.15665v1)|null|
+|**2024-08-28**|**Asymptotic integrability and Hamilton theory of soliton's motion along large-scale background waves**|A. M. Kamchatnov et.al.|[2408.15662v1](http://arxiv.org/abs/2408.15662v1)|null|
+|**2024-08-28**|**Harnessing the Intrinsic Knowledge of Pretrained Language Models for Challenging Text Classification Settings**|Lingyu Gao et.al.|[2408.15650v1](http://arxiv.org/abs/2408.15650v1)|null|
+|**2024-08-28**|**PointEMRay: A Novel Efficient SBR Framework on Point Based Geometry**|Kaiqiao Yang et.al.|[2408.15583v1](http://arxiv.org/abs/2408.15583v1)|null|
+|**2024-08-28**|**CGRA4ML: A Framework to Implement Modern Neural Networks for Scientific Edge Computing**|G Abarajithan et.al.|[2408.15561v1](http://arxiv.org/abs/2408.15561v1)|null|
+|**2024-08-28**|**Topological string as massive spinning particle in three dimensions**|I. Yu. Karataeva et.al.|[2408.15526v1](http://arxiv.org/abs/2408.15526v1)|null|
+|**2024-08-28**|**Ray-Distance Volume Rendering for Neural Scene Reconstruction**|Ruihong Yin et.al.|[2408.15524v1](http://arxiv.org/abs/2408.15524v1)|null|
+|**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|Seonghoon Yu et.al.|[2408.15521v1](http://arxiv.org/abs/2408.15521v1)|null|
+|**2024-08-28**|**Predicting Parameter Change's Effect on Cellular Network Time Series**|Mingjie Li et.al.|[2408.15516v1](http://arxiv.org/abs/2408.15516v1)|null|
+|**2024-08-28**|**Measuring the Reliability of Causal Probing Methods: Tradeoffs, Limitations, and the Plight of Nullifying Interventions**|Marc Canby et.al.|[2408.15510v1](http://arxiv.org/abs/2408.15510v1)|null|
+|**2024-08-28**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496v1](http://arxiv.org/abs/2408.15496v1)|null|
+|**2024-08-28**|**Estimating QSVT angles for matrix inversion with large condition numbers**|I. Novikau et.al.|[2408.15453v1](http://arxiv.org/abs/2408.15453v1)|null|
+|**2024-08-27**|**Asymptotic stability of solitary waves for the 1D focusing cubic Schrödinger equation under even perturbations**|Yongming Li et.al.|[2408.15427v1](http://arxiv.org/abs/2408.15427v1)|null|
+|**2024-08-27**|**The Fourier transform of planar convex bodies and discrepancy over intervals of rotations**|Thomas Beretti et.al.|[2408.15412v1](http://arxiv.org/abs/2408.15412v1)|null|
+|**2024-08-27**|**Divergence-free neural operators for stress field modeling in polycrystalline materials**|Mohammad S. Khorrami et.al.|[2408.15408v1](http://arxiv.org/abs/2408.15408v1)|null|
+|**2024-08-27**|**DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model DualKanbaFormer: Kolmogorov-Arnold Networks and State Space Model Transformer for Multimodal Aspect-based Sentiment Analysis**|Adamu Lawan et.al.|[2408.15379v1](http://arxiv.org/abs/2408.15379v1)|null|
+|**2024-08-27**|**Optimizing Lung Cancer Detection in CT Imaging: A Wavelet Multi-Layer Perceptron (WMLP) Approach Enhanced by Dragonfly Algorithm (DA)**|Bitasadat Jamshidi et.al.|[2408.15355v1](http://arxiv.org/abs/2408.15355v1)|null|
 |**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243v1](http://arxiv.org/abs/2408.15243v1)|null|
 |**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237v1](http://arxiv.org/abs/2408.15237v1)|**[link](https://github.com/jxiw/mambainllama)**|
 |**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231v1](http://arxiv.org/abs/2408.15231v1)|null|
