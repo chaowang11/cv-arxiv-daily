@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -1265,7 +1265,7 @@
 |**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 
-<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -1714,7 +1714,7 @@
 |**2022-11-14**|**Accurate Image Restoration with Attention Retractable Transformer**|Jiale Zhang et.al.|[2210.01427v3](http://arxiv.org/abs/2210.01427v3)|**[link](https://github.com/gladzhang/art)**|
 |**2022-10-14**|**From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution**|Xiaoming Li et.al.|[2210.00752v2](http://arxiv.org/abs/2210.00752v2)|**[link](https://github.com/csxmli2016/redegnet)**|
 
-<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -1834,7 +1834,7 @@
 |**2022-12-02**|**AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling**|Alexandros Stergiou et.al.|[2111.00772v3](http://arxiv.org/abs/2111.00772v3)|**[link](https://github.com/alexandrosstergiou/adaPool)**|
 |**2021-11-30**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v2](http://arxiv.org/abs/2110.15327v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
 
 ## Text Erasing
 
@@ -1853,7 +1853,7 @@
 |**2018-12-03**|**EnsNet: Ensconce Text in the Wild**|Shuaitao Zhang et.al.|[1812.00723v1](http://arxiv.org/abs/1812.00723v1)|**[link](https://github.com/HCIILAB/Scene-Text-Removal)**|
 |**2017-05-08**|**Scene Text Eraser**|Toshiki Nakamura et.al.|[1705.02772v1](http://arxiv.org/abs/1705.02772v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
 
 ## Video Decaptioning
 
@@ -1899,7 +1899,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
 
 ## Transformer
 
@@ -1919,7 +1919,7 @@
 |**2024-08-28**|**Tree-tubings and the combinatorics of resurgent Dyson-Schwinger equations**|Michael Borinsky et.al.|[2408.15883v1](http://arxiv.org/abs/2408.15883v1)|null|
 |**2024-08-28**|**Robust Statistical Scaling of Outlier Scores: Improving the Quality of Outlier Probabilities for Outliers (Extended Version)**|Philipp Röchner et.al.|[2408.15874v1](http://arxiv.org/abs/2408.15874v1)|null|
 |**2024-08-28**|**The  $g^6$  pressure of hot Yang-Mills theory: Canonical form of the integrand**|Pablo Navarrete et.al.|[2408.15830v1](http://arxiv.org/abs/2408.15830v1)|null|
-|**2024-08-28**|**SITransformer: Shared Information-Guided Transformer for Extreme Multimodal Summarization**|Sicheng Liu et.al.|[2408.15829v1](http://arxiv.org/abs/2408.15829v1)|**[link](https://github.com/sichengleoliu/mmasia24-xmsmo)**|
+|**2024-08-29**|**SITransformer: Shared Information-Guided Transformer for Extreme Multimodal Summarization**|Sicheng Liu et.al.|[2408.15829v2](http://arxiv.org/abs/2408.15829v2)|**[link](https://github.com/sichengleoliu/mmasia24-xmsmo)**|
 |**2024-08-28**|**Automatic Differential Diagnosis using Transformer-Based Multi-Label Sequence Classification**|Abu Adnan Sadi et.al.|[2408.15827v1](http://arxiv.org/abs/2408.15827v1)|null|
 |**2024-08-28**|**MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing**|Congying Xu et.al.|[2408.15815v1](http://arxiv.org/abs/2408.15815v1)|null|
 |**2024-08-28**|**Object Detection for Vehicle Dashcams using Transformers**|Osama Mustafa et.al.|[2408.15809v1](http://arxiv.org/abs/2408.15809v1)|null|
@@ -1929,20 +1929,20 @@
 |**2024-08-28**|**Very long-periodic pulsations detected simultaneously in a white-light flare and sunspot penumbra**|Dong Li et.al.|[2408.15706v1](http://arxiv.org/abs/2408.15706v1)|null|
 |**2024-08-28**|**TempoFormer: A Transformer for Temporally-aware Representations in Change Detection**|Talia Tseriotou et.al.|[2408.15689v1](http://arxiv.org/abs/2408.15689v1)|null|
 |**2024-08-28**|**Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts**|Fanjie Xu et.al.|[2408.15681v1](http://arxiv.org/abs/2408.15681v1)|null|
-|**2024-08-28**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678v1](http://arxiv.org/abs/2408.15678v1)|null|
+|**2024-08-29**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678v2](http://arxiv.org/abs/2408.15678v2)|null|
 |**2024-08-28**|**Electrical Impedance Tomography meets Reduced Order Modelling: a framework for faster and more reliable electrical conductivity estimations**|Matthew R. Walker et.al.|[2408.15673v1](http://arxiv.org/abs/2408.15673v1)|null|
 |**2024-08-28**|**Towards reliable respiratory disease diagnosis based on cough sounds and vision transformers**|Qian Wang et.al.|[2408.15667v1](http://arxiv.org/abs/2408.15667v1)|null|
 |**2024-08-28**|**Agricultural On-Demand Networks for 6G enabled by THz Communication**|Daniel Lindenschmitt et.al.|[2408.15665v1](http://arxiv.org/abs/2408.15665v1)|null|
 |**2024-08-28**|**Asymptotic integrability and Hamilton theory of soliton's motion along large-scale background waves**|A. M. Kamchatnov et.al.|[2408.15662v1](http://arxiv.org/abs/2408.15662v1)|null|
 |**2024-08-28**|**Harnessing the Intrinsic Knowledge of Pretrained Language Models for Challenging Text Classification Settings**|Lingyu Gao et.al.|[2408.15650v1](http://arxiv.org/abs/2408.15650v1)|null|
 |**2024-08-28**|**PointEMRay: A Novel Efficient SBR Framework on Point Based Geometry**|Kaiqiao Yang et.al.|[2408.15583v1](http://arxiv.org/abs/2408.15583v1)|null|
-|**2024-08-28**|**CGRA4ML: A Framework to Implement Modern Neural Networks for Scientific Edge Computing**|G Abarajithan et.al.|[2408.15561v1](http://arxiv.org/abs/2408.15561v1)|null|
+|**2024-08-29**|**CGRA4ML: A Framework to Implement Modern Neural Networks for Scientific Edge Computing**|G Abarajithan et.al.|[2408.15561v2](http://arxiv.org/abs/2408.15561v2)|null|
 |**2024-08-28**|**Topological string as massive spinning particle in three dimensions**|I. Yu. Karataeva et.al.|[2408.15526v1](http://arxiv.org/abs/2408.15526v1)|null|
 |**2024-08-28**|**Ray-Distance Volume Rendering for Neural Scene Reconstruction**|Ruihong Yin et.al.|[2408.15524v1](http://arxiv.org/abs/2408.15524v1)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|Seonghoon Yu et.al.|[2408.15521v1](http://arxiv.org/abs/2408.15521v1)|null|
 |**2024-08-28**|**Predicting Parameter Change's Effect on Cellular Network Time Series**|Mingjie Li et.al.|[2408.15516v1](http://arxiv.org/abs/2408.15516v1)|null|
 |**2024-08-28**|**Measuring the Reliability of Causal Probing Methods: Tradeoffs, Limitations, and the Plight of Nullifying Interventions**|Marc Canby et.al.|[2408.15510v1](http://arxiv.org/abs/2408.15510v1)|null|
-|**2024-08-28**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496v1](http://arxiv.org/abs/2408.15496v1)|null|
+|**2024-08-29**|**ReMamba: Equip Mamba with Effective Long-Sequence Modeling**|Danlong Yuan et.al.|[2408.15496v2](http://arxiv.org/abs/2408.15496v2)|null|
 |**2024-08-28**|**Estimating QSVT angles for matrix inversion with large condition numbers**|I. Novikau et.al.|[2408.15453v1](http://arxiv.org/abs/2408.15453v1)|null|
 |**2024-08-27**|**Asymptotic stability of solitary waves for the 1D focusing cubic Schrödinger equation under even perturbations**|Yongming Li et.al.|[2408.15427v1](http://arxiv.org/abs/2408.15427v1)|null|
 |**2024-08-27**|**The Fourier transform of planar convex bodies and discrepancy over intervals of rotations**|Thomas Beretti et.al.|[2408.15412v1](http://arxiv.org/abs/2408.15412v1)|null|
@@ -21682,7 +21682,7 @@
 |**2022-12-05**|**Solving the Weather4cast Challenge via Visual Transformers for 3D Images**|Yury Belousov et.al.|[2212.02456v1](http://arxiv.org/abs/2212.02456v1)|**[link](https://github.com/bruce-willis/weather4cast-2022)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -21925,7 +21925,7 @@
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
 
 ## Video Inpainting
 
@@ -21942,7 +21942,7 @@
 |**2024-06-04**|**Optimised ProPainter for Video Diminished Reality Inpainting**|Pengze Li et.al.|[2406.02287v1](http://arxiv.org/abs/2406.02287v1)|null|
 |**2024-04-30**|**Semantically Consistent Video Inpainting with Conditional Diffusion Models**|Dylan Green et.al.|[2405.00251v1](http://arxiv.org/abs/2405.00251v1)|null|
 |**2024-04-24**|**Raformer: Redundancy-Aware Transformer for Video Wire Inpainting**|Zhong Ji et.al.|[2404.15802v1](http://arxiv.org/abs/2404.15802v1)|**[link](https://github.com/Suyimu/WRV2)**|
-|**2024-05-06**|**Multilateral Temporal-view Pyramid Transformer for Video Inpainting Detection**|Ying Zhang et.al.|[2404.11054v2](http://arxiv.org/abs/2404.11054v2)|null|
+|**2024-08-29**|**Mumpy: Multilateral Temporal-view Pyramid Transformer for Video Inpainting Detection**|Ying Zhang et.al.|[2404.11054v3](http://arxiv.org/abs/2404.11054v3)|null|
 |**2024-03-25**|**Low-rank quaternion tensor completion for color video inpainting via a novel factorization strategy**|Zhenzhi Qin et.al.|[2403.16480v1](http://arxiv.org/abs/2403.16480v1)|null|
 |**2024-03-24**|**Towards Online Real-Time Memory-based Video Inpainting Transformers**|Guillaume Thiry et.al.|[2403.16161v1](http://arxiv.org/abs/2403.16161v1)|null|
 |**2024-03-19**|**VQ-NeRV: A Vector Quantized Neural Representation for Videos**|Yunjie Xu et.al.|[2403.12401v1](http://arxiv.org/abs/2403.12401v1)|**[link](https://github.com/magicffourier/vq-nerv)**|
@@ -22022,7 +22022,7 @@
 |**2015-03-24**|**Parallel matrix factorization for low-rank tensor completion**|Yangyang Xu et.al.|[1312.1254v2](http://arxiv.org/abs/1312.1254v2)|null|
 |**2014-04-08**|**Minimum  $n$ -Rank Approximation via Iterative Hard Thresholding**|Min Zhang et.al.|[1311.4291v2](http://arxiv.org/abs/1311.4291v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240830>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
