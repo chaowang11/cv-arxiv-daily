@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution**|Masoomeh Aslahishahri et.al.|[2408.16959v1](http://arxiv.org/abs/2408.16959v1)|**[link](https://github.com/bia006/hitsr)**|
+|**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866v1](http://arxiv.org/abs/2408.16866v1)|null|
 |**2024-08-30**|**Beyond MR Image Harmonization: Resolution Matters Too**|Savannah P. Hays et.al.|[2408.16562v2](http://arxiv.org/abs/2408.16562v2)|null|
 |**2024-08-29**|**Super-Resolution works for coastal simulations**|Zhi-Song Liu et.al.|[2408.16553v1](http://arxiv.org/abs/2408.16553v1)|null|
 |**2024-08-29**|**Enhanced Control for Diffusion Bridge in Image Restoration**|Conghan Yue et.al.|[2408.16303v1](http://arxiv.org/abs/2408.16303v1)|**[link](https://github.com/Hammour-steak/ECDB)**|
@@ -50,7 +52,7 @@
 |**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674v1](http://arxiv.org/abs/2408.09674v1)|**[link](https://github.com/dslisleedh/IGConv)**|
 |**2024-08-18**|**Angle of Arrival Estimation with Transformer: A Sparse and Gridless Method with Zero-Shot Capability**|Zhaoxuan Zhu et.al.|[2408.09362v1](http://arxiv.org/abs/2408.09362v1)|null|
 |**2024-08-17**|**Discovery of Limb-Brightening in the Parsec-Scale Jet of NGC 315 through Global VLBI Observations and Its Implications for Jet Models**|Jongho Park et.al.|[2408.09069v1](http://arxiv.org/abs/2408.09069v1)|null|
-|**2024-08-16**|**AI-assisted super-resolution cosmological simulations IV: An emulator for deterministic realizations**|Xiaowen Zhang et.al.|[2408.09051v1](http://arxiv.org/abs/2408.09051v1)|null|
+|**2024-08-16**|**AI-assisted super-resolution cosmological simulations IV: An emulator for deterministic realizations**|Xiaowen Zhang et.al.|[2408.09051v1](http://arxiv.org/abs/2408.09051v1)|**[link](https://github.com/xwzhang98/SREmulator)**|
 |**2024-08-25**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v2](http://arxiv.org/abs/2408.08736v2)|**[link](https://github.com/Tillyhere/TADT)**|
 |**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665v1](http://arxiv.org/abs/2408.08665v1)|null|
 |**2024-08-16**|**Reference-free Axial Super-resolution of 3D Microscopy Images using Implicit Neural Representation with a 2D Diffusion Prior**|Kyungryun Lee et.al.|[2408.08616v1](http://arxiv.org/abs/2408.08616v1)|**[link](https://github.com/hvcl/inr-diffusion)**|
@@ -1275,6 +1277,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution**|Masoomeh Aslahishahri et.al.|[2408.16959v1](http://arxiv.org/abs/2408.16959v1)|**[link](https://github.com/bia006/hitsr)**|
 |**2024-08-22**|**3D Photon Counting CT Image Super-Resolution Using Conditional Diffusion Model**|Chuang Niu et.al.|[2408.15283v1](http://arxiv.org/abs/2408.15283v1)|null|
 |**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218v1](http://arxiv.org/abs/2408.15218v1)|null|
 |**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|**[link](https://github.com/renyulin-f/mambacsr)**|
@@ -1909,6 +1912,54 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**CLOCR-C: Context Leveraging OCR Correction with Pre-trained Language Models**|Jonathan Bourne et.al.|[2408.17428v1](http://arxiv.org/abs/2408.17428v1)|null|
+|**2024-08-30**|**Magnetogenesis from axion-SU(2) inflation**|Axel Brandenburg et.al.|[2408.17413v1](http://arxiv.org/abs/2408.17413v1)|null|
+|**2024-08-30**|**Technostress and Resistance to Change in Maritime Digital Transformation: A Focused Review**|Benedicte Frederikke Rex Fleron et.al.|[2408.17408v1](http://arxiv.org/abs/2408.17408v1)|null|
+|**2024-08-30**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373v1](http://arxiv.org/abs/2408.17373v1)|null|
+|**2024-08-30**|**An enhanced version of the Gaia map of the brightness of the natural sky**|Eduard Masana et.al.|[2408.17371v1](http://arxiv.org/abs/2408.17371v1)|null|
+|**2024-08-30**|**Physics-Informed Neural Networks for Transonic Flows around an Airfoil**|Simon Wassing et.al.|[2408.17364v1](http://arxiv.org/abs/2408.17364v1)|null|
+|**2024-08-30**|**Assessing Generative Language Models in Classification Tasks: Performance and Self-Evaluation Capabilities in the Environmental and Climate Change Domain**|Francesca Grasso et.al.|[2408.17362v1](http://arxiv.org/abs/2408.17362v1)|**[link](https://github.com/stefanolocci/LLMClassification)**|
+|**2024-08-30**|**On Nonparanormal Likelihoods**|Torsten Hothorn et.al.|[2408.17346v1](http://arxiv.org/abs/2408.17346v1)|null|
+|**2024-08-30**|**Modularity in Transformers: Investigating Neuron Separability & Specialization**|Nicholas Pochinkov et.al.|[2408.17324v1](http://arxiv.org/abs/2408.17324v1)|null|
+|**2024-08-30**|**Investigating Neuron Ablation in Attention Heads: The Case for Peak Activation Centering**|Nicholas Pochinkov et.al.|[2408.17322v1](http://arxiv.org/abs/2408.17322v1)|**[link](https://github.com/nickypro/investigating-ablation)**|
+|**2024-08-30**|**BioBricks.ai: A Versioned Data Registry for Life Sciences Data Assets**|Yifan Gao et.al.|[2408.17320v1](http://arxiv.org/abs/2408.17320v1)|null|
+|**2024-08-30**|**Human Rights for the Digital Age**|Shaleeza Yaqoob Siddiqui et.al.|[2408.17302v1](http://arxiv.org/abs/2408.17302v1)|null|
+|**2024-08-30**|**Relativistic and Ultra-Relativistic Electron Bursts in Earth's Magnetotail Observed by Low-Altitude Satellites**|Xiao-Jia Zhang et.al.|[2408.17299v1](http://arxiv.org/abs/2408.17299v1)|null|
+|**2024-08-30**|**Predicting the Impact of Generative AI Using an Agent-Based Model**|Joao Tiago Aparicio et.al.|[2408.17268v1](http://arxiv.org/abs/2408.17268v1)|null|
+|**2024-08-30**|**A nonlinear elasticity model in computer vision**|John M. Ball et.al.|[2408.17237v1](http://arxiv.org/abs/2408.17237v1)|null|
+|**2024-08-30**|**CondSeg: Ellipse Estimation of Pupil and Iris via Conditioned Segmentation**|Zhuang Jia et.al.|[2408.17231v1](http://arxiv.org/abs/2408.17231v1)|null|
+|**2024-08-30**|**Improving Extraction of Clinical Event Contextual Properties from Electronic Health Records: A Comparative Study**|Shubham Agarwal et.al.|[2408.17181v1](http://arxiv.org/abs/2408.17181v1)|null|
+|**2024-08-30**|**Optimal Strategy in Werewolf Game: A Game Theoretic Perspective**|ST Wang et.al.|[2408.17177v1](http://arxiv.org/abs/2408.17177v1)|null|
+|**2024-08-30**|**Learning Multi-Target TDOA Features for Sound Event Localization and Detection**|Axel Berg et.al.|[2408.17166v1](http://arxiv.org/abs/2408.17166v1)|**[link](https://github.com/axeber01/ngcc-seld)**|
+|**2024-08-30**|**The Iterative Optimal Brain Surgeon: Faster Sparse Recovery by Leveraging Second-Order Information**|Diyuan Wu et.al.|[2408.17163v1](http://arxiv.org/abs/2408.17163v1)|null|
+|**2024-08-30**|**Deep Feature Embedding for Tabular Data**|Yuqian Wu et.al.|[2408.17162v1](http://arxiv.org/abs/2408.17162v1)|null|
+|**2024-08-30**|**The MICADO first light imager for the ELT: Sparse Aperture Masks, design and simulations**|Elsa Huby et.al.|[2408.17146v1](http://arxiv.org/abs/2408.17146v1)|null|
+|**2024-08-30**|**Inverse source problem for the space-time fractional parabolic equation on a metric star graph with an integral overdetermination condition**|R. R. Ashurov et.al.|[2408.17144v1](http://arxiv.org/abs/2408.17144v1)|null|
+|**2024-08-30**|**Temporal and Interactive Modeling for Efficient Human-Human Motion Generation**|Yabiao Wang et.al.|[2408.17135v1](http://arxiv.org/abs/2408.17135v1)|null|
+|**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131v1](http://arxiv.org/abs/2408.17131v1)|null|
+|**2024-08-30**|**Stochastic Vector Approximate Message Passing with applications to phase retrieval**|Hajime Ueda et.al.|[2408.17102v1](http://arxiv.org/abs/2408.17102v1)|null|
+|**2024-08-30**|**Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training**|Zizheng Huang et.al.|[2408.17081v1](http://arxiv.org/abs/2408.17081v1)|**[link](https://github.com/huangzizheng01/shufflemamba)**|
+|**2024-08-30**|**Pion Condensation and Pion Star from Holographic QCD**|Yidian Chen et.al.|[2408.17080v1](http://arxiv.org/abs/2408.17080v1)|null|
+|**2024-08-30**|**Approximately Invertible Neural Network for Learned Image Compression**|Yanbo Gao et.al.|[2408.17073v1](http://arxiv.org/abs/2408.17073v1)|null|
+|**2024-08-30**|**Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer**|Shuai Peng et.al.|[2408.17062v1](http://arxiv.org/abs/2408.17062v1)|null|
+|**2024-08-30**|**A Survey of the Self Supervised Learning Mechanisms for Vision Transformers**|Asifullah Khan et.al.|[2408.17059v1](http://arxiv.org/abs/2408.17059v1)|null|
+|**2024-08-30**|**BTMuda: A Bi-level Multi-source unsupervised domain adaptation framework for breast cancer diagnosis**|Yuxiang Yang et.al.|[2408.17054v1](http://arxiv.org/abs/2408.17054v1)|null|
+|**2024-08-30**|**Efficient generation of multiqubit entanglement states using rapid adiabatic passage**|Shijie Xu et.al.|[2408.17048v1](http://arxiv.org/abs/2408.17048v1)|null|
+|**2024-08-30**|**Study And Implementation of Unitary Gates in Quantum Computation Using Schrodinger Dynamics**|Kumar Gautam et.al.|[2408.17035v1](http://arxiv.org/abs/2408.17035v1)|null|
+|**2024-08-30**|**Video to Music Moment Retrieval**|Zijie Xin et.al.|[2408.16990v1](http://arxiv.org/abs/2408.16990v1)|null|
+|**2024-08-30**|**Cross Fusion RGB-T Tracking with Bi-directional Adapter**|Zhirong Zeng et.al.|[2408.16979v1](http://arxiv.org/abs/2408.16979v1)|null|
+|**2024-08-30**|**Training Ultra Long Context Language Model with Fully Pipelined Distributed Transformer**|Jinghan Yao et.al.|[2408.16978v1](http://arxiv.org/abs/2408.16978v1)|**[link](https://github.com/microsoft/DeepSpeed)**|
+|**2024-08-30**|**Technical Report of HelixFold3 for Biomolecular Structure Prediction**|Lihang Liu et.al.|[2408.16975v1](http://arxiv.org/abs/2408.16975v1)|null|
+|**2024-08-30**|**HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution**|Masoomeh Aslahishahri et.al.|[2408.16959v1](http://arxiv.org/abs/2408.16959v1)|**[link](https://github.com/bia006/hitsr)**|
+|**2024-08-30**|**An Empirical Study of Scaling Laws for Transfer**|Matthew Barnett et.al.|[2408.16947v1](http://arxiv.org/abs/2408.16947v1)|null|
+|**2024-08-29**|**Algebraic method of group classification for semi-normalized classes of differential equations**|Celestin Kurujyibwami et.al.|[2408.16897v1](http://arxiv.org/abs/2408.16897v1)|null|
+|**2024-08-29**|**Tex-ViT: A Generalizable, Robust, Texture-based dual-branch cross-attention deepfake detector**|Deepak Dagar et.al.|[2408.16892v1](http://arxiv.org/abs/2408.16892v1)|null|
+|**2024-08-29**|**LV-UNet: A Lightweight and Vanilla Model for Medical Image Segmentation**|Juntao Jiang et.al.|[2408.16886v1](http://arxiv.org/abs/2408.16886v1)|null|
+|**2024-08-29**|**Comparative Analysis of Transfer Learning Models for Breast Cancer Classification**|Sania Eskandari et.al.|[2408.16859v1](http://arxiv.org/abs/2408.16859v1)|null|
+|**2024-08-29**|**Modeling offensive content detection for TikTok**|Kasper Cools et.al.|[2408.16857v1](http://arxiv.org/abs/2408.16857v1)|null|
+|**2024-08-29**|**Secure Integration of 5G in Industrial Networks: State of the Art, Challenges and Opportunities**|Sotiris Michaelides et.al.|[2408.16833v1](http://arxiv.org/abs/2408.16833v1)|null|
+|**2024-08-29**|**Block encoding by signal processing**|Christopher F. Kane et.al.|[2408.16824v1](http://arxiv.org/abs/2408.16824v1)|null|
+|**2024-08-29**|**Multi-Component Dark Matter from Minimal Flavor Violation**|Federico Mescia et.al.|[2408.16812v1](http://arxiv.org/abs/2408.16812v1)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767v1](http://arxiv.org/abs/2408.16767v1)|null|
 |**2024-08-29**|**Variational approach to atom-membrane dynamics**|Dennis P. Clougherty et.al.|[2408.16759v1](http://arxiv.org/abs/2408.16759v1)|null|
 |**2024-08-29**|**How Far Can Cantonese NLP Go? Benchmarking Cantonese Capabilities of Large Language Models**|Jiyue Jiang et.al.|[2408.16756v1](http://arxiv.org/abs/2408.16756v1)|null|
