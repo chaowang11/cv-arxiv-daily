@@ -1915,7 +1915,7 @@
 |**2024-08-30**|**CLOCR-C: Context Leveraging OCR Correction with Pre-trained Language Models**|Jonathan Bourne et.al.|[2408.17428v1](http://arxiv.org/abs/2408.17428v1)|null|
 |**2024-08-30**|**Magnetogenesis from axion-SU(2) inflation**|Axel Brandenburg et.al.|[2408.17413v1](http://arxiv.org/abs/2408.17413v1)|null|
 |**2024-08-30**|**Technostress and Resistance to Change in Maritime Digital Transformation: A Focused Review**|Benedicte Frederikke Rex Fleron et.al.|[2408.17408v1](http://arxiv.org/abs/2408.17408v1)|null|
-|**2024-08-30**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373v1](http://arxiv.org/abs/2408.17373v1)|null|
+|**2024-09-02**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373v2](http://arxiv.org/abs/2408.17373v2)|null|
 |**2024-08-30**|**An enhanced version of the Gaia map of the brightness of the natural sky**|Eduard Masana et.al.|[2408.17371v1](http://arxiv.org/abs/2408.17371v1)|null|
 |**2024-08-30**|**Physics-Informed Neural Networks for Transonic Flows around an Airfoil**|Simon Wassing et.al.|[2408.17364v1](http://arxiv.org/abs/2408.17364v1)|null|
 |**2024-08-30**|**Assessing Generative Language Models in Classification Tasks: Performance and Self-Evaluation Capabilities in the Environmental and Climate Change Domain**|Francesca Grasso et.al.|[2408.17362v1](http://arxiv.org/abs/2408.17362v1)|**[link](https://github.com/stefanolocci/LLMClassification)**|
@@ -1937,7 +1937,7 @@
 |**2024-08-30**|**Inverse source problem for the space-time fractional parabolic equation on a metric star graph with an integral overdetermination condition**|R. R. Ashurov et.al.|[2408.17144v1](http://arxiv.org/abs/2408.17144v1)|null|
 |**2024-08-30**|**Temporal and Interactive Modeling for Efficient Human-Human Motion Generation**|Yabiao Wang et.al.|[2408.17135v1](http://arxiv.org/abs/2408.17135v1)|null|
 |**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131v1](http://arxiv.org/abs/2408.17131v1)|null|
-|**2024-08-30**|**Stochastic Vector Approximate Message Passing with applications to phase retrieval**|Hajime Ueda et.al.|[2408.17102v1](http://arxiv.org/abs/2408.17102v1)|null|
+|**2024-09-02**|**Stochastic Vector Approximate Message Passing with applications to phase retrieval**|Hajime Ueda et.al.|[2408.17102v2](http://arxiv.org/abs/2408.17102v2)|null|
 |**2024-08-30**|**Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training**|Zizheng Huang et.al.|[2408.17081v1](http://arxiv.org/abs/2408.17081v1)|**[link](https://github.com/huangzizheng01/shufflemamba)**|
 |**2024-08-30**|**Pion Condensation and Pion Star from Holographic QCD**|Yidian Chen et.al.|[2408.17080v1](http://arxiv.org/abs/2408.17080v1)|null|
 |**2024-08-30**|**Approximately Invertible Neural Network for Learned Image Compression**|Yanbo Gao et.al.|[2408.17073v1](http://arxiv.org/abs/2408.17073v1)|null|
@@ -1945,7 +1945,7 @@
 |**2024-08-30**|**A Survey of the Self Supervised Learning Mechanisms for Vision Transformers**|Asifullah Khan et.al.|[2408.17059v1](http://arxiv.org/abs/2408.17059v1)|null|
 |**2024-08-30**|**BTMuda: A Bi-level Multi-source unsupervised domain adaptation framework for breast cancer diagnosis**|Yuxiang Yang et.al.|[2408.17054v1](http://arxiv.org/abs/2408.17054v1)|null|
 |**2024-08-30**|**Efficient generation of multiqubit entanglement states using rapid adiabatic passage**|Shijie Xu et.al.|[2408.17048v1](http://arxiv.org/abs/2408.17048v1)|null|
-|**2024-08-30**|**Study And Implementation of Unitary Gates in Quantum Computation Using Schrodinger Dynamics**|Kumar Gautam et.al.|[2408.17035v1](http://arxiv.org/abs/2408.17035v1)|null|
+|**2024-09-02**|**Study And Implementation of Unitary Gates in Quantum Computation Using Schrodinger Dynamics**|Kumar Gautam et.al.|[2408.17035v2](http://arxiv.org/abs/2408.17035v2)|null|
 |**2024-08-30**|**Video to Music Moment Retrieval**|Zijie Xin et.al.|[2408.16990v1](http://arxiv.org/abs/2408.16990v1)|null|
 |**2024-08-30**|**Cross Fusion RGB-T Tracking with Bi-directional Adapter**|Zhirong Zeng et.al.|[2408.16979v1](http://arxiv.org/abs/2408.16979v1)|null|
 |**2024-08-30**|**Training Ultra Long Context Language Model with Fully Pipelined Distributed Transformer**|Jinghan Yao et.al.|[2408.16978v1](http://arxiv.org/abs/2408.16978v1)|**[link](https://github.com/microsoft/DeepSpeed)**|
@@ -22036,7 +22036,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-21**|**Video Diffusion Models are Strong Video Inpainter**|Minhyeok Lee et.al.|[2408.11402v1](http://arxiv.org/abs/2408.11402v1)|null|
+|**2024-09-02**|**Video Diffusion Models are Strong Video Inpainter**|Minhyeok Lee et.al.|[2408.11402v2](http://arxiv.org/abs/2408.11402v2)|null|
 |**2024-06-04**|**Learning-Based WiFi Fingerprint Inpainting via Generative Adversarial Networks**|Yu Chan et.al.|[2407.18915v1](http://arxiv.org/abs/2407.18915v1)|null|
 |**2024-07-02**|**Depth-Aware Endoscopic Video Inpainting**|Francis Xiatian Zhang et.al.|[2407.02675v1](http://arxiv.org/abs/2407.02675v1)|**[link](https://github.com/FrancisXZhang/DAEVI)**|
 |**2024-06-29**|**SVG: 3D Stereoscopic Video Generation via Denoising Frame Matrix**|Peng Dai et.al.|[2407.00367v1](http://arxiv.org/abs/2407.00367v1)|null|
