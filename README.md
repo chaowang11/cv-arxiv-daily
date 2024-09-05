@@ -23,6 +23,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851v1](http://arxiv.org/abs/2409.02851v1)|null|
+|**2024-09-04**|**Solving Video Inverse Problems Using Image Diffusion Models**|Taesung Kwon et.al.|[2409.02574v1](http://arxiv.org/abs/2409.02574v1)|null|
+|**2024-09-02**|**EarthGen: Generating the World from Top-Down Views**|Ansh Sharma et.al.|[2409.01491v1](http://arxiv.org/abs/2409.01491v1)|**[link](https://github.com/anshgs/earthgen)**|
+|**2024-09-02**|**DiffEyeSyn: Diffusion-based User-specific Eye Movement Synthesis**|Chuhan Jiao et.al.|[2409.01240v1](http://arxiv.org/abs/2409.01240v1)|null|
+|**2024-09-02**|**Single-photon super-resolved spectroscopy from spatial-mode demultiplexing**|Luigi Santamaria Amato et.al.|[2409.01190v1](http://arxiv.org/abs/2409.01190v1)|null|
+|**2024-09-02**|**SeCo-INR: Semantically Conditioned Implicit Neural Representations for Improved Medical Image Super-Resolution**|Mevan Ekanayake et.al.|[2409.01013v1](http://arxiv.org/abs/2409.01013v1)|null|
+|**2024-09-01**|**DMRA: An Adaptive Line Spectrum Estimation Method through Dynamical Multi-Resolution of Atoms**|Mingguang Han et.al.|[2409.00799v1](http://arxiv.org/abs/2409.00799v1)|null|
+|**2024-09-01**|**Rethinking Image Super-Resolution from Training Data Perspectives**|Go Ohtani et.al.|[2409.00768v1](http://arxiv.org/abs/2409.00768v1)|null|
+|**2024-09-01**|**Attention-Guided Multi-scale Interaction Network for Face Super-Resolution**|Xujie Wan et.al.|[2409.00591v1](http://arxiv.org/abs/2409.00591v1)|null|
 |**2024-08-30**|**HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution**|Masoomeh Aslahishahri et.al.|[2408.16959v1](http://arxiv.org/abs/2408.16959v1)|**[link](https://github.com/bia006/hitsr)**|
 |**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866v1](http://arxiv.org/abs/2408.16866v1)|null|
 |**2024-08-30**|**Beyond MR Image Harmonization: Resolution Matters Too**|Savannah P. Hays et.al.|[2408.16562v2](http://arxiv.org/abs/2408.16562v2)|null|
@@ -1277,6 +1286,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Solving Video Inverse Problems Using Image Diffusion Models**|Taesung Kwon et.al.|[2409.02574v1](http://arxiv.org/abs/2409.02574v1)|null|
+|**2024-09-02**|**SeCo-INR: Semantically Conditioned Implicit Neural Representations for Improved Medical Image Super-Resolution**|Mevan Ekanayake et.al.|[2409.01013v1](http://arxiv.org/abs/2409.01013v1)|null|
+|**2024-09-01**|**Rethinking Image Super-Resolution from Training Data Perspectives**|Go Ohtani et.al.|[2409.00768v1](http://arxiv.org/abs/2409.00768v1)|null|
 |**2024-08-30**|**HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution**|Masoomeh Aslahishahri et.al.|[2408.16959v1](http://arxiv.org/abs/2408.16959v1)|**[link](https://github.com/bia006/hitsr)**|
 |**2024-08-22**|**3D Photon Counting CT Image Super-Resolution Using Conditional Diffusion Model**|Chuang Niu et.al.|[2408.15283v1](http://arxiv.org/abs/2408.15283v1)|null|
 |**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218v1](http://arxiv.org/abs/2408.15218v1)|null|
@@ -1912,6 +1924,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)**|Yao Mu et.al.|[2409.02920v1](http://arxiv.org/abs/2409.02920v1)|null|
+|**2024-09-04**|**Pseudospectral method for solving PDEs using Matrix Product States**|Jorge Gidi et.al.|[2409.02916v1](http://arxiv.org/abs/2409.02916v1)|null|
+|**2024-09-04**|**Bulk Spectra of Truncated Sample Covariance Matrices**|Subhroshekhar Ghosh et.al.|[2409.02911v1](http://arxiv.org/abs/2409.02911v1)|null|
+|**2024-09-04**|**SITAR: Semi-supervised Image Transformer for Action Recognition**|Owais Iqbal et.al.|[2409.02910v1](http://arxiv.org/abs/2409.02910v1)|null|
+|**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889v1](http://arxiv.org/abs/2409.02889v1)|**[link](https://github.com/freedomintelligence/longllava)**|
+|**2024-09-04**|**Blochnium-Based Josephson Junction Parametric Amplifiers: Superior Tunability and Linearity**|A. Salmanogli et.al.|[2409.02887v1](http://arxiv.org/abs/2409.02887v1)|null|
+|**2024-09-04**|**Physically constrained quantum clock-driven dynamics**|Dario Cilluffo et.al.|[2409.02857v1](http://arxiv.org/abs/2409.02857v1)|null|
+|**2024-09-04**|**Building a Scalable, Effective, and Steerable Search and Ranking Platform**|Marjan Celikik et.al.|[2409.02856v1](http://arxiv.org/abs/2409.02856v1)|null|
+|**2024-09-04**|**Sharp Fourier decay estimates for measures supported on the well-approximable numbers**|Robert Fraser et.al.|[2409.02854v1](http://arxiv.org/abs/2409.02854v1)|null|
+|**2024-09-04**|**Anomaly Detection in Offshore Open Radio Access Network Using Long Short-Term Memory Models on a Novel Artificial Intelligence-Driven Cloud-Native Data Platform**|Abdelrahim Ahmad et.al.|[2409.02849v1](http://arxiv.org/abs/2409.02849v1)|null|
+|**2024-09-04**|**MaDis-Stereo: Enhanced Stereo Matching via Distilled Masked Image Modeling**|Jihye Ahn et.al.|[2409.02846v1](http://arxiv.org/abs/2409.02846v1)|null|
+|**2024-09-04**|**Historical German Text Normalization Using Type- and Token-Based Language Modeling**|Anton Ehrmanntraut et.al.|[2409.02841v1](http://arxiv.org/abs/2409.02841v1)|null|
+|**2024-09-04**|**iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation**|Hayeon Jo et.al.|[2409.02838v1](http://arxiv.org/abs/2409.02838v1)|null|
+|**2024-09-04**|**Automatic facial axes standardization of 3D fetal ultrasound images**|Antonia Alomar et.al.|[2409.02826v1](http://arxiv.org/abs/2409.02826v1)|null|
+|**2024-09-04**|**A Non-Invertible Symmetry-Resolved Affleck-Ludwig-Cardy Formula and Entanglement Entropy from the Boundary Tube Algebra**|Yichul Choi et.al.|[2409.02806v1](http://arxiv.org/abs/2409.02806v1)|null|
+|**2024-09-04**|**Understanding the origin of early-type dwarfs: The spectrophotometric study of CGCG014-074**|N. Guevara et.al.|[2409.02768v1](http://arxiv.org/abs/2409.02768v1)|null|
+|**2024-09-04**|**Efficient Image_Compression Using Advanced State Space Models**|Bouzid Arezki et.al.|[2409.02743v1](http://arxiv.org/abs/2409.02743v1)|null|
+|**2024-09-04**|**Characterization of Circular-arc Graphs: III. Chordal Graphs**|Yixin Cao et.al.|[2409.02733v1](http://arxiv.org/abs/2409.02733v1)|null|
+|**2024-09-04**|**Pooling And Attention: What Are Effective Designs For LLm-Based Embedding Models?**|Yixuan Tang et.al.|[2409.02727v1](http://arxiv.org/abs/2409.02727v1)|**[link](https://github.com/yixuantt/poolingandattn)**|
+|**2024-09-04**|**Incorporating Like-Minded Peers to Overcome Friend Data Sparsity in Session-Based Social Recommendations**|Chunyan An et.al.|[2409.02702v1](http://arxiv.org/abs/2409.02702v1)|null|
+|**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697v1](http://arxiv.org/abs/2409.02697v1)|null|
+|**2024-09-04**|**The Role of Artificial Intelligence and Machine Learning in Software Testing**|Ahmed Ramadan et.al.|[2409.02693v1](http://arxiv.org/abs/2409.02693v1)|null|
+|**2024-09-04**|**LLM-Assisted Visual Analytics: Opportunities and Challenges**|Maeve Hutchinson et.al.|[2409.02691v1](http://arxiv.org/abs/2409.02691v1)|null|
+|**2024-09-04**|**Causality-Aware Transformer Networks for Robotic Navigation**|Ruoyu Wang et.al.|[2409.02669v1](http://arxiv.org/abs/2409.02669v1)|null|
+|**2024-09-04**|**Classification of exceptional Jacobi polynomials**|Maria Angeles Garcia-Ferrero et.al.|[2409.02656v1](http://arxiv.org/abs/2409.02656v1)|null|
+|**2024-09-04**|**Mamba as a motion encoder for robotic imitation learning**|Toshiaki Tsuji et.al.|[2409.02636v1](http://arxiv.org/abs/2409.02636v1)|null|
+|**2024-09-04**|**Accurate calibration spectra for precision radial velocities -- Iodine absorption referenced by a laser frequency comb**|Ansgar Reiners et.al.|[2409.02631v1](http://arxiv.org/abs/2409.02631v1)|null|
+|**2024-09-04**|**(Implicit) Ensembles of Ensembles: Epistemic Uncertainty Collapse in Large Models**|Andreas Kirsch et.al.|[2409.02628v1](http://arxiv.org/abs/2409.02628v1)|null|
+|**2024-09-04**|**Weak-field FMR and magnetization near the collinear to conical ferrimagnetic phase transition in the U-type hexaferrite Sr4CoZnFe36O60 ceramics**|Martin Kempa et.al.|[2409.02625v1](http://arxiv.org/abs/2409.02625v1)|null|
+|**2024-09-04**|**GoT-CQA: Graph-of-Thought Guided Compositional Reasoning for Chart Question Answering**|Lingling Zhang et.al.|[2409.02611v1](http://arxiv.org/abs/2409.02611v1)|null|
+|**2024-09-04**|**UniTT-Stereo: Unified Training of Transformer for Enhanced Stereo Matching**|Soomin Kim et.al.|[2409.02545v1](http://arxiv.org/abs/2409.02545v1)|null|
+|**2024-09-04**|**The exact lower bound of CNOT-complexity for fault-tolerant quantum Fourier transform**|Qiqing Xia et.al.|[2409.02506v1](http://arxiv.org/abs/2409.02506v1)|null|
+|**2024-09-04**|**Category-theoretic formulation of relational materialism**|Bekir Baytaş et.al.|[2409.02487v1](http://arxiv.org/abs/2409.02487v1)|null|
+|**2024-09-04**|**A Comparative Study on Large Language Models for Log Parsing**|Merve Astekin et.al.|[2409.02474v1](http://arxiv.org/abs/2409.02474v1)|null|
+|**2024-09-04**|**Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis**|Aishwarya Agarwal et.al.|[2409.02429v1](http://arxiv.org/abs/2409.02429v1)|null|
+|**2024-09-04**|**MusicMamba: A Dual-Feature Modeling Approach for Generating Chinese Traditional Music with Modal Precision**|Jiatao Chen et.al.|[2409.02421v1](http://arxiv.org/abs/2409.02421v1)|null|
+|**2024-09-04**|**Joint probability density of a passive article with force and magnetic field**|Jae-Won Jung et.al.|[2409.02401v1](http://arxiv.org/abs/2409.02401v1)|null|
+|**2024-09-04**|**STAB: Speech Tokenizer Assessment Benchmark**|Shikhar Vashishth et.al.|[2409.02384v1](http://arxiv.org/abs/2409.02384v1)|null|
+|**2024-09-04**|**Coral Model Generation from Single Images for Virtual Reality Applications**|Jie Fu et.al.|[2409.02376v1](http://arxiv.org/abs/2409.02376v1)|null|
+|**2024-09-04**|**Machine Learning Applications to Computational Plasma Physics and Reduced-Order Plasma Modeling: A Perspective**|Farbod Faraji et.al.|[2409.02349v1](http://arxiv.org/abs/2409.02349v1)|null|
+|**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343v1](http://arxiv.org/abs/2409.02343v1)|null|
+|**2024-09-03**|**TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model**|Defu Cao et.al.|[2409.02322v1](http://arxiv.org/abs/2409.02322v1)|null|
+|**2024-09-03**|**Distribution Regression Difference-In-Differences**|Iván Fernández-Val et.al.|[2409.02311v1](http://arxiv.org/abs/2409.02311v1)|null|
+|**2024-09-03**|**Accelerating Fortran Codes: A Method for Integrating Coarray Fortran with CUDA Fortran and OpenMP**|James McKevitt et.al.|[2409.02294v1](http://arxiv.org/abs/2409.02294v1)|null|
+|**2024-09-03**|**Generalized implementation of invariant coordinate selection with positive semi-definite scatter matrices**|Aurore Archimbaud et.al.|[2409.02258v1](http://arxiv.org/abs/2409.02258v1)|null|
+|**2024-09-03**|**Unforgettable Generalization in Language Models**|Eric Zhang et.al.|[2409.02228v1](http://arxiv.org/abs/2409.02228v1)|null|
+|**2024-09-03**|**Spectroscopic confirmation of the galaxy clusters CARLA J0950+2743 at z=2.363, and CARLA-Ser J0950+2743 at z=2.243**|Kirill A. Grishin et.al.|[2409.02168v1](http://arxiv.org/abs/2409.02168v1)|null|
+|**2024-09-03**|**Boundary SymTFT**|Lakshya Bhardwaj et.al.|[2409.02166v1](http://arxiv.org/abs/2409.02166v1)|null|
+|**2024-09-03**|**First- and second-order quantum phase transitions in the long-range unfrustrated antiferromagnetic Ising chain**|Víctor Herráiz-López et.al.|[2409.02165v1](http://arxiv.org/abs/2409.02165v1)|null|
+|**2024-09-03**|**Generalized Tube Algebras, Symmetry-Resolved Partition Functions, and Twisted Boundary States**|Yichul Choi et.al.|[2409.02159v1](http://arxiv.org/abs/2409.02159v1)|null|
 |**2024-08-30**|**CLOCR-C: Context Leveraging OCR Correction with Pre-trained Language Models**|Jonathan Bourne et.al.|[2408.17428v1](http://arxiv.org/abs/2408.17428v1)|null|
 |**2024-08-30**|**Magnetogenesis from axion-SU(2) inflation**|Axel Brandenburg et.al.|[2408.17413v1](http://arxiv.org/abs/2408.17413v1)|null|
 |**2024-08-30**|**Technostress and Resistance to Change in Maritime Digital Transformation: A Focused Review**|Benedicte Frederikke Rex Fleron et.al.|[2408.17408v1](http://arxiv.org/abs/2408.17408v1)|null|
