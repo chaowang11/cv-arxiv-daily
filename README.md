@@ -1950,7 +1950,7 @@
 |**2024-09-06**|**Enhancing Sequential Music Recommendation with Personalized Popularity Awareness**|Davide Abbattista et.al.|[2409.04329v1](http://arxiv.org/abs/2409.04329v1)|**[link](https://github.com/sisinflab/personalized-popularity-awareness)**|
 |**2024-09-06**|**Pressure induced quasi-long-range  $\sqrt{3} \times \sqrt{3}$  charge density wave and competing orders in the kagome metal FeGe**|A. Korshunov et.al.|[2409.04325v1](http://arxiv.org/abs/2409.04325v1)|null|
 |**2024-09-06**|**Equivariant Machine Learning Decoder for 3D Toric Codes**|Oliver Weissl et.al.|[2409.04300v1](http://arxiv.org/abs/2409.04300v1)|null|
-|**2024-09-06**|**AttentionX: Exploiting Consensus Discrepancy In Attention from A Distributed Optimization Perspective**|Guoqiang Zhang et.al.|[2409.04275v1](http://arxiv.org/abs/2409.04275v1)|null|
+|**2024-09-09**|**AttentionX: Exploiting Consensus Discrepancy In Attention from A Distributed Optimization Perspective**|Guoqiang Zhang et.al.|[2409.04275v2](http://arxiv.org/abs/2409.04275v2)|null|
 |**2024-09-06**|**L-Series for Vector-Valued Weakly Holomorphic Modular Forms and Converse Theorems**|Subong Lim et.al.|[2409.04258v1](http://arxiv.org/abs/2409.04258v1)|null|
 |**2024-09-06**|**Hermes: Memory-Efficient Pipeline Inference for Large Models on Edge Devices**|Xueyuan Han et.al.|[2409.04249v1](http://arxiv.org/abs/2409.04249v1)|null|
 |**2024-09-06**|**WarpAdam: A new Adam optimizer based on Meta-Learning approach**|Chengxi Pan et.al.|[2409.04244v1](http://arxiv.org/abs/2409.04244v1)|null|
@@ -1983,7 +1983,7 @@
 |**2024-09-05**|**On-board Satellite Image Classification for Earth Observation: A Comparative Study of Pre-Trained Vision Transformer Models**|Thanh-Dung Le et.al.|[2409.03901v1](http://arxiv.org/abs/2409.03901v1)|null|
 |**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890v1](http://arxiv.org/abs/2409.03890v1)|**[link](https://github.com/mallikagarg/mvtn)**|
 |**2024-09-05**|**Ground-roll Separation From Land Seismic Records Based on Convolutional Neural Network**|Zhuang Jia et.al.|[2409.03878v1](http://arxiv.org/abs/2409.03878v1)|null|
-|**2024-09-05**|**The MLIR Transform Dialect. Your compiler is more powerful than you think**|Martin Lücke et.al.|[2409.03864v1](http://arxiv.org/abs/2409.03864v1)|null|
+|**2024-09-09**|**The MLIR Transform Dialect. Your compiler is more powerful than you think**|Martin Paul Lücke et.al.|[2409.03864v2](http://arxiv.org/abs/2409.03864v2)|null|
 |**2024-09-05**|**Training microwave pulses using quantum machine learning**|Jaden Nola et.al.|[2409.03861v1](http://arxiv.org/abs/2409.03861v1)|null|
 |**2024-09-05**|**Halving the Cost of Quantum Algorithms with Randomization**|John M. Martyn et.al.|[2409.03744v1](http://arxiv.org/abs/2409.03744v1)|null|
 |**2024-09-05**|**Libra: Architectural Support For Principled, Secure And Efficient Balanced Execution On High-End Processors (Extended Version)**|Hans Winderix et.al.|[2409.03743v1](http://arxiv.org/abs/2409.03743v1)|null|
