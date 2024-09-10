@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-07**|**Single-snapshot machine learning for turbulence super resolution**|Kai Fukami et.al.|[2409.04923v1](http://arxiv.org/abs/2409.04923v1)|null|
 |**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384v1](http://arxiv.org/abs/2409.04384v1)|null|
 |**2024-09-06**|**Adaptive Super-Resolution Imaging Without Prior Knowledge Using a Programmable Spatial-Mode Sorter**|Itay Ozer et.al.|[2409.04323v1](http://arxiv.org/abs/2409.04323v1)|null|
 |**2024-09-06**|**EigenSR: Eigenimage-Bridged Pre-Trained RGB Learners for Single Hyperspectral Image Super-Resolution**|Xi Su et.al.|[2409.04050v1](http://arxiv.org/abs/2409.04050v1)|null|
@@ -1935,6 +1936,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Quantum Wasserstein Compilation: Unitary Compilation using the Quantum Earth Mover's Distance**|Marvin Richter et.al.|[2409.05849v1](http://arxiv.org/abs/2409.05849v1)|null|
+|**2024-09-09**|**GASP: Gaussian Splatting for Physic-Based Simulations**|Piotr Borycki et.al.|[2409.05819v1](http://arxiv.org/abs/2409.05819v1)|null|
+|**2024-09-09**|**The Future of Software Testing: AI-Powered Test Case Generation and Validation**|Mohammad Baqar et.al.|[2409.05808v1](http://arxiv.org/abs/2409.05808v1)|null|
+|**2024-09-09**|**A Novel Finite Fractional Fourier Transform and its Quantum Circuit Implementation on Qudits**|Emmanuel Floratos et.al.|[2409.05759v1](http://arxiv.org/abs/2409.05759v1)|null|
+|**2024-09-09**|**ReL-SAR: Representation Learning for Skeleton Action Recognition with Convolutional Transformers and BYOL**|Safwen Naimi et.al.|[2409.05749v1](http://arxiv.org/abs/2409.05749v1)|null|
+|**2024-09-09**|**Structured Random Model for Fast and Robust Phase Retrieval**|Zhiyuan Hu et.al.|[2409.05734v1](http://arxiv.org/abs/2409.05734v1)|null|
+|**2024-09-09**|**Application of Physics-Informed Neural Networks in Removing Telescope Beam Effects**|Shulei Ni et.al.|[2409.05718v1](http://arxiv.org/abs/2409.05718v1)|null|
+|**2024-09-09**|**Uniform Estimation and Inference for Nonparametric Partitioning-Based M-Estimators**|Matias D. Cattaneo et.al.|[2409.05715v1](http://arxiv.org/abs/2409.05715v1)|null|
+|**2024-09-09**|**pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning**|Jiahao Lai et.al.|[2409.05701v1](http://arxiv.org/abs/2409.05701v1)|null|
+|**2024-09-09**|**Boosting CNN-based Handwriting Recognition Systems with Learnable Relaxation Labeling**|Sara Ferro et.al.|[2409.05699v1](http://arxiv.org/abs/2409.05699v1)|null|
+|**2024-09-09**|**Data-driven control of input-affine systems: the role of the signature transform**|Anna Scampicchio et.al.|[2409.05685v1](http://arxiv.org/abs/2409.05685v1)|null|
+|**2024-09-09**|**Constraints, Conserved Charges and Extended BRST Algebra for a 3D Field-Theoretic Example for Hodge Theory**|Bhagya. R et.al.|[2409.05684v1](http://arxiv.org/abs/2409.05684v1)|null|
+|**2024-09-09**|**Zero-shot Outlier Detection via Prior-data Fitted Networks: Model Selection Bygone!**|Yuchen Shen et.al.|[2409.05672v1](http://arxiv.org/abs/2409.05672v1)|null|
+|**2024-09-09**|**Brunn-Minkowski type estimates for certain discrete sumsets**|Albert Lopez Bruch et.al.|[2409.05638v1](http://arxiv.org/abs/2409.05638v1)|null|
+|**2024-09-09**|**DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision Driver Distraction Identification**|Junzhou Chen et.al.|[2409.05587v1](http://arxiv.org/abs/2409.05587v1)|null|
+|**2024-09-09**|**Learning to Model Graph Structural Information on MLPs via Graph Structure Self-Contrasting**|Lirong Wu et.al.|[2409.05573v1](http://arxiv.org/abs/2409.05573v1)|null|
+|**2024-09-09**|**CauseJudger: Identifying the Cause with LLMs for Abductive Logical Reasoning**|Jinwei He et.al.|[2409.05559v1](http://arxiv.org/abs/2409.05559v1)|null|
+|**2024-09-09**|**Seeing Through the Mask: Rethinking Adversarial Examples for CAPTCHAs**|Yahya Jabary et.al.|[2409.05558v1](http://arxiv.org/abs/2409.05558v1)|null|
+|**2024-09-09**|**On a Santaló point for Nakamura-Tsuji's Laplace transform inequality**|Dario Cordero-Erausquin et.al.|[2409.05541v1](http://arxiv.org/abs/2409.05541v1)|null|
+|**2024-09-09**|**Exploring Rich Subjective Quality Information for Image Quality Assessment in the Wild**|Xiongkuo Min et.al.|[2409.05540v1](http://arxiv.org/abs/2409.05540v1)|null|
+|**2024-09-09**|**A divergence-free projection method for quasiperiodic photonic crystals in three dimensions**|Zixuan Gao et.al.|[2409.05528v1](http://arxiv.org/abs/2409.05528v1)|null|
+|**2024-09-09**|**A general reduced-order neural operator for spatio-temporal predictive learning on complex spatial domains**|Qinglu Meng et.al.|[2409.05508v1](http://arxiv.org/abs/2409.05508v1)|**[link](https://github.com/qinglum/ro-norm)**|
+|**2024-09-09**|**Trace Anomaly in Metric-Affine gravity**|Sebastian Bahamonde et.al.|[2409.05499v1](http://arxiv.org/abs/2409.05499v1)|null|
+|**2024-09-09**|**Elsevier Arena: Human Evaluation of Chemistry/Biology/Health Foundational Large Language Models**|Camilo Thorne et.al.|[2409.05486v1](http://arxiv.org/abs/2409.05486v1)|null|
+|**2024-09-09**|**Retrofitting Temporal Graph Neural Networks with Transformer**|Qiang Huang et.al.|[2409.05477v1](http://arxiv.org/abs/2409.05477v1)|**[link](https://github.com/qianghuangwhu/tf-tgn)**|
+|**2024-09-09**|**Integral transform technique for determining stress intensity factor in wave propagation through functionally graded piezoelectric-viscoelastic structure**|Diksha et.al.|[2409.05472v1](http://arxiv.org/abs/2409.05472v1)|null|
+|**2024-09-09**|**DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation**|Wei Wu et.al.|[2409.05463v1](http://arxiv.org/abs/2409.05463v1)|null|
+|**2024-09-09**|**Convergence in divergent series related to perturbation methods using continued exponential and Shanks transformations**|Venkat Abhignan et.al.|[2409.05438v1](http://arxiv.org/abs/2409.05438v1)|null|
+|**2024-09-09**|**A Comprehensive Framework for Estimating Aircraft Fuel Consumption Based on Flight Trajectories**|Linfeng Zhang et.al.|[2409.05429v1](http://arxiv.org/abs/2409.05429v1)|null|
+|**2024-09-09**|**TextToucher: Fine-Grained Text-to-Touch Generation**|Jiahang Tu et.al.|[2409.05427v1](http://arxiv.org/abs/2409.05427v1)|null|
+|**2024-09-09**|**Distribution Discrepancy and Feature Heterogeneity for Active 3D Object Detection**|Huang-Yu Chen et.al.|[2409.05425v1](http://arxiv.org/abs/2409.05425v1)|null|
+|**2024-09-09**|**Harmonic analysis of non-stationary signals with application to LHC beam measurements**|G. Russo et.al.|[2409.05406v1](http://arxiv.org/abs/2409.05406v1)|null|
+|**2024-09-09**|**A Survey of Multimodal Composite Editing and Retrieval**|Suyan Li et.al.|[2409.05405v1](http://arxiv.org/abs/2409.05405v1)|null|
+|**2024-09-09**|**Sequential Posterior Sampling with Diffusion Models**|Tristan S. W. Stevens et.al.|[2409.05399v1](http://arxiv.org/abs/2409.05399v1)|null|
+|**2024-09-09**|**Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**|Georgios Pantazopoulos et.al.|[2409.05395v1](http://arxiv.org/abs/2409.05395v1)|null|
+|**2024-09-09**|**Decoupling Contact for Fine-Grained Motion Style Transfer**|Xiangjun Tang et.al.|[2409.05387v1](http://arxiv.org/abs/2409.05387v1)|null|
+|**2024-09-09**|**CAS-Canglong: A skillful 3D Transformer model for sub-seasonal to seasonal global sea surface temperature prediction**|Longhao Wang et.al.|[2409.05369v1](http://arxiv.org/abs/2409.05369v1)|null|
+|**2024-09-09**|**GOPT: Generalizable Online 3D Bin Packing via Transformer-based Deep Reinforcement Learning**|Heng Xiong et.al.|[2409.05344v1](http://arxiv.org/abs/2409.05344v1)|null|
+|**2024-09-09**|**Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems**|Jianheng Liu et.al.|[2409.05310v1](http://arxiv.org/abs/2409.05310v1)|null|
+|**2024-09-09**|**Resource-Efficient Generative AI Model Deployment in Mobile Edge Networks**|Yuxin Liang et.al.|[2409.05303v1](http://arxiv.org/abs/2409.05303v1)|null|
+|**2024-09-09**|**A Unified Analysis of Saddle Flow Dynamics: Stability and Algorithm Design**|Pengcheng You et.al.|[2409.05290v1](http://arxiv.org/abs/2409.05290v1)|null|
+|**2024-09-09**|**RotCAtt-TransUNet++: Novel Deep Neural Network for Sophisticated Cardiac Segmentation**|Quoc-Bao Nguyen-Le et.al.|[2409.05280v1](http://arxiv.org/abs/2409.05280v1)|**[link](https://github.com/kyle-paul/RotCAtt-TransUNet-plusplus)**|
+|**2024-09-08**|**FedFT: Improving Communication Performance for Federated Learning with Frequency Space Transformation**|Chamath Palihawadana et.al.|[2409.05242v1](http://arxiv.org/abs/2409.05242v1)|null|
+|**2024-09-08**|**Infinite-Length Limit of Spectral Curves and Inverse Scattering**|Niklas Beisert et.al.|[2409.05228v1](http://arxiv.org/abs/2409.05228v1)|null|
+|**2024-09-08**|**Boolean, Free, and Classical Cumulants as Tree Enumerations**|Colin Defant et.al.|[2409.05219v1](http://arxiv.org/abs/2409.05219v1)|null|
+|**2024-09-08**|**Low Latency Transformer Inference on FPGAs for Physics Applications with hls4ml**|Zhixing Jiang et.al.|[2409.05207v1](http://arxiv.org/abs/2409.05207v1)|null|
+|**2024-09-08**|**Lung-DETR: Deformable Detection Transformer for Sparse Lung Nodule Anomaly Detection**|Hooman Ramezani et.al.|[2409.05200v1](http://arxiv.org/abs/2409.05200v1)|null|
+|**2024-09-08**|**Using Generative Artificial Intelligence Creatively in the Classroom: Examples and Lessons Learned**|Maria J. Molina et.al.|[2409.05176v1](http://arxiv.org/abs/2409.05176v1)|null|
+|**2024-09-08**|**Ultron: Enabling Temporal Geometry Compression of 3D Mesh Sequences using Temporal Correspondence and Mesh Deformation**|Haichao Zhu et.al.|[2409.05151v1](http://arxiv.org/abs/2409.05151v1)|null|
+|**2024-09-08**|**MHS-STMA: Multimodal Hate Speech Detection via Scalable Transformer-Based Multilevel Attention Framework**|Anusha Chhabra et.al.|[2409.05136v1](http://arxiv.org/abs/2409.05136v1)|null|
 |**2024-09-06**|**Optical response of alternating twisted trilayer graphene**|Dionisios Margetis et.al.|[2409.04437v1](http://arxiv.org/abs/2409.04437v1)|null|
 |**2024-09-06**|**Accelerating Training with Neuron Interaction and Nowcasting Networks**|Boris Knyazev et.al.|[2409.04434v1](http://arxiv.org/abs/2409.04434v1)|**[link](https://github.com/samsungsailmontreal/nino)**|
 |**2024-09-06**|**Theory, Analysis, and Best Practices for Sigmoid Self-Attention**|Jason Ramapuram et.al.|[2409.04431v1](http://arxiv.org/abs/2409.04431v1)|null|
