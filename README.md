@@ -1964,7 +1964,7 @@
 |**2024-09-11**|**Deriving Cosmological Parameters from the Euclid mission**|Davide Sciotti et.al.|[2409.07185v1](http://arxiv.org/abs/2409.07185v1)|null|
 |**2024-09-11**|**Swin-LiteMedSAM: A Lightweight Box-Based Segment Anything Model for Large-Scale Medical Image Datasets**|Ruochen Gao et.al.|[2409.07172v1](http://arxiv.org/abs/2409.07172v1)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171v1](http://arxiv.org/abs/2409.07171v1)|null|
-|**2024-09-11**|**Gated Slot Attention for Efficient Linear-Time Sequence Modeling**|Yu Zhang et.al.|[2409.07146v1](http://arxiv.org/abs/2409.07146v1)|null|
+|**2024-09-11**|**Gated Slot Attention for Efficient Linear-Time Sequence Modeling**|Yu Zhang et.al.|[2409.07146v1](http://arxiv.org/abs/2409.07146v1)|**[link](https://github.com/sustcsonglin/flash-linear-attention)**|
 |**2024-09-11**|**The radiation condition for Helmholtz equations above locally perturbed periodic surfaces**|Ruming Zhang et.al.|[2409.07141v1](http://arxiv.org/abs/2409.07141v1)|null|
 |**2024-09-11**|**Leveraging Unstructured Text Data for Federated Instruction Tuning of Large Language Models**|Rui Ye et.al.|[2409.07136v1](http://arxiv.org/abs/2409.07136v1)|null|
 |**2024-09-11**|**Attention Down-Sampling Transformer, Relative Ranking and Self-Consistency for Blind Image Quality Assessment**|Mohammed Alsaafin et.al.|[2409.07115v1](http://arxiv.org/abs/2409.07115v1)|**[link](https://github.com/mas94/adtrs)**|
