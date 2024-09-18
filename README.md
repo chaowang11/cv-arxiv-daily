@@ -23,6 +23,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Online 4D Ultrasound-Guided Robotic Tracking Enables 3D Ultrasound Localisation Microscopy with Large Tissue Displacements**|Jipeng Yan et.al.|[2409.11391v1](http://arxiv.org/abs/2409.11391v1)|null|
+|**2024-09-17**|**Single-Layer Learnable Activation for Implicit Neural Representation (SL $^{2}$ A-INR)**|Moein Heidari et.al.|[2409.10836v1](http://arxiv.org/abs/2409.10836v1)|null|
+|**2024-09-16**|**WaveMixSR-V2: Enhancing Super-resolution with Higher Efficiency**|Pranav Jeevan et.al.|[2409.10582v1](http://arxiv.org/abs/2409.10582v1)|**[link](https://github.com/pranavphoenix/WaveMixSR)**|
 |**2024-09-16**|**Adaptive Segmentation-Based Initialization for Steered Mixture of Experts Image Regression**|Yi-Hsin Li et.al.|[2409.10101v1](http://arxiv.org/abs/2409.10101v1)|null|
 |**2024-09-15**|**Learning Two-factor Representation for Magnetic Resonance Image Super-resolution**|Weifeng Wei et.al.|[2409.09731v1](http://arxiv.org/abs/2409.09731v1)|null|
 |**2024-09-14**|**Adversarial Deep-Unfolding Network for MA-XRF Super-Resolution on Old Master Paintings Using Minimal Training Data**|Herman Verinaz-Jadan et.al.|[2409.09483v1](http://arxiv.org/abs/2409.09483v1)|null|
@@ -1314,6 +1317,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Single-Layer Learnable Activation for Implicit Neural Representation (SL $^{2}$ A-INR)**|Moein Heidari et.al.|[2409.10836v1](http://arxiv.org/abs/2409.10836v1)|null|
+|**2024-09-16**|**WaveMixSR-V2: Enhancing Super-resolution with Higher Efficiency**|Pranav Jeevan et.al.|[2409.10582v1](http://arxiv.org/abs/2409.10582v1)|**[link](https://github.com/pranavphoenix/WaveMixSR)**|
 |**2024-09-15**|**Learning Two-factor Representation for Magnetic Resonance Image Super-resolution**|Weifeng Wei et.al.|[2409.09731v1](http://arxiv.org/abs/2409.09731v1)|null|
 |**2024-09-13**|**Test-time Training for Hyperspectral Image Super-resolution**|Ke Li et.al.|[2409.08667v1](http://arxiv.org/abs/2409.08667v1)|null|
 |**2024-08-24**|**HSR-KAN: Efficient Hyperspectral Image Super-Resolution via Kolmogorov-Arnold Networks**|Baisong Li et.al.|[2409.06705v1](http://arxiv.org/abs/2409.06705v1)|null|
@@ -1959,6 +1964,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Teaching dark matter simulations to speak the halo language**|Shivam Pandey et.al.|[2409.11401v1](http://arxiv.org/abs/2409.11401v1)|null|
+|**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340v1](http://arxiv.org/abs/2409.11340v1)|**[link](https://github.com/vectorspacelab/omnigen)**|
+|**2024-09-17**|**TopoMaskV2: Enhanced Instance-Mask-Based Formulation for the Road Topology Problem**|M. Esat Kalfaoglu et.al.|[2409.11325v1](http://arxiv.org/abs/2409.11325v1)|null|
+|**2024-09-17**|**LPT++: Efficient Training on Mixture of Long-tailed Experts**|Bowen Dong et.al.|[2409.11323v1](http://arxiv.org/abs/2409.11323v1)|null|
+|**2024-09-17**|**Principal binets**|Niklas Christoph Affolter et.al.|[2409.11322v1](http://arxiv.org/abs/2409.11322v1)|null|
+|**2024-09-17**|**A short trajectory is all you need: A transformer-based model for long-time dissipative quantum dynamics**|Luis E. Herrera Rodríguez et.al.|[2409.11320v1](http://arxiv.org/abs/2409.11320v1)|null|
+|**2024-09-17**|**MSDNet: Multi-Scale Decoder for Few-Shot Semantic Segmentation via Transformer-Guided Prototyping**|Amirreza Fateh et.al.|[2409.11316v1](http://arxiv.org/abs/2409.11316v1)|**[link](https://github.com/amirrezafateh/msdnet)**|
+|**2024-09-17**|**fMRI-3D: A Comprehensive Dataset for Enhancing fMRI-based 3D Reconstruction**|Jianxiong Gao et.al.|[2409.11315v1](http://arxiv.org/abs/2409.11315v1)|null|
+|**2024-09-17**|**Killing (super)algebras associated to connections on spinors**|Andrew D. K. Beckett et.al.|[2409.11306v1](http://arxiv.org/abs/2409.11306v1)|null|
+|**2024-09-17**|**TTT-Unet: Enhancing U-Net with Test-Time Training Layers for biomedical image segmentation**|Rong Zhou et.al.|[2409.11299v1](http://arxiv.org/abs/2409.11299v1)|null|
+|**2024-09-17**|**LOLA -- An Open-Source Massively Multilingual Large Language Model**|Nikit Srivastava et.al.|[2409.11272v1](http://arxiv.org/abs/2409.11272v1)|null|
+|**2024-09-17**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261v1](http://arxiv.org/abs/2409.11261v1)|null|
+|**2024-09-17**|**Norm of Mean Contextualized Embeddings Determines their Variance**|Hiroaki Yamagiwa et.al.|[2409.11253v1](http://arxiv.org/abs/2409.11253v1)|null|
+|**2024-09-17**|**Linear Recency Bias During Training Improves Transformers' Fit to Reading Times**|Christian Clark et.al.|[2409.11250v1](http://arxiv.org/abs/2409.11250v1)|null|
+|**2024-09-17**|**Birth control and turnpike property of Lotka-McKendrick models**|Marius Bargo et.al.|[2409.11247v1](http://arxiv.org/abs/2409.11247v1)|null|
+|**2024-09-17**|**Structure evolution path of ferroelectric hafnium zirconium oxide nanocrystals under in-situ biasing**|Yunzhe Zheng et.al.|[2409.11217v1](http://arxiv.org/abs/2409.11217v1)|null|
+|**2024-09-17**|**Ideal-LLM: Integrating Dual Encoders and Language-Adapted LLM for Multilingual Speech-to-Text**|Hongfei Xue et.al.|[2409.11214v1](http://arxiv.org/abs/2409.11214v1)|null|
+|**2024-09-17**|**Generalizations of the fractional Fourier transform and their analytic properties**|Yue Zhou et.al.|[2409.11201v1](http://arxiv.org/abs/2409.11201v1)|null|
+|**2024-09-17**|**LoRa Communication for Agriculture 4.0: Opportunities, Challenges, and Future Directions**|Lameya Aldhaheri et.al.|[2409.11200v1](http://arxiv.org/abs/2409.11200v1)|null|
+|**2024-09-17**|**SDP: Spiking Diffusion Policy for Robotic Manipulation with Learnable Channel-Wise Membrane Thresholds**|Zhixing Hou et.al.|[2409.11195v1](http://arxiv.org/abs/2409.11195v1)|null|
+|**2024-09-17**|**Identifying Influential nodes in Brain Networks via Self-Supervised Graph-Transformer**|Yanqing Kang et.al.|[2409.11174v1](http://arxiv.org/abs/2409.11174v1)|null|
+|**2024-09-17**|**UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**|Zichen Yu et.al.|[2409.11160v1](http://arxiv.org/abs/2409.11160v1)|null|
+|**2024-09-17**|**Semformer: Transformer Language Models with Semantic Planning**|Yongjing Yin et.al.|[2409.11143v1](http://arxiv.org/abs/2409.11143v1)|null|
+|**2024-09-17**|**Gamma/hadron discrimination through the analysis of the shower footprint at low energies**|R. Conceição et.al.|[2409.11093v1](http://arxiv.org/abs/2409.11093v1)|null|
+|**2024-09-17**|**HMF: A Hybrid Multi-Factor Framework for Dynamic Intraoperative Hypotension Prediction**|Mingyue Cheng et.al.|[2409.11064v1](http://arxiv.org/abs/2409.11064v1)|null|
+|**2024-09-17**|**Crosscap states and duality of Ising field theory in two dimensions**|Yueshui Zhang et.al.|[2409.11046v1](http://arxiv.org/abs/2409.11046v1)|null|
+|**2024-09-17**|**Prompt Obfuscation for Large Language Models**|David Pape et.al.|[2409.11026v1](http://arxiv.org/abs/2409.11026v1)|null|
+|**2024-09-17**|**D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding**|Xiaobao Song et.al.|[2409.11024v1](http://arxiv.org/abs/2409.11024v1)|null|
+|**2024-09-17**|**A quantum protocol for applying arbitrary phase transformations**|Siavash Davani et.al.|[2409.11020v1](http://arxiv.org/abs/2409.11020v1)|null|
+|**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018v1](http://arxiv.org/abs/2409.11018v1)|null|
+|**2024-09-17**|**Introducing Quantification into a Hierarchical Graph Rewriting Language**|Haruto Mishina et.al.|[2409.11015v1](http://arxiv.org/abs/2409.11015v1)|null|
+|**2024-09-17**|**Contextual Breach: Assessing the Robustness of Transformer-based QA Models**|Asir Saadat et.al.|[2409.10997v1](http://arxiv.org/abs/2409.10997v1)|null|
+|**2024-09-17**|**Relative Representations: Topological and Geometric Perspectives**|Alejandro García-Castellanos et.al.|[2409.10967v1](http://arxiv.org/abs/2409.10967v1)|**[link](https://github.com/agarciacast/toporobreltrans)**|
+|**2024-09-17**|**CUNSB-RFIE: Context-aware Unpaired Neural Schr"{o}dinger Bridge in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2409.10966v1](http://arxiv.org/abs/2409.10966v1)|null|
+|**2024-09-17**|**Cross-lingual transfer of multilingual models on low resource African Languages**|Harish Thangaraj et.al.|[2409.10965v1](http://arxiv.org/abs/2409.10965v1)|null|
+|**2024-09-17**|**Leveraging Reviewer Experience in Code Review Comment Generation**|Hong Yi Lin et.al.|[2409.10959v1](http://arxiv.org/abs/2409.10959v1)|null|
+|**2024-09-17**|**Terminating Poincare asymptotic expansion of the Hankel transform of entire exponential type functions**|Nathalie Liezel R. Rojas et.al.|[2409.10948v1](http://arxiv.org/abs/2409.10948v1)|null|
+|**2024-09-17**|**Observation of atomically displacive transformation out of the boundary-reconstructive phase competition**|Qingqi Zeng et.al.|[2409.10945v1](http://arxiv.org/abs/2409.10945v1)|null|
+|**2024-09-17**|**Contrasformer: A Brain Network Contrastive Transformer for Neurodegenerative Condition Identification**|Jiaxing Xu et.al.|[2409.10944v1](http://arxiv.org/abs/2409.10944v1)|**[link](https://github.com/angusmonroe/contrasformer)**|
+|**2024-09-17**|**Observation of hydrostatic-pressure-modulated giant caloric effect and electronic topological transition**|Jinying Yang et.al.|[2409.10936v1](http://arxiv.org/abs/2409.10936v1)|null|
+|**2024-09-17**|**SkinMamba: A Precision Skin Lesion Segmentation Architecture with Cross-Scale Global State Modeling and Frequency Boundary Guidance**|Shun Zou et.al.|[2409.10890v1](http://arxiv.org/abs/2409.10890v1)|**[link](https://github.com/zs1314/skinmamba)**|
+|**2024-09-17**|**American Sign Language to Text Translation using Transformer and Seq2Seq with LSTM**|Gregorius Guntur Sunardi Putra et.al.|[2409.10874v1](http://arxiv.org/abs/2409.10874v1)|null|
+|**2024-09-17**|**Adaptive Large Language Models By Layerwise Attention Shortcuts**|Prateek Verma et.al.|[2409.10870v1](http://arxiv.org/abs/2409.10870v1)|null|
+|**2024-09-17**|**Calibrated Multivariate Regression with Localized PIT Mappings**|Lucas Kock et.al.|[2409.10855v1](http://arxiv.org/abs/2409.10855v1)|null|
+|**2024-09-17**|**3DFacePolicy: Speech-Driven 3D Facial Animation with Diffusion Policy**|Xuanmeng Sha et.al.|[2409.10848v1](http://arxiv.org/abs/2409.10848v1)|null|
+|**2024-09-17**|**An Observer-Based View of Euclidean Geometry**|Newshaw Bahreyni et.al.|[2409.10843v1](http://arxiv.org/abs/2409.10843v1)|null|
+|**2024-09-17**|**Implicit Reasoning in Deep Time Series Forecasting**|Willa Potosnak et.al.|[2409.10840v1](http://arxiv.org/abs/2409.10840v1)|null|
+|**2024-09-17**|**Single-Layer Learnable Activation for Implicit Neural Representation (SL $^{2}$ A-INR)**|Moein Heidari et.al.|[2409.10836v1](http://arxiv.org/abs/2409.10836v1)|null|
+|**2024-09-17**|**EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer**|Jiarui Hai et.al.|[2409.10819v1](http://arxiv.org/abs/2409.10819v1)|null|
+|**2024-09-17**|**Context-Dependent Interactable Graphical User Interface Element Detection for VR Applications**|Shuqing Li et.al.|[2409.10811v1](http://arxiv.org/abs/2409.10811v1)|null|
 |**2024-09-16**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516v1](http://arxiv.org/abs/2409.10516v1)|null|
 |**2024-09-16**|**Causal Language Modeling Can Elicit Search and Reasoning Capabilities on Logic Puzzles**|Kulin Shah et.al.|[2409.10502v1](http://arxiv.org/abs/2409.10502v1)|null|
 |**2024-09-17**|**Flash STU: Fast Spectral Transform Units**|Y. Isabel Liu et.al.|[2409.10489v2](http://arxiv.org/abs/2409.10489v2)|null|
